@@ -7,9 +7,16 @@ Sheet. It mirrors the task->ability annotation tool, but asks a single neutral
 question per task: *how much can an autonomous AI agent complete on its own?*
 
 **Files in this folder:**
-- `Code.gs` — the backend (serves the form, writes answers to the Sheet)
-- `Index.html` — the form UI, with the pilot tasks embedded (generated)
-- `generate_index.py` — regenerates `Index.html` (pilot set, a custom set, or all 18,796)
+- `Code.gs` — the backend (serves the forms, writes answers to the Sheet, JSON export)
+- `Index.html` — one-task-at-a-time form, tasks embedded (generated)
+- `IndexGrouped.html` — fast grouped-by-occupation form, batch-saved (generated)
+- `generate_index.py` — regenerates the forms (pilot set, a custom set, or all 18,796)
+
+**Two interfaces, one Sheet.** Both forms are blind (raters never see the penalty
+categories) and both write to the same `Responses` tab:
+- Default `/exec` serves `Index.html` — one task per screen, careful pace.
+- `/exec?view=grouped` serves `IndexGrouped.html` — every task for an occupation on
+  one page with a compact slider each, saved a group at a time. Faster for bulk runs.
 
 ---
 
@@ -25,7 +32,9 @@ question per task: *how much can an autonomous AI agent complete on its own?*
    contents of **`Code.gs`** from this folder.
 2. Click **＋** next to "Files" → **HTML** → name it exactly `Index`. Delete its
    default contents and paste the entire contents of **`Index.html`**.
-3. **Save** (Ctrl/Cmd-S).
+3. Repeat: **＋** → **HTML** → name it exactly `IndexGrouped` → paste **`IndexGrouped.html`**.
+   (Skip this file only if you don't want the grouped view.)
+4. **Save** (Ctrl/Cmd-S).
 
 ### 3. Deploy as a Web App
 1. **Deploy → New deployment**.
@@ -49,24 +58,29 @@ Hand different people different task ranges with `?start=` and `?end=`:
 | Colleague B | `…/exec?start=51&end=75` |
 | Colleague C | `…/exec?start=76&end=100` |
 
-No params = the whole set. Overlaps are welcome: two people rating the same task
-is exactly what lets us measure inter-rater agreement (Cohen's κ / ICC), just as
-we did for the task→ability dataset.
+No params = the whole set. Add `&view=grouped` to any link to hand out the fast
+grouped form instead (e.g. `…/exec?start=26&end=50&view=grouped`). Overlaps are
+welcome: two people rating the same task is exactly what lets us measure
+inter-rater agreement (Cohen's κ / ICC), just as we did for the task→ability dataset.
 
 ---
 
 ## Regenerating the task list
 
 ```bash
-# pilot set (100 tasks, default)
+# pilot set (100 tasks, default) -> Index.html only
 python3 generate_index.py
 
+# also emit the grouped form
+python3 generate_index.py --grouped
+
 # every penalty-relevant task + controls, or the full corpus
-python3 generate_index.py --full            # all 18,796 tasks
-python3 generate_index.py --tasks mine.csv  # any CSV: task_id,occupation,task_text
+python3 generate_index.py --full --grouped              # all 18,796 tasks, both forms
+python3 generate_index.py --tasks mine.csv --grouped    # any CSV: task_id,occupation,task_text
+python3 generate_index.py --only grouped --tasks x.csv  # only the grouped form
 ```
 
-After editing `Index.html`, redeploy: **Deploy → Manage deployments → ✏️ Edit →
+After editing a form, redeploy: **Deploy → Manage deployments → ✏️ Edit →
 Version: New version → Deploy**. The `/exec` URL stays the same.
 
 ---
@@ -84,6 +98,10 @@ task_id · occupation · task_text · coverage · confidence · comment
 `results/` as `human_ratings.csv`, and re-run
 `python3 code/estimate_weights.py` (point it at the human file) to get the
 human-validated weights + CIs and the agreement statistic.
+
+**Or pull it without the Sheet UI:** open `…/exec?export=json` for a read-only
+JSON dump of every response (`{ ok, count, headers, rows }`) — handy for scripting
+`curl …/exec?export=json` straight into the analysis.
 
 ---
 

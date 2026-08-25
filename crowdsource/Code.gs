@@ -12,12 +12,24 @@
  *
  * SETUP: This script must be CONTAINER-BOUND to a Google Sheet.
  *   Create a Google Sheet -> Extensions -> Apps Script -> paste this file
- *   (and Index.html) -> Deploy -> Web app.
+ *   (plus Index.html and IndexGrouped.html) -> Deploy -> Web app.
  * See DEPLOY.md for the full step-by-step.
  */
 
+// Where to store answers.
+//   - Container-bound deploy (script created via a Sheet): leave SHEET_ID = ''.
+//   - Standalone deploy (clasp / standalone script): paste the target Sheet id
+//     here. A standalone web app avoids the "Access Denied - Drive" wall that
+//     consumer (@gmail) container-bound web apps hit for anonymous raters.
+var SHEET_ID = '';
+
 // Name of the tab where annotations are stored (auto-created on first submit).
 var RESPONSE_SHEET = 'Responses';
+
+/** The spreadsheet we read/write: bound sheet, or SHEET_ID if standalone. */
+function getSpreadsheet_() {
+  return SHEET_ID ? SpreadsheetApp.openById(SHEET_ID) : SpreadsheetApp.getActiveSpreadsheet();
+}
 
 // Column headers written to the Responses tab.
 var HEADERS = [
@@ -29,12 +41,36 @@ var HEADERS = [
 ];
 
 /**
- * Serves the HTML form. Supports optional ?start= &end= URL params so you can
- * hand out different task ranges to different people (divide and conquer).
- *   e.g.  ...exec?start=1&end=50   ...exec?start=51&end=100
+ * Serves the HTML form.
+ *   ...exec                     -> default one-task-at-a-time form (Index)
+ *   ...exec?view=grouped        -> fast grouped-by-occupation form (IndexGrouped)
+ *   ...exec?export=json         -> read-only JSON dump of all responses
+ *   ...exec?start=1&end=50      -> hand out a task range (divide and conquer)
  */
 function doGet(e) {
-  var t = HtmlService.createTemplateFromFile('Index');
+  // Read-only JSON export of all annotations (does not affect the form path).
+  //   ...exec?export=json
+  if (e && e.parameter && e.parameter.export === 'json') {
+    var sh = getResponseSheet_();
+    var last = sh.getLastRow();
+    var values = (last > 1) ? sh.getRange(2, 1, last - 1, HEADERS.length).getValues() : [];
+    var rows = values.map(function (r) {
+      var o = {};
+      for (var i = 0; i < HEADERS.length; i++) {
+        o[HEADERS[i]] = (r[i] instanceof Date) ? r[i].toISOString() : r[i];
+      }
+      return o;
+    });
+    return ContentService
+      .createTextOutput(JSON.stringify({ ok: true, count: rows.length, headers: HEADERS, rows: rows }))
+      .setMimeType(ContentService.MimeType.JSON);
+  }
+
+  // Grouped-by-occupation fast interface, or the default single-task form.
+  //   ...exec?view=grouped   (optionally &start=&end= exactly like the default)
+  var templateName = (e && e.parameter && e.parameter.view === 'grouped') ? 'IndexGrouped' : 'Index';
+
+  var t = HtmlService.createTemplateFromFile(templateName);
   t.startParam = (e && e.parameter && e.parameter.start) ? e.parameter.start : '';
   t.endParam   = (e && e.parameter && e.parameter.end)   ? e.parameter.end   : '';
   return t.evaluate()
@@ -45,7 +81,7 @@ function doGet(e) {
 
 /** Returns (creating if needed) the Responses sheet with a header row. */
 function getResponseSheet_() {
-  var ss = SpreadsheetApp.getActiveSpreadsheet();
+  var ss = getSpreadsheet_();
   var sh = ss.getSheetByName(RESPONSE_SHEET);
   if (!sh) {
     sh = ss.insertSheet(RESPONSE_SHEET);
@@ -62,12 +98,11 @@ function getResponseSheet_() {
  *   rows: [[task_id, occupation, task_text, coverage, confidence, comment], ...]
  * }
  *
- * UPSERT behavior (keyed on session_id + task_id):
- *   - Same annotator (same session_id) re-submitting the SAME task_id
- *     -> their previous row for that task is REPLACED (no duplicates).
- *   - A DIFFERENT annotator (different session_id) submitting the same task
- *     -> stored as a separate row. Every annotator keeps their own entry, which
- *     is exactly what lets us measure inter-rater agreement.
+ * The grouped form submits MANY tasks (distinct task_ids) in one call; the
+ * default form submits one. Both are handled: we upsert per DISTINCT
+ * (session_id, task_id), so re-submitting any task replaces only that task's
+ * prior row for this annotator, and different annotators keep separate rows
+ * (which is what lets us measure inter-rater agreement).
  *
  * Returns { ok, written, replaced, totalResponses }.
  */
@@ -82,10 +117,13 @@ function submitAnnotation(payload) {
     var out = (payload.rows || []).map(function (r) { return prefix.concat(r); });
     if (out.length === 0) return { ok: true, written: 0, replaced: 0, totalResponses: sh.getLastRow() - 1 };
 
-    var taskId = String(out[0][4]); // task_id column (0-based index 4)
-    var SID_COL = 3, TASK_COL = 4;  // 0-based positions of session_id and task_id
+    var SID_COL = 3, TASK_COL = 4; // 0-based positions of session_id and task_id
 
-    // 1) Remove this annotator's PRIOR row for THIS task (if any), so a
+    // Set of task_ids in THIS submission, so we clean each one exactly once.
+    var incomingIds = {};
+    out.forEach(function (r) { incomingIds[String(r[TASK_COL])] = true; });
+
+    // 1) Remove this annotator's PRIOR rows for ANY task in this batch, so a
     //    re-submit updates in place instead of duplicating.
     var replaced = 0;
     var last = sh.getLastRow();
@@ -93,17 +131,18 @@ function submitAnnotation(payload) {
       var data = sh.getRange(2, 1, last - 1, HEADERS.length).getValues();
       var rowsToDelete = [];
       for (var i = 0; i < data.length; i++) {
-        if (String(data[i][SID_COL]) === sid && String(data[i][TASK_COL]) === taskId) {
+        if (String(data[i][SID_COL]) === sid && incomingIds[String(data[i][TASK_COL])]) {
           rowsToDelete.push(i + 2); // +2: skip header (row 1) and 0-based offset
         }
       }
+      // Delete bottom-up so earlier row numbers stay valid as we remove.
       for (var j = rowsToDelete.length - 1; j >= 0; j--) {
         sh.deleteRow(rowsToDelete[j]);
         replaced++;
       }
     }
 
-    // 2) Append the fresh rows for this (annotator, task).
+    // 2) Append the fresh rows.
     var startRow = sh.getLastRow() + 1;
     sh.getRange(startRow, 1, out.length, out[0].length).setValues(out);
     SpreadsheetApp.flush();

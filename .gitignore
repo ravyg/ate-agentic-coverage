@@ -2,3 +2,16 @@ __pycache__/
 *.pyc
 .DS_Store
 .venv/
+
+# Human annotation results live in Google Drive (the crowdsource Responses sheet).
+# We publish the code and the LLM pilot ratings, but NOT the human responses.
+# Never commit anything downloaded/exported from the annotation form.
+results/human_ratings.csv
+results/human_ratings*.csv
+results/responses*.csv
+crowdsource/responses*.csv
+crowdsource/*.exported.csv
+
+# clasp deploy artifacts (the web-app project lives outside this repo)
+.clasp.json
+.clasprc.json
