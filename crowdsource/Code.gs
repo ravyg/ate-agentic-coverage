@@ -178,3 +178,34 @@ function getGlobalCount() {
   var sh = getResponseSheet_();
   return Math.max(0, sh.getLastRow() - 1);
 }
+
+/**
+ * Resume support: return THIS annotator's prior ratings so a refresh (or a
+ * different device) picks up where they left off instead of starting over.
+ * The client derives a stable session_id from the annotator's name+email, so
+ * the same person maps to the same id across loads.
+ *
+ * Returns an object keyed by task_id: { "<task_id>": { coverage: 0-100 int,
+ * comment: string }, ... }. Only rows for the given session_id are returned,
+ * so an annotator never sees anyone else's answers. Note: the session_id is
+ * derived, not secret, so this is a convenience/scoping mechanism, not auth.
+ */
+function getAnnotationsForSession(sessionId) {
+  var sid = String(sessionId || '');
+  if (!sid) return {};
+  var sh = getResponseSheet_();
+  var last = sh.getLastRow();
+  if (last < 2) return {};
+  var data = sh.getRange(2, 1, last - 1, HEADERS.length).getValues();
+  var SID = 3, TASK = 4, COV = 7, CMT = 8; // 0-based column positions
+  var out = {};
+  for (var i = 0; i < data.length; i++) {
+    if (String(data[i][SID]) === sid) {
+      out[String(data[i][TASK])] = {
+        coverage: Math.round(Number(data[i][COV]) * 100),
+        comment: (data[i][CMT] == null) ? '' : String(data[i][CMT])
+      };
+    }
+  }
+  return out;
+}

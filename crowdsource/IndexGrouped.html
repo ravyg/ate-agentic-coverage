@@ -212,7 +212,7 @@
       byOcc[t.occupation].tasks.push(t);
     });
 
-    var sessionId = 'sess-' + Math.random().toString(36).slice(2) + '-' + (new Date()).getTime();
+    var sessionId = '';  // set from identity in enterTool() so refresh resumes
     var g = 0, answers = {}, savedTasks = {}, annName = 'anonymous', annEmail = '';
 
 
@@ -234,15 +234,51 @@
         var g = document.getElementById('globalStat'); if (g) g.innerHTML = '<b>' + total + '</b> ratings collected so far';
       }).getGlobalCount();
     }
+    // Stable session id derived from identity, so a refresh / different device
+    // maps to the same person and resumes (and re-rating upserts, not dupes).
+    function sidFor(name, email) {
+      var key = (String(name) + '|' + String(email)).toLowerCase().replace(/\s+/g, ' ').trim();
+      var h = 5381; for (var j = 0; j < key.length; j++) { h = ((h << 5) + h + key.charCodeAt(j)) >>> 0; }
+      var slug = key.replace(/[^a-z0-9]+/g, '').slice(0, 12);
+      return 'sess-' + h.toString(36) + '-' + (slug || 'anon');
+    }
+    // Remember identity in this browser so the gate is prefilled after a refresh.
+    function saveIdent() { try { localStorage.setItem('ate_cov_ident', JSON.stringify({ n: annName, e: annEmail })); } catch (e) {} }
+    function prefillGate() {
+      try {
+        var d = JSON.parse(localStorage.getItem('ate_cov_ident') || '{}');
+        if (d.n) document.getElementById('g-name').value = d.n;
+        if (d.e) document.getElementById('g-email').value = d.e;
+      } catch (e) {}
+    }
 
 
     function enterTool() {
       annName = (document.getElementById('g-name').value || '').trim() || 'anonymous';
       annEmail = (document.getElementById('g-email').value || '').trim();
+      sessionId = sidFor(annName, annEmail);
+      saveIdent();
       document.getElementById('gate').style.display = 'none';
       document.getElementById('app').style.display = '';
       document.getElementById('who').textContent = annName + (annEmail ? ' (' + annEmail + ')' : '');
-      render(); refreshGlobal();
+      refreshGlobal();
+      // Resume: pull this annotator's prior ratings, restore them, and jump to
+      // the first task they haven't rated yet (or straight to results if done).
+      google.script.run
+        .withSuccessHandler(function (prior) {
+          prior = prior || {};
+          var ids = Object.keys(prior), n = ids.length;
+          ids.forEach(function (id) {
+            answers[id] = { coverage: prior[id].coverage, comment: prior[id].comment };
+            savedTasks[id] = true;
+          });
+          if (n) toast('Welcome back, ' + annName + ' — resumed ' + n + ' rating' + (n === 1 ? '' : 's'));
+          if (TASKS.length > 0 && n >= TASKS.length) { showResults(); return; }
+          jumpToFirstUnrated();
+          render();
+        })
+        .withFailureHandler(function () { render(); })
+        .getAnnotationsForSession(sessionId);
     }
 
     function updateProgress() {
@@ -325,6 +361,15 @@
         .submitAnnotation({ annotator: annName, email: annEmail, sessionId: sessionId, rows: rows });
     }
 
+    function jumpToFirstUnrated() {
+      for (var k = 0; k < GROUPS.length; k++) {
+        for (var j = 0; j < GROUPS[k].tasks.length; j++) {
+          if (!savedTasks[GROUPS[k].tasks[j].task_id]) { g = k; return; }
+        }
+      }
+      g = 0;
+    }
+
     function nextGroup() { collectGroup(); if (g < GROUPS.length - 1) { g++; render(); } }
     function prevGroup() { collectGroup(); if (g > 0) { g--; render(); } }
 
@@ -376,6 +421,8 @@
       document.getElementById('finishBtn').style.display = 'none';
       refreshGlobal();
     }
+
+    prefillGate();
 </script>
 </body>
 </html>
