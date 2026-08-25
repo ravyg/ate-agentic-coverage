@@ -7,7 +7,7 @@ columns, so annotators cannot reverse-engineer the weights) into a self-containe
 HTML form. Paste the output into the Apps Script editor as an HTML file.
 
 Two interfaces (both blind, both write to the same Google Sheet via Code.gs):
-  Index.html         one task at a time, slider + confidence + comment  (?exec)
+  Index.html         one task at a time, coverage slider + optional comment  (?exec)
   IndexGrouped.html  all tasks for an occupation on one page, batch-save (?view=grouped)
 
 Usage:
@@ -46,7 +46,6 @@ TEMPLATE = """<!DOCTYPE html>
   .scale { display:flex; justify-content:space-between; font-size:12px; color:#777; }
   input[type=range] { width: 100%; }
   .val { font-size: 28px; font-weight: 700; text-align:center; color:#0b5; margin: 4px 0; }
-  .conf label { margin-right: 12px; font-size: 14px; }
   textarea { width: 100%; min-height: 44px; margin-top: 6px; }
   .nav { display:flex; justify-content:space-between; margin-top: 18px; }
   button { padding: 10px 18px; border-radius: 8px; border: 1px solid #0b5; background:#0b5;
@@ -98,7 +97,7 @@ TEMPLATE = """<!DOCTYPE html>
 
     function render() {
       var t = TASKS[i];
-      var prev = answers[t.task_id] || { coverage: 50, confidence: 3, comment: "" };
+      var prev = answers[t.task_id] || { coverage: 50, comment: "" };
       document.getElementById('prog').textContent =
         'Task ' + (i + 1) + ' of ' + TASKS.length +
         '  ( you have saved ' + Object.keys(answers).length + ' )';
@@ -110,8 +109,6 @@ TEMPLATE = """<!DOCTYPE html>
           '<div class="val"><span id="cv">' + prev.coverage + '</span>%</div>' +
           '<input type="range" min="0" max="100" step="5" id="cov" value="' + prev.coverage + '">' +
           '<div class="scale"><span>0% none</span><span id="anch">' + anchor(prev.coverage) + '</span><span>100% all</span></div>' +
-          '<div class="q">How confident are you?</div>' +
-          '<div class="conf" id="conf">' + confRadios(prev.confidence) + '</div>' +
           '<div class="q">Comment (optional)</div>' +
           '<textarea id="comment" placeholder="e.g. needs a human signature / on-site presence">' + esc(prev.comment) + '</textarea>' +
           '<div class="nav">' +
@@ -126,23 +123,12 @@ TEMPLATE = """<!DOCTYPE html>
       };
     }
 
-    function confRadios(sel) {
-      var out = '';
-      for (var c = 1; c <= 5; c++) {
-        out += '<label><input type="radio" name="confidence" value="' + c + '"' +
-               (c === sel ? ' checked' : '') + '>' + c + '</label>';
-      }
-      return out + ' <span style="font-size:12px;color:#999">(1 low - 5 high)</span>';
-    }
-
     function esc(x) { var d = document.createElement('div'); d.textContent = x == null ? '' : x; return d.innerHTML; }
 
     function collect() {
       var t = TASKS[i];
-      var conf = document.querySelector('input[name=confidence]:checked');
       answers[t.task_id] = {
         coverage: parseInt(document.getElementById('cov').value, 10),
-        confidence: conf ? parseInt(conf.value, 10) : 3,
         comment: document.getElementById('comment').value || ""
       };
       return t;
@@ -159,7 +145,7 @@ TEMPLATE = """<!DOCTYPE html>
         .submitAnnotation({
           annotator: name, email: email, sessionId: sessionId,
           rows: [[t.task_id, t.occupation, t.task_text,
-                  (a.coverage / 100).toFixed(2), a.confidence, a.comment]]
+                  (a.coverage / 100).toFixed(2), a.comment]]
         });
       if (i < TASKS.length - 1) { i++; render(); }
       else { showResults(); }
@@ -197,13 +183,12 @@ TEMPLATE = """<!DOCTYPE html>
       html += '<div class="q" style="margin-top:14px">Your answers</div>' +
         '<table style="width:100%;border-collapse:collapse;font-size:13px;">' +
         '<tr style="text-align:left;color:#777;border-bottom:1px solid #ddd;">' +
-        '<th style="padding:4px 6px;">Task</th><th style="padding:4px 6px;">Coverage</th><th style="padding:4px 6px;">Conf.</th></tr>';
+        '<th style="padding:4px 6px;">Task</th><th style="padding:4px 6px;">Coverage</th></tr>';
       ids.forEach(function (id) {
         var t = taskById(id), a = answers[id];
         html += '<tr style="border-bottom:1px solid #f0f0f0;">' +
           '<td style="padding:4px 6px;"><span class="occ" style="display:block">' + esc(t.occupation) + '</span>' + esc(t.task_text) + '</td>' +
-          '<td style="padding:4px 6px;font-weight:700;color:#0b5;white-space:nowrap;">' + a.coverage + '%</td>' +
-          '<td style="padding:4px 6px;">' + a.confidence + '</td></tr>';
+          '<td style="padding:4px 6px;font-weight:700;color:#0b5;white-space:nowrap;">' + a.coverage + '%</td></tr>';
       });
       html += '</table>' +
         '<div class="nav"><button class="secondary" onclick="i=0;render()">Review / edit answers</button>' +
@@ -245,8 +230,6 @@ GROUPED_TEMPLATE = """<!DOCTYPE html>
   .ctl input[type=range] { flex:1; }
   .val { font-size:18px; font-weight:700; color:#0b5; width:52px; text-align:right; }
   .anch { font-size:12px; color:#777; margin-top:4px; }
-  .conf { font-size:13px; margin-top:6px; color:#555; }
-  .conf label { margin-right:10px; }
   .q { font-weight:600; margin:6px 0; }
   textarea { width:100%; min-height:36px; margin-top:6px; font-size:13px; }
   .nav { display:flex; justify-content:space-between; align-items:center; margin-top:14px; }
@@ -312,15 +295,6 @@ GROUPED_TEMPLATE = """<!DOCTYPE html>
     }
     function esc(x) { var d = document.createElement('div'); d.textContent = x == null ? '' : x; return d.innerHTML; }
 
-    function confRadios(id, sel) {
-      var out = '';
-      for (var c = 1; c <= 5; c++) {
-        out += '<label><input type="radio" name="conf_' + id + '" value="' + c + '"' +
-               (c === sel ? ' checked' : '') + '>' + c + '</label>';
-      }
-      return out + ' <span style="color:#999">(1 low - 5 high)</span>';
-    }
-
     function render() {
       var grp = GROUPS[g];
       document.getElementById('prog').textContent =
@@ -328,7 +302,7 @@ GROUPED_TEMPLATE = """<!DOCTYPE html>
         '  ( ' + Object.keys(savedTasks).length + ' of ' + TASKS.length + ' tasks saved )';
       var html = '<div class="group"><div class="occ">' + esc(grp.occupation) + '</div>';
       grp.tasks.forEach(function (t) {
-        var prev = answers[t.task_id] || { coverage: 50, confidence: 3, comment: "" };
+        var prev = answers[t.task_id] || { coverage: 50, comment: "" };
         html +=
           '<div class="row">' +
             '<div class="task">' + esc(t.task_text) + (savedTasks[t.task_id] ? ' <span class="saved">saved</span>' : '') + '</div>' +
@@ -337,7 +311,6 @@ GROUPED_TEMPLATE = """<!DOCTYPE html>
               '<span class="val"><span id="cv_' + t.task_id + '">' + prev.coverage + '</span>%</span>' +
             '</div>' +
             '<div class="anch" id="an_' + t.task_id + '">' + anchor(prev.coverage) + '</div>' +
-            '<div class="conf">confidence: ' + confRadios(t.task_id, prev.confidence) + '</div>' +
             '<textarea id="cm_' + t.task_id + '" placeholder="comment (optional): e.g. needs a human signature / on-site presence">' + esc(prev.comment) + '</textarea>' +
           '</div>';
       });
@@ -364,11 +337,9 @@ GROUPED_TEMPLATE = """<!DOCTYPE html>
       var grp = GROUPS[g], rows = [];
       grp.tasks.forEach(function (t) {
         var cov = parseInt(document.getElementById('cov_' + t.task_id).value, 10);
-        var confEl = document.querySelector('input[name=conf_' + t.task_id + ']:checked');
-        var conf = confEl ? parseInt(confEl.value, 10) : 3;
         var comment = document.getElementById('cm_' + t.task_id).value || "";
-        answers[t.task_id] = { coverage: cov, confidence: conf, comment: comment };
-        rows.push([t.task_id, t.occupation, t.task_text, (cov / 100).toFixed(2), conf, comment]);
+        answers[t.task_id] = { coverage: cov, comment: comment };
+        rows.push([t.task_id, t.occupation, t.task_text, (cov / 100).toFixed(2), comment]);
       });
       return rows;
     }
@@ -429,13 +400,12 @@ GROUPED_TEMPLATE = """<!DOCTYPE html>
       html += '<div class="q" style="margin-top:14px">Your answers</div>' +
         '<table style="width:100%;border-collapse:collapse;font-size:13px;">' +
         '<tr style="text-align:left;color:#777;border-bottom:1px solid #ddd;">' +
-        '<th style="padding:4px 6px;">Task</th><th style="padding:4px 6px;">Coverage</th><th style="padding:4px 6px;">Conf.</th></tr>';
+        '<th style="padding:4px 6px;">Task</th><th style="padding:4px 6px;">Coverage</th></tr>';
       ids.forEach(function (id) {
         var t = taskById(id), a = answers[id];
         html += '<tr style="border-bottom:1px solid #f0f0f0;">' +
           '<td style="padding:4px 6px;"><span class="occ" style="display:block">' + esc(t.occupation) + '</span>' + esc(t.task_text) + '</td>' +
-          '<td style="padding:4px 6px;font-weight:700;color:#0b5;white-space:nowrap;">' + a.coverage + '%</td>' +
-          '<td style="padding:4px 6px;">' + a.confidence + '</td></tr>';
+          '<td style="padding:4px 6px;font-weight:700;color:#0b5;white-space:nowrap;">' + a.coverage + '%</td></tr>';
       });
       html += '</table>' +
         '<div class="nav"><button class="secondary" onclick="g=0;render()">Review / edit answers</button>' +

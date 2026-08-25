@@ -91,7 +91,7 @@ The `Responses` tab **is** your dataset — one row per (annotator, task):
 
 ```
 timestamp · annotator · annotator_email · session_id ·
-task_id · occupation · task_text · coverage · confidence · comment
+task_id · occupation · task_text · coverage · comment
 ```
 
 `coverage` is 0.00–1.00. **File → Download → CSV**, drop it into

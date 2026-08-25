@@ -36,7 +36,6 @@ var HEADERS = [
   'timestamp', 'annotator', 'annotator_email', 'session_id',
   'task_id', 'occupation', 'task_text',
   'coverage',            // 0.00-1.00: fraction an autonomous agent can do alone
-  'confidence',          // annotator self-rated confidence 1-5
   'comment'
 ];
 
@@ -87,6 +86,26 @@ function getResponseSheet_() {
     sh = ss.insertSheet(RESPONSE_SHEET);
     sh.appendRow(HEADERS);
     sh.setFrozenRows(1);
+    return sh;
+  }
+  // Self-heal: if the stored header row doesn't match the current HEADERS
+  // (e.g. after we drop/rename a column), rewrite row 1 in place so a CSV
+  // download and the JSON export always agree with the code schema. This
+  // only touches the header row; it never deletes or moves response data.
+  var width = Math.max(HEADERS.length, sh.getLastColumn());
+  var current = sh.getRange(1, 1, 1, width).getValues()[0];
+  var mismatch = current.length < HEADERS.length;
+  for (var c = 0; c < HEADERS.length && !mismatch; c++) {
+    if (String(current[c]) !== HEADERS[c]) mismatch = true;
+  }
+  // Also clear any stale trailing header cells beyond the new schema width.
+  for (var d = HEADERS.length; d < current.length && !mismatch; d++) {
+    if (String(current[d]) !== '') mismatch = true;
+  }
+  if (mismatch) {
+    sh.getRange(1, 1, 1, width).clearContent();
+    sh.getRange(1, 1, 1, HEADERS.length).setValues([HEADERS]);
+    sh.setFrozenRows(1);
   }
   return sh;
 }
@@ -95,7 +114,7 @@ function getResponseSheet_() {
  * Called from the browser via google.script.run.
  * payload = {
  *   annotator: string, email: string, sessionId: string,
- *   rows: [[task_id, occupation, task_text, coverage, confidence, comment], ...]
+ *   rows: [[task_id, occupation, task_text, coverage, comment], ...]
  * }
  *
  * The grouped form submits MANY tasks (distinct task_ids) in one call; the
