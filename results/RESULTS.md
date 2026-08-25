@@ -62,6 +62,20 @@ The judgment weights are not arbitrary: a blind panel reproduces their exact ran
 order and lands within sampling error of each value. We can present this as a
 validation pilot and commit to a human-labeled version for the camera-ready.
 
+## What ships in revision 6
+
+This 100-task pilot is how the ATES paper's four COV penalty weights were validated.
+It is not in the current paper only because the human-annotated version of this
+dataset is still being produced and needs to be published first. Revision 6 will add:
+
+1. this repository (made public) as a companion resource, with the full-corpus
+   agentic-coverage labels for all 18,796 tasks;
+2. a "Validating the penalty weights" subsection reporting the pilot above; and
+3. human-annotation agreement statistics once the crowdsourced labels land.
+
+The full corpus is labeled once per task (single pass). The 4-rater panel and its
+agreement statistic are the pilot's, and that is what we report as the validation.
+
 ## Files
 
 - `tag_penalties.py` — penalty tagging (exact keyword logic from compute_ate_session.py)
