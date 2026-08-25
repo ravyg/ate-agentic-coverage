@@ -136,21 +136,28 @@ function submitAnnotation(payload) {
     var out = (payload.rows || []).map(function (r) { return prefix.concat(r); });
     if (out.length === 0) return { ok: true, written: 0, replaced: 0, totalResponses: sh.getLastRow() - 1 };
 
-    var SID_COL = 3, TASK_COL = 4; // 0-based positions of session_id and task_id
+    var SID_COL = 3, EMAIL_COL = 2, TASK_COL = 4; // 0-based positions
+    var email = String(payload.email || '').toLowerCase().trim();
 
     // Set of task_ids in THIS submission, so we clean each one exactly once.
     var incomingIds = {};
     out.forEach(function (r) { incomingIds[String(r[TASK_COL])] = true; });
 
     // 1) Remove this annotator's PRIOR rows for ANY task in this batch, so a
-    //    re-submit updates in place instead of duplicating.
+    //    re-submit updates in place instead of duplicating. Match on EMAIL when
+    //    we have one (identity is email-keyed), so this also replaces rows saved
+    //    under an older session-id scheme and cleans any legacy duplicates. With
+    //    no email, fall back to the (name-derived) session id.
     var replaced = 0;
     var last = sh.getLastRow();
-    if (last > 1 && sid) {
+    if (last > 1 && (email || sid)) {
       var data = sh.getRange(2, 1, last - 1, HEADERS.length).getValues();
       var rowsToDelete = [];
       for (var i = 0; i < data.length; i++) {
-        if (String(data[i][SID_COL]) === sid && incomingIds[String(data[i][TASK_COL])]) {
+        var identityMatch = email
+          ? (String(data[i][EMAIL_COL]).toLowerCase().trim() === email)
+          : (String(data[i][SID_COL]) === sid);
+        if (identityMatch && incomingIds[String(data[i][TASK_COL])]) {
           rowsToDelete.push(i + 2); // +2: skip header (row 1) and 0-based offset
         }
       }
@@ -201,6 +208,33 @@ function getIdentityForEmail(email) {
     }
   }
   return name;
+}
+
+/**
+ * Resume by EMAIL — the identity everything else keys on. Returns this
+ * annotator's prior ratings regardless of which session_id scheme wrote them
+ * (older builds used different session ids), so a returning rater always picks
+ * up where they left off. Rows are scanned in sheet order, so the most recent
+ * rating for a task wins. Returns task_id -> { coverage: 0-100 int, comment }.
+ */
+function getAnnotationsForEmail(email) {
+  var em = String(email || '').toLowerCase().trim();
+  if (!em) return {};
+  var sh = getResponseSheet_();
+  var last = sh.getLastRow();
+  if (last < 2) return {};
+  var data = sh.getRange(2, 1, last - 1, HEADERS.length).getValues();
+  var EMAIL = 2, TASK = 4, COV = 7, CMT = 8; // 0-based column positions
+  var out = {};
+  for (var i = 0; i < data.length; i++) {
+    if (String(data[i][EMAIL]).toLowerCase().trim() === em) {
+      out[String(data[i][TASK])] = {
+        coverage: Math.round(Number(data[i][COV]) * 100),
+        comment: (data[i][CMT] == null) ? '' : String(data[i][CMT])
+      };
+    }
+  }
+  return out;
 }
 
 /**

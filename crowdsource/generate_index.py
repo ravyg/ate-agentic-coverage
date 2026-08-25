@@ -344,7 +344,7 @@ __HELPERS__
       refreshGlobal();
       // Resume: pull this annotator's prior ratings, restore them, and jump to
       // the first task they haven't rated yet (or straight to results if done).
-      google.script.run
+      var runner = google.script.run
         .withSuccessHandler(function (prior) {
           prior = prior || {};
           var ids = Object.keys(prior), n = ids.length;
@@ -352,13 +352,20 @@ __HELPERS__
             answers[id] = { coverage: prior[id].coverage, comment: prior[id].comment };
             savedTasks[id] = true;
           });
-          if (n) toast('Welcome back, ' + annName + ' — resumed ' + n + ' rating' + (n === 1 ? '' : 's'));
-          if (TASKS.length > 0 && n >= TASKS.length) { showResults(); return; }
+          // Count only tasks that belong to THIS handout (start/end slice).
+          var done = 0;
+          TASKS.forEach(function (t) { if (savedTasks[t.task_id]) done++; });
+          if (done) toast('Welcome back, ' + annName + ' — ' + done + ' of ' + TASKS.length + ' already done, resuming');
+          if (TASKS.length > 0 && done >= TASKS.length) { showResults(); return; }
           jumpToFirstUnrated();
           render();
         })
-        .withFailureHandler(function () { render(); })
-        .getAnnotationsForSession(sessionId);
+        .withFailureHandler(function () { render(); });
+      // Resume is keyed on EMAIL (the identity), so prior ratings come back even
+      // if they were saved under an older session-id scheme. No email -> fall
+      // back to the (name-derived) session id.
+      if (annEmail) runner.getAnnotationsForEmail(annEmail);
+      else runner.getAnnotationsForSession(sessionId);
     }
 
     function updateProgress() {
@@ -595,7 +602,7 @@ __HELPERS__
       refreshGlobal();
       // Resume: pull this annotator's prior ratings, restore them, and jump to
       // the first task they haven't rated yet (or straight to results if done).
-      google.script.run
+      var runner = google.script.run
         .withSuccessHandler(function (prior) {
           prior = prior || {};
           var ids = Object.keys(prior), n = ids.length;
@@ -603,13 +610,20 @@ __HELPERS__
             answers[id] = { coverage: prior[id].coverage, comment: prior[id].comment };
             savedTasks[id] = true;
           });
-          if (n) toast('Welcome back, ' + annName + ' — resumed ' + n + ' rating' + (n === 1 ? '' : 's'));
-          if (TASKS.length > 0 && n >= TASKS.length) { showResults(); return; }
+          // Count only tasks that belong to THIS handout (start/end slice).
+          var done = 0;
+          TASKS.forEach(function (t) { if (savedTasks[t.task_id]) done++; });
+          if (done) toast('Welcome back, ' + annName + ' — ' + done + ' of ' + TASKS.length + ' already done, resuming');
+          if (TASKS.length > 0 && done >= TASKS.length) { showResults(); return; }
           jumpToFirstUnrated();
           render();
         })
-        .withFailureHandler(function () { render(); })
-        .getAnnotationsForSession(sessionId);
+        .withFailureHandler(function () { render(); });
+      // Resume is keyed on EMAIL (the identity), so prior ratings come back even
+      // if they were saved under an older session-id scheme. No email -> fall
+      // back to the (name-derived) session id.
+      if (annEmail) runner.getAnnotationsForEmail(annEmail);
+      else runner.getAnnotationsForSession(sessionId);
     }
 
     function updateProgress() {
