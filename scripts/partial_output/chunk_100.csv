@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+20134,"Locker Room, Coatroom, and Dressing Room Attendants",Clean facilities such as floors or locker rooms.,0.00,physical facility cleaning
+4466,"Locker Room, Coatroom, and Dressing Room Attendants","Answer customer inquiries or explain cost, availability, policies, and procedures of facilities.",0.55,can answer routine facility inquiries remotely
+4468,"Locker Room, Coatroom, and Dressing Room Attendants",Refer guest problems or complaints to supervisors.,0.55,can route complaints via ticketing system
+4484,"Locker Room, Coatroom, and Dressing Room Attendants",Maintain a lost-and-found collection.,0.05,physical handling of found objects
+4469,"Locker Room, Coatroom, and Dressing Room Attendants","Clean and polish footwear, using brushes, sponges, cleaning fluid, polishes, waxes, liquid or sole dressing, and daubers.",0.00,physical shoe cleaning
+4474,"Locker Room, Coatroom, and Dressing Room Attendants","Activate emergency action plans and administer first aid, as necessary.",0.05,requires physical presence for emergency response and first aid
+4473,"Locker Room, Coatroom, and Dressing Room Attendants","Procure beverages, food, and other items as requested.",0.05,physical fetching and delivery
+4477,"Locker Room, Coatroom, and Dressing Room Attendants",Collect soiled linen or clothing for laundering.,0.00,physical collection of laundry
+4475,"Locker Room, Coatroom, and Dressing Room Attendants","Store personal possessions for patrons, issue claim checks for articles stored, and return articles on receipt of checks.",0.05,physical storage and retrieval of belongings
+4471,"Locker Room, Coatroom, and Dressing Room Attendants",Operate washing machines and dryers to clean soiled apparel and towels.,0.00,physical machine operation
+4482,"Locker Room, Coatroom, and Dressing Room Attendants","Maintain inventories of clothing or uniforms, accessories, equipment, or linens.",0.30,physical counting plus record keeping
+4479,"Locker Room, Coatroom, and Dressing Room Attendants",Attend to needs of athletic teams in clubhouses.,0.05,requires physical presence in clubhouse
+4480,"Locker Room, Coatroom, and Dressing Room Attendants",Provide assistance to patrons by performing duties such as opening doors or carrying bags.,0.00,physical assistance opening doors carrying bags
+4478,"Locker Room, Coatroom, and Dressing Room Attendants",Operate controls that regulate temperatures or room environments.,0.40,some remote environmental control possible but often onsite
+4483,"Locker Room, Coatroom, and Dressing Room Attendants","Issue gym clothes, uniforms, towels, athletic equipment, and special athletic apparel.",0.05,physical issuance of equipment
+4486,"Locker Room, Coatroom, and Dressing Room Attendants","Provide or arrange for services such as clothes pressing, cleaning, or repair.",0.30,can arrange service but physical handoff needed
+4470,"Locker Room, Coatroom, and Dressing Room Attendants","Report and document safety hazards, potentially hazardous conditions, and unsafe practices and procedures.",0.25,documentation possible but hazard spotting needs physical inspection
+4481,"Locker Room, Coatroom, and Dressing Room Attendants",Stencil identifying information on equipment.,0.00,physical stenciling on equipment
+4485,"Locker Room, Coatroom, and Dressing Room Attendants",Set up various apparatus or athletic equipment.,0.00,physical setup of apparatus
+4487,Embalmers,Conform to laws of health and sanitation and ensure that legal requirements concerning embalming are met.,0.05,requires licensed physical presence and legal responsibility
+4488,Embalmers,Apply cosmetics to impart lifelike appearance to the deceased.,0.00,physical cosmetic application to remains
+4495,Embalmers,"Join lips, using needles and thread or wire.",0.00,physical suturing procedure
+4490,Embalmers,"Close incisions, using needles and sutures.",0.00,physical suturing procedure
+4489,Embalmers,"Incise stomach and abdominal walls and probe internal organs, using trocar, to withdraw blood and waste matter from organs.",0.00,physical surgical procedure on remains
+23930,Embalmers,Clean and disinfect areas in which bodies are prepared and embalmed.,0.00,physical cleaning and disinfecting
+4493,Embalmers,Dress bodies and place them in caskets.,0.00,physical dressing and casketing
+4492,Embalmers,"Make incisions in arms or thighs and drain blood from circulatory system and replace it with embalming fluid, using pump.",0.00,physical embalming procedure
+20257,Embalmers,Remove the deceased from place of death and transport to funeral home.,0.00,physical removal and transport of remains
+4494,Embalmers,"Perform the duties of funeral directors, including coordinating funeral activities.",0.15,coordination possible but requires licensed authority and presence
+4497,Embalmers,"Attach trocar to pump-tube, start pump, and repeat probing to force embalming fluid into organs.",0.00,physical embalming pump operation
+4491,Embalmers,"Reshape or reconstruct disfigured or maimed bodies when necessary, using dermasurgery techniques and materials such as clay, cotton, plaster of Paris, and wax.",0.00,physical reconstruction of remains
+4504,Embalmers,Pack body orifices with cotton saturated with embalming fluid to prevent escape of gases or waste matter.,0.00,physical packing of body orifices
+4496,Embalmers,"Conduct interviews to arrange for the preparation of obituary notices, to assist with the selection of caskets or urns, and to determine the location and time of burials or cremations.",0.30,info gathering from grieving family needs human rapport
+4500,Embalmers,Insert convex celluloid or cotton between eyeballs and eyelids to prevent slipping and sinking of eyelids.,0.00,physical eye preparation procedure
+4505,Embalmers,Assist with placing caskets in hearses and organize cemetery processions.,0.00,physical casket placement and procession organizing
+4499,Embalmers,"Maintain records, such as itemized lists of clothing or valuables delivered with body and names of persons embalmed.",0.85,pure record keeping task
+4501,Embalmers,"Wash and dry bodies, using germicidal soap and towels or hot air dryers.",0.00,physical washing of remains
+4502,Embalmers,Arrange for transporting the deceased to another state for interment.,0.55,logistics coordination via calls and bookings
+4498,Embalmers,"Perform special procedures necessary for remains that are to be transported to other states or overseas, or where death was caused by infectious disease.",0.05,specialized physical procedures with legal requirements
+4503,Embalmers,Supervise funeral attendants and other funeral home staff.,0.15,staff supervision requires physical authority
+4506,Embalmers,"Serve as pallbearers, attend visiting rooms, and provide other assistance to the bereaved.",0.00,requires physical presence at services
+4507,Embalmers,Direct casket and floral display placement and arrange guest seating.,0.05,physical arrangement of caskets and seating
+4508,Embalmers,Arrange funeral home equipment and perform general maintenance.,0.05,physical equipment maintenance
+4509,Embalmers,"Assist coroners at death scenes or at autopsies, file police reports, and testify at inquests or in court, if employed by a coroner.",0.05,requires physical presence and sworn court testimony
+4510,Embalmers,Press diaphragm to evacuate air from lungs.,0.00,physical embalming procedure
+23180,Crematory Operators,"Clean the crematorium, including tables, floors, and equipment.",0.00,physical cleaning of crematorium
+23181,Crematory Operators,Document divided remains to ensure parts are not misplaced.,0.15,documentation tied to physical handling of remains
+23182,Crematory Operators,"Embalm, dress, or otherwise prepare the deceased for viewing.",0.00,physical preparation of remains
+23183,Crematory Operators,Explain the cremation process to family or friends of the deceased.,0.50,can explain process via text or voice
+23184,Crematory Operators,Offer counsel and comfort to bereaved families or friends.,0.10,emotional counseling of bereaved needs human presence
+23185,Crematory Operators,Pick up and handle human or pet remains in a respectful manner.,0.00,physical handling of remains
+23186,Crematory Operators,"Place corpses into crematory machines to reduce remains to bone fragments using flame, heat, or alkaline hydrolysis.",0.00,physical operation of cremation equipment
+23187,Crematory Operators,"Pulverize remaining bone fragments into smaller pieces, using specialized equipment, such as a cremulator or grinder.",0.00,physical pulverizing of remains
+23188,Crematory Operators,Read documentation to confirm the identity of the deceased.,0.75,document based identity verification
+23189,Crematory Operators,"Remove jewelry, watches, or other personal items from the deceased prior to cremation.",0.00,physical removal of personal items
+23190,Crematory Operators,Sweep or vacuum the cremation chamber to retrieve remains for storage in an urn or other container.,0.00,physical cleaning of cremation chamber
+23191,Crematory Operators,"Transport the deceased to a funeral home or crematory using a van, hearse, or other vehicle.",0.00,physical driving and transport
+4512,Funeral Attendants,Greet people at the funeral home.,0.00,requires physical presence to greet
+4511,Funeral Attendants,Perform a variety of tasks during funerals to assist funeral directors and to ensure that services run smoothly and as planned.,0.00,requires physical presence during funeral
+4514,Funeral Attendants,Close caskets at appropriate point in services.,0.00,physical casket closing
+4517,Funeral Attendants,Direct or escort mourners to parlors or chapels in which wakes or funerals are being held.,0.00,physical escorting of mourners
+4518,Funeral Attendants,Place caskets in parlors or chapels prior to wakes or funerals.,0.00,physical casket placement
+4513,Funeral Attendants,Offer assistance to mourners as they enter or exit limousines.,0.00,physical assistance with mourners
+4521,Funeral Attendants,Clean funeral parlors or chapels.,0.00,physical cleaning of chapel
+4522,Funeral Attendants,Arrange floral offerings or lights around caskets.,0.00,physical floral arrangement
+4519,Funeral Attendants,"Clean and drive funeral vehicles, such as cars or hearses, in funeral processions.",0.00,physical vehicle cleaning and driving
+4527,Funeral Attendants,Act as pallbearers.,0.00,physical pallbearer duty
+20600,Funeral Attendants,Supervise funeral processions and assist with cemetery parking.,0.00,physical supervision of processions and parking
+20601,Funeral Attendants,Deliver floral arrangements or other items to family members of the deceased.,0.00,physical delivery of flowers
+4520,Funeral Attendants,Carry flowers to hearses or limousines for transportation to places of interment.,0.00,physical carrying of flowers
+20602,Funeral Attendants,"Perform general maintenance tasks for funeral homes, such as maintaining equipment or caring for funeral grounds.",0.00,physical facility and grounds maintenance
+4525,Funeral Attendants,Issue and store funeral equipment.,0.05,physical issuance and storage of equipment
+4523,Funeral Attendants,Provide advice to mourners on how to make charitable donations in honor of the deceased.,0.65,informational advice can be delivered remotely
+20603,Funeral Attendants,"Embalm, dress, cosmeticize, and casket the deceased.",0.00,physical preparation of remains
+20607,Funeral Attendants,Prepare obituaries for newspapers.,0.90,pure writing task
+4516,Funeral Attendants,Obtain burial permits and register deaths.,0.35,paperwork possible but permit process needs in person filing
+20597,Funeral Attendants,Transport the deceased to the funeral home.,0.00,physical transport of remains
+20605,Funeral Attendants,"Obtain doctors' signatures on death certificate and complete other paperwork, such as insurance claims forms.",0.30,paperwork prep possible but requires human signature
+4526,Funeral Attendants,Assist with cremations and the processing and packaging of cremated remains.,0.00,physical handling of cremated remains
+20598,Funeral Attendants,"Attend to the needs of the bereaved, such as by offering comfort, counseling, or after-care programs.",0.10,emotional counseling of bereaved needs human presence
+20599,Funeral Attendants,"Perform various administrative tasks, such as typing documents or answering telephone calls.",0.80,routine admin typing and calls
+3335,"Morticians, Undertakers, and Funeral Arrangers",Oversee the preparation and care of the remains of people who have died.,0.10,oversight requires licensed physical presence
+3334,"Morticians, Undertakers, and Funeral Arrangers","Obtain information needed to complete legal documents, such as death certificates or burial permits.",0.55,info gathering and document prep for legal filings
+3343,"Morticians, Undertakers, and Funeral Arrangers","Perform embalming duties, as necessary.",0.00,physical embalming procedure
+3332,"Morticians, Undertakers, and Funeral Arrangers","Consult with families or friends of the deceased to arrange funeral details, such as obituary notice wording, casket selection, or plans for services.",0.35,consulting bereaved family needs human rapport
+21009,"Morticians, Undertakers, and Funeral Arrangers",Remove deceased remains from place of death.,0.00,physical removal of remains
+3336,"Morticians, Undertakers, and Funeral Arrangers",Contact cemeteries to schedule the opening and closing of graves.,0.65,scheduling coordination via calls
+15200,"Morticians, Undertakers, and Funeral Arrangers","Plan, schedule, or coordinate funerals, burials, or cremations, arranging details such as floral delivery or the time and place of services.",0.65,largely coordination and scheduling work
+3340,"Morticians, Undertakers, and Funeral Arrangers",Close caskets and lead funeral corteges to churches or burial sites.,0.00,physical casket closing and leading procession
+3337,"Morticians, Undertakers, and Funeral Arrangers","Provide information on funeral service options, products, or merchandise, and maintain a casket display area.",0.40,info provision possible but physical display area needs presence
+3339,"Morticians, Undertakers, and Funeral Arrangers",Offer counsel and comfort to bereaved families or friends.,0.10,emotional counseling of bereaved needs human presence
+3344,"Morticians, Undertakers, and Funeral Arrangers",Direct preparations and shipment of bodies for out-of-state burial.,0.35,logistics coordination with legal oversight needed
+3345,"Morticians, Undertakers, and Funeral Arrangers",Discuss and negotiate prearranged funerals with clients.,0.35,negotiation with clients needs human trust
+3347,"Morticians, Undertakers, and Funeral Arrangers","Maintain financial records, order merchandise, or prepare accounts.",0.85,financial record keeping and ordering
+3342,"Morticians, Undertakers, and Funeral Arrangers","Provide or arrange transportation between sites for the remains, mourners, pallbearers, clergy, or flowers.",0.45,transportation arranging and coordination
+3341,"Morticians, Undertakers, and Funeral Arrangers",Arrange for clergy members to perform needed services.,0.55,scheduling coordination via calls
+3348,"Morticians, Undertakers, and Funeral Arrangers","Plan placement of caskets at funeral sites or place or adjust lights, fixtures, or floral displays.",0.05,physical placement of caskets and displays
+15202,"Morticians, Undertakers, and Funeral Arrangers",Clean funeral home facilities and grounds.,0.00,physical facility cleaning
+15201,"Morticians, Undertakers, and Funeral Arrangers","Manage funeral home operations, including the hiring, training, or supervision of embalmers, funeral attendants, or other staff.",0.15,management requires physical authority and presence
+3346,"Morticians, Undertakers, and Funeral Arrangers",Inform survivors of benefits for which they may be eligible.,0.70,informational benefits guidance
+3349,"Morticians, Undertakers, and Funeral Arrangers",Arrange for pallbearers or inform pallbearers or honorary groups of their duties.,0.55,coordination and communication with pallbearers
+3350,"Morticians, Undertakers, and Funeral Arrangers",Receive or usher people to their seats for services.,0.00,physical ushering of guests
+15203,"Morticians, Undertakers, and Funeral Arrangers",Participate in community activities for funeral home promotion or other purposes.,0.05,requires physical participation in community events
+8049,Barbers,"Clean and sterilize scissors, combs, clippers, and other instruments.",0.00,physical sterilizing of instruments
+8051,Barbers,Drape and pin protective cloths around customers' shoulders.,0.00,physical draping of customers
+8050,Barbers,"Cut and trim hair according to clients' instructions or current hairstyles, using clippers, combs, hand-held blow driers, and scissors.",0.00,physical haircutting
+8052,Barbers,Question patrons regarding desired services and haircut styles.,0.55,conversational intake of preferences
+8053,Barbers,Clean work stations and sweep floors.,0.00,physical cleaning of work station
+8063,Barbers,"Apply lather and shave beards or neck and temple hair contours, using razors.",0.00,physical shaving
+8054,Barbers,Record services provided on cashiers' tickets or receive payment from customers.,0.30,record keeping possible but payment receipt is physical
+8056,Barbers,"Shape and trim beards and moustaches, using scissors.",0.00,physical beard trimming
+8061,Barbers,"Perform clerical and administrative duties such as keeping records, paying bills, and hiring and supervising personnel.",0.55,records and bills doable but hiring needs authority
+8057,Barbers,Stay informed of the latest styles and hair care techniques.,0.85,research and reading on trends
+8058,Barbers,Suggest treatments to alleviate hair problems.,0.45,advice giving benefits from physical inspection
+8055,Barbers,Order supplies.,0.85,supply ordering task
+8059,Barbers,Shampoo hair.,0.00,physical shampooing
+8065,Barbers,"Recommend and sell lotions, tonics, or other cosmetic supplies.",0.40,recommendation possible but selling is physical transaction
+8067,Barbers,Provide skin care and nail treatments.,0.00,physical skin and nail treatment
+8060,Barbers,"Keep card files on clientele, recording notes of work done, products used and fees charged after each visit.",0.85,pure record keeping task
+8062,Barbers,"Curl, color, or straighten hair, using special chemical solutions and equipment.",0.00,physical hair treatment
+8066,Barbers,"Provide face, neck, and scalp massages.",0.00,physical massage
+635,"Hairdressers, Hairstylists, and Cosmetologists","Keep work stations clean and sanitize tools, such as scissors and combs.",0.00,physical cleaning and sanitizing tools
+639,"Hairdressers, Hairstylists, and Cosmetologists","Bleach, dye, or tint hair, using applicator or brush.",0.00,physical hair coloring
+636,"Hairdressers, Hairstylists, and Cosmetologists","Cut, trim and shape hair or hairpieces, based on customers' instructions, hair type, and facial features, using clippers, scissors, trimmers and razors.",0.00,physical haircutting
+638,"Hairdressers, Hairstylists, and Cosmetologists",Schedule client appointments.,0.90,pure scheduling task
+640,"Hairdressers, Hairstylists, and Cosmetologists","Update and maintain customer information records, such as beauty services provided.",0.90,pure record keeping task
+643,"Hairdressers, Hairstylists, and Cosmetologists",Demonstrate and sell hair care products and cosmetics.,0.15,physical demonstration and in person selling
+637,"Hairdressers, Hairstylists, and Cosmetologists",Analyze patrons' hair and other physical features to determine and recommend beauty treatment or suggest hair styles.,0.40,photo based analysis possible but physical inspection typical
+641,"Hairdressers, Hairstylists, and Cosmetologists","Shampoo, rinse, condition, and dry hair and scalp or hairpieces with water, liquid soap, or other solutions.",0.00,physical shampooing and drying
+642,"Hairdressers, Hairstylists, and Cosmetologists",Operate cash registers to receive payments from patrons.,0.10,physical payment handling at register

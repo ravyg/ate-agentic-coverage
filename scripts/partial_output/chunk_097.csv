@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+9534,First-Line Supervisors of Housekeeping and Janitorial Workers,"Advise managers, desk clerks, or admitting personnel of rooms ready for occupancy.",0.30,advising needs physical readiness info from humans
+9513,First-Line Supervisors of Housekeeping and Janitorial Workers,Inspect work performed to ensure that it meets specifications and established standards.,0.10,requires on-site physical inspection
+9515,First-Line Supervisors of Housekeeping and Janitorial Workers,Perform or assist with cleaning duties as necessary.,0.00,physical cleaning labor
+9514,First-Line Supervisors of Housekeeping and Janitorial Workers,Plan and prepare employee work schedules.,0.85,scheduling from data is pure info work
+9527,First-Line Supervisors of Housekeeping and Janitorial Workers,Establish and implement operational standards and procedures for the departments supervised.,0.55,drafting standards easy but enforcement needs on-site authority
+9519,First-Line Supervisors of Housekeeping and Janitorial Workers,Inspect and evaluate the physical condition of facilities to determine the type of work required.,0.10,requires on-site physical inspection
+9524,First-Line Supervisors of Housekeeping and Janitorial Workers,Inventory stock to ensure that supplies and equipment are available in adequate amounts.,0.15,physical stock counting on site
+9522,First-Line Supervisors of Housekeeping and Janitorial Workers,Issue supplies and equipment to workers.,0.05,physical handoff of supplies
+9523,First-Line Supervisors of Housekeeping and Janitorial Workers,Forecast necessary levels of staffing and stock at different times to facilitate effective scheduling and ordering.,0.90,pure forecasting and analysis from data
+20130,First-Line Supervisors of Housekeeping and Janitorial Workers,Check and maintain equipment to ensure that it is in working order.,0.05,physical equipment checks
+9531,First-Line Supervisors of Housekeeping and Janitorial Workers,"Maintain required records of work hours, budgets, payrolls, and other information.",0.85,record keeping from data is info work
+9512,First-Line Supervisors of Housekeeping and Janitorial Workers,"Direct activities for stopping the spread of infections in facilities, such as hospitals.",0.20,directing on-site infection control needs presence
+9528,First-Line Supervisors of Housekeeping and Janitorial Workers,"Recommend or arrange for additional services, such as painting, repair work, renovations, and the replacement of furnishings and equipment.",0.55,recommending is easy arranging vendors needs authority
+9517,First-Line Supervisors of Housekeeping and Janitorial Workers,Coordinate activities with other departments to ensure that services are provided in an efficient and timely manner.,0.55,coordination via communication but needs live judgment
+9516,First-Line Supervisors of Housekeeping and Janitorial Workers,"Investigate complaints about service and equipment, and take corrective action.",0.30,investigation partly info corrective action needs presence
+9521,First-Line Supervisors of Housekeeping and Janitorial Workers,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.35,training often hands-on with equipment
+9529,First-Line Supervisors of Housekeeping and Janitorial Workers,"Select and order or purchase new equipment, supplies, or furnishings.",0.65,research and ordering online but purchase authority needed
+9536,First-Line Supervisors of Housekeeping and Janitorial Workers,"Prepare reports on activity, personnel, and information, such as occupancy, hours worked, facility usage, work performed, and departmental expenses.",0.90,report writing from data
+9526,First-Line Supervisors of Housekeeping and Janitorial Workers,"Confer with staff to resolve performance and personnel problems, and to discuss company policies.",0.25,sensitive personnel conversations need human rapport
+9525,First-Line Supervisors of Housekeeping and Janitorial Workers,"Evaluate employee performance and recommend personnel actions, such as promotions, transfers, and dismissals.",0.35,evaluation partly data driven but personnel decisions need authority
+9530,First-Line Supervisors of Housekeeping and Janitorial Workers,Recommend changes that could improve service and increase operational efficiency.,0.85,pure analysis and recommendation
+9535,First-Line Supervisors of Housekeeping and Janitorial Workers,"Perform financial tasks, such as estimating costs and preparing and managing budgets.",0.85,financial estimating and budgeting is info work
+9532,First-Line Supervisors of Housekeeping and Janitorial Workers,"Screen job applicants, and hire new employees.",0.30,screening is info work hiring needs human authority
+20131,First-Line Supervisors of Housekeeping and Janitorial Workers,"Perform grounds maintenance tasks, such as removing snow and mowing the lawn.",0.00,physical grounds labor
+11199,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",Establish and enforce operating procedures and work standards that will ensure adequate performance and personnel safety.,0.40,establishing procedures easy enforcement needs on-site authority
+11202,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Schedule work for crews, depending on work priorities, crew or equipment availability, or weather conditions.",0.85,scheduling crews from data and conditions
+11225,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Tour grounds, such as parks, botanical gardens, cemeteries, or golf courses, to inspect conditions of plants and soil.",0.05,requires physical touring of grounds
+11204,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Monitor project activities to ensure that instructions are followed, deadlines are met, and schedules are maintained.",0.35,monitoring partly reports but needs on-site observation
+11201,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Direct activities of workers who perform duties, such as landscaping, cultivating lawns, or pruning trees and shrubs.",0.15,directing on-site physical labor
+11200,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Inspect completed work to ensure conformance to specifications, standards, and contract requirements.",0.10,requires physical inspection of completed work
+11203,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Plant or maintain vegetation through activities such as mulching, fertilizing, watering, mowing, or pruning.",0.00,physical planting and maintenance labor
+11210,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Direct or perform mixing or application of fertilizers, insecticides, herbicides, or fungicides.",0.05,directing or performing physical chemical application
+11205,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Train workers in tasks such as transplanting or pruning trees or shrubs, finishing cement, using equipment, or caring for turf.",0.10,hands-on physical training
+11224,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Prepare service estimates based on labor, material, and machine costs and maintain budgets for individual projects.",0.85,cost estimating and budgeting is info work
+11215,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",Identify diseases or pests affecting landscaping and order appropriate treatments.,0.30,diagnosis usually needs on-site inspection ordering is info work
+11207,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Inventory supplies of tools, equipment, or materials to ensure that sufficient supplies are available and items are in usable condition.",0.15,physical inventory and condition checks
+11212,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Maintain required records, such as personnel information or project records.",0.85,record keeping is info work
+11209,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Perform personnel-related activities, such as hiring workers, evaluating staff performance, or taking disciplinary actions when performance problems occur.",0.25,hiring evaluation and discipline need human authority
+11206,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",Provide workers with assistance in performing duties as necessary to meet deadlines.,0.05,physical hands-on assistance
+11213,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Prepare or maintain required records, such as work activity or personnel reports.",0.85,record preparation is info work
+11216,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",Investigate work-related complaints to verify problems and to determine responses.,0.30,investigation partly info but interpersonal verification needed
+11219,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Perform administrative duties, such as authorizing leaves or processing time sheets.",0.65,admin processing mostly info some authorization judgment
+11208,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",Confer with other supervisors to coordinate work activities with those of other departments or units.,0.55,coordination via communication but needs live judgment
+11217,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Direct or assist workers engaged in the maintenance or repair of equipment, such as power tools or motorized equipment.",0.10,directing or assisting physical equipment repair
+11211,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Review contracts or work assignments to determine service, machine, or workforce requirements for jobs.",0.80,reviewing contracts and requirements is info work
+11214,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",Order the performance of corrective work when problems occur and recommend procedural changes to avoid such problems.,0.45,ordering corrective work needs authority recommending changes is info
+11221,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",Confer with managers or landscape architects to develop plans or schedules for landscaping maintenance or improvement.,0.55,collaborative planning via communication
+11220,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",Recommend changes in working conditions or equipment used to increase crew efficiency.,0.85,recommendation from analysis is info work
+11223,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Answer inquiries from current or prospective customers regarding methods, materials, or price ranges.",0.80,answering inquiries is communication and info work
+11218,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Install or maintain landscaped areas, performing tasks such as removing snow, pouring cement curbs, or repairing sidewalks.",0.00,physical installation and repair labor
+11226,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Design or supervise the installation of sprinkler systems, calculating water pressure, or valve and pipe coverage needs.",0.45,design calculations doable supervising installation needs presence
+11222,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Negotiate with customers regarding fees for landscaping, lawn service, or groundskeeping work.",0.35,negotiation needs live human rapport
+9538,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Service, clean, or supply restrooms.",0.00,physical cleaning labor
+9539,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",Gather and empty trash.,0.00,physical trash removal
+9540,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Clean building floors by sweeping, mopping, scrubbing, or vacuuming.",0.00,physical floor cleaning
+20590,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",Monitor building security and safety by performing tasks such as locking doors after operating hours or checking electrical appliance use to ensure that hazards are not created.,0.05,physical building checks and locking doors
+9544,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",Notify managers concerning the need for major repairs or additions to building operating systems.,0.30,notification easy but needs physical inspection to know needs
+9541,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",Follow procedures for the use of chemical cleaners and power equipment to prevent damage to floors and fixtures.,0.00,physical cleaning following procedures
+9542,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Mix water and detergents or acids in containers to prepare cleaning solutions, according to specifications.",0.00,physical mixing of solutions
+9546,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Clean windows, glass partitions, or mirrors, using soapy water or other cleaners, sponges, or squeegees.",0.00,physical window cleaning
+9545,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",Requisition supplies or equipment needed for cleaning and maintenance duties.,0.60,ordering supplies online is mostly info work
+9550,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Dust furniture, walls, machines, or equipment.",0.00,physical dusting
+9549,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",Clean and polish furniture and fixtures.,0.00,physical polishing
+9551,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Move heavy furniture, equipment, or supplies, either manually or with hand trucks.",0.00,physical moving of furniture
+9543,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Strip, seal, finish, and polish floors.",0.00,physical floor work
+9552,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Remove snow from sidewalks, driveways, or parking areas, using snowplows, snow blowers, or snow shovels, or spread snow-melting chemicals.",0.00,physical snow removal
+9555,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Make adjustments or minor repairs to heating, cooling, ventilating, plumbing, or electrical systems.",0.00,physical repair work
+20592,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Drive vans, industrial trucks, or other vehicles required to travel to, or to perform, cleaning work.",0.00,no body to drive vehicles
+9554,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",Spray insecticides or fumigants to prevent insect or rodent infestation.,0.00,physical spraying labor
+9548,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Set up, arrange, or remove decorations, tables, chairs, ladders, or scaffolding to prepare facilities for events, such as banquets or meetings.",0.00,physical setup of furniture and decorations
+9559,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Clean chimneys, flues, and connecting pipes, using power or hand tools.",0.00,physical chimney cleaning
+20591,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Mow or trim lawns or shrubbery, using mowers or hand or power trimmers, and clear debris from grounds.",0.00,physical mowing and trimming labor
+9547,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",Steam-clean or shampoo carpets.,0.00,physical carpet cleaning
+9564,Maids and Housekeeping Cleaners,"Keep storage areas and carts well-stocked, clean, and tidy.",0.00,physical stocking and tidying
+9560,Maids and Housekeeping Cleaners,"Carry linens, towels, toilet items, and cleaning supplies, using wheeled carts.",0.00,physical carrying of supplies
+9561,Maids and Housekeeping Cleaners,"Clean rooms, hallways, lobbies, lounges, restrooms, corridors, elevators, stairways, locker rooms, and other work areas so that health standards are met.",0.00,physical cleaning labor
+9562,Maids and Housekeeping Cleaners,"Empty wastebaskets, empty and clean ashtrays, and transport other trash and waste to disposal areas.",0.00,physical trash removal
+9566,Maids and Housekeeping Cleaners,"Sweep, scrub, wax, or polish floors, using brooms, mops, or powered scrubbing and waxing machines.",0.00,physical floor cleaning
+9563,Maids and Housekeeping Cleaners,"Replenish supplies, such as drinking glasses, linens, writing supplies, and bathroom items.",0.00,physical restocking
+9567,Maids and Housekeeping Cleaners,"Clean rugs, carpets, upholstered furniture, and draperies, using vacuum cleaners and shampooers.",0.00,physical carpet and furniture cleaning
+9568,Maids and Housekeeping Cleaners,"Wash windows, walls, ceilings, and woodwork, waxing and polishing as necessary.",0.00,physical washing and waxing
+9565,Maids and Housekeeping Cleaners,Dust and polish furniture and equipment.,0.00,physical dusting and polishing
+9570,Maids and Housekeeping Cleaners,"Disinfect equipment and supplies, using germicides or steam-operated sterilizers.",0.00,physical disinfecting
+9571,Maids and Housekeeping Cleaners,"Observe precautions required to protect hotel and guest property and report damage, theft, and found articles to supervisors.",0.10,mostly physical observation with a reporting component
+9577,Maids and Housekeeping Cleaners,"Sort, count, and mark clean linens and store them in linen closets.",0.00,physical sorting and storing of linens
+9575,Maids and Housekeeping Cleaners,"Sort clothing and other articles, load washing machines, and iron and fold dried items.",0.00,physical laundry handling
+9587,Maids and Housekeeping Cleaners,Move and arrange furniture and turn mattresses.,0.00,physical furniture moving
+9582,Maids and Housekeeping Cleaners,Replace light bulbs.,0.00,physical light bulb replacement
+9586,Maids and Housekeeping Cleaners,"Deliver television sets, ironing boards, baby cribs, and rollaway beds to guests' rooms.",0.00,physical delivery of items
+9569,Maids and Housekeeping Cleaners,Hang draperies and dust window blinds.,0.00,physical hanging and dusting
+9581,Maids and Housekeeping Cleaners,Request repair services and wait for repair workers to arrive.,0.55,requesting service is communication but waiting needs presence
+9579,Maids and Housekeeping Cleaners,"Prepare rooms for meetings and arrange decorations, media equipment, and furniture for social or business functions.",0.00,physical room setup
+9578,Maids and Housekeeping Cleaners,"Polish silver accessories and metalwork, such as fixtures and fittings.",0.00,physical polishing
+7974,Pest Control Workers,Record work activities performed.,0.90,record keeping is info work
+7975,Pest Control Workers,"Inspect premises to identify infestation source and extent of damage to property, wall, or roof porosity and access to infested locations.",0.05,requires physical on-site inspection
+20759,Pest Control Workers,Recommend treatment and prevention methods for pest problems to clients.,0.75,advisory recommendation is info work given inspection data
+7976,Pest Control Workers,"Spray or dust chemical solutions, powders, or gases into rooms, onto clothing, furnishings, or wood, or over marshlands, ditches, or catch basins.",0.00,physical chemical application
+7977,Pest Control Workers,Clean work site after completion of job.,0.00,physical cleanup labor
+7979,Pest Control Workers,Drive truck equipped with power spraying equipment.,0.00,no body to drive a truck
+20760,Pest Control Workers,"Measure area dimensions requiring treatment, calculate fumigant requirements, and estimate cost for service.",0.30,measuring on site is physical calculation is info work
+7983,Pest Control Workers,Study preliminary reports or diagrams of infested area and determine treatment type required to eliminate and prevent recurrence of infestation.,0.85,analysis of reports and diagrams is info work
+7978,Pest Control Workers,"Direct, or assist other workers in, treatment or extermination processes to eliminate or control rodents, insects, or weeds.",0.10,directing or assisting on-site physical treatment
+7981,Pest Control Workers,Post warning signs and lock building doors to secure area to be fumigated.,0.00,physical signage and locking
+7985,Pest Control Workers,"Set mechanical traps, or place poisonous paste or bait in sewers, burrows, or ditches.",0.00,physical trap and bait placement
+7982,Pest Control Workers,"Cut or bore openings in building or surrounding concrete, access infested areas, insert nozzle, and inject pesticide to impregnate ground.",0.00,physical cutting and injecting pesticide
+7986,Pest Control Workers,"Clean and remove blockages from infested areas to facilitate spraying procedures and provide drainage, using brooms, mops, shovels, or rakes.",0.00,physical cleanup labor
+9594,Landscaping and Groundskeeping Workers,Gather and remove litter.,0.00,physical litter removal
+9592,Landscaping and Groundskeeping Workers,"Use hand tools, such as shovels, rakes, pruning saws, saws, hedge or brush trimmers, or axes.",0.00,physical hand tool use
+20761,Landscaping and Groundskeeping Workers,"Operate vehicles or powered equipment, such as mowers, tractors, twin-axle vehicles, snow blowers, chainsaws, electric clippers, sod cutters, or pruning saws.",0.00,physical operation of vehicles and equipment
+9598,Landscaping and Groundskeeping Workers,"Water lawns, trees, or plants, using portable sprinkler systems, hoses, or watering cans.",0.00,physical watering labor
+9593,Landscaping and Groundskeeping Workers,"Prune or trim trees, shrubs, or hedges, using shears, pruners, or chain saws.",0.00,physical pruning labor
+9596,Landscaping and Groundskeeping Workers,"Mix and spray or spread fertilizers, herbicides, or insecticides onto grass, shrubs, or trees, using hand or automatic sprayers or spreaders.",0.00,physical spraying labor
+9591,Landscaping and Groundskeeping Workers,"Care for established lawns by mulching, aerating, weeding, grubbing, removing thatch, or trimming or edging around flower beds, walks, or walls.",0.00,physical lawn care labor
+9601,Landscaping and Groundskeeping Workers,"Follow planned landscaping designs to determine where to lay sod, sow grass, or plant flowers or foliage.",0.55,determining placement from a design is info work
+9599,Landscaping and Groundskeeping Workers,Trim or pick flowers and clean flower beds.,0.00,physical flower picking labor
+9611,Landscaping and Groundskeeping Workers,Attach wires from planted trees to support stakes.,0.00,physical staking of trees
+9602,Landscaping and Groundskeeping Workers,"Plant seeds, bulbs, foliage, flowering plants, grass, ground covers, trees, or shrubs, and apply mulch for protection, using gardening tools.",0.00,physical planting labor
+9589,Landscaping and Groundskeeping Workers,"Mow or edge lawns, using power mowers or edgers.",0.00,physical mowing labor
+9600,Landscaping and Groundskeeping Workers,"Rake, mulch, and compost leaves.",0.00,physical raking and composting
+9603,Landscaping and Groundskeeping Workers,Decorate gardens with stones or plants.,0.00,physical decorating labor
+9606,Landscaping and Groundskeeping Workers,Use irrigation methods to adjust the amount of water consumption and to prevent waste.,0.20,irrigation adjustment usually needs on-site valve control
+9597,Landscaping and Groundskeeping Workers,"Provide proper upkeep of sidewalks, driveways, parking lots, fountains, planters, burial sites, or other grounds features.",0.00,physical grounds upkeep
+9590,Landscaping and Groundskeeping Workers,"Shovel snow from walks, driveways, or parking lots, and spread salt in those areas.",0.00,physical snow shoveling
+9604,Landscaping and Groundskeeping Workers,"Maintain irrigation systems, including winterizing the systems and starting them up in spring.",0.00,physical irrigation system maintenance
+9610,Landscaping and Groundskeeping Workers,Plan or cultivate lawns or gardens.,0.30,planning is info work cultivating is physical labor
+9595,Landscaping and Groundskeeping Workers,"Maintain or repair tools, equipment, or structures, such as buildings, greenhouses, fences, or benches, using hand or power tools.",0.00,physical tool and structure repair
+9609,Landscaping and Groundskeeping Workers,"Care for artificial turf fields, periodically removing the turf and replacing cushioning pads or vacuuming and disinfecting the turf after use to prevent the growth of harmful bacteria.",0.00,physical turf care labor
+9612,Landscaping and Groundskeeping Workers,"Install rock gardens, ponds, decks, drainage systems, irrigation systems, retaining walls, fences, planters, or playground equipment.",0.00,physical installation labor
+9605,Landscaping and Groundskeeping Workers,"Care for natural turf fields, making sure the underlying soil has the required composition to allow proper drainage and to support the grasses.",0.05,physical turf and soil care
+9608,Landscaping and Groundskeeping Workers,Advise customers on plant selection or care.,0.85,advisory info work on plant selection and care

@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+10776,Crane and Tower Operators,"Direct truck drivers backing vehicles into loading bays and cover, uncover, or secure loads for delivery.",0.05,needs physical presence directing trucks and securing loads
+10774,Crane and Tower Operators,"Weigh bundles, using floor scales, and record weights for company records.",0.08,physical weighing though recording is easy
+15177,Dredge Operators,"Move levers to position dredges for excavation, to engage hydraulic pumps, to raise and lower suction booms, and to control rotation of cutterheads.",0.00,physical lever operation of dredge
+15178,Dredge Operators,Start and stop engines to operate equipment.,0.00,physical engine start and stop
+15179,Dredge Operators,"Start power winches that draw in or let out cables to change positions of dredges, or pull in and let out cables manually.",0.00,physical winch operation
+15180,Dredge Operators,Pump water to clear machinery pipelines.,0.00,physical pumping of machinery
+15181,Dredge Operators,"Lower anchor poles to verify depths of excavations, using winches, or scan depth gauges to determine depths of excavations.",0.05,physical winch lowering to check depth
+15182,Dredge Operators,"Direct or assist workers placing shore anchors and cables, laying additional pipes from dredges to shore, and pumping water from pontoons.",0.00,physical on-site directing of shore work
+4979,Hoist and Winch Operators,"Move levers, pedals, and throttles to stop, start, and regulate speeds of hoist or winch drums in response to hand, bell, buzzer, telephone, loud-speaker, or whistle signals, or by observing dial indicators or cable marks.",0.00,physical lever and pedal operation
+4980,Hoist and Winch Operators,Start engines of hoists or winches and use levers and pedals to wind or unwind cable on drums.,0.00,physical engine and cable operation
+4981,Hoist and Winch Operators,Observe equipment gauges and indicators and hand signals of other workers to verify load positions or depths.,0.05,physical on-site observation of gauges and signals
+4982,Hoist and Winch Operators,"Operate compressed air, diesel, electric, gasoline, or steam-driven hoists or winches to control movement of cableways, cages, derricks, draglines, loaders, railcars, or skips.",0.00,physical operation of hoist machinery
+4983,Hoist and Winch Operators,"Move or reposition hoists, winches, loads and materials, manually or using equipment and machines such as trucks, cars, and hand trucks.",0.00,physical repositioning of loads
+4984,Hoist and Winch Operators,Select loads or materials according to weight and size specifications.,0.10,mostly physical selection on site
+4985,Hoist and Winch Operators,Signal and assist other workers loading or unloading materials.,0.00,physical signaling and load assistance
+4986,Hoist and Winch Operators,"Attach, fasten, and disconnect cables or lines to loads, materials, and equipment, using hand tools.",0.00,physical cable attachment with hand tools
+4987,Hoist and Winch Operators,Apply hand or foot brakes and move levers to lock hoists or winches.,0.00,physical brake and lever operation
+4988,Hoist and Winch Operators,Oil winch drums so that cables will wind smoothly.,0.00,physical lubrication of equipment
+4989,Hoist and Winch Operators,Climb ladders to position and set up vehicle-mounted derricks.,0.00,physical climbing and rigging
+4990,Hoist and Winch Operators,"Repair, maintain, and adjust equipment, using hand tools.",0.00,physical equipment repair
+4991,Hoist and Winch Operators,"Tend auxiliary equipment, such as jacks, slings, cables, or stop blocks, to facilitate moving items or materials for further processing.",0.00,physical tending of auxiliary equipment
+3202,Industrial Truck and Tractor Operators,"Move levers or controls that operate lifting devices, such as forklifts, lift beams with swivel-hooks, hoists, or elevating platforms, to load, unload, transport, or stack material.",0.00,physical lift control operation
+3201,Industrial Truck and Tractor Operators,"Move controls to drive gasoline- or electric-powered trucks, cars, or tractors and transport materials between loading, processing, and storage areas.",0.00,physical driving of industrial trucks
+15266,Industrial Truck and Tractor Operators,"Manually or mechanically load or unload materials from pallets, skids, platforms, cars, lifting devices, or other transport vehicles.",0.00,physical loading and unloading
+3203,Industrial Truck and Tractor Operators,"Position lifting devices under, over, or around loaded pallets, skids, or boxes and secure material or products for transport to designated areas.",0.00,physical positioning of lifting devices
+15265,Industrial Truck and Tractor Operators,Inspect product load for accuracy and safely move it around the warehouse or facility to ensure timely and complete delivery.,0.05,physical inspection and movement in warehouse
+3206,Industrial Truck and Tractor Operators,Weigh materials or products and record weight or other production data on tags or labels.,0.08,physical weighing though recording is easy
+3205,Industrial Truck and Tractor Operators,"Perform routine maintenance on vehicles or auxiliary equipment, such as cleaning, lubricating, recharging batteries, fueling, or replacing liquefied-gas tank.",0.00,physical vehicle maintenance
+3207,Industrial Truck and Tractor Operators,"Operate or tend automatic stacking, loading, packaging, or cutting machines.",0.00,physical machine operation
+3210,Industrial Truck and Tractor Operators,"Turn valves and open chutes to dump, spray, or release materials from dump cars or storage bins into hoppers.",0.00,physical valve operation
+4997,Cleaners of Vehicles and Equipment,"Rinse objects and place them on drying racks or use cloth, squeegees, or air compressors to dry surfaces.",0.00,physical rinsing and drying
+5006,Cleaners of Vehicles and Equipment,"Apply paints, dyes, polishes, reconditioners, waxes, or masking materials to vehicles to preserve, protect, or restore color or condition.",0.00,physical application of vehicle finishes
+4996,Cleaners of Vehicles and Equipment,Clean and polish vehicle windows.,0.00,physical window cleaning
+4998,Cleaners of Vehicles and Equipment,Drive vehicles to or from workshops or customers' workplaces or homes.,0.00,physical driving of vehicles
+4993,Cleaners of Vehicles and Equipment,"Scrub, scrape, or spray machine parts, equipment, or vehicles, using scrapers, brushes, clothes, cleaners, disinfectants, insecticides, acid, abrasives, vacuums, or hoses.",0.00,physical scrubbing and spraying
+4992,Cleaners of Vehicles and Equipment,"Inspect parts, equipment, or vehicles for cleanliness, damage, and compliance with standards or regulations.",0.05,physical on-site inspection
+4994,Cleaners of Vehicles and Equipment,"Mix cleaning solutions, abrasive compositions, or other compounds, according to formulas.",0.00,physical mixing of chemicals
+5005,Cleaners of Vehicles and Equipment,Maintain inventories of supplies.,0.20,mostly physical stock handling with some tracking
+5000,Cleaners of Vehicles and Equipment,"Pre-soak or rinse machine parts, equipment, or vehicles by immersing objects in cleaning solutions or water, manually or using hoists.",0.00,physical pre-soaking of parts
+5007,Cleaners of Vehicles and Equipment,"Turn valves or disconnect hoses to eliminate water, cleaning solutions, or vapors from machinery or tanks.",0.00,physical valve and hose disconnection
+4999,Cleaners of Vehicles and Equipment,"Turn valves or handles on equipment to regulate pressure or flow of water, air, steam, or abrasives from sprayer nozzles.",0.00,physical valve regulation
+5008,Cleaners of Vehicles and Equipment,"Sweep, shovel, or vacuum loose debris or salvageable scrap into containers and remove containers from work areas.",0.00,physical sweeping and debris removal
+5002,Cleaners of Vehicles and Equipment,Monitor operation of cleaning machines and stop machines or notify supervisors when malfunctions occur.,0.15,mostly physical on-site machine monitoring
+4995,Cleaners of Vehicles and Equipment,Press buttons to activate cleaning equipment or machines.,0.00,physical button pressing
+5004,Cleaners of Vehicles and Equipment,Connect hoses or lines to pumps or other equipment.,0.00,physical hose connection
+5011,Cleaners of Vehicles and Equipment,"Clean the plastic work inside cars, using paintbrushes.",0.00,physical interior cleaning with brushes
+5003,Cleaners of Vehicles and Equipment,"Disassemble and reassemble machines or equipment or remove and reattach vehicle parts or trim, using hand tools.",0.00,physical disassembly with hand tools
+5001,Cleaners of Vehicles and Equipment,"Lubricate machinery, vehicles, or equipment or perform minor repairs or adjustments, using hand tools.",0.00,physical lubrication and repair
+5009,Cleaners of Vehicles and Equipment,"Transport materials, equipment, or supplies to or from work areas, using carts or hoists.",0.00,physical transport of materials
+5012,Cleaners of Vehicles and Equipment,"Fit boot spoilers, side skirts, or mud flaps to cars.",0.00,physical parts fitting
+10789,"Laborers and Freight, Stock, and Material Movers, Hand",Maintain equipment storage areas to ensure that inventory is protected.,0.10,mostly physical storage area upkeep
+10779,"Laborers and Freight, Stock, and Material Movers, Hand",Read work orders or receive oral instructions to determine work assignments or material or equipment needs.,0.55,reading and interpreting instructions is text based
+10781,"Laborers and Freight, Stock, and Material Movers, Hand","Move freight, stock, or other materials to and from storage or production areas, loading docks, delivery vehicles, ships, or containers, by hand or using trucks, tractors, or other equipment.",0.00,physical movement of freight
+10788,"Laborers and Freight, Stock, and Material Movers, Hand","Install protective devices, such as bracing, padding, or strapping, to prevent shifting or damage to items being transported.",0.00,physical installation of protective devices
+10782,"Laborers and Freight, Stock, and Material Movers, Hand",Sort cargo before loading and unloading.,0.00,physical sorting of cargo
+10778,"Laborers and Freight, Stock, and Material Movers, Hand",Attach identifying tags to containers or mark them with identifying information.,0.05,physical tag attachment
+10780,"Laborers and Freight, Stock, and Material Movers, Hand","Record numbers of units handled or moved, using daily production sheets or work tickets.",0.15,requires physical observation though logging is easy
+10790,"Laborers and Freight, Stock, and Material Movers, Hand","Attach slings, hooks, or other devices to lift cargo and guide loads.",0.00,physical rigging of cargo
+10787,"Laborers and Freight, Stock, and Material Movers, Hand",Carry needed tools or supplies from storage or trucks and return them after use.,0.00,physical carrying of tools
+10786,"Laborers and Freight, Stock, and Material Movers, Hand",Pack containers and re-pack damaged containers.,0.00,physical packing of containers
+10783,"Laborers and Freight, Stock, and Material Movers, Hand","Assemble product containers or crates, using hand tools and precut lumber.",0.00,physical assembly with hand tools
+10792,"Laborers and Freight, Stock, and Material Movers, Hand","Adjust controls to guide, position, or move equipment, such as cranes, booms, or cameras.",0.05,physical control adjustment of heavy equipment
+10796,"Laborers and Freight, Stock, and Material Movers, Hand",Connect electrical equipment to power sources so that it can be tested before use.,0.00,physical electrical connection
+17872,Recycling and Reclamation Workers,"Sort materials, such as metals, glass, wood, paper or plastics, into appropriate containers for recycling.",0.00,physical sorting of recyclables
+17884,Recycling and Reclamation Workers,"Clean recycling yard by sweeping, raking, picking up broken glass and loose paper debris, or moving barrels and bins.",0.00,physical yard cleaning
+17878,Recycling and Reclamation Workers,"Operate forklifts, pallet jacks, power lifts, or front-end loaders to load bales, bundles, or other heavy items onto trucks for shipping to smelters or other recycled materials processing facilities.",0.00,physical forklift operation
+17882,Recycling and Reclamation Workers,"Sort metals to separate high-grade metals, such as copper, brass, and aluminum, for recycling.",0.00,physical metal sorting
+17886,Recycling and Reclamation Workers,"Clean, inspect, or lubricate recyclable collection equipment or perform routine maintenance or minor repairs on recycling equipment, such as star gears, finger sorters, destoners, belts, and grinders.",0.00,physical equipment maintenance
+17885,Recycling and Reclamation Workers,"Collect and sort recyclable construction materials, such as concrete, drywall, plastics, or wood, into containers.",0.00,physical sorting of construction materials
+17871,Recycling and Reclamation Workers,"Extract chemicals from discarded appliances, such as air conditioners or refrigerators, using specialized machinery, such as refrigerant recovery equipment.",0.00,physical chemical extraction with machinery
+17874,Recycling and Reclamation Workers,Deposit recoverable materials into chutes or place materials on conveyor belts.,0.00,physical material deposit onto conveyors
+17877,Recycling and Reclamation Workers,Operate balers to compress recyclable materials into bundles or bales.,0.00,physical baler operation
+17883,Recycling and Reclamation Workers,"Clean materials, such as metals, according to recycling requirements.",0.00,physical cleaning of metals
+17881,Recycling and Reclamation Workers,Record logs of recycled materials or waste chemicals removed from products.,0.15,requires physical observation though logging is easy
+17879,Recycling and Reclamation Workers,"Operate processing equipment, such as fiber-sorters and grinders, to sort, crush, or grind recyclable materials.",0.00,physical processing equipment operation
+17873,Recycling and Reclamation Workers,Collect recyclable materials from curbside for delivery to designated facilities.,0.00,physical curbside collection and driving
+17876,Recycling and Reclamation Workers,Operate automated refuse or manual recycling collection vehicles.,0.00,physical vehicle operation
+14583,Machine Feeders and Offbearers,"Inspect materials and products for defects, and to ensure conformance to specifications.",0.10,physical hands-on inspection of materials
+14591,Machine Feeders and Offbearers,"Record production and operational data, such as amount of materials processed.",0.20,recording data though requires physical observation
+14585,Machine Feeders and Offbearers,"Push dual control buttons and move controls to start, stop, or adjust machinery and equipment.",0.00,physical button and control operation
+14589,Machine Feeders and Offbearers,Weigh or measure materials or products to ensure conformance to specifications.,0.05,physical weighing and measuring
+14586,Machine Feeders and Offbearers,"Identify and mark materials, products, and samples, following instructions.",0.05,physical marking of materials
+14588,Machine Feeders and Offbearers,"Clean and maintain machinery, equipment, and work areas to ensure proper functioning and safe working conditions.",0.00,physical cleaning and maintenance
+14587,Machine Feeders and Offbearers,"Load materials and products into machines and equipment, or onto conveyors, using hand tools and moving devices.",0.00,physical loading of machines
+14593,Machine Feeders and Offbearers,"Transfer materials and products to and from machinery and equipment, using industrial trucks or hand trucks.",0.00,physical transfer with trucks
+14590,Machine Feeders and Offbearers,"Fasten, package, or stack materials and products, using hand tools and fastening equipment.",0.00,physical fastening and stacking
+14584,Machine Feeders and Offbearers,"Remove materials and products from machines and equipment, and place them in boxes, trucks or conveyors, using hand tools and moving devices.",0.00,physical removal and placement
+14595,Machine Feeders and Offbearers,"Shovel or scoop materials into containers, machines, or equipment for processing, storage, or transport.",0.00,physical shoveling of materials
+14594,Machine Feeders and Offbearers,Open and close gates of belt and pneumatic conveyors on machines that are fed directly from preceding machines.,0.00,physical conveyor gate operation
+14592,Machine Feeders and Offbearers,"Add chemicals, solutions, or ingredients to machines or equipment as required by the manufacturing process.",0.00,physical addition of chemicals
+21216,"Packers and Packagers, Hand","Examine and inspect containers, materials, or products to ensure that product quality and packing specifications are met.",0.10,physical hands-on inspection of products
+3212,"Packers and Packagers, Hand","Measure, weigh, and count products and materials.",0.05,physical measuring and weighing
+3214,"Packers and Packagers, Hand","Record product, packaging, and order information on specified forms and records.",0.25,record keeping though based on physical handling
+3216,"Packers and Packagers, Hand","Seal containers or materials, using glues, fasteners, nails, and hand tools.",0.00,physical sealing with hand tools
+3218,"Packers and Packagers, Hand","Assemble, line, and pad cartons, crates, and containers, using hand tools.",0.00,physical assembly with hand tools
+3222,"Packers and Packagers, Hand","Obtain, move, and sort products, materials, containers, and orders, using hand tools.",0.00,physical sorting and moving of products
+3211,"Packers and Packagers, Hand","Mark and label containers, container tags, or products, using marking tools.",0.05,physical marking of containers
+3219,"Packers and Packagers, Hand","Clean containers, materials, supplies, or work areas, using cleaning solutions and hand tools.",0.00,physical cleaning with hand tools
+3215,"Packers and Packagers, Hand","Remove completed or defective products or materials, placing them on moving equipment, such as conveyors, or in specified areas, such as loading docks.",0.00,physical removal and placement of products
+3221,"Packers and Packagers, Hand","Place or pour products or materials into containers, using hand tools and equipment, or fill containers from spouts or chutes.",0.00,physical pouring and filling
+3217,"Packers and Packagers, Hand",Load materials and products into package processing equipment.,0.00,physical loading into equipment
+3220,"Packers and Packagers, Hand",Transport packages to customers' vehicles.,0.00,physical transport to vehicles
+23871,Stockers and Order Fillers,Complete order receipts.,0.55,order receipts are text based paperwork
+23877,Stockers and Order Fillers,Answer customers' questions about merchandise and advise customers on merchandise selection.,0.35,live in-person customer interaction and advice
+23886,Stockers and Order Fillers,"Issue or distribute materials, products, parts, and supplies to customers or coworkers, based on information from incoming requisitions.",0.05,physical distribution of materials
+23895,Stockers and Order Fillers,Keep records of out-going orders.,0.70,record keeping of orders is text based
+23880,Stockers and Order Fillers,"Stock shelves, racks, cases, bins, and tables with new or transferred merchandise.",0.00,physical shelf stocking
+23899,Stockers and Order Fillers,Operate equipment such as forklifts.,0.00,physical forklift operation
+23879,Stockers and Order Fillers,"Stamp, attach, or change price tags on merchandise, referring to price list.",0.05,physical price tag attachment
+23872,Stockers and Order Fillers,Obtain merchandise from bins or shelves.,0.00,physical retrieval from shelves
+23878,Stockers and Order Fillers,"Receive and count stock items, and record data manually or on computer.",0.15,requires physical counting though recording is easy
+23873,Stockers and Order Fillers,"Read orders to ascertain catalog numbers, sizes, colors, and quantities of merchandise.",0.80,reading order details is pure text work
+23900,Stockers and Order Fillers,"Receive, unload, open, unpack, or issue sales floor merchandise.",0.00,physical unloading and unpacking
+23890,Stockers and Order Fillers,Pack customer purchases in bags or cartons.,0.00,physical bagging of purchases
+23875,Stockers and Order Fillers,"Store items in an orderly and accessible manner in warehouses, tool rooms, supply rooms, or other areas.",0.00,physical storage of items
+23884,Stockers and Order Fillers,"Mark stock items, using identification tags, stamps, electric marking tools, or other labeling equipment.",0.00,physical marking with tools
+23874,Stockers and Order Fillers,"Pack and unpack items to be stocked on shelves in stockrooms, warehouses, or storage yards.",0.00,physical packing and unpacking
+23885,Stockers and Order Fillers,Take inventory or examine merchandise to identify items to be reordered or replenished.,0.20,physical inventory check though analysis part is easy
+23888,Stockers and Order Fillers,"Clean display cases, shelves, and aisles.",0.00,physical cleaning of displays
+23894,Stockers and Order Fillers,Keep records on the use or damage of stock or stock-handling equipment.,0.65,record keeping of equipment condition
+23892,Stockers and Order Fillers,"Clean and maintain supplies, tools, equipment, and storage areas to ensure compliance with safety regulations.",0.00,physical cleaning and maintenance
+23898,Stockers and Order Fillers,"Determine proper storage methods, identification, and stock location, based on turnover, environmental factors, and physical capabilities of facilities.",0.65,analytical planning based on turnover data
+23891,Stockers and Order Fillers,"Dispose of damaged or defective items, or return them to vendors.",0.10,physical disposal or return of items
+23893,Stockers and Order Fillers,"Recommend disposal of excess, defective, or obsolete stock.",0.85,pure analysis and recommendation from data
+23889,Stockers and Order Fillers,"Design and set up advertising signs and displays of merchandise on shelves, counters, or tables to attract customers and promote sales.",0.15,mostly physical display setup with some design help
+23887,Stockers and Order Fillers,"Provide assistance or direction to other stockroom, warehouse, or storage yard workers.",0.30,in-person supervisory direction of coworkers
+23876,Stockers and Order Fillers,"Examine and inspect stock items for wear or defects, reporting any damage to supervisors.",0.15,physical inspection though reporting is easy
+23896,Stockers and Order Fillers,Compute prices of items or groups of items.,0.90,pure price computation
+23882,Stockers and Order Fillers,"Itemize and total customer merchandise selection at checkout counter, using cash register, and accept cash or charge card for purchases.",0.05,in-person cash register and payment handling
+23897,Stockers and Order Fillers,"Requisition merchandise from supplier, based on available space, merchandise on hand, customer demand, or advertised specials.",0.65,ordering decision and requisition from data

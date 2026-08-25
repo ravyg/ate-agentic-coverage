@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+2868,Tile and Stone Setters,"Select and order tile and other items to be installed, such as bathroom accessories, walls, panels, and cabinets, according to specifications.",0.75,research specs and place orders online
+2857,Tile and Stone Setters,"Build underbeds and install anchor bolts, wires, and brackets.",0.00,physical on-site installation
+7047,Cement Masons and Concrete Finishers,Check the forms that hold the concrete to see that they are properly constructed.,0.00,physical on-site inspection of forms
+7048,Cement Masons and Concrete Finishers,"Set the forms that hold concrete to the desired pitch and depth, and align them.",0.00,physical form setting
+7049,Cement Masons and Concrete Finishers,"Spread, level, and smooth concrete, using rake, shovel, hand or power trowel, hand or power screed, and float.",0.00,manual concrete spreading and finishing
+7051,Cement Masons and Concrete Finishers,"Monitor how the wind, heat, or cold affect the curing of the concrete throughout the entire process.",0.05,requires on-site physical monitoring of curing
+7050,Cement Masons and Concrete Finishers,"Mold expansion joints and edges, using edging tools, jointers, and straightedge.",0.00,manual tool work
+7052,Cement Masons and Concrete Finishers,"Signal truck driver to position truck to facilitate pouring concrete, and move chute to direct concrete on forms.",0.00,on-site physical signaling and directing
+7055,Cement Masons and Concrete Finishers,Direct the casting of the concrete and supervise laborers who use shovels or special tools to spread it.,0.05,on-site supervision and physical direction
+7053,Cement Masons and Concrete Finishers,"Produce rough concrete surface, using broom.",0.00,manual broom work
+7061,Cement Masons and Concrete Finishers,"Apply hardening and sealing compounds to cure surface of concrete, and waterproof or restore surface.",0.00,physical application of compounds
+7054,Cement Masons and Concrete Finishers,Operate power vibrator to compact concrete.,0.00,operating power vibrator by hand
+7069,Cement Masons and Concrete Finishers,"Install anchor bolts, steel plates, door sills and other fixtures in freshly poured concrete or pattern or stamp the surface to provide a decorative finish.",0.00,physical installation and stamping
+7059,Cement Masons and Concrete Finishers,"Wet surface to prepare for bonding, fill holes and cracks with grout or slurry, and smooth, using trowel.",0.00,manual trowel work
+7068,Cement Masons and Concrete Finishers,"Waterproof or restore concrete surfaces, using appropriate compounds.",0.00,physical waterproofing application
+7056,Cement Masons and Concrete Finishers,"Mix cement, sand, and water to produce concrete, grout, or slurry, using hoe, trowel, tamper, scraper, or concrete-mixing machine.",0.00,manual mixing of materials
+7062,Cement Masons and Concrete Finishers,"Chip, scrape, and grind high spots, ridges, and rough projections to finish concrete, using pneumatic chisels, power grinders, or hand tools.",0.00,manual grinding and chipping
+7057,Cement Masons and Concrete Finishers,"Cut out damaged areas, drill holes for reinforcing rods, and position reinforcing rods to repair concrete, using power saw and drill.",0.00,physical cutting and drilling
+7058,Cement Masons and Concrete Finishers,"Wet concrete surface, and rub with stone to smooth surface and obtain specified finish.",0.00,manual finishing by hand
+7060,Cement Masons and Concrete Finishers,"Clean chipped area, using wire brush, and feel and observe surface to determine if it is rough or uneven.",0.00,physical tactile inspection
+7064,Cement Masons and Concrete Finishers,"Build wooden molds, and clamp molds around area to be repaired, using hand tools.",0.00,manual mold building
+7065,Cement Masons and Concrete Finishers,"Sprinkle colored marble or stone chips, powdered steel, or coloring powder over surface to produce prescribed finish.",0.00,physical application of chips
+7067,Cement Masons and Concrete Finishers,"Fabricate concrete beams, columns, and panels.",0.00,physical fabrication
+7072,Cement Masons and Concrete Finishers,"Polish surface, using polishing or surfacing machine.",0.00,operating polishing machine physically
+7066,Cement Masons and Concrete Finishers,"Cut metal division strips, and press them into terrazzo base so that top edges form desired design or pattern.",0.00,manual cutting and pressing
+7071,Cement Masons and Concrete Finishers,Push roller over surface to embed chips in surface.,0.00,manual roller work
+7070,Cement Masons and Concrete Finishers,"Apply muriatic acid to clean surface, and rinse with water.",0.00,physical chemical application
+7063,Cement Masons and Concrete Finishers,"Spread roofing paper on surface of foundation, and spread concrete onto roofing paper with trowel to form terrazzo base.",0.00,manual spreading of materials
+9825,Terrazzo Workers and Finishers,"Measure designated amounts of ingredients for terrazzo or grout, according to standard formulas and specifications, using graduated containers and scales, and load ingredients into portable mixer.",0.00,physical measuring and mixing on site
+9829,Terrazzo Workers and Finishers,"Grind surfaces with a power grinder, or polish surfaces with polishing or surfacing machines.",0.00,operating grinder by hand
+9823,Terrazzo Workers and Finishers,Cut metal division strips and press them into the terrazzo base for joints or changes of color to form designs or patterns or to help prevent cracks.,0.00,manual cutting and pressing
+9824,Terrazzo Workers and Finishers,"Blend marble chip mixtures, place into panels, and push a roller over the surface to embed the chips.",0.00,physical blending and rolling
+9831,Terrazzo Workers and Finishers,"Modify mixing, grouting, grinding, or cleaning procedures, according to type of installation or material used.",0.15,procedural judgment tied to physical material feel
+9827,Terrazzo Workers and Finishers,"Spread, level, or smooth concrete or terrazzo mixtures to form bases or finished surfaces, using rakes, shovels, hand or power trowels, hand or power screeds, or floats.",0.00,manual spreading and smoothing
+9828,Terrazzo Workers and Finishers,"Grind curved surfaces or areas inaccessible to surfacing machine, such as stairways or cabinet tops, with portable hand grinder.",0.00,manual grinding in tight spaces
+9832,Terrazzo Workers and Finishers,"Wash polished terrazzo surface, using cleaner and water, and apply sealer and curing agent according to manufacturer's specifications, using brush or sprayer.",0.00,physical washing and sealing
+9830,Terrazzo Workers and Finishers,Position and secure moisture membrane and wire mesh in preparation for pouring base materials for terrazzo installation.,0.00,physical positioning of membrane and mesh
+9838,Terrazzo Workers and Finishers,"Fill slight grinding depressions with matching grout material and hand-trowel for a smooth, uniform surface.",0.00,manual grout filling and troweling
+9837,Terrazzo Workers and Finishers,"Clean installation site, mixing and storage areas, tools, machines, and equipment, and store materials and equipment.",0.00,physical site cleaning
+9834,Terrazzo Workers and Finishers,"Sprinkle colored marble or stone chips, powdered steel, or coloring powder over surface to produce prescribed finish.",0.00,physical application of chips
+9835,Terrazzo Workers and Finishers,"Wet surface to prepare for bonding, fill holes and cracks with grout or slurry, and smooth with a trowel.",0.00,manual trowel work
+9833,Terrazzo Workers and Finishers,"Mix cement, sand, and water to produce concrete, grout, or slurry, using hoe, trowel, tamper, scraper, or concrete-mixing machine.",0.00,manual mixing
+9839,Terrazzo Workers and Finishers,"Chip, scrape, or grind high spots, ridges, or rough projections to finish concrete, using pneumatic chisel, hand chisel, or other hand tools.",0.00,manual grinding and chipping
+9826,Terrazzo Workers and Finishers,"Mold expansion joints and edges, using edging tools, jointers, or straightedges.",0.00,manual tool work
+9841,Terrazzo Workers and Finishers,"Move terrazzo installation materials, tools, machines, or work devices to work areas, manually or using wheelbarrow.",0.00,physical moving of materials
+9840,Terrazzo Workers and Finishers,"Clean chipped area, using wire brush, and feel and observe surface to determine if it is rough or uneven.",0.00,physical tactile inspection
+9836,Terrazzo Workers and Finishers,"Repair concrete by cutting out damaged areas, drilling holes for reinforcing rods, and positioning reinforcing rods, using power saw and drill.",0.00,physical repair with power tools
+9845,Terrazzo Workers and Finishers,Precast terrazzo blocks in wooden forms.,0.00,physical precasting
+9848,Terrazzo Workers and Finishers,Wet concrete surface and rub with stone to smooth surface and obtain specified finish.,0.00,manual finishing by hand
+9842,Terrazzo Workers and Finishers,"Build wooden molds, clamping molds around areas to be repaired, or setting up frames to the proper depth and alignment.",0.00,manual mold building
+9846,Terrazzo Workers and Finishers,Spread roofing paper on surface of foundation and spread concrete onto roofing paper with trowel to form terrazzo base.,0.00,manual spreading of materials
+9844,Terrazzo Workers and Finishers,"Produce rough concrete surface, using broom.",0.00,manual broom work
+9847,Terrazzo Workers and Finishers,Remove frames when the foundation is dry.,0.00,physical frame removal
+9843,Terrazzo Workers and Finishers,Signal truck driver to position truck to facilitate pouring concrete and move chute to direct concrete on forms.,0.00,on-site physical signaling
+11472,Construction Laborers,"Tend pumps, compressors, or generators to provide power for tools, machinery, or equipment or to heat or move materials, such as asphalt.",0.00,physical equipment tending
+11465,Construction Laborers,"Lubricate, clean, or repair machinery, equipment, or tools.",0.00,physical maintenance work
+11458,Construction Laborers,"Signal equipment operators to facilitate alignment, movement, or adjustment of machinery, equipment, or materials.",0.00,on-site physical signaling
+11456,Construction Laborers,"Read plans, instructions, or specifications to determine work activities.",0.85,reading and interpreting documents to plan work
+11461,Construction Laborers,"Measure, mark, or record openings or distances to layout areas where construction work will be performed.",0.00,physical on-site measuring
+11455,Construction Laborers,Clean or prepare construction sites to eliminate possible hazards.,0.00,physical site cleanup
+11459,Construction Laborers,"Dig ditches or trenches, backfill excavations, or compact and level earth to grade specifications, using picks, shovels, pneumatic tampers, or rakes.",0.00,manual digging and grading
+11462,Construction Laborers,"Load, unload, or identify building materials, machinery, or tools, distributing them to the appropriate locations, according to project plans or specifications.",0.05,mostly physical loading and distributing
+11460,Construction Laborers,"Position, join, align, or seal structural components, such as concrete wall sections or pipes.",0.00,physical positioning of components
+19838,Construction Laborers,"Perform site activities required of green certified construction practices, such as implementing waste management procedures, identifying materials for reuse, or installing erosion or sedimentation control mechanisms.",0.00,physical site work
+11457,Construction Laborers,"Control traffic passing near, in, or around work zones.",0.00,requires physical presence for traffic safety
+11469,Construction Laborers,"Install sewer, water, or storm drain pipes, using pipe-laying machinery or laser guidance equipment.",0.00,physical pipe installation
+11468,Construction Laborers,Operate or maintain air monitoring or other sampling devices in confined or hazardous environments.,0.00,requires physical presence in hazardous sites
+11467,Construction Laborers,"Smooth or finish freshly poured cement or concrete, using floats, trowels, screeds, or powered cement finishing tools.",0.00,manual concrete finishing
+11463,Construction Laborers,"Erect or dismantle scaffolding, shoring, braces, traffic barricades, ramps, or other temporary structures.",0.00,physical scaffolding erection
+11471,Construction Laborers,"Provide assistance to craft workers, such as carpenters, plasterers, or masons.",0.00,physical on-site assistance
+11482,Construction Laborers,"Spray materials, such as water, sand, steam, vinyl, paint, or stucco, through hoses to clean, coat, or seal surfaces.",0.00,physical spraying application
+11481,Construction Laborers,Raze buildings or salvage useful materials.,0.00,physical demolition work
+11473,Construction Laborers,"Mop, brush, or spread paints, cleaning solutions, or other compounds over surfaces to clean them or to provide protection.",0.00,manual application of compounds
+11464,Construction Laborers,"Position or dismantle forms for pouring concrete, using saws, hammers, nails, or bolts.",0.00,physical form assembly
+11478,Construction Laborers,"Grind, scrape, sand, or polish surfaces, such as concrete, marble, terrazzo, or wood flooring, using abrasive tools or machines.",0.00,manual grinding and polishing
+11474,Construction Laborers,"Place, consolidate, or protect case-in-place concrete or masonry structures.",0.00,physical concrete placement
+11480,Construction Laborers,Mix ingredients to create compounds for covering or cleaning surfaces.,0.00,physical mixing of compounds
+11477,Construction Laborers,"Mix, pour, or spread concrete, using portable cement mixers.",0.00,physical mixing and pouring
+11466,Construction Laborers,Operate jackhammers or drills to break up concrete or pavement.,0.00,operating jackhammer physically
+11483,Construction Laborers,Apply caulking compounds by hand or caulking guns to protect against entry of water or air.,0.00,manual caulking application
+11479,Construction Laborers,"Tend machines that pump concrete, grout, cement, sand, plaster, or stucco through spray guns for application to ceilings or walls.",0.00,physical machine tending
+4796,"Paving, Surfacing, and Tamping Equipment Operators","Start machine, engage clutch, and push and move levers to guide machine along forms or guidelines and to control the operation of machine attachments.",0.00,physically operating machine controls
+4809,"Paving, Surfacing, and Tamping Equipment Operators","Fill tanks, hoppers, or machines with paving materials.",0.00,physical filling of machines
+4807,"Paving, Surfacing, and Tamping Equipment Operators",Control paving machines to push dump trucks and to maintain a constant flow of asphalt or other material into hoppers or screeds.,0.00,physically controlling paving machine
+4805,"Paving, Surfacing, and Tamping Equipment Operators","Observe distribution of paving material to adjust machine settings or material flow, and indicate low spots for workers to add material.",0.00,on-site visual observation and adjustment
+4800,"Paving, Surfacing, and Tamping Equipment Operators",Coordinate truck dumping.,0.00,on-site physical coordination
+4804,"Paving, Surfacing, and Tamping Equipment Operators","Drive machines onto truck trailers, and drive trucks to transport machines and material to and from job sites.",0.00,physical driving of machines and trucks
+4797,"Paving, Surfacing, and Tamping Equipment Operators","Inspect, clean, maintain, and repair equipment, using mechanics' hand tools, or report malfunctions to supervisors.",0.00,physical equipment maintenance
+4801,"Paving, Surfacing, and Tamping Equipment Operators",Set up and tear down equipment.,0.00,physical equipment setup
+4798,"Paving, Surfacing, and Tamping Equipment Operators","Operate machines to spread, smooth, level, or steel-reinforce stone, concrete, or asphalt on road beds.",0.00,physically operating paving machines
+4806,"Paving, Surfacing, and Tamping Equipment Operators","Light burners or start heating units of machines, and regulate screed temperatures and asphalt flow rates.",0.00,physical machine operation
+20143,"Paving, Surfacing, and Tamping Equipment Operators",Control traffic.,0.00,requires physical presence for traffic control
+4803,"Paving, Surfacing, and Tamping Equipment Operators",Shovel blacktop.,0.00,manual shoveling
+4802,"Paving, Surfacing, and Tamping Equipment Operators","Operate tamping machines or manually roll surfaces to compact earth fills, foundation forms, and finished road materials, according to grade specifications.",0.00,physically operating tamping equipment
+4799,"Paving, Surfacing, and Tamping Equipment Operators","Operate oil distributors, loaders, chip spreaders, dump trucks, and snow plows.",0.00,physically operating heavy equipment
+4814,"Paving, Surfacing, and Tamping Equipment Operators","Place strips of material, such as cork, asphalt, or steel into joints, or place rolls of expansion-joint material on machines that automatically insert material.",0.00,manual placement of joint material
+4810,"Paving, Surfacing, and Tamping Equipment Operators",Drive and operate curbing machines to extrude concrete or asphalt curbing.,0.00,physically operating curbing machine
+4813,"Paving, Surfacing, and Tamping Equipment Operators",Operate machines that clean or cut expansion joints in concrete or asphalt and that rout out cracks in pavement.,0.00,physically operating cutting machine
+4811,"Paving, Surfacing, and Tamping Equipment Operators","Cut or break up pavement and drive guardrail posts, using machines equipped with interchangeable hammers.",0.00,physically operating hammer equipment
+4812,"Paving, Surfacing, and Tamping Equipment Operators","Install dies, cutters, and extensions to screeds onto machines, using hand tools.",0.00,manual installation of machine parts
+4808,"Paving, Surfacing, and Tamping Equipment Operators","Set up forms and lay out guidelines for curbs, according to written specifications, using string, spray paint, and concrete or water mixes.",0.00,physical layout and form setup
+14901,Pile Driver Operators,"Move hand and foot levers of hoisting equipment to position piling leads, hoist piling into leads, and position hammers over pilings.",0.00,physically operating hoisting equipment
+14904,Pile Driver Operators,"Move levers and turn valves to activate power hammers, or to raise and lower drophammers that drive piles to required depths.",0.00,physically operating pile driver
+14903,Pile Driver Operators,"Drive pilings to provide support for buildings or other structures, using heavy equipment with a pile driver head.",0.00,operating heavy equipment on site
+14902,Pile Driver Operators,Conduct pre-operational checks on equipment to ensure proper functioning.,0.00,physical equipment inspection
+14905,Pile Driver Operators,"Clean, lubricate, and refill equipment.",0.00,physical equipment maintenance
+9849,Operating Engineers and Other Construction Equipment Operators,Learn and follow safety regulations.,0.10,can learn regulations but following requires physical compliance
+9850,Operating Engineers and Other Construction Equipment Operators,"Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.",0.00,physical hazard avoidance on site
+9852,Operating Engineers and Other Construction Equipment Operators,"Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.",0.00,physically operating heavy machinery
+9858,Operating Engineers and Other Construction Equipment Operators,"Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.",0.00,physical coordination with crew signals
+9855,Operating Engineers and Other Construction Equipment Operators,"Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.",0.00,physical alignment of machines
+9853,Operating Engineers and Other Construction Equipment Operators,"Locate underground services, such as pipes or wires, prior to beginning work.",0.00,on-site physical detection of utilities
+9868,Operating Engineers and Other Construction Equipment Operators,Signal operators to guide movement of tractor-drawn machines.,0.00,on-site physical signaling
+9860,Operating Engineers and Other Construction Equipment Operators,"Repair and maintain equipment, making emergency adjustments or assisting with major repairs as necessary.",0.00,physical equipment repair
+9856,Operating Engineers and Other Construction Equipment Operators,"Load and move dirt, rocks, equipment, or other materials, using trucks, crawler tractors, power cranes, shovels, graders, or related equipment.",0.00,physically operating loading equipment
+9857,Operating Engineers and Other Construction Equipment Operators,"Drive and maneuver equipment equipped with blades in successive passes over working areas to remove topsoil, vegetation, or rocks or to distribute and level earth or terrain.",0.00,physically operating grading equipment
+9859,Operating Engineers and Other Construction Equipment Operators,"Operate tractors or bulldozers to perform such tasks as clearing land, mixing sludge, trimming backfills, or building roadways or parking lots.",0.00,physically operating tractors and bulldozers
+9854,Operating Engineers and Other Construction Equipment Operators,Monitor operations to ensure that health and safety standards are met.,0.10,some remote monitoring possible but needs on-site authority
+9862,Operating Engineers and Other Construction Equipment Operators,"Connect hydraulic hoses, belts, mechanical linkages, or power takeoff shafts to tractors.",0.00,manual connection of hydraulic components
+9864,Operating Engineers and Other Construction Equipment Operators,"Select and fasten bulldozer blades or other attachments to tractors, using hitches.",0.00,manual attachment of equipment
+9863,Operating Engineers and Other Construction Equipment Operators,"Operate loaders to pull out stumps, rip asphalt or concrete, rough-grade properties, bury refuse, or perform general cleanup.",0.00,physically operating loaders
+9875,Operating Engineers and Other Construction Equipment Operators,"Operate equipment to demolish or remove debris or to remove snow from streets, roads, or parking lots.",0.00,physically operating demolition equipment
+9872,Operating Engineers and Other Construction Equipment Operators,Keep records of material or equipment usage or problems encountered.,0.35,recordkeeping easy but relies on on-site observation input
+9851,Operating Engineers and Other Construction Equipment Operators,"Adjust handwheels and depress pedals to control attachments, such as blades, buckets, scrapers, or swing booms.",0.00,physically operating equipment controls
+9861,Operating Engineers and Other Construction Equipment Operators,Check fuel supplies at sites to ensure adequate availability.,0.05,on-site physical fuel check
+9867,Operating Engineers and Other Construction Equipment Operators,"Talk to clients and study instructions, plans, or diagrams to establish work requirements.",0.55,can converse with clients and review plans remotely
+9873,Operating Engineers and Other Construction Equipment Operators,Drive tractor-trailer trucks to move equipment from site to site.,0.00,physical driving of trucks
+9871,Operating Engineers and Other Construction Equipment Operators,Push other equipment when extra traction or assistance is required.,0.00,physically pushing equipment
+9869,Operating Engineers and Other Construction Equipment Operators,"Operate road watering, oiling, or rolling equipment, or street sealing equipment, such as chip spreaders.",0.00,physically operating road equipment
+9866,Operating Engineers and Other Construction Equipment Operators,"Operate compactors, scrapers, or rollers to level, compact, or cover refuse at disposal grounds.",0.00,physically operating compactors and rollers

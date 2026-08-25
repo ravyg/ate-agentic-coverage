@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+1211,"Meeting, Convention, and Event Planners",Confer with staff at a chosen event site to coordinate details.,0.55,coordination call with event site staff
+1212,"Meeting, Convention, and Event Planners",Review event bills for accuracy and approve payment.,0.55,can review but human approves payment
+1213,"Meeting, Convention, and Event Planners","Plan and develop programs, agendas, budgets, and services according to customer requirements.",0.85,drafting plans agendas and budgets
+1214,"Meeting, Convention, and Event Planners","Coordinate services for events, such as accommodation and transportation for participants, facilities, catering, signage, displays, special needs requirements, printing and event security.",0.55,logistics coordination via calls and bookings
+1215,"Meeting, Convention, and Event Planners","Arrange the availability of audio-visual equipment, transportation, displays, and other event needs.",0.60,arranging equipment and services via booking
+1216,"Meeting, Convention, and Event Planners",Inspect event facilities to ensure that they conform to customer requirements.,0.05,needs on-site physical inspection
+1217,"Meeting, Convention, and Event Planners","Maintain records of event aspects, including financial details.",0.90,record keeping of event details
+1218,"Meeting, Convention, and Event Planners",Conduct post-event evaluations to determine how future events could be improved.,0.85,analysis and write-up of past event
+1219,"Meeting, Convention, and Event Planners","Negotiate contracts with such service providers and suppliers as hotels, convention centers, and speakers.",0.35,vendor contract negotiation
+1220,"Meeting, Convention, and Event Planners","Meet with sponsors and organizing committees to plan scope and format of events, to establish and monitor budgets, or to review administrative procedures and event progress.",0.45,live meetings with sponsors and committees
+1221,"Meeting, Convention, and Event Planners","Direct administrative details, such as financial operations, dissemination of promotional materials, and responses to inquiries.",0.75,administrative and communication work
+1222,"Meeting, Convention, and Event Planners",Evaluate and select providers of services according to customer requirements.,0.65,research and evaluate providers against criteria
+1223,"Meeting, Convention, and Event Planners","Read trade publications, attend seminars, and consult with other meeting professionals to keep abreast of meeting management standards and trends.",0.50,reading plus live seminars and networking
+1224,"Meeting, Convention, and Event Planners",Organize registration of event participants.,0.85,set up and manage registration system
+1225,"Meeting, Convention, and Event Planners",Design and implement efforts to publicize events and promote sponsorships.,0.75,draft publicity and sponsorship materials
+1226,"Meeting, Convention, and Event Planners","Hire, train, and supervise volunteers and support staff required for events.",0.15,hiring and supervising people needs authority
+1227,"Meeting, Convention, and Event Planners",Obtain permits from fire and health departments to erect displays and exhibits and serve food at events.,0.20,permit filing with government departments
+1228,"Meeting, Convention, and Event Planners","Promote conference, convention and trades show services by performing tasks such as meeting with professional and trade associations, and producing brochures and other publications.",0.45,brochure production plus live association meetings
+1229,"Meeting, Convention, and Event Planners",Develop event topics and choose featured speakers.,0.75,research topics and candidate speakers
+1250,Credit Analysts,Analyze credit data and financial statements to determine the degree of risk involved in extending credit or lending money.,0.85,data driven credit risk analysis
+1251,Credit Analysts,Prepare reports that include the degree of risk involved in extending credit or lending money.,0.90,report writing from analysis
+1252,Credit Analysts,"Evaluate customer records and recommend payment plans, based on earnings, savings data, payment history, and purchase activity.",0.85,evaluate records and recommend plan
+1253,Credit Analysts,Confer with credit association and other business representatives to exchange credit information.,0.55,live exchange of credit information
+1254,Credit Analysts,"Complete loan applications, including credit analyses and summaries of loan requests, and submit to loan committees for approval.",0.80,complete analysis and submit application
+1255,Credit Analysts,"Generate financial ratios, using computer programs, to evaluate customers' financial status.",0.95,pure computation of financial ratios
+1256,Credit Analysts,Review individual or commercial customer files to identify and select delinquent accounts for collection.,0.85,review files and flag delinquent accounts
+1257,Credit Analysts,"Compare liquidity, profitability, and credit histories of establishments being evaluated with those of similar establishments in the same industries and geographic locations.",0.90,comparative financial data analysis
+1258,Credit Analysts,Consult with customers to resolve complaints and verify financial and credit transactions.,0.50,live customer complaint resolution
+1259,Credit Analysts,"Analyze financial data, such as income growth, quality of management, and market share to determine expected profitability of loans.",0.85,financial data analysis for profitability
+1261,Insurance Underwriters,Decline excessive risks.,0.35,underwriting decision needs professional authority
+1262,Insurance Underwriters,"Write to field representatives, medical personnel, or others to obtain further information, quote rates, or explain company underwriting policies.",0.85,written correspondence and explanation
+1263,Insurance Underwriters,Evaluate possibility of losses due to catastrophe or excessive insurance.,0.85,risk evaluation analysis
+1264,Insurance Underwriters,"Decrease value of policy when risk is substandard and specify applicable endorsements or apply rating to ensure safe, profitable distribution of risks, using reference materials.",0.35,policy pricing decision needs underwriting authority
+1265,Insurance Underwriters,Review company records to determine amount of insurance in force on single risk or group of closely related risks.,0.90,review of company records
+1266,Insurance Underwriters,Authorize reinsurance of policy when risk is high.,0.20,authorization action needs fiduciary authority
+1636,Paralegals and Legal Assistants,"Gather and analyze research data, such as statutes, decisions, and legal articles, codes, and documents.",0.85,legal research and analysis of documents
+1638,Paralegals and Legal Assistants,Call upon witnesses to testify at hearings.,0.10,requires physical presence at hearing
+1639,Paralegals and Legal Assistants,"Direct and coordinate law office activity, including delivery of subpoenas.",0.35,office coordination plus physical subpoena delivery
+1641,Paralegals and Legal Assistants,Keep and monitor legal volumes to ensure that the law library is up-to-date.,0.65,tracking legal library updates
+1642,Paralegals and Legal Assistants,Appraise and inventory real and personal property for estate planning.,0.20,property appraisal needs licensed on-site judgment
+1808,Pharmacists,"Review prescriptions to assure accuracy, to ascertain the needed ingredients, and to evaluate their suitability.",0.30,prescription check carries pharmacist liability
+1809,Pharmacists,"Provide information and advice regarding drug interactions, side effects, dosage, and proper medication storage.",0.45,drug info advice with professional accountability
+1810,Pharmacists,Analyze prescribing trends to monitor patient compliance and to prevent excessive usage or harmful interactions.,0.80,data analysis of prescribing trends
+1811,Pharmacists,"Order and purchase pharmaceutical supplies, medical supplies, or drugs, maintaining stock and storing and handling it properly.",0.35,ordering plus physical stock handling
+1812,Pharmacists,"Maintain records, such as pharmacy files, patient profiles, charge system files, inventories, control records for radioactive nuclei, or registries of poisons, narcotics, or controlled drugs.",0.75,record keeping of pharmacy files
+1813,Pharmacists,"Provide specialized services to help patients manage conditions, such as diabetes, asthma, smoking cessation, or high blood pressure.",0.25,patient condition management needs clinical trust
+1814,Pharmacists,"Advise customers on the selection of medication brands, medical equipment, or healthcare supplies.",0.50,product advice to customers
+1815,Pharmacists,"Collaborate with other health care professionals to plan, monitor, review, or evaluate the quality or effectiveness of drugs or drug regimens, providing advice on drug applications or characteristics.",0.40,clinical collaboration with professional accountability
+1816,Pharmacists,"Compound and dispense medications as prescribed by doctors and dentists, by calculating, weighing, measuring, and mixing ingredients, or oversee these activities.",0.05,physical compounding under legal dispensing authority
+1818,Pharmacists,Refer patients to other health professionals or agencies when appropriate.,0.30,referral decision needs clinical judgment
+1819,Pharmacists,"Prepare sterile solutions or infusions for use in surgical procedures, emergency rooms, or patients' homes.",0.05,physical preparation of sterile solutions
+1820,Pharmacists,"Plan, implement, or maintain procedures for mixing, packaging, or labeling pharmaceuticals, according to policy and legal requirements, to ensure quality, security, and proper disposal.",0.40,procedure drafting plus physical oversight
+1822,Pharmacists,"Manage pharmacy operations, hiring or supervising staff, performing administrative duties, or buying or selling non-pharmaceutical merchandise.",0.35,management includes hiring and physical ops
+1823,Pharmacists,"Work in hospitals or clinics or for Health Management Organizations (HMOs), dispensing prescriptions, serving as a medical team consultant, or specializing in specific drug therapy areas, such as onco",0.15,dispensing and consulting need physical and legal role
+1824,Pharmacists,"Assess the identity, strength, or purity of medications.",0.25,lab assessment of medication purity
+1825,Pharmacists,Teach pharmacy students serving as interns in preparation for their graduation or licensure.,0.35,live teaching toward licensure
+1826,Pharmacists,"Publish educational information for other pharmacists, doctors, or patients.",0.85,writing educational content
+1827,Psychiatrists,Analyze and evaluate patient data or test findings to diagnose nature or extent of mental disorder.,0.10,clinical diagnosis of mental disorder
+1828,Psychiatrists,"Prescribe, direct, or administer psychotherapeutic treatments or medications to treat mental, emotional, or behavioral disorders.",0.05,prescribing and administering needs medical authority
+1829,Psychiatrists,"Collaborate with physicians, psychologists, social workers, psychiatric nurses, or other professionals to discuss treatment plans and progress.",0.30,live clinical collaboration on treatment
+1830,Psychiatrists,"Gather and maintain patient information and records, including social or medical history obtained from patients, relatives, or other professionals.",0.45,interview patients plus record keeping
+1831,Psychiatrists,Counsel outpatients or other patients during office visits.,0.10,in-person patient counseling
+1832,Psychiatrists,"Design individualized care plans, using a variety of treatments.",0.15,care plan needs clinical authority
+1833,Psychiatrists,Examine or conduct laboratory or diagnostic tests on patients to provide information on general physical condition or mental disorder.,0.05,physical or diagnostic examination of patients
+1834,Psychiatrists,"Advise or inform guardians, relatives, or significant others of patients' conditions or treatment.",0.25,live sensitive conversation with family
+1835,Psychiatrists,Review and evaluate treatment procedures and outcomes of other psychiatrists or medical professionals.,0.35,peer review needs professional accountability
+1837,Psychiatrists,Prepare and submit case reports or summaries to government or mental health agencies.,0.65,report writing and submission
+1838,Psychiatrists,Serve on committees to promote or maintain community mental health services or delivery systems.,0.20,committee participation and representation
+1839,Registered Nurses,"Maintain accurate, detailed reports and records.",0.90,record keeping of patient reports
+1840,Registered Nurses,"Monitor, record, and report symptoms or changes in patients' conditions.",0.20,needs physical presence to monitor patient
+1841,Registered Nurses,Record patients' medical information and vital signs.,0.20,recording vital signs needs physical measurement
+1842,Registered Nurses,Modify patient treatment plans as indicated by patients' responses and conditions.,0.15,treatment change needs clinical authority and presence
+1843,Registered Nurses,"Consult and coordinate with healthcare team members to assess, plan, implement, or evaluate patient care plans.",0.25,care coordination needs live presence
+1844,Registered Nurses,"Order, interpret, and evaluate diagnostic tests to identify and assess patient's condition.",0.25,ordering tests needs clinical authority
+1845,Registered Nurses,"Monitor all aspects of patient care, including diet and physical activity.",0.15,physical monitoring of patient care
+1846,Registered Nurses,Direct or supervise less-skilled nursing or healthcare personnel or supervise a particular unit.,0.15,supervision needs human authority and presence
+1847,Registered Nurses,Prepare patients for and assist with examinations or treatments.,0.05,physical assistance with examinations
+1848,Registered Nurses,Observe nurses and visit patients to ensure proper nursing care.,0.05,physical visits to observe care
+1849,Registered Nurses,"Assess the needs of individuals, families, or communities, including assessment of individuals' home or work environments, to identify potential health or safety problems.",0.15,home visit assessment needs physical presence
+1850,Registered Nurses,"Instruct individuals, families, or other groups on topics such as health education, disease prevention, or childbirth and develop health improvement programs.",0.45,program development plus live instruction
+1851,Registered Nurses,"Prepare rooms, sterile instruments, equipment, or supplies and ensure that stock of supplies is maintained.",0.10,physical preparation of rooms and supplies
+1852,Registered Nurses,Inform physician of patient's condition during anesthesia.,0.05,physical monitoring during anesthesia
+1854,Registered Nurses,"Administer local, inhalation, intravenous, or other anesthetics.",0.02,physical administration of anesthetics
+1855,Registered Nurses,"Provide health care, first aid, immunizations, or assistance in convalescence or rehabilitation in locations such as schools, hospitals, or industry.",0.02,hands-on health care delivery
+1856,Registered Nurses,"Perform physical examinations, make tentative diagnoses, and treat patients en route to hospitals or at disaster site triage centers.",0.02,physical exam and treatment at disaster site
+1857,Registered Nurses,Conduct specified laboratory tests.,0.10,physical lab test conduct
+1859,Registered Nurses,"Prescribe or recommend drugs, medical devices, or other forms of treatment, such as physical therapy, inhalation therapy, or related therapeutic procedures.",0.10,prescribing needs medical authority
+1860,Registered Nurses,"Direct or coordinate infection control programs, advising or consulting with specified personnel about necessary precautions.",0.40,infection control direction needs authority
+1861,Registered Nurses,"Perform administrative or managerial functions, such as taking responsibility for a unit's staff, budget, planning, or long-range goals.",0.25,management with accountability for unit
+1862,Registered Nurses,Provide or arrange for training or instruction of auxiliary personnel or students.,0.45,arranging training plus live instruction
+1863,Registered Nurses,Refer students or patients to specialized health resources or community agencies furnishing assistance.,0.55,research resources and communicate referral
+1864,Registered Nurses,Consult with institutions or associations regarding issues or concerns relevant to the practice and profession of nursing.,0.30,professional representation and consultation
+1865,Registered Nurses,"Work with individuals, groups, or families to plan or implement programs designed to improve the overall health of communities.",0.25,community health work needs live presence
+1866,Registered Nurses,Engage in research activities related to nursing.,0.55,nursing research and literature analysis
+1867,Speech-Language Pathologists,Monitor patients' progress and adjust treatments accordingly.,0.25,clinical judgment with live patient interaction
+1869,Speech-Language Pathologists,"Administer hearing or speech and language evaluations, tests, or examinations to patients to collect information on type and degree of impairments, using written or oral tests or special instruments.",0.15,administering tests needs physical patient contact
+1871,Speech-Language Pathologists,"Develop or implement treatment plans for problems such as stuttering, delayed language, swallowing disorders, or inappropriate pitch or harsh voice problems, based on own assessments and recommendatio",0.30,treatment planning plus in-person therapy
+1873,Speech-Language Pathologists,"Instruct clients in techniques for more effective communication, such as sign language, lip reading, or voice improvement.",0.15,live physical instruction technique
+1874,Speech-Language Pathologists,"Teach clients to control or strengthen tongue, jaw, face muscles, or breathing mechanisms.",0.10,physical therapy instruction
+1875,Speech-Language Pathologists,Develop speech exercise programs to reduce disabilities.,0.65,designing generic exercise programs
+1876,Speech-Language Pathologists,"Consult with and advise educators or medical staff on speech or hearing topics, such as communication strategies or speech and language stimulation.",0.55,written and remote professional advice
+1878,Speech-Language Pathologists,"Design, develop, or employ alternative diagnostic or communication devices or strategies.",0.45,device design plus physical deployment
+1879,Speech-Language Pathologists,Conduct lessons or direct educational or therapeutic games to assist teachers dealing with speech problems.,0.15,live lesson and game direction
+1882,Speech-Language Pathologists,"Communicate with students who use an alternative method of communications, using sign language or computer technology.",0.30,live communication often needs physical presence
+1883,Speech-Language Pathologists,Provide communication instruction to dialect speakers or students with limited English proficiency.,0.40,remote-capable language instruction
+1884,Speech-Language Pathologists,Use computer applications to identify or assist with communication disabilities.,0.70,using software applications for diagnosis aid
+1885,Speech-Language Pathologists,"Conduct or direct research on speech or hearing topics and report findings for use in developing procedures, technologies, or treatments.",0.60,research and write up findings
+1886,Medical and Clinical Laboratory Technologists,Analyze laboratory findings to check the accuracy of the results.,0.75,analysis of lab findings for accuracy
+1887,Medical and Clinical Laboratory Technologists,"Conduct chemical analysis of body fluids, including blood, urine, or spinal fluid, to determine presence of normal or abnormal components.",0.15,physical chemical analysis of fluids
+1888,Medical and Clinical Laboratory Technologists,"Operate, calibrate, or maintain equipment used in quantitative or qualitative analysis, such as spectrophotometers, calorimeters, flame photometers, or computer-controlled analyzers.",0.10,physical equipment operation and calibration
+1889,Medical and Clinical Laboratory Technologists,Enter data from analysis of medical tests or clinical results into computer for storage.,0.90,data entry of test results
+1890,Medical and Clinical Laboratory Technologists,Analyze samples of biological material for chemical content or reaction.,0.15,physical analysis of biological samples
+1892,Medical and Clinical Laboratory Technologists,"Set up, clean, and maintain laboratory equipment.",0.02,physical cleaning and maintenance of equipment
+1893,Medical and Clinical Laboratory Technologists,"Provide technical information about test results to physicians, family members, or researchers.",0.60,communicating technical results to others
+1894,Medical and Clinical Laboratory Technologists,"Supervise, train, or direct lab assistants, medical and clinical laboratory technicians or technologists, or other medical laboratory workers engaged in laboratory testing.",0.15,supervision needs human authority
+1895,Medical and Clinical Laboratory Technologists,"Develop, standardize, evaluate, or modify procedures, techniques, or tests used in the analysis of specimens or in medical laboratory experiments.",0.45,procedure development plus physical validation
+1896,Medical and Clinical Laboratory Technologists,"Cultivate, isolate, or assist in identifying microbial organisms or perform various tests on these microorganisms.",0.10,physical cultivation of microorganisms
+1898,Medical and Clinical Laboratory Technologists,"Obtain, cut, stain, and mount biological material on slides for microscopic study and diagnosis, following standard laboratory procedures.",0.02,physical slide preparation
+1899,Medical and Clinical Laboratory Technologists,"Select and prepare specimens and media for cell cultures, using aseptic technique and knowledge of medium components and cell requirements.",0.10,physical specimen and media preparation
+1901,Medical and Clinical Laboratory Technologists,"Harvest cell cultures at optimum time, based on knowledge of cell cycle differences and culture conditions.",0.10,physical timing of cell harvest
+1902,Medical and Clinical Laboratory Technicians,"Conduct chemical analyses of body fluids, such as blood or urine, using microscope or automatic analyzer to detect abnormalities or diseases and enter findings into computer.",0.15,physical fluid analysis with some data entry
+1904,Medical and Clinical Laboratory Technicians,"Analyze the results of tests or experiments to ensure conformity to specifications, using special mechanical or electrical devices.",0.35,analysis using physical measurement devices
+1905,Medical and Clinical Laboratory Technicians,"Analyze and record test data to issue reports that use charts, graphs, or narratives.",0.85,data analysis and report writing
+1906,Medical and Clinical Laboratory Technicians,Perform medical research to further control or cure disease.,0.30,medical research needs physical lab work
+1907,Medical and Clinical Laboratory Technicians,Conduct blood tests for transfusion purposes and perform blood counts.,0.15,physical blood testing
+1908,Medical and Clinical Laboratory Technicians,"Obtain specimens, cultivating, isolating, and identifying microorganisms for analysis.",0.10,physical specimen collection and culturing
+1909,Medical and Clinical Laboratory Technicians,Examine cells stained with dye to locate abnormalities.,0.35,microscopic examination could use digital imaging
+1910,Medical and Clinical Laboratory Technicians,"Collect blood or tissue samples from patients, observing principles of asepsis to obtain blood sample.",0.02,physical sample collection from patients
+1911,Medical and Clinical Laboratory Technicians,Consult with a pathologist to determine a final diagnosis when abnormal cells are found.,0.25,diagnosis consultation needs clinical accountability
+1914,Medical and Clinical Laboratory Technicians,Supervise or instruct other technicians or laboratory assistants.,0.15,supervision needs human authority

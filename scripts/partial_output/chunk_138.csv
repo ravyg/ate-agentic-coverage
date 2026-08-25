@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+8605,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,Drive vehicles or operate machines or equipment to complete work assignments or to assist workers.,0.00,physically drive or operate vehicles/machines
+8599,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,"Inspect or test materials, stock, vehicles, equipment, or facilities to ensure that they are safe, free of defects, and consistent with specifications.",0.05,physical inspection of materials and equipment
+8592,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,"Maintain or verify records of time, materials, expenditures, or crew activities.",0.90,pure record keeping and data verification
+8597,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,"Requisition needed personnel, supplies, equipment, parts, or repair services.",0.75,drafting and submitting supply/personnel requests
+8591,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,"Recommend and implement measures to improve worker motivation, equipment performance, work methods, or customer services.",0.40,can recommend but implementing across workers needs humans
+8595,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,"Prepare, compile, and submit reports on work activities, operations, production, or work-related accidents.",0.85,compiling and writing operational reports
+8601,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,Dispatch personnel and vehicles in response to telephone or radio reports of emergencies.,0.30,real-time emergency dispatch needs accountable human
+20455,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,Monitor field work to ensure proper performance and use of materials.,0.05,on-site monitoring of field work
+8596,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,"Recommend or implement personnel actions, such as employee selection, evaluation, rewards, or disciplinary actions.",0.20,personnel actions need human authority
+8602,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,Perform or schedule repairs or preventive maintenance of vehicles or other equipment.,0.35,scheduling is doable but physical repair is not
+8600,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,"Compute or estimate cash, payroll, transportation, personnel, or storage requirements.",0.90,pure computation of requirements
+23693,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,"Assist workers in tasks, such as loading vehicles.",0.00,physical loading of vehicles
+23694,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,"Direct workers in transportation or related services, such as pumping, moving, storing, or loading or unloading of materials.",0.25,directing physical workers needs on-site presence
+23695,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,Plan and establish schedules.,0.90,pure scheduling and planning
+23696,First-Line Supervisors of Passenger Attendants,Analyze and record personnel or operational data and write related activity reports.,0.90,data analysis and report writing
+23697,First-Line Supervisors of Passenger Attendants,Apply customer feedback to service improvement efforts.,0.55,can analyze feedback but applying it needs authority
+23698,First-Line Supervisors of Passenger Attendants,"Compute or estimate cash, payroll, transportation, or personnel requirements.",0.90,pure computation of requirements
+23699,First-Line Supervisors of Passenger Attendants,"Confer with customers, supervisors, contractors, or other personnel to exchange information or to resolve problems.",0.40,live conferring with people to resolve problems
+23700,First-Line Supervisors of Passenger Attendants,"Direct or coordinate the activities of workers, such as flight or car attendants.",0.25,directing workers needs on-site presence and authority
+23701,First-Line Supervisors of Passenger Attendants,Enforce safety rules and regulations.,0.10,enforcement requires physical authority over people
+23702,First-Line Supervisors of Passenger Attendants,Explain and demonstrate work tasks to new workers or assign training tasks to experienced workers.,0.40,explaining is doable but demonstrating tasks is physical
+23703,First-Line Supervisors of Passenger Attendants,Inform workers about interests or special needs of specific groups.,0.75,informational communication to workers
+23704,First-Line Supervisors of Passenger Attendants,"Inspect materials, stock, vehicles, equipment, or facilities to ensure that they are safe, free of defects, and consistent with specifications.",0.05,physical inspection of equipment and facilities
+23705,First-Line Supervisors of Passenger Attendants,Inspect work areas or operating equipment to ensure conformance to established standards in areas such as cleanliness or maintenance.,0.05,physical inspection of work areas
+23706,First-Line Supervisors of Passenger Attendants,Meet with managers or other supervisors to stay informed of changes affecting operations.,0.45,can join meetings and summarize but live discussion limited
+23707,First-Line Supervisors of Passenger Attendants,Observe and evaluate workers' appearance and performance to ensure quality service and compliance with specifications.,0.20,observing worker appearance and performance in person
+23708,First-Line Supervisors of Passenger Attendants,Participate in continuing education to stay abreast of industry trends and developments.,0.85,consuming industry information and updates
+23709,First-Line Supervisors of Passenger Attendants,"Recommend and implement measures to improve worker motivation, work methods, or customer services.",0.40,can recommend but implementing across workers needs humans
+23710,First-Line Supervisors of Passenger Attendants,Recruit and hire staff members.,0.25,hiring requires human judgment and legal authority
+23711,First-Line Supervisors of Passenger Attendants,"Requisition necessary supplies, equipment, or services.",0.75,drafting and submitting supply/service requests
+23712,First-Line Supervisors of Passenger Attendants,Resolve customer complaints regarding worker performance or services rendered.,0.55,customer complaint resolution via chat/email is largely doable
+23713,First-Line Supervisors of Passenger Attendants,Take disciplinary action to address performance problems.,0.10,disciplinary action requires human authority and accountability
+23714,First-Line Supervisors of Passenger Attendants,Train workers in proper operational procedures and functions and explain company policies.,0.40,explaining policies doable but hands-on training is physical
+10562,"Airline Pilots, Copilots, and Flight Engineers",Use instrumentation to guide flights when visibility is poor.,0.05,physically piloting aircraft with licensed authority
+10568,"Airline Pilots, Copilots, and Flight Engineers","Start engines, operate controls, and pilot airplanes to transport passengers, mail, or freight, adhering to flight plans, regulations, and procedures.",0.00,physically operating aircraft controls
+10564,"Airline Pilots, Copilots, and Flight Engineers","Work as part of a flight team with other crew members, especially during takeoffs and landings.",0.00,physical crew presence during flight
+10563,"Airline Pilots, Copilots, and Flight Engineers",Respond to and report in-flight emergencies and malfunctions.,0.05,physical presence and legal responsibility in cockpit
+10569,"Airline Pilots, Copilots, and Flight Engineers","Inspect aircraft for defects and malfunctions, according to pre-flight checklists.",0.05,physical aircraft inspection
+10565,"Airline Pilots, Copilots, and Flight Engineers","Contact control towers for takeoff clearances, arrival instructions, and other information, using radio equipment.",0.05,cockpit presence and licensed pilot authority required
+10571,"Airline Pilots, Copilots, and Flight Engineers","Monitor engine operation, fuel consumption, and functioning of aircraft systems during flights.",0.10,in-flight monitoring requires licensed pilot physically present
+10567,"Airline Pilots, Copilots, and Flight Engineers","Monitor gauges, warning devices, and control panels to verify aircraft performance and to regulate engine speed.",0.05,physical cockpit presence required
+10566,"Airline Pilots, Copilots, and Flight Engineers","Steer aircraft along planned routes, using autopilot and flight management computers.",0.05,physical cockpit presence and legal authority
+10570,"Airline Pilots, Copilots, and Flight Engineers",Check passenger and cargo distributions and fuel amounts to ensure that weight and balance specifications are met.,0.15,verification computable but requires physical sign-off
+10572,"Airline Pilots, Copilots, and Flight Engineers",Confer with flight dispatchers and weather forecasters to keep abreast of flight conditions.,0.25,conferring doable via data feeds but pilot authority decides
+10574,"Airline Pilots, Copilots, and Flight Engineers","Order changes in fuel supplies, loads, routes, or schedules to ensure safety of flights.",0.15,safety decision requires licensed pilot authority
+10577,"Airline Pilots, Copilots, and Flight Engineers","Brief crews about flight details, such as destinations, duties, and responsibilities.",0.35,briefing content draftable but delivery needs presence
+10575,"Airline Pilots, Copilots, and Flight Engineers","Choose routes, altitudes, and speeds that will provide the fastest, safest, and smoothest flights.",0.45,route optimization is computable but pilot has final authority
+10576,"Airline Pilots, Copilots, and Flight Engineers",Direct activities of aircraft crews during flights.,0.05,physical presence and legal authority over crew
+10578,"Airline Pilots, Copilots, and Flight Engineers","Record in log books information, such as flight times, distances flown, and fuel consumption.",0.85,administrative log record keeping
+10582,"Airline Pilots, Copilots, and Flight Engineers",Instruct other pilots and student pilots in aircraft operations and the principles of flight.,0.15,in-flight instruction needs licensed physical presence
+10579,"Airline Pilots, Copilots, and Flight Engineers","Make announcements regarding flights, using public address systems.",0.30,announcement content generation but requires cockpit presence
+10573,"Airline Pilots, Copilots, and Flight Engineers",Coordinate flight activities with ground crews and air traffic control and inform crew members of flight and test procedures.,0.20,coordination doable but pilot authority and presence required
+10583,"Airline Pilots, Copilots, and Flight Engineers",Conduct in-flight tests and evaluations at specified altitudes and in all types of weather to determine the receptivity and other characteristics of equipment and systems.,0.05,physical in-flight testing with licensed presence
+10580,"Airline Pilots, Copilots, and Flight Engineers",File instrument flight plans with air traffic control to ensure that flights are coordinated with other air traffic.,0.55,flight plan filing is largely electronic paperwork
+10581,"Airline Pilots, Copilots, and Flight Engineers","Perform minor maintenance work, or arrange for major maintenance.",0.30,"arranging maintenance is doable, performing repairs is physical"
+10584,"Airline Pilots, Copilots, and Flight Engineers",Evaluate other pilots or pilot-license applicants for proficiency.,0.10,requires licensed examiner physically in aircraft
+10586,"Airline Pilots, Copilots, and Flight Engineers",Plan and formulate flight activities and test schedules and prepare flight evaluation reports.,0.75,planning and report writing is information work
+10587,Commercial Pilots,"Check aircraft prior to flights to ensure that the engines, controls, instruments, and other systems are functioning properly.",0.05,physical preflight inspection with pilot responsibility
+20831,Commercial Pilots,"Co-pilot aircraft or perform captain's duties, as required.",0.00,physically piloting aircraft with legal authority
+10591,Commercial Pilots,"Consider airport altitudes, outside temperatures, plane weights, and wind speeds and directions to calculate the speed needed to become airborne.",0.85,pure computation of takeoff speed
+10595,Commercial Pilots,Use instrumentation to pilot aircraft when visibility is poor.,0.05,physical piloting with licensed authority
+10590,Commercial Pilots,"Monitor engine operation, fuel consumption, and functioning of aircraft systems during flights.",0.10,in-flight monitoring requires licensed pilot physically present
+10592,Commercial Pilots,"Order changes in fuel supplies, loads, routes, or schedules to ensure safety of flights.",0.15,safety decision requires licensed pilot authority
+10588,Commercial Pilots,"Contact control towers for takeoff clearances, arrival instructions, and other information, using radio equipment.",0.05,cockpit presence and licensed pilot authority required
+10594,Commercial Pilots,"Plan flights according to government and company regulations, using aeronautical charts and navigation instruments.",0.70,flight planning using software and data is information work
+10589,Commercial Pilots,"Start engines, operate controls, and pilot airplanes to transport passengers, mail, or freight according to flight plans, regulations, and procedures.",0.00,physically operating aircraft controls
+10596,Commercial Pilots,Check baggage or cargo to ensure that it has been loaded correctly.,0.10,physical inspection of cargo loading
+10593,Commercial Pilots,"Obtain and review data such as load weights, fuel supplies, weather conditions, and flight schedules to determine flight plans and identify needed changes.",0.80,data review to determine flight plans is information work
+10605,Commercial Pilots,Conduct in-flight tests and evaluations at specified altitudes and in all types of weather to determine the receptivity and other characteristics of equipment and systems.,0.05,physical in-flight testing with licensed presence
+10598,Commercial Pilots,"Choose routes, altitudes, and speeds that will provide the fastest, safest, and smoothest flights.",0.45,route optimization is computable but pilot has final authority
+10600,Commercial Pilots,"Write specified information in flight records, such as flight times, altitudes flown, and fuel consumption.",0.85,administrative log record keeping
+10599,Commercial Pilots,"Coordinate flight activities with ground crews and air traffic control, and inform crew members of flight and test procedures.",0.20,coordination doable but pilot authority and presence required
+10608,Commercial Pilots,"Perform minor aircraft maintenance and repair work, or arrange for major maintenance.",0.30,"arranging maintenance is doable, performing repairs is physical"
+10607,Commercial Pilots,Supervise other crew members.,0.10,supervision requires physical presence and authority
+10597,Commercial Pilots,Request changes in altitudes or routes as circumstances dictate.,0.20,real-time route request requires pilot authority and presence
+10604,Commercial Pilots,File instrument flight plans with air traffic control so that flights can be coordinated with other air traffic.,0.55,flight plan filing is largely electronic paperwork
+10606,Commercial Pilots,Rescue and evacuate injured persons.,0.00,physical rescue and evacuation
+10602,Commercial Pilots,Instruct other pilots and student pilots in aircraft operations.,0.20,in-flight instruction needs licensed physical presence
+10609,Commercial Pilots,Fly with other pilots or pilot-license applicants to evaluate their proficiency.,0.05,requires licensed examiner physically in aircraft
+10610,Commercial Pilots,Plan and formulate flight activities and test schedules and prepare flight evaluation reports.,0.75,planning and report writing is information work
+10601,Commercial Pilots,Teach company regulations and procedures to other pilots.,0.55,teaching regulations via materials is largely information work
+12731,Air Traffic Controllers,"Inform pilots about nearby planes or potentially hazardous conditions, such as weather, speed and direction of wind, or visibility problems.",0.15,safety-critical real-time advisory needs certified controller
+12728,Air Traffic Controllers,Issue landing and take-off authorizations or instructions.,0.10,issuing clearances requires certified controller authority
+12735,Air Traffic Controllers,Transfer control of departing flights to traffic control centers and accept control of arriving flights.,0.10,control transfer requires certified controller authority
+12732,Air Traffic Controllers,Provide flight path changes or directions to emergency landing fields for pilots traveling in bad weather or in emergency situations.,0.10,emergency routing requires certified controller authority
+12733,Air Traffic Controllers,Alert airport emergency services in cases of emergency or when aircraft are experiencing difficulties.,0.30,alerting can be automated but judgment call needed
+12729,Air Traffic Controllers,Monitor or direct the movement of aircraft within an assigned air space or on the ground at airports to minimize delays and maximize safety.,0.10,directing aircraft movement requires certified authority
+12734,Air Traffic Controllers,Direct pilots to runways when space is available or direct them to maintain a traffic pattern until there is space for them to land.,0.10,runway direction requires certified controller authority
+12730,Air Traffic Controllers,"Monitor aircraft within a specific airspace, using radar, computer equipment, or visual references.",0.20,monitoring data feeds possible but authority rests with human
+12736,Air Traffic Controllers,"Direct ground traffic, including taxiing aircraft, maintenance or baggage vehicles, or airport workers.",0.10,directing ground traffic requires certified authority
+12739,Air Traffic Controllers,"Contact pilots by radio to provide meteorological, navigational, or other information.",0.25,info relay doable but requires certified controller role
+12738,Air Traffic Controllers,"Maintain radio or telephone contact with adjacent control towers, terminal control units, or other area control centers to coordinate aircraft movement.",0.15,coordination requires certified controller authority
+12737,Air Traffic Controllers,Determine the timing or procedures for flight vector changes.,0.15,safety-critical timing decision needs certified authority
+12740,Air Traffic Controllers,Initiate or coordinate searches for missing aircraft.,0.25,coordination doable but overall responsibility is human
+20691,Air Traffic Controllers,Provide on-the-job training to new air traffic controllers.,0.15,on-the-job training requires physical presence and certification
+12741,Air Traffic Controllers,Check conditions and traffic at different altitudes in response to pilots' requests for altitude changes.,0.15,safety-critical decision needs certified controller authority
+12742,Air Traffic Controllers,"Relay air traffic information, such as courses, altitudes, or expected arrival times, to control centers.",0.45,relaying information is largely automatable data transfer
+12744,Air Traffic Controllers,"Inspect, adjust, or control radio equipment or airport lights.",0.05,physical inspection and adjustment of equipment
+12743,Air Traffic Controllers,"Compile information about flights from flight plans, pilot reports, radar, or observations.",0.80,compiling flight information is information work
+12747,Air Traffic Controllers,Organize flight plans or traffic management plans to prepare for planes about to enter assigned airspace.,0.35,planning doable but safety authority rests with human
+12748,Air Traffic Controllers,"Review records or reports for clarity and completeness and maintain records or reports, as required under federal law.",0.75,reviewing and maintaining records is information work
+12749,Air Traffic Controllers,Complete daily activity reports and keep records of messages from aircraft.,0.85,administrative report and record keeping
+12745,Air Traffic Controllers,"Conduct pre-flight briefings on weather conditions, suggested routes, altitudes, indications of turbulence, or other flight safety information.",0.45,briefing content generation but delivery needs authority
+12746,Air Traffic Controllers,"Analyze factors such as weather reports, fuel requirements, or maps to determine air routes.",0.80,analysis of weather and route data is information work
+23939,Airfield Operations Specialists,Inspect airfield conditions to ensure compliance with federal regulatory requirements.,0.05,physical inspection of airfield conditions
+10613,Airfield Operations Specialists,Implement airfield safety procedures to ensure a safe operating environment for personnel and aircraft operation.,0.10,implementing on-site safety procedures needs physical presence
+23940,Airfield Operations Specialists,Conduct inspections of the airport property and perimeter to maintain controlled access to airfields.,0.05,physical inspection of airport property
+20456,Airfield Operations Specialists,Assist in responding to aircraft and medical emergencies.,0.05,physical presence needed for emergency response
+23941,Airfield Operations Specialists,Initiate or conduct airport-wide coordination of snow removal on runways and taxiways.,0.30,coordination schedulable but oversight of physical work needed
+20457,Airfield Operations Specialists,Manage wildlife on and around airport grounds.,0.05,physical wildlife management on grounds
+10621,Airfield Operations Specialists,Coordinate communications between air traffic control and maintenance personnel.,0.35,communication coordination but safety accountability needed
+10622,Airfield Operations Specialists,"Perform and supervise airfield management activities, including mobile airfield management functions.",0.10,mobile airfield management requires physical presence
+10614,Airfield Operations Specialists,Plan and coordinate airfield construction.,0.30,planning doable but on-site construction coordination is physical
+10616,Airfield Operations Specialists,"Monitor the arrival, parking, refueling, loading, and departure of all aircraft.",0.25,monitoring doable via data but safety oversight needed
+10618,Airfield Operations Specialists,Train operations staff.,0.30,materials draftable but staff training needs human interaction
+10615,Airfield Operations Specialists,"Coordinate with agencies, such as air traffic control, civil engineers, or command posts, to ensure support of airfield management activities.",0.35,coordination doable but accountable decisions needed
+10619,Airfield Operations Specialists,"Relay departure, arrival, delay, aircraft and airfield status, and other pertinent information to upline controlling agencies.",0.60,relaying status information is largely automatable
+10630,Airfield Operations Specialists,Provide aircrews with information and services needed for airfield management and flight planning.,0.55,providing planning information is largely information work
+10626,Airfield Operations Specialists,"Coordinate with agencies to meet aircrew requirements for billeting, messing, refueling, ground transportation, and transient aircraft maintenance.",0.55,logistics coordination doable via communications/APIs
+10632,Airfield Operations Specialists,Use airfield landing and navigational aids and digital data terminal communications equipment to perform duties.,0.10,physical use of on-site equipment
+10623,Airfield Operations Specialists,"Receive, transmit, and control message traffic.",0.75,message traffic handling is information work
+10617,Airfield Operations Specialists,Maintain air-to-ground and point-to-point radio contact with aircraft commanders.,0.20,radio contact with authority and safety accountability
+10620,Airfield Operations Specialists,"Procure, produce, and provide information on the safe operation of aircraft, such as flight planning publications, operations publications, charts and maps, or weather information.",0.75,producing informational publications and charts
+10629,Airfield Operations Specialists,Anticipate aircraft equipment needs for air evacuation and cargo flights.,0.55,anticipating equipment needs is analysis work
+10633,Airfield Operations Specialists,Post visual display boards and status boards.,0.30,posting physical display boards on-site
+10624,Airfield Operations Specialists,"Receive and post weather information and flight plan data, such as air routes or arrival and departure times.",0.75,receiving and posting data is information work
+10631,Airfield Operations Specialists,Conduct departure and arrival briefings.,0.40,briefing content draftable but live delivery needs presence
+10627,Airfield Operations Specialists,Collaborate with others to plan flight schedules and air crew assignments.,0.55,collaborative schedule planning is information work
+10625,Airfield Operations Specialists,"Maintain flight and event logs, air crew flying records, and flight operations records of incoming and outgoing flights.",0.85,record keeping of flight logs
+10628,Airfield Operations Specialists,Coordinate changes to flight itineraries with appropriate Air Traffic Control (ATC) agencies.,0.35,coordination doable but safety authority with ATC needed

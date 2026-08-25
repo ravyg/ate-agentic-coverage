@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+4895,"Roof Bolters, Mining",Rotate chucks to turn bolts and open expansion heads against rock formations.,0.00,physical drilling/bolting underground
+4891,"Roof Bolters, Mining","Remove drill bits from chucks after drilling holes, and insert bolts into chucks.",0.00,physical tool manipulation
+4897,"Roof Bolters, Mining","Tighten ends of anchored truss bolts, using turnbuckles.",0.00,physical tightening with turnbuckles
+23501,"Loading and Moving Machine Operators, Underground Mining",Handle high voltage sources and hang electrical cables.,0.00,physical electrical cable handling
+23498,"Loading and Moving Machine Operators, Underground Mining",Drive loaded shuttle cars to ramps and move controls to discharge loads into mine cars or onto conveyors.,0.00,physical machine operation on site
+15183,"Loading and Moving Machine Operators, Underground Mining","Pry off loose material from roofs and move it into the paths of machines, using crowbars.",0.00,physical prying with crowbars
+15184,"Loading and Moving Machine Operators, Underground Mining","Move trailing electrical cables clear of obstructions, using rubber safety gloves.",0.00,physical cable handling
+23496,"Loading and Moving Machine Operators, Underground Mining",Control conveyors that run the entire length of shuttle cars to distribute loads as loading progresses.,0.00,physical equipment control on site
+23506,"Loading and Moving Machine Operators, Underground Mining","Observe hand signals, grade stakes, or other markings when operating machines.",0.00,physical machine operation on site
+23499,"Loading and Moving Machine Operators, Underground Mining",Examine roadway and clear obstructions from the path of travel.,0.00,physical inspection and clearing
+15185,"Loading and Moving Machine Operators, Underground Mining",Drive machines into piles of material blasted from working faces.,0.00,physical machine driving
+15186,"Loading and Moving Machine Operators, Underground Mining","Operate levers to move conveyor booms or shovels so that mine contents such as coal, rock, and ore can be placed into cars or onto conveyors.",0.00,physical lever operation
+23495,"Loading and Moving Machine Operators, Underground Mining","Clean, fuel, service, and perform safety checks on all equipment, and repair and replace parts as necessary.",0.00,physical equipment maintenance
+15187,"Loading and Moving Machine Operators, Underground Mining","Clean hoppers, and clean spillage from tracks, walks, driveways, and conveyor decking.",0.00,physical cleaning
+15188,"Loading and Moving Machine Operators, Underground Mining","Oil, lubricate, and adjust conveyors, crushers, and other equipment, using hand tools and lubricating equipment.",0.00,physical lubrication with tools
+23504,"Loading and Moving Machine Operators, Underground Mining",Monitor loading processes to ensure that materials are loaded according to specifications.,0.05,on site physical monitoring
+23503,"Loading and Moving Machine Operators, Underground Mining","Measure, weigh, or verify levels of rock, gravel, or other excavated material to prevent equipment overloads.",0.05,on site physical measurement
+15189,"Loading and Moving Machine Operators, Underground Mining","Replace hydraulic hoses, headlight bulbs, and gathering-arm teeth.",0.00,physical parts replacement
+15190,"Loading and Moving Machine Operators, Underground Mining",Stop gathering arms when cars are full.,0.00,physical machine control
+23505,"Loading and Moving Machine Operators, Underground Mining","Move mine cars into position for loading and unloading, using pinchbars inserted under car wheels to position cars under loading spouts.",0.00,physical car positioning with tools
+15191,"Loading and Moving Machine Operators, Underground Mining",Advance machines to gather material and convey it into cars.,0.00,physical machine operation
+15193,"Loading and Moving Machine Operators, Underground Mining",Signal workers to move loaded cars.,0.00,on site physical hand signaling
+23500,"Loading and Moving Machine Operators, Underground Mining","Guide and stop cars by switching, applying brakes, or placing scotches, or wooden wedges, between wheels and rails.",0.00,physical braking and wedging
+15194,"Loading and Moving Machine Operators, Underground Mining","Observe and record car numbers, carriers, customers, tonnages, and grades and conditions of material.",0.10,requires on site observation to log
+23509,"Loading and Moving Machine Operators, Underground Mining",Read written instructions or confer with supervisors about schedules and materials to be moved.,0.40,reading text feasible but confer needs live presence
+23502,"Loading and Moving Machine Operators, Underground Mining",Maintain records of materials moved.,0.85,pure record keeping
+23497,"Loading and Moving Machine Operators, Underground Mining","Direct other workers to move stakes, place blocks, position anchors or cables, or move materials.",0.30,directing on site workers needs presence and judgment
+23508,"Loading and Moving Machine Operators, Underground Mining","Push or ride cars down slopes, or hook cars to cables and control cable drum brakes, to ease cars down inclines.",0.00,physical riding and braking cars
+14966,"Rock Splitters, Quarry",Locate grain line patterns to determine how rocks will split when cut.,0.15,requires on site expert visual inspection of rock
+14967,"Rock Splitters, Quarry","Remove pieces of stone from larger masses, using jackhammers, wedges, and other tools.",0.00,physical stone removal with tools
+14968,"Rock Splitters, Quarry","Insert wedges and feathers into holes, and drive wedges with sledgehammers to split stone sections from masses.",0.00,physical wedge driving
+14969,"Rock Splitters, Quarry","Mark dimensions or outlines on stone prior to cutting, using rules and chalk lines.",0.00,physical marking on stone
+14970,"Rock Splitters, Quarry",Cut slabs of stone into sheets that will be used for floors or counters.,0.00,physical stone cutting
+14971,"Rock Splitters, Quarry",Set charges of explosives to split rock.,0.00,physical explosive handling needs licensed authority
+14972,"Rock Splitters, Quarry","Drill holes along outlines, using jackhammers.",0.00,physical drilling
+14973,"Rock Splitters, Quarry","Drill holes into sides of stones broken from masses, insert dogs or attach slings, and direct removal of stones.",0.00,physical drilling and rigging
+14974,"Rock Splitters, Quarry","Cut grooves along outlines, using chisels.",0.00,physical chiseling
+7112,"Roustabouts, Oil and Gas","Unscrew or tighten pipes, casing, tubing, and pump rods, using hand and power wrenches and tongs.",0.00,physical pipe wrenching
+7116,"Roustabouts, Oil and Gas","Dismantle and repair oil field machinery, boilers, and steam engine parts, using hand tools and power tools.",0.00,physical machinery repair
+7119,"Roustabouts, Oil and Gas",Guide cranes to move loads about decks.,0.00,physical crane guiding on site
+20145,"Roustabouts, Oil and Gas","Walk flow lines to locate leaks, using electronic detectors and by making visual inspections, and repair the leaks.",0.00,physical walking and leak repair
+23978,"Roustabouts, Oil and Gas",Lay gas and oil pipelines.,0.00,physical pipeline laying
+7113,"Roustabouts, Oil and Gas",Bolt together pump and engine parts.,0.00,physical bolting
+7115,"Roustabouts, Oil and Gas","Move pipes to and from trucks, using truck winches and motorized lifts, or by hand.",0.00,physical pipe moving
+23979,"Roustabouts, Oil and Gas",Clean trucks used in the fields.,0.00,physical truck cleaning
+7121,"Roustabouts, Oil and Gas","Dig holes, set forms, and mix and pour concrete into forms to make foundations for wood or steel derricks.",0.00,physical digging and pouring concrete
+7120,"Roustabouts, Oil and Gas",Supply equipment to rig floors as requested and provide assistance to roughnecks.,0.00,physical assistance on rig floor
+7111,"Roustabouts, Oil and Gas",Clean up spilled oil by bailing it into barrels.,0.00,physical oil cleanup
+7117,"Roustabouts, Oil and Gas",Dig drainage ditches around wells and storage tanks.,0.00,physical ditch digging
+7122,"Roustabouts, Oil and Gas","Cut down and remove trees and brush to clear drill sites, to reduce fire hazards, and to make way for roads to sites.",0.00,physical tree removal
+13699,Helpers--Extraction Workers,Observe and monitor equipment operation during the extraction process to detect any problems.,0.10,on site equipment monitoring
+13700,Helpers--Extraction Workers,Drive moving equipment to transport materials and parts to excavation sites.,0.00,physical equipment driving
+13705,Helpers--Extraction Workers,"Unload materials, devices, and machine parts, using hand tools.",0.00,physical unloading with tools
+13709,Helpers--Extraction Workers,Set up and adjust equipment used to excavate geological materials.,0.00,physical equipment setup
+13702,Helpers--Extraction Workers,Organize materials to prepare for use.,0.00,physical materials organizing
+13698,Helpers--Extraction Workers,"Repair and maintain automotive and drilling equipment, using hand tools.",0.00,physical equipment repair
+13701,Helpers--Extraction Workers,Clean up work areas and remove debris after extraction activities are complete.,0.00,physical site cleanup
+13708,Helpers--Extraction Workers,Clean and prepare sites for excavation or boring.,0.00,physical site preparation
+13706,Helpers--Extraction Workers,"Load materials into well holes or into equipment, using hand tools.",0.00,physical loading with tools
+13703,Helpers--Extraction Workers,"Provide assistance to extraction craft workers, such as earth drillers and derrick operators.",0.00,physical assistance on site
+13710,Helpers--Extraction Workers,"Collect and examine geological matter, using hand tools and testing devices.",0.00,physical sample collection with tools
+13707,Helpers--Extraction Workers,Signal workers to start geological material extraction or boring.,0.00,on site physical signaling
+13704,Helpers--Extraction Workers,"Dismantle extracting and boring equipment used for excavation, using hand tools.",0.00,physical equipment dismantling
+13711,Helpers--Extraction Workers,Dig trenches.,0.00,physical trench digging
+2929,"First-Line Supervisors of Mechanics, Installers, and Repairers","Inspect, test, and measure completed work, using devices such as hand tools or gauges to verify conformance to standards or repair requirements.",0.05,physical on site inspection with gauges
+15263,"First-Line Supervisors of Mechanics, Installers, and Repairers","Inspect and monitor work areas, examine tools and equipment, and provide employee safety training to prevent, detect, and correct unsafe conditions or violations of procedures and safety rules.",0.15,on site inspection and live safety training
+2920,"First-Line Supervisors of Mechanics, Installers, and Repairers","Interpret specifications, blueprints, or job orders to construct templates and lay out reference points for workers.",0.25,spec interpretation feasible but physical layout needed
+2914,"First-Line Supervisors of Mechanics, Installers, and Repairers",Monitor employees' work levels and review work performance.,0.35,performance review can use data but observation needed
+2925,"First-Line Supervisors of Mechanics, Installers, and Repairers","Perform skilled repair or maintenance operations, using equipment such as hand or power tools, hydraulic presses or shears, or welding equipment.",0.00,physical repair work
+2919,"First-Line Supervisors of Mechanics, Installers, and Repairers","Compute estimates and actual costs of factors such as materials, labor, or outside contractors.",0.85,cost computation from data
+15262,"First-Line Supervisors of Mechanics, Installers, and Repairers",Monitor tool and part inventories and the condition and maintenance of shops to ensure adequate working conditions.,0.35,inventory tracking feasible but shop condition needs on site check
+2918,"First-Line Supervisors of Mechanics, Installers, and Repairers","Requisition materials and supplies, such as tools, equipment, or replacement parts.",0.55,requisitioning via systems but commits budget authority
+2923,"First-Line Supervisors of Mechanics, Installers, and Repairers","Confer with personnel, such as management, engineering, quality control, customer, or union workers' representatives, to coordinate work activities, resolve employee grievances, or identify and review resource needs.",0.30,human coordination and grievance resolution needs trust
+2912,"First-Line Supervisors of Mechanics, Installers, and Repairers","Determine schedules, sequences, and assignments for work activities, based on work priority, quantity of equipment, and skill of personnel.",0.80,scheduling optimization from data
+2915,"First-Line Supervisors of Mechanics, Installers, and Repairers","Examine objects, systems, or facilities and analyze information to determine needed installations, services, or repairs.",0.25,requires physical examination of facilities
+2917,"First-Line Supervisors of Mechanics, Installers, and Repairers",Counsel employees about work-related issues and assist employees to correct job-skill deficiencies.,0.15,employee counseling needs human rapport
+2924,"First-Line Supervisors of Mechanics, Installers, and Repairers","Recommend or initiate personnel actions, such as hires, promotions, transfers, discharges, or disciplinary measures.",0.30,personnel decisions need human authority
+2922,"First-Line Supervisors of Mechanics, Installers, and Repairers",Investigate accidents or injuries and prepare reports of findings.,0.30,investigation needs on site interviews report writing is text
+2921,"First-Line Supervisors of Mechanics, Installers, and Repairers","Conduct or arrange for worker training in safety, repair, or maintenance techniques, operational procedures, or equipment use.",0.25,live training delivery needs human presence
+2927,"First-Line Supervisors of Mechanics, Installers, and Repairers","Develop, implement, or evaluate maintenance policies and procedures.",0.55,policy drafting high but implementation needs authority
+2930,"First-Line Supervisors of Mechanics, Installers, and Repairers",Meet with vendors or suppliers to discuss products used in repair work.,0.30,vendor negotiation needs human rapport
+2916,"First-Line Supervisors of Mechanics, Installers, and Repairers","Participate in budget preparation and administration, coordinating purchasing and documentation and monitoring departmental expenditures.",0.70,budget administration mostly documentation and computation
+15264,"First-Line Supervisors of Mechanics, Installers, and Repairers","Review, evaluate, accept, and coordinate completion of work bid from contractors.",0.40,bid review feasible but acceptance needs contracting authority
+2926,"First-Line Supervisors of Mechanics, Installers, and Repairers","Compile operational or personnel records, such as time and production records, inventory data, repair or maintenance statistics, or test results.",0.85,pure record compiling
+2931,"First-Line Supervisors of Mechanics, Installers, and Repairers",Develop or implement electronic maintenance programs or computer information management systems.,0.80,software development and systems work
+2932,"First-Line Supervisors of Mechanics, Installers, and Repairers",Design equipment configurations to meet personnel needs.,0.70,design work from specifications
+11624,"Computer, Automated Teller, and Office Machine Repairers",Reassemble machines after making repairs or replacing parts.,0.00,physical machine reassembly
+11623,"Computer, Automated Teller, and Office Machine Repairers",Converse with customers to determine details of equipment problems.,0.65,customer conversation via chat or phone
+11639,"Computer, Automated Teller, and Office Machine Repairers","Disassemble machines to examine parts, such as wires, gears, or bearings for wear or defects, using hand or power tools and measuring devices.",0.00,physical disassembly and inspection
+11627,"Computer, Automated Teller, and Office Machine Repairers","Advise customers concerning equipment operation, maintenance, or programming.",0.80,advisory conversation via text or chat
+11635,"Computer, Automated Teller, and Office Machine Repairers","Align, adjust, or calibrate equipment according to specifications.",0.05,physical calibration of hardware
+11637,"Computer, Automated Teller, and Office Machine Repairers","Repair, adjust, or replace electrical or mechanical components or parts, using hand tools, power tools, or soldering or welding equipment.",0.00,physical repair with tools
+11625,"Computer, Automated Teller, and Office Machine Repairers",Travel to customers' stores or offices to service machines or to provide emergency repair service.,0.00,requires physical travel and presence
+11633,"Computer, Automated Teller, and Office Machine Repairers",Maintain parts inventories and order any additional parts needed for repairs.,0.55,inventory tracking and ordering with some purchasing authority
+11630,"Computer, Automated Teller, and Office Machine Repairers",Operate machines to test functioning of parts or mechanisms.,0.05,physical machine operation to test
+11626,"Computer, Automated Teller, and Office Machine Repairers",Reinstall software programs or adjust settings on existing software to fix machine malfunctions.,0.70,software reinstall and settings work
+11640,"Computer, Automated Teller, and Office Machine Repairers","Clean, oil, or adjust mechanical parts to maintain machines' operating efficiency and to prevent breakdowns.",0.00,physical cleaning and adjustment
+11631,"Computer, Automated Teller, and Office Machine Repairers",Maintain records of equipment maintenance work or repairs.,0.85,record keeping of maintenance work
+11628,"Computer, Automated Teller, and Office Machine Repairers",Test new systems to ensure that they are in working order.,0.35,testing mixes physical and software checks
+11638,"Computer, Automated Teller, and Office Machine Repairers","Complete repair bills, shop records, time cards, or expense reports.",0.85,paperwork and documentation
+11632,"Computer, Automated Teller, and Office Machine Repairers","Install and configure new equipment, including operating software or peripheral equipment.",0.25,install is physical though config is digital
+11644,"Computer, Automated Teller, and Office Machine Repairers",Analyze equipment performance records to assess equipment functioning.,0.85,pure data analysis of records
+11642,"Computer, Automated Teller, and Office Machine Repairers","Read specifications, such as blueprints, charts, or schematics, to determine machine settings or adjustments.",0.75,reading and interpreting specifications
+11634,"Computer, Automated Teller, and Office Machine Repairers","Update existing equipment, performing tasks such as installing updated circuit boards or additional memory.",0.00,physical hardware update
+11636,"Computer, Automated Teller, and Office Machine Repairers","Test components or circuits of faulty equipment to locate defects, using oscilloscopes, signal generators, ammeters, voltmeters, or special diagnostic software programs.",0.05,physical circuit testing with instruments
+11629,"Computer, Automated Teller, and Office Machine Repairers","Assemble machines according to specifications, using hand or power tools and measuring devices.",0.00,physical assembly with tools
+11643,"Computer, Automated Teller, and Office Machine Repairers","Lay cable and hook up electrical connections between machines, power sources, and phone lines.",0.00,physical cable laying and hookup
+11641,"Computer, Automated Teller, and Office Machine Repairers","Enter information into computers to copy programs from one electronic component to another or to draw, modify, or store schematics.",0.75,digital data entry and schematic work
+11645,"Computer, Automated Teller, and Office Machine Repairers","Fill machines with toners, inks, or other duplicating fluids.",0.00,physical fluid filling
+11646,"Computer, Automated Teller, and Office Machine Repairers",Train new repairers.,0.20,hands on training of new repairers
+11647,"Computer, Automated Teller, and Office Machine Repairers",Calibrate testing instruments.,0.05,physical calibration of instruments
+19401,"Radio, Cellular, and Tower Equipment Installers and Repairers","Inspect completed work to ensure all hardware is tight, antennas are level, hangers are properly fastened, proper support is in place, or adequate weather proofing has been installed.",0.00,physical on site inspection of tower hardware
+19409,"Radio, Cellular, and Tower Equipment Installers and Repairers","Run appropriate power, ground, or coaxial cables.",0.00,physical cable running
+19410,"Radio, Cellular, and Tower Equipment Installers and Repairers","Test operation of tower transmission components, using sweep testing tools or software.",0.00,on site physical connection needed for testing
+19402,"Radio, Cellular, and Tower Equipment Installers and Repairers","Install all necessary transmission equipment components, including antennas or antenna mounts, surge arrestors, transmission lines, connectors, or tower-mounted amplifiers (TMAs).",0.00,physical equipment installation on tower
+19407,"Radio, Cellular, and Tower Equipment Installers and Repairers","Read work orders, blueprints, plans, datasheets or site drawings to determine work to be done.",0.75,reading work orders and blueprints
+19408,"Radio, Cellular, and Tower Equipment Installers and Repairers",Replace existing antennas with new antennas as directed.,0.00,physical antenna replacement
+19398,"Radio, Cellular, and Tower Equipment Installers and Repairers","Bolt equipment into place, using hand or power tools.",0.00,physical bolting
+19404,"Radio, Cellular, and Tower Equipment Installers and Repairers","Install, connect, or test underground or aboveground grounding systems.",0.00,physical grounding system installation
+19412,"Radio, Cellular, and Tower Equipment Installers and Repairers","Complete reports related to project status, progress, or other work details, using computer software.",0.85,report writing with software
+19399,"Radio, Cellular, and Tower Equipment Installers and Repairers",Check antenna positioning to ensure specified azimuths or mechanical tilts and adjust as necessary.,0.00,physical antenna adjustment
+19415,"Radio, Cellular, and Tower Equipment Installers and Repairers","Transport equipment to work sites, using utility trucks and equipment trailers.",0.00,physical equipment transport
+19414,"Radio, Cellular, and Tower Equipment Installers and Repairers","Take site survey photos or photos of work performed, using digital cameras.",0.00,requires on site physical presence to photograph
+19411,"Radio, Cellular, and Tower Equipment Installers and Repairers","Climb towers to access components, using safety equipment, such as full-body harnesses.",0.00,physical tower climbing
+19400,"Radio, Cellular, and Tower Equipment Installers and Repairers","Climb communication towers to install, replace, or repair antennas or auxiliary equipment used to transmit and receive radio waves.",0.00,physical tower climbing and repair
+19405,"Radio, Cellular, and Tower Equipment Installers and Repairers","Lift equipment into position, using cranes and rigging tools or equipment, such as gin poles.",0.00,physical lifting with cranes
+19406,"Radio, Cellular, and Tower Equipment Installers and Repairers","Perform maintenance or repair work on existing tower equipment, using hand or power tools.",0.00,physical maintenance with tools
+19413,"Radio, Cellular, and Tower Equipment Installers and Repairers","Locate tower sites where work is to be performed, using mapping software.",0.80,software mapping to locate sites
+19403,"Radio, Cellular, and Tower Equipment Installers and Repairers","Install or repair tower lighting components, including strobes, beacons, or lighting controllers.",0.00,physical lighting component installation
+23510,"Radio, Cellular, and Tower Equipment Installers and Repairers","Calibrate and align components, using scales, gauges, and other measuring instruments.",0.05,physical calibration with instruments

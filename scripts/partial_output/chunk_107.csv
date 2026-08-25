@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+9865,Operating Engineers and Other Construction Equipment Operators,Test atmosphere for adequate oxygen or explosive conditions when working in confined spaces.,0.05,physical on-site atmosphere testing
+9874,Operating Engineers and Other Construction Equipment Operators,Turn valves to control air or water output of compressors or pumps.,0.05,physical manual valve operation
+13504,Drywall and Ceiling Tile Installers,"Read blueprints or other specifications to determine methods of installation, work procedures, or material or tool requirements.",0.75,reading blueprints is an information task
+13503,Drywall and Ceiling Tile Installers,"Measure and mark surfaces to lay out work, according to blueprints or drawings, using tape measures, straightedges or squares, and marking devices.",0.05,physical on-site measuring and marking
+13505,Drywall and Ceiling Tile Installers,"Fit and fasten wallboard or drywall into position on wood or metal frameworks, using glue, nails, or screws.",0.00,physical fastening of wallboard
+13507,Drywall and Ceiling Tile Installers,"Measure and cut openings in panels or tiles for electrical outlets, windows, vents, plumbing, or other fixtures, using keyhole saws or other cutting tools.",0.00,physical cutting of panel openings
+13509,Drywall and Ceiling Tile Installers,"Assemble or install metal framing or decorative trim for windows, doorways, or vents.",0.00,physical framing installation
+13515,Drywall and Ceiling Tile Installers,"Cut metal or wood framing and trim to size, using cutting tools.",0.00,physical cutting of framing
+13513,Drywall and Ceiling Tile Installers,"Inspect furrings, mechanical mountings, or masonry surfaces for plumbness and level, using spirit or water levels.",0.05,physical on-site inspection with levels
+13514,Drywall and Ceiling Tile Installers,"Cut fixture or border tiles to size, using keyhole saws, and insert them into surrounding frameworks.",0.00,physical tile cutting and insertion
+13512,Drywall and Ceiling Tile Installers,"Cut and screw together metal channels to make floor or ceiling frames, according to plans for the location of rooms or hallways.",0.00,physical metal channel assembly
+13508,Drywall and Ceiling Tile Installers,"Hang drywall panels on metal frameworks of walls and ceilings in offices, schools, or other large buildings, using lifts or hoists to adjust panel heights, when necessary.",0.00,physical panel hanging with hoists
+13511,Drywall and Ceiling Tile Installers,"Trim rough edges from wallboard to maintain even joints, using knives.",0.00,physical trimming of wallboard
+13519,Drywall and Ceiling Tile Installers,"Suspend angle iron grids or channel irons from ceilings, using wire.",0.00,physical suspension of grid irons
+13510,Drywall and Ceiling Tile Installers,Coordinate work with drywall finishers who cover the seams between drywall panels.,0.20,coordination needs on-site presence though agent can relay schedules
+13516,Drywall and Ceiling Tile Installers,Install horizontal and vertical metal or wooden studs to frames so that wallboard can be attached to interior walls.,0.00,physical stud installation
+13517,Drywall and Ceiling Tile Installers,Scribe and cut edges of tile to fit walls where wall molding is not specified.,0.00,physical scribing and cutting tile
+13506,Drywall and Ceiling Tile Installers,Hang dry lines to wall moldings to guide positioning of main runners.,0.00,physical line hanging
+13518,Drywall and Ceiling Tile Installers,"Fasten metal or rockboard lath to the structural framework of walls, ceilings, or partitions of buildings, using nails, screws, staples, or wire-ties.",0.00,physical lath fastening
+13522,Drywall and Ceiling Tile Installers,Install blanket insulation between studs and tack plastic moisture barriers over insulation.,0.00,physical insulation installation
+13520,Drywall and Ceiling Tile Installers,Seal joints between ceiling tiles and walls.,0.00,physical joint sealing
+13528,Drywall and Ceiling Tile Installers,"Remove existing plaster, drywall, or paneling, using crowbars and hammers.",0.00,physical demolition
+13527,Drywall and Ceiling Tile Installers,"Apply or mount acoustical tile or blocks, strips, or sheets of shock-absorbing materials to ceilings or walls of buildings to reduce reflection of sound or to decorate rooms.",0.00,physical tile mounting
+13521,Drywall and Ceiling Tile Installers,"Mount tile, using adhesives, or by nailing, screwing, stapling, or wire-tying lath directly to structural frameworks.",0.00,physical tile mounting
+13525,Drywall and Ceiling Tile Installers,Nail channels or wood furring strips to surfaces to provide mounting for tile.,0.00,physical nailing of furring strips
+13523,Drywall and Ceiling Tile Installers,"Install metal lath where plaster applications will be exposed to weather or water, or for curved or irregular surfaces.",0.00,physical lath installation
+13524,Drywall and Ceiling Tile Installers,"Apply cement to backs of tiles and press tiles into place, aligning them with layout marks or joints of previously laid tile.",0.00,physical cement application and tile placement
+13526,Drywall and Ceiling Tile Installers,"Wash concrete surfaces before mounting tile to increase adhesive qualities of surfaces, using washing soda and zinc sulfate solution.",0.00,physical surface washing
+13530,Tapers,"Spread sealing compound between boards or panels or over cracks, holes, nail heads, or screw heads, using trowels, broadknives, or spatulas.",0.00,physical compound spreading
+13531,Tapers,Press paper tape over joints to embed tape into sealing compound and to seal joints.,0.00,physical tape pressing
+13537,Tapers,Apply additional coats to fill in holes and make surfaces smooth.,0.00,physical coat application
+13534,Tapers,Seal joints between plasterboard or other wallboard to prepare wall surfaces for painting or papering.,0.00,physical joint sealing
+13533,Tapers,"Spread and smooth cementing material over tape, using trowels or floating machines to blend joints with wall surfaces.",0.00,physical smoothing with trowels
+13535,Tapers,Sand or patch nicks or cracks in plasterboard or wallboard.,0.00,physical sanding and patching
+13532,Tapers,Mix sealing compounds by hand or with portable electric mixers.,0.00,physical mixing of compounds
+20788,Tapers,"Work on high ceilings, using scaffolding or other tools, such as stilts.",0.00,physical work at height no body
+13541,Tapers,Select the correct sealing compound or tape.,0.60,material selection could be automated from specs
+13540,Tapers,"Countersink nails or screws below surfaces of walls before applying sealing compounds, using hammers or screwdrivers.",0.00,physical countersinking
+13529,Tapers,Remove extra compound after surfaces have been covered sufficiently.,0.00,physical compound removal
+13538,Tapers,Install metal molding at wall corners to secure wallboard.,0.00,physical molding installation
+13542,Tapers,"Apply texturizing compounds or primers to walls or ceilings before final finishing, using trowels, brushes, rollers, or spray guns.",0.00,physical compound application
+13543,Tapers,Check adhesives to ensure that they will work and will remain durable.,0.20,checking adhesive durability needs physical testing
+13539,Tapers,Sand rough spots of dried cement between applications of compounds.,0.00,physical sanding
+13536,Tapers,Use mechanical applicators that spread compounds and embed tape in one operation.,0.00,physical machine operation
+2882,Electricians,Prepare sketches or follow blueprints to determine the location of wiring or equipment and to ensure conformance to building and safety codes.,0.70,sketch and blueprint planning from codes is information work
+2888,Electricians,"Place conduit, pipes, or tubing, inside designated partitions, walls, or other concealed areas, and pull insulated wires or cables through the conduit to complete circuits between boxes.",0.00,physical conduit and wire placement
+2887,Electricians,"Work from ladders, scaffolds, or roofs to install, maintain, or repair electrical wiring, equipment, or fixtures.",0.00,physical work at height no body
+2883,Electricians,"Use a variety of tools or equipment, such as power construction equipment, measuring devices, power tools, and testing equipment, such as oscilloscopes, ammeters, or test lamps.",0.00,physical tool and equipment operation
+2873,Electricians,"Assemble, install, test, or maintain electrical or electronic wiring, equipment, appliances, apparatus, or fixtures, using hand tools or power tools.",0.00,physical assembly and wiring
+2875,Electricians,"Connect wires to circuit breakers, transformers, or other components.",0.00,physical wire connection
+2879,Electricians,Maintain current electrician's license or identification card to meet governmental regulations.,0.00,requires licensed human identity
+2880,Electricians,"Plan layout and installation of electrical wiring, equipment, or fixtures, based on job specifications and local codes.",0.70,layout planning from specs and codes is information work
+2881,Electricians,"Direct or train workers to install, maintain, or repair electrical wiring, equipment, or fixtures.",0.25,training and directing physical workers needs presence
+2878,Electricians,"Test electrical systems or continuity of circuits in electrical wiring, equipment, or fixtures, using testing devices, such as ohmmeters, voltmeters, or oscilloscopes, to ensure compatibility and safety of system.",0.05,physical on-site testing with instruments
+2874,Electricians,"Diagnose malfunctioning systems, apparatus, or components, using test equipment and hand tools to locate the cause of a breakdown and correct the problem.",0.05,physical diagnosis with test equipment on site
+2876,Electricians,"Inspect electrical systems, equipment, or components to identify hazards, defects, or the need for adjustment or repair, and to ensure compliance with codes.",0.10,physical on-site inspection
+2884,Electricians,"Install ground leads and connect power cables to equipment, such as motors.",0.00,physical cable installation
+2877,Electricians,Advise management on whether continued operation of equipment could be hazardous.,0.35,advisory judgment normally follows physical inspection
+2886,Electricians,"Repair or replace wiring, equipment, or fixtures, using hand tools or power tools.",0.00,physical repair work
+20439,Electricians,"Construct or fabricate parts, using hand tools, according to specifications.",0.00,physical fabrication with hand tools
+2892,Electricians,Provide preliminary sketches or cost estimates for materials or services.,0.70,sketches and cost estimates are information work
+2885,Electricians,"Perform business management duties, such as maintaining records or files, preparing reports, or ordering supplies or equipment.",0.80,administrative recordkeeping and reporting
+2890,Electricians,Fasten small metal or plastic boxes to walls to house electrical switches or outlets.,0.00,physical box fastening
+2891,Electricians,"Perform physically demanding tasks, such as digging trenches to lay conduit or moving or lifting heavy objects.",0.00,physically demanding manual labor
+2893,Electricians,"Provide assistance during emergencies by operating floodlights or generators, placing flares, or driving needed vehicles.",0.00,physical emergency response on site
+11484,Glaziers,"Read and interpret blueprints or specifications to determine size, shape, color, type, or thickness of glass, location of framing, installation procedures, or staging or scaffolding materials required.",0.70,reading and interpreting blueprints is information work
+11485,Glaziers,"Determine plumb of walls or ceilings, using plumb lines and levels.",0.05,physical on-site plumb measurement
+11496,Glaziers,"Install pre-assembled metal or wood frameworks for windows or doors to be fitted with glass panels, using hand tools.",0.00,physical frame installation
+11486,Glaziers,"Fabricate or install metal sashes or moldings for glass installation, using aluminum or steel framing.",0.00,physical fabrication and installation
+11504,Glaziers,"Operate cranes or hoists with suction cups to lift large, heavy pieces of glass.",0.00,physical crane and hoist operation
+11492,Glaziers,"Set glass doors into frames and bolt metal hinges, handles, locks, or other hardware to attach doors to frames and walls.",0.00,physical door setting and hardware installation
+11490,Glaziers,"Cut, fit, install, repair, or replace glass or glass substitutes, such as plastic or aluminum, in building interiors or exteriors or in furniture or other products.",0.00,physical glass cutting and installation
+11495,Glaziers,"Drive trucks to installation sites and unload mirrors, glass equipment, or tools.",0.00,physical driving and unloading no license
+11499,Glaziers,"Load and arrange glass or mirrors onto delivery trucks, using suction cups or cranes to lift glass.",0.00,physical loading of glass
+11487,Glaziers,Measure mirrors and dimensions of areas to be covered to determine work procedures.,0.05,physical on-site measurement
+11497,Glaziers,"Cut and attach mounting strips, metal or wood moldings, rubber gaskets, or metal clips to surfaces in preparation for mirror installation.",0.00,physical cutting and attaching moldings
+11503,Glaziers,Pack spaces between moldings and glass with glazing compounds and trim excess material with glazing knives.,0.00,physical compound packing and trimming
+11498,Glaziers,"Assemble, erect, or dismantle scaffolds, rigging, or hoisting equipment.",0.00,physical scaffold assembly
+11491,Glaziers,Cut and remove broken glass prior to installing replacement glass.,0.00,physical glass removal
+11489,Glaziers,"Secure mirrors in position, using mastic cement, putty, bolts, or screws.",0.00,physical mirror securing
+11500,Glaziers,Measure and mark outlines or patterns on glass to indicate cutting lines.,0.00,physical marking on glass
+11501,Glaziers,"Grind or polish glass, smoothing edges when necessary.",0.00,physical grinding and polishing
+11488,Glaziers,"Fasten glass panes into wood sashes or frames with clips, points, or moldings, adding weather seals or putty around pane edges to seal joints.",0.00,physical glass fastening
+11493,Glaziers,"Score glass with cutters' wheels, breaking off excess glass by hand or with notched tools.",0.00,physical glass scoring
+11494,Glaziers,"Cut, assemble, fit, or attach metal-framed glass enclosures for showers, bathtubs, display cases, skylights, solariums, or other structures.",0.00,physical enclosure fabrication
+11502,Glaziers,Prepare glass for cutting by resting it on rack edges or against cutting tables and brushing thin layer of oil along cutting lines or dipping cutting tools in oil.,0.00,physical glass preparation
+11507,Glaziers,Move furniture to clear work sites and cover floors or furnishings with drop cloths.,0.00,physical furniture moving
+11505,Glaziers,Confer with customers to determine project requirements or to provide cost estimates.,0.45,client requirement conferring needs live interaction
+11506,Glaziers,Select the type or color of glass or mirror according to specifications.,0.65,material selection from specifications is information work
+11509,Glaziers,"Measure, cut, fit, and press anti-glare adhesive film to glass or spray glass with tinting solution to prevent light glare.",0.00,physical film application
+11508,Glaziers,Assemble and cement sections of stained glass together.,0.00,physical stained glass assembly
+11510,Glaziers,"Create patterns on glass by etching, sandblasting, or painting designs.",0.05,pattern application on glass is physical craft
+13545,"Insulation Workers, Floor, Ceiling, and Wall","Measure and cut insulation for covering surfaces, using tape measures, handsaws, power saws, knives, or scissors.",0.00,physical measuring and cutting insulation
+13547,"Insulation Workers, Floor, Ceiling, and Wall","Fit, wrap, staple, or glue insulating materials to structures or surfaces, using hand tools or wires.",0.00,physical fitting of insulation
+13546,"Insulation Workers, Floor, Ceiling, and Wall","Cover and line structures with blown or rolled forms of materials to insulate against cold, heat, or moisture, using saws, knives, rasps, trowels, blowers, or other tools and implements.",0.00,physical covering and lining
+13549,"Insulation Workers, Floor, Ceiling, and Wall","Distribute insulating materials evenly into small spaces within floors, ceilings, or walls, using blowers and hose attachments, or cement mortars.",0.00,physical distribution of materials
+13551,"Insulation Workers, Floor, Ceiling, and Wall","Move controls, buttons, or levers to start blowers and regulate flow of materials through nozzles.",0.00,physical control operation
+13550,"Insulation Workers, Floor, Ceiling, and Wall",Fill blower hoppers with insulating materials.,0.00,physical hopper filling
+13548,"Insulation Workers, Floor, Ceiling, and Wall","Cover, seal, or finish insulated surfaces or access holes with plastic covers, canvas strips, sealants, tape, cement or asphalt mastic.",0.00,physical surface finishing
+13544,"Insulation Workers, Floor, Ceiling, and Wall","Read blueprints, and select appropriate insulation, based on space characteristics and the heat retaining or excluding characteristics of the material.",0.70,reading blueprints and selecting insulation is information work
+13553,"Insulation Workers, Floor, Ceiling, and Wall","Remove old insulation, such as asbestos, following safety procedures.",0.00,physical hazardous material removal
+13552,"Insulation Workers, Floor, Ceiling, and Wall","Prepare surfaces for insulation application by brushing or spreading on adhesives, cement, or asphalt, or by attaching metal pins to surfaces.",0.00,physical surface preparation
+13554,"Insulation Workers, Mechanical","Measure and cut insulation for covering surfaces, using tape measures, handsaws, knives, and scissors.",0.00,physical measuring and cutting insulation
+13558,"Insulation Workers, Mechanical","Apply, remove, and repair insulation on industrial equipment, pipes, ductwork, or other mechanical systems such as heat exchangers, tanks, and vessels, to help control noise and maintain temperatures.",0.00,physical insulation application on equipment
+13559,"Insulation Workers, Mechanical","Select appropriate insulation, such as fiberglass, Styrofoam, or cork, based on the heat retaining or excluding characteristics of the material.",0.65,material selection based on properties is information work
+13555,"Insulation Workers, Mechanical","Fit insulation around obstructions, and shape insulating materials and protective coverings as required.",0.00,physical fitting and shaping
+13556,"Insulation Workers, Mechanical","Determine the amounts and types of insulation needed, and methods of installation, based on factors such as location, surface shape, and equipment use.",0.65,determining amounts and methods from specs is information work
+13561,"Insulation Workers, Mechanical","Cover, seal, or finish insulated surfaces or access holes with plastic covers, canvas strips, sealants, tape, cement, or asphalt mastic.",0.00,physical surface finishing
+13557,"Insulation Workers, Mechanical",Install sheet metal around insulated pipes with screws to protect the insulation from weather conditions or physical damage.,0.00,physical sheet metal installation
+13560,"Insulation Workers, Mechanical",Read blueprints and specifications to determine job requirements.,0.70,reading blueprints and specs is information work
+13562,"Insulation Workers, Mechanical","Prepare surfaces for insulation application by brushing or spreading on adhesives, cement, or asphalt, or by attaching metal pins to surfaces.",0.00,physical surface preparation
+11511,"Painters, Construction and Maintenance",Cover surfaces with dropcloths or masking tape and paper to protect surfaces during painting.,0.00,physical surface covering
+11516,"Painters, Construction and Maintenance",Read work orders or receive instructions from supervisors or homeowners to determine work requirements.,0.65,reading work orders is information work
+11514,"Painters, Construction and Maintenance","Apply paint, stain, varnish, enamel, or other finishes to equipment, buildings, bridges, or other structures, using brushes, spray guns, or rollers.",0.00,physical paint application
+11512,"Painters, Construction and Maintenance","Fill cracks, holes, or joints with caulk, putty, plaster, or other fillers, using caulking guns or putty knives.",0.00,physical filling of cracks
+11523,"Painters, Construction and Maintenance","Smooth surfaces, using sandpaper, scrapers, brushes, steel wool, or sanding machines.",0.00,physical surface smoothing
+11517,"Painters, Construction and Maintenance","Erect scaffolding or swing gates, or set up ladders, to work above ground level.",0.00,physical scaffold erection
+11519,"Painters, Construction and Maintenance","Wash and treat surfaces with oil, turpentine, mildew remover, or other preparations, and sand rough spots to ensure that finishes will adhere properly.",0.00,physical surface washing and treatment
+11513,"Painters, Construction and Maintenance","Apply primers or sealers to prepare new surfaces, such as bare wood or metal, for finish coats.",0.00,physical primer application
+11515,"Painters, Construction and Maintenance","Calculate amounts of required materials and estimate costs, based on surface measurements or work orders.",0.85,cost calculation from given measurements is pure computation
+11521,"Painters, Construction and Maintenance","Remove old finishes by stripping, sanding, wire brushing, burning, or using water or abrasive blasting.",0.00,physical finish removal
+11518,"Painters, Construction and Maintenance","Remove fixtures such as pictures, door knobs, lamps, or electric switch covers prior to painting.",0.00,physical fixture removal
+11525,"Painters, Construction and Maintenance","Use special finishing techniques such as sponging, ragging, layering, or faux finishing.",0.00,physical decorative finishing technique
+11526,"Painters, Construction and Maintenance","Waterproof buildings, using waterproofers or caulking.",0.00,physical waterproofing application
+11522,"Painters, Construction and Maintenance","Select and purchase tools or finishes for surfaces to be covered, considering durability, ease of handling, methods of application, and customers' wishes.",0.55,tool and finish selection feasible but involves customer conversation
+11520,"Painters, Construction and Maintenance","Mix and match colors of paint, stain, or varnish with oil or thinning and drying additives to obtain desired colors and consistencies.",0.05,physical paint mixing
+11524,"Painters, Construction and Maintenance",Polish final coats to specified finishes.,0.00,physical polishing
+11527,"Painters, Construction and Maintenance",Cut stencils and brush or spray lettering or decorations on surfaces.,0.05,stencil cutting and application is largely physical craft
+14906,Paperhangers,Smooth strips or sections of paper with brushes or rollers to remove wrinkles and bubbles and to smooth joints.,0.00,physical smoothing of paper strips
+14907,Paperhangers,"Trim rough edges from strips, using straightedges and trimming knives.",0.00,physical trimming of paper edges

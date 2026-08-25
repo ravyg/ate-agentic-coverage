@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+6059,"Psychology Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",0.75,curriculum planning is analytical writing work
+6063,"Psychology Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.55,research design and writing but human authorship needed for publication
+20080,"Psychology Teachers, Postsecondary","Develop and use multimedia course materials and other current technology, such as online courses.",0.85,digital content creation
+6062,"Psychology Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.30,live student interaction and presence
+6071,"Psychology Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,requires institutional authority and accountability
+6066,"Psychology Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.30,requires live human collaboration and rapport
+6064,"Psychology Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.40,career advising needs human rapport and judgment
+6073,"Psychology Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.65,drafting is text work but PI accountability needed
+6060,"Psychology Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,routine recordkeeping
+21120,"Psychology Teachers, Postsecondary",Write letters of recommendation for students.,0.35,requires genuine personal knowledge and accountable signature
+6067,"Psychology Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional decision authority and presence
+6069,"Psychology Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.30,interpersonal and on-site activities
+6065,"Psychology Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",0.65,research and selection largely text based ordering simple
+6070,"Psychology Teachers, Postsecondary",Supervise students' laboratory work.,0.10,requires physical presence supervising students
+20082,"Psychology Teachers, Postsecondary",Supervise the clinical work of practicum students.,0.05,requires licensed physical clinical supervision
+20081,"Psychology Teachers, Postsecondary","Provide clinical services to clients, such as assessing psychological problems and conducting psychotherapy.",0.10,licensed clinical care needing human rapport and authority
+20083,"Psychology Teachers, Postsecondary",Review books and journal articles for potential publication.,0.80,text review and analysis
+6068,"Psychology Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.85,literature search and compilation
+6072,"Psychology Teachers, Postsecondary",Act as advisers to student organizations.,0.20,ongoing human mentorship and presence
+6074,"Psychology Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical presence at events
+6075,"Psychology Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.35,advisory relationship needing trust and accountability
+6076,"Sociology Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",0.75,text based grading and evaluation
+6078,"Sociology Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.20,live classroom facilitation needs presence
+6079,"Sociology Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.45,compiling and grading feasible but administering needs proctoring presence
+6077,"Sociology Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as race and ethnic relations, measurement and data collection, and workplace social relations.",0.40,prep is text work but live delivery needs presence
+6080,"Sociology Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,content drafting
+6081,"Sociology Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.50,reading is feasible but colleague talk and conferences need presence
+6087,"Sociology Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.55,research and writing but human accountable authorship
+6084,"Sociology Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",0.75,curriculum planning and writing
+6082,"Sociology Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,routine recordkeeping
+6089,"Sociology Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.30,supervision requires ongoing human oversight and evaluation
+6083,"Sociology Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.30,live student interaction and presence
+6085,"Sociology Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.40,career advising needs human rapport and judgment
+6093,"Sociology Teachers, Postsecondary",Supervise students' laboratory and field work.,0.10,physical presence supervising fieldwork
+6088,"Sociology Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks and laboratory equipment.",0.65,research and selection largely text based ordering simple
+6086,"Sociology Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.30,requires live human collaboration and rapport
+6090,"Sociology Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional decision authority and presence
+6096,"Sociology Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.85,literature search and compilation
+6094,"Sociology Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.65,drafting is text work but PI accountability needed
+21121,"Sociology Teachers, Postsecondary",Mentor new faculty.,0.20,human mentorship relationship
+6091,"Sociology Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.30,interpersonal and on-site activities
+6092,"Sociology Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,requires institutional authority and accountability
+6097,"Sociology Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical presence at events
+6095,"Sociology Teachers, Postsecondary",Act as advisers to student organizations.,0.20,ongoing human mentorship and presence
+6098,"Sociology Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.35,advisory relationship needing trust and accountability
+6103,"Health Specialties Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,content drafting
+6100,"Health Specialties Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.50,reading is feasible but colleague talk and conferences need presence
+6102,"Health Specialties Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",0.75,text based grading and evaluation
+6109,"Health Specialties Teachers, Postsecondary",Supervise laboratory sessions.,0.10,requires physical presence supervising lab
+6101,"Health Specialties Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.45,compiling and grading feasible but administering needs proctoring presence
+6110,"Health Specialties Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,routine recordkeeping
+6099,"Health Specialties Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.20,live classroom facilitation needs presence
+6105,"Health Specialties Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",0.75,curriculum planning and writing
+6106,"Health Specialties Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.30,supervision requires ongoing human oversight and evaluation
+6113,"Health Specialties Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.30,interpersonal and on-site activities
+6116,"Health Specialties Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks and laboratory equipment.",0.65,research and selection largely text based ordering simple
+6108,"Health Specialties Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.30,requires live human collaboration and rapport
+6115,"Health Specialties Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional decision authority and presence
+6112,"Health Specialties Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.40,career advising needs human rapport and judgment
+6111,"Health Specialties Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.30,live student interaction and presence
+6107,"Health Specialties Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.55,research and writing but human accountable authorship
+6121,"Health Specialties Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical presence at events
+6104,"Health Specialties Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as public health, stress management, and work site health promotion.",0.40,prep is text work but live delivery needs presence
+6118,"Health Specialties Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,requires institutional authority and accountability
+6114,"Health Specialties Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.65,drafting is text work but PI accountability needed
+6117,"Health Specialties Teachers, Postsecondary",Act as advisers to student organizations.,0.20,ongoing human mentorship and presence
+6119,"Health Specialties Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.85,literature search and compilation
+6127,"Nursing Instructors and Teachers, Postsecondary","Evaluate and grade students' class work, laboratory and clinic work, assignments, and papers.",0.45,written work gradable but clinic and lab evaluation needs physical observation
+6126,"Nursing Instructors and Teachers, Postsecondary",Supervise students' laboratory and clinical work.,0.05,requires licensed physical clinical supervision
+6122,"Nursing Instructors and Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.20,live classroom facilitation needs presence
+6130,"Nursing Instructors and Teachers, Postsecondary",Assess clinical education needs and patient and client teaching needs using a variety of methods.,0.20,clinical assessment needs human patient contact
+6131,"Nursing Instructors and Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.45,compiling and grading feasible but administering needs proctoring presence
+6123,"Nursing Instructors and Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as pharmacology, mental health nursing, and community health care practices.",0.40,prep is text work but live delivery needs presence
+6125,"Nursing Instructors and Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,content drafting
+6145,"Nursing Instructors and Teachers, Postsecondary",Demonstrate patient care in clinical units of hospitals.,0.00,physical hands on demonstration
+6124,"Nursing Instructors and Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.50,reading is feasible but colleague talk and conferences need presence
+6129,"Nursing Instructors and Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",0.75,curriculum planning and writing
+6133,"Nursing Instructors and Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,routine recordkeeping
+6132,"Nursing Instructors and Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.40,career advising needs human rapport and judgment
+6128,"Nursing Instructors and Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.30,requires live human collaboration and rapport
+6134,"Nursing Instructors and Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.30,live student interaction and presence
+20084,"Nursing Instructors and Teachers, Postsecondary",Mentor junior and adjunct faculty members.,0.20,human mentorship relationship
+6139,"Nursing Instructors and Teachers, Postsecondary","Coordinate training programs with area universities, clinics, hospitals, health agencies, or vocational schools.",0.35,cross institution coordination needs relationship building
+20085,"Nursing Instructors and Teachers, Postsecondary",Maintain a clinical practice.,0.05,requires licensure and physical patient care
+6138,"Nursing Instructors and Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional decision authority and presence
+6141,"Nursing Instructors and Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks and laboratory equipment.",0.65,research and selection largely text based ordering simple
+6137,"Nursing Instructors and Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.30,interpersonal and on-site activities
+6140,"Nursing Instructors and Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.85,literature search and compilation
+6142,"Nursing Instructors and Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical presence at events
+6135,"Nursing Instructors and Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.30,supervision requires ongoing human oversight and evaluation
+6136,"Nursing Instructors and Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.55,research and writing but human accountable authorship
+6146,"Nursing Instructors and Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,requires institutional authority and accountability
+21122,"Nursing Instructors and Teachers, Postsecondary",Conduct faculty performance evaluations.,0.20,requires judgment and institutional authority
+6143,"Nursing Instructors and Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.65,drafting is text work but PI accountability needed
+6144,"Nursing Instructors and Teachers, Postsecondary",Act as advisers to student organizations.,0.20,ongoing human mentorship and presence
+6147,"Nursing Instructors and Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.35,advisory relationship needing trust and accountability
+6148,"Education Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,content drafting
+6160,"Education Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.55,research and writing but human accountable authorship
+6159,"Education Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.45,compiling and grading feasible but administering needs proctoring presence
+6154,"Education Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.50,reading is feasible but colleague talk and conferences need presence
+6153,"Education Teachers, Postsecondary","Supervise students' fieldwork, internship, and research work.",0.20,fieldwork supervision needs physical presence
+6151,"Education Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",0.75,text based grading and evaluation
+6149,"Education Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as children's literature, learning and development, and reading instruction.",0.40,prep is text work but live delivery needs presence
+6150,"Education Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.20,live classroom facilitation needs presence
+6158,"Education Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.30,requires live human collaboration and rapport
+6152,"Education Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",0.75,curriculum planning and writing
+6156,"Education Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.30,live student interaction and presence
+6155,"Education Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.40,career advising needs human rapport and judgment
+6162,"Education Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.30,interpersonal and on-site activities
+6157,"Education Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,routine recordkeeping
+6168,"Education Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,requires institutional authority and accountability
+6161,"Education Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",0.65,research and selection largely text based ordering simple
+6164,"Education Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional decision authority and presence
+6166,"Education Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.65,drafting is text work but PI accountability needed
+20086,"Education Teachers, Postsecondary",Serve as a liaison between the university and other governmental and educational agencies.,0.20,requires representational authority and relationship building
+6163,"Education Teachers, Postsecondary","Advise and instruct teachers employed in school systems by providing activities, such as in-service seminars.",0.30,live seminar delivery needs presence
+6167,"Education Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical presence at events
+6165,"Education Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.85,literature search and compilation
+6169,"Education Teachers, Postsecondary",Act as advisers to student organizations.,0.20,ongoing human mentorship and presence
+6170,"Education Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.35,advisory relationship needing trust and accountability
+20087,"Library Science Teachers, Postsecondary","Conduct research in a particular field of knowledge and present findings in professional journals, books, electronic media, or at professional conferences.",0.45,research writing plus live conference presentation
+6173,"Library Science Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",0.75,text based grading and evaluation
+20088,"Library Science Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, giving presentations at conferences, and serving on committees in professional associations.",0.35,conference presentations and committee service need presence and authority
+6172,"Library Science Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as collection development, archival methods, and indexing and abstracting.",0.40,prep is text work but live delivery needs presence
+6171,"Library Science Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,content drafting
+6176,"Library Science Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",0.75,curriculum planning and writing
+6175,"Library Science Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.20,live classroom facilitation needs presence
+6181,"Library Science Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.45,compiling and grading feasible but administering needs proctoring presence
+6178,"Library Science Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,routine recordkeeping
+6180,"Library Science Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.40,career advising needs human rapport and judgment

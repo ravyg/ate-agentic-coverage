@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+13155,Travel Guides,"Plan tour itineraries, applying knowledge of travel routes and destination sites.",0.85,route and itinerary planning from information
+13156,Travel Guides,"Resolve any problems with itineraries, service, or accommodations.",0.55,can coordinate rebookings but often needs real-time human negotiation
+13163,Travel Guides,Attend to special needs of tour participants.,0.10,requires physical presence for special needs
+13157,Travel Guides,Sell travel packages.,0.65,remote sales persuasion via chat or web
+13159,Travel Guides,"Evaluate services received on the tour, and report findings to tour organizers.",0.20,requires being physically present on tour to evaluate
+13164,Travel Guides,Give advice on sightseeing and shopping.,0.90,informational advice giving
+13166,Travel Guides,Administer first aid to injured group participants.,0.00,physical first aid administration
+13171,Travel Guides,Explain hunting and fishing laws to groups to ensure compliance.,0.35,can explain laws but ensuring compliance needs presence
+13160,Travel Guides,Lead individuals or groups to tour site locations and describe points of interest.,0.05,physical leading of tour group
+13167,Travel Guides,Pilot airplanes or drive land and water vehicles to transport tourists to activity or tour sites.,0.00,physical piloting and driving requiring licensure
+13170,Travel Guides,"Sell or rent equipment, clothing, and supplies related to expeditions.",0.30,remote sales possible but physical handoff needed
+13162,Travel Guides,Pay bills and record checks issued.,0.75,financial admin mostly automatable via bill pay systems
+13161,Travel Guides,Verify amounts and quality of equipment prior to expeditions or tours.,0.10,physical equipment inspection
+13169,Travel Guides,"Instruct novices in climbing techniques, mountaineering, and wilderness survival, and demonstrate use of hunting, fishing, and climbing equipment.",0.05,physical instruction and demonstration
+13168,Travel Guides,"Set up camps, and prepare meals for tour group members.",0.00,physical camp setup and meal prep
+13165,Travel Guides,"Provide tourists with assistance in obtaining permits and documents such as visas, passports, and health certificates, and in converting currency.",0.55,mostly research and paperwork guidance some in-person steps needed
+18756,Childcare Workers,Maintain a safe play environment.,0.05,requires physical presence to maintain safe environment
+2336,Childcare Workers,Observe and monitor children's play activities.,0.05,requires physical presence for supervision
+18757,Childcare Workers,"Communicate with children's parents or guardians about daily activities, behaviors, and related issues.",0.30,communication is easy but underlying observations require presence
+2331,Childcare Workers,"Support children's emotional and social development, encouraging understanding of others and positive self-concepts.",0.05,requires live human interaction with children
+2332,Childcare Workers,"Care for children in institutional setting, such as group homes, nursery schools, private businesses, or schools for people with disabilities.",0.00,physical childcare
+2333,Childcare Workers,Sanitize toys and play equipment.,0.00,physical sanitizing task
+2346,Childcare Workers,Dress children and change diapers.,0.00,physical dressing and diapering
+2337,Childcare Workers,"Keep records on individual children, including daily observations and information about activities, meals served, and medications administered.",0.35,record keeping easy but underlying observations require presence
+2335,Childcare Workers,Identify signs of emotional or developmental problems in children and bring them to parents' or guardians' attention.,0.10,requires direct observation and interaction with children
+2338,Childcare Workers,"Instruct children in health and personal habits, such as eating, resting, and toilet habits.",0.05,requires physical presence and interaction with children
+2342,Childcare Workers,Organize and store toys and materials to ensure order in activity areas.,0.00,physical organizing task
+18761,Childcare Workers,"Perform general administrative tasks, such as taking attendance, editing internal paperwork, and making phone calls.",0.55,administrative paperwork automatable but attendance taking needs presence
+18759,Childcare Workers,Create developmentally appropriate lesson plans.,0.85,lesson plan content creation
+2348,Childcare Workers,"Perform housekeeping duties, such as laundry, cleaning, dish washing, and changing of linens.",0.00,physical housekeeping duties
+2339,Childcare Workers,"Read to children and teach them simple painting, drawing, handicrafts, and songs.",0.05,requires physical presence with children
+18758,Childcare Workers,Assist in preparing food and serving meals and refreshments to children.,0.00,physical food prep and serving
+2334,Childcare Workers,"Discipline children and recommend or initiate other measures to control behavior, such as caring for own clothing and picking up toys and books.",0.05,requires physical presence to discipline children
+18760,Childcare Workers,Regulate children's rest periods.,0.05,requires physical presence to supervise rest periods
+18762,Childcare Workers,"Organize and participate in recreational activities and outings, such as games and field trips.",0.15,planning possible but participation needs physical presence
+2344,Childcare Workers,Sterilize bottles and prepare formulas.,0.00,physical sterilizing and formula prep
+2347,Childcare Workers,Help children with homework and school work.,0.45,tutoring assistance possible remotely but often needs in-person help
+18763,Childcare Workers,"Provide care for children with physical, developmental, or mental health disabilities.",0.00,physical care for children with disabilities
+18764,Childcare Workers,"Perform general personnel functions, such as supervision, training, and scheduling.",0.40,scheduling automatable but supervision and training need human presence
+2349,Childcare Workers,"Accompany children to and from school, on outings, and to medical appointments.",0.00,requires physical presence to accompany children
+2355,Nannies,"Instruct children in safe behavior, such as seeking adult assistance when crossing the street and avoiding contact with unsafe objects.",0.05,requires physical presence to instruct children
+2368,Nannies,Remove hazards and develop appropriate boundaries and rules to create a safe environment for children.,0.15,rule development possible but hazard removal is physical
+2351,Nannies,Perform first aid or cardiopulmonary resuscitation (CPR) when required.,0.00,physical first aid and CPR
+2365,Nannies,"Instruct and assist children in the development of health and personal habits, such as eating, resting, and toilet behavior.",0.05,requires physical presence with children
+2352,Nannies,Regulate children's rest periods and nap schedules.,0.05,requires physical presence to regulate rest periods
+2367,Nannies,"Teach and perform age-appropriate activities, such as lap play, reading, and arts and crafts, to encourage intellectual development of children.",0.05,requires physical presence for activities with children
+2354,Nannies,Help prepare and serve nutritionally balanced meals and snacks for children.,0.10,meal planning is info work but prep and serving is physical
+2358,Nannies,Model appropriate social behaviors and encourage concern for others to cultivate development of interpersonal relationships and communication skills.,0.05,requires live human presence to model behavior
+2356,Nannies,"Organize and conduct age-appropriate recreational activities, such as games, arts and crafts, sports, walks, and play dates.",0.15,organizing is info work but conducting activities needs presence
+2362,Nannies,"Assign appropriate chores and praise targeted behaviors to encourage development of self-control, self-confidence, and responsibility.",0.10,chore assignment can be planned but behavior encouragement needs presence
+2357,Nannies,"Observe children's behavior for irregularities, take temperature, transport children to doctor, or administer medications, as directed, to maintain children's health.",0.00,physical caregiving tasks
+2359,Nannies,Work with parents to develop and implement discipline programs to promote desirable child behavior.,0.30,can help develop program but implementation needs presence
+2364,Nannies,Perform housekeeping and cleaning duties related to children's care.,0.00,physical housekeeping duties
+2353,Nannies,Meet regularly with parents to discuss children's activities and development.,0.35,communication possible remotely but parents typically want human rapport
+2361,Nannies,Supervise and assist with homework.,0.30,homework help possible remotely but supervision needs presence
+2363,Nannies,"Transport children to schools, social outings, and medical appointments.",0.00,physical transport of children
+2366,Nannies,"Keep records of play, meal schedules, and bill payment.",0.55,record keeping and bill paying largely automatable given inputs
+2360,Nannies,Help develop or monitor family schedule.,0.80,schedule planning is information work
+21071,Nannies,"Shop for groceries, clothing, and other items needed for children's care.",0.75,online ordering feasible via web agent with delivery
+4559,Exercise Trainers and Group Fitness Instructors,Observe participants and inform them of corrective measures necessary for skill improvement.,0.25,requires observing physical performance typically in-person
+4557,Exercise Trainers and Group Fitness Instructors,Offer alternatives during classes to accommodate different levels of fitness.,0.10,requires live in-class adaptation
+4565,Exercise Trainers and Group Fitness Instructors,Monitor participants' progress and adapt programs as needed.,0.45,progress tracking and program adjustment can be partly remote
+4558,Exercise Trainers and Group Fitness Instructors,"Plan routines, choose appropriate music, and choose different movements for each set of muscles, depending on participants' capabilities and limitations.",0.75,routine planning is information and creative work
+4566,Exercise Trainers and Group Fitness Instructors,"Evaluate individuals' abilities, needs, and physical conditions, and develop suitable training programs to meet any special requirements.",0.40,physical assessment needs presence but program design is info work
+4561,Exercise Trainers and Group Fitness Instructors,Instruct participants in maintaining exertion levels to maximize benefits from exercise routines.,0.15,requires live in-person coaching
+4562,Exercise Trainers and Group Fitness Instructors,"Teach and demonstrate use of gymnastic and training equipment, such as trampolines and weights.",0.05,physical demonstration of equipment
+4556,Exercise Trainers and Group Fitness Instructors,"Explain and enforce safety rules and regulations governing sports, recreational activities, and the use of exercise equipment.",0.30,explaining is info work but enforcement needs presence
+4560,Exercise Trainers and Group Fitness Instructors,Teach proper breathing techniques used during physical exertion.,0.35,instructional content can be prepared but live coaching typically needed
+4563,Exercise Trainers and Group Fitness Instructors,Maintain fitness equipment.,0.00,physical equipment maintenance
+4568,Exercise Trainers and Group Fitness Instructors,"Provide students with information and resources regarding nutrition, weight control, and lifestyle issues.",0.90,informational nutrition guidance
+4569,Exercise Trainers and Group Fitness Instructors,"Administer emergency first aid, wrap injuries, treat minor chronic disabilities, or refer injured persons to physicians.",0.05,physical first aid and medical treatment
+4575,Exercise Trainers and Group Fitness Instructors,"Maintain equipment inventories, and select, store, or issue equipment as needed.",0.35,inventory tracking is info work but physical storage is needed
+4570,Exercise Trainers and Group Fitness Instructors,Advise clients about proper clothing and shoes.,0.85,advisory information task
+4564,Exercise Trainers and Group Fitness Instructors,"Conduct therapeutic, recreational, or athletic activities.",0.05,requires physical presence to conduct activities
+4567,Exercise Trainers and Group Fitness Instructors,Plan physical education programs to promote development of participants' physical attributes and social skills.,0.80,program planning is information work
+4572,Exercise Trainers and Group Fitness Instructors,"Teach individual and team sports to participants through instruction and demonstration, using knowledge of sports techniques and of participants' physical capabilities.",0.05,physical demonstration of sports techniques
+4573,Exercise Trainers and Group Fitness Instructors,"Promote health clubs through membership sales, and record member information.",0.55,marketing and record keeping automatable sales closing may need human rapport
+4576,Exercise Trainers and Group Fitness Instructors,Organize and conduct competitions and tournaments.,0.25,planning is info work but conducting event needs presence
+4577,Exercise Trainers and Group Fitness Instructors,Advise participants in use of heat or ultraviolet treatments and hot baths.,0.75,advisory information task
+2380,Recreation Workers,Enforce rules and regulations of recreational facilities to maintain discipline and ensure safety.,0.05,requires physical presence and authority to enforce rules
+2381,Recreation Workers,"Organize, lead, and promote interest in recreational activities, such as arts, crafts, sports, games, camping, and hobbies.",0.20,organizing and promoting is info work but leading needs presence
+21010,Recreation Workers,"Assess the needs and interests of individuals and groups and plan activities accordingly, given the available equipment or facilities.",0.70,needs assessment and planning is largely info work
+2382,Recreation Workers,Manage the daily operations of recreational facilities.,0.35,facility management requires on-site operational oversight
+2383,Recreation Workers,Administer first aid according to prescribed procedures and notify emergency medical personnel when necessary.,0.05,physical first aid administration
+2388,Recreation Workers,Complete and maintain time and attendance forms and inventory lists.,0.80,administrative record keeping is information work
+2386,Recreation Workers,"Explain principles, techniques, and safety procedures to participants in recreational activities and demonstrate use of materials and equipment.",0.30,explaining is info work but demonstration is physical
+2393,Recreation Workers,"Direct special activities or events, such as aquatics, gymnastics, or performing arts.",0.10,directing live events requires physical presence
+2390,Recreation Workers,"Supervise and coordinate the work activities of personnel, such as training staff members and assigning work duties.",0.35,assigning duties is info work but supervision needs presence
+2387,Recreation Workers,"Evaluate recreation areas, facilities, and services to determine if they are producing desired results.",0.40,evaluation from data is info work but facility inspection needs presence
+21011,Recreation Workers,Document individuals' progress toward meeting their treatment goals.,0.55,documentation task given human-provided observations
+2385,Recreation Workers,"Greet new arrivals to activities, introducing them to other participants, explaining facility rules, and encouraging participation.",0.05,requires physical presence to greet participants
+2389,Recreation Workers,Confer with management to discuss and resolve participant complaints.,0.35,discussion possible via text but resolution needs human authority
+2394,Recreation Workers,"Meet with staff to discuss rules, regulations, and work-related problems.",0.30,meeting facilitation possible but needs human presence for real interaction
+2399,Recreation Workers,"Oversee the purchase, planning, design, construction, and upkeep of recreation facilities and areas.",0.25,some planning is info work but construction oversight needs presence
+2396,Recreation Workers,Encourage participants to develop their own activities and leadership skills through group discussions.,0.10,requires live group facilitation
+2391,Recreation Workers,"Meet and collaborate with agency personnel, community organizations, and other professional personnel to plan balanced recreational programs for participants.",0.45,collaborative planning partly automatable via communication and drafting
+2395,Recreation Workers,Provide for entertainment and set up related decorations and equipment.,0.05,physical setup of entertainment and decorations
+2397,Recreation Workers,Serve as liaison between park or recreation administrators and activity instructors.,0.45,liaison communication partly automatable
+2392,Recreation Workers,Schedule maintenance and use of facilities.,0.85,scheduling task is information work
+18557,Recreation Workers,Conduct individual in-room visits with residents.,0.00,requires physical presence for in-room visits
+21012,Recreation Workers,Develop treatment goals for individuals based on their assessments.,0.40,goal drafting from assessment data but needs professional judgment
+2398,Recreation Workers,"Evaluate staff performance, recording evaluations on appropriate forms.",0.40,evaluation requires human judgment though drafting can be automated
+18558,Recreation Workers,Take residents on community outings.,0.00,physical transport and presence for outings
+6974,Residential Advisors,Communicate with other staff to resolve problems with individual students.,0.45,communication feasible remotely but resolution needs judgment
+6977,Residential Advisors,Observe students to detect and report unusual behavior.,0.10,requires physical observation of students
+20138,Residential Advisors,"Supervise, train, and evaluate residence hall staff, including resident assistants, participants in work-study programs, and other student workers.",0.25,supervisory function requires human authority and presence
+6971,Residential Advisors,Provide emergency first aid and summon medical assistance when necessary.,0.10,physical first aid administration
+6976,Residential Advisors,Make regular rounds to ensure that residents and areas are safe and secure.,0.00,physical patrol of premises
+6972,Residential Advisors,Mediate interpersonal problems between residents.,0.15,requires live interpersonal mediation
+6970,Residential Advisors,Enforce rules and regulations to ensure the smooth and orderly operation of dormitory programs.,0.10,enforcement requires authority and presence
+6978,Residential Advisors,"Determine the need for facility maintenance and repair, and notify appropriate personnel.",0.35,inspection needs presence but notification is easy communication
+6979,Residential Advisors,Collaborate with counselors to develop counseling programs that address the needs of individual students.,0.40,collaborative program development partly info work
+20137,Residential Advisors,Develop and coordinate educational programs for residents.,0.55,program development is info work coordination partly automatable
+6980,Residential Advisors,Develop program plans for individuals or assist in plan development.,0.65,plan drafting is information work
+6984,Residential Advisors,Provide requested information on students' progress and the development of case plans.,0.65,information reporting task
+6985,Residential Advisors,Confer with medical personnel to better understand the backgrounds and needs of individual residents.,0.40,conferring is a communication task in a professional accountability context
+6973,Residential Advisors,"Administer, coordinate, or recommend disciplinary and corrective actions.",0.30,recommending is info work but administering requires human authority
+6986,Residential Advisors,"Answer telephones, and route calls or deliver messages.",0.75,call answering and routing automatable via voice AI
+6975,Residential Advisors,"Counsel students in the handling of issues such as family, financial, and educational problems.",0.20,counseling requires human rapport and trust
+6981,Residential Advisors,Hold regular meetings with each assigned unit.,0.15,requires live meeting facilitation with human presence
+6994,Residential Advisors,Compile information such as residents' daily activities and the quantities of supplies used to prepare required reports.,0.75,report compilation is information work
+6993,Residential Advisors,Chaperone group-sponsored trips and social functions.,0.00,physical chaperoning presence required
+6991,Residential Advisors,Order supplies for facilities.,0.80,procurement ordering automatable via APIs
+20139,Residential Advisors,Oversee departmental budget.,0.55,budget analysis is info work but oversight authority remains with human
+6992,Residential Advisors,Supervise students' housekeeping work to ensure that it is done properly.,0.10,requires physical presence to inspect housekeeping work
+6988,Residential Advisors,Process contract cancellations for students who are unable to follow residence hall policies and procedures.,0.45,administrative processing is info work but decision needs human authority
+6995,Residential Advisors,Accompany and supervise students during meals.,0.00,requires physical presence to supervise meals
+6990,Residential Advisors,Supervise the activities of housekeeping personnel.,0.15,requires presence and authority to supervise personnel
+6983,Residential Advisors,Assign rooms to students.,0.85,room assignment is algorithmic information work
+6996,Residential Advisors,"Provide transportation or escort for expeditions, such as shopping trips or visits to doctors or dentists.",0.00,physical transport and escort

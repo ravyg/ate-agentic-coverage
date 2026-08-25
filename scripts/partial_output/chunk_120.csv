@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+20673,"Maintenance and Repair Workers, General","Maintain or repair specialized equipment or machinery located in cafeterias, laundries, hospitals, stores, offices, or factories.",0.05,on-site equipment repair across facilities
+20670,"Maintenance and Repair Workers, General","Dismantle machines, equipment, or devices to access and remove defective parts, using hoists, cranes, hand tools, or power tools.",0.03,physical disassembly using tools
+3028,"Maintenance and Repair Workers, General","Plan and lay out repair work, using diagrams, drawings, blueprints, maintenance manuals, or schematic diagrams.",0.55,planning from documents but physical layout needs presence
+19898,"Maintenance and Repair Workers, General",Install equipment to improve the energy or operational efficiency of residential or commercial buildings.,0.03,physical installation of building equipment
+3035,"Maintenance and Repair Workers, General","Set up and operate machine tools to repair or fabricate machine parts, jigs, fixtures, or tools.",0.02,physical machine tool operation
+20675,"Maintenance and Repair Workers, General",Perform general cleaning of buildings or properties.,0.02,physical cleaning work
+20676,"Maintenance and Repair Workers, General",Train or manage maintenance personnel or subcontractors.,0.25,managing and training on-site personnel
+3037,"Maintenance and Repair Workers, General","Fabricate or repair counters, benches, partitions, or other wooden structures, such as sheds or outbuildings.",0.02,physical carpentry fabrication
+3031,"Maintenance and Repair Workers, General","Paint or repair roofs, windows, doors, floors, woodwork, plaster, drywall, or other parts of building structures.",0.02,physical building repair
+19899,"Maintenance and Repair Workers, General","Perform routine maintenance on boilers, such as replacing burners or hoses, installing replacement parts, or reinforcing structural weaknesses to ensure optimal boiler efficiency.",0.02,physical boiler maintenance
+20677,"Maintenance and Repair Workers, General","Provide groundskeeping services, such as landscaping or snow removal.",0.02,physical groundskeeping work
+3032,"Maintenance and Repair Workers, General",Operate cutting torches or welding equipment to cut or join metal parts.,0.01,physical welding and cutting
+3034,"Maintenance and Repair Workers, General","Inspect used parts to determine changes in dimensional requirements, using rules, calipers, micrometers, or other measuring instruments.",0.03,physical measurement with instruments
+19897,"Maintenance and Repair Workers, General","Assemble boilers at installation sites, using tools such as levels, plumb bobs, hammers, torches, or other hand tools.",0.01,physical boiler assembly on site
+19900,"Maintenance and Repair Workers, General","Position, attach, or blow insulating materials to prevent energy losses from buildings, pipes, or other structures or objects.",0.02,physical insulation installation
+17806,Wind Turbine Service Technicians,"Troubleshoot or repair mechanical, hydraulic, or electrical malfunctions related to variable pitch systems, variable speed control systems, converter systems, or related components.",0.05,on-site troubleshooting and physical repair
+17809,Wind Turbine Service Technicians,"Perform routine maintenance on wind turbine equipment, underground transmission systems, wind fields substations, or fiber optic sensing and control systems.",0.02,physical turbine maintenance
+17808,Wind Turbine Service Technicians,Diagnose problems involving wind turbine generators or control systems.,0.35,diagnosis from data possible but often needs on-site inspection
+17811,Wind Turbine Service Technicians,"Test electrical components of wind systems with devices, such as voltage testers, multimeters, oscilloscopes, infrared testers, or fiber optic equipment.",0.03,physical electrical testing on-site
+17810,Wind Turbine Service Technicians,Start or restart wind turbine generator systems to ensure proper operations.,0.15,restart often requires on-site action
+17807,Wind Turbine Service Technicians,"Climb wind turbine towers to inspect, maintain, or repair equipment.",0.00,climbing towers requires physical body
+17815,Wind Turbine Service Technicians,"Maintain tool and spare parts inventories required for repair, installation, or replacement services.",0.55,inventory tracking can be digital though physical counting needed
+17812,Wind Turbine Service Technicians,"Test structures, controls, or mechanical, hydraulic, or electrical systems, according to test plans or in coordination with engineers.",0.10,physical system testing on-site
+17817,Wind Turbine Service Technicians,"Train end-users, distributors, installers, or other technicians in wind commissioning, testing, or other technical procedures.",0.25,hands-on training of technicians
+17814,Wind Turbine Service Technicians,Collect turbine data for testing or research and analysis.,0.35,data collection often needs on-site sensors though analysis is agent-friendly
+17805,Wind Turbine Service Technicians,Inspect or repair fiberglass turbine blades.,0.02,physical blade inspection and repair
+17813,Wind Turbine Service Technicians,Assist in assembly of individual wind generators or construction of wind farms.,0.01,physical construction assembly
+13835,"Coin, Vending, and Amusement Machine Servicers and Repairers","Fill machines with products, ingredients, money, and other supplies.",0.01,physically filling machines with supplies
+13839,"Coin, Vending, and Amusement Machine Servicers and Repairers",Inspect machines and meters to determine causes of malfunctions and fix minor problems such as jammed bills or stuck products.,0.03,physical inspection and minor fixes
+13840,"Coin, Vending, and Amusement Machine Servicers and Repairers",Test machines to determine proper functioning.,0.05,physical machine testing
+13846,"Coin, Vending, and Amusement Machine Servicers and Repairers","Replace malfunctioning parts, such as worn magnetic heads on automatic teller machine (ATM) card readers.",0.02,physical part replacement
+13845,"Coin, Vending, and Amusement Machine Servicers and Repairers",Maintain records of machine maintenance and repair.,0.85,pure record keeping
+13842,"Coin, Vending, and Amusement Machine Servicers and Repairers",Clean and oil machine parts.,0.01,physical cleaning and oiling
+13848,"Coin, Vending, and Amusement Machine Servicers and Repairers",Order parts needed for machine repairs.,0.65,ordering parts is agent-friendly via systems
+13847,"Coin, Vending, and Amusement Machine Servicers and Repairers","Adjust and repair coin, vending, or amusement machines and meters and replace defective mechanical and electrical parts, using hand tools, soldering irons, and diagrams.",0.02,physical machine repair
+13843,"Coin, Vending, and Amusement Machine Servicers and Repairers","Record transaction information on forms or logs, and notify designated personnel of discrepancies.",0.80,text based record and notification work
+13836,"Coin, Vending, and Amusement Machine Servicers and Repairers",Keep records of merchandise distributed and money collected.,0.85,record keeping of merchandise and money
+13837,"Coin, Vending, and Amusement Machine Servicers and Repairers","Collect coins and bills from machines, prepare invoices, and settle accounts with concessionaires.",0.35,collecting cash physically though invoicing is agent-friendly
+13838,"Coin, Vending, and Amusement Machine Servicers and Repairers",Make service calls to maintain and repair machines.,0.02,physical service calls for repair
+13844,"Coin, Vending, and Amusement Machine Servicers and Repairers",Adjust machine pressure gauges and thermostats.,0.02,physical gauge and thermostat adjustment
+13849,"Coin, Vending, and Amusement Machine Servicers and Repairers","Disassemble and assemble machines, according to specifications and using hand and power tools.",0.02,physical machine assembly
+13841,"Coin, Vending, and Amusement Machine Servicers and Repairers",Contact other repair personnel or make arrangements for the removal of machines in cases where major repairs are required.,0.55,coordination and communication task
+13852,"Coin, Vending, and Amusement Machine Servicers and Repairers",Transport machines to installation sites.,0.00,physical transport of machines
+13851,"Coin, Vending, and Amusement Machine Servicers and Repairers",Refer to manuals and wiring diagrams to gather information needed to repair machines.,0.60,information gathering from manuals is agent-friendly
+13850,"Coin, Vending, and Amusement Machine Servicers and Repairers","Install machines, making the necessary water and electrical connections in compliance with codes.",0.02,physical installation with code compliance
+13855,Commercial Divers,"Take appropriate safety precautions, such as monitoring dive lengths and depths and registering with authorities before diving expeditions begin.",0.05,physical dive safety precautions
+13856,Commercial Divers,"Check and maintain diving equipment, such as helmets, masks, air tanks, harnesses, or gauges.",0.02,physical equipment maintenance
+13854,Commercial Divers,"Communicate with workers on the surface while underwater, using signal lines or telephones.",0.00,underwater presence required
+13857,Commercial Divers,"Descend into water with the aid of diver helpers, using scuba gear or diving suits.",0.00,physical descent into water
+13858,Commercial Divers,Obtain information about diving tasks and environmental conditions.,0.45,environmental data gathering partly remote though site info needs presence
+13871,Commercial Divers,"Supervise or train other divers, including hobby divers.",0.05,on-site supervision and training of divers
+20809,Commercial Divers,Inspect the condition of underwater steel or wood structures.,0.00,underwater physical inspection
+13859,Commercial Divers,"Inspect and test docks, ships, buoyage systems, plant intakes or outflows, or underwater pipelines, cables, or sewers, using closed circuit television, still photography, and testing equipment.",0.05,physical deployment of underwater inspection equipment
+13860,Commercial Divers,"Repair ships, bridge foundations, or other structures below the water line, using caulk, bolts, and hand tools.",0.00,physical underwater repair
+13862,Commercial Divers,"Recover objects by placing rigging around sunken objects, hooking rigging to crane lines, and operating winches, derricks, or cranes to raise objects.",0.00,physical rigging and crane operation
+13866,Commercial Divers,"Operate underwater video, sonar, recording, or related equipment to investigate underwater structures or marine life.",0.08,could pilot equipment remotely but typically on-site
+13864,Commercial Divers,Take test samples or photographs to assess the condition of vessels or structures.,0.05,physical sample collection underwater
+13861,Commercial Divers,"Cut and weld steel, using underwater welding equipment, jigs, and supports.",0.00,physical underwater welding
+13865,Commercial Divers,"Install, inspect, clean, or repair piping or valves.",0.02,physical piping repair
+13872,Commercial Divers,"Carry out non-destructive testing, such as tests for cracks on the legs of oil rigs at sea.",0.03,physical non-destructive testing
+13863,Commercial Divers,Install pilings or footings for piers or bridges.,0.00,physical construction of pilings
+13868,Commercial Divers,"Salvage wrecked ships or their cargo, using pneumatic power velocity and hydraulic tools and explosive charges, when necessary.",0.00,physical salvage with explosives
+13867,Commercial Divers,"Remove obstructions from strainers or marine railway or launching ways, using pneumatic or power hand tools.",0.00,physical obstruction removal
+13869,Commercial Divers,"Set or guide placement of pilings or sandbags to provide support for structures, such as docks, bridges, cofferdams, or platforms.",0.00,physical placement of pilings
+13870,Commercial Divers,"Perform activities related to underwater search and rescue, salvage, recovery, or cleanup operations.",0.00,physical search and rescue underwater
+13875,Commercial Divers,"Perform offshore oil or gas exploration or extraction duties, such as conducting underwater surveys or repairing and maintaining drilling rigs or platforms.",0.00,physical offshore rig work
+13873,Commercial Divers,Drill holes in rock and rig explosives for underwater demolitions.,0.00,physical drilling and explosives rigging
+13874,Commercial Divers,Remove rubbish or pollution from the sea.,0.00,physical debris removal from sea
+18789,Locksmiths and Safe Repairers,"Cut new or duplicate keys, using impressions or code key machines.",0.03,physical key cutting
+7126,Locksmiths and Safe Repairers,Insert new or repaired tumblers into locks to change combinations.,0.02,physical lock tumbler work
+7127,Locksmiths and Safe Repairers,Move picklocks in cylinders to open door locks without keys.,0.02,physical lock picking dexterity
+7124,Locksmiths and Safe Repairers,"Cut new or duplicate keys, using key cutting machines.",0.03,physical key cutting
+7131,Locksmiths and Safe Repairers,Open safe locks by drilling.,0.01,physical safe drilling
+18790,Locksmiths and Safe Repairers,Set up and maintain master key systems.,0.30,system design agent-friendly but physical rekeying needed
+18791,Locksmiths and Safe Repairers,"Install door hardware, such as locks and closers.",0.02,physical hardware installation
+7125,Locksmiths and Safe Repairers,Keep records of company locks and keys.,0.85,record keeping of locks and keys
+7128,Locksmiths and Safe Repairers,"Disassemble mechanical or electrical locking devices, and repair or replace worn tumblers, springs, and other parts, using hand tools.",0.02,physical lock disassembly and repair
+7129,Locksmiths and Safe Repairers,"Repair and adjust safes, vault doors, and vault components, using hand tools, lathes, drill presses, and welding and acetylene cutting apparatus.",0.01,physical safe and vault repair
+18792,Locksmiths and Safe Repairers,Install alarm and electronic access systems.,0.10,mostly physical installation with some configuration
+7130,Locksmiths and Safe Repairers,"Install safes, vault doors, and deposit boxes according to blueprints, using equipment such as power drills, taps, dies, truck cranes, and dollies.",0.00,physical safe installation
+18793,Locksmiths and Safe Repairers,Unlock cars and other vehicles.,0.02,physical vehicle unlocking on site
+7132,Locksmiths and Safe Repairers,"Remove interior and exterior finishes on safes and vaults, and spray on new finishes.",0.01,physical refinishing work
+13878,Manufactured Building and Mobile Home Installers,"Seal open sides of modular units to prepare them for shipment, using polyethylene sheets, nails, and hammers.",0.01,physical sealing of modular units
+13879,Manufactured Building and Mobile Home Installers,Move and set up mobile homes or prefabricated buildings on owners' lots or at mobile home parks.,0.00,physical moving and setup of homes
+13880,Manufactured Building and Mobile Home Installers,"Inspect, examine, and test the operation of parts or systems to evaluate operating condition and to determine if repairs are needed.",0.05,physical inspection and testing
+13881,Manufactured Building and Mobile Home Installers,"Connect water hoses to inlet pipes of plumbing systems, and test operation of plumbing fixtures.",0.01,physical plumbing connection
+13882,Manufactured Building and Mobile Home Installers,"Remove damaged exterior panels, repair and replace structural frame members, and seal leaks, using hand tools.",0.01,physical panel repair
+13883,Manufactured Building and Mobile Home Installers,"List parts needed, estimate costs, and plan work procedures, using parts lists, technical manuals, and diagrams.",0.65,planning and cost estimation from documents
+13884,Manufactured Building and Mobile Home Installers,Confer with customers or read work orders to determine the nature and extent of damage to units.,0.45,customer conferring and document review though damage assessment often needs presence
+13885,Manufactured Building and Mobile Home Installers,"Install, repair, and replace units, fixtures, appliances, and other items and systems in mobile and modular homes, prefabricated buildings, or travel trailers, using hand tools or power tools.",0.01,physical installation and repair
+13886,Manufactured Building and Mobile Home Installers,"Reset hardware, using chisels, mallets, and screwdrivers.",0.01,physical hardware resetting
+13887,Manufactured Building and Mobile Home Installers,"Repair leaks in plumbing or gas lines, using caulking compounds and plastic or copper pipe.",0.00,physical plumbing leak repair
+13888,Manufactured Building and Mobile Home Installers,"Locate and repair frayed wiring, broken connections, or incorrect wiring, using ohmmeters, soldering irons, tape, and hand tools.",0.01,physical wiring repair
+13889,Manufactured Building and Mobile Home Installers,"Open and close doors, windows, and drawers to test their operation, trimming edges to fit, using jackplanes or drawknives.",0.01,physical fitting and trimming
+13890,Manufactured Building and Mobile Home Installers,Connect electrical systems to outside power sources and activate switches to test the operation of appliances and light fixtures.,0.01,physical electrical connection testing
+13891,Manufactured Building and Mobile Home Installers,"Refinish wood surfaces on cabinets, doors, moldings, and floors, using power sanders, putty, spray equipment, brushes, paints, or varnishes.",0.01,physical wood refinishing
+13893,Riggers,Test rigging to ensure safety and reliability.,0.03,physical rigging testing
+13892,Riggers,Signal or verbally direct workers engaged in hoisting and moving loads to ensure safety of workers and materials.,0.05,on-site safety signaling during hoisting
+13896,Riggers,"Control movement of heavy equipment through narrow openings or confined spaces, using chainfalls, gin poles, gallows frames, and other equipment.",0.00,physical equipment control in confined spaces
+13897,Riggers,"Tilt, dip, and turn suspended loads to maneuver over, under, or around obstacles, using multi-point suspension techniques.",0.00,physical load maneuvering
+13895,Riggers,"Select gear, such as cables, pulleys, and winches, according to load weights and sizes, facilities, and work schedules.",0.45,gear selection from specs is calculable but needs on-site verification
+13902,Riggers,Dismantle and store rigging equipment after use.,0.01,physical rigging storage
+13894,Riggers,"Attach loads to rigging to provide support or prepare them for moving, using hand and power tools.",0.00,physical load attachment
+13900,Riggers,"Manipulate rigging lines, hoists, and pulling gear to move or support materials, such as heavy equipment, ships, or theatrical sets.",0.00,physical rigging manipulation
+13898,Riggers,"Align, level, and anchor machinery.",0.01,physical machinery alignment
+21206,Riggers,Load machines onto trucks to prepare for transportation.,0.00,physical loading of machines onto trucks
+13901,Riggers,"Attach pulleys and blocks to fixed overhead structures, such as beams, ceilings, and gin pole booms, using bolts and clamps.",0.00,physical pulley attachment overhead
+13899,Riggers,"Fabricate, set up, and repair rigging, supporting structures, hoists, and pulling gear, using hand and power tools.",0.01,physical rigging fabrication
+13904,Riggers,Clean and dress machine surfaces and component parts.,0.01,physical machine cleaning
+13903,Riggers,"Install ground rigging for yarding lines, attaching chokers to logs and to the lines.",0.00,physical rigging installation in logging
+13906,Signal and Track Switch Repairers,"Inspect and test operation, mechanical parts, and circuitry of gate crossings, signals, and signal equipment such as interlocks and hotbox detectors.",0.05,physical inspection of signal equipment
+13910,Signal and Track Switch Repairers,Inspect electrical units of railroad grade crossing gates and repair loose bolts and defective electrical connections and parts.,0.02,physical electrical repair of crossing gates
+23936,Signal and Track Switch Repairers,Test and repair track circuits.,0.02,physical track circuit repair
+13908,Signal and Track Switch Repairers,Drive motor vehicles to job sites.,0.00,requires physically driving a vehicle
+13905,Signal and Track Switch Repairers,"Install, inspect, maintain, and repair various railroad service equipment on the road or in the shop, including railroad signal systems.",0.01,physical railroad equipment repair
+13909,Signal and Track Switch Repairers,"Tighten loose bolts, using wrenches, and test circuits and connections by opening and closing gates.",0.01,physical bolt tightening and circuit testing
+13907,Signal and Track Switch Repairers,"Inspect switch-controlling mechanisms on trolley wires and in track beds, using hand tools and test equipment.",0.02,physical switch mechanism inspection
+13911,Signal and Track Switch Repairers,"Replace defective wiring, broken lenses, or burned-out light bulbs.",0.01,physical wiring and bulb replacement
+13913,Signal and Track Switch Repairers,"Inspect, maintain, and replace batteries as needed.",0.02,physical battery maintenance
+13912,Signal and Track Switch Repairers,"Record and report information about mileage or track inspected, repairs performed, and equipment requiring replacement.",0.85,text based recording and reporting
+13914,Signal and Track Switch Repairers,Lubricate moving parts on gate-crossing mechanisms and swinging signals.,0.01,physical lubrication of parts
+13915,Signal and Track Switch Repairers,Clean lenses of lamps with cloths and solvents.,0.01,physical lens cleaning
+3083,"Helpers--Installation, Maintenance, and Repair Workers","Install or replace machinery, equipment, and new or replacement parts and instruments, using hand or power tools.",0.01,physical machinery installation
+3081,"Helpers--Installation, Maintenance, and Repair Workers","Examine and test machinery, equipment, components, and parts for defects to ensure proper functioning.",0.05,physical examination and testing
+3080,"Helpers--Installation, Maintenance, and Repair Workers",Tend and observe equipment and machinery to verify efficient and safe operation.,0.15,monitoring partly remote though physical tending implied
+3082,"Helpers--Installation, Maintenance, and Repair Workers","Adjust, connect, or disconnect wiring, piping, tubing, and other parts, using hand or power tools.",0.01,physical wiring and piping adjustment
+3084,"Helpers--Installation, Maintenance, and Repair Workers","Clean or lubricate vehicles, machinery, equipment, instruments, tools, work areas, and other objects, using hand tools, power tools, and cleaning equipment.",0.01,physical cleaning and lubrication
+3091,"Helpers--Installation, Maintenance, and Repair Workers","Hold or supply tools, parts, equipment, and supplies for other workers.",0.00,physical presence holding tools for others
+20152,"Helpers--Installation, Maintenance, and Repair Workers",Diagnose electrical problems and install and rewire electrical components.,0.05,diagnosis aided by data but rewiring is physical
+3087,"Helpers--Installation, Maintenance, and Repair Workers",Disassemble broken or defective equipment to facilitate repair and reassemble equipment when repairs are complete.,0.01,physical equipment disassembly and reassembly

@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+4583,Advertising Sales Agents,Deliver advertising or illustration proofs to customers for approval.,0.75,digital delivery of proofs no physical presence needed
+4584,Advertising Sales Agents,"Draw up contracts for advertising work, and collect payments due.",0.55,drafting doable but signing and collecting payment need human authority
+4585,Advertising Sales Agents,Locate and contact potential clients to offer advertising services.,0.65,lead research and outreach automatable live persuasion limited
+4586,Advertising Sales Agents,Provide clients with estimates of the costs of advertising products or services.,0.90,cost estimation is computational and informational
+4587,Advertising Sales Agents,"Recommend appropriate sizes and formats for advertising, depending on medium used.",0.90,spec lookup and recommendation pure information task
+4588,Advertising Sales Agents,"Inform customers of available options for advertisement artwork, and provide samples.",0.85,informational communication and file sharing
+4589,Advertising Sales Agents,"Obtain and study information about clients' products, needs, problems, advertising history, and business practices to offer effective sales presentations and appropriate product assistance.",0.75,research and synthesis mostly information gathering
+4590,Advertising Sales Agents,"Determine advertising medium to be used, and prepare sample advertisements within the selected medium for presentation to customers.",0.80,medium selection and sample ad creation via generative tools
+4591,Advertising Sales Agents,"Consult with company officials, sales departments, and advertising agencies to develop promotional plans.",0.45,cross-team consultation needs live human collaboration
+4592,Advertising Sales Agents,"Prepare promotional plans, sales literature, media kits, and sales contracts, using computer.",0.85,content drafting on computer no physical component
+4593,Advertising Sales Agents,"Identify new advertising markets, and propose products to serve them.",0.85,market research and analysis task
+4594,Advertising Sales Agents,Write copy as part of layout.,0.90,pure text generation task
+4595,Advertising Sales Agents,"Attend sales meetings, industry trade shows, and training seminars to gather information, promote products, expand network of contacts, and increase knowledge.",0.15,requires physical attendance and in-person networking
+4596,Advertising Sales Agents,"Gather all relevant material for bid processes, and coordinate bidding and contract approval.",0.55,material gathering easy but approval needs human authority
+4597,Advertising Sales Agents,"Arrange for commercial taping sessions, and accompany clients to sessions.",0.25,arranging is doable but accompanying requires physical presence
+4598,Advertising Sales Agents,Write sales outlines for use by staff.,0.90,document drafting task
+4599,Real Estate Brokers,"Sell, for a fee, real estate owned by others.",0.20,requires licensed authority and physical property showings
+4600,Real Estate Brokers,Obtain agreements from property owners to place properties for sale with real estate firms.,0.30,requires relationship building and contract signing authority
+4601,Real Estate Brokers,Monitor fulfillment of purchase contract terms to ensure that they are handled in a timely manner.,0.75,tracking and monitoring of contract terms
+4602,Real Estate Brokers,Compare a property with similar properties that have recently sold to determine its competitive market price.,0.90,data driven comparative market analysis
+4603,Real Estate Brokers,Act as an intermediary in negotiations between buyers and sellers over property prices and settlement details and during the closing of sales.,0.30,live negotiation and closing requires human trust and authority
+4604,Real Estate Brokers,"Generate lists of properties for sale, their locations, descriptions, and available financing options, using computers.",0.90,computer based data compilation
+4605,Real Estate Brokers,"Maintain knowledge of real estate law, local economies, fair housing laws, types of available mortgages, financing options, and government programs.",0.85,information research and knowledge tracking
+4606,Real Estate Brokers,"Check work completed by loan officers, attorneys, or other professionals to ensure that it is performed properly.",0.65,document review though accountability rests with human
+4607,Real Estate Brokers,Arrange for financing of property purchases.,0.55,coordination with lenders some negotiation needed
+4608,Real Estate Brokers,"Appraise property values, assessing income potential when relevant.",0.70,valuation analysis may need physical inspection
+4609,Real Estate Brokers,"Maintain awareness of current income tax regulations, local zoning, building and tax laws, and growth possibilities of a property's area.",0.85,ongoing information research task
+4610,Real Estate Brokers,"Manage or operate real estate offices, handling associated business details.",0.35,office management needs decision authority and presence
+4611,Real Estate Brokers,Supervise agents who handle real estate transactions.,0.25,personnel supervision requires human authority
+4612,Real Estate Brokers,Rent properties or manage rental properties.,0.30,property management needs physical presence and legal authority
+4613,Real Estate Brokers,Arrange for title searches of properties being sold.,0.75,administrative coordination task
+4614,Real Estate Brokers,"Give buyers virtual tours of properties in which they are interested, using computers.",0.65,virtual tour presentation mostly digital but live guidance helps
+4615,Real Estate Brokers,Review property details to ensure that environmental regulations are met.,0.80,compliance review from documents
+4618,Telemarketers,"Deliver prepared sales talks, reading from scripts that describe products or services, to persuade potential customers to purchase a product or service or to make a donation.",0.85,scripted voice calls automatable by AI agents
+4619,Telemarketers,"Contact businesses or private individuals by telephone to solicit sales for goods or services, or to request donations for charitable causes.",0.80,outbound calling automatable via voice agents
+4620,Telemarketers,"Explain products or services and prices, and answer questions from customers.",0.85,conversational question answering automatable
+4621,Telemarketers,"Obtain customer information such as name, address, and payment method, and enter orders into computers.",0.85,data collection and order entry automatable
+4622,Telemarketers,"Record names, addresses, purchases, and reactions of prospects contacted.",0.90,record keeping information task
+4623,Telemarketers,Adjust sales scripts to better target the needs and interests of specific individuals.,0.85,script personalization via language generation
+4624,Telemarketers,"Obtain names and telephone numbers of potential customers from sources such as telephone directories, magazine reply cards, and lists purchased from other organizations.",0.80,list compilation from digital data sources
+4625,Telemarketers,Answer telephone calls from potential customers who have been solicited through advertisements.,0.80,inbound call handling via voice agent
+4626,Telemarketers,Telephone or write letters to respond to correspondence from customers or to follow up initial sales contacts.,0.80,correspondence handling automatable
+4627,Telemarketers,"Maintain records of contacts, accounts, and orders.",0.90,record maintenance task
+4628,Telemarketers,Schedule appointments for sales representatives to meet with prospective customers or for customers to attend sales presentations.,0.85,scheduling task via calendar coordination
+4629,Telemarketers,Conduct client or market surveys to obtain information about potential customers.,0.80,survey administration automatable
+4630,"Switchboard Operators, Including Answering Service","Operate communication systems, such as telephone, switchboard, intercom, two-way radio, or public address.",0.40,operating physical communication equipment
+4631,"Switchboard Operators, Including Answering Service","Answer incoming calls, greeting callers, providing information, transferring calls or taking messages as necessary.",0.80,call answering and routing automatable
+4633,"Switchboard Operators, Including Answering Service","Page individuals to inform them of telephone calls, using paging or interoffice communication equipment.",0.35,requires operating on-site paging equipment
+4634,"Switchboard Operators, Including Answering Service",Relay or route written or verbal messages.,0.80,message relay task mostly digital
+4635,"Switchboard Operators, Including Answering Service",Place telephone calls or arrange conference calls as instructed.,0.80,call placement automatable
+4637,"Switchboard Operators, Including Answering Service",Monitor alarm systems to ensure that secure conditions are maintained.,0.55,monitoring feasible but incident response needs human
+4638,"Switchboard Operators, Including Answering Service","Contact security staff members when necessary, using radio-telephones.",0.55,communication task tied to physical radio equipment
+4639,"Switchboard Operators, Including Answering Service",Keep records of calls placed and charges incurred.,0.90,record keeping task
+4640,"Switchboard Operators, Including Answering Service","Record messages, suggesting rewording for clarity or conciseness.",0.85,message transcription and editing task
+4641,"Switchboard Operators, Including Answering Service",Stamp messages with time and date and file them appropriately.,0.75,digital timestamping and filing
+4642,"Switchboard Operators, Including Answering Service","Answer simple questions about clients' businesses, using reference files.",0.85,reference-based question answering task
+4643,"Switchboard Operators, Including Answering Service",Complete forms for sales orders.,0.85,form completion task
+4661,Gambling Cage Workers,Follow all gaming regulations.,0.25,regulatory compliance tied to physical cage operations
+4662,Gambling Cage Workers,Maintain confidentiality of customers' transactions.,0.70,data confidentiality maintainable digitally
+4663,Gambling Cage Workers,Count funds and reconcile daily summaries of transactions to balance books.,0.40,physical cash counting though reconciliation is data work
+4664,Gambling Cage Workers,"Convert gaming checks, coupons, tokens, or coins to currency for gaming patrons.",0.10,physical currency exchange at cage window
+4665,Gambling Cage Workers,Maintain cage security.,0.10,physical security requires presence
+4666,Gambling Cage Workers,"Determine cash requirements for windows and order all necessary currency, coins, or chips.",0.65,cash requirement forecasting and ordering analytical task
+4667,Gambling Cage Workers,"Verify accuracy of reports, such as authorization forms, transaction reconciliations, or exchange summary reports.",0.85,report verification data analysis task
+4668,Gambling Cage Workers,Cash checks and process credit card advances for patrons.,0.20,in-person cash transaction with patrons
+4669,Gambling Cage Workers,"Sell gambling chips, tokens, or tickets to patrons or to other workers for resale to patrons.",0.10,physical in-person sale of chips
+4670,Gambling Cage Workers,"Perform removal and rotation of cash, coin, or chip inventories as necessary.",0.05,physical handling of cash inventory
+4671,Gambling Cage Workers,"Supply currency, coins, chips, or gaming checks to other departments as needed.",0.10,physical distribution of currency and chips
+4672,Gambling Cage Workers,Provide assistance in the training and orientation of new cashiers.,0.35,training benefits from in-person mentorship
+4673,Gambling Cage Workers,Provide customers with information about casino operations.,0.80,informational communication task
+4674,Gambling Cage Workers,"Record casino exchange transactions, using cash registers.",0.30,requires operating physical cash register on site
+4675,Gambling Cage Workers,"Prepare bank deposits, balancing assigned funds as necessary.",0.20,physical fund handling and deposit prep
+4676,Gambling Cage Workers,"Prepare reports, including assignment of company funds or recording of department revenues.",0.80,report preparation data compilation task
+4677,Gambling Cage Workers,Establish new computer accounts.,0.85,computer account setup task
+4722,New Accounts Clerks,"Answer customers' questions and explain available services, such as deposit accounts, bonds, and securities.",0.85,informational question answering about services
+4723,New Accounts Clerks,"Compile information about new accounts, enter account information into computers, and file related forms or other documents.",0.85,data entry and filing task
+4724,New Accounts Clerks,Refer customers to appropriate bank personnel to meet their financial needs.,0.80,referral routing task informational
+4725,New Accounts Clerks,Interview customers to obtain information needed for opening accounts or renting safe-deposit boxes.,0.55,structured interview for account info semi-automatable
+4726,New Accounts Clerks,"Inform customers of procedures for applying for services, such as ATM cards, direct deposit of checks, and certificates of deposit.",0.85,informational communication task
+4727,New Accounts Clerks,Obtain credit records from reporting agencies.,0.85,data retrieval via credit reporting APIs
+4728,New Accounts Clerks,"Collect and record customer deposits and fees and issue receipts, using computers.",0.35,collecting funds needs physical presence recording is digital
+4729,New Accounts Clerks,"Investigate and correct errors upon customers' request, according to customer and bank records.",0.80,record investigation and correction data task
+4730,New Accounts Clerks,Perform teller duties as required.,0.20,teller duties involve physical cash handling
+4731,New Accounts Clerks,Execute wire transfers of funds.,0.55,wire execution automatable but oversight and authorization required
+4732,New Accounts Clerks,Duplicate records for distribution to branch offices.,0.85,record duplication and distribution digital task
+4733,New Accounts Clerks,"Issue initial and replacement safe-deposit keys to customers, and admit customers to vaults.",0.05,physical key issuance and vault access
+4734,New Accounts Clerks,Perform foreign currency transactions and sell traveler's checks.,0.15,in-person currency exchange transaction
+4735,New Accounts Clerks,Schedule repairs for locks on safe-deposit boxes.,0.80,scheduling coordination task
+4737,"Shipping, Receiving, and Inventory Clerks","Prepare documents, such as work orders, bills of lading, or shipping orders, to route materials.",0.85,document preparation task
+4739,"Shipping, Receiving, and Inventory Clerks","Record shipment data, such as weight, charges, space availability, damages, or discrepancies, for reporting, accounting, or recordkeeping purposes.",0.80,data recording mostly informational
+4740,"Shipping, Receiving, and Inventory Clerks",Contact carrier representatives to make arrangements or to issue instructions for shipping and delivery of materials.,0.80,coordination via communication with carriers
+4741,"Shipping, Receiving, and Inventory Clerks","Confer or correspond with establishment representatives to rectify problems, such as damages, shortages, or nonconformance to specifications.",0.70,problem resolution via correspondence
+4742,"Shipping, Receiving, and Inventory Clerks",Requisition and store shipping materials and supplies to maintain inventory of stock.,0.35,ordering feasible but physical storage needs presence
+4744,"Shipping, Receiving, and Inventory Clerks","Compute amounts, such as space available, shipping, storage, or demurrage charges, using computer or price list.",0.95,computational task using price lists
+5158,Proofreaders and Copy Markers,"Correct or record omissions, errors, or inconsistencies found.",0.95,text correction pure editorial task
+5159,Proofreaders and Copy Markers,"Mark copy to indicate and correct errors in type, arrangement, grammar, punctuation, or spelling, using standard printers' marks.",0.90,text markup and correction task
+5160,Proofreaders and Copy Markers,Read corrected copies or proofs to ensure that all corrections have been made.,0.90,text verification task
+5161,Proofreaders and Copy Markers,"Compare information or figures on one record against same data on other records, or with original copy, to detect errors.",0.95,data comparison task
+5162,Proofreaders and Copy Markers,Consult reference books or secure aid of readers to check references with rules of grammar and composition.,0.85,reference-based grammar checking mostly automatable
+5163,Proofreaders and Copy Markers,"Route proofs with marked corrections to authors, editors, typists, or typesetters for correction or reprinting.",0.85,digital routing and distribution task
+5165,Proofreaders and Copy Markers,"Read proof sheets aloud, calling out punctuation marks and spelling unusual words and proper names.",0.55,read aloud verification typically a paired process
+5288,"Tax Examiners and Collectors, and Revenue Agents",Collect taxes from individuals or businesses according to prescribed laws and regulations.,0.15,requires legal government authority to collect taxes
+5289,"Tax Examiners and Collectors, and Revenue Agents","Maintain knowledge of tax code changes, and of accounting procedures and theory to properly evaluate financial information.",0.90,tax code research and knowledge maintenance
+5290,"Tax Examiners and Collectors, and Revenue Agents","Maintain records for each case, including contacts, telephone numbers, and actions taken.",0.90,case record keeping task
+5291,"Tax Examiners and Collectors, and Revenue Agents","Confer with taxpayers or their representatives to discuss the issues, laws, and regulations involved in returns, and to resolve problems with returns.",0.35,requires live discussion and authoritative resolution
+5292,"Tax Examiners and Collectors, and Revenue Agents",Contact taxpayers by mail or telephone to address discrepancies and to request supporting documentation.,0.75,correspondence with taxpayers automatable
+5293,"Tax Examiners and Collectors, and Revenue Agents",Send notices to taxpayers when accounts are delinquent.,0.90,automated notice generation and sending
+5294,"Tax Examiners and Collectors, and Revenue Agents","Notify taxpayers of any overpayment or underpayment, and either issue a refund or request further payment.",0.55,notification automatable but refund issuance needs authority
+5296,"Tax Examiners and Collectors, and Revenue Agents",Review filed tax returns to determine whether claimed tax credits and deductions are allowed by law.,0.75,rule-based review of tax filings
+5297,"Tax Examiners and Collectors, and Revenue Agents",Review selected tax returns to determine the nature and extent of audits to be performed on them.,0.75,audit planning analysis task
+5298,"Tax Examiners and Collectors, and Revenue Agents",Enter tax return information into computers for processing.,0.90,data entry task
+5299,"Tax Examiners and Collectors, and Revenue Agents",Examine accounting systems and records to determine whether accounting methods used were appropriate and in compliance with statutory provisions.,0.80,accounting compliance analysis
+5301,"Tax Examiners and Collectors, and Revenue Agents",Impose payment deadlines on delinquent taxpayers and monitor payments to ensure that deadlines are met.,0.45,imposing deadlines needs legal authority though monitoring is easy
+5302,"Tax Examiners and Collectors, and Revenue Agents","Check tax forms to verify that names and taxpayer identification numbers are correct, that computations have been performed correctly, or that amounts match those on supporting documentation.",0.90,form verification and computation check
+5303,"Tax Examiners and Collectors, and Revenue Agents",Examine and analyze tax assets and liabilities to determine resolution of delinquent tax problems.,0.65,financial analysis with some decision authority needed
+5305,"Tax Examiners and Collectors, and Revenue Agents","Determine appropriate methods of debt settlement, such as offers of compromise, wage garnishment, or seizure and sale of property.",0.20,enforcement actions require legal authority
+5306,"Tax Examiners and Collectors, and Revenue Agents",Secure a taxpayer's agreement to discharge a tax assessment or submit contested determinations to other administrative or judicial conferees for appeals hearings.,0.25,requires legal negotiation and formal proceedings authority
+5307,"Tax Examiners and Collectors, and Revenue Agents",Prepare briefs and assist in searching and seizing records to prepare charges and documentation for court cases.,0.40,brief writing doable but seizure requires legal authority
+5308,"Tax Examiners and Collectors, and Revenue Agents","Direct service of legal documents, such as subpoenas, warrants, notices of assessment, and garnishments.",0.15,legal document service requires authority and physical delivery
+5310,"Tax Examiners and Collectors, and Revenue Agents","Investigate claims of inability to pay taxes by researching court information for the status of liens, mortgages, or financial statements, or by locating assets through third parties.",0.80,research task using public records
+5312,"Tax Examiners and Collectors, and Revenue Agents",Participate in informal appeals hearings on contested cases from other agents.,0.20,hearing participation requires official authority and presence
+5433,Market Research Analysts and Marketing Specialists,"Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand.",0.85,data collection and analysis task
+5434,Market Research Analysts and Marketing Specialists,"Prepare reports of findings, illustrating data graphically and translating complex findings into written text.",0.90,report writing and data visualization task
+5435,Market Research Analysts and Marketing Specialists,Measure and assess customer and employee satisfaction.,0.85,survey-based satisfaction measurement
+5436,Market Research Analysts and Marketing Specialists,"Forecast and track marketing and sales trends, analyzing collected data.",0.90,data forecasting and trend analysis
+5437,Market Research Analysts and Marketing Specialists,Seek and provide information to help companies determine their position in the marketplace.,0.85,market positioning research task
+5438,Market Research Analysts and Marketing Specialists,"Measure the effectiveness of marketing, advertising, and communications programs and strategies.",0.85,marketing effectiveness analysis
+5439,Market Research Analysts and Marketing Specialists,"Conduct research on consumer opinions and marketing strategies, collaborating with marketing professionals, statisticians, pollsters, and other professionals.",0.75,research task involving human collaboration
+5440,Market Research Analysts and Marketing Specialists,"Attend staff conferences to provide management with information and proposals concerning the promotion, distribution, design, and pricing of company products or services.",0.30,requires live meeting attendance and presence
+5441,Market Research Analysts and Marketing Specialists,"Gather data on competitors and analyze their prices, sales, and method of marketing and distribution.",0.90,competitive intelligence research task

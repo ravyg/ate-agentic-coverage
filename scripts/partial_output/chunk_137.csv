@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+15129,"Potters, Manufacturing",Start machine units and conveyors and observe lights and gauges on panel board to verify operational efficiency.,0.05,physical machine startup and panel observation
+15128,"Potters, Manufacturing",Operate drying chambers to dry or finish molded ceramic ware.,0.05,physical operation of drying chambers
+15130,"Potters, Manufacturing","Adjust pressures, temperatures, and trimming tool settings as required.",0.05,physical adjustment of machine settings
+15121,"Potters, Manufacturing","Design clay forms and molds, and decorations for forms.",0.55,creative design work mostly digital
+15133,"Potters, Manufacturing",Teach pottery classes.,0.05,in-person hands-on instruction
+12678,"Paper Goods Machine Setters, Operators, and Tenders","Examine completed work to detect defects and verify conformance to work orders, and adjust machinery as necessary to correct production problems.",0.05,physical inspection and machinery adjustment
+12683,"Paper Goods Machine Setters, Operators, and Tenders","Observe operation of various machines to detect and correct machine malfunctions such as improper forming, glue flow, or pasteboard tension.",0.05,physical observation and correction of machines
+12679,"Paper Goods Machine Setters, Operators, and Tenders","Start machines and move controls to regulate tension on pressure rolls, to synchronize speed of machine components, and to adjust temperatures of glue or paraffin.",0.05,physical machine startup and control
+12689,"Paper Goods Machine Setters, Operators, and Tenders","Disassemble machines to maintain, repair, or replace broken or worn parts, using hand or power tools.",0.00,hands-on disassembly and repair
+12681,"Paper Goods Machine Setters, Operators, and Tenders","Install attachments to machines for gluing, folding, printing, or cutting.",0.00,physical installation of machine attachments
+12687,"Paper Goods Machine Setters, Operators, and Tenders","Cut products to specified dimensions, using hand or power cutters.",0.00,physical cutting with hand or power cutters
+12685,"Paper Goods Machine Setters, Operators, and Tenders","Place rolls of paper or cardboard on machine feed tracks, and thread paper through gluing, coating, and slitting rollers.",0.00,physical loading and threading of machine
+12688,"Paper Goods Machine Setters, Operators, and Tenders",Monitor finished cartons as they drop from forming machines into rotating hoppers and into gravity feed chutes to prevent jamming.,0.05,on-site physical monitoring of cartons
+12680,"Paper Goods Machine Setters, Operators, and Tenders","Adjust guide assemblies, forming bars, and folding mechanisms according to specifications, using hand tools.",0.00,physical adjustment using hand tools
+12682,"Paper Goods Machine Setters, Operators, and Tenders","Measure, space, and set saw blades, cutters, and perforators, according to product specifications.",0.00,physical setting of blades and cutters
+12686,"Paper Goods Machine Setters, Operators, and Tenders","Fill glue and paraffin reservoirs, and position rollers to dispense glue onto paperboard.",0.00,physical filling of glue reservoirs
+12684,"Paper Goods Machine Setters, Operators, and Tenders","Stamp products with information such as dates, using hand stamps or automatic stamping devices.",0.00,physical stamping of products
+12690,"Paper Goods Machine Setters, Operators, and Tenders","Remove finished cores, and stack or place them on conveyors for transfer to other work areas.",0.00,physical removal and stacking of cores
+12691,"Paper Goods Machine Setters, Operators, and Tenders","Lift tote boxes of finished cartons, and dump cartons into feed hoppers.",0.00,manual lifting and dumping of boxes
+14418,Tire Builders,Build semi-raw rubber treads onto buffed tire casings to prepare tires for vulcanization in recapping or retreading processes.,0.00,hands-on tire building
+14430,Tire Builders,Trim excess rubber and imperfections during retreading processes.,0.00,physical trimming of rubber
+14425,Tire Builders,"Fill cuts and holes in tires, using hot rubber.",0.00,physical hot rubber repair
+14431,Tire Builders,Place tires into molds for new tread.,0.00,physical placement into molds
+14423,Tire Builders,Fit inner tubes and final layers of rubber onto tires.,0.00,physical fitting of tire components
+21215,Tire Builders,Buff tires according to specifications for width and undertread depth.,0.00,physical buffing of tires
+14426,Tire Builders,"Brush or spray solvents onto plies to ensure adhesion, and repeat process as specified, alternating direction of each ply to strengthen tires.",0.00,physical solvent application
+14411,Tire Builders,Start rollers that bond tread and plies as drums revolve.,0.05,physical machine startup
+14415,Tire Builders,"Align treads with guides, start drums to wind treads onto plies, and slice ends.",0.00,physical alignment and winding of treads
+14413,Tire Builders,"Inspect worn tires for faults, cracks, cuts, and nail holes, and to determine if tires are suitable for retreading.",0.05,hands-on physical tire inspection
+14428,Tire Builders,Measure tires to determine mold size requirements.,0.00,physical measurement of tires
+14427,Tire Builders,"Roll hand rollers over rebuilt casings, exerting pressure to ensure adhesion between camelbacks and casings.",0.00,physical rolling with hand rollers
+14417,Tire Builders,"Position ply stitcher rollers and drums according to width of stock, using hand tools and gauges.",0.00,physical positioning of rollers and drums
+14414,Tire Builders,"Cut plies at splice points, and press ends together to form continuous bands.",0.00,physical cutting and pressing of plies
+14410,Tire Builders,"Depress pedals to rotate drums, and wind specified numbers of plies around drums to form tire bodies.",0.00,physical pedal operation and winding
+14422,Tire Builders,Clean and paint completed tires.,0.00,physical cleaning and painting
+14424,Tire Builders,Rub cement sticks on drum edges to provide adhesive surfaces for plies.,0.00,physical application of cement sticks
+14429,Tire Builders,Depress pedals to collapse drums after processing is complete.,0.00,physical pedal operation
+14419,Tire Builders,Wind chafers and breakers onto plies.,0.00,physical winding of chafers
+14420,Tire Builders,"Pull plies from supply racks, and align plies with edges of drums.",0.00,physical handling of plies
+12699,Helpers--Production Workers,"Load and unload items from machines, conveyors, and conveyances.",0.00,physical loading and unloading
+12693,Helpers--Production Workers,"Operate machinery used in the production process, or assist machine operators.",0.00,hands-on machine operation
+12706,Helpers--Production Workers,"Place products in equipment or on work surfaces for further processing, inspecting, or wrapping.",0.00,physical placement of products
+12694,Helpers--Production Workers,Examine products to verify conformance to quality standards.,0.10,physical product inspection
+12703,Helpers--Production Workers,Start machines or equipment to begin production processes.,0.00,physical machine startup
+12695,Helpers--Production Workers,"Observe equipment operations so that malfunctions can be detected, and notify operators of any malfunctions.",0.15,on-site sensory monitoring plus notification
+12707,Helpers--Production Workers,"Remove products, machine attachments, or waste material from machines.",0.00,physical removal of waste material
+12696,Helpers--Production Workers,"Lift raw materials, finished products, and packed items, manually or using hoists.",0.00,manual lifting of materials
+12710,Helpers--Production Workers,"Transfer finished products, raw materials, tools, or equipment between storage and work areas of plants and warehouses, by hand or using hand trucks or powered lift trucks.",0.00,physical transfer of materials
+12708,Helpers--Production Workers,Pack and store materials and products.,0.00,physical packing and storing
+12700,Helpers--Production Workers,"Help production workers by performing duties of lesser skill, such as supplying or holding materials or tools, or cleaning work areas and equipment.",0.00,hands-on assistance and cleaning
+12697,Helpers--Production Workers,Count finished products to determine if product orders are complete.,0.10,physical counting of products
+12713,Helpers--Production Workers,"Measure amounts of products, lengths of extruded articles, or weights of filled containers to ensure conformance to specifications.",0.05,physical measurement of products
+12704,Helpers--Production Workers,"Separate products according to weight, grade, size, or composition of materials used to produce them.",0.00,physical sorting of products
+12705,Helpers--Production Workers,"Turn valves to regulate flow of liquids or air, to reverse machines, to start pumps, or to regulate equipment.",0.00,physical valve operation
+12698,Helpers--Production Workers,Mark or tag identification on parts.,0.00,physical marking of parts
+12716,Helpers--Production Workers,Mix ingredients according to specified procedures or formulas.,0.00,physical mixing of ingredients
+12709,Helpers--Production Workers,"Tie products in bundles for further processing or shipment, following prescribed procedures.",0.00,physical bundling of products
+12702,Helpers--Production Workers,"Record information, such as the number of products tested, meter readings, or dates and times of product production.",0.20,reading physical gauges then recording data
+12715,Helpers--Production Workers,"Read gauges or charts, and record data obtained.",0.15,physical gauge reading then recording
+12720,Helpers--Production Workers,"Unclamp and hoist full reels from braiding, winding, or other fabricating machines, using power hoists.",0.00,physical hoisting of reels
+12711,Helpers--Production Workers,Signal coworkers to direct them to move products during the production process.,0.15,on-site real-time coordination signals
+12701,Helpers--Production Workers,Clean and lubricate equipment.,0.00,physical cleaning and lubrication
+12712,Helpers--Production Workers,Prepare raw materials for processing.,0.00,physical preparation of materials
+12725,Helpers--Production Workers,"Perform minor repairs to machines, such as replacing damaged or worn parts.",0.00,hands-on machine repair
+12726,Helpers--Production Workers,"Attach slings, ropes, or cables to objects such as pipes, hoses, or bundles.",0.00,physical attachment of slings and cables
+12717,Helpers--Production Workers,Position spouts or chutes of storage bins so that containers can be filled.,0.00,physical positioning of chutes
+12719,Helpers--Production Workers,"Wash work areas, machines, equipment, vehicles, or products.",0.00,physical washing of equipment
+12722,Helpers--Production Workers,Break up defective products for reprocessing.,0.00,physical breaking of defective products
+12724,Helpers--Production Workers,Cut or break flashing from materials or products.,0.00,physical cutting of flashing
+14435,Aircraft Cargo Handling Supervisors,"Determine the quantity and orientation of cargo, and compute an aircraft's center of gravity.",0.80,computational cargo and weight analysis
+14434,Aircraft Cargo Handling Supervisors,"Direct ground crews in the loading, unloading, securing, or staging of aircraft cargo or baggage.",0.15,on-site real-time direction of ground crews
+20933,Aircraft Cargo Handling Supervisors,Train new employees in areas such as safety procedures or equipment operation.,0.20,hands-on equipment training needs presence
+14432,Aircraft Cargo Handling Supervisors,Distribute cargo to maximize use of space.,0.35,planning task with physical execution component
+14433,Aircraft Cargo Handling Supervisors,"Calculate load weights for different aircraft compartments, using charts and computers.",0.90,computational load weight calculation
+14436,Aircraft Cargo Handling Supervisors,Accompany aircraft as a member of the flight crew to monitor and handle cargo in flight.,0.00,requires physical presence on flight
+20830,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",Maintain a safe working environment by monitoring safety procedures and equipment.,0.10,on-site safety monitoring
+8562,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",Collaborate with workers and managers to solve work-related problems.,0.25,in-person collaborative problem solving
+8563,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",Review work throughout the work process and at completion to ensure that it has been performed properly.,0.15,physical on-site work review
+8566,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",Inform designated employees or departments of items loaded or problems encountered.,0.70,informational communication of data
+8573,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",Inspect equipment for wear and for conformance to specifications.,0.10,physical equipment inspection
+8570,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand","Prepare and maintain work records and reports of information such as employee time and wages, daily receipts, or inspection results.",0.75,record keeping and reporting from data
+8564,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",Transmit and explain work orders to laborers.,0.50,communicating work orders partly in person
+8561,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",Plan work schedules and assign duties to maintain adequate staff for effective performance of activities and response to fluctuating workloads.,0.70,scheduling and staffing analysis
+8582,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand","Participate in the hiring process by reviewing credentials, conducting interviews, or making hiring decisions or recommendations.",0.35,interviews and hiring decisions need human judgment
+8579,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand","Estimate material, time, and staffing requirements for a given project, based on work orders, job specifications, and experience.",0.75,analytical estimation from specifications
+8572,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand","Counsel employees in work-related activities, personal growth, or career development.",0.15,requires human rapport and trust
+8576,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",Assess training needs of staff and arrange for or provide appropriate instruction.,0.40,assessment doable but hands-on instruction needed
+8571,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand","Conduct staff meetings to relay general information or to address specific topics, such as safety.",0.20,live in-person meeting facilitation
+8565,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",Check specifications of materials loaded or unloaded against information contained in work orders.,0.20,physical check of loaded materials
+8569,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand","Perform the same work duties as those supervised, or perform more difficult or skilled tasks or assist in their performance.",0.00,hands-on physical labor duties
+8574,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand","Resolve personnel problems, complaints, or formal grievances when possible, or refer them to higher-level supervisors for resolution.",0.20,requires human judgment and authority
+8575,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand","Recommend or initiate personnel actions, such as promotions, transfers, or disciplinary measures.",0.25,recommending doable but authority needed to initiate
+8568,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",Evaluate employee performance and prepare performance appraisals.,0.45,analysis doable but judgment and authority needed
+8567,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",Examine freight to determine loading sequences.,0.30,planning task with physical freight examination
+8577,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",Schedule times of shipment and modes of transportation for materials.,0.80,scheduling and logistics planning
+8583,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand","Inventory supplies and requisition or purchase additional items, as necessary.",0.55,inventory management via systems
+8578,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",Quote prices to customers.,0.75,price computation and communication
+8580,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand","Provide assistance in balancing books, tracking, monitoring, or projecting a unit's budget needs, and in developing unit policies and procedures.",0.75,financial analysis and policy drafting
+8581,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",Inspect job sites to determine the extent of maintenance or repairs needed.,0.05,physical on-site inspection
+17888,Recycling Coordinators,Oversee recycling pick-up or drop-off programs to ensure compliance with community ordinances.,0.30,compliance oversight needs on-site presence
+17907,Recycling Coordinators,Maintain logs of recycling materials received or shipped to processing companies.,0.75,data logging from records
+17889,Recycling Coordinators,"Supervise recycling technicians, community service workers, or other recycling operations employees or volunteers.",0.15,in-person supervision of staff
+17910,Recycling Coordinators,Review customer requests for service to determine service needs and deploy appropriate resources to provide service.,0.55,dispatch and resource decisions from data
+17909,Recycling Coordinators,"Provide training to recycling technicians or community service workers on topics such as safety, solid waste processing, or general recycling operations.",0.20,hands-on training needs presence
+17905,Recycling Coordinators,Identify or investigate new opportunities for materials to be collected and recycled.,0.70,research into new recycling opportunities
+17890,Recycling Coordinators,Assign truck drivers or recycling technicians to routes.,0.75,route assignment optimization
+17893,Recycling Coordinators,Create or manage recycling operations budgets.,0.75,budget planning and management
+17908,Recycling Coordinators,"Prepare bills of lading, statements of shipping records, or customer receipts related to recycling or hazardous material services.",0.80,document preparation from records
+17906,Recycling Coordinators,"Inspect physical condition of recycling or hazardous waste facility for compliance with safety, quality, and service standards.",0.05,physical facility inspection
+17899,Recycling Coordinators,Negotiate contracts with waste management or other firms.,0.35,contract negotiation needs human trust
+17892,Recycling Coordinators,Coordinate shipments of recycling materials with shipping brokers or processing companies.,0.60,coordination and scheduling communication
+17901,Recycling Coordinators,"Operate recycling processing equipment, such as sorters, balers, crushers, and granulators to sort and process materials.",0.00,physical equipment operation
+17900,Recycling Coordinators,"Operate fork lifts, skid loaders, or trucks to move or store recyclable materials.",0.00,physical vehicle operation
+17904,Recycling Coordinators,Schedule movement of recycling materials into and out of storage areas.,0.75,scheduling of material movement
+17902,Recycling Coordinators,Oversee campaigns to promote recycling or waste reduction programs in communities or private companies.,0.45,content creation plus on-site oversight
+17891,Recycling Coordinators,Coordinate recycling collection schedules to optimize service and efficiency.,0.75,schedule optimization
+17895,Recycling Coordinators,Develop community or corporate recycling plans and goals to minimize waste and conform to resource constraints.,0.70,analytical planning of programs
+17903,Recycling Coordinators,Prepare grant applications to fund recycling programs or program enhancements.,0.80,grant application writing
+17897,Recycling Coordinators,Investigate violations of solid waste or recycling ordinances.,0.20,on-site investigation needs authority
+17896,Recycling Coordinators,"Implement grant-funded projects, monitoring and reporting progress in accordance with sponsoring agency requirements.",0.45,project management with on-site monitoring
+17898,Recycling Coordinators,Make presentations to educate the public on how to recycle or on the environmental advantages of recycling.,0.20,live public presentation needs presence
+17894,Recycling Coordinators,Design community solid and hazardous waste management programs.,0.70,analytical program design
+8584,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,Enforce safety rules and regulations.,0.10,requires on-site authority to enforce
+8593,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,"Interpret transportation or tariff regulations, shipping orders, safety regulations, or company policies and procedures for workers.",0.70,interpreting regulations and policies
+8588,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,Resolve worker problems or collaborate with employees to assist in problem resolution.,0.20,requires human authority and presence
+8586,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,"Confer with customers, supervisors, contractors, or other personnel to exchange information or to resolve problems.",0.35,live conferring to resolve problems
+8585,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,"Plan work assignments and equipment allocations to meet transportation, operations or production goals.",0.75,planning and allocation analysis
+8603,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,"Examine, measure, or weigh cargo or materials to determine specific handling requirements.",0.05,physical examination and weighing of cargo
+8594,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,Explain and demonstrate work tasks to new workers or assign training tasks to experienced workers.,0.25,hands-on demonstration needs presence
+8589,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,"Review orders, production schedules, blueprints, or shipping or receiving notices to determine work sequences and material shipping dates, types, volumes, or destinations.",0.80,document review and analysis

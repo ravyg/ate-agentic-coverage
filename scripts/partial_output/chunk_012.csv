@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+7366,Tax Preparers,"Check data input or verify totals on forms prepared by others to detect errors in arithmetic, data entry, or procedures.",0.90,verifying arithmetic and data entry on forms
+7617,"Administrative Law Judges, Adjudicators, and Hearing Officers",Prepare written opinions and decisions.,0.55,drafting text but judicial authority needed to finalize
+7618,"Administrative Law Judges, Adjudicators, and Hearing Officers","Review and evaluate data on documents, such as claim applications, birth or death certificates, or physician or employer records.",0.85,reviewing documents and records
+7619,"Administrative Law Judges, Adjudicators, and Hearing Officers","Research and analyze laws, regulations, policies, and precedent decisions to prepare for hearings and to determine conclusions.",0.85,legal research and analysis
+7620,"Administrative Law Judges, Adjudicators, and Hearing Officers",Confer with individuals or organizations involved in cases to obtain relevant information.,0.45,requires live interviewing to gather information
+7621,"Administrative Law Judges, Adjudicators, and Hearing Officers","Recommend the acceptance or rejection of claims or compromise settlements according to laws, regulations, policies, and precedent decisions.",0.65,can analyze and recommend but human decides
+7622,"Administrative Law Judges, Adjudicators, and Hearing Officers",Explain to claimants how they can appeal rulings that go against them.,0.75,informational explanation to claimants
+7623,"Administrative Law Judges, Adjudicators, and Hearing Officers",Monitor and direct the activities of trials and hearings to ensure that they are conducted fairly and that courts administer justice while safeguarding the legal rights of all involved parties.,0.05,requires physical presence and judicial authority
+7624,"Administrative Law Judges, Adjudicators, and Hearing Officers",Authorize payment of valid claims and determine method of payment.,0.15,requires fiduciary and legal authority to authorize
+7625,"Administrative Law Judges, Adjudicators, and Hearing Officers","Conduct hearings to review and decide claims regarding issues, such as social program eligibility, environmental protection, or enforcement of health and safety regulations.",0.05,requires legal authority and in person presence
+7626,"Administrative Law Judges, Adjudicators, and Hearing Officers","Rule on exceptions, motions, and admissibility of evidence.",0.05,requires judicial authority
+7627,"Administrative Law Judges, Adjudicators, and Hearing Officers","Determine existence and amount of liability according to current laws, administrative and judicial precedents, and available evidence.",0.30,final legal determination needs human authority
+7628,"Administrative Law Judges, Adjudicators, and Hearing Officers",Issue subpoenas and administer oaths in preparation for formal hearings.,0.05,requires legal authority
+7629,"Administrative Law Judges, Adjudicators, and Hearing Officers",Conduct studies of appeals procedures in field agencies to ensure adherence to legal requirements and to facilitate determination of cases.,0.80,process research and analysis
+7732,Orthodontists,Fit dental appliances in patients' mouths to alter the position and relationship of teeth and jaws or to realign teeth.,0.00,physical dental procedure
+7733,Orthodontists,"Study diagnostic records, such as medical or dental histories, plaster models of the teeth, photos of a patient's face and teeth, and X-rays, to develop patient treatment plans.",0.35,data analysis but requires licensed clinical judgment
+7734,Orthodontists,Diagnose teeth and jaw or other dental-facial abnormalities.,0.10,requires licensed medical diagnosis
+7735,Orthodontists,"Examine patients to assess abnormalities of jaw development, tooth position, and other dental-facial structures.",0.05,physical examination
+7736,Orthodontists,Prepare diagnostic and treatment records.,0.80,record preparation and documentation
+7737,Orthodontists,Adjust dental appliances to produce and maintain normal function.,0.00,physical dental procedure
+7738,Orthodontists,Provide patients with proposed treatment plans and cost estimates.,0.55,can draft plan and estimate but needs licensed sign off
+7739,Orthodontists,Instruct dental officers and technical assistants in orthodontic procedures and techniques.,0.35,hands on clinical instruction
+7740,Orthodontists,Coordinate orthodontic services with other dental and medical services.,0.40,coordination requiring professional judgment
+7741,Orthodontists,"Design and fabricate appliances, such as space maintainers, retainers, and labial and lingual arch wires.",0.25,design portion feasible but fabrication is physical
+7743,Prosthodontists,"Fit prostheses to patients, making any necessary adjustments and modifications.",0.00,physical fitting of prostheses
+7744,Prosthodontists,"Design and fabricate dental prostheses, or supervise dental technicians and laboratory bench workers who construct the devices.",0.20,design portion feasible but fabrication and supervision are physical
+7745,Prosthodontists,"Measure and take impressions of patients' jaws and teeth to determine the shape and size of dental prostheses, using face bows, dental articulators, recording devices, and other materials.",0.00,physical impressions and measurement
+7746,Prosthodontists,"Collaborate with general dentists, specialists, and other health professionals to develop solutions to dental and oral health concerns.",0.40,professional collaboration requiring clinical judgment
+7747,Prosthodontists,"Repair, reline, or rebase dentures.",0.00,physical repair procedure
+7748,Prosthodontists,"Restore function and aesthetics to traumatic injury survivors, or to individuals with diseases or congenital disabilities.",0.00,physical treatment
+7749,Prosthodontists,Use bonding technology on the surface of the teeth to change tooth shape or to close gaps.,0.00,physical bonding procedure
+7750,Prosthodontists,Treat facial pain and jaw joint problems.,0.05,physical and clinical treatment
+7751,Prosthodontists,Place veneers onto teeth to conceal defects.,0.00,physical placement of veneers
+7752,Prosthodontists,Bleach discolored teeth to brighten and whiten them.,0.00,physical bleaching procedure
+7753,Anesthesiologists,"Administer anesthetic or sedation during medical procedures, using local, intravenous, spinal, or caudal methods.",0.00,physical medical procedure
+7754,Anesthesiologists,"Monitor patient before, during, and after anesthesia and counteract adverse reactions or complications.",0.05,requires physical presence and immediate medical response
+7755,Anesthesiologists,Provide and maintain life support and airway management and help prepare patients for emergency surgery.,0.00,physical emergency medical procedure
+7756,Anesthesiologists,Record type and amount of anesthesia and patient condition throughout procedure.,0.55,documentation tied to real time clinical monitoring
+7757,Anesthesiologists,"Examine patient, obtain medical history, and use diagnostic tests to determine risk during surgical, obstetrical, and other medical procedures.",0.10,requires physical exam and licensed diagnosis
+7758,Anesthesiologists,Position patient on operating table to maximize patient comfort and surgical accessibility.,0.00,physical task
+7759,Anesthesiologists,Decide when patients have recovered or stabilized enough to be sent to another room or ward or to be sent home following outpatient surgery.,0.10,clinical judgment and accountability for patient safety
+7760,Anesthesiologists,Coordinate administration of anesthetics with surgeons during operation.,0.05,requires real time physical coordination in operating room
+7761,Anesthesiologists,Confer with other medical professionals to determine type and method of anesthetic or sedation to render patient insensible to pain.,0.30,professional consultation requiring clinical judgment and presence
+7762,Anesthesiologists,"Coordinate and direct work of nurses, medical technicians, and other health care providers.",0.15,requires authority over medical staff in physical setting
+7763,Anesthesiologists,"Order laboratory tests, x-rays, and other diagnostic procedures.",0.35,ordering tests requires licensed medical authority
+7764,Anesthesiologists,"Diagnose illnesses, using examinations, tests, and reports.",0.10,requires licensed medical diagnosis
+7765,Anesthesiologists,"Manage anesthesiological services, coordinating them with other medical activities and formulating plans and procedures.",0.25,managerial coordination requiring professional authority
+7766,Anesthesiologists,"Provide medical care and consultation in many settings, prescribing medication and treatment and referring patients for surgery.",0.10,requires licensed prescribing authority
+7767,Anesthesiologists,"Inform students and staff of types and methods of anesthesia administration, signs of complications, and emergency methods to counteract reactions.",0.55,educational content generation though live teaching benefits from presence
+7768,Anesthesiologists,"Schedule and maintain use of surgical suite, including operating, wash-up, waiting rooms, or anesthetic and sterilizing equipment.",0.55,scheduling and resource coordination mostly administrative
+7769,Anesthesiologists,Instruct individuals and groups on ways to preserve health and prevent disease.,0.55,health education content though live instruction less agent only
+7770,Anesthesiologists,"Conduct medical research to aid in controlling and curing disease, to investigate new medications, and to develop and test new medical techniques.",0.35,literature and data analysis feasible but testing needs physical execution
+7771,Family Medicine Physicians,"Prescribe or administer treatment, therapy, medication, vaccination, and other specialized medical care to treat or prevent illness, disease, or injury.",0.05,physical administration and licensed prescribing
+7772,Family Medicine Physicians,"Order, perform, and interpret tests and analyze records, reports, and examination information to diagnose patients' condition.",0.15,diagnostic analysis requires licensed judgment and physical exam
+7773,Family Medicine Physicians,Monitor patients' conditions and progress and reevaluate treatments as necessary.,0.15,clinical monitoring requires licensed judgment
+7774,Family Medicine Physicians,"Collect, record, and maintain patient information, such as medical history, reports, or examination results.",0.75,documentation and record keeping
+7775,Family Medicine Physicians,Explain procedures and discuss test results or prescribed treatments with patients.,0.40,patient communication requiring trust and clinical context
+7776,Family Medicine Physicians,"Advise patients and community members concerning diet, activity, hygiene, and disease prevention.",0.55,can generate advice content though tailored counseling benefits from rapport
+7777,Family Medicine Physicians,Refer patients to medical specialists or other practitioners when necessary.,0.35,clinical referral decision requires licensed judgment
+7778,Family Medicine Physicians,"Direct and coordinate activities of nurses, students, assistants, specialists, therapists, and other medical staff.",0.15,requires authority over medical staff
+7779,Family Medicine Physicians,"Coordinate work with nurses, social workers, rehabilitation therapists, pharmacists, psychologists, and other health care providers.",0.20,coordination requiring professional authority
+7782,Family Medicine Physicians,"Plan, implement, or administer health programs or standards in hospitals, businesses, or communities for prevention or treatment of injury or illness.",0.40,program planning feasible but implementation needs human action
+7785,General Internal Medicine Physicians,"Treat internal disorders, such as hypertension, heart disease, diabetes, or problems of the lung, brain, kidney, or gastrointestinal tract.",0.05,physical and clinical treatment requiring licensed authority
+7786,General Internal Medicine Physicians,"Analyze records, reports, test results, or examination information to diagnose medical condition of patient.",0.15,diagnostic analysis requires licensed judgment
+7787,General Internal Medicine Physicians,"Prescribe or administer medication, therapy, and other specialized medical care to treat or prevent illness, disease, or injury.",0.05,licensed prescribing and physical administration
+7788,General Internal Medicine Physicians,"Provide and manage long-term, comprehensive medical care, including diagnosis and nonsurgical treatment of diseases, for adult patients in an office or hospital.",0.10,ongoing clinical care requires licensed authority
+7789,General Internal Medicine Physicians,"Manage and treat common health problems, such as infections, influenza or pneumonia, as well as serious, chronic, and complex illnesses, in adolescents, adults, and the elderly.",0.10,clinical treatment requires licensed authority
+7790,General Internal Medicine Physicians,Monitor patients' conditions and progress and reevaluate treatments as necessary.,0.15,clinical monitoring requires licensed judgment
+7791,General Internal Medicine Physicians,"Collect, record, and maintain patient information, such as medical history, reports, or examination results.",0.75,documentation task
+7792,General Internal Medicine Physicians,Make diagnoses when different illnesses occur together or in situations where the diagnosis may be obscure.,0.10,complex diagnosis requires licensed judgment
+7793,General Internal Medicine Physicians,Explain procedures and discuss test results or prescribed treatments with patients.,0.40,patient communication requiring trust
+7794,General Internal Medicine Physicians,"Advise patients and community members concerning diet, activity, hygiene, and disease prevention.",0.55,health advice content generation
+7795,General Internal Medicine Physicians,Refer patient to medical specialist or other practitioner when necessary.,0.35,clinical referral decision requires licensed judgment
+7796,General Internal Medicine Physicians,Immunize patients to protect them from preventable diseases.,0.00,physical immunization procedure
+7797,General Internal Medicine Physicians,Advise surgeon of a patient's risk status and recommend appropriate intervention to minimize risk.,0.20,clinical risk assessment requiring licensed judgment
+7798,General Internal Medicine Physicians,"Direct and coordinate activities of nurses, students, assistants, specialists, therapists, and other medical staff.",0.15,requires authority over medical staff
+7799,General Internal Medicine Physicians,Provide consulting services to other doctors caring for patients with special or difficult problems.,0.30,professional consultation requiring clinical judgment
+7800,General Internal Medicine Physicians,"Operate on patients to remove, repair, or improve functioning of diseased or injured body parts and systems.",0.00,physical surgery
+7801,General Internal Medicine Physicians,"Plan, implement, or administer health programs in hospitals, businesses, or communities for prevention and treatment of injuries or illnesses.",0.40,planning feasible but implementation needs human action
+7802,General Internal Medicine Physicians,"Conduct research to develop or test medications, treatments, or procedures to prevent or control disease or injury.",0.35,literature and data analysis feasible but testing needs physical execution
+7803,General Internal Medicine Physicians,"Prepare government or organizational reports on birth, death, and disease statistics, workforce evaluations, or the medical status of individuals.",0.75,report preparation from data
+7804,Obstetricians and Gynecologists,"Care for and treat women during prenatal, natal, and postnatal periods.",0.05,clinical and physical care requiring licensed authority and presence
+7805,Obstetricians and Gynecologists,Explain procedures and discuss test results or prescribed treatments with patients.,0.40,patient communication requiring trust
+7806,Obstetricians and Gynecologists,Treat diseases of female organs.,0.05,clinical and physical treatment
+7807,Obstetricians and Gynecologists,Monitor patients' conditions and progress and reevaluate treatments as necessary.,0.15,clinical monitoring requires licensed judgment
+7808,Obstetricians and Gynecologists,Perform cesarean sections or other surgical procedures as needed to preserve patients' health and deliver babies safely.,0.00,physical surgery and delivery
+7809,Obstetricians and Gynecologists,"Prescribe or administer therapy, medication, and other specialized medical care to treat or prevent illness, disease, or injury.",0.05,licensed prescribing and physical administration
+7810,Obstetricians and Gynecologists,"Analyze records, reports, test results, or examination information to diagnose medical condition of patient.",0.15,diagnostic analysis requires licensed judgment
+7811,Obstetricians and Gynecologists,"Collect, record, and maintain patient information, such as medical histories, reports, or examination results.",0.75,documentation task
+7812,Obstetricians and Gynecologists,"Advise patients and community members concerning diet, activity, hygiene, and disease prevention.",0.55,health advice content generation
+7813,Obstetricians and Gynecologists,Refer patient to medical specialist or other practitioner when necessary.,0.35,clinical referral decision requires licensed judgment
+7814,Obstetricians and Gynecologists,Consult with or provide consulting services to other physicians.,0.30,professional medical consultation
+7815,Obstetricians and Gynecologists,"Direct and coordinate activities of nurses, students, assistants, specialists, therapists, and other medical staff.",0.15,requires authority over medical staff
+7816,Obstetricians and Gynecologists,"Plan, implement, or administer health programs in hospitals, businesses, or communities for prevention and treatment of injuries or illnesses.",0.40,planning feasible but implementation needs human action
+7817,Obstetricians and Gynecologists,"Prepare government and organizational reports on birth, death, and disease statistics, workforce evaluations, or the medical status of individuals.",0.75,report preparation from data
+7818,Obstetricians and Gynecologists,"Conduct research to develop or test medications, treatments, or procedures to prevent or control disease or injury.",0.35,research analysis feasible but testing needs physical execution
+7819,"Pediatricians, General","Examine patients or order, perform, and interpret diagnostic tests to obtain information on medical condition and determine diagnosis.",0.15,diagnostic analysis requires licensed judgment and physical exam
+7820,"Pediatricians, General",Examine children regularly to assess their growth and development.,0.05,physical examination
+7821,"Pediatricians, General","Prescribe or administer treatment, therapy, medication, vaccination, and other specialized medical care to treat or prevent illness, disease, or injury in infants and children.",0.05,licensed prescribing and physical administration
+7822,"Pediatricians, General","Collect, record, and maintain patient information, such as medical history, reports, or examination results.",0.75,documentation task
+7823,"Pediatricians, General","Advise patients, parents or guardians, and community members concerning diet, activity, hygiene, and disease prevention.",0.55,health advice content generation
+7824,"Pediatricians, General","Treat children who have minor illnesses, acute and chronic health problems, and growth and development concerns.",0.10,clinical treatment requires licensed authority
+7825,"Pediatricians, General",Explain procedures and discuss test results or prescribed treatments with patients and parents or guardians.,0.40,patient and parent communication requiring trust
+7826,"Pediatricians, General",Monitor patients' conditions and progress and reevaluate treatments as necessary.,0.15,clinical monitoring requires licensed judgment
+7827,"Pediatricians, General",Plan and execute medical care programs to aid in the mental and physical growth and development of children and adolescents.,0.30,care program planning and execution requires licensed authority
+7828,"Pediatricians, General",Refer patient to medical specialist or other practitioner when necessary.,0.35,clinical referral decision requires licensed judgment
+7829,"Pediatricians, General","Direct and coordinate activities of nurses, students, assistants, specialists, therapists, and other medical staff.",0.15,requires authority over medical staff
+7830,"Pediatricians, General",Provide consulting services to other physicians.,0.30,professional medical consultation
+7831,"Pediatricians, General","Plan, implement, or administer health programs or standards in hospitals, businesses, or communities for prevention or treatment of injury or illness.",0.40,planning feasible but implementation needs human action
+7832,"Pediatricians, General","Operate on patients to remove, repair, or improve functioning of diseased or injured body parts and systems.",0.00,physical surgery
+7833,"Pediatricians, General","Conduct research to study anatomy and develop or test medications, treatments, or procedures to prevent or control disease or injury.",0.35,research analysis feasible but testing needs physical execution
+7849,Podiatrists,"Diagnose diseases and deformities of the foot using medical histories, physical examinations, x-rays, and laboratory test results.",0.15,diagnostic analysis requires licensed judgment
+7850,Podiatrists,"Prescribe medications, corrective devices, physical therapy, or surgery.",0.05,licensed prescribing authority required
+7851,Podiatrists,"Surgically treat conditions such as corns, calluses, ingrown nails, tumors, shortened tendons, bunions, cysts, or abscesses.",0.00,physical surgery
+7852,Podiatrists,Advise patients about treatments and foot care techniques necessary for prevention of future problems.,0.55,advice content generation
+7853,Podiatrists,"Refer patients to physicians when symptoms indicative of systemic disorders, such as arthritis or diabetes, are observed in feet and legs.",0.35,clinical referral decision requires licensed judgment
+7854,Podiatrists,Correct deformities by means of plaster casts and strapping.,0.00,physical procedure
+7855,Podiatrists,Make and fit prosthetic appliances.,0.05,mostly physical fitting with limited design portion
+7856,Podiatrists,"Perform administrative duties, such as hiring employees, ordering supplies, or keeping records.",0.55,administrative tasks though hiring needs human judgment
+7857,Podiatrists,"Educate the public about the benefits of foot care through techniques such as speaking engagements, advertising, and other forums.",0.45,content creation feasible but live speaking needs human presence
+7858,Podiatrists,"Treat deformities using mechanical methods, such as whirlpool or paraffin baths, and electrical methods, such as short wave and low voltage currents.",0.00,physical treatment
+7870,Audiologists,Examine and clean patients' ear canals.,0.00,physical procedure
+7872,Audiologists,Educate and supervise audiology students and health care personnel.,0.30,supervision and live teaching require human presence and authority
+7875,Audiologists,Develop and supervise hearing screening programs.,0.40,program development feasible but supervision needs human presence
+7878,Massage Therapists,Confer with clients about their medical histories and problems with stress or pain to determine how massage will be most helpful.,0.40,requires live interview and rapport with client
+7879,Massage Therapists,Apply finger and hand pressure to specific points of the body.,0.00,physical treatment
+7880,Massage Therapists,"Massage and knead muscles and soft tissues of the body to provide treatment for medical conditions, injuries, or wellness maintenance.",0.00,physical treatment
+7881,Massage Therapists,Maintain treatment records.,0.85,record keeping
+7882,Massage Therapists,"Provide clients with guidance and information about techniques for postural improvement and stretching, strengthening, relaxation, and rehabilitative exercises.",0.55,guidance content generation though personalized coaching benefits from presence
+7883,Massage Therapists,"Assess clients' soft tissue condition, joint quality and function, muscle strength, and range of motion.",0.05,physical assessment

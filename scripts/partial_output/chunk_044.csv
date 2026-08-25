@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+15794,Loss Prevention Managers,Perform or direct inventory investigations in response to shrink results outside of acceptable ranges.,0.45,data analysis of shrink but directing investigation needs on-site presence
+15796,Loss Prevention Managers,Maintain documentation of all loss prevention activity.,0.90,pure documentation and recordkeeping
+15802,Loss Prevention Managers,"Assess security needs across locations to ensure proper deployment of loss prevention resources, such as staff and technology.",0.55,resource planning analysis but deployment decisions need site knowledge
+15805,Loss Prevention Managers,"Monitor compliance to operational, safety, or inventory control procedures, including physical security standards.",0.35,monitoring physical security standards on site
+15790,Loss Prevention Managers,"Verify correct use and maintenance of physical security systems, such as closed-circuit television, merchandise tags, and burglar alarms.",0.25,physical verification of security hardware
+15789,Loss Prevention Managers,Visit stores to ensure compliance with company policies and procedures.,0.05,requires physically visiting stores
+15803,Loss Prevention Managers,Analyze retail data to identify current or emerging trends in theft or fraud.,0.90,pure data analysis of retail trends
+15798,Loss Prevention Managers,"Direct loss prevention audit programs including target store audits, maintenance audits, safety audits, or electronic article surveillance (EAS) audits.",0.35,directing physical on-site audit programs
+15801,Loss Prevention Managers,Collaborate with law enforcement to investigate and solve external theft or fraud cases.,0.20,liaison with law enforcement needs human authority
+15797,Loss Prevention Managers,Coordinate theft and fraud investigations involving career criminals or organized group activities.,0.25,coordinating criminal investigations needs human authority
+15792,Loss Prevention Managers,"Supervise surveillance, detection, or criminal processing related to theft and criminal cases.",0.20,supervising physical surveillance and criminal processing
+15782,Loss Prevention Managers,Perform cash audits and deposit investigations to fully account for store cash.,0.45,record based audit but physical cash counting needed
+15793,Loss Prevention Managers,"Recommend improvements in loss prevention programs, staffing, scheduling, or training.",0.80,analysis and recommendations from records
+15787,Loss Prevention Managers,"Direct installation of covert surveillance equipment, such as security cameras.",0.15,directing physical equipment installation on site
+15784,Loss Prevention Managers,Monitor and review paperwork procedures and systems to prevent error-related shortages.,0.80,reviewing paperwork and systems for errors
+15788,Loss Prevention Managers,Advise retail establishments on development of loss-investigation procedures.,0.75,advisory writing on procedures
+15785,Loss Prevention Managers,"Maintain databases such as bad check logs, reports on multiple offenders, and alarm activation lists.",0.90,pure database maintenance
+15822,Wind Energy Operations Managers,Supervise employees or subcontractors to ensure quality of work or adherence to safety regulations or policies.,0.15,supervising physical work and safety on site
+15808,Wind Energy Operations Managers,"Train or coordinate the training of employees in operations, safety, environmental issues, or technical issues.",0.45,can build materials but live training delivery needs human
+15809,Wind Energy Operations Managers,"Track and maintain records for wind operations, such as site performance, downtime events, parts usage, or substation events.",0.90,pure record tracking of operations data
+15823,Wind Energy Operations Managers,"Oversee the maintenance of wind field equipment or structures, such as towers, transformers, electrical collector systems, roadways, or other site assets.",0.20,overseeing physical maintenance of equipment on site
+15821,Wind Energy Operations Managers,Prepare wind field operational budgets.,0.85,budget preparation is analytical work
+15819,Wind Energy Operations Managers,"Develop relationships and communicate with customers, site managers, developers, land owners, authorities, utility representatives, or residents.",0.30,relationship building needs human rapport
+15813,Wind Energy Operations Managers,"Maintain operations records, such as work orders, site inspection forms, or other documentation.",0.90,pure records maintenance
+15815,Wind Energy Operations Managers,"Recruit or select wind operations employees, contractors, or subcontractors.",0.35,hiring decisions need human judgment and authority
+15810,Wind Energy Operations Managers,"Provide technical support to wind field customers, employees, or subcontractors.",0.55,remote technical support but some issues need physical presence
+15817,Wind Energy Operations Managers,"Estimate costs associated with operations, including repairs or preventive maintenance.",0.80,cost estimation from data
+15816,Wind Energy Operations Managers,Monitor and maintain records of daily facility operations.,0.75,remote monitoring and recordkeeping of operations
+15818,Wind Energy Operations Managers,"Establish goals, objectives, or priorities for wind field operations.",0.55,planning priorities but needs organizational accountability
+15812,Wind Energy Operations Managers,"Order parts, tools, or equipment needed to maintain, restore, or improve wind field operations.",0.75,ordering via procurement systems
+15814,Wind Energy Operations Managers,"Review, negotiate, or approve wind farm contracts.",0.25,contract negotiation and approval needs human authority
+15811,Wind Energy Operations Managers,Manage warranty repair or replacement services.,0.60,coordinating warranty services mostly communication work
+15820,Wind Energy Operations Managers,"Develop processes or procedures for wind operations, including transitioning from construction to commercial operations.",0.75,developing processes is document work
+15836,Wind Energy Development Managers,"Coordinate or direct development, energy assessment, engineering, or construction activities to ensure that wind project needs and objectives are met.",0.25,directing physical construction activities needs authority
+15834,Wind Energy Development Managers,Manage wind project costs to stay within budget limits.,0.55,cost management is analytical but carries accountability
+15827,Wind Energy Development Managers,"Lead or support negotiations involving tax agreements or abatements, power purchase agreements, land use, or interconnection agreements.",0.25,negotiations need human trust and legal authority
+15838,Wind Energy Development Managers,"Create wind energy project plans, including project scope, goals, tasks, resources, schedules, costs, contingencies, or other project information.",0.80,project plan document creation
+15824,Wind Energy Development Managers,Supervise the work of subcontractors or consultants to ensure quality and conformance to specifications or budgets.,0.25,supervising subcontractors needs on-site authority
+15835,Wind Energy Development Managers,"Develop scope of work for wind project functions, such as design, site assessment, environmental studies, surveying, or field support services.",0.75,drafting scope of work documents
+15830,Wind Energy Development Managers,"Provide verbal or written project status reports to project teams, management, subcontractors, customers, or owners.",0.80,mostly written status reporting
+15828,Wind Energy Development Managers,"Update schedules, estimates, forecasts, or budgets for wind projects.",0.85,updating schedules and budgets is data work
+15837,Wind Energy Development Managers,"Prepare or assist in the preparation of applications for environmental, building, or other required permits.",0.75,drafting permit applications
+15829,Wind Energy Development Managers,Review or evaluate proposals or bids to make recommendations regarding awarding of contracts.,0.80,analyzing bids and making recommendations
+15826,Wind Energy Development Managers,Manage site assessments or environmental studies for wind fields.,0.35,managing site assessments needs physical fieldwork
+15833,Wind Energy Development Managers,"Prepare wind project documentation, including diagrams or layouts.",0.80,preparing documentation and diagrams
+15831,Wind Energy Development Managers,"Review civil design, engineering, or construction technical documentation to ensure compliance with applicable government or industrial codes, standards, requirements, or regulations.",0.65,document review though compliance sign-off needs licensed authority
+15825,Wind Energy Development Managers,Prepare requests for proposals (RFPs) for wind project construction or equipment acquisition.,0.80,drafting RFP documents
+15832,Wind Energy Development Managers,"Provide technical support for the design, construction, or commissioning of wind farm projects.",0.45,technical support mixes remote analysis and on-site commissioning
+15849,Brownfield Redevelopment Specialists and Site Managers,Identify environmental contamination sources.,0.35,identifying contamination often needs field sampling
+15857,Brownfield Redevelopment Specialists and Site Managers,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.20,coordinating on-site cleanup activities
+23901,Brownfield Redevelopment Specialists and Site Managers,Identify and apply for project funding.,0.65,researching and drafting funding applications
+15848,Brownfield Redevelopment Specialists and Site Managers,"Plan or implement brownfield redevelopment projects to ensure safety, quality, and compliance with applicable standards or requirements.",0.35,planning is info work but implementation needs physical presence
+15850,Brownfield Redevelopment Specialists and Site Managers,Estimate costs for environmental cleanup and remediation of land redevelopment projects.,0.80,cost estimation for remediation
+15858,Brownfield Redevelopment Specialists and Site Managers,"Conduct quantitative risk assessments for human health, environmental, or other risks.",0.75,quantitative risk assessment analysis
+15852,Brownfield Redevelopment Specialists and Site Managers,Design or implement plans for surface or ground water remediation.,0.40,design work but implementation is physical
+15854,Brownfield Redevelopment Specialists and Site Managers,"Design or implement measures to improve the water, air, and soil quality of military test sites, abandoned mine land, or other contaminated sites.",0.35,design work but implementation is physical remediation
+15839,Brownfield Redevelopment Specialists and Site Managers,Review or evaluate environmental remediation project proposals.,0.85,reviewing proposals is analytical work
+15843,Brownfield Redevelopment Specialists and Site Managers,"Prepare reports or presentations to communicate brownfield redevelopment needs, status, or progress.",0.90,report and presentation writing
+15847,Brownfield Redevelopment Specialists and Site Managers,Inspect sites to assess environmental damage or monitor cleanup progress.,0.10,requires physical site inspection
+15846,Brownfield Redevelopment Specialists and Site Managers,"Maintain records of decisions, actions, and progress related to environmental redevelopment projects.",0.90,pure recordkeeping
+15856,Brownfield Redevelopment Specialists and Site Managers,Coordinate the disposal of hazardous waste.,0.30,coordinating physical hazardous waste disposal
+15860,Brownfield Redevelopment Specialists and Site Managers,Develop or implement plans for the sustainable regeneration of brownfield sites to ensure regeneration of a wider area by providing environmental protection or economic and social benefits.,0.40,planning is info work but implementation is physical
+15859,Brownfield Redevelopment Specialists and Site Managers,Conduct feasibility or cost-benefit studies for environmental remediation projects.,0.85,feasibility and cost-benefit analysis
+15845,Brownfield Redevelopment Specialists and Site Managers,"Prepare and submit permit applications for demolition, cleanup, remediation, or construction projects.",0.70,preparing and submitting permit applications
+15844,Brownfield Redevelopment Specialists and Site Managers,Negotiate contracts for services or materials needed for environmental remediation.,0.30,contract negotiation needs human trust
+15853,Brownfield Redevelopment Specialists and Site Managers,Design or implement plans for structural demolition and debris removal.,0.40,design work but demolition implementation is physical
+15855,Brownfield Redevelopment Specialists and Site Managers,Design or conduct environmental restoration studies.,0.55,restoration study design mixes analysis and fieldwork
+15840,Brownfield Redevelopment Specialists and Site Managers,Review or evaluate designs for contaminant treatment or disposal facilities.,0.85,reviewing facility designs is analytical work
+15841,Brownfield Redevelopment Specialists and Site Managers,Provide training on hazardous material or waste cleanup procedures and technologies.,0.40,can create materials but training delivery needs human presence
+15851,Brownfield Redevelopment Specialists and Site Managers,Develop or implement plans for revegetation of brownfield sites.,0.40,planning is info work but implementation is physical
+15842,Brownfield Redevelopment Specialists and Site Managers,"Provide expert witness testimony on issues such as soil, air, or water contamination and associated cleanup measures.",0.05,sworn expert witness testimony needs legal authority and presence
+20950,Computer Systems Analysts,Troubleshoot program and system malfunctions to restore normal functioning.,0.75,remote software troubleshooting
+3464,Computer Systems Analysts,"Provide staff and users with assistance solving computer-related problems, such as malfunctions and program problems.",0.75,remote technical assistance to users
+3465,Computer Systems Analysts,"Test, maintain, and monitor computer programs and systems, including coordinating the installation of computer programs and systems.",0.70,software testing and monitoring though installs can be physical
+3482,Computer Systems Analysts,"Use the computer in the analysis and solution of business problems, such as development of integrated production and inventory control and cost analysis systems.",0.85,computer based business problem solving
+3468,Computer Systems Analysts,Coordinate and link the computer systems within an organization to increase compatibility so that information can be shared.,0.75,technical integration of systems
+3466,Computer Systems Analysts,"Use object-oriented programming languages, as well as client and server applications development processes and multimedia and Internet technology.",0.90,pure programming work
+3474,Computer Systems Analysts,"Analyze information processing or computation needs and plan and design computer systems, using techniques such as structured analysis, data modeling, and information engineering.",0.85,systems analysis and design
+3469,Computer Systems Analysts,Consult with management to ensure agreement on system principles.,0.50,consulting to reach agreement needs human trust
+3484,Computer Systems Analysts,Specify inputs accessed by the system and plan the distribution and use of the results.,0.85,specifying system inputs and outputs is design work
+3470,Computer Systems Analysts,Expand or modify system to serve new purposes or improve work flow.,0.85,modifying software systems
+3473,Computer Systems Analysts,Train staff and users to work with computer systems and programs.,0.45,live training delivery to staff needs human presence
+3475,Computer Systems Analysts,Assess the usefulness of pre-developed application packages and adapt them to a user environment.,0.80,assessing and adapting software packages
+3472,Computer Systems Analysts,Determine computer software or hardware needed to set up or alter systems.,0.80,recommending hardware or software needs
+3480,Computer Systems Analysts,"Read manuals, periodicals, and technical reports to learn how to develop programs that meet staff and user requirements.",0.95,pure reading and research
+3477,Computer Systems Analysts,"Develop, document, and revise system design procedures, test procedures, and quality standards.",0.90,documentation of design and test procedures
+3479,Computer Systems Analysts,Recommend new equipment or software packages.,0.85,recommending equipment or software
+3476,Computer Systems Analysts,Define the goals of the system and devise flow charts and diagrams describing logical operational steps of programs.,0.90,defining goals and diagramming logic
+3467,Computer Systems Analysts,Confer with clients regarding the nature of the information processing or computation needs a computer program is to address.,0.50,interviewing clients to gather requirements needs human rapport
+3478,Computer Systems Analysts,"Review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes.",0.90,reviewing output and correcting code
+3471,Computer Systems Analysts,"Interview or survey workers, observe job performance, or perform the job to determine what information is processed and how it is processed.",0.35,interviewing and observing workers on the job needs physical presence
+3481,Computer Systems Analysts,Supervise computer programmers or other systems analysts or serve as project leaders for particular systems projects.,0.35,supervising staff needs human accountability
+3483,Computer Systems Analysts,Prepare cost-benefit and return-on-investment analyses to aid in decisions on system implementation.,0.85,cost benefit analysis for decisions
+18090,Health Informatics Specialists,"Translate nursing practice information between nurses and systems engineers, analysts, or designers, using object-oriented models or other techniques.",0.75,translating information between technical and clinical staff
+18092,Health Informatics Specialists,Use informatics science to design or implement health information technology applications for resolution of clinical or health care administrative problems.,0.75,designing informatics applications is mostly info work
+18097,Health Informatics Specialists,"Develop or implement policies or practices to ensure the privacy, confidentiality, or security of patient information.",0.55,policy development is info work but enforcement needs authority
+18094,Health Informatics Specialists,"Analyze and interpret patient, nursing, or information systems data to improve nursing services.",0.85,analyzing patient and systems data
+18101,Health Informatics Specialists,"Identify, collect, record, or analyze data relevant to the nursing care of patients.",0.55,data analysis but collection may need clinical presence
+18096,Health Informatics Specialists,"Apply knowledge of computer science, information science, nursing, and informatics theory to nursing practice, education, administration, or research, in collaboration with other health informatics specialists.",0.65,applying informatics knowledge in collaboration with others
+18093,Health Informatics Specialists,"Develop, implement, or evaluate health information technology applications, tools, processes, or structures to assist nurses with data management.",0.75,developing and evaluating health IT tools
+18088,Health Informatics Specialists,"Design, develop, select, test, implement, and evaluate new or modified informatics solutions, data structures, and decision-support mechanisms to support patients, health care professionals, and their information management and human-computer and human-technology interactions within health care contexts.",0.75,designing informatics solutions and decision support
+18089,Health Informatics Specialists,"Disseminate information about nursing informatics science and practice to the profession, other health care professions, nursing students, and the public.",0.65,producing content though conferences need human presence
+18095,Health Informatics Specialists,"Analyze computer and information technologies to determine applicability to nursing practice, education, administration, and research.",0.85,analyzing applicability of technologies
+18100,Health Informatics Specialists,"Develop strategies, policies or procedures for introducing, evaluating, or modifying information technology applied to nursing practice, administration, education, or research.",0.75,developing strategies and policies for IT adoption
+18102,Health Informatics Specialists,"Read current literature, talk with colleagues, and participate in professional organizations or conferences to keep abreast of developments in informatics.",0.45,reading literature easy but colleague talks and conferences need presence
+18099,Health Informatics Specialists,"Develop or deliver training programs for health information technology, creating operating manuals as needed.",0.55,can develop materials but live training delivery needs human
+18098,Health Informatics Specialists,"Design, conduct, or provide support to nursing informatics research.",0.75,research design and analysis support
+18104,Health Informatics Specialists,"Inform local, state, national, and international health policies related to information management and communication, confidentiality and security, patient safety, infrastructure development, and economics.",0.45,producing policy analysis though influencing policymakers needs human credibility
+18103,Health Informatics Specialists,Provide consultation to nurses regarding hardware or software configuration.,0.75,remote consultation on configuration
+18091,Health Informatics Specialists,"Plan, install, repair, or troubleshoot telehealth technology applications or systems in homes.",0.30,installing and repairing telehealth systems in homes is physical
+5314,Information Security Analysts,"Develop plans to safeguard computer files against accidental or unauthorized modification, destruction, or disclosure and to meet emergency data processing needs.",0.85,developing security plans and policies
+5316,Information Security Analysts,Monitor current reports of computer viruses to determine when to update virus protection systems.,0.90,monitoring virus reports and updating protections
+5321,Information Security Analysts,Encrypt data transmissions and erect firewalls to conceal confidential information as it is being transmitted and to keep out tainted digital transfers.,0.90,technical encryption and firewall configuration
+5320,Information Security Analysts,Perform risk assessments and execute tests of data processing system to ensure functioning of data processing activities and security measures.,0.85,risk assessment and system testing
+5317,Information Security Analysts,"Modify computer security files to incorporate new software, correct errors, or change individual access status.",0.90,modifying security configuration files
+5323,Information Security Analysts,Review violations of computer security procedures and discuss procedures with violators to ensure violations are not repeated.,0.45,reviewing violations is info work but discussing with violators needs human
+5322,Information Security Analysts,"Document computer security and emergency measures policies, procedures, and tests.",0.90,documenting security policies and procedures
+5315,Information Security Analysts,"Confer with users to discuss issues such as computer data access needs, security violations, and programming changes.",0.50,conferring with users needs human interaction
+5319,Information Security Analysts,Monitor use of data files and regulate access to safeguard information in computer files.,0.85,monitoring and regulating data access
+5318,Information Security Analysts,Coordinate implementation of computer system plan with establishment personnel and outside vendors.,0.50,coordinating implementation with personnel and vendors needs human interaction
+5313,Information Security Analysts,Train users and promote security awareness to ensure system security and to improve server and network efficiency.,0.45,live training and awareness promotion needs human presence
+14623,Computer and Information Research Scientists,Analyze problems to develop solutions involving computer hardware and software.,0.85,analyzing and developing technical solutions
+14626,Computer and Information Research Scientists,"Apply theoretical expertise and innovation to create or apply new technology, such as adapting principles for applying computers to new uses.",0.75,research and applying new technology concepts
+14624,Computer and Information Research Scientists,Assign or schedule tasks to meet work priorities and goals.,0.55,scheduling tasks but assigning to staff needs organizational authority
+14628,Computer and Information Research Scientists,"Meet with managers, vendors, and others to solicit cooperation and resolve problems.",0.35,meetings to solicit cooperation need human negotiation
+14633,Computer and Information Research Scientists,Design computers and the software that runs them.,0.75,designing computer systems and software
+14629,Computer and Information Research Scientists,"Conduct logical analyses of business, scientific, engineering, and other technical problems, formulating mathematical models of problems for solution by computers.",0.90,logical analysis and mathematical modeling
+14625,Computer and Information Research Scientists,Evaluate project plans and proposals to assess feasibility issues.,0.85,evaluating project plans for feasibility
+14635,Computer and Information Research Scientists,"Participate in multidisciplinary projects in areas such as virtual reality, human-computer interaction, or robotics.",0.65,contributing analysis and code to multidisciplinary projects
+14627,Computer and Information Research Scientists,"Consult with users, management, vendors, and technicians to determine computing needs and system requirements.",0.50,consulting with stakeholders needs human interaction

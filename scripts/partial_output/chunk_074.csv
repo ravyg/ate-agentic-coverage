@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+5937,"Physics Teachers, Postsecondary",Participate in campus and community events.,0.10,requires physical presence at events
+5934,"Physics Teachers, Postsecondary",Act as advisers to student organizations.,0.15,requires ongoing in person mentorship
+5935,"Physics Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.30,needs professional trust and accountability
+5949,"Anthropology and Archeology Teachers, Postsecondary","Advise students on academic and vocational curricula, career issues, and laboratory and field research.",0.35,needs live advising relationship with student
+5942,"Anthropology and Archeology Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.25,needs live presence to facilitate discussion
+5940,"Anthropology and Archeology Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as research methods, urban anthropology, and language and culture.",0.30,can draft content but delivery needs presence
+5939,"Anthropology and Archeology Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.40,reading is easy but conferences need presence
+5941,"Anthropology and Archeology Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",0.85,text based grading agent can do well
+5945,"Anthropology and Archeology Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,pure content drafting task
+20076,"Anthropology and Archeology Teachers, Postsecondary","Conduct research in a particular field of knowledge and present findings in professional journals, books, electronic media, or at professional conferences.",0.35,research and publication need human authorship
+5947,"Anthropology and Archeology Teachers, Postsecondary",Supervise students' laboratory or field work.,0.10,requires physical presence for safety oversight
+21118,"Anthropology and Archeology Teachers, Postsecondary",Conduct ethnographic field research.,0.10,requires physical presence and human rapport
+5944,"Anthropology and Archeology Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.20,supervisory authority over people
+5951,"Anthropology and Archeology Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.25,needs live availability to students
+5948,"Anthropology and Archeology Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, and course materials and methods of instruction.",0.55,drafting ok but approval needs human authority
+5950,"Anthropology and Archeology Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,pure data record keeping task
+20077,"Anthropology and Archeology Teachers, Postsecondary",Write grant proposals to procure external research funding and review others' grant proposals.,0.65,grant writing is mostly text drafting
+5946,"Anthropology and Archeology Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.55,grading text ok but proctoring needs presence
+24005,"Anthropology and Archeology Teachers, Postsecondary",Hire new faculty.,0.15,hiring needs human judgment and authority
+5955,"Anthropology and Archeology Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks and laboratory equipment.",0.55,selecting ok but equipment procurement needs coordination
+5952,"Anthropology and Archeology Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.30,real collaboration needs human interaction
+5957,"Anthropology and Archeology Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.25,needs in person recruiting interaction
+21117,"Anthropology and Archeology Teachers, Postsecondary",Write letters of recommendation for students.,0.30,needs personal authority of the recommender
+20078,"Anthropology and Archeology Teachers, Postsecondary",Review manuscripts for publication in books and professional journals.,0.65,text based peer review agent can do
+5958,"Anthropology and Archeology Teachers, Postsecondary",Participate in campus and community events.,0.10,requires physical presence at events
+5956,"Anthropology and Archeology Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional membership and voting
+5954,"Anthropology and Archeology Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,needs institutional authority and accountability
+5960,"Anthropology and Archeology Teachers, Postsecondary",Act as advisers to student organizations.,0.15,requires ongoing in person mentorship
+5953,"Anthropology and Archeology Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,pure literature search task
+5959,"Anthropology and Archeology Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.30,needs professional trust and accountability
+5966,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.25,needs live presence to facilitate discussion
+5963,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",0.85,text based grading agent can do well
+5965,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as race and ethnic relations, gender studies, and cross-cultural perspectives.",0.30,can draft content but delivery needs presence
+5964,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,pure content drafting task
+5967,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.55,grading text ok but proctoring needs presence
+5961,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.40,reading is easy but conferences need presence
+5969,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",0.55,drafting ok but approval needs human authority
+5962,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.35,research and publication need human authorship
+5968,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.25,needs live availability to students
+5970,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,pure data record keeping task
+5973,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.30,real collaboration needs human interaction
+5971,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Advise students on academic and vocational curricula, and on career issues.",0.35,needs live advising relationship with student
+5974,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",0.65,selecting and ordering supplies mostly doable
+5982,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,needs institutional authority and accountability
+5975,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional membership and voting
+5972,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.20,supervisory authority over people
+5976,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,pure literature search task
+5977,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.65,grant writing is mostly text drafting
+20079,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Participate in campus and community events, such as giving public lectures about research.",0.10,requires physical presence at events
+5981,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",Incorporate experiential or site visit components into courses.,0.40,planning ok but site visits need presence
+5979,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.25,needs in person recruiting interaction
+5980,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",Act as advisers to student organizations.,0.15,requires ongoing in person mentorship
+5983,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.30,needs professional trust and accountability
+5984,"Economics Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as econometrics, price theory, and macroeconomics.",0.30,can draft content but delivery needs presence
+5985,"Economics Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,pure content drafting task
+5994,"Economics Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.35,research and publication need human authorship
+5988,"Economics Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.40,reading is easy but conferences need presence
+5986,"Economics Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",0.85,text based grading agent can do well
+5993,"Economics Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",0.55,drafting ok but approval needs human authority
+5987,"Economics Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.55,grading text ok but proctoring needs presence
+5989,"Economics Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,pure data record keeping task
+5990,"Economics Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.25,needs live presence to facilitate discussion
+5995,"Economics Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.20,supervisory authority over people
+5991,"Economics Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.25,needs live availability to students
+5996,"Economics Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.35,needs live advising relationship with student
+5998,"Economics Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.30,real collaboration needs human interaction
+5992,"Economics Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",0.65,selecting and ordering supplies mostly doable
+6001,"Economics Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,needs institutional authority and accountability
+6000,"Economics Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.25,needs in person recruiting interaction
+5999,"Economics Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,pure literature search task
+5997,"Economics Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional membership and voting
+6002,"Economics Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.65,grant writing is mostly text drafting
+6004,"Economics Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.30,needs professional trust and accountability
+6003,"Economics Teachers, Postsecondary",Participate in campus and community events.,0.10,requires physical presence at events
+6005,"Economics Teachers, Postsecondary",Act as advisers to student organizations.,0.15,requires ongoing in person mentorship
+6011,"Geography Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,pure content drafting task
+6006,"Geography Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as urbanization, environmental systems, and cultural geography.",0.30,can draft content but delivery needs presence
+6017,"Geography Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.35,research and publication need human authorship
+6007,"Geography Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",0.85,text based grading agent can do well
+6008,"Geography Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.55,grading text ok but proctoring needs presence
+6012,"Geography Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.40,reading is easy but conferences need presence
+6009,"Geography Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.25,needs live presence to facilitate discussion
+6010,"Geography Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,pure data record keeping task
+6013,"Geography Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.20,supervisory authority over people
+6014,"Geography Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",0.55,drafting ok but approval needs human authority
+6015,"Geography Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.25,needs live availability to students
+6016,"Geography Teachers, Postsecondary",Supervise students' laboratory and field work.,0.10,requires physical presence for safety oversight
+6021,"Geography Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional membership and voting
+6020,"Geography Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.35,needs live advising relationship with student
+6018,"Geography Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.30,real collaboration needs human interaction
+6028,"Geography Teachers, Postsecondary",Perform spatial analysis and modeling using geographic information system techniques.,0.85,software based analysis task
+6026,"Geography Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.65,grant writing is mostly text drafting
+6022,"Geography Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.25,needs in person recruiting interaction
+6019,"Geography Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",0.65,selecting and ordering supplies mostly doable
+6025,"Geography Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,needs institutional authority and accountability
+6027,"Geography Teachers, Postsecondary","Maintain geographic information systems laboratories, performing duties such as updating software.",0.35,software update ok but lab upkeep needs presence
+6023,"Geography Teachers, Postsecondary",Participate in campus and community events.,0.10,requires physical presence at events
+6024,"Geography Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,pure literature search task
+6030,"Geography Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.30,needs professional trust and accountability
+6029,"Geography Teachers, Postsecondary",Act as advisers to student organizations.,0.15,requires ongoing in person mentorship
+6032,"Political Science Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as classical political thought, international relations, and democracy and citizenship.",0.30,can draft content but delivery needs presence
+6036,"Political Science Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.40,reading is easy but conferences need presence
+6033,"Political Science Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",0.85,text based grading agent can do well
+6031,"Political Science Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.25,needs live presence to facilitate discussion
+6037,"Political Science Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",0.55,drafting ok but approval needs human authority
+6042,"Political Science Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.35,research and publication need human authorship
+6034,"Political Science Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.55,grading text ok but proctoring needs presence
+6035,"Political Science Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,pure content drafting task
+6043,"Political Science Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.20,supervisory authority over people
+6038,"Political Science Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,pure data record keeping task
+6039,"Political Science Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.25,needs live availability to students
+6040,"Political Science Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.35,needs live advising relationship with student
+6041,"Political Science Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",0.65,selecting and ordering supplies mostly doable
+6044,"Political Science Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.30,real collaboration needs human interaction
+6050,"Political Science Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,needs institutional authority and accountability
+6045,"Political Science Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional membership and voting
+6048,"Political Science Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,pure literature search task
+6047,"Political Science Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.25,needs in person recruiting interaction
+6049,"Political Science Teachers, Postsecondary",Act as advisers to student organizations.,0.15,requires ongoing in person mentorship
+6051,"Political Science Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.65,grant writing is mostly text drafting
+6046,"Political Science Teachers, Postsecondary",Participate in campus and community events.,0.10,requires physical presence at events
+6052,"Political Science Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.30,needs professional trust and accountability
+6053,"Psychology Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as abnormal psychology, cognitive processes, and work motivation.",0.30,can draft content but delivery needs presence
+6055,"Psychology Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.25,needs live presence to facilitate discussion
+6054,"Psychology Teachers, Postsecondary","Evaluate and grade students' class work, laboratory work, assignments, and papers.",0.85,text based grading agent can do well
+6057,"Psychology Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.40,reading is easy but conferences need presence
+6056,"Psychology Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.55,grading text ok but proctoring needs presence
+6058,"Psychology Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,pure content drafting task
+6061,"Psychology Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.20,supervisory authority over people
+21119,"Psychology Teachers, Postsecondary",Recruit and hire new faculty.,0.15,hiring needs human judgment and authority

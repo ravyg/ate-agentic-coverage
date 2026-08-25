@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+11048,"Poets, Lyricists and Creative Writers","Plan project arrangements or outlines, and organize material accordingly.",0.95,outline planning is pure text work
+11050,"Poets, Lyricists and Creative Writers",Follow appropriate procedures to get copyrights for completed work.,0.50,copyright filing needs author legal certification
+11056,"Poets, Lyricists and Creative Writers","Attend book launches and publicity events, or conduct public readings.",0.05,requires physical presence at events
+11055,"Poets, Lyricists and Creative Writers","Write narrative, dramatic, lyric, or other types of poetry for publication.",0.95,pure creative writing
+11057,"Poets, Lyricists and Creative Writers","Write words to fit musical compositions, including lyrics for operas, musical plays, and choral works.",0.90,creative lyric writing
+11058,"Poets, Lyricists and Creative Writers",Adapt text to accommodate musical requirements of composers and singers.,0.80,text adaptation with composer feedback
+11060,"Poets, Lyricists and Creative Writers","Write humorous material for publication, or for performances such as comedy routines, gags, and comedy shows.",0.90,comedic writing for publication
+11059,"Poets, Lyricists and Creative Writers",Teach writing classes.,0.40,requires live classroom teaching
+11061,"Poets, Lyricists and Creative Writers",Collaborate with other writers on specific projects.,0.75,text based writer collaboration
+9326,Interpreters and Translators,Follow ethical codes that protect the confidentiality of information.,0.85,confidentiality adherence is agent behavior
+9328,Interpreters and Translators,"Translate messages simultaneously or consecutively into specified languages, orally or by using hand signs, maintaining message content, context, and style as much as possible.",0.70,live oral translation feasible no body for signing
+9335,Interpreters and Translators,"Listen to speakers' statements to determine meanings and to prepare translations, using electronic listening systems as necessary.",0.90,audio processing and translation
+9333,Interpreters and Translators,"Compile terminology and information to be used in translations, including technical terms such as those for legal or medical material.",0.95,terminology research and compilation
+9332,Interpreters and Translators,"Refer to reference materials, such as dictionaries, lexicons, encyclopedias, and computerized terminology banks, as needed to ensure translation accuracy.",0.95,reference lookup pure info task
+9330,Interpreters and Translators,Check translations of technical terms and terminology to ensure that they are accurate and remain consistent throughout translation revisions.,0.90,text QC of terminology
+9327,Interpreters and Translators,"Identify and resolve conflicts related to the meanings of words, concepts, practices, or behaviors.",0.80,interpretive text analysis
+9337,Interpreters and Translators,Compile information on content and context of information to be translated and on intended audience.,0.90,research and compile context info
+9334,Interpreters and Translators,"Adapt translations to students' cognitive and grade levels, collaborating with educational team members as necessary.",0.75,text adaptation with team collaboration
+9336,Interpreters and Translators,"Check original texts or confer with authors to ensure that translations retain the content, meaning, and feeling of the original material.",0.70,conferring with authors via text feasible
+9339,Interpreters and Translators,Adapt software and accompanying technical documents to another language and culture.,0.90,software localization pure text task
+9340,Interpreters and Translators,"Educate students, parents, staff, and teachers about the roles and functions of educational interpreters.",0.40,requires live interpersonal education
+9329,Interpreters and Translators,"Proofread, edit, and revise translated materials.",0.95,pure text proofreading
+9341,Interpreters and Translators,Train and supervise other translators or interpreters.,0.35,supervisory authority over human staff
+9331,Interpreters and Translators,"Read written materials, such as legal documents, scientific works, or news reports, and rewrite material into specified languages.",0.95,pure text translation
+9342,Interpreters and Translators,Travel with or guide tourists who speak another language.,0.05,requires physical travel and presence
+9338,Interpreters and Translators,Discuss translation requirements with clients and determine any fees to be charged for services provided.,0.55,client negotiation and fee discussion
+8655,Court Reporters and Simultaneous Captioners,"Record verbatim proceedings of courts, legislative assemblies, committee meetings, and other proceedings, using computerized recording equipment, electronic stenograph machines, or stenomasks.",0.10,requires physical courtroom presence
+21183,Court Reporters and Simultaneous Captioners,Proofread transcripts for correct spelling of words.,0.95,pure text proofreading
+8657,Court Reporters and Simultaneous Captioners,Ask speakers to clarify inaudible statements.,0.15,requires live presence in proceeding
+8654,Court Reporters and Simultaneous Captioners,"Provide transcripts of proceedings upon request of judges, lawyers, or the public.",0.50,may require certified transcript delivery
+8656,Court Reporters and Simultaneous Captioners,Transcribe recorded proceedings in accordance with established formats.,0.85,transcription automatable via ASR
+21184,Court Reporters and Simultaneous Captioners,Log and store exhibits from court proceedings.,0.10,physical handling of exhibits
+8659,Court Reporters and Simultaneous Captioners,File and store shorthand notes of court session.,0.30,mostly physical filing of notes
+8658,Court Reporters and Simultaneous Captioners,File a legible transcript of records of a court case with the court clerk's office.,0.35,requires official certified court filing
+8662,Court Reporters and Simultaneous Captioners,Verify accuracy of transcripts by checking copies against original records of proceedings and accuracy of rulings by checking with judges.,0.55,requires checking accuracy with judges
+8660,Court Reporters and Simultaneous Captioners,Respond to requests during court sessions to read portions of the proceedings already recorded.,0.10,requires live courtroom presence
+8663,Court Reporters and Simultaneous Captioners,Record symbols on computer storage media and use computer aided transcription to translate and display them as text.,0.55,partial automation of computer transcription
+8653,Court Reporters and Simultaneous Captioners,Take notes in shorthand or use a stenotype or shorthand machine that prints letters on a paper tape.,0.05,requires physical stenotype presence
+21185,Court Reporters and Simultaneous Captioners,Type court orders for judges.,0.75,typing given judge's dictated content
+8661,Court Reporters and Simultaneous Captioners,Record depositions and other proceedings for attorneys.,0.10,requires physical presence at depositions
+3980,Audio and Video Technicians,Notify supervisors when major equipment repairs are needed.,0.50,notification automatable inspection is physical
+18650,Audio and Video Technicians,Diagnose and resolve media system problems.,0.45,mix of remote diagnosis and physical repair
+3993,Audio and Video Technicians,Direct and coordinate activities of assistants and other personnel during production.,0.35,live on-site personnel coordination
+3990,Audio and Video Technicians,"Compress, digitize, duplicate, and store audio and video data.",0.90,pure digital file processing
+18649,Audio and Video Technicians,"Install, adjust, and operate electronic equipment to record, edit, and transmit radio and television programs, motion pictures, video conferencing, or multimedia presentations.",0.30,physical equipment installation and adjustment
+4002,Audio and Video Technicians,"Control the lights and sound of events, such as live concerts, before and after performances, and during intermissions.",0.30,on-site live event control
+3987,Audio and Video Technicians,"Switch sources of video input from one camera or studio to another, from film to live programming, or from network to local programming.",0.55,video switching automatable via software
+3997,Audio and Video Technicians,"Record and edit audio material, such as movie soundtracks, using audio recording and editing equipment.",0.60,editing digital recording needs physical setup
+3985,Audio and Video Technicians,Perform minor repairs and routine cleaning of audio and video equipment.,0.05,physical repair and cleaning
+3984,Audio and Video Technicians,Design layouts of audio and video equipment and perform upgrades and maintenance.,0.30,design remote feasible maintenance physical
+4003,Audio and Video Technicians,"Conduct training sessions on selection, use, and design of audio-visual materials and on operation of presentation equipment.",0.35,live hands on training
+3981,Audio and Video Technicians,Monitor incoming and outgoing pictures and sound feeds to ensure quality and notify directors of any possible problems.,0.70,signal monitoring and automated alerts
+3982,Audio and Video Technicians,Mix and regulate sound inputs and feeds or coordinate audio feeds with television pictures.,0.55,software mixing feasible for live audio
+3989,Audio and Video Technicians,"Construct and position properties, sets, lighting equipment, and other equipment.",0.05,physical construction of sets
+18651,Audio and Video Technicians,"Reserve audio-visual equipment and facilities, such as meeting rooms.",0.90,pure booking and reservation task
+3996,Audio and Video Technicians,"Determine formats, approaches, content, levels, and mediums to effectively meet objectives within budgetary constraints, using research, knowledge, and training.",0.85,planning and research task
+3992,Audio and Video Technicians,Edit videotapes by erasing and removing portions of programs and adding video or sound as required.,0.85,pure digital video editing
+3991,Audio and Video Technicians,"Obtain, set up, and load videotapes for scheduled productions or broadcasts.",0.10,physical tape handling
+4000,Audio and Video Technicians,Produce rough and finished graphics and graphic designs.,0.85,digital graphic design
+4001,Audio and Video Technicians,"Locate and secure settings, properties, effects, and other production necessities.",0.25,physical location scouting and securing props
+3988,Audio and Video Technicians,"Meet with directors and senior members of camera crews to discuss assignments and determine filming sequences, camera movements, and picture composition.",0.55,live creative discussion via comms feasible
+3995,Audio and Video Technicians,Maintain inventories of audio and videotapes and related supplies.,0.70,mostly digital inventory tracking
+3999,Audio and Video Technicians,Obtain and preview musical performance programs prior to events to become familiar with the order and approximate times of pieces.,0.85,pure info review task
+4006,Audio and Video Technicians,Perform narration of productions or present announcements.,0.85,voice synthesis narration
+3994,Audio and Video Technicians,"Plan and develop pre-production ideas into outlines, scripts, story boards, and graphics, using own ideas or specifications of assignments.",0.90,creative planning and scripting
+4004,Audio and Video Technicians,"Organize and maintain compliance, license, and warranty information related to audio and video facilities.",0.85,administrative record keeping
+3998,Audio and Video Technicians,Inform users of audio and videotaping service policies and procedures.,0.85,policy communication via text or chat
+18652,Audio and Video Technicians,Analyze and maintain data logs for audio-visual activities.,0.90,pure data log analysis
+4005,Audio and Video Technicians,"Develop manuals, texts, workbooks, or related materials for use in conjunction with production materials or for training.",0.90,pure writing task
+4014,Broadcast Technicians,"Report equipment problems, ensure that repairs are made, and make emergency repairs to equipment when necessary and possible.",0.25,reporting automatable repairs are physical
+18653,Broadcast Technicians,Monitor and log transmitter readings.,0.85,automatable sensor monitoring and logging
+4007,Broadcast Technicians,Maintain programming logs as required by station management and the Federal Communications Commission.,0.90,pure record keeping task
+4009,Broadcast Technicians,"Monitor strength, clarity, and reliability of incoming and outgoing signals, and adjust equipment as necessary to maintain quality broadcasts.",0.60,monitoring automatable adjustment partly remote
+4011,Broadcast Technicians,Observe monitors and converse with station personnel to determine audio and video levels and to ascertain that programs are airing.,0.65,monitoring and remote coordination feasible
+4012,Broadcast Technicians,Preview scheduled programs to ensure that signals are functioning and programs are ready for transmission.,0.75,automatable signal quality check
+18654,Broadcast Technicians,"Play and record broadcast programs, using automation systems.",0.85,automation system operation
+18655,Broadcast Technicians,"Set up, operate, and maintain broadcast station computers and networks.",0.60,network admin remote feasible some physical setup
+4013,Broadcast Technicians,Select sources from which programming will be received or through which programming will be transmitted.,0.70,rule based source selection
+18656,Broadcast Technicians,"Install broadcast equipment, troubleshoot equipment problems, and perform maintenance or minor repairs, using hand tools.",0.10,physical install and repair with hand tools
+4017,Broadcast Technicians,Substitute programs in cases where signals fail.,0.60,automatable failover with monitoring
+4008,Broadcast Technicians,Control audio equipment to regulate volume and sound quality during radio and television broadcasts.,0.45,real time on site audio control
+4026,Broadcast Technicians,Design and modify equipment to employer specifications.,0.30,design feasible modification is physical
+4015,Broadcast Technicians,"Record sound onto tape or film for radio or television, checking its quality and making adjustments where necessary.",0.35,physical recording process
+4021,Broadcast Technicians,Schedule programming or read television programming logs to determine which programs are to be recorded or aired.,0.85,scheduling and log reading pure data task
+4022,Broadcast Technicians,"Edit broadcast material electronically, using computers.",0.85,pure digital editing
+18658,Broadcast Technicians,Develop employee work schedules.,0.75,schedule drafting though approval by human
+4020,Broadcast Technicians,"Instruct trainees in use of television production equipment, filming of events, and copying and editing graphics or sound onto videotape.",0.30,hands on live training
+4016,Broadcast Technicians,Align antennae with receiving dishes to obtain the clearest signal for transmission of broadcasts from field locations.,0.05,physical antenna alignment
+4010,Broadcast Technicians,"Regulate the fidelity, brightness, and contrast of video transmissions, using video console control panels.",0.55,software console control feasible remotely
+18657,Broadcast Technicians,Make commercial dubs.,0.85,pure digital duplication
+4025,Broadcast Technicians,"Determine the number, type, and approximate location of microphones needed for best sound recording or transmission quality, and position them appropriately.",0.35,determination feasible positioning physical
+4018,Broadcast Technicians,"Organize recording sessions and prepare areas, such as radio booths and television stations, for recording.",0.35,scheduling feasible prep of area physical
+4024,Broadcast Technicians,Set up and operate portable field transmission equipment outside the studio.,0.10,physical field equipment setup
+4023,Broadcast Technicians,Give technical directions to other personnel during filming.,0.35,live on site direction of personnel
+4027,Broadcast Technicians,"Prepare reports outlining past and future programs, including content.",0.90,pure report writing
+4028,Broadcast Technicians,Discuss production requirements with clients.,0.60,client discussion via chat feasible
+7720,Sound Engineering Technicians,"Confer with producers, performers, and others to determine and achieve the desired sound for a production, such as a musical recording or a film.",0.55,live collaborative discussion on sound design
+7722,Sound Engineering Technicians,"Regulate volume level and sound quality during recording sessions, using control consoles.",0.50,real time console operation feasible with software
+7727,Sound Engineering Technicians,"Record speech, music, and other sounds on recording media, using recording equipment.",0.35,physical mic placement and live recording
+7729,Sound Engineering Technicians,"Separate instruments, vocals, and other sounds, and combine sounds during the mixing or postproduction stage.",0.80,digital audio separation and mixing
+18662,Sound Engineering Technicians,"Set up, test, and adjust recording equipment for recording sessions and live performances.",0.15,physical equipment setup
+7724,Sound Engineering Technicians,Report equipment problems and ensure that required repairs are made.,0.55,reporting automatable coordination for repairs
+7723,Sound Engineering Technicians,Prepare for recording sessions by performing such activities as selecting and setting up microphones.,0.15,physical microphone setup
+7725,Sound Engineering Technicians,"Mix and edit voices, music, and taped sound effects for live performances and for prerecorded events, using sound mixing boards.",0.60,postproduction mixing digital live mixing harder
+7730,Sound Engineering Technicians,Keep logs of recordings.,0.90,pure data logging
+18660,Sound Engineering Technicians,Tear down equipment after event completion.,0.00,physical equipment teardown
+7726,Sound Engineering Technicians,"Synchronize and equalize prerecorded dialogue, music, and sound effects with visual action of motion pictures or television productions, using control consoles.",0.75,digital audio sync postproduction
+7728,Sound Engineering Technicians,"Reproduce and duplicate sound recordings from original recording media, using sound editing and duplication equipment.",0.85,digital duplication automatable
+18661,Sound Engineering Technicians,Convert video and audio recordings into digital formats for editing or archiving.,0.90,pure digital format conversion
+7731,Sound Engineering Technicians,"Create musical instrument digital interface programs for music projects, commercials, or film postproduction.",0.80,digital MIDI composition task
+22673,Lighting Technicians,Assess safety of wiring or equipment set-up to determine the risk of fire or electrical shock.,0.15,requires physical safety inspection
+22674,Lighting Technicians,Consult with lighting director or production staff to determine lighting requirements.,0.50,live consultation via chat feasible
+22675,Lighting Technicians,Disassemble and store equipment after performances.,0.00,physical equipment teardown
+22676,Lighting Technicians,"Install color effects or image patterns, such as color filters, onto lighting fixtures.",0.05,physical fixture installation
+22677,Lighting Technicians,Install electrical cables or wire fixtures.,0.00,physical electrical wiring licensed work
+22678,Lighting Technicians,"Load, unload, or position lighting equipment.",0.00,physical equipment handling
+22679,Lighting Technicians,"Match light fixture settings, such as brightness and color, to lighting design plans.",0.50,software control of digital lighting feasible
+22680,Lighting Technicians,Notify supervisors when major lighting equipment repairs are needed.,0.40,notification automatable detection physical
+22681,Lighting Technicians,Operate manual or automated systems to control lighting throughout productions.,0.45,automated system operable manual requires presence
+22682,Lighting Technicians,Patch or wire lights to dimmers or other electronic consoles.,0.05,physical wiring task
+22683,Lighting Technicians,"Perform minor repairs or routine maintenance on lighting equipment, such as replacing lamps or damaged color filters.",0.05,physical repair and maintenance
+22684,Lighting Technicians,Program lighting consoles or load automated lighting control systems onto consoles.,0.75,software programming of lighting consoles
+22685,Lighting Technicians,"Set up and focus light fixtures to meet requirements of television, theater, concerts, or other productions.",0.05,physical fixture setup and focus
+22686,Lighting Technicians,Set up scaffolding or cranes to assist with setting up of lighting equipment.,0.00,physical scaffolding and crane setup
+22687,Lighting Technicians,Test lighting equipment function and desired lighting effects.,0.25,testing partly automatable mostly on site
+22688,Lighting Technicians,Visit and assess structural and electrical layout of locations before setting up lighting equipment.,0.05,requires physical site visit
+9344,Photographers,"Adjust apertures, shutter speeds, and camera focus according to a combination of factors, such as lighting, field depth, subject motion, film type, and film speed.",0.15,physical camera operation on site
+9346,Photographers,"Create artificial light, using flashes and reflectors.",0.05,physical lighting equipment setup
+9347,Photographers,"Determine desired images and picture composition, selecting and adjusting subjects, equipment, and lighting to achieve desired effects.",0.10,requires physical presence at shoot
+20558,Photographers,"Transfer photographs to computers for editing, archiving, and electronic transmission.",0.90,pure digital file transfer

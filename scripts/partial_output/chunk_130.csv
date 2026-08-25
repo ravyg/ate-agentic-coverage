@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+14258,Furniture Finishers,"Recommend woods, colors, finishes, and furniture styles, using knowledge of wood products, fashions, and styles.",0.90,advisory recommendation from knowledge
+14262,Furniture Finishers,Wash surfaces to prepare them for finish application.,0.00,physical surface prep
+14260,Furniture Finishers,Follow blueprints to produce specific designs.,0.05,physical fabrication from blueprints
+14257,Furniture Finishers,"Paint metal surfaces electrostatically, or by using a spray gun or other painting equipment.",0.00,physical spray painting
+14266,Furniture Finishers,"Replace or refurbish upholstery of items, using tacks, adhesives, softeners, solvents, stains, or polish.",0.00,physical upholstery work
+14269,Furniture Finishers,"Design, create, and decorate entire pieces or specific parts of furniture, such as draws for cabinets.",0.10,mostly physical creation and decoration
+14271,Furniture Finishers,Spread graining ink over metal portions of furniture to simulate wood-grain finish.,0.00,physical finishing application
+14270,Furniture Finishers,Brush bleaching agents on wood surfaces to restore natural color.,0.00,physical bleaching application
+14273,"Model Makers, Wood","Read blueprints, drawings, or written specifications, and consult with designers to determine sizes and shapes of patterns and required machine setups.",0.55,spec reading feasible consult needs human rapport
+14275,"Model Makers, Wood","Fit, fasten, and assemble wood parts together to form patterns, models, or sections, using glue, nails, dowels, bolts, screws, and other fasteners.",0.00,physical assembly
+14272,"Model Makers, Wood","Verify dimensions and contours of models during hand-forming processes, using templates and measuring devices.",0.00,physical measurement during hand-forming
+14276,"Model Makers, Wood","Trim, smooth, and shape surfaces, and plane, shave, file, scrape, and sand models to attain specified shapes, using hand tools.",0.00,physical shaping with hand tools
+14280,"Model Makers, Wood","Plan, lay out, and draw outlines of units, sectional patterns, or full-scale mock-ups of products.",0.35,drafting feasible full-scale layout is physical
+14278,"Model Makers, Wood","Construct wooden models, patterns, templates, full scale mock-ups, and molds for parts of products and production tools.",0.00,physical construction of models
+14277,"Model Makers, Wood","Select wooden stock, determine layouts, and mark layouts of parts on stock, using precision equipment such as scribers, squares, and protractors.",0.00,physical marking on stock
+14279,"Model Makers, Wood","Mark identifying information on patterns, parts, and templates to indicate assembly methods and details.",0.05,physical marking of parts
+14274,"Model Makers, Wood","Set up, operate, and adjust a variety of woodworking machines such as bandsaws and planers to cut and shape sections, parts, and patterns, according to specifications.",0.00,physical machine operation
+14282,"Model Makers, Wood",Maintain pattern records for reference.,0.85,digital recordkeeping
+14283,"Model Makers, Wood",Build jigs that can be used as guides for assembling oversized or special types of box shooks.,0.00,physical jig building
+14284,"Model Makers, Wood",Issue patterns to designated machine operators.,0.15,mostly physical handoff of patterns
+14281,"Model Makers, Wood",Fabricate work aids such as scrapers or templates.,0.00,physical fabrication of tools
+14285,"Model Makers, Wood","Finish patterns or models with protective or decorative coatings such as shellac, lacquer, or wax.",0.00,physical coating application
+12230,"Patternmakers, Wood","Read blueprints, drawings, or written specifications to determine sizes and shapes of patterns and required machine setups.",0.65,spec interpretation and calculation from blueprints
+12235,"Patternmakers, Wood","Fit, fasten, and assemble wood parts together to form patterns, models, or sections, using glue, nails, dowels, bolts, and screws.",0.00,physical assembly
+12231,"Patternmakers, Wood","Lay out patterns on wood stock and draw outlines of units, sectional patterns, or full-scale mock-ups of products, based on blueprint specifications and sketches, and using marking and measuring devices.",0.05,physical layout on wood stock
+12234,"Patternmakers, Wood","Trim, smooth, and shape surfaces, and plane, shave, file, scrape, and sand models to attain specified shapes, using hand tools.",0.00,physical shaping with hand tools
+12247,"Patternmakers, Wood",Divide patterns into sections according to shapes of castings to facilitate removal of patterns from molds.,0.10,mostly physical division of patterns
+12232,"Patternmakers, Wood","Verify dimensions of completed patterns, using templates, straightedges, calipers, or protractors.",0.00,physical measurement with instruments
+12236,"Patternmakers, Wood",Correct patterns to compensate for defects in castings.,0.05,physical correction of patterns
+12233,"Patternmakers, Wood","Set up, operate, and adjust a variety of woodworking machines such as bandsaws and lathes to cut and shape sections, parts, and patterns, according to specifications.",0.00,physical machine operation
+12240,"Patternmakers, Wood","Finish completed products or models with shellac, lacquer, wax, or paint.",0.00,physical finishing application
+12246,"Patternmakers, Wood",Estimate costs for patternmaking jobs.,0.85,cost estimation from data
+12239,"Patternmakers, Wood","Mark identifying information such as colors or codes on patterns, parts, and templates to indicate assembly methods.",0.05,physical marking of parts
+12243,"Patternmakers, Wood",Repair broken or damaged patterns.,0.00,physical repair
+12244,"Patternmakers, Wood",Maintain pattern records for reference.,0.85,digital recordkeeping
+12241,"Patternmakers, Wood",Glue fillets along interior angles of patterns.,0.00,physical gluing
+12237,"Patternmakers, Wood","Construct wooden models, templates, full scale mock-ups, jigs, or molds for shaping parts of products.",0.00,physical construction of models
+12238,"Patternmakers, Wood","Compute dimensions, areas, volumes, and weights.",0.95,pure calculation
+12242,"Patternmakers, Wood",Select lumber to be used for patterns.,0.10,physical material selection and inspection
+12249,"Patternmakers, Wood",Collect and store patterns and lumber.,0.00,physical collection and storage
+12245,"Patternmakers, Wood","Inventory equipment and supplies, ordering parts and tools as necessary.",0.50,digital inventory tracking physical counting needs human
+12248,"Patternmakers, Wood",Issue patterns to designated machine operators.,0.15,mostly physical handoff of patterns
+12251,"Sawing Machine Setters, Operators, and Tenders, Wood","Inspect and measure workpieces to mark for cuts and to verify the accuracy of cuts, using rulers, squares, or caliper rules.",0.00,physical measurement of workpieces
+12250,"Sawing Machine Setters, Operators, and Tenders, Wood","Adjust saw blades, using wrenches and rulers, or by turning handwheels or pressing pedals, levers, or panel buttons.",0.00,physical blade adjustment
+12256,"Sawing Machine Setters, Operators, and Tenders, Wood",Mount and bolt sawing blades or attachments to machine shafts.,0.00,physical mounting of blades
+12253,"Sawing Machine Setters, Operators, and Tenders, Wood","Set up, operate, or tend saws or machines that cut or trim wood to specified dimensions, such as circular saws, band saws, multiple-blade sawing machines, scroll saws, ripsaws, or crozer machines.",0.00,physical machine operation
+12254,"Sawing Machine Setters, Operators, and Tenders, Wood",Inspect stock for imperfections or to estimate grades or qualities of stock or workpieces.,0.05,physical inspection of stock
+12257,"Sawing Machine Setters, Operators, and Tenders, Wood","Monitor sawing machines, adjusting speed and tension and clearing jams to ensure proper operation.",0.00,physical machine monitoring and jam clearing
+12261,"Sawing Machine Setters, Operators, and Tenders, Wood","Sharpen blades, or replace defective or worn blades or bands, using hand tools.",0.00,physical blade sharpening
+12259,"Sawing Machine Setters, Operators, and Tenders, Wood","Guide workpieces against saws, saw over workpieces by hand, or operate automatic feeding devices to guide cuts.",0.00,physical guiding of workpieces
+12264,"Sawing Machine Setters, Operators, and Tenders, Wood","Clear machine jams, using hand tools.",0.00,physical jam clearing
+12263,"Sawing Machine Setters, Operators, and Tenders, Wood","Lubricate or clean machines, using wrenches, grease guns, or solvents.",0.00,physical lubrication and cleaning
+12260,"Sawing Machine Setters, Operators, and Tenders, Wood","Adjust bolts, clamps, stops, guides, or table angles or heights, using hand tools.",0.00,physical adjustment with hand tools
+12252,"Sawing Machine Setters, Operators, and Tenders, Wood",Examine logs or lumber to plan the best cuts.,0.10,physical examination of logs though planning could be assisted
+12269,"Sawing Machine Setters, Operators, and Tenders, Wood","Trim lumber to straighten rough edges or remove defects, using circular saws.",0.00,physical trimming
+12262,"Sawing Machine Setters, Operators, and Tenders, Wood","Count, sort, or stack finished workpieces.",0.00,physical sorting and stacking
+12270,"Sawing Machine Setters, Operators, and Tenders, Wood","Position and clamp stock on tables, conveyors, or carriages, using hoists, guides, stops, dogs, wedges, or wrenches.",0.00,physical positioning and clamping
+12266,"Sawing Machine Setters, Operators, and Tenders, Wood",Measure and mark stock for cuts.,0.00,physical measuring and marking
+12255,"Sawing Machine Setters, Operators, and Tenders, Wood",Operate panelboards of saw or conveyor systems to move stock through processes or to cut stock to specified dimensions.,0.10,physical panelboard operation
+12267,"Sawing Machine Setters, Operators, and Tenders, Wood","Examine blueprints, drawings, work orders, or patterns to determine equipment set-up or selection details, procedures to be used, or dimensions of final products.",0.70,document interpretation and spec determination
+12258,"Sawing Machine Setters, Operators, and Tenders, Wood","Select saw blades, types or grades of stock, or cutting procedures to be used, according to work orders or supervisors' instructions.",0.55,selection decision from specs and instructions
+12271,"Sawing Machine Setters, Operators, and Tenders, Wood","Cut grooves, bevels, or miters, saw curved or irregular designs, and sever or shape metals, according to specifications or work orders.",0.00,physical cutting
+12272,"Sawing Machine Setters, Operators, and Tenders, Wood",Unclamp and remove finished workpieces from tables.,0.00,physical removal of workpieces
+12265,"Sawing Machine Setters, Operators, and Tenders, Wood",Dispose of waste material after completing work assignments.,0.00,physical waste disposal
+12279,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Set up, program, operate, or tend computerized or manual woodworking machines, such as drill presses, lathes, shapers, routers, sanders, planers, or wood-nailing machines.",0.15,programming portion feasible physical setup is not
+12281,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Examine finished workpieces for smoothness, shape, angle, depth-of-cut, or conformity to specifications and verify dimensions, visually and using hands, rules, calipers, templates, or gauges.",0.00,physical examination by hand
+12274,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Start machines, adjust controls, and make trial cuts to ensure that machinery is operating properly.",0.00,physical machine startup and trial cuts
+12278,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",Monitor operation of machines and make adjustments to correct problems and ensure conformance to specifications.,0.05,physical monitoring and adjustment
+12291,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",Examine raw woodstock for defects and to ensure conformity to size and other specification standards.,0.05,physical inspection of woodstock
+12277,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",Adjust machine tables or cutting devices and set controls on machines to produce specified cuts or operations.,0.00,physical adjustment of machine tables
+12282,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Install and adjust blades, cutterheads, boring-bits, or sanding-belts, using hand tools and rules.",0.00,physical installation of blades
+12285,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Change alignment and adjustment of sanding, cutting, or boring machine guides to prevent defects in finished products, using hand tools.",0.00,physical adjustment of guides
+12275,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Determine product specifications and materials, work methods, and machine setup requirements, according to blueprints, oral or written instructions, drawings, or work orders.",0.65,spec determination from documents
+12276,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Feed stock through feed mechanisms or conveyors into planing, shaping, boring, mortising, or sanding machines to produce desired components.",0.00,physical feeding of stock
+12284,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Push or hold workpieces against, under, or through cutting, boring, or shaping mechanisms.",0.00,physical pushing of workpieces
+12280,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Select knives, saws, blades, cutter heads, cams, bits, or belts, according to workpiece, machine functions, or product specifications.",0.50,selection decision from specs
+12287,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Remove and replace worn parts, bits, belts, sandpaper, or shaping tools.",0.00,physical replacement of parts
+12288,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Secure woodstock against a guide or in a holding device, place woodstock on a conveyor, or dump woodstock in a hopper to feed woodstock into machines.",0.00,physical securing of woodstock
+12283,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Inspect and mark completed workpieces and stack them on pallets, in boxes, or on conveyors so that they can be moved to the next workstation.",0.00,physical inspection and stacking
+12286,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Inspect pulleys, drive belts, guards, or fences on machines to ensure that machines will operate safely.",0.00,physical inspection of machine parts
+12289,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Clean or maintain products, machines, or work areas.",0.00,physical cleaning and maintenance
+12290,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Attach and adjust guides, stops, clamps, chucks, or feed mechanisms, using hand tools.",0.00,physical attachment of guides
+12295,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Trim wood parts according to specifications, using planes, chisels, or wood files or sanders.",0.00,physical trimming with hand tools
+20823,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",Grease or oil woodworking machines.,0.00,physical greasing of machines
+12296,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",Unclamp workpieces and remove them from machines.,0.00,physical removal of workpieces
+12297,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",Start machines and move levers to engage hydraulic lifts that press woodstocks into desired forms and disengage lifts after appropriate drying times.,0.00,physical machine operation
+12293,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Operate gluing machines to glue pieces of wood together, or to press and affix wood veneer to wood surfaces.",0.00,physical gluing machine operation
+12292,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Set up, program, or control computer-aided design (CAD) or computer numerical control (CNC) machines.",0.40,CAD CNC programming feasible physical setup is not
+12298,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",Control hoists to remove parts or products from work stations.,0.00,physical hoist control
+19911,Nuclear Power Reactor Operators,Operate nuclear power reactors in accordance with policies and procedures to protect workers from radiation and to ensure environmental safety.,0.05,requires licensed operator authority and physical presence
+8506,Nuclear Power Reactor Operators,"Adjust controls to position rod and to regulate flux level, reactor period, coolant temperature, or rate of power flow, following standard procedures.",0.05,safety-critical reactor control needs licensed human
+20680,Nuclear Power Reactor Operators,"Develop or implement actions such as lockouts, tagouts, or clearances to allow equipment to be safely repaired.",0.05,physical safety actions requiring authority
+8507,Nuclear Power Reactor Operators,"Respond to system or unit abnormalities, diagnosing the cause, and recommending or taking corrective action.",0.20,diagnostic support feasible corrective action needs licensed operator
+8508,Nuclear Power Reactor Operators,"Monitor all systems for normal running conditions, performing activities such as checking gauges to assess output or the effects of generator loading on other equipment.",0.25,monitoring aided by data but requires licensed oversight
+8511,Nuclear Power Reactor Operators,"Monitor or operate boilers, turbines, wells, or auxiliary power plant equipment.",0.10,physical safety-critical equipment operation
+8513,Nuclear Power Reactor Operators,"Record operating data, such as the results of surveillance tests.",0.85,data recording from tests
+8509,Nuclear Power Reactor Operators,"Implement operational procedures, such as those controlling start-up or shut-down activities.",0.05,requires licensed operator physical control room presence
+8510,Nuclear Power Reactor Operators,"Note malfunctions of equipment, instruments, or controls and report these conditions to supervisors.",0.45,monitoring and reporting via instruments
+8514,Nuclear Power Reactor Operators,"Participate in nuclear fuel element handling activities, such as preparation, transfer, loading, or unloading.",0.00,physical regulated fuel handling
+8512,Nuclear Power Reactor Operators,Dispatch orders or instructions to personnel through radiotelephone or intercommunication systems to coordinate auxiliary equipment operation.,0.30,coordination communication needs human authority
+20681,Nuclear Power Reactor Operators,Review and edit standard operating procedures.,0.80,document review and editing
+8515,Nuclear Power Reactor Operators,Conduct inspections or operations outside of control rooms as necessary.,0.00,physical on-site inspection
+8516,Nuclear Power Reactor Operators,"Direct reactor operators in emergency situations, in accordance with emergency operating procedures.",0.05,requires licensed authority in emergency direction
+8517,Nuclear Power Reactor Operators,Authorize maintenance activities on units or changes in equipment or system operational status.,0.05,requires legal authority to authorize
+19912,Nuclear Power Reactor Operators,Supervise technicians' work activities to ensure that equipment is operated in accordance with policies and procedures that protect workers from radiation and ensure environmental safety.,0.05,requires physical presence and supervisory authority
+19907,Nuclear Power Reactor Operators,Authorize actions to correct identified operational inefficiencies or hazards so that operating efficiency is maximized and potential environmental issues are minimized.,0.05,requires authority to authorize actions
+19909,Nuclear Power Reactor Operators,"Direct the collection and testing of air, water, gas, or solid samples to determine radioactivity levels or to ensure appropriate radioactive containment.",0.10,directing physical sample collection needs authority
+19908,Nuclear Power Reactor Operators,"Direct measurement of the intensity or types of radiation in work areas, equipment, or materials.",0.10,directing physical measurement needs authority
+12302,Power Distributors and Dispatchers,"Coordinate with engineers, planners, field personnel, or other utility workers to provide information such as clearances, switching orders, or distribution process changes.",0.35,coordination communication in safety-critical context
+12299,Power Distributors and Dispatchers,"Respond to emergencies, such as transformer or transmission line failures, and route current around affected areas.",0.15,emergency grid control needs human authority and accountability
+12301,Power Distributors and Dispatchers,"Control, monitor, or operate equipment that regulates or distributes electricity or steam, using data obtained from instruments or computers.",0.20,digital monitoring feasible operational control needs authority
+12303,Power Distributors and Dispatchers,"Direct personnel engaged in controlling or operating distribution equipment or machinery, such as instructing control room operators to start boilers or generators.",0.15,directing personnel needs human authority
+12304,Power Distributors and Dispatchers,"Distribute or regulate the flow of power between entities, such as generating stations, substations, distribution lines, or users, keeping track of the status of circuits or connections.",0.20,status tracking feasible power regulation needs authority
+12307,Power Distributors and Dispatchers,Manipulate controls to adjust or activate power distribution equipment or machines.,0.10,physical safety-critical control action
+12300,Power Distributors and Dispatchers,"Prepare switching orders that will isolate work areas without causing power outages, referring to drawings of power systems.",0.40,planning from drawings but safety accountability needs human
+12305,Power Distributors and Dispatchers,Monitor and record switchboard or control board readings to ensure that electrical or steam distribution equipment is operating properly.,0.55,monitoring and recording feasible via data feeds
+12312,Power Distributors and Dispatchers,"Implement energy schedules, including real-time transmission reservations or schedules.",0.55,scheduling implementation via systems
+12308,Power Distributors and Dispatchers,Calculate load estimates or equipment requirements to determine required control settings.,0.85,computational load estimation
+12306,Power Distributors and Dispatchers,"Track conditions that could affect power needs, such as changes in the weather, and adjust equipment to meet any anticipated changes.",0.30,tracking feasible equipment adjustment needs authority
+12309,Power Distributors and Dispatchers,"Record and compile operational data, such as chart or meter readings, power demands, or usage and operating times, using transmission system maps.",0.85,data recording and compilation
+12310,Power Distributors and Dispatchers,Inspect equipment to ensure that specifications are met or to detect any defects.,0.05,physical equipment inspection
+12311,Power Distributors and Dispatchers,Tend auxiliary equipment used in the power distribution process.,0.00,physical equipment tending
+12328,Power Plant Operators,"Control generator output to match the phase, frequency, or voltage of electricity supplied to panels.",0.15,safety-critical generator control needs human authority
+12318,Power Plant Operators,"Take regulatory action, based on readings from charts, meters and gauges, at established intervals.",0.15,regulatory action needs human authority
+12316,Power Plant Operators,"Control power generating equipment, including boilers, turbines, generators, or reactors, using control boards or semi-automatic equipment.",0.10,physical safety-critical equipment control
+12319,Power Plant Operators,"Start or stop generators, auxiliary pumping equipment, turbines, or other power plant equipment as necessary.",0.10,physical equipment startup and shutdown
+12314,Power Plant Operators,Monitor power plant equipment and indicators to detect evidence of operating problems.,0.45,monitoring feasible via data if instrumented
+19914,Power Plant Operators,"Operate or maintain distributed power generation equipment, including fuel cells or microturbines, to produce energy on-site for manufacturing or other commercial purposes.",0.05,physical operation and maintenance on-site
+12325,Power Plant Operators,Open and close valves and switches in sequence to start or shut down auxiliary units.,0.00,physical valve and switch operation
+12321,Power Plant Operators,"Control or maintain auxiliary equipment, such as pumps, fans, compressors, condensers, feedwater heaters, filters, or chlorinators, to supply water, fuel, lubricants, air, or auxiliary power.",0.05,physical auxiliary equipment control

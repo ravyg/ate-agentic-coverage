@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+22420,Librarians and Media Collections Specialists,Locate unusual or unique information in response to specific requests.,0.85,research and information retrieval
+22421,Librarians and Media Collections Specialists,Troubleshoot problems with audio-visual equipment.,0.15,physical equipment troubleshooting
+22422,Librarians and Media Collections Specialists,Develop library policies and procedures.,0.75,can draft policy but adoption needs human decision
+22424,Librarians and Media Collections Specialists,Evaluate materials to determine outdated or unused items to be discarded.,0.55,requires physical inspection of materials
+22423,Librarians and Media Collections Specialists,"Direct and train library staff in duties, such as receiving, shelving, researching, cataloging, and equipment use.",0.25,requires in-person staff supervision and training
+22425,Librarians and Media Collections Specialists,"Develop, maintain, and troubleshoot information access aids, such as databases, annotated bibliographies, Web pages, electronic pathfinders, software programs, and online tutorials.",0.90,digital content and software development
+22426,Librarians and Media Collections Specialists,"Engage in professional development activities, such as taking continuing education classes and attending or participating in conferences, workshops, professional meetings, and associations.",0.10,requires personal attendance and participation
+22427,Librarians and Media Collections Specialists,"Compile lists of books, periodicals, articles, and audio-visual materials on particular subjects.",0.90,research and compilation task
+22428,Librarians and Media Collections Specialists,Confer with teachers to select course materials and to determine which training aids are best suited to particular grade levels.,0.35,requires live conferring with teachers
+22429,Librarians and Media Collections Specialists,"Evaluate vendor products and performance, negotiate contracts, and place orders.",0.30,negotiation and contract authority needed
+22430,Librarians and Media Collections Specialists,Arrange for interlibrary loans of materials not available in a particular library.,0.75,administrative coordination task
+22431,Librarians and Media Collections Specialists,Represent library or institution on internal and external committees.,0.10,requires personal representation and presence
+22432,Librarians and Media Collections Specialists,"Set up, adjust, and operate audio-visual equipment, such as cameras, film and slide projectors, and recording equipment, for meetings, events, classes, seminars, and video conferences.",0.05,physical equipment operation
+22433,Librarians and Media Collections Specialists,Assemble and arrange display materials.,0.05,physical assembly task
+22434,Librarians and Media Collections Specialists,Maintain inventory of audio-visual equipment.,0.40,inventory tracking with physical counting
+22435,Librarians and Media Collections Specialists,"Maintain hardware and software, including computers, media equipment, scanners, color copiers, and color laser printers.",0.10,physical hardware maintenance
+22436,Librarians and Media Collections Specialists,Train faculty and media staff on the use of software and audio-visual equipment.,0.20,requires in-person training delivery
+1688,Library Technicians,"Reserve, circulate, renew, and discharge books and other materials.",0.35,involves physical handling of materials
+18511,Library Technicians,"Answer routine telephone or in-person reference inquiries, referring patrons to librarians for further assistance, when necessary.",0.45,mix of phone assistance and in-person referral
+18510,Library Technicians,"Help patrons find and use library resources, such as reference materials, audio-visual equipment, computers, and other electronic resources and provide technical assistance when needed.",0.30,requires in-person patron assistance
+1696,Library Technicians,Deliver and retrieve items throughout the library by hand or using pushcart.,0.00,physical delivery task
+1699,Library Technicians,Process print and non-print library materials to prepare them for inclusion in library collections.,0.10,physical materials processing
+18512,Library Technicians,"Catalogue and sort books and other print and non-print materials according to procedure and return them to shelves, files, or other designated storage areas.",0.15,physical sorting and shelving
+1689,Library Technicians,Enter and update patrons' records on computers.,0.90,digital data entry task
+1690,Library Technicians,Provide assistance to teachers and students by locating materials and helping to complete special projects.,0.40,mix of research assistance and physical location of materials
+1702,Library Technicians,"Compile and maintain records relating to circulation, materials, and equipment.",0.85,record compilation and maintenance
+1697,Library Technicians,Take actions to halt disruption of library activities by problem patrons.,0.00,requires physical presence and authority
+18513,Library Technicians,"Maintain and troubleshoot problems with library equipment, including computers, photocopiers, and audio-visual equipment.",0.10,physical equipment maintenance
+18515,Library Technicians,"Check for damaged library materials, such as books or audio-visual equipment, and provide replacements or make repairs.",0.05,physical inspection and repair
+1703,Library Technicians,Collect fines and respond to complaints about fines.,0.35,cash collection and complaint handling
+1693,Library Technicians,"Train other staff, volunteers, or student assistants and schedule and supervise their work.",0.20,requires supervision and in-person training
+1695,Library Technicians,"Conduct reference searches, using printed materials and in-house and online databases.",0.75,primarily database and online research
+18518,Library Technicians,Compile data and create statistical reports on library usage.,0.90,data compilation and reporting
+1717,Library Technicians,Design posters and special displays to promote use of library facilities or specific reading programs at libraries.,0.55,poster design digital but physical displays needed
+1704,Library Technicians,Issue identification cards to borrowers.,0.10,physical card issuance
+1706,Library Technicians,Review subject matter of materials to be classified and select classification numbers and headings according to classification systems.,0.85,text classification task
+1698,Library Technicians,Process interlibrary loans for patrons.,0.55,administrative processing with some physical handling
+18514,Library Technicians,"Order all print and non-print library materials, checking prices, figuring costs, preparing order slips, and making payments.",0.70,ordering and cost calculation mostly digital
+1707,Library Technicians,Send out notices about lost or overdue books.,0.95,automated notice generation
+1700,Library Technicians,Retrieve information from central databases for storage in a library's computer.,0.90,digital database retrieval task
+1705,Library Technicians,"Verify bibliographical data for materials, including author, title, publisher, publication date, and edition.",0.90,bibliographic verification research task
+18517,Library Technicians,"Plan and conduct children's programs, community outreach programs, and other specialized programs, such as library tours.",0.15,requires in-person program delivery
+1701,Library Technicians,Organize and maintain periodicals and reference materials.,0.15,physical organization task
+18516,Library Technicians,Claim missing issues of periodicals and journals.,0.80,administrative claims process
+1714,Library Technicians,Compose explanatory summaries of contents of books and other reference materials.,0.95,text summarization task
+20989,Library Technicians,Sort and deliver library mail and packages.,0.00,physical delivery task
+1710,Library Technicians,"Operate and maintain audio-visual equipment, such as projectors, tape recorders, and videocassette recorders.",0.05,physical equipment operation
+1718,Library Technicians,Compile bibliographies and prepare abstracts on subjects of interest to particular organizations or groups.,0.90,research and writing task
+10976,Farm and Home Management Educators,"Advise farmers and demonstrate techniques in areas such as feeding and health maintenance of livestock, growing and harvesting practices, and financial planning.",0.20,requires in-person demonstration and physical presence
+10975,Farm and Home Management Educators,"Conduct classes or deliver lectures on subjects such as nutrition, home management, and farming techniques.",0.20,requires live class delivery
+10974,Farm and Home Management Educators,Collaborate with producers to diagnose and prevent management and production problems.,0.25,requires on-site collaboration and diagnosis
+10977,Farm and Home Management Educators,Research information requested by farmers.,0.90,information research task
+10979,Farm and Home Management Educators,Collect and evaluate data to determine community program needs.,0.55,data collection and evaluation partly field-based
+10986,Farm and Home Management Educators,Act as an advocate for farmers or farmers' groups.,0.10,requires human advocacy and representation
+10984,Farm and Home Management Educators,"Conduct field demonstrations of new products, techniques, or services.",0.05,physical field demonstration
+10980,Farm and Home Management Educators,Maintain records of services provided and the effects of advice given.,0.90,record keeping task
+10978,Farm and Home Management Educators,"Prepare and distribute leaflets, pamphlets, and visual aids for educational and informational purposes.",0.55,content creation with physical distribution component
+10981,Farm and Home Management Educators,Schedule and make regular visits to farmers.,0.05,requires physical visits
+10982,Farm and Home Management Educators,"Organize, advise, and participate in community activities and organizations, such as county and state fair events and 4-H Clubs.",0.10,requires physical participation in community events
+10985,Farm and Home Management Educators,"Conduct agricultural research, analyze data, and prepare research reports.",0.80,data analysis and report writing
+10988,Farm and Home Management Educators,Set and monitor production targets.,0.55,target setting analysis human authority for decisions
+10983,Farm and Home Management Educators,"Collaborate with social service and health care professionals to advise individuals and families on home management practices, such as budget planning, meal preparation, and time management.",0.30,requires interpersonal advising and collaboration
+10987,Farm and Home Management Educators,"Provide direct assistance to farmers by performing activities such as purchasing or selling products and supplies, supervising properties, and collecting soil and herbage samples for testing.",0.05,physical hands-on assistance
+6871,Instructional Coordinators,Observe work of teaching staff to evaluate performance and to recommend changes that could strengthen teaching skills.,0.30,requires observation ideally in-person
+6864,Instructional Coordinators,"Plan and conduct teacher training programs and conferences dealing with new classroom procedures, instructional materials and equipment, and teaching aids.",0.35,conducting live training requires human presence
+6867,Instructional Coordinators,Interpret and enforce provisions of state education codes and rules and regulations of state education boards.,0.40,interpretation feasible but enforcement needs authority
+6863,Instructional Coordinators,"Conduct or participate in workshops, committees, and conferences designed to promote the intellectual, social, and physical welfare of students.",0.10,requires live participation
+6865,Instructional Coordinators,"Advise teaching and administrative staff in curriculum development, use of materials and equipment, and implementation of state and federal programs and procedures.",0.55,advisory task mix of writing and interpersonal
+6877,Instructional Coordinators,Advise and teach students.,0.30,requires live teaching interaction
+6866,Instructional Coordinators,"Recommend, order, or authorize purchase of instructional materials, supplies, equipment, and visual aids designed to meet student educational needs and district standards.",0.55,recommending feasible but authorization needs human authority
+6875,Instructional Coordinators,Update the content of educational programs to ensure that students are being trained with equipment and processes that are technologically current.,0.70,content research and update task
+6876,Instructional Coordinators,Address public audiences to explain program objectives and to elicit support.,0.05,requires live public speaking
+6870,Instructional Coordinators,"Research, evaluate, and prepare recommendations on curricula, instructional methods, and materials for school systems.",0.90,research and report writing task
+6873,Instructional Coordinators,"Prepare grant proposals, budgets, and program policies and goals or assist in their preparation.",0.85,drafting and writing task
+6878,Instructional Coordinators,"Prepare or approve manuals, guidelines, and reports on state educational policies and practices for distribution to school districts.",0.55,preparation feasible but approval needs authority
+6881,Instructional Coordinators,"Coordinate activities of workers engaged in cataloging, distributing, and maintaining educational materials and equipment in curriculum libraries and laboratories.",0.35,coordinating human workers requires management presence
+22437,Instructional Coordinators,Adapt instructional content or delivery methods for different levels or types of learners.,0.85,content adaptation writing task
+22438,Instructional Coordinators,"Analyze performance data to determine effectiveness of instructional systems, courses, or instructional materials.",0.90,data analysis task
+22439,Instructional Coordinators,"Assess effectiveness and efficiency of instruction according to ease of instructional technology use and student learning, knowledge transfer, and satisfaction.",0.85,assessment analysis task
+22440,Instructional Coordinators,Conduct needs assessments and strategic learning assessments to develop the basis for curriculum development or to update curricula.,0.75,needs assessment analysis task
+22441,Instructional Coordinators,"Define instructional, learning, or performance objectives.",0.90,objective definition writing task
+22442,Instructional Coordinators,Design instructional aids for stand-alone or instructor-led classroom or online use.,0.90,instructional design task
+22443,Instructional Coordinators,"Design learning products, including Web-based aids or electronic performance support systems.",0.85,digital learning product design
+22444,Instructional Coordinators,"Develop instructional materials, such as lesson plans, handouts, or examinations.",0.95,instructional material writing task
+22445,Instructional Coordinators,"Develop master course documentation or manuals according to applicable accreditation, certification, or other requirements.",0.85,documentation writing task
+22446,Instructional Coordinators,Develop measurement tools to evaluate the effectiveness of instruction or training interventions.,0.85,measurement tool design task
+22447,Instructional Coordinators,"Edit instructional materials, such as books, simulation exercises, lesson plans, instructor guides, and tests.",0.90,editing task
+22448,Instructional Coordinators,Interview subject-matter experts or conduct other research to develop instructional content.,0.45,requires interviewing human experts
+22449,Instructional Coordinators,"Present and make recommendations regarding course design, technology, and instruction delivery options.",0.55,recommendation with possible live presentation
+22450,Instructional Coordinators,"Provide analytical support for the design and development of training curricula, learning strategies, educational policies, or courseware standards.",0.85,analytical support task
+22451,Instructional Coordinators,"Recommend changes to curricula or delivery methods, based on information such as instructional effectiveness data, current or future performance requirements, feasibility, and costs.",0.85,data-driven recommendation task
+22452,Instructional Coordinators,Research and evaluate emerging instructional technologies or methods.,0.90,research task
+22453,Instructional Coordinators,Teach instructors to use instructional technology or to integrate technology with teaching.,0.20,requires live instructor training
+22478,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education","Supervise students in classrooms, halls, cafeterias, school yards, and gymnasiums, or on field trips.",0.00,requires physical supervision presence
+22481,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",Tutor and assist children individually or in small groups to help them master assignments and to reinforce learning concepts presented by teachers.,0.30,tutoring likely requires in-person interaction with children
+22463,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",Enforce administration policies and rules governing students.,0.05,requires enforcement authority and presence
+22480,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",Teach social skills to students.,0.10,requires in-person interaction with students
+22465,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",Instruct and monitor students in the use and care of equipment and materials to prevent injuries and damage.,0.05,requires physical monitoring for safety
+22460,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",Discuss assigned duties with classroom teachers to coordinate instructional efforts.,0.55,coordination discussion task
+22476,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education","Present subject matter to students under the direction and guidance of teachers, using lectures, discussions, supervised role-playing methods, or by reading aloud.",0.10,requires live classroom presentation
+22457,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",Clean classrooms.,0.00,physical cleaning task
+22468,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education","Observe students' performance, and record relevant data to assess progress.",0.25,requires in-person observation of students
+22470,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",Organize and label materials and display students' work in a manner appropriate for their eye levels and perceptual skills.,0.05,physical display arrangement
+22471,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education","Organize and supervise games and other recreational activities to promote physical, mental, and social development.",0.00,requires physical supervision of activities
+22456,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education","Attend staff meetings and serve on committees, as required.",0.05,requires live meeting attendance
+22483,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education","Use computers, audio-visual aids, and other equipment and materials to supplement presentations.",0.05,physical equipment operation during presentation
+22474,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education","Prepare lesson materials, bulletin board displays, exhibits, equipment, and demonstrations.",0.35,mix of content prep and physical display
+22459,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education","Conduct demonstrations to teach skills, such as sports, dancing, and handicrafts.",0.00,physical skill demonstration
+22461,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education","Distribute teaching materials, such as textbooks, workbooks, papers, and pencils, to students.",0.00,physical distribution task
+22482,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education","Type, file, and duplicate materials.",0.65,administrative typing and filing task
+22466,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",Laminate teaching materials to increase their durability under repeated use.,0.00,physical lamination task
+22477,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",Requisition and stock teaching materials and supplies.,0.35,ordering feasible but stocking is physical
+22479,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",Take class attendance and maintain attendance records.,0.30,requires presence to take attendance
+22472,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",Participate in teacher-parent conferences regarding students' progress or problems.,0.20,requires live conference participation
+22454,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",Assist in bus loading and unloading.,0.00,physical assistance task
+22467,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education","Maintain computers in classrooms and laboratories, and assist students with hardware and software use.",0.25,hardware maintenance and hands-on assistance
+22464,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education","Grade homework and tests, and compute and record results, using answer sheets or electronic marking devices.",0.85,grading and scoring task
+22473,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education","Plan, prepare, and develop various teaching aids, such as bibliographies, charts, and graphs.",0.90,teaching aid content creation
+22469,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",Operate and maintain audio-visual equipment.,0.05,physical equipment operation
+22462,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",Distribute tests and homework assignments and collect them when they are completed.,0.00,physical distribution and collection task
+22458,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",Collect money from students for school-related projects.,0.00,physical cash handling
+22506,"Teaching Assistants, Special Education",Provide assistance to students with special needs.,0.10,requires in-person assistance
+22511,"Teaching Assistants, Special Education","Teach socially acceptable behavior, employing techniques such as behavior modification or positive reinforcement.",0.10,requires in-person behavioral intervention
+22509,"Teaching Assistants, Special Education","Supervise students in classrooms, halls, cafeterias, school yards, and gymnasiums, or on field trips.",0.00,requires physical supervision presence
+22507,"Teaching Assistants, Special Education","Provide students with disabilities with assistive devices, supportive technology, and assistance accessing facilities, such as restrooms.",0.00,physical assistance task
+22487,"Teaching Assistants, Special Education","Carry out therapeutic regimens, such as behavior modification and personal development programs, under the supervision of special education instructors, psychologists, or speech-language pathologists.",0.05,requires licensed in-person therapeutic delivery
+22512,"Teaching Assistants, Special Education",Tutor and assist children individually or in small groups to help them master assignments and to reinforce learning concepts presented by teachers.,0.30,tutoring likely requires in-person interaction with children
+22491,"Teaching Assistants, Special Education","Employ special educational strategies or techniques during instruction to improve the development of sensory- and perceptual-motor skills, language, cognition, or memory.",0.05,requires in-person sensory motor instruction
+22492,"Teaching Assistants, Special Education",Enforce administration policies and rules governing students.,0.05,requires enforcement authority and presence
+22498,"Teaching Assistants, Special Education","Observe students' performance, and record relevant data to assess progress.",0.25,requires in-person observation of students

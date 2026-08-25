@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+5817,"Biological Science Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.20,requires institutional authority and accountability
+5819,"Biological Science Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,text research and compilation
+20065,"Biological Science Teachers, Postsecondary","Participate in campus and community events, such as giving presentations to the public.",0.05,requires physical presence at events
+5818,"Biological Science Teachers, Postsecondary",Act as advisers to student organizations.,0.15,needs ongoing in-person mentorship
+5821,"Biological Science Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.30,consulting relationship needs human trust and authority
+5829,"Forestry and Conservation Science Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,pure document drafting
+5824,"Forestry and Conservation Science Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics, such as forest resource policy, forest pathology, and mapping.",0.35,prep is text work but live delivery needs human presence
+5825,"Forestry and Conservation Science Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",0.75,text based grading and analysis
+5833,"Forestry and Conservation Science Teachers, Postsecondary",Supervise students' laboratory or field work.,0.05,requires physical on site supervision
+5834,"Forestry and Conservation Science Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.85,digital recordkeeping task
+5823,"Forestry and Conservation Science Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.40,reading is doable but talking and conferences need presence
+5827,"Forestry and Conservation Science Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.15,supervisory mentorship needs human accountability
+5835,"Forestry and Conservation Science Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.25,requires live human collaboration and decisions
+5830,"Forestry and Conservation Science Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.60,can draft and grade text but administering needs oversight
+5832,"Forestry and Conservation Science Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.20,live classroom facilitation needs human presence
+5828,"Forestry and Conservation Science Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, and course materials and methods of instruction.",0.70,mostly drafting and planning work
+5831,"Forestry and Conservation Science Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.35,needs personal rapport and judgment
+5826,"Forestry and Conservation Science Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.75,primarily writing and research task
+5836,"Forestry and Conservation Science Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.10,requires being physically or live present
+5822,"Forestry and Conservation Science Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in books, professional journals, or electronic media.",0.35,fieldwork and lab work limit autonomous completion
+5843,"Forestry and Conservation Science Teachers, Postsecondary",Act as advisers to student organizations.,0.15,needs ongoing in-person mentorship
+5838,"Forestry and Conservation Science Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.20,requires interpersonal and physical presence
+5837,"Forestry and Conservation Science Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks and laboratory equipment.",0.55,can research and order but physical receipt needs human
+5839,"Forestry and Conservation Science Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional authority and live meetings
+20066,"Forestry and Conservation Science Teachers, Postsecondary",Review papers for colleagues and scientific journals.,0.65,text based review though reputation accountability is human
+20067,"Forestry and Conservation Science Teachers, Postsecondary",Provide information to the public by leading workshops and training programs and by developing educational materials.,0.35,leading workshops needs presence though materials are doable
+5841,"Forestry and Conservation Science Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.20,requires institutional authority and accountability
+5844,"Forestry and Conservation Science Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical presence at events
+5840,"Forestry and Conservation Science Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.30,consulting relationship needs human trust and authority
+5842,"Forestry and Conservation Science Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,text research and compilation
+5859,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.85,digital recordkeeping task
+5849,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as structural geology, micrometeorology, and atmospheric thermodynamics.",0.35,prep is text work but live delivery needs human presence
+5851,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",0.75,text based grading and analysis
+5854,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.60,can draft and grade text but administering needs oversight
+5850,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",Supervise laboratory work and field work.,0.05,requires physical on site supervision
+5855,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, and course materials and methods of instruction.",0.70,mostly drafting and planning work
+5852,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,pure document drafting
+5856,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.20,live classroom facilitation needs human presence
+5847,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.40,reading is doable but talking and conferences need presence
+5857,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.10,requires being physically or live present
+5858,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.35,needs personal rapport and judgment
+5853,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.25,requires live human collaboration and decisions
+5862,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks and laboratory equipment.",0.55,can research and order but physical receipt needs human
+5863,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional authority and live meetings
+5845,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.35,fieldwork and lab work limit autonomous completion
+5848,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.15,supervisory mentorship needs human accountability
+5846,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.75,primarily writing and research task
+5861,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.20,requires institutional authority and accountability
+20068,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",Purchase and maintain equipment to support research projects.,0.30,purchasing doable but physical maintenance is not
+5860,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.20,requires interpersonal and physical presence
+5866,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",Act as advisers to student organizations.,0.15,needs ongoing in-person mentorship
+5864,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,text research and compilation
+5867,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical presence at events
+20070,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",Answer questions from the public and media.,0.45,can draft written answers but interviews need a human
+20069,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Review papers or serve on editorial boards for scientific journals, and review grant proposals for federal agencies.",0.45,review is text based but editorial board is a formal human role
+5865,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.30,consulting relationship needs human trust and authority
+5868,"Chemistry Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as organic chemistry, analytical chemistry, and chemical separation.",0.35,prep is text work but live delivery needs human presence
+20071,"Chemistry Teachers, Postsecondary","Establish, teach, and monitor students' compliance with safety rules for handling chemicals, equipment, and other hazardous materials.",0.10,physical safety monitoring needs human presence
+5870,"Chemistry Teachers, Postsecondary","Evaluate and grade students' class work, laboratory performance, assignments, and papers.",0.50,written work gradable but lab performance needs observation
+5869,"Chemistry Teachers, Postsecondary",Supervise students' laboratory work.,0.05,requires physical on site supervision
+5872,"Chemistry Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.85,digital recordkeeping task
+5876,"Chemistry Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.15,supervisory mentorship needs human accountability
+5871,"Chemistry Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.60,can draft and grade text but administering needs oversight
+5873,"Chemistry Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,pure document drafting
+5875,"Chemistry Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, and course materials and methods of instruction.",0.70,mostly drafting and planning work
+5874,"Chemistry Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.10,requires being physically or live present
+5880,"Chemistry Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.25,bench chemistry work requires physical lab presence
+5878,"Chemistry Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.20,live classroom facilitation needs human presence
+5877,"Chemistry Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.40,reading is doable but talking and conferences need presence
+5881,"Chemistry Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.35,needs personal rapport and judgment
+5884,"Chemistry Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.75,primarily writing and research task
+20072,"Chemistry Teachers, Postsecondary","Select, order, and maintain materials and supplies for teaching and research, such as textbooks, chemicals, and laboratory equipment.",0.35,ordering doable but physical handling of chemicals is not
+5882,"Chemistry Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.25,requires live human collaboration and decisions
+21114,"Chemistry Teachers, Postsecondary",Write letters of recommendation for students.,0.30,requires writer's personal knowledge and endorsement authority
+5886,"Chemistry Teachers, Postsecondary",Prepare and submit required reports related to instruction.,0.75,mostly writing and administrative filing
+5883,"Chemistry Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional authority and live meetings
+21115,"Chemistry Teachers, Postsecondary",Clean laboratory facilities.,0.00,purely physical manual labor
+5885,"Chemistry Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.20,requires interpersonal and physical presence
+20073,"Chemistry Teachers, Postsecondary",Serve on committees or in professional societies.,0.15,requires institutional authority and live participation
+5887,"Chemistry Teachers, Postsecondary","Perform administrative duties, such as serving as a department head.",0.20,requires institutional authority and accountability
+5890,"Chemistry Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical presence at events
+5888,"Chemistry Teachers, Postsecondary",Act as advisers to student organizations.,0.15,needs ongoing in-person mentorship
+5889,"Chemistry Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,text research and compilation
+5891,"Chemistry Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.30,consulting relationship needs human trust and authority
+5895,"Environmental Science Teachers, Postsecondary","Evaluate and grade students' class work, laboratory work, assignments, and papers.",0.50,written work gradable but lab work needs observation
+5898,"Environmental Science Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,pure document drafting
+5897,"Environmental Science Teachers, Postsecondary",Supervise students' laboratory and field work.,0.05,requires physical on site supervision
+5902,"Environmental Science Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.35,needs personal rapport and judgment
+5894,"Environmental Science Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.40,reading is doable but talking and conferences need presence
+5892,"Environmental Science Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.15,supervisory mentorship needs human accountability
+5899,"Environmental Science Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, and course materials and methods of instruction.",0.70,mostly drafting and planning work
+5900,"Environmental Science Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.20,live classroom facilitation needs human presence
+5893,"Environmental Science Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.35,fieldwork limits autonomous completion
+5904,"Environmental Science Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.85,digital recordkeeping task
+5901,"Environmental Science Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.60,can draft and grade text but administering needs oversight
+5906,"Environmental Science Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.10,requires being physically or live present
+5907,"Environmental Science Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.25,requires live human collaboration and decisions
+5903,"Environmental Science Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as hazardous waste management, industrial safety, and environmental toxicology.",0.35,prep is text work but live delivery needs human presence
+5905,"Environmental Science Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks and laboratory equipment.",0.55,can research and order but physical receipt needs human
+21116,"Environmental Science Teachers, Postsecondary",Write letters of recommendation for students.,0.30,requires writer's personal knowledge and endorsement authority
+5909,"Environmental Science Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.20,requires interpersonal and physical presence
+5896,"Environmental Science Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.75,primarily writing and research task
+5911,"Environmental Science Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional authority and live meetings
+20074,"Environmental Science Teachers, Postsecondary","Review papers or serve on editorial boards for scientific journals, and review grant proposals for various agencies.",0.45,review is text based but editorial board is a formal human role
+5912,"Environmental Science Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,text research and compilation
+5908,"Environmental Science Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.20,requires institutional authority and accountability
+5914,"Environmental Science Teachers, Postsecondary",Act as advisers to student organizations.,0.15,needs ongoing in-person mentorship
+5913,"Environmental Science Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical presence at events
+5910,"Environmental Science Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.30,consulting relationship needs human trust and authority
+5915,"Physics Teachers, Postsecondary","Evaluate and grade students' class work, laboratory work, assignments, and papers.",0.50,written work gradable but lab work needs observation
+5920,"Physics Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,pure document drafting
+5917,"Physics Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.60,can draft and grade text but administering needs oversight
+5916,"Physics Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as quantum mechanics, particle physics, and optics.",0.35,prep is text work but live delivery needs human presence
+5921,"Physics Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.10,requires being physically or live present
+5922,"Physics Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.15,supervisory mentorship needs human accountability
+5925,"Physics Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.20,live classroom facilitation needs human presence
+5918,"Physics Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.85,digital recordkeeping task
+5924,"Physics Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",0.70,mostly drafting and planning work
+5919,"Physics Teachers, Postsecondary",Supervise students' laboratory work.,0.05,requires physical on site supervision
+5923,"Physics Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.40,reading is doable but talking and conferences need presence
+5929,"Physics Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.25,requires live human collaboration and decisions
+5927,"Physics Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.35,needs personal rapport and judgment
+5926,"Physics Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.30,experimental physics needs lab presence though theory is doable
+5928,"Physics Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks and laboratory equipment.",0.55,can research and order but physical receipt needs human
+20075,"Physics Teachers, Postsecondary",Maintain and repair laboratory equipment.,0.00,purely physical manual repair work
+5933,"Physics Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.20,requires institutional authority and accountability
+5930,"Physics Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.20,requires interpersonal and physical presence
+5931,"Physics Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional authority and live meetings
+5932,"Physics Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.75,primarily writing and research task
+5936,"Physics Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,text research and compilation

@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+15234,Cardiovascular Technologists and Technicians,"Perform general administrative tasks, such as scheduling appointments or ordering supplies or equipment.",0.85,administrative scheduling and ordering tasks
+15235,Cardiovascular Technologists and Technicians,Maintain a proper sterile field during surgical procedures.,0.00,requires physical sterile field presence
+15236,Cardiovascular Technologists and Technicians,"Assist physicians in the diagnosis and treatment of cardiac or peripheral vascular treatments, such as implanting pacemakers or assisting with balloon angioplasties to treat blood vessel blockages.",0.00,physical surgical assistance no body
+15237,Cardiovascular Technologists and Technicians,"Transcribe, type, and distribute reports of diagnostic procedures for interpretation by physician.",0.90,text transcription and distribution
+15238,Cardiovascular Technologists and Technicians,"Set up 24-hour Holter and event monitors, scan and interpret tapes, and report results to physicians.",0.35,device setup physical rest is data analysis
+15239,Nuclear Medicine Technologists,"Administer radiopharmaceuticals or radiation intravenously to detect or treat diseases, using radioisotope equipment, under direction of a physician.",0.00,physical IV administration of radioisotopes
+15240,Nuclear Medicine Technologists,Perform quality control checks on laboratory equipment or cameras.,0.05,physical equipment quality control checks
+15242,Surgical Technologists,Maintain a proper sterile field during surgical procedures.,0.00,requires physical sterile field presence
+15243,Surgical Technologists,"Prepare patients for surgery, including positioning patients on the operating table and covering them with sterile surgical drapes to prevent exposure.",0.00,physical patient positioning and draping
+15244,Surgical Technologists,"Clean and restock operating room, gathering and placing equipment and supplies and arranging instruments according to instructions, such as a preference card.",0.00,physical cleaning and restocking of OR
+15245,Surgical Technologists,Order surgical supplies.,0.85,digital procurement of supplies
+15247,Physical Therapist Assistants,Observe patients during treatments to compile and evaluate data on their responses and progress and provide results to physical therapist in person or through progress notes.,0.15,requires physical patient observation
+15248,Physical Therapist Assistants,"Administer active or passive manual therapeutic exercises, therapeutic massage, aquatic physical therapy, or heat, light, sound, or electrical modality treatments, such as ultrasound.",0.00,hands on manual therapy no body
+15249,Physical Therapist Assistants,Communicate with or instruct caregivers or family members on patient therapeutic activities or treatment plans.,0.55,can instruct remotely but needs rapport
+15250,Physical Therapist Assistants,"Attend or conduct continuing education courses, seminars, or in-service activities.",0.10,requires physical attendance for education
+15251,Physical Therapist Aides,Schedule patient appointments with physical therapists and coordinate therapists' schedules.,0.90,pure scheduling and coordination task
+15702,Online Merchants,"Participate in online forums or conferences to stay abreast of online retailing trends, techniques, or security threats.",0.85,online forum participation and research
+15703,Online Merchants,"Upload digital media, such as photos, video, or scanned images to online storefront, auction sites, or other shopping Web sites.",0.95,digital media upload task
+15704,Online Merchants,Order or purchase merchandise to maintain optimal inventory levels.,0.85,digital purchasing and inventory ordering
+15705,Online Merchants,"Maintain inventory of shipping supplies, such as boxes, labels, tape, bubble wrap, loose packing materials, or tape guns.",0.25,physical inventory of shipping supplies
+15706,Online Merchants,Integrate online retailing strategy with physical or catalogue retailing operations.,0.55,strategy work but physical integration needs human
+15707,Online Merchants,Determine and set product prices.,0.85,pricing analysis and digital execution
+15708,Online Merchants,Disclose merchant information and terms and policies of transactions in online or offline materials.,0.80,mostly digital disclosure drafting and posting
+15709,Online Merchants,Deliver e-mail confirmation of completed transactions and shipment.,0.95,automated email confirmations
+15710,Online Merchants,"Create, manage, or automate orders or invoices, using order management or invoicing software.",0.95,digital order and invoice automation
+15711,Online Merchants,Create or maintain database of customer accounts.,0.95,digital customer database maintenance
+15712,Online Merchants,"Create or distribute offline promotional material, such as brochures, pamphlets, business cards, stationary, or signage.",0.45,design digital but offline distribution needs human
+15713,Online Merchants,Collaborate with search engine shopping specialists to place marketing content in desired online locations.,0.65,digital collaboration with marketing specialists
+15714,Online Merchants,Cancel orders based on customer requests or inventory or delivery problems.,0.90,digital order cancellation processing
+15715,Online Merchants,"Transfer digital media, such as music, video, or software, to customers via the Internet.",0.95,digital media transfer to customers
+15716,Online Merchants,"Select and purchase technical web services, such as web hosting services, online merchant accounts, shopping cart software, payment gateway software, or spyware.",0.75,digital purchase of web services
+15717,Online Merchants,"Promote products in online communities through weblog or discussion-forum postings, e-mail marketing programs, or online advertising.",0.85,digital marketing and promotion content
+15718,Online Merchants,Fill customer orders by packaging sold items and documentation for direct shipping or by transferring orders to manufacturers or third-party distributors.,0.35,physical packaging bundled with digital transfer
+15719,Online Merchants,Measure and analyze Web site usage data to maximize search engine returns or refine customer interfaces.,0.90,web analytics and data analysis
+15720,Online Merchants,"Investigate sources, such as auctions, estate sales, liquidators, wholesalers, or trade shows for new items, used items, or collectibles.",0.40,mix of online research and physical estate sales
+15721,Online Merchants,"Investigate products or markets to determine areas for opportunity or viability for merchandising specific products, using online or offline sources.",0.75,mostly online market research
+15722,Online Merchants,Initiate online auctions through auction hosting sites or auction management software.,0.90,digital auction initiation
+15723,Online Merchants,"Implement security practices to preserve assets, minimize liabilities, or ensure customer privacy, using parallel servers, hardware redundancy, fail-safe technology, information encryption, or firewal",0.70,mostly software security config some hardware
+15724,Online Merchants,"Devise, select, or purchase domain name and web address.",0.90,digital domain purchase and setup
+15725,Online Merchants,"Develop or revise business plans for online business, emphasizing factors such as product line, pricing, inventory, or marketing strategy.",0.85,business plan writing and analysis
+15726,Online Merchants,Determine location for product listings to maximize exposure to online traffic.,0.85,analysis and digital listing placement
+15727,Online Merchants,"Design customer interface of online storefront, using web programming or e-commerce software.",0.90,web programming and interface design
+15728,Online Merchants,"Correspond with online customers via electronic mail, telephone, or other electronic messaging to address questions or complaints about products, policies, or shipping methods.",0.80,digital and voice customer correspondence
+15729,Online Merchants,"Compose images of products, using video or still cameras, lighting equipment, props, or photo or video editing software.",0.30,physical photo shoot with equipment
+15730,Online Merchants,"Calculate purchase subtotals, taxes, and shipping costs for submission to customers.",0.95,pure calculation task
+15731,Online Merchants,"Receive and process payments from customers, using electronic transaction services.",0.85,digital payment processing via APIs
+15732,Online Merchants,"Prepare or organize online storefront marketing material, including product descriptions or subject lines, optimizing content to search engine criteria.",0.90,SEO writing and content organization
+15733,Online Merchants,Purchase new or used items from online or physical sources for resale via retail or auction Web site.,0.45,mix of online purchase and physical sourcing
+15734,Online Merchants,"Compose descriptions of merchandise for posting to online storefront, auction sites, or other shopping Web sites.",0.95,pure product description writing
+15735,Online Merchants,"Calculate revenue, sales, and expenses, using financial accounting or spreadsheet software.",0.90,financial calculation and spreadsheet work
+15861,Logistics Engineers,Propose logistics solutions for customers.,0.80,consulting analysis and proposal writing
+15863,Logistics Engineers,"Interview key staff or tour facilities to identify efficiency-improvement, cost-reduction, or service-delivery opportunities.",0.35,requires on site facility touring
+15864,Logistics Engineers,Direct the work of logistics analysts.,0.35,directing human staff needs authority
+15865,Logistics Engineers,Design plant distribution centers.,0.70,design work mostly digital engineering
+15866,Logistics Engineers,"Develop specifications for equipment, tools, facility layouts, or material-handling systems.",0.80,specification writing and design work
+15867,Logistics Engineers,"Review contractual commitments, customer specifications, or related information to determine logistics or support requirements.",0.90,document review and analysis
+15868,Logistics Engineers,Prepare or validate documentation on automated logistics or maintenance-data reporting or management information systems.,0.85,documentation preparation and validation
+15870,Logistics Engineers,Identify or develop business rules or standard operating procedures to streamline operating processes.,0.85,process and rule development writing
+15872,Logistics Engineers,"Develop or maintain cost estimates, forecasts, or cost models.",0.90,quantitative cost modeling
+15873,Logistics Engineers,"Determine feasibility of designing new facilities or modifying existing facilities, based on factors such as cost, available space, schedule, technical requirements, or ergonomics.",0.65,feasibility analysis some site assessment
+15874,Logistics Engineers,"Determine logistics support requirements, such as facility details, staffing needs, or safety or maintenance plans.",0.75,planning and requirements analysis
+15875,Logistics Engineers,"Conduct logistics studies or analyses, such as time studies, zero-base analyses, rate analyses, network analyses, flow-path analyses, or supply chain analyses.",0.90,data driven logistics studies
+15876,Logistics Engineers,"Analyze or interpret logistics data involving customer service, forecasting, procurement, manufacturing, inventory, transportation, or warehousing.",0.90,logistics data analysis
+15877,Logistics Engineers,"Provide logistics technology or information for effective and efficient support of product, equipment, or system manufacturing or service.",0.80,information and technology consulting
+15879,Logistics Engineers,Evaluate effectiveness of current or future logistical processes.,0.85,process effectiveness evaluation
+15880,Logistics Engineers,"Apply logistics modeling techniques to address issues, such as operational process improvement or facility design or layout.",0.85,modeling and analytical techniques
+15881,Logistics Analysts,Identify opportunities for inventory reductions.,0.85,inventory data analysis
+15882,Logistics Analysts,"Monitor industry standards, trends, or practices to identify developments in logistics planning or execution.",0.85,industry trend monitoring and research
+15883,Logistics Analysts,Enter logistics-related data into databases.,0.95,pure data entry task
+15884,Logistics Analysts,Develop or maintain payment systems to ensure accuracy of vendor payments.,0.75,payment system development and maintenance
+15885,Logistics Analysts,Determine packaging requirements.,0.80,packaging requirements analysis
+15886,Logistics Analysts,Develop or maintain freight rate databases for use by supply chain departments to determine the most economical modes of transportation.,0.90,freight rate database development
+15887,Logistics Analysts,Contact potential vendors to determine material availability.,0.75,vendor communication for availability
+15888,Logistics Analysts,Contact carriers for rates or schedules.,0.75,carrier communication for rates
+15889,Logistics Analysts,"Communicate with or monitor service providers, such as ocean carriers, air freight forwarders, global consolidators, customs brokers, or trucking companies.",0.75,digital communication with service providers
+15890,Logistics Analysts,Track product flow from origin to final delivery.,0.85,digital shipment tracking
+15891,Logistics Analysts,Write or revise standard operating procedures for logistics processes.,0.90,SOP writing task
+15892,Logistics Analysts,"Review procedures, such as distribution or inventory management, to ensure maximum efficiency or minimum cost.",0.85,procedure review and analysis
+15893,Logistics Analysts,Recommend improvements to existing or planned logistics processes.,0.85,process improvement recommendations
+15894,Logistics Analysts,"Provide ongoing analyses in areas such as transportation costs, parts procurement, back orders, or delivery processes.",0.85,ongoing cost and process analysis
+15895,Logistics Analysts,Prepare reports on logistics performance measures.,0.90,performance reporting
+15896,Logistics Analysts,Manage systems to ensure that pricing structures adequately reflect logistics costing.,0.80,pricing system management and analysis
+15897,Logistics Analysts,"Monitor inventory transactions at warehouse facilities to assess receiving, storage, shipping, or inventory integrity.",0.65,warehouse monitoring mostly digital
+15898,Logistics Analysts,Maintain databases of logistics information.,0.90,database maintenance task
+15899,Logistics Analysts,Maintain logistics records in accordance with corporate policies.,0.90,digital record keeping
+15900,Logistics Analysts,"Develop or maintain models for logistics uses, such as cost estimating or demand forecasting.",0.90,forecasting and cost modeling
+15901,Logistics Analysts,"Confer with logistics management teams to determine ways to optimize service levels, maintain supply-chain efficiency, or minimize cost.",0.55,conferring with human management teams
+15902,Logistics Analysts,"Compute reporting metrics, such as on-time delivery rates, order fulfillment rates, or inventory turns.",0.95,pure metric computation
+15903,Logistics Analysts,"Interpret data on logistics elements, such as availability, maintainability, reliability, supply chain management, strategic sourcing or distribution, supplier management, or transportation.",0.90,logistics data interpretation
+15904,Logistics Analysts,"Apply analytic methods or tools to understand, predict, or control logistics operations or processes.",0.85,analytic methods application
+15905,Logistics Analysts,"Analyze logistics data, using methods such as data mining, data modeling, or cost or benefit analysis.",0.90,data mining and cost analysis
+15924,Customs Brokers,"Sign documents on behalf of clients, using powers of attorney.",0.05,requires licensed legal signing authority
+15925,Customs Brokers,"Provide advice on transportation options, types of carriers, or shipping routes.",0.85,advisory task on transportation options
+15926,Customs Brokers,Post bonds for the products being imported or assist clients in obtaining bonds.,0.15,requires financial and legal bonding authority
+15927,Customs Brokers,"Insure cargo against loss, damage, or pilferage.",0.25,insurance arrangement needs legal authority
+15928,Customs Brokers,"Obtain line releases for frequent shippers of low-risk commodities, high-volume entries, or multiple-container loads.",0.20,requires official licensed broker standing
+15929,Customs Brokers,Contract with freight forwarders for destination services.,0.30,contracting needs binding legal authority
+15930,Customs Brokers,"Arrange for transportation, warehousing, or product distribution of imported or exported products.",0.60,coordination and arrangement mostly digital
+15931,Customs Brokers,Suggest best methods of packaging or labeling products.,0.85,advisory packaging recommendations
+15932,Customs Brokers,"Request or compile necessary import documentation, such as customs invoices, certificates of origin, and cargo-control documents.",0.80,documentation compilation task
+15933,Customs Brokers,"Stay abreast of changes in import or export laws or regulations by reading current literature, attending meetings or conferences, or conferring with colleagues.",0.80,regulatory research and monitoring
+15934,Customs Brokers,"Quote duty and tax rates on goods to be imported, based on federal tariffs and excise taxes.",0.85,tariff rate lookup and calculation
+15935,Customs Brokers,Prepare papers for shippers to appeal duty charges.,0.70,document drafting for duty appeals
+15936,Customs Brokers,"Pay, or arrange for payment of, taxes and duties on shipments.",0.30,payment execution needs broker authority
+15937,Customs Brokers,Monitor or trace the location of goods.,0.85,digital cargo tracking
+15938,Customs Brokers,Maintain relationships with customs brokers in other ports to expedite clearing of cargo.,0.40,relationship building needs human rapport
+15939,Customs Brokers,Inform importers and exporters of steps to reduce duties and taxes.,0.85,advisory informational task
+15940,Customs Brokers,Confer with officials in various agencies to facilitate clearance of goods through customs and quarantine.,0.25,requires official agency standing
+15941,Customs Brokers,Classify goods according to tariff coding system.,0.75,tariff classification rule application
+15942,Customs Brokers,Calculate duty and tariff payments owed on shipments.,0.90,duty calculation task
+15943,Customs Brokers,Apply for tariff concessions or for duty drawbacks and other refunds.,0.40,filing needs licensed broker authority
+15944,Customs Brokers,"Advise customers on import and export restrictions, tariff systems, insurance requirements, quotas, or other customs-related matters.",0.85,advisory task on customs matters
+15945,Customs Brokers,"Prepare and process import and export documentation according to customs regulations, laws, or procedures.",0.60,documentation prep some needs broker authority
+15946,Customs Brokers,Clear goods through customs and to their destinations for clients.,0.15,core licensed broker authority function
+15947,Business Continuity Planners,"Write reports to summarize testing activities, including descriptions of goals, planning, scheduling, execution, results, analysis, conclusions, and recommendations.",0.90,report writing task
+15948,Business Continuity Planners,Maintain and update organization information technology applications and network systems blueprints.,0.85,technical documentation maintenance
+15949,Business Continuity Planners,Interpret government regulations and applicable codes to ensure compliance.,0.80,regulatory interpretation analysis
+15950,Business Continuity Planners,Identify individual or transaction targets to direct intelligence collection.,0.70,research and analysis to identify targets
+15951,Business Continuity Planners,"Establish, maintain, or test call trees to ensure appropriate communication during disaster.",0.70,call tree setup mostly digital testing
+15952,Business Continuity Planners,Design or implement products and services to mitigate risk or facilitate use of technology-based tools and methods.,0.75,design and technical implementation
+15953,Business Continuity Planners,Create business continuity and disaster recovery budgets.,0.85,budget creation and planning
+15954,Business Continuity Planners,Create or administer training and awareness presentations or materials.,0.75,material creation digital some delivery live
+15955,Business Continuity Planners,"Attend professional meetings, read literature, and participate in training or other educational offerings to keep abreast of new developments and technologies related to disaster recovery and business",0.60,mix of research and physical attendance
+15956,Business Continuity Planners,Test documented disaster recovery strategies and plans.,0.55,plan testing mix simulation and drills
+15957,Business Continuity Planners,"Review existing disaster recovery, crisis management, or business continuity plans.",0.90,plan review and analysis
+15958,Business Continuity Planners,"Recommend or implement methods to monitor, evaluate, or enable resolution of safety, operations, or compliance interruptions.",0.60,recommend easy implement needs authority
+15959,Business Continuity Planners,"Prepare reports summarizing operational results, financial performance, or accomplishments of specified objectives, goals, or plans.",0.90,operational report writing
+15960,Business Continuity Planners,"Analyze impact on, and risk to, essential business functions or information systems to identify acceptable recovery time periods and resource requirements.",0.85,risk impact analysis
+15961,Business Continuity Planners,"Identify opportunities for strategic improvement or mitigation of business interruption and other risks caused by business, regulatory, or industry-specific change initiatives.",0.85,strategic improvement analysis
+15962,Business Continuity Planners,"Develop disaster recovery plans for physical locations with critical assets, such as data centers.",0.80,disaster recovery plan writing

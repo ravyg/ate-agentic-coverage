@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+12158,Sewing Machine Operators,"Mount attachments, such as needles, cutting blades, or pattern plates, and adjust machine guides according to specifications.",0.00,physical machine setup with tools
+12165,Sewing Machine Operators,"Cut materials according to specifications, using blades, scissors, or electric knives.",0.00,physical cutting of materials
+12156,Sewing Machine Operators,"Inspect garments, and examine repair tags and markings on garments to locate defects or damage, and mark errors as necessary.",0.05,physical garment inspection and marking
+12171,Sewing Machine Operators,"Attach buttons, hooks, zippers, fasteners, or other accessories to fabric, using feeding hoppers or clamp holders.",0.00,physical attachment of fasteners
+12168,Sewing Machine Operators,"Position material or articles in clamps, templates, or hoop frames prior to automatic operation of machines.",0.00,physical positioning in machine clamps
+12174,Sewing Machine Operators,Draw markings or pin appliques on fabric to obtain variations in design.,0.00,physical marking and pinning fabric
+12173,Sewing Machine Operators,Tape or twist together thread or cord to repair breaks.,0.00,physical thread repair by hand
+12172,Sewing Machine Operators,Baste edges of material to align and temporarily secure parts for final assembly.,0.00,physical basting of material
+12167,Sewing Machine Operators,Position and mark patterns on materials to prepare for sewing.,0.00,physical pattern positioning on materials
+12170,Sewing Machine Operators,"Perform specialized or automatic sewing machine functions, such as buttonhole making or tacking.",0.00,physical sewing machine operation
+14065,Shoe and Leather Workers and Repairers,"Dye, soak, polish, paint, stamp, stitch, stain, buff, or engrave leather or other materials to obtain desired effects, decorations, or shapes.",0.00,physical leather crafting and finishing
+14062,Shoe and Leather Workers and Repairers,"Cut out parts, following patterns or outlines, using knives, shears, scissors, or machine presses.",0.00,physical cutting with hand tools
+14063,Shoe and Leather Workers and Repairers,"Construct, decorate, or repair leather products according to specifications, using sewing machines, needles and thread, leather lacing, glue, clamps, hand tools, or rivets.",0.00,physical leather construction and repair
+14074,Shoe and Leather Workers and Repairers,"Repair and recondition leather products such as trunks, luggage, shoes, saddles, belts, purses, and baseball gloves.",0.00,physical repair of leather goods
+14064,Shoe and Leather Workers and Repairers,"Align and stitch or glue materials such as fabric, fleece, leather, or wood, to join parts.",0.00,physical stitching and gluing
+14079,Shoe and Leather Workers and Repairers,"Inspect articles for defects, and remove damaged or worn parts, using hand tools.",0.00,physical inspection and hand tool repair
+14080,Shoe and Leather Workers and Repairers,"Drill or punch holes and insert or attach metal rings, handles, and fastening hardware, such as buckles.",0.00,physical drilling and hardware attachment
+14087,Shoe and Leather Workers and Repairers,"Prepare inserts, heel pads, and lifts from casts of customers' feet.",0.00,physical fabrication from foot casts
+14067,Shoe and Leather Workers and Repairers,"Dress and otherwise finish boots or shoes, as by trimming the edges of new soles and heels to the shoe shape.",0.00,physical shoe finishing and trimming
+14069,Shoe and Leather Workers and Repairers,"Attach insoles to shoe lasts, affix shoe uppers, and apply heels and outsoles.",0.00,physical shoe assembly
+14076,Shoe and Leather Workers and Repairers,Clean and polish shoes.,0.00,physical cleaning and polishing
+14070,Shoe and Leather Workers and Repairers,"Cement, nail, or sew soles and heels to shoes.",0.00,physical attachment of soles and heels
+14077,Shoe and Leather Workers and Repairers,"Check the texture, color, and strength of leather to ensure that it is adequate for a particular purpose.",0.05,physical tactile inspection of leather
+14071,Shoe and Leather Workers and Repairers,"Shape shoe heels with a knife, and sand them on a buffing wheel for smoothness.",0.00,physical shaping with knife and buffer
+14075,Shoe and Leather Workers and Repairers,"Place shoes on lasts to remove soles and heels, using knives or pliers.",0.00,physical removal of shoe parts
+14072,Shoe and Leather Workers and Repairers,"Repair or replace soles, heels, and other parts of footwear, using sewing, buffing and other shoe repair machines, materials, and equipment.",0.00,physical footwear repair with machines
+14082,Shoe and Leather Workers and Repairers,"Cut, insert, position, and secure paddings, cushioning, or linings, using stitches or glue.",0.00,physical padding and cushioning work
+14068,Shoe and Leather Workers and Repairers,"Estimate the costs of requested products or services such as custom footwear or footwear repair, and receive payment from customers.",0.30,cost estimate feasible but in person payment collection needs human
+14083,Shoe and Leather Workers and Repairers,"Draw patterns, using measurements, designs, plaster casts, or customer specifications, and position or outline patterns on work pieces.",0.10,physical pattern tracing from casts
+14086,Shoe and Leather Workers and Repairers,Nail heel and toe cleats onto shoes.,0.00,physical nailing of cleats
+14088,Shoe and Leather Workers and Repairers,"Re-sew seams, and replace handles and linings of suitcases or handbags.",0.00,physical resewing and repair
+14085,Shoe and Leather Workers and Repairers,"Stretch shoes, dampening parts and inserting and twisting parts, using an adjustable stretcher.",0.00,physical shoe stretching
+14078,Shoe and Leather Workers and Repairers,"Read prescriptions or specifications, and take measurements to establish the type of product to be made, using calipers, tape measures, or rules.",0.15,reading specs feasible but physical measuring needs human
+14081,Shoe and Leather Workers and Repairers,Attach accessories or ornamentation to decorate or protect products.,0.00,physical attachment of ornamentation
+14073,Shoe and Leather Workers and Repairers,"Make, modify, and repair orthopedic or therapeutic footwear according to doctors' prescriptions, or modify existing footwear for people with foot problems and special needs.",0.00,physical orthopedic footwear fabrication
+14066,Shoe and Leather Workers and Repairers,"Select materials and patterns, and trace patterns onto materials to be cut out.",0.00,physical material selection and tracing
+24000,Shoe Machine Operators and Tenders,Inspect finished products to ensure that shoes have been completed according to specifications.,0.05,physical product inspection
+14094,Shoe Machine Operators and Tenders,"Align parts to be stitched, following seams, edges, or markings, before positioning them under needles.",0.00,physical alignment before stitching
+14100,Shoe Machine Operators and Tenders,"Operate or tend machines to join, decorate, reinforce, or finish shoes and shoe parts.",0.00,physical machine operation
+14090,Shoe Machine Operators and Tenders,"Remove and examine shoes, shoe parts, and designs to verify conformance to specifications such as proper embedding of stitches in channels.",0.00,physical examination of shoe parts
+14096,Shoe Machine Operators and Tenders,"Switch on machines, lower pressure feet or rollers to secure parts, and start machine stitching, using hand, foot, or knee controls.",0.00,physical machine controls with foot pedals
+14101,Shoe Machine Operators and Tenders,"Draw thread through machine guide slots, needles, and presser feet in preparation for stitching, or load rolls of wire through machine axles.",0.00,physical threading of machines
+14089,Shoe Machine Operators and Tenders,"Study work orders or shoe part tags to obtain information about workloads, specifications, and the types of materials to be used.",0.75,pure information review of work orders
+14091,Shoe Machine Operators and Tenders,Perform routine equipment maintenance such as cleaning and lubricating machines or replacing broken needles.,0.00,physical equipment maintenance
+14099,Shoe Machine Operators and Tenders,Test machinery to ensure proper functioning before beginning production.,0.00,physical machine testing on site
+14105,Shoe Machine Operators and Tenders,"Select and place spools of thread or pre-wound bobbins into shuttles, or onto spindles or loupers of stitching machines.",0.00,physical placement of spools and bobbins
+14092,Shoe Machine Operators and Tenders,"Cut excess thread or material from shoe parts, using scissors or knives.",0.00,physical cutting of thread
+14107,Shoe Machine Operators and Tenders,Turn knobs to adjust stitch length and thread tension.,0.00,physical knob adjustment on machine
+14102,Shoe Machine Operators and Tenders,Fill shuttle spools with thread from a machine's bobbin winder by pressing a foot treadle.,0.00,physical foot treadle operation
+14104,Shoe Machine Operators and Tenders,"Staple sides of shoes, pressing a foot treadle to position and hold each shoe under the feeder of the machine.",0.00,physical stapling with foot treadle
+14098,Shoe Machine Operators and Tenders,Position dies on material in a manner that will obtain the maximum number of parts from each portion of material.,0.15,layout optimization feasible but physical placement needs human
+14097,Shoe Machine Operators and Tenders,"Collect shoe parts from conveyer belts or racks and place them in machinery such as ovens or on molds for dressing, returning them to conveyers or racks to send them to the next work station.",0.00,physical material handling between stations
+14095,Shoe Machine Operators and Tenders,"Turn setscrews on needle bars, and position required numbers of needles in stitching machines.",0.00,physical needle positioning
+14093,Shoe Machine Operators and Tenders,Turn screws to regulate size of staples.,0.00,physical screw adjustment
+14106,Shoe Machine Operators and Tenders,Hammer loose staples for proper attachment.,0.00,physical hammering of staples
+14110,"Sewers, Hand","Select thread, twine, cord, or yarn to be used, and thread needles.",0.00,physical thread selection and needle threading
+14114,"Sewers, Hand","Measure and align parts, fasteners, or trimmings, following seams, edges, or markings on parts.",0.00,physical measuring and aligning parts
+14109,"Sewers, Hand","Trim excess threads or edges of parts, using scissors or knives.",0.00,physical trimming of thread
+14108,"Sewers, Hand","Sew, join, reinforce, or finish parts of articles, such as garments, books, mattresses, toys, and wigs, using needles and thread or other materials.",0.00,physical hand sewing
+14115,"Sewers, Hand","Use different sewing techniques such as felling, tacking, basting, embroidery, and fagoting.",0.00,physical hand sewing techniques
+24001,"Sewers, Hand","Fit garments on clients, altering as needed.",0.00,physical garment fitting on client
+14113,"Sewers, Hand","Smooth seams with heated irons, flat bones, or rubbing sticks.",0.00,physical seam smoothing with tools
+14111,"Sewers, Hand",Draw and cut patterns according to specifications.,0.10,pattern drawing partly feasible but physical cutting dominates
+14112,"Sewers, Hand","Fold, twist, stretch, or drape material, and secure articles in preparation for sewing.",0.00,physical material draping and folding
+14116,"Sewers, Hand","Sew buttonholes, or add lace or other trimming.",0.00,physical sewing of buttonholes
+14118,"Sewers, Hand","Tie, knit, weave or knot ribbon, yarn, or decorative materials.",0.00,physical tying and knotting
+12177,"Tailors, Dressmakers, and Custom Sewers","Measure parts, such as sleeves or pant legs, and mark or pin-fold alteration lines.",0.00,physical measuring and marking on garment
+12181,"Tailors, Dressmakers, and Custom Sewers","Remove stitches from garments to be altered, using rippers or razor blades.",0.00,physical stitch removal
+12176,"Tailors, Dressmakers, and Custom Sewers","Sew garments, using needles and thread or sewing machines.",0.00,physical sewing of garments
+12179,"Tailors, Dressmakers, and Custom Sewers",Let out or take in seams in suits and other garments to improve fit.,0.00,physical seam alteration
+12190,"Tailors, Dressmakers, and Custom Sewers","Measure customers, using tape measures, and record measurements.",0.05,physical measuring of customer body
+12175,"Tailors, Dressmakers, and Custom Sewers",Fit and study garments on customers to determine required alterations.,0.05,physical garment fitting on customer
+12187,"Tailors, Dressmakers, and Custom Sewers","Trim excess material, using scissors.",0.00,physical trimming with scissors
+12180,"Tailors, Dressmakers, and Custom Sewers","Assemble garment parts and join parts with basting stitches, using needles and thread or sewing machines.",0.00,physical garment assembly and stitching
+12189,"Tailors, Dressmakers, and Custom Sewers","Make garment style changes, such as tapering pant legs, narrowing lapels, and adding or removing padding.",0.00,physical style alterations
+12185,"Tailors, Dressmakers, and Custom Sewers",Maintain garment drape and proportions as alterations are performed.,0.00,physical judgment during manual alteration
+12178,"Tailors, Dressmakers, and Custom Sewers","Take up or let down hems to shorten or lengthen garment parts, such as sleeves.",0.00,physical hemming of garments
+12192,"Tailors, Dressmakers, and Custom Sewers","Repair or replace defective garment parts, such as pockets, zippers, snaps, buttons, and linings.",0.00,physical repair of garment parts
+12186,"Tailors, Dressmakers, and Custom Sewers","Press garments, using hand irons or pressing machines.",0.00,physical pressing with irons
+12184,"Tailors, Dressmakers, and Custom Sewers","Fit, alter, repair, and make made-to-measure clothing, according to customers' and clothing manufacturers' specifications and fit, and applying principles of garment design, construction, and styling.",0.05,physical fitting and alteration of clothing
+12191,"Tailors, Dressmakers, and Custom Sewers","Estimate how much a garment will cost to make, based on factors such as time and material requirements.",0.80,cost estimation is computational text task
+12194,"Tailors, Dressmakers, and Custom Sewers","Position patterns of garment parts on fabric, and cut fabric along outlines, using scissors.",0.00,physical cutting of fabric
+12182,"Tailors, Dressmakers, and Custom Sewers","Record required alterations and instructions on tags, and attach them to garments.",0.15,record keeping feasible but physical tagging needs human
+12193,"Tailors, Dressmakers, and Custom Sewers",Confer with customers to determine types of material and garment styles desired.,0.45,client consultation needs live rapport
+12183,"Tailors, Dressmakers, and Custom Sewers",Examine tags on garments to determine alterations that are needed.,0.15,requires physically examining tags on garments
+12188,"Tailors, Dressmakers, and Custom Sewers","Develop, copy, or adapt designs for garments, and design patterns to fit measurements, applying knowledge of garment design, construction, styling, and fabric.",0.55,garment design and patternmaking is largely digital creative work
+12196,"Tailors, Dressmakers, and Custom Sewers",Put in padding and shaping materials.,0.00,physical padding insertion
+12195,"Tailors, Dressmakers, and Custom Sewers",Sew buttonholes and attach buttons to finish garments.,0.00,physical sewing of buttons and holes
+23982,Textile Bleaching and Dyeing Machine Operators and Tenders,"Weigh ingredients, such as dye, to be mixed together for use in textile processing.",0.00,physical weighing and mixing of dye
+14127,Textile Bleaching and Dyeing Machine Operators and Tenders,"Start and control machines and equipment to wash, bleach, dye, or otherwise process and finish fabric, yarn, thread, or other textile goods.",0.05,physical machine startup and control on site
+14124,Textile Bleaching and Dyeing Machine Operators and Tenders,"Observe display screens, control panels, equipment, and cloth entering or exiting processes to determine if equipment is operating correctly.",0.15,monitoring feasible with sensor feed but typically physical presence
+14122,Textile Bleaching and Dyeing Machine Operators and Tenders,Notify supervisors or mechanics of equipment malfunctions.,0.60,notification task feasible if given monitoring data
+14126,Textile Bleaching and Dyeing Machine Operators and Tenders,Monitor factors such as temperatures and dye flow rates to ensure that they are within specified ranges.,0.55,monitoring feasible with sensor data access
+14121,Textile Bleaching and Dyeing Machine Operators and Tenders,"Add dyes, water, detergents, or chemicals to tanks to dilute or strengthen solutions, according to established formulas and solution test results.",0.00,physical addition of chemicals to tanks
+14128,Textile Bleaching and Dyeing Machine Operators and Tenders,Examine and feel products to identify defects and variations from coloring and other processing standards.,0.00,requires physical tactile feel of product
+14123,Textile Bleaching and Dyeing Machine Operators and Tenders,"Adjust equipment controls to maintain specified heat, tension, and speed.",0.10,physical adjustment of equipment controls
+14138,Textile Bleaching and Dyeing Machine Operators and Tenders,Soak specified textile products for designated times.,0.00,physical soaking process management
+14134,Textile Bleaching and Dyeing Machine Operators and Tenders,Inspect machinery to determine necessary adjustments and repairs.,0.00,physical machinery inspection
+14133,Textile Bleaching and Dyeing Machine Operators and Tenders,"Confer with coworkers to get information about order details, processing plans, or problems that occur.",0.55,coworker communication feasible remotely
+14136,Textile Bleaching and Dyeing Machine Operators and Tenders,"Sew ends of cloth together, by hand or using machines, to form endless lengths of cloth to facilitate processing.",0.00,physical sewing of cloth ends
+14142,Textile Bleaching and Dyeing Machine Operators and Tenders,Ravel seams that connect cloth ends when processing is completed.,0.00,physical seam raveling
+14131,Textile Bleaching and Dyeing Machine Operators and Tenders,Remove dyed articles from tanks and machines for drying and further processing.,0.00,physical removal of dyed articles
+14132,Textile Bleaching and Dyeing Machine Operators and Tenders,"Study guides, charts, and specification sheets, and confer with supervisors to determine machine setup requirements.",0.55,info review and communication about setup
+14125,Textile Bleaching and Dyeing Machine Operators and Tenders,"Prepare dyeing machines for production runs, and conduct test runs of machines to ensure their proper operation.",0.00,physical machine preparation and test runs
+14137,Textile Bleaching and Dyeing Machine Operators and Tenders,Key in processing instructions to program electronic equipment.,0.75,digital data entry into equipment
+14130,Textile Bleaching and Dyeing Machine Operators and Tenders,Test solutions used to process textile goods to detect variations from standards.,0.05,physical lab testing of solutions
+14129,Textile Bleaching and Dyeing Machine Operators and Tenders,"Record production information such as fabric yardage processed, temperature readings, fabric tensions, and machine speeds.",0.75,data recording task feasible digitally
+14139,Textile Bleaching and Dyeing Machine Operators and Tenders,Thread ends of cloth or twine through specified sections of equipment prior to processing.,0.00,physical threading of cloth through equipment
+14140,Textile Bleaching and Dyeing Machine Operators and Tenders,"Mount rolls of cloth on machines, using hoists, or place textile goods in machines or pieces of equipment.",0.00,physical mounting of cloth rolls with hoists
+14143,Textile Bleaching and Dyeing Machine Operators and Tenders,"Install, level, and align components such as gears, chains, dies, cutters, and needles.",0.00,physical installation and alignment of components
+14141,Textile Bleaching and Dyeing Machine Operators and Tenders,"Perform machine maintenance, such as cleaning and oiling equipment, and repair or replace worn or defective parts.",0.00,physical machine maintenance and repair
+21156,"Textile Cutting Machine Setters, Operators, and Tenders",Inspect products to ensure that the quality standards and specifications are met.,0.05,physical product quality inspection
+14145,"Textile Cutting Machine Setters, Operators, and Tenders","Place patterns on top of layers of fabric and cut fabric following patterns, using electric or manual knives, cutters, or computer numerically controlled cutting devices.",0.05,physical pattern placement and cutting
+14153,"Textile Cutting Machine Setters, Operators, and Tenders","Start machines, monitor operations, and make adjustments as needed.",0.05,physical machine start and adjustment on site
+14150,"Textile Cutting Machine Setters, Operators, and Tenders","Adjust machine controls, such as heating mechanisms, tensions, or speeds, to produce specified products.",0.05,physical adjustment of machine controls
+14155,"Textile Cutting Machine Setters, Operators, and Tenders",Record information about work completed and machine settings.,0.75,data recording task feasible digitally
+14146,"Textile Cutting Machine Setters, Operators, and Tenders",Notify supervisors of mechanical malfunctions.,0.60,notification task feasible given monitoring data
+14149,"Textile Cutting Machine Setters, Operators, and Tenders",Inspect machinery to determine whether repairs are needed.,0.05,physical machinery inspection
+14152,"Textile Cutting Machine Setters, Operators, and Tenders","Confer with coworkers to obtain information about orders, processes, or problems.",0.55,coworker communication feasible remotely
+14147,"Textile Cutting Machine Setters, Operators, and Tenders","Repair or replace worn or defective parts or components, using hand tools.",0.00,physical repair with hand tools
+14154,"Textile Cutting Machine Setters, Operators, and Tenders","Clean, oil, and lubricate machines, using air hoses, cleaning solutions, rags, oilcans, and grease guns.",0.00,physical cleaning and lubrication
+14162,"Textile Cutting Machine Setters, Operators, and Tenders","Thread yarn, thread, or fabric through guides, needles, and rollers of machines.",0.00,physical threading of machine
+14156,"Textile Cutting Machine Setters, Operators, and Tenders","Operate machines to cut multiple layers of fabric into parts for articles such as canvas goods, house furnishings, garments, hats, or stuffed toys.",0.00,physical machine operation to cut fabric
+14148,"Textile Cutting Machine Setters, Operators, and Tenders",Adjust cutting techniques to types of fabrics and styles of garments.,0.15,technique recommendation feasible but execution is physical
+14161,"Textile Cutting Machine Setters, Operators, and Tenders",Program electronic equipment.,0.85,programming electronic equipment is digital task
+14157,"Textile Cutting Machine Setters, Operators, and Tenders","Study guides, samples, charts, and specification sheets or confer with supervisors or engineering staff to determine set-up requirements.",0.55,info review and communication about setup
+14159,"Textile Cutting Machine Setters, Operators, and Tenders",Stop machines when specified amounts of product have been produced.,0.10,physical stopping of machine on site
+14158,"Textile Cutting Machine Setters, Operators, and Tenders",Operate machines for test runs to verify adjustments and to obtain product samples.,0.05,physical test run operation of machines
+14160,"Textile Cutting Machine Setters, Operators, and Tenders","Install, level, and align components, such as gears, chains, guides, dies, cutters, or needles, to set up machinery for operation.",0.00,physical installation and alignment of components
+14165,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",Observe woven cloth to detect weaving defects.,0.10,physical observation of cloth for defects

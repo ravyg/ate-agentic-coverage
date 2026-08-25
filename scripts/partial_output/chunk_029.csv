@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+20247,"Pediatricians, General","Prepare government or organizational reports of birth, death, and disease statistics, workforce evaluations, or medical status of individuals.",0.75,compiling and drafting statistical reports from records
+20254,Medical Transcriptionists,"Take dictation using shorthand, a stenotype machine, or headsets and transcribing machines.",0.90,speech-to-text transcription is core AI capability
+20266,First-Line Supervisors of Non-Retail Sales Workers,"Direct and supervise employees engaged in sales, inventory-taking, reconciling cash receipts, or performing specific services.",0.15,supervising employees needs live human presence and authority
+20267,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",Prepare sales contracts and order forms.,0.75,drafting contract documents though signing needs authority
+20268,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",Negotiate details of contracts and payments.,0.35,contract negotiation needs human rapport and authority
+20271,Cargo and Freight Agents,Track delivery progress of shipments.,0.90,shipment tracking via systems is pure information work
+20272,Cargo and Freight Agents,"Notify consignees, passengers, or customers of freight or baggage arrival and arrange for delivery.",0.80,notifications and delivery coordination via communication systems
+20273,Cargo and Freight Agents,Check import or export documentation to determine cargo contents and use tariff coding system to classify goods according to fee or tariff group.,0.90,document review and tariff classification
+20274,Cargo and Freight Agents,"Prepare manifests showing numbers of airplane passengers and baggage, mail, and freight weights, transmitting data to destinations.",0.90,manifest data compilation and transmission
+20275,Cargo and Freight Agents,Contact vendors or claims adjustment departments to resolve shipment problems or contact service depots to arrange for repairs.,0.65,vendor coordination calls though resolution may need judgment
+20276,"Shipping, Receiving, and Inventory Clerks","Examine shipment contents and compare with records, such as manifests, invoices, or orders, to verify accuracy.",0.15,requires physical examination of shipment contents
+20277,"Shipping, Receiving, and Inventory Clerks","Pack, seal, label, or affix postage to prepare materials for shipping, using hand tools, power tools, or postage meter.",0.03,physical packing and labeling task
+20278,"Shipping, Receiving, and Inventory Clerks","Deliver or route materials to departments using handtruck, conveyor, or sorting bins.",0.00,physical material handling and delivery
+20279,"Shipping, Receiving, and Inventory Clerks","Determine shipping methods, routes, or rates for materials to be shipped.",0.85,logistics route and rate decisions from data
+20280,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Use computers for various applications, such as database management or word processing.",0.90,pure computer application work
+20281,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Create, maintain, and enter information into databases.",0.90,database data entry and maintenance
+20282,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Set up and manage paper or electronic filing systems, recording information, updating paperwork, or maintaining documents, such as attendance records, correspondence, or other material.",0.55,mixed paper filing and electronic record keeping
+20283,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Operate office equipment, such as fax machines, copiers, or phone systems and arrange for repairs when equipment malfunctions.",0.10,physical operation and repair of office equipment
+20284,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Compose, type, and distribute meeting notes, routine correspondence, or reports, such as presentations or expense, statistical, or monthly reports.",0.90,composing and distributing text documents
+20285,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Perform payroll functions, such as maintaining timekeeping information and processing and submitting payroll.",0.80,payroll data processing via software systems
+20286,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Collect and deposit money into accounts, disburse funds from cash accounts to pay bills or invoices, keep records of collections and disbursements, and ensure accounts are balanced.",0.30,physical cash handling though record keeping is digital
+20287,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Coordinate conferences, meetings, or special events, such as luncheons or graduation ceremonies.",0.55,vendor coordination feasible but on-site event execution needs presence
+20288,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Develop or maintain internal or external company Web sites.,0.90,web development is pure technical work
+20289,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Train and assist staff with computer usage.,0.45,live computer training benefits from human presence
+20290,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Prepare conference or event materials, such as flyers or invitations.",0.90,designing and preparing event materials
+20318,Search Marketing Strategists,Assist in setting up or optimizing analytics tools for tracking visitors' behaviors.,0.80,analytics tool setup via web dashboards
+20319,Search Marketing Strategists,Combine secondary data sources with keyword research to more accurately profile and satisfy user intent.,0.90,data synthesis and keyword research
+20320,Search Marketing Strategists,"Coordinate with developers to optimize Web site architecture, server configuration, or page construction for search engine consumption and optimal visibility.",0.75,technical coordination and site optimization work
+20321,Search Marketing Strategists,Create content strategies for digital media.,0.85,content strategy planning and writing
+20322,Search Marketing Strategists,Evaluate new emerging media or technologies and make recommendations for their application within Internet marketing or search marketing campaigns.,0.85,research and recommendation on technologies
+20323,Search Marketing Strategists,Execute and manage communications with digital journalists or bloggers.,0.45,media relationships need human trust and rapport
+20324,Search Marketing Strategists,"Execute or manage banner, video, or other non-text link ad campaigns.",0.80,ad campaign management via digital platforms
+20325,Search Marketing Strategists,Execute or manage social media campaigns to inform search marketing tactics.,0.80,social media campaign management via platforms
+20326,Search Marketing Strategists,Identify appropriate Key Performance Indicators (KPIs) and report key metrics from digital campaigns.,0.90,KPI identification and metrics reporting
+20327,Search Marketing Strategists,"Improve search-related activities through ongoing analysis, experimentation, or optimization tests, using A/B or multivariate methods.",0.85,analysis and experimentation on digital data
+20328,Search Marketing Strategists,Manage tracking and reporting of search-related activities and provide analyses to marketing executives.,0.85,tracking and reporting to executives
+20329,Search Marketing Strategists,"Optimize digital assets, such as text, graphics, or multimedia assets, for search engine optimization (SEO) or for display and usability on internet-connected devices.",0.85,digital asset optimization for SEO
+20330,Search Marketing Strategists,Optimize shopping cart experience or Web site conversion rates against Key Performance Indicators (KPIs).,0.80,conversion rate optimization via web analytics
+20331,Search Marketing Strategists,"Purchase or negotiate placement of listings in local search engines, directories, or digital mapping technologies.",0.55,listing purchase and negotiation needs spending authority
+20363,Tax Preparers,Answer questions and provide future tax planning to clients.,0.55,tax planning advice benefits from licensed judgment
+20364,Tax Preparers,Explain federal and state tax laws to individuals and companies.,0.85,explaining tax laws is informational content
+20403,Chiropractors,"Recommend and arrange for diagnostic procedures, such as blood chemistry tests, saliva tests, x-rays, or other imaging procedures.",0.25,ordering medical diagnostics needs licensed authority
+20404,Pharmacists,"Offer health promotion or prevention activities, such as training people to use blood pressure devices or diabetes monitors.",0.40,hands-on health training needs human presence
+20405,Pharmacists,Contact insurance companies to resolve billing issues.,0.65,billing resolution via calls and forms
+20406,Pharmacists,Update or troubleshoot pharmacy information databases.,0.80,database update and troubleshooting
+20407,Physical Therapists,Inform patients and refer to appropriate practitioners when diagnosis reveals findings outside physical therapy.,0.30,clinical referral needs licensed judgment and patient interaction
+20408,Radiation Therapists,Schedule patients for treatment times.,0.90,pure scheduling task
+20409,Respiratory Therapists,Transport patients to the hospital or within the hospital.,0.00,physical patient transport
+20410,Respiratory Therapists,Perform endotracheal intubation to maintain open airways for patients who are unable to breathe on their own.,0.00,physical invasive medical procedure
+20411,Respiratory Therapists,"Monitor cardiac patients, using electrocardiography devices, such as a holter monitor.",0.15,physical device attachment and clinical monitoring
+20412,Veterinarians,Counsel clients about the deaths of their pets or about euthanasia decisions for their pets.,0.08,emotional counseling needs human presence and empathy
+20413,Registered Nurses,Administer medications to patients and monitor patients for reactions or side effects.,0.05,physical medication administration to patients
+20414,Clinical Nurse Specialists,"Provide consultation to other health care providers in areas such as patient discharge, patient care, or clinical procedures.",0.35,clinical consultation needs licensed judgment
+20415,Clinical Nurse Specialists,"Develop and maintain departmental policies, procedures, objectives, or patient care standards, based on evidence-based practice guidelines or expert opinion.",0.65,policy drafting from evidence though approval needs authority
+20416,Clinical Nurse Specialists,Design evaluation programs regarding the quality and effectiveness of nursing practice or organizational systems.,0.75,designing evaluation programs is informational
+20417,Clinical Nurse Specialists,Design patient education programs that include information required to make informed health care and treatment decisions.,0.80,designing patient education content
+20418,Clinical Nurse Specialists,"Lead nursing department implementation of, or compliance with, regulatory or accreditation processes.",0.25,leading organizational compliance needs human authority
+20419,Clinical Nurse Specialists,Chair nursing departments or committees.,0.10,chairing a committee needs human presence and authority
+20420,Clinical Nurse Specialists,Teach patient education programs that include information required to make informed health care and treatment decisions.,0.45,live teaching benefits from human presence
+20421,Dietetic Technicians,"Conduct nutritional assessments of individuals, including obtaining and evaluating individuals' dietary histories, to plan nutritional programs.",0.65,assessment via interview and data evaluation
+20422,Veterinary Technologists and Technicians,Restrain animals during exams or procedures.,0.00,physical restraint of animals
+20423,Veterinary Technologists and Technicians,"Discuss medical health of pets with clients, such as post-operative status.",0.45,client communication needs veterinary trust and judgment
+20424,Veterinary Technologists and Technicians,Schedule appointments and procedures for animals.,0.90,pure scheduling task
+20427,"Switchboard Operators, Including Answering Service","Perform various data entry or word processing tasks, such as updating phone directories, typing or proofreading documents, or creating schedules.",0.90,data entry and word processing tasks
+20428,"Switchboard Operators, Including Answering Service","Process incoming or outgoing mail, packages, or deliveries.",0.05,physical mail and package handling
+20429,"Switchboard Operators, Including Answering Service","Perform administrative tasks, such as accepting orders, scheduling appointments or meeting rooms, or sending and receiving faxes.",0.75,mostly digital administrative tasks
+20430,"Switchboard Operators, Including Answering Service","Monitor emergency and code alarms, make emergency announcements, or route emergency calls to the appropriate location.",0.20,emergency response needs accountable human presence
+20431,"Switchboard Operators, Including Answering Service","Greet visitors, log them in and out of the facility, assign them security badges, and contact employee escorts.",0.10,physical greeting and badge assignment at facility
+20432,"Switchboard Operators, Including Answering Service","Perform various cash handling tasks, such as collecting payments, making bank deposits, or managing petty cash.",0.10,physical cash handling tasks
+20433,"Switchboard Operators, Including Answering Service","Place orders, such as for equipment, supplies, or catering for meetings.",0.75,ordering supplies via digital systems
+20434,"Interviewers, Except Eligibility and Loan",Supervise or train other staff members.,0.20,supervising and training staff needs human presence
+20435,"Interviewers, Except Eligibility and Loan","Perform office duties, such as telemarketing or customer service inquiries, maintaining staff records, billing patients, or receiving payments.",0.65,mixed telemarketing customer service and billing tasks
+20436,Reservation and Transportation Ticket Agents and Travel Clerks,Keep information facilities clean during operation.,0.00,physical facility cleaning
+20437,Reservation and Transportation Ticket Agents and Travel Clerks,Open or close information facilities.,0.00,physically opening or closing a facility
+20438,Medical Secretaries and Administrative Assistants,"Schedule tests or procedures for patients, such as lab work or x-rays, based on physician orders.",0.90,pure scheduling task from orders
+20473,Environmental Compliance Inspectors,Prepare data to calculate sewer service charges and capacity fees.,0.90,data preparation and fee calculation
+20474,Training and Development Specialists,"Design, plan, organize, or direct orientation and training programs for employees or customers.",0.60,program design is informational though directing sessions needs presence
+20475,Training and Development Specialists,"Obtain, organize, or develop training procedure manuals, guides, or course materials, such as handouts or visual materials.",0.90,developing training content materials
+20476,Training and Development Specialists,Monitor training costs and prepare budget reports to justify expenditures.,0.90,budget tracking and reporting
+20477,Training and Development Specialists,"Supervise, evaluate, or refer instructors to skill development classes.",0.30,supervising and evaluating staff needs human authority
+20562,"Dentists, General","Use masks, gloves, and safety glasses to protect patients and self from infectious diseases.",0.00,physical PPE use during patient care
+20563,"Dentists, General","Use dental air turbines, hand instruments, dental appliances, or surgical implements.",0.00,physical use of dental instruments
+20564,"Dentists, General",Manage business aspects such as employing or supervising staff or handling paperwork or insurance claims.,0.45,paperwork feasible but staffing needs human authority
+20565,Cytogenetic Technologists,Select appropriate culturing system or procedure based on specimen type and reason for referral.,0.55,protocol selection is informational though lab execution is physical
+20566,Cytogenetic Technologists,"Describe chromosome, FISH and aCGH analysis results in International System of Cytogenetic Nomenclature (ISCN) language.",0.75,structured nomenclature writing from analysis results
+20567,Cytogenetic Technologists,"Extract, measure, dilute as appropriate, label, and prepare DNA for array analysis.",0.00,physical lab specimen preparation
+20568,Cytogenetic Technologists,"Input details of specimen processing, analysis, and technical issues into logs or laboratory information systems (LIS).",0.90,pure data entry into lab information systems
+20569,Cytogenetic Technologists,"Apply prepared specimen and control to appropriate grid, run instrumentation, and produce analyzable results.",0.00,physical lab instrumentation work
+20570,Cytogenetic Technologists,"Develop, implement, and monitor quality control and quality assurance programs to ensure accurate and precise test performance and reports.",0.55,QA program design is informational though implementation needs lab presence
+20571,Cytogenetic Technologists,Evaluate appropriateness of received specimens for requested tests.,0.35,specimen evaluation typically needs physical inspection
+20572,Cytogenetic Technologists,Communicate to responsible parties unacceptable specimens and suggest remediation for future submissions.,0.85,pure communication task
+20573,Cytogenetic Technologists,Archive case documentation and study materials as required by regulations and laws.,0.65,mostly digital archiving with possible physical materials
+20575,Psychiatric Technicians,Train or instruct new employees on procedures to follow with psychiatric patients.,0.40,live staff training needs human presence
+20576,Psychiatric Technicians,Escort patients to medical appointments.,0.00,physical escort of patients
+20577,Home Health Aides,Bathe patients.,0.00,physical patient bathing
+20578,Psychiatric Aides,Listen and provide emotional support and encouragement to psychiatric patients.,0.08,emotional support needs human presence and trust
+20608,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Prepare and submit sales contracts for orders.,0.80,preparing and submitting sales contracts digitally
+20609,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Contact new or existing customers to discuss how specific products or services can meet their needs.,0.45,sales outreach needs human rapport
+20610,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Select or assist customers in selecting products based on customer needs, product specifications, and applicable regulations.",0.70,product recommendation from customer needs and specs
+20611,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Verify that delivery schedules meet project deadlines.,0.85,verifying schedules against data
+20612,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Identify prospective customers, using business directories, leads from existing clients, participation in organizations, or trade show or conference attendance.",0.55,directory research feasible though trade shows need presence
+20613,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Advise customers on product usage to improve production.,0.75,informational advice on product usage
+20614,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Study documentation or other information for new scientific or technical products.,0.90,researching product documentation
+20615,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Attend sales or trade meetings or read related publications to obtain information about market conditions, business trends, environmental regulations, or industry developments.",0.55,reading publications feasible though meetings need presence
+20616,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Sell service contracts for technical or scientific products.,0.45,selling contracts needs negotiation and trust
+20617,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Demonstrate the operation or use of technical or scientific products.,0.30,physical product demonstration typically needed
+20618,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Initiate sales campaigns to meet sales and production expectations.,0.70,planning and executing sales campaigns
+20619,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Verify accuracy of materials lists.,0.90,verifying data accuracy
+20620,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Verify customer credit ratings.,0.85,credit rating lookup via data systems
+20622,Brokerage Clerks,"Document security transactions, such as purchases, sales, conversions, redemptions, or payments, using computers, accounting ledgers, or certificate records.",0.90,documenting transactions in records
+20623,Brokerage Clerks,"Perform clerical tasks, such as answering phones or distributing mail.",0.45,answering phones feasible but mail distribution is physical
+20627,File Clerks,"Input data, such as file numbers, new or updated information, or document information codes into computer systems to support document and information retrieval.",0.90,pure data entry task
+20628,File Clerks,"Perform general office activities, such as typing, answering telephones, operating office machines, processing mail, or securing confidential materials.",0.40,mixed physical and digital office activities
+20629,File Clerks,"Keep records of materials filed or removed, using logbooks or computers and generate computerized reports.",0.85,record keeping and generating reports
+20630,File Clerks,"Find, retrieve, and make copies of information from files in response to requests and deliver information to authorized users.",0.40,physical file retrieval and delivery likely needed
+20631,File Clerks,"Complete general financial activities, such as processing accounts payable, reviewing invoices, collecting cash payments, or issuing receipts.",0.55,mixed digital invoice processing and physical cash handling
+20710,"Wholesale and Retail Buyers, Except Farm Products",Buy merchandise or commodities for resale to wholesale or retail consumers.,0.40,purchasing needs spending authority though sourcing is informational
+20711,"Wholesale and Retail Buyers, Except Farm Products","Negotiate prices, discount terms, or transportation arrangements with suppliers.",0.35,supplier negotiation needs human authority
+20712,"Wholesale and Retail Buyers, Except Farm Products","Examine, select, order, or purchase merchandise consistent with quality, quantity, specification requirements, or other factors, such as environmental soundness.",0.40,mixed physical inspection and purchasing authority
+20713,"Wholesale and Retail Buyers, Except Farm Products","Recommend mark-up rates, mark-down rates, or merchandise selling prices.",0.85,pricing analysis and recommendation
+20714,"Wholesale and Retail Buyers, Except Farm Products",Obtain information about customer needs or preferences by conferring with sales or purchasing personnel.,0.55,gathering info via conferring with personnel
+20715,"Wholesale and Retail Buyers, Except Farm Products",Collaborate with vendors to obtain or develop desired products.,0.45,vendor collaboration needs relationship and negotiation
+20716,"Wholesale and Retail Buyers, Except Farm Products","Inspect merchandise or products to determine quality, value, or yield.",0.20,physical inspection of merchandise
+20717,"Wholesale and Retail Buyers, Except Farm Products",Conduct sales meetings to introduce new merchandise.,0.30,live sales meeting leadership needs presence
+20719,Equal Opportunity Representatives and Officers,Prepare reports related to investigations of equal opportunity complaints.,0.80,report writing from investigation records
+20720,Equal Opportunity Representatives and Officers,Interview persons involved in equal opportunity complaints to verify case information.,0.45,interviewing complainants to verify facts
+20721,Equal Opportunity Representatives and Officers,Meet with persons involved in equal opportunity complaints to arbitrate and settle disputes.,0.15,arbitration needs human authority and trust
+20722,Equal Opportunity Representatives and Officers,Develop guidelines for nondiscriminatory employment practices.,0.75,drafting policy guidelines is informational
+20723,Equal Opportunity Representatives and Officers,Monitor the implementation and impact of guidelines for nondiscriminatory employment practices.,0.65,monitoring guideline implementation via data
+20757,Massage Therapists,Perform other adjunctive therapies or treatment techniques in addition to massage.,0.00,physical hands-on therapy technique

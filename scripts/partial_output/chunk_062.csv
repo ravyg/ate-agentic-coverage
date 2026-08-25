@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+3700,Park Naturalists,Survey park to determine forest conditions and distribution and abundance of fauna and flora.,0.20,requires on-site field survey
+195,Foresters,Monitor contract compliance and results of forestry activities to assure adherence to government regulations.,0.35,mostly needs on-site inspection and authority
+200,Foresters,"Negotiate terms and conditions of agreements and contracts for forest harvesting, forest management and leasing of forest lands.",0.25,human negotiation and legal authority to sign
+205,Foresters,Plan and implement projects for conservation of wildlife habitats and soil and water quality.,0.30,planning feasible but implementation needs physical presence
+196,Foresters,Establish short- and long-term plans for management of forest lands and forest resources.,0.65,data-driven planning and analysis work
+212,Foresters,"Plan cutting programs and manage timber sales from harvested areas, assisting companies to achieve production goals.",0.35,planning portion feasible but managing sales needs human interaction
+202,Foresters,Determine methods of cutting and removing timber with minimum waste and environmental damage.,0.55,analytical determination from data
+207,Foresters,Perform inspections of forests or forest nurseries.,0.10,requires physical on-site inspection
+208,Foresters,Map forest area soils and vegetation to estimate the amount of standing timber and future value and growth.,0.60,GIS and remote-sensing data analysis
+204,Foresters,Monitor forest-cleared lands to ensure that they are reclaimed to their most suitable end use.,0.35,monitoring largely needs on-site or authoritative sign-off
+219,Foresters,Develop techniques for measuring and identifying trees.,0.55,technique development is analytical though testing needs field work
+197,Foresters,Supervise activities of other forestry workers.,0.15,requires managing human workers on site
+206,Foresters,Plan and direct forest surveys and related studies and prepare reports and recommendations.,0.45,report writing feasible but directing field studies needs presence
+216,Foresters,"Provide advice and recommendations, as a consultant on forestry issues, to private woodlot owners, firefighters, government agencies or to companies.",0.50,advisory work but relies on human trust and context
+199,Foresters,"Plan and supervise forestry projects, such as determining the type, number and placement of trees to be planted, managing tree nurseries, thinning forest and monitoring growth of new seedlings.",0.25,mostly physical planting nursery and field supervision
+198,Foresters,"Choose and prepare sites for new trees, using controlled burning, bulldozers, or herbicides to clear weeds, brush, and logging debris.",0.05,physical site clearing with heavy equipment
+210,Foresters,Procure timber from private landowners.,0.20,negotiation and trust with landowners
+211,Foresters,Subcontract with loggers or pulpwood cutters for tree removal and to aid in road layout.,0.15,contracting and physical road layout assistance
+201,Foresters,"Direct, and participate in, forest fire suppression.",0.02,physical emergency firefighting response
+217,Foresters,"Study different tree species' classification, life history, light and soil requirements, adaptation to new environmental conditions and resistance to disease and insects.",0.85,literature-based research and analysis
+203,Foresters,"Analyze effect of forest conditions on tree growth rates and tree species prevalence and the yield, duration, seed production, growth viability, and germination of different species.",0.85,quantitative data analysis
+214,Foresters,"Plan and direct construction and maintenance of recreation facilities, fire towers, trails, roads and bridges, ensuring that they comply with guidelines and regulations set for forested public lands.",0.25,planning feasible but directing construction needs presence
+209,Foresters,Conduct public educational programs on forest care and conservation.,0.30,live public engagement though materials can be prepared
+213,Foresters,Monitor wildlife populations and assess the impacts of forest operations on population and habitats.,0.35,field data collection with some remote analysis
+215,Foresters,"Contact local forest owners and gain permission to take inventory of the type, amount, and location of all standing timber on the property.",0.20,requires human contact trust and physical inventory
+218,Foresters,Develop new techniques for wood or residue use.,0.55,analytical and creative R and D though testing needs physical work
+15216,Epidemiologists,"Communicate research findings on various types of diseases to health practitioners, policy makers, and the public.",0.75,primarily writing and communicating findings
+5421,Epidemiologists,"Oversee public health programs, including statistical analysis, health care planning, surveillance systems, and public health improvement.",0.35,oversight requires accountable human authority though analysis assists
+5422,Epidemiologists,"Investigate diseases or parasites to determine cause and risk factors, progress, life cycle, or mode of transmission.",0.55,combines data analysis with physical lab investigation
+15217,Epidemiologists,"Educate healthcare workers, patients, and the public about infectious and communicable diseases, including disease transmission and prevention.",0.55,content creation high but live education needs interaction
+15215,Epidemiologists,Monitor and report incidents of infectious diseases to local and state health agencies.,0.65,data monitoring and reporting largely info work
+5423,Epidemiologists,"Plan and direct studies to investigate human or animal disease, preventive methods, and treatments for disease.",0.35,planning feasible but directing studies needs accountable presence
+5425,Epidemiologists,"Provide expertise in the design, management and evaluation of study protocols and health status questionnaires, sample selection, and analysis.",0.75,mostly analytical protocol and study design work
+23961,Epidemiologists,Write articles for publication in professional journals.,0.90,pure writing task
+5429,Epidemiologists,"Identify and analyze public health issues related to foodborne parasitic diseases and their impact on public policies, scientific studies, or surveys.",0.80,analytical public health issue assessment
+23962,Epidemiologists,Write grant applications to fund epidemiologic research.,0.85,grant writing is a text task
+5424,Epidemiologists,"Plan, administer and evaluate health safety standards and programs to improve public health, conferring with health department, industry personnel, physicians, and others.",0.30,administering standards and conferring with humans
+5426,Epidemiologists,"Conduct research to develop methodologies, instrumentation, and procedures for medical application, analyzing data and presenting findings.",0.45,research mixes analysis with instrumentation development
+5427,Epidemiologists,"Consult with and advise physicians, educators, researchers, government health officials and others regarding medical applications of sciences, such as physics, biology, and chemistry.",0.40,advisory consulting needs live professional interaction
+5428,Epidemiologists,"Supervise professional, technical, and clerical personnel.",0.10,supervision of human personnel
+5430,Epidemiologists,"Teach principles of medicine and medical and laboratory procedures to physicians, residents, students, and technicians.",0.35,live teaching and lab instruction needs human presence
+5432,Epidemiologists,"Prepare and analyze samples to study effects of drugs, gases, pesticides, or microorganisms on cell structure and tissue.",0.10,physical lab sample preparation
+7514,"Medical Scientists, Except Epidemiologists",Follow strict safety procedures when handling toxic materials to avoid contamination.,0.02,physical handling of toxic materials
+7515,"Medical Scientists, Except Epidemiologists","Evaluate effects of drugs, gases, pesticides, parasites, and microorganisms at various levels.",0.40,evaluation partly analytical partly requires physical experiments
+7513,"Medical Scientists, Except Epidemiologists","Plan and direct studies to investigate human or animal disease, preventive methods, and treatments for disease.",0.35,planning feasible but directing studies needs accountable presence
+7517,"Medical Scientists, Except Epidemiologists","Prepare and analyze organ, tissue, and cell samples to identify toxicity, bacteria, or microorganisms or to study cell structure.",0.10,physical lab sample preparation
+20200,"Medical Scientists, Except Epidemiologists","Conduct research to develop methodologies, instrumentation, and procedures for medical application, analyzing data and presenting findings to the scientific audience and general public.",0.45,research mixes analysis with instrumentation development
+7516,"Medical Scientists, Except Epidemiologists","Teach principles of medicine and medical and laboratory procedures to physicians, residents, students, and technicians.",0.35,live teaching and lab instruction needs human presence
+20201,"Medical Scientists, Except Epidemiologists",Write and publish articles in scientific journals.,0.85,pure writing task
+23906,"Medical Scientists, Except Epidemiologists",Write applications for research grants.,0.85,grant writing is a text task
+7518,"Medical Scientists, Except Epidemiologists","Standardize drug dosages, methods of immunization, and procedures for manufacture of drugs and medicinal compounds.",0.15,requires regulatory authority and physical validation
+7521,"Medical Scientists, Except Epidemiologists",Study animal and human health and physiological processes.,0.50,research spans literature analysis and physical experiments
+7519,"Medical Scientists, Except Epidemiologists","Investigate cause, progress, life cycle, or mode of transmission of diseases or parasites.",0.55,combines data analysis with physical lab investigation
+7523,"Medical Scientists, Except Epidemiologists","Use equipment such as atomic absorption spectrometers, electron microscopes, flow cytometers, or chromatography systems.",0.05,physical laboratory equipment operation
+7520,"Medical Scientists, Except Epidemiologists","Confer with health departments, industry personnel, physicians, and others to develop health safety standards and public health improvement programs.",0.30,conferring with humans to develop standards
+7522,"Medical Scientists, Except Epidemiologists","Consult with and advise physicians, educators, researchers, and others regarding medical applications of physics, biology, and chemistry.",0.40,advisory consulting needs live professional interaction
+7525,Astronomers,"Analyze research data to determine its significance, using computers.",0.90,pure computational data analysis
+7526,Astronomers,Present research findings at scientific conferences and in papers written for scientific journals.,0.55,paper writing feasible but live presentation needs presence
+7524,Astronomers,"Study celestial phenomena, using a variety of ground-based and space-borne telescopes and scientific instruments.",0.35,instrument operation though some data can be remote
+7530,Astronomers,Collaborate with other astronomers to carry out research projects.,0.55,research collaboration via written communication
+21171,Astronomers,Mentor graduate students and junior colleagues.,0.20,requires human mentoring relationship
+21172,Astronomers,Supervise students' research on celestial and astronomical phenomena.,0.20,requires human supervisory relationship
+7532,Astronomers,Teach astronomy or astrophysics.,0.35,live teaching needs human presence
+7528,Astronomers,Develop theories based on personal observations or on observations and theories of other astronomers.,0.75,theoretical analytical work
+7527,Astronomers,"Measure radio, infrared, gamma, and x-ray emissions from extraterrestrial sources.",0.40,measurement often requires operating physical instruments
+7531,Astronomers,Develop instrumentation and software for astronomical observation and analysis.,0.50,software development feasible but hardware instrumentation is physical
+20049,Astronomers,Review scientific proposals and research papers.,0.85,review and analysis of written proposals
+7529,Astronomers,Raise funds for scientific research.,0.40,grant writing feasible but relationship-based fundraising is not
+7533,Astronomers,Develop and modify astronomy-related programs for public presentation.,0.65,content development for public presentation
+20050,Astronomers,Serve on professional panels and committees.,0.15,requires human presence and accountable participation
+7534,Astronomers,"Calculate orbits and determine sizes, shapes, brightness, and motions of different celestial bodies.",0.90,pure computational analysis
+21173,Astronomers,Conduct question-and-answer presentations on astronomy topics with public audiences.,0.15,live public interaction needs human presence
+7535,Astronomers,Direct the operations of a planetarium.,0.15,facility operations direction and authority
+10903,Physicists,"Perform complex calculations as part of the analysis and evaluation of data, using computers.",0.95,pure computational analysis
+10905,Physicists,Analyze data from research conducted to detect and measure physical phenomena.,0.90,pure data analysis
+10904,Physicists,Describe and express observations and conclusions in mathematical terms.,0.90,mathematical formalization writing task
+10907,Physicists,Design computer simulations to model physical data so that it can be better understood.,0.85,software simulation design
+21174,Physicists,Write research proposals to receive funding.,0.85,grant writing is a text task
+10912,Physicists,Teach physics to students.,0.35,live teaching needs human presence
+10906,Physicists,Report experimental results by writing papers for scientific journals or by presenting information at scientific conferences.,0.55,paper writing feasible but live presentation needs presence
+10910,Physicists,"Observe the structure and properties of matter, and the transformation and propagation of energy, using equipment such as masers, lasers, and telescopes, to explore and identify the basic principles governing these phenomena.",0.15,physical laboratory equipment operation
+10911,Physicists,"Develop theories and laws on the basis of observation and experiments, and apply these theories and laws to problems in areas such as nuclear energy, optics, and aerospace technology.",0.75,theoretical analytical work
+10908,Physicists,"Collaborate with other scientists in the design, development, and testing of experimental, industrial, or medical equipment, instrumentation, and procedures.",0.30,collaboration plus physical equipment testing
+20208,Atmospheric and Space Scientists,Develop or use mathematical or computer models for weather forecasting.,0.85,computational modeling work
+20209,Atmospheric and Space Scientists,"Interpret data, reports, maps, photographs, or charts to predict long- or short-range weather conditions, using computer models and knowledge of climate theory, physics, and mathematics.",0.85,data interpretation and analysis
+20210,Atmospheric and Space Scientists,"Conduct meteorological research into the processes or determinants of atmospheric phenomena, weather, or climate.",0.75,research and analysis of atmospheric processes
+19759,Atmospheric and Space Scientists,"Formulate predictions by interpreting environmental data, such as meteorological, atmospheric, oceanic, paleoclimate, climate, or related information.",0.85,data-driven prediction work
+9068,Atmospheric and Space Scientists,"Broadcast weather conditions, forecasts, or severe weather warnings to the public via television, radio, or the Internet or provide this information to the news media.",0.35,live broadcasting needs human presenter
+9070,Atmospheric and Space Scientists,"Prepare forecasts or briefings to meet the needs of industry, business, government, or other groups.",0.80,written briefing preparation
+9069,Atmospheric and Space Scientists,"Gather data from sources such as surface or upper air stations, satellites, weather bureaus, or radar for use in meteorological reports or forecasts.",0.80,data gathering largely automatable via feeds
+21104,Atmospheric and Space Scientists,Develop computer programs to collect meteorological data or to present meteorological information.,0.85,software development task
+20206,Atmospheric and Space Scientists,"Prepare weather reports or maps for analysis, distribution, or use in weather broadcasts, using computer graphics.",0.80,report and graphics preparation
+21105,Atmospheric and Space Scientists,Develop and deliver training on weather topics.,0.40,content development feasible but live delivery needs presence
+20211,Atmospheric and Space Scientists,"Prepare scientific atmospheric or climate reports, articles, or texts.",0.85,pure writing task
+19755,Atmospheric and Space Scientists,"Analyze climate data sets, using techniques such as geophysical fluid dynamics, data assimilation, or numerical modeling.",0.85,quantitative climate data analysis
+20205,Atmospheric and Space Scientists,"Analyze historical climate information, such as precipitation or temperature records, to help predict future weather or climate trends.",0.85,quantitative data analysis
+20203,Atmospheric and Space Scientists,"Consult with other offices, agencies, professionals, or researchers regarding the use and interpretation of climatological information for weather predictions and warnings.",0.45,consulting with human offices and agencies
+21103,Atmospheric and Space Scientists,Speak to the public to discuss weather topics or answer questions.,0.15,live public speaking needs human presence
+20207,Atmospheric and Space Scientists,"Apply meteorological knowledge to issues such as global warming, pollution control, or ozone depletion.",0.70,analytical advisory application of knowledge
+20202,Atmospheric and Space Scientists,"Perform managerial duties, such as creating work schedules, creating or implementing staff training, matching staff expertise to situations, or analyzing performance of offices.",0.35,management of human staff and accountability
+9074,Atmospheric and Space Scientists,"Measure wind, temperature, and humidity in the upper atmosphere, using weather balloons.",0.05,physical field measurement with weather balloons
+9076,Atmospheric and Space Scientists,Direct forecasting services at weather stations or at radio or television broadcasting facilities.,0.20,management and direction with authority
+9078,Atmospheric and Space Scientists,Collect air samples from planes or ships over land or sea to study atmospheric composition.,0.05,physical field sample collection
+20204,Atmospheric and Space Scientists,"Teach college-level courses on topics such as atmospheric and space science, meteorology, or global climate change.",0.35,live teaching needs human presence
+9083,Atmospheric and Space Scientists,"Design or develop new equipment or methods for meteorological data collection, remote sensing, or related applications.",0.45,design work analytical but hardware development is physical
+20212,Atmospheric and Space Scientists,"Research the impact of industrial projects or pollution on climate, air quality, or weather phenomena.",0.80,research and analysis of climate impacts
+19756,Atmospheric and Space Scientists,"Conduct wind assessment, integration, or validation studies.",0.65,data-driven assessment and validation studies
+9079,Atmospheric and Space Scientists,Conduct numerical simulations of climate conditions to understand and predict global or regional weather patterns.,0.85,computational simulation work
+19758,Atmospheric and Space Scientists,Estimate or predict the effects of global warming over time for specific geographic regions.,0.80,predictive analytical work
+19757,Atmospheric and Space Scientists,"Create visualizations to illustrate historical or future changes in the Earth's climate, using paleoclimate or climate geographic information systems (GIS) databases.",0.85,data visualization work
+1506,Chemists,"Develop, improve, or customize products, equipment, formulas, processes, or analytical methods.",0.45,formula development analytical but testing is physical
+1505,Chemists,"Analyze organic or inorganic compounds to determine chemical or physical properties, composition, structure, relationships, or reactions, using chromatography, spectroscopy, or spectrophotometry techniques.",0.15,physical laboratory equipment operation
+1510,Chemists,"Induce changes in composition of substances by introducing heat, light, energy, or chemical catalysts for quantitative or qualitative analysis.",0.05,physical laboratory manipulation
+18475,Chemists,Conduct quality control tests.,0.10,physical quality control testing
+1511,Chemists,"Write technical papers or reports or prepare standards and specifications for processes, facilities, products, or tests.",0.85,pure writing task
+18474,Chemists,Maintain laboratory instruments to ensure proper working order and troubleshoot malfunctions when needed.,0.05,physical instrument maintenance
+1513,Chemists,"Prepare test solutions, compounds, or reagents for laboratory personnel to conduct tests.",0.05,physical laboratory preparation
+1507,Chemists,Compile and analyze test information to determine process or equipment operating efficiency or to diagnose malfunctions.,0.75,data analysis from test information
+1508,Chemists,"Confer with scientists or engineers to conduct analyses of research projects, interpret test results, or develop nonstandard tests.",0.45,conferring with humans to interpret results
+20388,Chemists,Evaluate laboratory safety procedures to ensure compliance with standards or to make improvements as needed.,0.55,procedure review analytical but physical verification needed
+1509,Chemists,"Direct, coordinate, or advise personnel in test procedures for analyzing components or physical properties of materials.",0.25,directing personnel with authority
+20389,Chemists,"Purchase laboratory supplies, such as chemicals, when supplies are low or near their expiration date.",0.55,procurement via systems though approval authority may be needed
+9087,Materials Scientists,"Conduct research on the structures and properties of materials, such as metals, alloys, polymers, and ceramics, to obtain information that could be used to develop new products or enhance existing ones.",0.45,research mixes analysis with physical lab work
+9098,Materials Scientists,"Test metals to determine conformance to specifications of mechanical strength, strength-weight ratio, ductility, magnetic and electrical properties, and resistance to abrasion, corrosion, heat, and cold.",0.10,physical materials testing
+9097,Materials Scientists,"Test material samples for tolerance under tension, compression, and shear to determine the cause of metal failures.",0.10,physical materials testing
+9090,Materials Scientists,Determine ways to strengthen or combine materials or develop new materials with new or specific properties for use in a variety of products and applications.,0.50,materials design analytical with simulation support
+20214,Materials Scientists,"Prepare reports, manuscripts, proposals, and technical manuals for use by other scientists and requestors, such as sponsors and customers.",0.85,pure writing task
+9085,Materials Scientists,Plan laboratory experiments to confirm feasibility of processes and techniques used in the production of materials with special characteristics.,0.65,experiment design and planning is analytical work
+9091,Materials Scientists,Recommend materials for reliable performance in various environments.,0.75,advisory analytical recommendation task
+20215,Materials Scientists,"Supervise and monitor production processes to ensure efficient use of equipment, timely changes to specifications, and project completion within time frame and budget.",0.20,supervision of physical production with accountability

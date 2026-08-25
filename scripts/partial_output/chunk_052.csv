@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+16316,Transportation Engineers,Inspect completed transportation projects to ensure safety or compliance with applicable standards or regulations.,0.25,needs on-site physical inspection
+16304,Transportation Engineers,Review development plans to determine potential traffic impact.,0.85,document and plan review analysis
+16306,Transportation Engineers,Evaluate transportation systems or traffic control devices or lighting systems to determine need for modification or expansion.,0.70,data-based evaluation of systems
+16321,Transportation Engineers,Analyze environmental impact statements for transportation projects.,0.90,pure document analysis
+16322,Transportation Engineers,Supervise the maintenance or repair of transportation systems or system components.,0.15,requires on-site supervision authority
+16313,Transportation Engineers,Model transportation scenarios to evaluate the impacts of activities such as new development or to identify possible solutions to transportation problems.,0.85,computational modeling and analysis
+19616,Transportation Engineers,Inspect completed transportation projects to ensure compliance with environmental regulations.,0.25,needs on-site physical inspection
+16312,Transportation Engineers,"Participate in contract bidding, negotiation, or administration.",0.30,negotiation and contractual authority needed
+19615,Transportation Engineers,Evaluate construction project materials for compliance with environmental standards.,0.35,requires physical material testing
+16317,Transportation Engineers,"Direct the surveying, staking, or laying-out of construction projects.",0.10,on-site physical direction needed
+19613,Transportation Engineers,"Design transportation systems or structures with sustainable materials or products, such as porous pavement or bioretention structures.",0.75,design work via analysis and CAD
+16315,Transportation Engineers,Investigate or test specific construction project materials to determine compliance to specifications or standards.,0.20,physical material testing required
+16308,Transportation Engineers,Develop or assist in the development of transportation-related computer software or computer processes.,0.90,pure software development
+19614,Transportation Engineers,Develop plans to deconstruct damaged or obsolete roadways or other transportation structures in a manner that is environmentally sound or prepares the land for sustainable development.,0.80,planning and desk analysis
+16327,Water/Wastewater Engineers,"Provide technical direction or supervision to junior engineers, engineering or computer-aided design (CAD) technicians, or other technical personnel.",0.15,human supervision and mentoring needed
+16325,Water/Wastewater Engineers,"Review and critique proposals, plans, or designs related to water or wastewater treatment systems.",0.85,document review and critique
+16350,Water/Wastewater Engineers,"Design domestic or industrial water or wastewater treatment plants, including advanced facilities with sequencing batch reactors (SBR), membranes, lift stations, headworks, surge overflow basins, ultraviolet disinfection systems, aerobic digesters, sludge lagoons, or control buildings.",0.75,engineering design via computation and CAD
+21166,Water/Wastewater Engineers,Evaluate the operation and maintenance of water or wastewater systems to identify ways to improve their efficiency.,0.70,data analysis with some field input
+16330,Water/Wastewater Engineers,Design or select equipment for use in wastewater processing to ensure compliance with government standards.,0.80,equipment design and selection analysis
+16349,Water/Wastewater Engineers,"Design pumping systems, pumping stations, pipelines, force mains, or sewers for the collection of wastewater.",0.80,engineering design work
+16347,Water/Wastewater Engineers,Design water distribution systems for potable or non-potable water.,0.80,engineering design work
+16331,Water/Wastewater Engineers,Conduct water quality studies to identify and characterize water pollutant sources.,0.40,requires field sampling
+16343,Water/Wastewater Engineers,"Analyze and recommend chemical, biological, or other wastewater treatment methods to prepare water for industrial or domestic use.",0.85,analytical recommendation work
+16328,Water/Wastewater Engineers,Identify design alternatives for the development of new water resources.,0.80,planning and design analysis
+16345,Water/Wastewater Engineers,"Design water runoff collection networks, water supply channels, or water supply system networks.",0.80,engineering design work
+16346,Water/Wastewater Engineers,"Design water or wastewater lift stations, including water wells.",0.78,engineering design work
+16339,Water/Wastewater Engineers,"Conduct cost-benefit analyses for the construction of water supply systems, runoff collection networks, water and wastewater treatment plants, or wastewater collection systems.",0.88,pure cost-benefit analysis
+16326,Water/Wastewater Engineers,Provide technical support on water resource or treatment issues to government agencies.,0.55,consultative support to agencies
+16337,Water/Wastewater Engineers,"Conduct feasibility studies for the construction of facilities, such as water supply systems, runoff collection networks, water and wastewater treatment plants, or wastewater collection systems.",0.85,feasibility analysis
+16341,Water/Wastewater Engineers,"Analyze storm water or floodplain drainage systems to control erosion, stabilize river banks, repair channel streams, or design bridges.",0.75,analysis and design work
+16335,Water/Wastewater Engineers,"Oversee the construction of decentralized or on-site wastewater treatment systems, including reclaimed water facilities.",0.10,on-site construction oversight needed
+16329,Water/Wastewater Engineers,Develop plans for new water resources or water efficiency programs.,0.80,planning and analysis
+16333,Water/Wastewater Engineers,"Perform hydrological analyses, using three-dimensional simulation software, to model the movement of water or forecast the dispersion of chemical pollutants in the water supply.",0.85,computational simulation modeling
+16334,Water/Wastewater Engineers,"Perform hydraulic analyses of water supply systems or water distribution networks to model flow characteristics, test for pressure losses, or to identify opportunities to mitigate risks and improve operational efficiency.",0.85,computational hydraulic modeling
+16324,Water/Wastewater Engineers,Write technical reports or publications related to water resources development or water use efficiency.,0.90,pure technical writing
+16344,Water/Wastewater Engineers,Design water storage tanks or other water storage facilities.,0.78,engineering design work
+16342,Water/Wastewater Engineers,Analyze and recommend sludge treatment or disposal methods.,0.85,analytical recommendation work
+16348,Water/Wastewater Engineers,Design sludge treatment plants.,0.78,engineering design work
+16336,Water/Wastewater Engineers,Gather and analyze water use data to forecast water demand.,0.85,data gathering and forecasting
+16338,Water/Wastewater Engineers,"Conduct environmental impact studies related to water and wastewater collection, treatment, or distribution.",0.70,impact study with possible field work
+16340,Water/Wastewater Engineers,"Analyze the efficiency of water delivery structures, such as dams, tainter gates, canals, pipes, penstocks, or cofferdams.",0.70,analysis with possible field data
+16332,Water/Wastewater Engineers,"Perform mathematical modeling of underground or surface water resources, such as floodplains, ocean coastlines, streams, rivers, or wetlands.",0.85,computational mathematical modeling
+7391,Computer Hardware Engineers,Update knowledge and skills to keep up with rapid advancements in computer technology.,0.85,self-directed research and synthesis
+7407,Computer Hardware Engineers,"Design and develop computer hardware and support peripherals, including central processing units (CPUs), support logic, microprocessors, custom integrated circuits, and printers and disk drives.",0.40,hardware design includes physical fabrication
+7399,Computer Hardware Engineers,Confer with engineering staff and consult specifications to evaluate interface between hardware and software and operational and performance requirements of overall system.,0.45,requires human conferring and collaboration
+7396,Computer Hardware Engineers,"Build, test, and modify product prototypes, using working models or theoretical models constructed with computer simulation.",0.35,physical prototype building required
+7402,Computer Hardware Engineers,Write detailed functional specifications that document the hardware development process and support hardware introduction.,0.90,pure technical writing
+7393,Computer Hardware Engineers,"Test and verify hardware and support peripherals to ensure that they meet specifications and requirements, by recording and analyzing test data.",0.50,mix of physical testing and data analysis
+7398,Computer Hardware Engineers,"Direct technicians, engineering designers or other technical support personnel as needed.",0.15,supervisory authority over personnel
+7392,Computer Hardware Engineers,"Provide technical support to designers, marketing and sales departments, suppliers, engineers and other team members throughout the product development and implementation process.",0.55,cross-team support and communication
+7400,Computer Hardware Engineers,"Select hardware and material, assuring compliance with specifications and product requirements.",0.75,analytical selection based on specs
+7401,Computer Hardware Engineers,"Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",0.90,pure data manipulation and analysis
+7397,Computer Hardware Engineers,Analyze user needs and recommend appropriate hardware.,0.60,requires user interaction to gather needs
+7406,Computer Hardware Engineers,"Evaluate factors such as reporting formats required, cost constraints, and need for security restrictions to determine hardware configuration.",0.80,analytical configuration determination
+7404,Computer Hardware Engineers,Provide training and support to system designers and users.,0.50,training requires live human interaction
+7394,Computer Hardware Engineers,Monitor functioning of equipment and make necessary modifications to ensure system operates in conformance with specifications.,0.35,physical equipment monitoring and modification
+7403,Computer Hardware Engineers,"Specify power supply requirements and configuration, drawing on system performance expectations and design specifications.",0.80,specification work from analysis
+7405,Computer Hardware Engineers,Assemble and modify existing pieces of equipment to meet special needs.,0.10,physical assembly of equipment
+7395,Computer Hardware Engineers,"Analyze information to determine, recommend, and plan layout, including type of computers and peripheral equipment modifications.",0.80,analytical planning and layout design
+7408,Computer Hardware Engineers,"Recommend purchase of equipment to control dust, temperature, and humidity in area of system installation.",0.80,analytical recommendation work
+1348,Electrical Engineers,"Design, implement, maintain, or improve electrical instruments, equipment, facilities, components, products, or systems for commercial, industrial, or domestic purposes.",0.40,includes physical implementation and maintenance
+1357,Electrical Engineers,Oversee project production efforts to assure projects are completed on time and within budget.,0.25,oversight with accountability for outcomes
+1350,Electrical Engineers,"Direct or coordinate manufacturing, construction, installation, maintenance, support, documentation, or testing activities to ensure compliance with specifications, codes, or customer requirements.",0.25,directing physical construction activities
+1351,Electrical Engineers,"Perform detailed calculations to compute and establish manufacturing, construction, or installation standards or specifications.",0.90,pure calculation work
+1349,Electrical Engineers,Operate computer-assisted engineering or design software or equipment to perform engineering tasks.,0.85,software-based design tasks
+1347,Electrical Engineers,"Confer with engineers, customers, or others to discuss existing or potential engineering projects or products.",0.45,requires human conferring
+1356,Electrical Engineers,Investigate or test vendors' or competitors' products.,0.45,product investigation may need physical testing
+20731,Electrical Engineers,"Inspect completed installations and observe operations to ensure conformance to design and equipment specifications and compliance with operational, safety, or environmental standards.",0.20,on-site physical inspection required
+20730,Electrical Engineers,Investigate customer or public complaints to determine the nature and extent of problems.,0.45,requires interviewing complainants and site checks
+1358,Electrical Engineers,"Prepare technical drawings, specifications of electrical systems, or topographical maps to ensure that installation and operations conform to standards and customer requirements.",0.80,technical drawing and specification work
+1363,Electrical Engineers,Compile data and write reports regarding existing or potential electrical engineering studies or projects.,0.90,pure data compilation and writing
+1354,Electrical Engineers,Prepare specifications for purchases of materials or equipment.,0.85,specification writing
+20729,Electrical Engineers,"Estimate labor, material, or construction costs for budget preparation purposes.",0.85,cost estimation analysis
+1353,Electrical Engineers,Plan or implement research methodology or procedures to apply principles of electrical theory to engineering projects.,0.75,research planning and methodology
+1355,Electrical Engineers,"Supervise or train project team members, as necessary.",0.20,human supervision and training
+1361,Electrical Engineers,Assist in developing capital project programs for new equipment or major repairs.,0.75,planning assistance and analysis
+1364,Electrical Engineers,"Collect data relating to commercial or residential development, population, or power system interconnection to determine operating efficiency of electrical systems.",0.75,data collection and analysis
+19618,Electrical Engineers,"Develop systems that produce electricity with renewable energy sources, such as wind, solar, or biofuels.",0.45,system development includes physical build
+23956,Electrical Engineers,Develop software to control electrical systems.,0.90,pure software development
+19619,Electrical Engineers,Integrate electrical systems with renewable energy systems to improve overall efficiency.,0.40,integration includes physical work
+1365,Electrical Engineers,"Conduct field surveys or study maps, graphs, diagrams, or other data to identify and correct power system problems.",0.40,field survey requires physical presence
+19617,Electrical Engineers,"Design electrical systems or components that minimize electric energy requirements, such as lighting systems designed to account for natural lighting.",0.80,design work via analysis
+5339,"Electronics Engineers, Except Computer","Design electronic components, software, products, or systems for commercial, industrial, medical, military, or scientific applications.",0.65,design work with some physical prototyping
+20497,"Electronics Engineers, Except Computer",Operate computer-assisted engineering or design software or equipment to perform electronics engineering tasks.,0.85,software-based design tasks
+20494,"Electronics Engineers, Except Computer","Evaluate project work to ensure effectiveness, technical adequacy, or compatibility in the resolution of complex electronics engineering problems.",0.75,analytical evaluation of project work
+5349,"Electronics Engineers, Except Computer","Direct or coordinate activities concerned with manufacture, construction, installation, maintenance, operation, or modification of electronic equipment, products, or systems.",0.25,directing physical manufacturing activities
+20496,"Electronics Engineers, Except Computer","Confer with engineers, customers, vendors, or others to discuss existing or potential electronics engineering projects or products.",0.45,requires human conferring
+20499,"Electronics Engineers, Except Computer",Provide technical support or instruction to staff or customers regarding electronics equipment standards.,0.55,support and instruction needs human interaction
+20498,"Electronics Engineers, Except Computer","Recommend repair or design modifications of electronics components or systems, based on factors such as environment, service, cost, or system capabilities.",0.80,analytical recommendation work
+5348,"Electronics Engineers, Except Computer","Prepare documentation containing information such as confidential descriptions or specifications of proprietary hardware or software, product development or introduction schedules, product costs, or information about product performance weaknesses.",0.85,documentation and writing
+5350,"Electronics Engineers, Except Computer","Develop or perform operational, maintenance, or testing procedures for electronic products, components, equipment, or systems.",0.55,mix of procedure development and physical testing
+20495,"Electronics Engineers, Except Computer","Analyze electronics system requirements, capacity, cost, or customer needs to determine project feasibility.",0.80,analytical feasibility assessment
+5354,"Electronics Engineers, Except Computer","Prepare, review, or maintain maintenance schedules, design documentation, or operational reports or charts.",0.88,documentation and reporting
+5346,"Electronics Engineers, Except Computer","Inspect electronic equipment, instruments, products, or systems to ensure conformance to specifications, safety standards, or applicable codes or regulations.",0.25,physical inspection of equipment
+20493,"Electronics Engineers, Except Computer",Determine project material or equipment needs.,0.80,analytical determination of needs
+5355,"Electronics Engineers, Except Computer","Prepare necessary criteria, procedures, reports, or plans for successful conduct of the project with consideration given to site preparation, facility validation, installation, quality assurance, or testing.",0.80,planning and documentation work
+5351,"Electronics Engineers, Except Computer","Plan or develop applications or modifications for electronic properties used in components, products, or systems to improve technical performance.",0.75,design and planning analysis
+5352,"Electronics Engineers, Except Computer","Prepare engineering sketches or specifications for construction, relocation, or installation of equipment, facilities, products, or systems.",0.80,sketch and specification preparation
+20500,"Electronics Engineers, Except Computer","Prepare budget or cost estimates for equipment, construction, or installation projects or control expenditures.",0.85,budget estimation analysis
+19621,"Electronics Engineers, Except Computer","Investigate green consumer electronics applications for consumer electronic devices, power saving devices for computers or televisions, or energy efficient power chargers.",0.80,research and investigation
+5357,"Electronics Engineers, Except Computer","Represent employer at conferences, meetings, boards, panels, committees, or working groups to present, explain, or defend findings or recommendations, negotiate compromises or agreements, or exchange information.",0.20,requires human representation and negotiation authority
+19623,"Electronics Engineers, Except Computer","Research or develop new green electronics technologies, such as lighting, optical data storage devices, or energy efficient televisions.",0.55,research and development with physical prototyping
+16363,Radio Frequency Identification Device Specialists,Identify operational requirements for new systems to inform selection of technological solutions.,0.80,analytical requirements identification
+16370,Radio Frequency Identification Device Specialists,"Integrate tags, readers, or software in radio frequency identification device (RFID) designs.",0.50,mix of software and physical integration
+16354,Radio Frequency Identification Device Specialists,Perform systems analysis or programming of radio frequency identification device (RFID) technology.,0.88,pure systems analysis and programming
+16359,Radio Frequency Identification Device Specialists,Test radio frequency identification device (RFID) software to ensure proper functioning.,0.85,software testing work
+16360,Radio Frequency Identification Device Specialists,Select appropriate radio frequency identification device (RFID) tags and determine placement locations.,0.55,selection analysis with physical placement
+16361,Radio Frequency Identification Device Specialists,"Perform site analyses to determine system configurations, processes to be impacted, or on-site obstacles to technology implementation.",0.30,on-site analysis needed
+16362,Radio Frequency Identification Device Specialists,Perform acceptance testing on newly installed or updated systems.,0.35,physical acceptance testing on-site
+16366,Radio Frequency Identification Device Specialists,Determine means of integrating radio frequency identification device (RFID) into other applications.,0.75,integration analysis and design
+16353,Radio Frequency Identification Device Specialists,Provide technical support for radio frequency identification device (RFID) technology.,0.55,technical support needs human interaction
+16371,Radio Frequency Identification Device Specialists,"Collect data about existing client hardware, software, networking, or key business processes to inform implementation of radio frequency identification device (RFID) technology.",0.55,data collection may need site visits
+16369,Radio Frequency Identification Device Specialists,"Install, test, or maintain radio frequency identification device (RFID) systems.",0.20,physical install and maintenance
+16358,Radio Frequency Identification Device Specialists,Test tags or labels to ensure readability.,0.30,physical tag testing
+16364,Radio Frequency Identification Device Specialists,Determine usefulness of new radio frequency identification device (RFID) technologies.,0.85,research and analysis
+16351,Radio Frequency Identification Device Specialists,Verify compliance of developed applications with architectural standards and established practices.,0.85,code and standards compliance review
+16356,Radio Frequency Identification Device Specialists,Train users in details of system operation.,0.35,training requires live human interaction
+16365,Radio Frequency Identification Device Specialists,"Develop process flows, work instructions, or standard operating procedures for radio frequency identification device (RFID) systems.",0.85,documentation and procedure writing
+16352,Radio Frequency Identification Device Specialists,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of industry research about new technologies.",0.65,info gathering with some human interaction
+16355,Radio Frequency Identification Device Specialists,Document equipment or process details of radio frequency identification device (RFID) technology.,0.85,documentation work
+16367,Radio Frequency Identification Device Specialists,Define and compare possible radio frequency identification device (RFID) solutions to inform selection for specific projects.,0.85,analytical comparison work
+16368,Radio Frequency Identification Device Specialists,Create simulations or models of radio frequency identification device (RFID) systems to provide information for selection and configuration.,0.85,computational simulation modeling
+16357,Radio Frequency Identification Device Specialists,Analyze radio frequency identification device (RFID)-related supply chain data.,0.88,pure data analysis
+15210,Environmental Engineers,"Design, or supervise the design of, systems, processes, or equipment for control, management, or remediation of water, air, or soil quality.",0.55,design work mixed with supervisory oversight
+1377,Environmental Engineers,"Assess the existing or potential environmental impact of land use projects on air, water, or land.",0.80,environmental impact analysis
+20195,Environmental Engineers,"Collaborate with environmental scientists, planners, hazardous waste technicians, engineers, experts in law or business, or other specialists to address environmental problems.",0.45,requires human collaboration
+1374,Environmental Engineers,Advise corporations or government agencies of procedures to follow in cleaning up contaminated sites to protect people and the environment.,0.70,advisory recommendation work
+1373,Environmental Engineers,Develop proposed project objectives and targets and report to management on progress in attaining them.,0.80,planning and reporting
+1370,Environmental Engineers,Monitor progress of environmental improvement programs.,0.65,progress monitoring via data tracking
+1366,Environmental Engineers,"Prepare, review, or update environmental investigation or recommendation reports.",0.88,report writing and review

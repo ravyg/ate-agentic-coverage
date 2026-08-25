@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+16805,Molecular and Cellular Biologists,"Perform laboratory procedures following protocols including deoxyribonucleic acid (DNA) sequencing, cloning and extraction, ribonucleic acid (RNA) purification, or gel electrophoresis.",0.05,hands-on wet-lab protocol execution
+16815,Molecular and Cellular Biologists,"Conduct research on cell organization and function, including mechanisms of gene expression, cellular bioinformatics, cell signaling, or cell differentiation.",0.30,mostly wet-lab research with some analysis
+23905,Molecular and Cellular Biologists,"Prepare or review reports, manuscripts, or meeting presentations.",0.90,pure writing and review of documents
+16808,Molecular and Cellular Biologists,Instruct undergraduate and graduate students within the areas of cellular or molecular biology.,0.15,live classroom instruction needs physical presence
+16810,Molecular and Cellular Biologists,"Direct, coordinate, organize, or prioritize biological laboratory activities.",0.20,directing physical lab activities and staff
+16814,Molecular and Cellular Biologists,Compile and analyze molecular or cellular experimental data and adjust experimental designs as necessary.,0.75,data analysis with some experimental judgment
+16809,Molecular and Cellular Biologists,Evaluate new technologies to enhance or complement current research.,0.55,research and evaluation of new tech
+16804,Molecular and Cellular Biologists,"Provide scientific direction for project teams regarding the evaluation or handling of devices, drugs, or cells for in vitro and in vivo disease models.",0.35,scientific direction requires accountable judgment
+16802,Molecular and Cellular Biologists,Supervise technical personnel and postdoctoral research fellows.,0.10,supervising personnel needs human authority
+16806,Molecular and Cellular Biologists,"Monitor or operate specialized equipment, such as gas chromatographs and high pressure liquid chromatographs, electrophoresis units, thermocyclers, fluorescence activated cell sorters, and phosphorimagers.",0.05,operating specialized lab equipment
+16816,Molecular and Cellular Biologists,"Conduct applied research aimed at improvements in areas such as disease testing, crop quality, pharmaceuticals, and the harnessing of microbes to recycle waste.",0.30,mostly wet-lab applied research
+16799,Molecular and Cellular Biologists,Develop guidelines for procedures such as the management of viruses.,0.65,drafting guidelines from literature and expertise
+16811,Molecular and Cellular Biologists,Develop assays that monitor cell characteristics.,0.30,assay development needs physical validation
+16800,Molecular and Cellular Biologists,Coordinate molecular or cellular research activities with scientists specializing in other fields.,0.40,coordination across research groups
+16796,Molecular and Cellular Biologists,"Verify all financial, physical, and human resources assigned to research or development projects are used as planned.",0.60,auditing resource use from records
+16798,Molecular and Cellular Biologists,Evaluate new supplies and equipment to ensure operability in specific laboratory settings.,0.25,requires physical testing in lab setting
+16797,Molecular and Cellular Biologists,"Participate in all levels of bioproduct development, including proposing new products, performing market analyses, designing and performing experiments, and collaborating with operations and quality control teams during product launches.",0.35,bundle of analysis and hands-on experiments
+16801,Molecular and Cellular Biologists,Confer with vendors to evaluate new equipment or reagents or to discuss the customization of product lines to meet user requirements.,0.30,vendor negotiation and relationship work
+16812,Molecular and Cellular Biologists,"Design databases, such as mutagenesis libraries.",0.80,pure computational database design
+16828,Geneticists,"Supervise or direct the work of other geneticists, biologists, technicians, or biometricians working on genetics research projects.",0.10,supervising research staff needs authority
+16839,Geneticists,"Plan or conduct basic genomic and biological research related to areas such as regulation of gene expression, protein interactions, metabolic networks, and nucleic acid or protein complexes.",0.40,mix of computational and wet-lab research
+16831,Geneticists,Prepare results of experimental findings for presentation at professional conferences or in scientific journals.,0.85,writing up findings for publication
+16832,Geneticists,"Maintain laboratory notebooks that record research methods, procedures, and results.",0.35,documenting real-time physical lab work
+16817,Geneticists,Write grants and papers or attend fundraising events to seek research funds.,0.55,grant writing plus in-person fundraising
+16830,Geneticists,Search scientific literature to select and modify methods and procedures most appropriate for genetic research goals.,0.85,literature search and synthesis
+16829,Geneticists,"Review, approve, or interpret genetic laboratory results.",0.40,interpreting results but approval needs authority
+16827,Geneticists,Attend clinical and research conferences and read scientific literature to keep abreast of technological advances and current genetic research findings.,0.45,conference attendance plus literature reading
+16834,Geneticists,Evaluate genetic data by performing appropriate mathematical or statistical calculations and analyses.,0.90,pure statistical computation
+16840,Geneticists,"Analyze determinants responsible for specific inherited traits, and devise methods for altering traits or producing new traits.",0.40,trait analysis plus hands-on genetic engineering
+16833,Geneticists,"Extract deoxyribonucleic acid (DNA) or perform diagnostic tests involving processes such as gel electrophoresis, Southern blot analysis, and polymerase chain reaction analysis.",0.05,hands-on DNA extraction and diagnostics
+16826,Geneticists,Collaborate with biologists and other professionals to conduct appropriate genetic and biochemical analyses.,0.40,collaborative wet-lab and analysis work
+16822,Geneticists,"Instruct medical students, graduate students, or others in methods or procedures for diagnosis and management of genetic disorders.",0.15,live instruction of students
+16837,Geneticists,Create or use statistical models for the analysis of genetic data.,0.90,pure computational statistical modeling
+16821,Geneticists,Maintain laboratory safety programs and train personnel in laboratory safety techniques.,0.25,training staff needs live presence
+16818,Geneticists,"Verify that cytogenetic, molecular genetic, and related equipment and instrumentation is maintained in working condition to ensure accuracy and quality of experimental results.",0.10,physical equipment inspection
+16835,Geneticists,Develop protocols to improve existing genetic techniques or to incorporate new diagnostic procedures.,0.55,protocol drafting needing lab validation
+16825,Geneticists,Confer with information technology specialists to develop computer applications for genetic data analysis.,0.55,coordinating software needs with IT staff
+16836,Geneticists,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.40,sampling plan design plus field coordination
+16823,Geneticists,"Evaluate, diagnose, or treat genetic diseases.",0.10,medical diagnosis needs licensed authority
+16838,Geneticists,Conduct family medical studies to evaluate the genetic basis for traits or diseases.,0.35,human subject studies plus data analysis
+16824,Geneticists,Design and maintain genetics computer databases.,0.85,pure computational database work
+16820,Geneticists,Participate in the development of endangered species breeding programs or species survival plans.,0.30,planning plus physical breeding program work
+16819,Geneticists,"Plan curatorial programs for species collections that include acquisition, distribution, maintenance, or regeneration.",0.40,administrative planning for collections
+174,Biologists,"Program and use computers to store, process, and analyze data.",0.95,pure computational data work
+18613,Biologists,"Prepare technical and research reports, such as environmental impact reports, and communicate the results to individuals in industry, government, or the general public.",0.75,report writing and communicating results
+186,Biologists,Supervise biological technicians and technologists and other scientists.,0.10,supervising staff needs human authority
+173,Biologists,"Develop and maintain liaisons and effective working relations with groups and individuals, agencies, and the public to encourage cooperative management strategies or to develop information and interpret findings.",0.15,relationship building with public and agencies
+178,Biologists,"Identify, classify, and study structure, behavior, ecology, physiology, nutrition, culture, and distribution of plant and animal species.",0.30,field observation and classification of species
+187,Biologists,"Study basic principles of plant and animal life, such as origin, relationship, development, anatomy, and function.",0.40,research mixing literature and field study
+175,Biologists,Collect and analyze biological data about relationships among and between organisms and their environment.,0.40,field data collection plus analysis
+18614,Biologists,"Review reports and proposals, such as those relating to land use classifications and recreational development, for accuracy, adequacy, or adherence to policies, regulations, or scientific standards.",0.75,reviewing documents for policy compliance
+21035,Biologists,Write grant proposals to obtain funding for biological research.,0.85,grant proposal writing
+185,Biologists,Teach or supervise students and perform research at universities and colleges.,0.20,live teaching plus research
+189,Biologists,Prepare requests for proposals or statements of work.,0.85,writing proposals and statements of work
+177,Biologists,Communicate test results to state and federal representatives and general public.,0.55,communicating results in writing and in person
+180,Biologists,Represent employer in a technical capacity at conferences.,0.10,representing employer at events in person
+182,Biologists,"Research environmental effects of present and potential uses of land and water areas, determining methods of improving environmental conditions or such outputs as crop yields.",0.35,field and literature environmental research
+176,Biologists,"Study aquatic plants and animals and environmental conditions affecting them, such as radioactivity or pollution.",0.25,field study of aquatic life and conditions
+188,Biologists,Study and manage wild animal populations.,0.20,field management of wildlife populations
+191,Biologists,Prepare plans for management of renewable resources.,0.70,writing resource management plans
+184,Biologists,"Measure salinity, acidity, light, oxygen content, and other physical conditions of water to determine their relationship to aquatic life.",0.05,physical field measurement of water conditions
+194,Biologists,"Develop pest management and control measures, and conduct risk assessments related to pest exclusion, using scientific methods.",0.55,risk assessment plus field pest control
+192,Biologists,"Develop methods and apparatus for securing representative plant, animal, aquatic, or soil samples.",0.30,designing sampling apparatus and methods
+181,Biologists,"Plan and administer biological research programs for government, research firms, medical industries, or manufacturing firms.",0.30,planning research programs with real authority
+193,Biologists,"Study reactions of plants, animals, and marine species to parasites.",0.25,lab and field study of species reactions
+22138,Conservation Scientists,"Apply principles of specialized fields of science, such as agronomy, soil science, forestry, or agriculture, to achieve conservation objectives.",0.40,applying science to conservation with field work
+22153,Conservation Scientists,"Plan soil management or conservation practices, such as crop rotation, reforestation, permanent vegetation, contour plowing, or terracing, to maintain soil or conserve water.",0.65,planning soil and water conservation practices
+22135,Conservation Scientists,Monitor projects during or after construction to ensure projects conform to design specifications.,0.10,on-site construction monitoring
+22134,Conservation Scientists,"Advise land users, such as farmers or ranchers, on plans, problems, or alternative conservation solutions.",0.55,advisory recommendations to land users
+22133,Conservation Scientists,"Implement soil or water management techniques, such as nutrient management, erosion control, buffers, or filter strips, in accordance with conservation plans.",0.05,hands-on implementation of conservation techniques
+22140,Conservation Scientists,"Compute design specifications for implementation of conservation practices, using survey or field information, technical guides or engineering manuals.",0.75,computing design specs from field data
+22139,Conservation Scientists,Gather information from geographic information systems (GIS) databases or applications to formulate land use recommendations.,0.80,GIS data analysis for recommendations
+22141,Conservation Scientists,"Participate on work teams to plan, develop, or implement programs or policies for improving environmental habitats, wetlands, or groundwater or soil resources.",0.35,team planning with physical implementation
+22145,Conservation Scientists,"Compute cost estimates of different conservation practices, based on needs of land users, maintenance requirements, or life expectancy of practices.",0.80,computing cost estimates from data
+22137,Conservation Scientists,Develop or maintain working relationships with local government staff or board members.,0.15,relationship building with local officials
+22143,Conservation Scientists,Revisit land users to view implemented land use practices or plans.,0.05,on-site visits to land users
+22136,Conservation Scientists,Visit areas affected by erosion problems to identify causes or determine solutions.,0.15,on-site inspection of erosion sites
+22146,Conservation Scientists,"Provide information, knowledge, expertise, or training to government agencies at all levels to solve water or soil management problems or to assure coordination of resource protection activities.",0.45,expertise and training to agencies
+22158,Conservation Scientists,"Enter local soil, water, or other environmental data into adaptive or Web-based decision tools to identify appropriate analyses or techniques.",0.85,entering data into decision support tools
+22147,Conservation Scientists,Analyze results of investigations to determine measures needed to maintain or restore proper soil management.,0.75,analyzing investigation results
+22151,Conservation Scientists,"Develop, conduct, or participate in surveys, studies, or investigations of various land uses to inform corrective action plans.",0.35,bundle of survey design and field work
+22148,Conservation Scientists,"Coordinate or implement technical, financial, or administrative assistance programs for local government units to ensure efficient program implementation or timely responses to requests for assistance.",0.30,coordinating assistance programs with authority
+22144,Conservation Scientists,"Respond to complaints or questions on wetland jurisdiction, providing information or clarification.",0.55,responding to jurisdiction inquiries
+22159,Conservation Scientists,Compile or interpret biodata to determine extent or type of wetlands or to aid in program formulation.,0.70,compiling and interpreting wetland data
+22156,Conservation Scientists,Review or approve amendments to comprehensive local water plans or conservation district plans.,0.30,reviewing plans but approval needs authority
+22150,Conservation Scientists,Review proposed wetland restoration easements or provide technical recommendations.,0.65,reviewing easements and giving recommendations
+22162,Conservation Scientists,Develop soil maps.,0.45,soil mapping needs field sampling too
+22152,Conservation Scientists,Manage field offices or involve staff in cooperative ventures.,0.15,managing field offices needs presence
+22154,Conservation Scientists,"Initiate, schedule, or conduct annual audits or compliance checks of program implementation by local government.",0.40,audits need some on-site verification
+22149,Conservation Scientists,"Identify or recommend integrated weed and pest management (IPM) strategies, such as resistant plants, cultural or behavioral controls, soil amendments, insects, natural enemies, barriers, or pesticides.",0.65,recommending pest management strategies
+22160,Conservation Scientists,"Review annual reports of counties, conservation districts, or watershed management organizations, certifying compliance with mandated reporting requirements.",0.35,reviewing reports but certifying needs authority
+22161,Conservation Scientists,Review grant applications or make funding recommendations.,0.60,reviewing grants with funding accountability
+22157,Conservation Scientists,"Develop or conduct environmental studies, such as plant material field trials or wildlife habitat impact studies.",0.35,study design plus physical field trials
+22142,Conservation Scientists,"Conduct fact-finding or mediation sessions among government units, landowners, or other agencies to resolve disputes.",0.15,mediation needs human trust and presence
+22155,Conservation Scientists,"Develop water conservation or harvest plans, using weather information systems, irrigation information management systems, or other sources of daily evapotranspiration (ET) data.",0.75,data-driven conservation plan development
+21169,Range Managers,"Regulate grazing, such as by issuing permits and checking for compliance with standards, and help ranchers plan and organize grazing systems to manage, improve, protect, and maximize the use of rangelands.",0.30,permit authority plus advisory planning
+7500,Range Managers,"Manage forage resources through fire, herbicide use, or revegetation to maintain a sustainable yield from the land.",0.10,physical land management activities
+21170,Range Managers,Coordinate with federal land managers and other agencies and organizations to manage and protect rangelands.,0.35,coordination with agencies and managers
+7497,Range Managers,"Measure and assess vegetation resources for biological assessment companies, environmental impact statements, and rangeland monitoring programs.",0.30,field measurement plus reporting
+7498,Range Managers,"Maintain soil stability and vegetation for non-grazing uses, such as wildlife habitats and outdoor recreation.",0.05,hands-on soil and vegetation maintenance
+7506,Range Managers,Study grazing patterns to determine number and kind of livestock that can be most profitably grazed and to determine the best grazing seasons.,0.45,grazing pattern analysis from field data
+7502,Range Managers,"Offer advice to rangeland users on water management, forage production methods, and control of brush.",0.55,advisory recommendations to ranchers
+7503,Range Managers,"Plan and direct construction and maintenance of range improvements, such as fencing, corrals, stock-watering reservoirs, and soil-erosion control structures.",0.20,planning plus on-site construction direction
+7499,Range Managers,Mediate agreements among rangeland users and preservationists as to appropriate land use and management.,0.15,mediation needs human trust and presence
+7501,Range Managers,"Study rangeland management practices and research range problems to provide sustained production of forage, livestock, and wildlife.",0.40,research mixing field and literature work
+7504,Range Managers,"Tailor conservation plans to landowners' goals, such as livestock support, wildlife, or recreation.",0.60,customized conservation plan writing
+7505,Range Managers,"Develop technical standards and specifications used to manage, protect, and improve the natural resources of range lands and related grazing lands.",0.65,writing technical standards and specs
+7507,Range Managers,Plan and implement revegetation of disturbed sites.,0.25,planning plus physical revegetation work
+7508,Range Managers,Study forage plants and their growth requirements to determine varieties best suited to particular range.,0.35,field and literature plant research
+7509,Range Managers,Develop methods for protecting range from fire and rodent damage and for controlling poisonous plants.,0.45,developing protection methods from research
+7511,Range Managers,"Develop new and improved instruments and techniques for activities, such as range reseeding.",0.25,instrument design needs physical prototyping
+3686,Park Naturalists,"Provide visitor services, such as explaining regulations, answering visitor requests, needs and complaints, and providing information about the park and surrounding areas.",0.30,in-person visitor services at park
+3691,Park Naturalists,"Assist with operations of general facilities, such as visitor centers.",0.10,physical facility operations support
+3690,Park Naturalists,Confer with park staff to determine subjects and schedules for park programs.,0.45,coordination meetings with park staff
+3687,Park Naturalists,"Conduct field trips to point out scientific, historic, and natural features of parks, forests, historic sites, or other attractions.",0.05,leading in-person field trips
+20866,Park Naturalists,Plan and organize public events at the park.,0.35,event planning plus on-site execution
+3688,Park Naturalists,Prepare and present illustrated lectures and interpretive talks about park features.,0.40,content prep plus live presentation
+3692,Park Naturalists,"Plan, organize and direct activities of seasonal staff members.",0.15,directing seasonal staff needs presence
+3689,Park Naturalists,"Perform emergency duties to protect human life, government property, and natural features of park.",0.02,physical emergency response duties
+23959,Park Naturalists,Train staff on park programs.,0.15,live staff training sessions
+20867,Park Naturalists,Develop environmental educational programs and curricula for schools.,0.75,curriculum content development
+3695,Park Naturalists,"Construct historical, scientific, and nature visitor-center displays.",0.05,physical construction of displays
+3696,Park Naturalists,Research stories regarding the area's natural history or environment.,0.80,research and writing local history
+3694,Park Naturalists,Prepare brochures and write newspaper articles.,0.85,writing brochures and articles
+3698,Park Naturalists,Compile and maintain official park photographic and information files.,0.65,compiling photo and info archives
+3699,Park Naturalists,Take photographs and motion pictures for use in lectures and publications and to develop displays.,0.10,physically capturing photos and film
+3701,Park Naturalists,Plan and develop audio-visual devices for public programs.,0.55,developing AV program content
+3693,Park Naturalists,Perform routine maintenance on park structures.,0.02,physical maintenance of structures
+23960,Park Naturalists,Provide care for park program animals.,0.02,hands-on animal care
+3697,Park Naturalists,Interview specialists in desired fields to obtain and develop data for park information programs.,0.45,interviewing specialists for information

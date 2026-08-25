@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+20899,"Hairdressers, Hairstylists, and Cosmetologists","Order, display, and maintain supplies.",0.35,ordering is agentic but display and physical maintenance are not
+646,"Hairdressers, Hairstylists, and Cosmetologists","Comb, brush, and spray hair or wigs to set style.",0.00,physical hair styling
+644,"Hairdressers, Hairstylists, and Cosmetologists",Develop new styles and techniques.,0.30,can research trends but physical testing needed to validate
+645,"Hairdressers, Hairstylists, and Cosmetologists","Apply water or setting, straightening or waving solutions to hair, and use curlers, rollers, hot combs and curling irons to press and curl hair.",0.00,physical hair treatment application
+647,"Hairdressers, Hairstylists, and Cosmetologists","Shape eyebrows and remove facial hair, using depilatory cream, tweezers, electrolysis or wax.",0.00,physical grooming task
+650,"Hairdressers, Hairstylists, and Cosmetologists","Shave, trim, and shape beards and moustaches.",0.00,physical shaving and trimming
+651,"Hairdressers, Hairstylists, and Cosmetologists","Train or supervise other hairstylists, hairdressers, and assistants.",0.20,hands-on training and supervision need physical presence
+649,"Hairdressers, Hairstylists, and Cosmetologists","Massage and treat scalp for hygienic and remedial purposes, using hands, fingers, or vibrating equipment.",0.00,physical scalp massage
+648,"Hairdressers, Hairstylists, and Cosmetologists",Administer therapeutic medication and advise patron to seek medical treatment for chronic or contagious scalp conditions.,0.05,administering medication needs physical presence and licensure
+652,"Hairdressers, Hairstylists, and Cosmetologists","Recommend and explain the use of cosmetics, lotions, and creams to soften and lubricate skin and enhance and restore natural appearance.",0.75,pure advisory communication
+654,"Hairdressers, Hairstylists, and Cosmetologists","Clean, shape, and polish fingernails and toenails, using files and nail polish.",0.00,physical nail care
+653,"Hairdressers, Hairstylists, and Cosmetologists","Give facials to patrons, using special compounds, such as lotions and creams.",0.00,physical facial treatment
+656,"Hairdressers, Hairstylists, and Cosmetologists","Attach wigs or hairpieces to model heads and dress wigs and hairpieces according to instructions, samples, sketches or photographs.",0.00,physical wig attachment and styling
+24008,"Makeup Artists, Theatrical and Performance",Clean supplies such as makeup brushes.,0.00,physical cleaning of supplies
+14798,"Makeup Artists, Theatrical and Performance",Duplicate work precisely to replicate characters' appearances on a daily basis.,0.00,physical daily makeup application
+14800,"Makeup Artists, Theatrical and Performance",Apply makeup to enhance or alter the appearance of people appearing in productions such as movies.,0.00,physical makeup application
+14805,"Makeup Artists, Theatrical and Performance","Analyze a script, noting events that affect each character's appearance, so that plans can be made for each scene.",0.90,pure text analysis of scripts
+14801,"Makeup Artists, Theatrical and Performance",Alter or maintain makeup during productions as necessary to compensate for lighting changes or to achieve continuity of effect.,0.00,physical makeup touch-ups during production
+14797,"Makeup Artists, Theatrical and Performance",Confer with stage or motion picture officials and performers to determine desired effects.,0.35,creative discussion benefits from in-person presence though partly doable via chat
+14806,"Makeup Artists, Theatrical and Performance","Requisition or acquire needed materials for special effects, including wigs, beards, and special cosmetics.",0.65,procurement and ordering is largely agentic
+14814,"Makeup Artists, Theatrical and Performance","Study production information, such as character descriptions, period settings, and situations, to determine makeup requirements.",0.90,pure research and analysis task
+14799,"Makeup Artists, Theatrical and Performance","Establish budgets, and work within budgetary limits.",0.80,budgeting and financial tracking is agentic
+14802,"Makeup Artists, Theatrical and Performance","Select desired makeup shades from stock, or mix oil, grease, and coloring to achieve specific color effects.",0.10,physical mixing and color matching
+14807,"Makeup Artists, Theatrical and Performance",Write makeup sheets and take photos to document specific looks and the products used to achieve the looks.,0.40,writing feasible but taking photos requires physical presence
+14804,"Makeup Artists, Theatrical and Performance",Assess performers' skin type to ensure that makeup will not cause break-outs or skin irritations.,0.10,requires physical skin examination
+14809,"Makeup Artists, Theatrical and Performance","Attach prostheses to performers and apply makeup to create special features or effects, such as scars, aging, or illness.",0.00,physical prosthesis attachment
+14808,"Makeup Artists, Theatrical and Performance","Examine sketches, photographs, and plaster models to obtain desired character image depiction.",0.75,visual analysis of images and sketches feasible for agent
+14803,"Makeup Artists, Theatrical and Performance",Cleanse and tone the skin to prepare it for makeup application.,0.00,physical skin cleansing
+14810,"Makeup Artists, Theatrical and Performance","Evaluate environmental characteristics, such as venue size and lighting plans, to determine makeup requirements.",0.55,can review venue and lighting plans remotely though on-site check helps
+14815,"Makeup Artists, Theatrical and Performance",Provide performers with makeup removal assistance after performances have been completed.,0.00,physical makeup removal assistance
+14811,"Makeup Artists, Theatrical and Performance",Design rubber or plastic prostheses that can be used to change performers' appearances.,0.45,digital prosthesis design feasible but physical fabrication and fitting not
+14812,"Makeup Artists, Theatrical and Performance","Create character drawings or models, based upon independent research, to augment period production files.",0.65,research and drawing feasible via image generation though physical models not
+14817,"Makeup Artists, Theatrical and Performance","Demonstrate products to clients, and provide instruction in makeup application.",0.15,hands-on demonstration needs physical presence
+14813,"Makeup Artists, Theatrical and Performance",Advise hairdressers on the hairstyles required for character parts.,0.70,advisory communication between professionals
+14816,"Makeup Artists, Theatrical and Performance",Wash and reset wigs.,0.00,physical wig washing
+8748,Manicurists and Pedicurists,Clean and sanitize tools and work environment.,0.00,physical cleaning and sanitizing
+8753,Manicurists and Pedicurists,Apply undercoat and clear or colored polish onto nails with brush.,0.00,physical nail polish application
+8758,Manicurists and Pedicurists,Maintain supply inventories and records of client services.,0.85,record keeping and inventory tracking is agentic
+8752,Manicurists and Pedicurists,"Shape and smooth ends of nails, using scissors, files, or emery boards.",0.00,physical nail shaping
+20769,Manicurists and Pedicurists,"Prepare nail cuticles with water and oil, using cuticle knives to push back cuticles and scissors or nippers to trim cuticles.",0.00,physical cuticle care
+20770,Manicurists and Pedicurists,"Prepare customers' nails in soapy water, using swabs, files, and orange sticks.",0.00,physical nail preparation
+8750,Manicurists and Pedicurists,"Remove previously applied nail polish, using liquid remover and swabs.",0.00,physical polish removal
+20771,Manicurists and Pedicurists,Use rotary abrasive wheels to shape and smooth nails or artificial extensions.,0.00,physical abrasive tool use
+8749,Manicurists and Pedicurists,Schedule client appointments and accept payments.,0.85,scheduling and payment processing is agentic
+20772,Manicurists and Pedicurists,"Assess the condition of clients' hands, remove dead skin, and massage hands.",0.00,physical hand assessment and massage
+8760,Manicurists and Pedicurists,"Roughen surfaces of fingernails, using abrasive wheel.",0.00,physical nail surface prep
+8754,Manicurists and Pedicurists,Advise clients on nail care and use of products and colors.,0.75,advisory communication about products
+20773,Manicurists and Pedicurists,Treat nails to repair or improve strength and resilience by wrapping.,0.00,physical nail wrapping
+20774,Manicurists and Pedicurists,"Extend nails using powder, solvent, and paper forms attached to tips of customers' fingers to support and shape artificial nails.",0.00,physical nail extension application
+8763,Manicurists and Pedicurists,"Polish nails, using powdered polish and buffer.",0.00,physical nail polishing
+8764,Manicurists and Pedicurists,Whiten underside of nails with white paste or pencils.,0.00,physical nail whitening
+8761,Manicurists and Pedicurists,Promote and sell nail care products.,0.35,marketing content feasible but in-person retail sales needs human presence
+8765,Manicurists and Pedicurists,Decorate clients' nails by piercing or attaching ornaments or designs.,0.00,physical nail decoration
+14818,Shampooers,"Massage, shampoo, and condition patron's hair and scalp to clean them and remove excess oil.",0.00,physical shampooing and scalp massage
+14819,Shampooers,Advise patrons with chronic or potentially contagious scalp conditions to seek medical treatment.,0.10,requires physical observation of scalp condition first
+14820,Shampooers,"Treat scalp conditions and hair loss, using specialized lotions, shampoos, or equipment such as infrared lamps or vibrating equipment.",0.00,physical scalp treatment
+14821,Shampooers,Maintain treatment records.,0.90,record keeping task
+8069,Skincare Specialists,Sterilize equipment and clean work areas.,0.00,physical sterilization of equipment
+8074,Skincare Specialists,"Cleanse clients' skin with water, creams, or lotions.",0.00,physical skin cleansing
+8071,Skincare Specialists,Demonstrate how to clean and care for skin properly and recommend skin-care regimens.,0.30,demonstration is physical though recommendations could be given via text
+8077,Skincare Specialists,Determine which products or colors will improve clients' skin quality and appearance.,0.40,could analyze photos though in-person assessment is typical
+8070,Skincare Specialists,Keep records of client needs and preferences and the services provided.,0.90,record keeping task
+8075,Skincare Specialists,"Treat the facial skin to maintain and improve its appearance, using specialized techniques and products, such as peels and masks.",0.00,physical facial treatment
+8072,Skincare Specialists,"Examine clients' skin, using magnifying lamps or visors when necessary, to evaluate skin condition and appearance.",0.05,physical skin examination with equipment
+8078,Skincare Specialists,Perform simple extractions to remove blackheads.,0.00,physical extraction procedure
+8073,Skincare Specialists,"Select and apply cosmetic products, such as creams, lotions, and tonics.",0.00,physical product selection and application on client
+20258,Skincare Specialists,"Stay abreast of latest industry trends, products, research, and treatments.",0.95,pure research and reading of industry trends
+8081,Skincare Specialists,Apply chemical peels to reduce fine lines and age spots.,0.00,physical chemical peel application
+8076,Skincare Specialists,Refer clients to medical personnel for treatment of serious skin problems.,0.20,requires physical assessment before referral
+8079,Skincare Specialists,Provide facial and body massages.,0.00,physical massage
+8080,Skincare Specialists,Remove body and facial hair by applying wax.,0.00,physical hair removal by waxing
+8086,Skincare Specialists,Tint eyelashes and eyebrows.,0.00,physical eyelash and eyebrow tinting
+8084,Skincare Specialists,Collaborate with plastic surgeons and dermatologists to provide patients with preoperative and postoperative skin care.,0.15,coordination feasible but hands-on care and clinical accountability not
+8082,Skincare Specialists,Advise clients about colors and types of makeup and instruct them in makeup application techniques.,0.45,advisory portion feasible though hands-on instruction is not
+8083,Skincare Specialists,Sell makeup to clients.,0.30,in-person retail sales needs human presence
+2316,Baggage Porters and Bellhops,Receive and mark baggage by completing and attaching claim checks.,0.10,physical baggage handling though claim check paperwork is minor digital part
+2317,Baggage Porters and Bellhops,Greet incoming guests and escort them to their rooms.,0.00,physical greeting and escort
+2324,Baggage Porters and Bellhops,"Transport guests about premises and local areas, or arrange for transportation.",0.30,arranging transportation is agentic but physically transporting guests is not
+2323,Baggage Porters and Bellhops,Maintain clean lobbies or entrance areas for travelers or guests.,0.00,physical cleaning of lobby
+2314,Baggage Porters and Bellhops,"Transfer luggage, trunks, and packages to and from rooms, loading areas, vehicles, or transportation terminals, by hand or using baggage carts.",0.00,physical luggage transfer
+2315,Baggage Porters and Bellhops,"Supply guests or travelers with directions, travel information, and other information, such as available services and points of interest.",0.90,pure informational task like a concierge chatbot
+2321,Baggage Porters and Bellhops,"Explain the operation of room features, such as locks, ventilation systems, and televisions.",0.75,explaining room features is largely informational
+2318,Baggage Porters and Bellhops,Assist travelers and guests with disabilities.,0.05,physical assistance with disabilities
+2320,Baggage Porters and Bellhops,"Deliver messages and room service orders, and run errands for guests.",0.15,physical delivery of items and errands
+2327,Baggage Porters and Bellhops,Pick up and return items for laundry and valet service.,0.00,physical laundry pickup and delivery
+2319,Baggage Porters and Bellhops,"Act as part of the security team at transportation terminals, hotels, or similar establishments.",0.00,physical security presence and authority
+2325,Baggage Porters and Bellhops,Compute and complete charge slips for services rendered and maintain records.,0.85,computation and record keeping is agentic
+2326,Baggage Porters and Bellhops,"Page guests in hotel lobbies, dining rooms, or other areas.",0.35,could trigger automated paging system though typically a physical action
+2330,Baggage Porters and Bellhops,"Set up conference rooms, display tables, racks, or shelves, and arrange merchandise displays for sales personnel.",0.00,physical setup of rooms and displays
+2328,Baggage Porters and Bellhops,"Inspect guests' rooms to ensure that they are adequately stocked, orderly, and comfortable.",0.00,physical room inspection
+2329,Baggage Porters and Bellhops,Complete baggage insurance forms.,0.85,pure paperwork task
+2322,Baggage Porters and Bellhops,"Arrange for shipments of baggage, express mail, and parcels by providing weighing and billing services.",0.40,arranging shipment and billing is agentic but weighing is physical
+4529,Concierges,"Provide information about local features, such as shopping, dining, nightlife, or recreational destinations.",0.95,pure informational task
+20259,Concierges,"Make reservations for patrons, such as for dinner, spa treatments, or golf tee times, and obtain tickets to special events.",0.85,booking reservations via calls or apps is agentic
+20260,Concierges,Provide directions to guests.,0.90,informational directions
+21203,Concierges,Order flowers for guests.,0.85,ordering flowers online is agentic
+4530,Concierges,Make travel arrangements for sightseeing or other tours.,0.85,travel arrangement booking is agentic
+4533,Concierges,Pick up and deliver items or run errands for guests.,0.05,physical pickup and delivery of items
+20262,Concierges,"Plan special events, parties, or meetings, which may include booking musicians or celebrities.",0.70,event planning and booking largely doable remotely
+24009,Concierges,"Book airline or train tickets, reserve rental cars, or arrange shuttle service for guests.",0.90,booking tickets and reservations is agentic
+20263,Concierges,Arrange childcare services for guests.,0.65,arranging bookings feasible though vetting caregivers benefits from human judgment
+4534,Concierges,"Carry out unusual requests, such as searching for hard-to-find items or arranging for exotic services, such as hot-air balloon rides.",0.65,searching and arranging services via calls and web is largely agentic
+24010,Concierges,Assist guests with special needs by providing equipment such as wheelchairs.,0.10,physical delivery of equipment
+4531,Concierges,"Receive, store, or deliver luggage or mail.",0.00,physical receiving and delivery of luggage
+4532,Concierges,Perform office duties on a temporary basis when needed.,0.50,generic clerical duties partly automatable
+4535,Concierges,Arrange for the replacement of items lost by travelers.,0.65,coordinating replacement purchases is agentic
+20261,Concierges,"Provide business services for guests, such as sending or receiving faxes or shipping packages.",0.40,sending faxes could be digital but shipping packages is physical
+4536,Concierges,Arrange for interpreters or translators when patrons require such services.,0.75,arranging or directly providing translation services is largely agentic
+20265,Concierges,Provide food and beverage services to guests.,0.05,physical food and beverage service
+20264,Concierges,Clean and tidy hotel lounge.,0.00,physical cleaning of lounge
+4540,Tour Guides and Escorts,"Describe tour points of interest to group members, and respond to questions.",0.45,could function as automated audio guide though live in-person interaction is typical
+4539,Tour Guides and Escorts,"Escort individuals or groups on cruises, sightseeing tours, or through places of interest, such as industrial establishments, public buildings, or art galleries.",0.00,physical escort of tour groups
+4541,Tour Guides and Escorts,Monitor visitors' activities to ensure compliance with establishment or tour regulations and safety practices.,0.15,requires physical presence and authority to ensure safety compliance
+4538,Tour Guides and Escorts,Conduct educational activities for school children.,0.10,requires physical presence for supervising children
+20135,Tour Guides and Escorts,"Research various topics, including site history, environmental conditions, and clients' skills and abilities to plan appropriate expeditions, instruction, and commentary.",0.90,pure research and planning task
+4544,Tour Guides and Escorts,Provide directions and other pertinent information to visitors.,0.90,informational directions
+4550,Tour Guides and Escorts,Select travel routes and sites to be visited based on knowledge of specific areas.,0.85,route planning using maps and research is agentic
+4545,Tour Guides and Escorts,"Provide for physical safety of groups, performing such activities as providing first aid or directing emergency evacuations.",0.00,physical safety response and first aid
+4553,Tour Guides and Escorts,Assemble and check the required supplies and equipment prior to departure.,0.10,physical assembly and checking of equipment
+4542,Tour Guides and Escorts,"Greet and register visitors, and issue any required identification badges or safety devices.",0.30,registration could be digital but greeting and issuing physical badges needs presence
+4543,Tour Guides and Escorts,"Distribute brochures, show audiovisual presentations, and explain establishment processes and operations at tour sites.",0.35,distributing physical brochures needs presence though AV content could be automated
+4554,Tour Guides and Escorts,Drive motor vehicles to transport visitors to establishments and tour site locations.,0.00,physical driving of vehicle
+20136,Tour Guides and Escorts,Train other guides and volunteers.,0.30,hands-on guide training typically needs physical presence
+4547,Tour Guides and Escorts,"Provide information about wildlife varieties and habitats, as well as any relevant regulations, such as those pertaining to hunting and fishing.",0.90,pure informational task
+4549,Tour Guides and Escorts,"Teach skills, such as proper climbing methods, and demonstrate and advise on the use of equipment.",0.15,physical demonstration of climbing and equipment use
+4548,Tour Guides and Escorts,Collect fees and tickets from group members.,0.40,digital payment collection feasible but physical ticket collection needs presence
+4555,Tour Guides and Escorts,"Perform clerical duties, such as filing, typing, operating switchboards, or routing mail and messages.",0.65,much clerical and digital messaging work is agentic though filing and mail routing are physical
+4551,Tour Guides and Escorts,Solicit tour patronage and sell souvenirs.,0.35,digital solicitation feasible but in-person souvenir sales needs presence
+4552,Tour Guides and Escorts,Speak foreign languages to communicate with foreign visitors.,0.85,agent can communicate and translate across languages
+13158,Travel Guides,"Arrange for tour or expedition details such as accommodations, transportation, equipment, and the availability of medical personnel.",0.80,planning and booking arrangements is largely agentic

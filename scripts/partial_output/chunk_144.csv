@@ -1,0 +1,77 @@
+task_id,occupation,task_text,coverage,rationale
+23881,Stockers and Order Fillers,Compare merchandise invoices to items actually received to ensure that shipments are correct.,0.20,requires physical inspection of received items
+23883,Stockers and Order Fillers,Transport packages to customers' vehicles.,0.00,physical transport to customer vehicle
+14596,Gas Compressor and Gas Pumping Station Operators,"Monitor meters and pressure gauges to determine consumption rate variations, temperatures, and pressures.",0.15,on-site gauge and meter monitoring
+14603,Gas Compressor and Gas Pumping Station Operators,Respond to problems by adjusting control room equipment or instructing other personnel to adjust equipment at problem locations or in other control areas.,0.15,physical adjustment of control room equipment
+14600,Gas Compressor and Gas Pumping Station Operators,Record instrument readings and operational changes in operating logs.,0.25,logging requires physical instrument readings
+14597,Gas Compressor and Gas Pumping Station Operators,Adjust valves and equipment to obtain specified performance.,0.05,physical valve and equipment adjustment
+14601,Gas Compressor and Gas Pumping Station Operators,"Move controls and turn valves to start compressor engines, pumps, and auxiliary equipment.",0.05,physical operation of compressor controls
+14599,Gas Compressor and Gas Pumping Station Operators,"Operate power-driven pumps that transfer liquids, semi-liquids, gases, or powdered materials.",0.05,physical pump operation
+14606,Gas Compressor and Gas Pumping Station Operators,Submit daily reports on facility operations.,0.75,administrative reporting from operational data
+14604,Gas Compressor and Gas Pumping Station Operators,"Take samples of gases and conduct chemical tests to determine gas quality and sulfur or moisture content, or send samples to laboratories for analysis.",0.05,physical sampling and lab testing
+14598,Gas Compressor and Gas Pumping Station Operators,"Read gas meters, and maintain records of the amounts of gas received and dispensed from holders.",0.20,physical meter reading and record keeping
+14602,Gas Compressor and Gas Pumping Station Operators,Turn knobs or switches to regulate pressures.,0.05,physical knob and switch adjustment
+14605,Gas Compressor and Gas Pumping Station Operators,"Clean, lubricate, and adjust equipment, and replace filters and gaskets, using hand tools.",0.00,physical cleaning and repair with hand tools
+14608,Gas Compressor and Gas Pumping Station Operators,"Maintain each station by performing general housekeeping duties such as painting, washing, and cleaning.",0.00,physical housekeeping and manual labor
+14607,Gas Compressor and Gas Pumping Station Operators,Connect pipelines between pumps and containers that are being filled or emptied.,0.00,physical pipeline connection
+14609,"Pump Operators, Except Wellhead Pumpers","Monitor gauges and flowmeters and inspect equipment to ensure that tank levels, temperatures, chemical amounts, and pressures are at specified levels, reporting abnormalities as necessary.",0.15,on-site gauge monitoring and inspection
+14610,"Pump Operators, Except Wellhead Pumpers","Record operating data such as products and quantities pumped, stocks used, gauging results, and operating times.",0.25,logging requires physical data collection
+14614,"Pump Operators, Except Wellhead Pumpers","Plan movement of products through lines to processing, storage, and shipping units, using knowledge of interconnections and capacities of pipelines, valve manifolds, pumps, and tankage.",0.65,logistics planning from system knowledge
+14613,"Pump Operators, Except Wellhead Pumpers","Turn valves and start pumps to start or regulate flows of substances such as gases, liquids, slurries, or powdered materials.",0.05,physical valve and pump operation
+14611,"Pump Operators, Except Wellhead Pumpers","Communicate with other workers, using signals, radios, or telephones, to start and stop flows of materials or substances.",0.20,coordinates physical flow control operations
+14618,"Pump Operators, Except Wellhead Pumpers","Connect hoses and pipelines to pumps and vessels prior to material transfer, using hand tools.",0.00,physical hose and pipeline connection
+14612,"Pump Operators, Except Wellhead Pumpers","Tend vessels that store substances such as gases, liquids, slurries, or powdered materials, checking levels of substances by using calibrated rods or by reading mercury gauges and tank charts.",0.10,physical gauge and level checking
+14616,"Pump Operators, Except Wellhead Pumpers","Clean, lubricate, and repair pumps and vessels, using hand tools and equipment.",0.00,physical cleaning and repair with hand tools
+14615,"Pump Operators, Except Wellhead Pumpers",Read operating schedules or instructions or receive verbal orders to determine amounts to be pumped.,0.50,interpreting schedules and verbal orders
+14622,"Pump Operators, Except Wellhead Pumpers","Test materials and solutions, using testing equipment.",0.05,physical lab testing of materials
+14619,"Pump Operators, Except Wellhead Pumpers","Tend auxiliary equipment such as water treatment and refrigeration units, and heat exchangers.",0.05,physical tending of auxiliary equipment
+14620,"Pump Operators, Except Wellhead Pumpers",Add chemicals and solutions to tanks to ensure that specifications are met.,0.00,physical addition of chemicals to tanks
+14617,"Pump Operators, Except Wellhead Pumpers",Collect and deliver sample solutions for laboratory analysis.,0.00,physical sample collection and delivery
+14621,"Pump Operators, Except Wellhead Pumpers",Pump two or more materials into one tank to blend mixtures.,0.05,physical pumping and blending
+21159,Wellhead Pumpers,Monitor pumps and flow lines for gas and fluid leaks.,0.10,physical on-site leak inspection
+21160,Wellhead Pumpers,Gauge oil and gas production.,0.10,physical measurement of production
+5019,Wellhead Pumpers,Start compressor engines and divert oil from storage tanks into compressor units and auxiliary equipment to recover natural gas from oil.,0.05,physical engine and compressor operation
+5013,Wellhead Pumpers,"Monitor control panels during pumping operations to ensure that materials are being pumped at the correct pressure, density, rate, and concentration.",0.15,on-site control panel monitoring
+5014,Wellhead Pumpers,"Operate engines and pumps to shut off wells according to production schedules, and to switch flow of oil into storage tanks.",0.05,physical operation of engines and pumps
+5016,Wellhead Pumpers,Repair gas and oil meters and gauges.,0.00,physical repair of meters and gauges
+5015,Wellhead Pumpers,Perform routine maintenance on vehicles and equipment.,0.00,physical vehicle maintenance
+5020,Wellhead Pumpers,Open valves to return compressed gas to bottoms of specified wells to repressurize them and force oil to surface.,0.00,physical valve operation
+21161,Wellhead Pumpers,Change water filters.,0.00,physical filter replacement
+5023,Wellhead Pumpers,Prepare trucks and equipment necessary for the type of pumping service required.,0.05,physical preparation of trucks and equipment
+5018,Wellhead Pumpers,Attach pumps and hoses to wellheads.,0.00,physical attachment of pumps and hoses
+5025,Wellhead Pumpers,"Mix acids, chemicals, or dry cement as required for a specific job.",0.00,physical mixing of chemicals
+5017,Wellhead Pumpers,"Unload and assemble pipes and pumping equipment, using hand tools.",0.00,physical assembly with hand tools
+5021,Wellhead Pumpers,Supervise oil pumpers and other workers engaged in producing oil from wells.,0.10,requires human supervisory authority and presence
+7170,Refuse and Recyclable Material Collectors,Inspect trucks prior to beginning routes to ensure safe operating condition.,0.10,physical truck inspection
+7174,Refuse and Recyclable Material Collectors,"Drive trucks, following established routes, through residential streets or alleys or through business or industrial areas.",0.05,physical driving of trucks
+7171,Refuse and Recyclable Material Collectors,"Refuel trucks or add other fluids, such as oil or brake fluid.",0.00,physical refueling of trucks
+20313,Refuse and Recyclable Material Collectors,Dump refuse or recyclable materials at disposal sites.,0.00,physical dumping at disposal site
+7172,Refuse and Recyclable Material Collectors,Fill out defective equipment reports.,0.35,report writing needs prior on-site observation
+7176,Refuse and Recyclable Material Collectors,Operate automated or semi-automated hoisting devices that raise refuse bins and dump contents into openings in truck bodies.,0.05,physical operation of hoisting equipment
+7177,Refuse and Recyclable Material Collectors,Dismount garbage trucks to collect garbage and remount trucks to ride to the next collection point.,0.00,physical collection and remounting
+7175,Refuse and Recyclable Material Collectors,Operate equipment that compresses collected refuse.,0.05,physical operation of compaction equipment
+7178,Refuse and Recyclable Material Collectors,"Communicate with dispatchers concerning delays, unsafe sites, accidents, equipment breakdowns, or other maintenance problems.",0.25,reporting needs prior on-site observation
+7179,Refuse and Recyclable Material Collectors,Check road or weather conditions to determine how routes will be affected.,0.75,weather and route data lookup
+7181,Refuse and Recyclable Material Collectors,Clean trucks or compactor bodies after routes have been completed.,0.00,physical cleaning of trucks
+7180,Refuse and Recyclable Material Collectors,"Tag garbage or recycling containers to inform customers of problems, such as excess garbage or inclusion of items that are not permitted.",0.05,physical inspection and tagging of containers
+19932,Refuse and Recyclable Material Collectors,"Make special pickups of recyclable materials, such as food scraps, used oil, discarded computers, or other electronic items.",0.00,physical special pickup work
+7183,Refuse and Recyclable Material Collectors,Organize schedules for refuse collection.,0.75,route scheduling and optimization
+12800,"Tank Car, Truck, and Ship Loaders","Seal outlet valves on tank cars, barges, and trucks.",0.00,physical sealing of valves
+12792,"Tank Car, Truck, and Ship Loaders","Verify tank car, barge, or truck load numbers to ensure car placement accuracy based on written or verbal instructions.",0.20,requires physical verification of car placement
+12809,"Tank Car, Truck, and Ship Loaders","Start pumps and adjust valves or cables to regulate the flow of products to vessels, using knowledge of loading procedures.",0.05,physical pump and valve operation
+12797,"Tank Car, Truck, and Ship Loaders",Check conditions and weights of vessels to ensure cleanliness and compliance with loading procedures.,0.05,physical inspection of vessels
+12793,"Tank Car, Truck, and Ship Loaders","Observe positions of cars passing loading spouts, and swing spouts into the correct positions at the appropriate times.",0.00,physical positioning of loading spouts
+12795,"Tank Car, Truck, and Ship Loaders","Monitor product movement to and from storage tanks, coordinating activities with other workers to ensure constant product flow.",0.15,on-site monitoring and worker coordination
+12794,"Tank Car, Truck, and Ship Loaders","Operate ship loading and unloading equipment, conveyors, hoists, and other specialized material handling equipment such as railroad tank car unloading equipment.",0.05,physical operation of loading equipment
+12796,"Tank Car, Truck, and Ship Loaders","Record operating data such as products and quantities pumped, gauge readings, and operating times, manually or using computers.",0.30,logging needs physical gauge reading
+12798,"Tank Car, Truck, and Ship Loaders","Operate industrial trucks, tractors, loaders, and other equipment to transport materials to and from transportation vehicles and loading docks, and to store and retrieve materials in warehouses.",0.00,physical operation of material handling equipment
+12799,"Tank Car, Truck, and Ship Loaders",Connect ground cables to carry off static electricity when unloading tanker cars.,0.00,physical connection of ground cables
+12808,"Tank Car, Truck, and Ship Loaders",Copy and attach load specifications to loaded tanks.,0.10,physical attachment of load specifications
+12802,"Tank Car, Truck, and Ship Loaders","Remove and replace tank car dome caps, or direct other workers in their removal and replacement.",0.05,physical removal and replacement of dome caps
+12801,"Tank Car, Truck, and Ship Loaders","Test samples for specific gravity, using hydrometers, or send samples to laboratories for testing.",0.05,physical lab testing of samples
+12806,"Tank Car, Truck, and Ship Loaders","Test vessels for leaks, damage, and defects, and repair or replace defective parts as necessary.",0.00,physical testing and repair of vessels
+12807,"Tank Car, Truck, and Ship Loaders",Unload cars containing liquids by connecting hoses to outlet plugs and pumping compressed air into cars to force liquids into storage tanks.,0.00,physical unloading of tank cars
+12804,"Tank Car, Truck, and Ship Loaders","Clean interiors of tank cars or tank trucks, using mechanical spray nozzles.",0.00,physical cleaning of tank interiors
+12803,"Tank Car, Truck, and Ship Loaders","Lower gauge rods into tanks or read meters to verify contents, temperatures, and volumes of liquid loads.",0.05,physical gauging of tank contents
+12805,"Tank Car, Truck, and Ship Loaders",Operate conveyors and equipment to transfer grain or other materials from transportation vehicles.,0.05,physical operation of conveyors
+12810,"Tank Car, Truck, and Ship Loaders","Perform general warehouse activities, such as opening containers and crates, filling warehouse orders, assisting in taking inventory, and weighing and checking materials.",0.10,mostly physical warehouse labor

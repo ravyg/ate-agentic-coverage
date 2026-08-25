@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+2569,Tellers,"Carry out special services for customers, such as ordering bank cards and checks.",0.75,ordering cards/checks via account system
+2570,Tellers,"Compute financial fees, interest, and service charges.",0.95,pure computation
+2571,Tellers,"Obtain and process information required for the provision of services, such as opening accounts, savings plans, and purchasing bonds.",0.75,info processing for account opening
+2572,Tellers,"Compose, type, and mail customer statements and other correspondence related to issues such as discrepancies and outstanding unpaid items.",0.80,drafting is easy; mailing can be automated
+2573,Tellers,Issue checks to bond owners in settlement of transactions.,0.55,issuing checks needs financial authorization
+2574,Tellers,Inform customers about foreign currency regulations and compute transaction fees for currency exchanges.,0.90,info and fee computation
+2575,Tellers,"Quote unit exchange rates, following daily international rate sheets or computer displays.",0.95,quoting rates from data feeds
+2578,Customer Service Representatives,"Keep records of customer interactions or transactions, recording details of inquiries, complaints, or comments, as well as actions taken.",0.95,record keeping of interactions
+2579,Customer Service Representatives,"Resolve customers' service or billing complaints by performing activities such as exchanging merchandise, refunding money, or adjusting bills.",0.65,refunds doable but merchandise exchange is physical
+2580,Customer Service Representatives,Check to ensure that appropriate changes were made to resolve customers' problems.,0.90,verification against records
+2581,Customer Service Representatives,Contact customers to respond to inquiries or to notify them of claim investigation results or any planned adjustments.,0.85,customer communication via text or voice
+2582,Customer Service Representatives,Refer unresolved customer grievances to designated departments for further investigation.,0.90,routing task to departments
+2583,Customer Service Representatives,"Determine charges for services requested, collect deposits or payments, or arrange for billing.",0.80,charge computation and billing setup
+2584,Customer Service Representatives,"Complete contract forms, prepare change of address records, or issue service discontinuance orders, using computers.",0.90,computer based paperwork
+2585,Customer Service Representatives,"Obtain and examine all relevant information to assess validity of complaints and to determine possible causes, such as extreme weather conditions that could increase utility bills.",0.90,examining records to assess complaint validity
+2586,Customer Service Representatives,Solicit sales of new or additional services or products.,0.70,sales outreach via calls or messages
+2587,Customer Service Representatives,Review insurance policy terms to determine whether a particular loss is covered by insurance.,0.85,policy document analysis
+2589,Customer Service Representatives,Compare disputed merchandise with original requisitions and information from invoices and prepare invoices for returned goods.,0.85,comparing documents and invoices
+2591,Customer Service Representatives,"Recommend improvements in products, packaging, shipping, service, or billing methods and procedures to prevent future problems.",0.90,analysis and recommendation writing
+2593,File Clerks,Add new material to file records or create new records as necessary.,0.55,mixed digital record creation and physical filing
+2595,File Clerks,Track materials removed from files to ensure that borrowed files are returned.,0.80,tracking via digital log system
+2596,File Clerks,Gather materials to be filed from departments or employees.,0.15,physically gathering materials
+2597,File Clerks,"Sort or classify information according to guidelines, such as content, purpose, user criteria, or chronological, alphabetical, or numerical order.",0.90,info classification by rules
+2599,File Clerks,Scan or read incoming materials to determine how and where they should be classified or filed.,0.75,reading and classifying materials
+2600,File Clerks,"Place materials into storage receptacles, such as file cabinets, boxes, bins, or drawers, according to classification and identification information.",0.05,physically placing items in storage
+2601,File Clerks,Assign and record or stamp identification numbers or codes to index materials for filing.,0.55,digital indexing vs physical stamping
+2602,File Clerks,Answer questions about records or files.,0.90,answering questions from records
+2603,File Clerks,Modify or improve filing systems or implement new filing systems.,0.80,designing digital filing systems
+2604,File Clerks,"Perform periodic inspections of materials or files to ensure correct placement, legibility, or proper condition.",0.20,physical inspection of materials
+2605,File Clerks,"Eliminate outdated or unnecessary materials, destroying them or transferring them to inactive storage, according to file maintenance guidelines or legal requirements.",0.20,physically destroying or moving materials
+2607,File Clerks,Operate mechanized files that rotate to bring needed records to a particular location.,0.05,operating physical mechanized equipment
+2608,File Clerks,Design forms related to filing systems.,0.90,digital form design
+2609,File Clerks,Retrieve documents stored in microfilm or microfiche and place them in viewers for reading.,0.05,physically retrieving and placing microfilm
+2610,"Hotel, Motel, and Resort Desk Clerks","Greet, register, and assign rooms to guests of hotels or motels.",0.35,greeting guests needs physical presence
+2611,"Hotel, Motel, and Resort Desk Clerks","Verify customers' credit, and establish how the customer will pay for the accommodation.",0.80,digital credit verification
+2612,"Hotel, Motel, and Resort Desk Clerks","Keep records of room availability and guests' accounts, manually or using computers.",0.90,digital record keeping
+2613,"Hotel, Motel, and Resort Desk Clerks","Compute bills, collect payments, and make change for guests.",0.55,billing digital but making change is physical cash
+2615,"Hotel, Motel, and Resort Desk Clerks",Issue room keys and escort instructions to bellhops.,0.10,physically issuing keys to bellhops
+2616,"Hotel, Motel, and Resort Desk Clerks",Review accounts and charges with guests during the check out process.,0.65,reviewing charges could be done via chat interface
+2617,"Hotel, Motel, and Resort Desk Clerks","Post charges, such as those for rooms, food, liquor, or telephone calls, to ledgers, manually or by using computers.",0.90,posting charges to digital ledgers
+2618,"Hotel, Motel, and Resort Desk Clerks","Transmit and receive messages, using telephones or telephone switchboards.",0.75,relaying messages via phone or switchboard
+2619,"Hotel, Motel, and Resort Desk Clerks",Contact housekeeping or maintenance staff when guests report problems.,0.85,contacting staff about guest issues
+2620,"Hotel, Motel, and Resort Desk Clerks",Make and confirm reservations.,0.90,digital reservation booking
+2622,"Hotel, Motel, and Resort Desk Clerks","Record guest comments or complaints, referring customers to managers as necessary.",0.90,recording and routing complaints
+2623,"Hotel, Motel, and Resort Desk Clerks",Advise housekeeping staff when rooms have been vacated and are ready for cleaning.,0.85,notifying staff of room status
+2624,"Hotel, Motel, and Resort Desk Clerks","Arrange tours, taxis, or restaurant reservations for customers.",0.85,arranging bookings via apps or apis
+2625,"Hotel, Motel, and Resort Desk Clerks",Deposit guests' valuables in hotel safes or safe-deposit boxes.,0.05,physically depositing valuables in safe
+2626,"Hotel, Motel, and Resort Desk Clerks","Date-stamp, sort, and rack incoming mail and messages.",0.20,physically stamping and sorting mail
+2627,"Interviewers, Except Eligibility and Loan","Ask questions in accordance with instructions to obtain various specified information, such as person's name, address, age, religious preference, or state of residency.",0.80,conducting structured interview via chat or voice
+2628,"Interviewers, Except Eligibility and Loan",Identify and resolve inconsistencies in interviewees' responses by means of appropriate questioning or explanation.,0.75,conversational clarification of responses
+2629,"Interviewers, Except Eligibility and Loan","Compile, record, and code results or data from interview or survey, using computer or specified form.",0.90,coding survey data into forms
+2630,"Interviewers, Except Eligibility and Loan",Review data obtained from interview for completeness and accuracy.,0.90,reviewing data for accuracy
+2631,"Interviewers, Except Eligibility and Loan","Contact individuals to be interviewed at home, place of business, or field location, by telephone, mail, or in person.",0.55,phone or mail contact fine but in person needs body
+2632,"Interviewers, Except Eligibility and Loan",Assist individuals in filling out applications or questionnaires.,0.75,assisting with forms via chat or voice
+2633,"Interviewers, Except Eligibility and Loan",Ensure payment for services by verifying benefits with the person's insurance provider or working out financing options.,0.65,verifying benefits digitally but financing needs negotiation
+2634,"Interviewers, Except Eligibility and Loan",Identify and report problems in obtaining valid data.,0.90,identifying and reporting data problems
+2635,"Interviewers, Except Eligibility and Loan",Explain survey objectives and procedures to interviewees and interpret survey questions to help interviewees' comprehension.,0.80,explaining survey procedures conversationally
+2636,"Interviewers, Except Eligibility and Loan","Perform patient services, such as answering the telephone or assisting patients with financial or medical questions.",0.75,phone based patient assistance
+2637,"Interviewers, Except Eligibility and Loan",Prepare reports to provide answers in response to specific problems.,0.90,report writing
+2638,"Interviewers, Except Eligibility and Loan",Locate and list addresses and households.,0.45,locating addresses mixes records lookup and field work
+2640,"Interviewers, Except Eligibility and Loan",Meet with supervisor daily to submit completed assignments and discuss progress.,0.65,submitting progress reports virtually
+2641,"Interviewers, Except Eligibility and Loan","Collect and analyze data, such as studying old records, tallying the number of outpatients entering each day or week, or participating in federal, state, or local population surveys as a Census Enumer",0.45,data analysis mixed with door to door enumeration
+2643,"Library Assistants, Clerical",Enter and update patrons' records on computers.,0.95,digital patron record entry
+2644,"Library Assistants, Clerical","Process new materials including books, audio-visual materials, and computer software.",0.45,cataloging digital but unpacking materials physical
+2645,"Library Assistants, Clerical","Sort books, publications, and other items according to established procedure and return them to shelves, files, or other designated storage areas.",0.05,physically shelving items
+2646,"Library Assistants, Clerical","Locate library materials for patrons, including books, periodicals, tape cassettes, Braille volumes, and pictures.",0.10,physically locating and retrieving materials
+2647,"Library Assistants, Clerical","Instruct patrons on how to use reference sources, card catalogs, and automated information systems.",0.80,instructing patrons conversationally
+2648,"Library Assistants, Clerical",Inspect returned books for condition and due-date status and compute any applicable fines.,0.45,fine computation digital but condition inspection physical
+2649,"Library Assistants, Clerical",Answer routine inquiries and refer patrons in need of professional assistance to librarians.,0.90,answering inquiries and routing to librarians
+2650,"Library Assistants, Clerical","Maintain records of items received, stored, issued, and returned and file catalog cards according to system used.",0.60,record maintenance mixed digital and physical filing
+2652,"Library Assistants, Clerical","Provide assistance to librarians in the maintenance of collections of books, periodicals, magazines, newspapers, and audio-visual and other materials.",0.15,physical collection maintenance assistance
+2653,"Library Assistants, Clerical",Take action to deal with disruptive or problem patrons.,0.05,handling disruptive patrons needs physical presence
+2654,"Library Assistants, Clerical",Classify and catalog items according to content and purpose.,0.85,digital classification and cataloging
+2655,"Library Assistants, Clerical",Register new patrons and issue borrower identification cards that permit patrons to borrow books and other materials.,0.45,registration digital but issuing physical id card
+2656,"Library Assistants, Clerical",Send out notices and accept fine payments for lost or overdue books.,0.75,sending notices and processing payments digitally
+2657,"Library Assistants, Clerical","Operate small branch libraries, under the direction of off-site librarian supervisors.",0.10,operating a physical branch location
+2658,"Library Assistants, Clerical","Prepare, store, and retrieve classification and catalog information, lecture notes, or other information related to stored documents, using computers.",0.90,digital catalog information management
+2660,"Library Assistants, Clerical",Operate and maintain audio-visual equipment.,0.10,physically operating av equipment
+2661,"Library Assistants, Clerical","Review records, such as microfilm and issue cards, to identify titles of overdue materials and delinquent borrowers.",0.65,record review mixed with physical microfilm handling
+2662,"Library Assistants, Clerical","Select substitute titles when requested materials are unavailable, following criteria such as age, education, and interests.",0.85,recommending substitute titles
+2664,"Library Assistants, Clerical",Deliver and retrieve items to and from departments by hand or using push carts.,0.00,physically delivering items by hand or cart
+2667,"Library Assistants, Clerical",Assist in the preparation of book displays.,0.10,physically arranging book displays
+2668,Order Clerks,"Obtain customers' names, addresses, and billing information, product numbers, and specifications of items to be purchased, and enter this information on order forms.",0.90,entering order data
+2669,Order Clerks,"Prepare invoices, shipping documents, and contracts.",0.90,preparing invoices and documents
+2670,Order Clerks,"Inform customers by mail or telephone of order information, such as unit prices, shipping dates, and any anticipated delays.",0.85,informing customers of order status
+2671,Order Clerks,Receive and respond to customer complaints.,0.85,responding to complaints via text or voice
+2672,Order Clerks,"Verify customer and order information for correctness, checking it against previously obtained information as necessary.",0.90,verifying order info against records
+2673,Order Clerks,Direct specified departments or units to prepare and ship orders to designated locations.,0.85,directing departments via digital systems
+2674,Order Clerks,Check inventory records to determine availability of requested merchandise.,0.90,checking inventory records
+2675,Order Clerks,Review orders for completeness according to reporting procedures and forward incomplete orders for further processing.,0.90,reviewing orders for completeness
+2676,Order Clerks,Attempt to sell additional merchandise or services to prospective or current customers by telephone or through visits.,0.55,phone sales fine but in person visits are physical
+2677,Order Clerks,"File copies of orders received, or post orders on records.",0.85,filing and posting order records digitally
+2678,Order Clerks,Compute total charges for merchandise or services and shipping charges.,0.95,computing charges
+2679,Order Clerks,"Confer with production, sales, shipping, warehouse, or common carrier personnel to expedite or trace shipments.",0.80,coordinating with departments via communication
+2680,Order Clerks,Recommend merchandise or services that will meet customers' needs.,0.85,recommending merchandise
+2681,Order Clerks,Adjust inventory records to reflect product movement.,0.90,adjusting digital inventory records
+2682,Order Clerks,"Collect payment for merchandise, record transactions, and send items, such as checks or money orders for further processing.",0.55,payment collection digital but sending physical items
+2683,Order Clerks,Inspect outgoing work for compliance with customers' specifications.,0.45,inspecting goods physically vs documents digitally
+2684,Order Clerks,"Notify departments when supplies of specific items are low, or when orders would deplete available supplies.",0.90,notifying departments of low supplies
+2685,Order Clerks,Recommend type of packing or labeling needed on order.,0.85,recommending packing or labeling
+2686,Order Clerks,"Calculate and compile order-related statistics, and prepare reports for management.",0.95,compiling statistics and reports
+2687,"Human Resources Assistants, Except Payroll and Timekeeping","Explain company personnel policies, benefits, and procedures to employees or job applicants.",0.90,explaining policies conversationally
+2689,"Human Resources Assistants, Except Payroll and Timekeeping","Record data for each employee, including such information as addresses, weekly earnings, absences, amount of sales or production, supervisory reports on performance, and dates of and reasons for termi",0.90,recording employee data
+2690,"Human Resources Assistants, Except Payroll and Timekeeping",Process and review employment applications to evaluate qualifications or eligibility of applicants.,0.85,reviewing applications for eligibility
+2691,"Human Resources Assistants, Except Payroll and Timekeeping","Answer questions regarding examinations, eligibility, salaries, benefits, and other pertinent information.",0.90,answering policy questions
+2692,"Human Resources Assistants, Except Payroll and Timekeeping",Examine employee files to answer inquiries and provide information for personnel actions.,0.90,retrieving info from employee files
+2693,"Human Resources Assistants, Except Payroll and Timekeeping",Gather personnel records from other departments or employees.,0.75,gathering records via digital requests
+2694,"Human Resources Assistants, Except Payroll and Timekeeping","Search employee files to obtain information for authorized persons and organizations, such as credit bureaus and finance companies.",0.80,searching files for authorized info
+2695,"Human Resources Assistants, Except Payroll and Timekeeping",Interview job applicants to obtain and verify information used to screen and evaluate them.,0.65,conducting applicant interviews needs human rapport
+2696,"Human Resources Assistants, Except Payroll and Timekeeping","Request information from law enforcement officials, previous employers, and other references to determine applicants' employment acceptability.",0.75,requesting reference info via communication
+2697,"Human Resources Assistants, Except Payroll and Timekeeping",Compile and prepare reports and documents pertaining to personnel activities.,0.90,preparing personnel reports
+2698,"Human Resources Assistants, Except Payroll and Timekeeping",Inform job applicants of their acceptance or rejection of employment.,0.80,informing applicants of decisions
+2699,"Human Resources Assistants, Except Payroll and Timekeeping",Select applicants meeting specified job requirements and refer them to hiring personnel.,0.75,screening applicants against criteria
+2700,"Human Resources Assistants, Except Payroll and Timekeeping",Arrange for in-house and external training activities.,0.80,arranging training logistics
+2701,"Human Resources Assistants, Except Payroll and Timekeeping",Arrange for advertising or posting of job vacancies and notify eligible workers of position availability.,0.85,posting vacancies and notifying workers
+2702,"Human Resources Assistants, Except Payroll and Timekeeping",Provide assistance in administering employee benefit programs and worker's compensation plans.,0.75,administrative assistance with benefit programs
+2703,"Human Resources Assistants, Except Payroll and Timekeeping","Prepare badges, passes, and identification cards, and perform other security-related duties.",0.25,physically preparing badges and id cards
+2704,"Human Resources Assistants, Except Payroll and Timekeeping","Administer and score applicant and employee aptitude, personality, and interest assessment instruments.",0.85,administering and scoring assessments digitally
+2705,Public Safety Telecommunicators,"Determine response requirements and relative priorities of situations, and dispatch units in accordance with established procedures.",0.30,dispatch decisions carry human safety accountability
+2706,Public Safety Telecommunicators,"Record details of calls, dispatches, and messages.",0.90,recording call and dispatch details
+2707,Public Safety Telecommunicators,Question callers to determine their locations and the nature of their problems to determine type of response needed.,0.40,emergency triage needs human accountability
+2708,Public Safety Telecommunicators,"Enter, update, and retrieve information from teletype networks and computerized data systems regarding such things as wanted persons, stolen property, vehicle registration, and stolen vehicles.",0.85,entering data into computer systems
+2709,Public Safety Telecommunicators,"Scan status charts and computer screens, and contact emergency response field units to determine emergency units available for dispatch.",0.70,monitoring screens and coordinating dispatch
+2710,Public Safety Telecommunicators,"Relay information and messages to and from emergency sites, to law enforcement agencies, and to all other individuals or groups requiring notification.",0.75,relaying messages between parties
+2711,Public Safety Telecommunicators,"Receive incoming telephone or alarm system calls regarding emergency and non-emergency police and fire service, emergency ambulance service, information, and after-hours calls for departments within a",0.35,receiving emergency calls needs human accountability
+2712,Public Safety Telecommunicators,"Maintain access to, and security of, highly sensitive materials.",0.25,security of sensitive materials needs human responsibility
+2713,Public Safety Telecommunicators,Observe alarm registers and scan maps to determine whether a specific emergency is in the dispatch service area.,0.75,observing alarms and maps
+2714,Public Safety Telecommunicators,"Maintain files of information relating to emergency calls, such as personnel rosters and emergency call-out and pager files.",0.90,maintaining files of call records
+2715,Public Safety Telecommunicators,"Monitor various radio frequencies, such as those used by public works departments, school security, and civil defense, to stay apprised of developing situations.",0.75,monitoring radio frequencies
+2716,Public Safety Telecommunicators,Learn material and pass required tests for certification.,0.20,certification tied to human identity and testing

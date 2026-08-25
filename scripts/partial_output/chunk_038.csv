@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+15417,Quality Control Systems Managers,Participate in the development of product specifications.,0.65,drafting specs but participation implies group input
+15420,Quality Control Systems Managers,Identify quality problems or areas for improvement and recommend solutions.,0.85,data analysis and recommendation writing
+15411,Quality Control Systems Managers,Collect and analyze production samples to evaluate quality.,0.35,physical sample collection plus analysis
+15416,Quality Control Systems Managers,"Produce reports regarding nonconformance of products or processes, daily production quality, root cause analyses, or quality trends.",0.90,pure report writing from data
+15427,Quality Control Systems Managers,"Communicate quality control information to all relevant organizational departments, outside vendors, or contractors.",0.75,communication of info across parties
+15418,Quality Control Systems Managers,Monitor development of new products to help identify possible problems for mass production.,0.55,monitoring and liaising on product development
+15422,Quality Control Systems Managers,Identify critical points in the manufacturing process and specify sampling procedures to be used at these points.,0.75,technical analysis and procedure writing
+15425,Quality Control Systems Managers,Create and implement inspection and testing criteria or procedures.,0.55,create criteria high but implement needs authority
+15423,Quality Control Systems Managers,"Document testing procedures, methodologies, or criteria.",0.90,pure documentation task
+15407,Quality Control Systems Managers,"Review statistical studies, technological advances, or regulatory standards and trends to stay abreast of issues in the field of quality control.",0.90,research and literature review
+15410,Quality Control Systems Managers,"Coordinate the selection and implementation of quality control equipment, such as inspection gauges.",0.40,coordination plus physical equipment implementation
+15408,Quality Control Systems Managers,Generate and maintain quality control operating budgets.,0.85,budget spreadsheet and financial work
+15419,Quality Control Systems Managers,"Instruct vendors or contractors on quality guidelines, testing procedures, or ways to eliminate deficiencies.",0.55,instructing vendors needs live interaction
+15426,Quality Control Systems Managers,Confer with marketing and sales departments to define client requirements and expectations.,0.45,conferring with departments needs live rapport
+15409,Quality Control Systems Managers,Evaluate new testing and sampling methodologies or technologies to determine usefulness.,0.85,evaluate methodologies via research and analysis
+15406,Quality Control Systems Managers,Review and approve quality plans submitted by contractors.,0.45,review is high but approval implies authority
+15412,Quality Control Systems Managers,Audit and inspect subcontractor facilities including external laboratories.,0.10,on-site facility audit and inspection
+15446,Geothermal Production Managers,Supervise employees in geothermal power plants or well fields.,0.15,supervising employees needs presence and authority
+15447,Geothermal Production Managers,"Oversee geothermal plant operations, maintenance, and repairs to ensure compliance with applicable standards or regulations.",0.20,oversight of physical plant operations
+15434,Geothermal Production Managers,Communicate geothermal plant conditions to employees.,0.65,communicating conditions to employees
+15443,Geothermal Production Managers,"Identify and evaluate equipment, procedural, or conditional inefficiencies involving geothermal plant systems.",0.70,data analysis of plant system inefficiencies
+15439,Geothermal Production Managers,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.05,physical preventative maintenance work
+15448,Geothermal Production Managers,Inspect geothermal plant or injection well fields to verify proper equipment operations.,0.05,on-site physical inspection of equipment
+15445,Geothermal Production Managers,Develop or manage budgets for geothermal operations.,0.80,budget development for operations
+15433,Geothermal Production Managers,Select and implement corrosion control or mitigation systems for geothermal plants.,0.30,select via analysis but implement is physical
+15444,Geothermal Production Managers,Develop operating plans and schedules for geothermal operations.,0.75,operating plan and schedule development
+15436,Geothermal Production Managers,"Record, review, or maintain daily logs, reports, maintenance, and other records associated with geothermal operations.",0.80,record keeping and reporting
+15441,Geothermal Production Managers,"Monitor geothermal operations, using programmable logic controllers.",0.55,monitoring via control systems if data accessible
+15432,Geothermal Production Managers,Conduct well field site assessments.,0.10,physical on-site well field assessment
+15442,Geothermal Production Managers,"Identify opportunities to improve plant electrical equipment, controls, or process control methodologies.",0.65,analysis to identify improvement opportunities
+15437,Geothermal Production Managers,Prepare environmental permit applications or compliance reports.,0.75,prepare permit applications and compliance reports
+15440,Geothermal Production Managers,Negotiate interconnection agreements with other utilities.,0.30,negotiation with other utilities needs trust and authority
+15438,Geothermal Production Managers,"Obtain permits for constructing, upgrading, or operating geothermal power plants.",0.20,obtaining permits needs legal authority with agencies
+15435,Geothermal Production Managers,Troubleshoot and make minor repairs to geothermal plant instrumentation or electrical systems.,0.05,physical troubleshooting and minor repairs
+15454,Biofuels Production Managers,"Supervise production employees in the manufacturing of biofuels, such as biodiesel or ethanol.",0.15,supervising production employees
+15462,Biofuels Production Managers,"Manage operations at biofuels power generation facilities, including production, shipping, maintenance, or quality assurance activities.",0.20,managing physical plant operations broadly
+15450,Biofuels Production Managers,"Provide direction to employees to ensure compliance with biofuels plant safety, environmental, or operational standards and regulations.",0.20,directing employees needs presence and authority
+15453,Biofuels Production Managers,"Confer with technical and supervisory personnel to report or resolve conditions affecting biofuels plant safety, operational efficiency, and product quality.",0.40,conferring with personnel needs live interaction
+15456,Biofuels Production Managers,"Review logs, datasheets, or reports to ensure adequate production levels or to identify abnormalities with biofuels production equipment or processes.",0.75,reviewing logs and reports for abnormalities
+15458,Biofuels Production Managers,"Monitor meters, flow gauges, or other real-time data to ensure proper operation of biofuels production equipment, implementing corrective measures as needed.",0.35,monitoring data high but corrective action is physical
+15461,Biofuels Production Managers,"Adjust temperature, pressure, vacuum, level, flow rate, or transfer of biofuels to maintain processes at required levels.",0.25,physical or on-site process adjustment
+15449,Biofuels Production Managers,Provide training to subordinate or new employees to improve biofuels plant safety or increase the production of biofuels.,0.35,materials can be prepared but live training needs presence
+15455,Biofuels Production Managers,"Shut down and restart biofuels plant or equipment in emergency situations or for equipment maintenance, repairs, or replacements.",0.10,physical emergency shutdown and restart
+15451,Biofuels Production Managers,Monitor transportation and storage of flammable or other potentially dangerous feedstocks or products to ensure adherence to safety guidelines.,0.15,physical on-site safety monitoring of dangerous materials
+15452,Biofuels Production Managers,Draw samples of biofuels products or secondary by-products for quality control testing.,0.05,physical sample drawing
+15460,Biofuels Production Managers,"Approve proposals for the acquisition, replacement, or repair of biofuels processing equipment or the implementation of new production processes.",0.20,approving proposals is an authority decision
+15457,Biofuels Production Managers,Prepare and manage biofuels plant or unit budgets.,0.85,budget preparation and management
+15459,Biofuels Production Managers,"Conduct cost, material, and efficiency studies for biofuels production plants or operations.",0.85,cost and efficiency studies via analysis
+21162,Biomass Power Plant Managers,Manage safety programs at power generation facilities.,0.35,managing safety programs needs on-site enforcement
+15471,Biomass Power Plant Managers,Review biomass operations performance specifications to ensure compliance with regulatory requirements.,0.80,reviewing specifications for compliance
+15470,Biomass Power Plant Managers,"Review logs, datasheets, or reports to ensure adequate production levels and safe production environments or to identify abnormalities with power production equipment or processes.",0.75,reviewing logs and reports for issues
+15468,Biomass Power Plant Managers,"Supervise operations or maintenance employees in the production of power from biomass, such as wood, coal, paper sludge, or other waste or refuse.",0.15,supervising operations or maintenance employees
+15478,Biomass Power Plant Managers,"Supervise biomass plant or substation operations, maintenance, repair, or testing activities.",0.15,supervising plant operations activities
+15480,Biomass Power Plant Managers,"Conduct field inspections of biomass plants, stations, or substations to ensure normal and safe operating conditions.",0.05,physical field inspection of plants
+15474,Biomass Power Plant Managers,"Plan and schedule plant activities, such as wood, waste, or refuse fuel deliveries, ash removal, and regular maintenance.",0.75,planning and scheduling plant activities
+15473,Biomass Power Plant Managers,Prepare and manage biomass plant budgets.,0.85,budget preparation and management
+15477,Biomass Power Plant Managers,Evaluate power production or demand trends to identify opportunities for improved operations.,0.85,analyzing production and demand trend data
+15476,Biomass Power Plant Managers,"Inspect biomass gasification processes, equipment, and facilities for ways to maximize capacity and minimize operating costs.",0.20,physical inspection of gasification equipment
+15472,Biomass Power Plant Managers,"Prepare reports on biomass plant operations, status, maintenance, and other information.",0.85,report preparation from operational data
+15464,Biomass Power Plant Managers,Manage parts and supply inventories for biomass plants.,0.55,inventory management mixes data and physical counts
+15465,Biomass Power Plant Managers,"Monitor and operate communications systems, such as mobile radios.",0.15,operating physical communications equipment
+15469,Biomass Power Plant Managers,"Shut down and restart biomass power plants or equipment in emergency situations or for equipment maintenance, repairs, or replacements.",0.10,physical emergency shutdown and restart
+15466,Biomass Power Plant Managers,Compile and record operational data on forms or in log books.,0.75,compiling and recording operational data
+15479,Biomass Power Plant Managers,"Monitor the operating status of biomass plants by observing control system parameters, distributed control systems, switchboard gauges, dials, or other indicators.",0.40,monitoring gauges and dials needs physical presence
+15467,Biomass Power Plant Managers,Adjust equipment controls to generate specified amounts of electrical power.,0.20,physical adjustment of equipment controls
+15463,Biomass Power Plant Managers,"Test, maintain, or repair electrical power distribution machinery or equipment, using hand tools, power tools, and testing devices.",0.05,hands-on repair with tools
+15475,Biomass Power Plant Managers,"Operate controls to start, stop, or regulate biomass-fueled generators, generator units, boilers, engines, or auxiliary systems.",0.10,physical operation of generator controls
+15520,Hydroelectric Production Managers,"Direct operations, maintenance, or repair of hydroelectric power facilities.",0.20,directing physical facility operations
+15515,Hydroelectric Production Managers,Identify and communicate power system emergencies.,0.60,identifying and communicating emergencies from data
+15512,Hydroelectric Production Managers,"Maintain records of hydroelectric facility operations, maintenance, or repairs.",0.80,maintaining operational records
+15509,Hydroelectric Production Managers,Perform or direct preventive or corrective containment or cleanup to protect the environment.,0.10,physical containment or cleanup work
+15513,Hydroelectric Production Managers,"Monitor or inspect hydroelectric equipment, such as hydro-turbines, generators, or control systems.",0.25,physical monitoring and inspection of equipment
+15514,Hydroelectric Production Managers,"Inspect hydroelectric facilities, including switchyards, control houses, or relay houses, for normal operation or adherence to safety standards.",0.05,on-site facility inspection
+15519,Hydroelectric Production Managers,Supervise or monitor hydroelectric facility operations to ensure that generation or mechanical equipment conform to applicable regulations or standards.,0.25,supervising and monitoring physical facility operations
+15508,Hydroelectric Production Managers,Plan or coordinate hydroelectric production operations to meet customer requirements.,0.65,planning and coordinating production operations
+15518,Hydroelectric Production Managers,"Check hydroelectric operations for compliance with prescribed operating limits, such as loads, voltages, temperatures, lines, or equipment.",0.55,checking compliance data if systems accessible
+15504,Hydroelectric Production Managers,"Develop or implement projects to improve efficiency, economy, or effectiveness of hydroelectric plant operations.",0.40,develop high value but implement is physical
+15503,Hydroelectric Production Managers,Provide technical direction in the erection or commissioning of hydroelectric equipment or supporting electrical or mechanical systems.,0.15,on-site technical direction of erection work
+15505,Hydroelectric Production Managers,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.15,supervising physical installation work
+15507,Hydroelectric Production Managers,Plan or manage hydroelectric plant upgrades.,0.45,plant upgrade management mixes planning and oversight
+15506,Hydroelectric Production Managers,"Respond to problems related to ratepayers, water users, power users, government agencies, educational institutions, or other private or public power resource interests.",0.40,stakeholder response needs negotiation and rapport
+15516,Hydroelectric Production Managers,"Develop or review budgets, annual plans, power contracts, power rates, standing operating procedures, power reviews, or engineering studies.",0.80,budget and contract document review
+15502,Hydroelectric Production Managers,Develop or implement policy evaluation procedures for hydroelectric generation activities.,0.55,develop policy high but implementation lower
+15510,Hydroelectric Production Managers,"Operate energized high- or low-voltage hydroelectric power transmission system substations, according to procedures and safety requirements.",0.02,hands-on energized high voltage equipment operation
+15517,Hydroelectric Production Managers,Create or enforce hydrostation voltage schedules.,0.45,create schedules high but enforcement needs authority
+1027,Purchasing Managers,"Develop and implement purchasing and contract management instructions, policies, and procedures.",0.65,develop policies high but rollout implementation lower
+1021,Purchasing Managers,"Locate vendors of materials, equipment or supplies, and interview them to determine product availability and terms of sales.",0.65,vendor research plus interviews via calls or email
+1033,Purchasing Managers,Prepare bid awards requiring board approval.,0.85,preparing bid award documents
+1032,Purchasing Managers,"Direct and coordinate activities of personnel engaged in buying, selling, and distributing materials, equipment, machinery, and supplies.",0.20,directing and coordinating personnel needs authority
+1025,Purchasing Managers,Review purchase order claims and contracts for conformance to company policy.,0.85,reviewing contracts and orders for policy conformance
+1031,Purchasing Managers,"Review, evaluate, and approve specifications for issuing and awarding bids.",0.55,evaluate high but approving bids is authority
+1035,Purchasing Managers,Administer online purchasing systems.,0.75,administering software purchasing systems
+1022,Purchasing Managers,Prepare and process requisitions and purchase orders for supplies and equipment.,0.90,preparing and processing purchase documents
+1024,Purchasing Managers,"Interview and hire staff, and oversee staff training.",0.25,hiring and staff training needs human judgment and authority
+21039,Purchasing Managers,Develop cost reduction strategies and savings plans.,0.85,developing cost reduction strategy analysis
+1023,Purchasing Managers,Control purchasing department budgets.,0.60,budget control involves financial authority
+1029,Purchasing Managers,Resolve vendor or contractor grievances and claims against suppliers.,0.35,resolving grievances needs negotiation and trust
+1026,Purchasing Managers,Analyze market and delivery systems to assess present and future material availability.,0.85,market and delivery system analysis
+1028,Purchasing Managers,"Participate in the development of specifications for equipment, products, or substitute materials.",0.65,drafting specs but participation implies group input
+1020,Purchasing Managers,Maintain records of goods ordered and received.,0.85,maintaining order records
+1030,Purchasing Managers,Represent companies in negotiating contracts and formulating policies with suppliers.,0.20,negotiating and representing company needs legal authority
+1034,Purchasing Managers,Prepare reports regarding market conditions and merchandise costs.,0.90,report writing on market conditions
+1036,Purchasing Managers,Arrange for disposal of surplus materials.,0.55,arranging disposal is coordination not physical labor
+21340,"Transportation, Storage, and Distribution Managers","Supervise the activities of workers engaged in receiving, storing, testing, and shipping products or materials.",0.15,supervising workers needs presence and authority
+21341,"Transportation, Storage, and Distribution Managers","Plan, develop, or implement warehouse safety and security programs and activities.",0.45,plan and develop high but implement needs on-site rollout
+21342,"Transportation, Storage, and Distribution Managers","Inspect physical conditions of warehouses, vehicle fleets, or equipment and order testing, maintenance, repairs, or replacements.",0.20,physical inspection with some record-based ordering
+21343,"Transportation, Storage, and Distribution Managers","Plan, organize, or manage the work of subordinate staff to ensure that the work is accomplished in a manner consistent with organizational requirements.",0.20,managing subordinate staff needs authority and presence
+21344,"Transportation, Storage, and Distribution Managers","Collaborate with other departments to integrate logistics with business systems or processes, such as customer sales, order management, accounting, or shipping.",0.55,cross department collaboration via digital comms
+21345,"Transportation, Storage, and Distribution Managers",Analyze all aspects of corporate logistics to determine the most cost-effective or efficient means of transporting products or supplies.,0.85,logistics cost-effectiveness analysis
+21346,"Transportation, Storage, and Distribution Managers","Resolve problems concerning transportation, logistics systems, imports or exports, or customer issues.",0.55,problem resolution varies but often comms based
+21347,"Transportation, Storage, and Distribution Managers","Develop and document standard and emergency operating procedures for receiving, handling, storing, shipping, or salvaging products or materials.",0.85,writing operating procedure documentation
+21348,"Transportation, Storage, and Distribution Managers","Monitor operations to ensure that staff members comply with administrative policies and procedures, safety rules, union contracts, environmental policies, or government regulations.",0.30,monitoring staff compliance needs on-site oversight
+21349,"Transportation, Storage, and Distribution Managers","Analyze the financial impact of proposed logistics changes, such as routing, shipping modes, product volumes or mixes, or carriers.",0.85,financial impact analysis of logistics changes
+21350,"Transportation, Storage, and Distribution Managers",Monitor inventory levels of products or materials in warehouses.,0.70,monitoring inventory levels via data systems
+21351,"Transportation, Storage, and Distribution Managers",Establish or monitor specific supply chain-based performance measurement systems.,0.75,establishing and monitoring performance metrics
+21352,"Transportation, Storage, and Distribution Managers",Prepare and manage departmental budgets.,0.85,budget preparation and management
+21353,"Transportation, Storage, and Distribution Managers",Monitor product import or export processes to ensure compliance with regulatory or legal requirements.,0.65,monitoring compliance via document and data review
+21354,"Transportation, Storage, and Distribution Managers","Prepare management recommendations, such as proposed fee and tariff increases or schedule changes.",0.90,preparing recommendation reports
+21355,"Transportation, Storage, and Distribution Managers","Interview, select, and train warehouse and supervisory personnel.",0.20,interviewing hiring and training staff needs human judgment
+21356,"Transportation, Storage, and Distribution Managers",Advise sales and billing departments of transportation charges for customers' accounts.,0.75,advising departments via text-based communication
+21357,"Transportation, Storage, and Distribution Managers","Analyze expenditures and other financial information to develop plans, policies, or budgets for increasing profits or improving services.",0.85,financial analysis to develop plans and budgets
+21358,"Transportation, Storage, and Distribution Managers","Confer with department heads to coordinate warehouse activities, such as production, sales, records control, or purchasing.",0.45,conferring with department heads needs live rapport
+21359,"Transportation, Storage, and Distribution Managers","Implement specific customer requirements, such as internal reporting or customized transportation metrics.",0.65,implementing reporting or metrics is largely digital
+21360,"Transportation, Storage, and Distribution Managers","Maintain metrics, reports, process documentation, customer service logs, or training or safety records.",0.85,maintaining metrics reports and records
+21361,"Transportation, Storage, and Distribution Managers",Examine invoices and shipping manifests for conformity to tariff and customs regulations.,0.85,examining invoices and manifests for conformity
+21362,"Transportation, Storage, and Distribution Managers","Plan or implement energy saving changes to transportation services, such as reducing routes, optimizing capacities, employing alternate modes of transportation, or minimizing idling.",0.55,plan high but implementing changes needs physical rollout
+21363,"Transportation, Storage, and Distribution Managers",Evaluate contractors or business partners for operational efficiency or safety or environmental performance records.,0.65,evaluating partners via record and performance review
+21364,"Transportation, Storage, and Distribution Managers","Negotiate with carriers, warehouse operators, or insurance company representatives for services and preferential rates.",0.30,negotiating rates needs human trust and authority
+21365,"Transportation, Storage, and Distribution Managers","Develop or implement plans for facility modification or expansion, such as equipment purchase or changes in space allocation or structural design.",0.35,develop high but implement is physical construction
+21366,"Transportation, Storage, and Distribution Managers","Direct inbound or outbound operations, such as transportation or warehouse activities, safety performance, and logistics quality management.",0.20,directing physical transportation and warehouse operations

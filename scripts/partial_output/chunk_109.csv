@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+19850,Roofers,Apply modular soil- and plant-containing grids over existing roof membranes to create green roofs.,0.00,physical installation work
+19854,Roofers,"Install layers of vegetation-based green roofs, including protective membranes, drainage, aeration, water retention and filter layers, soil substrates, irrigation materials, and plants.",0.00,physical installation work
+5177,Sheet Metal Workers,"Maintain equipment, making repairs or modifications when necessary.",0.05,physical equipment repair and diagnosis
+19858,Sheet Metal Workers,"Fabricate ducts for high efficiency heating, ventilating, and air conditioning (HVAC) systems to maximize efficiency of systems.",0.05,physical duct fabrication work
+5173,Sheet Metal Workers,"Fasten seams or joints together with welds, bolts, cement, rivets, solder, caulks, metal drive clips, or bonds to assemble components into products or to repair sheet metal items.",0.00,physical fabrication or installation work
+5179,Sheet Metal Workers,Transport prefabricated parts to construction sites for assembly and installation.,0.00,physical fabrication or installation work
+5170,Sheet Metal Workers,"Install assemblies, such as flashing, pipes, tubes, heating and air conditioning ducts, furnace casings, rain gutters, or downspouts in supportive frameworks.",0.00,physical fabrication or installation work
+18782,Sheet Metal Workers,"Hire, train, or supervise new employees or apprentices.",0.15,hiring authority and on-site supervision needed
+20639,Sheet Metal Workers,"Lay out, measure, and mark dimensions and reference lines on material, such as roofing panels, using calculators, scribes, dividers, squares, or rulers.",0.05,physical layout marking on material
+5174,Sheet Metal Workers,"Fabricate or alter parts at construction sites, using shears, hammers, punches, or drills.",0.00,physical fabrication or installation work
+20638,Sheet Metal Workers,"Determine project requirements, such as scope, assembly sequences, or required methods or materials, using blueprints, drawings, or written or verbal instructions.",0.65,planning from blueprints and instructions info work
+20641,Sheet Metal Workers,Maneuver completed roofing units into position for installation.,0.00,physical fabrication or installation work
+5171,Sheet Metal Workers,"Select gauges or types of sheet metal or nonmetallic material, according to product specifications.",0.65,spec-based material selection info work
+5178,Sheet Metal Workers,"Shape metal material over anvils, blocks, or other forms, using hand tools.",0.00,physical fabrication or installation work
+5175,Sheet Metal Workers,"Trim, file, grind, deburr, buff, or smooth surfaces, seams, or joints of assembled parts, using hand tools or portable power tools.",0.00,physical fabrication or installation work
+20642,Sheet Metal Workers,"Inspect individual parts, assemblies, or installations, using measuring instruments, such as calipers, scales, or micrometers.",0.05,physical inspection with instruments on site
+5169,Sheet Metal Workers,Convert blueprints into shop drawings to be followed in the construction or assembly of sheet metal products.,0.80,drafting shop drawings digital work
+19862,Sheet Metal Workers,"Verify that heating, ventilating, and air conditioning (HVAC) systems are designed, installed, and calibrated in accordance with green certification standards, such as those of Leadership in Energy and Environmental Design (LEED).",0.35,design review partly automatable but site verification needed
+19860,Sheet Metal Workers,"Perform building commissioning activities by completing mechanical inspections of a building's water, lighting, or heating, ventilating, and air conditioning (HVAC) systems.",0.05,physical on-site mechanical inspection
+20644,Sheet Metal Workers,Fasten roof panel edges or machine-made moldings to structures by nailing or welding.,0.00,physical fabrication or installation work
+5176,Sheet Metal Workers,"Finish parts, using hacksaws or hand, rotary, or squaring shears.",0.00,physical fabrication or installation work
+11544,Structural Iron and Steel Workers,"Read specifications or blueprints to determine the locations, quantities, or sizes of materials required.",0.75,blueprint reading and quantity takeoff info work
+11546,Structural Iron and Steel Workers,"Connect columns, beams, and girders with bolts, following blueprints and instructions from supervisors.",0.00,physical on-site steel erection work
+11548,Structural Iron and Steel Workers,"Bolt aligned structural steel members in position for permanent riveting, bolting, or welding into place.",0.00,physical on-site steel erection work
+11553,Structural Iron and Steel Workers,"Fasten structural steel members to hoist cables, using chains, cables, or rope.",0.00,physical on-site steel erection work
+20795,Structural Iron and Steel Workers,"Hoist steel beams, girders, or columns into place, using cranes or signaling hoisting equipment operators to lift and position structural steel members.",0.00,physical on-site steel erection work
+11545,Structural Iron and Steel Workers,"Verify vertical and horizontal alignment of structural steel members, using plumb bobs, laser equipment, transits, or levels.",0.05,physical on-site alignment verification
+11552,Structural Iron and Steel Workers,"Cut, bend, or weld steel pieces, using metal shears, torches, or welding equipment.",0.00,physical on-site steel erection work
+11556,Structural Iron and Steel Workers,"Erect metal or precast concrete components for structures, such as buildings, bridges, dams, towers, storage tanks, fences, or highway guard rails.",0.00,physical on-site steel erection work
+11555,Structural Iron and Steel Workers,"Force structural steel members into final positions, using turnbuckles, crowbars, jacks, or hand tools.",0.00,physical on-site steel erection work
+11551,Structural Iron and Steel Workers,"Pull, push, or pry structural steel members into approximate positions for bolting into place.",0.00,physical on-site steel erection work
+11557,Structural Iron and Steel Workers,"Unload and position prefabricated steel units for hoisting, as needed.",0.00,physical on-site steel erection work
+11558,Structural Iron and Steel Workers,Drive drift pins through rivet holes to align rivet holes in structural steel members with corresponding holes in previously placed members.,0.00,physical on-site steel erection work
+11554,Structural Iron and Steel Workers,"Assemble hoisting equipment or rigging, such as cables, pulleys, or hooks, to move heavy equipment or materials.",0.00,physical on-site steel erection work
+11550,Structural Iron and Steel Workers,"Fabricate metal parts, such as steel frames, columns, beams, or girders, according to blueprints or instructions from supervisors.",0.00,physical on-site steel erection work
+11559,Structural Iron and Steel Workers,Dismantle structures or equipment.,0.00,physical on-site steel erection work
+11549,Structural Iron and Steel Workers,"Ride on girders or other structural steel members to position them, or use rope to guide them into position.",0.00,physical on-site steel erection work
+11563,Structural Iron and Steel Workers,Hold rivets while riveters use air hammers to form heads on rivets.,0.00,physical on-site steel erection work
+11560,Structural Iron and Steel Workers,"Insert sealing strips, wiring, insulating material, ladders, flanges, gauges, or valves, depending on types of structures being assembled.",0.00,physical on-site steel erection work
+11562,Structural Iron and Steel Workers,Place blocks under reinforcing bars used to reinforce floors.,0.00,physical on-site steel erection work
+17742,Solar Photovoltaic Installers,"Install photovoltaic (PV) systems in accordance with codes and standards, using drawings, schematics, and instructions.",0.00,physical installation work
+17746,Solar Photovoltaic Installers,"Check electrical installation for proper wiring, polarity, grounding, or integrity of terminations.",0.05,physical on-site electrical check
+17753,Solar Photovoltaic Installers,"Identify electrical, environmental, and safety hazards associated with photovoltaic (PV) installations.",0.30,hazard identification needs site assessment
+17754,Solar Photovoltaic Installers,"Identify installation locations with proper orientation, area, solar access, or structural integrity for photovoltaic (PV) arrays.",0.35,partial remote site assessment needs physical verification
+17740,Solar Photovoltaic Installers,"Assemble solar modules, panels, or support structures, as specified.",0.00,physical installation work
+17745,Solar Photovoltaic Installers,"Apply weather sealing to array, building, or support mechanisms.",0.00,physical installation work
+17756,Solar Photovoltaic Installers,"Install module array interconnect wiring, implementing measures to disable arrays during installation.",0.00,physical installation work
+17757,Solar Photovoltaic Installers,Install required labels on solar system components and hardware.,0.00,physical installation work
+17750,Solar Photovoltaic Installers,"Diagram layouts and locations for photovoltaic (PV) arrays and equipment, including existing building or site features.",0.65,diagramming from site data info work
+17765,Solar Photovoltaic Installers,"Determine materials, equipment, and installation sequences necessary to maximize installation efficiency.",0.65,installation planning info work
+17761,Solar Photovoltaic Installers,"Test operating voltages to ensure operation within acceptable limits for power conditioning equipment, such as inverters and controllers.",0.10,physical voltage testing on site
+17747,Solar Photovoltaic Installers,"Determine appropriate sizes, ratings, and locations for all system overcurrent devices, disconnect devices, grounding equipment, and surge suppression equipment.",0.75,code-based electrical sizing calculations info work
+17744,Solar Photovoltaic Installers,Activate photovoltaic (PV) systems to verify system functionality and conformity to performance expectations.,0.10,physical system activation on site
+17752,Solar Photovoltaic Installers,Identify and resolve any deficiencies in photovoltaic (PV) system installation or materials.,0.15,diagnosis maybe remote but physical fix needed
+17762,Solar Photovoltaic Installers,Visually inspect and test photovoltaic (PV) modules or systems.,0.20,visual inspection partly remote testing needs presence
+17751,Solar Photovoltaic Installers,Examine designs to determine current requirements for all parts of the photovoltaic (PV) system electrical circuit.,0.80,circuit design calculation info work
+17764,Solar Photovoltaic Installers,"Demonstrate system functionality and performance, including start-up, shut-down, normal operation, and emergency or bypass operations.",0.10,physical demonstration on site
+17755,Solar Photovoltaic Installers,"Identify methods for laying out, orienting, and mounting modules or arrays to ensure efficient installation, electrical configuration, or system maintenance.",0.65,installation layout planning info work
+17758,Solar Photovoltaic Installers,Measure and analyze system performance and operating parameters to assess operating condition of systems or equipment.,0.60,remote monitoring data analysis mostly info work
+17759,Solar Photovoltaic Installers,"Program, adjust, or configure inverters and controls for desired set points and operating modes.",0.60,remote inverter configuration via software
+17748,Solar Photovoltaic Installers,Determine connection interfaces for additional subpanels or for connecting photovoltaic (PV) systems with utility services or other power generation sources.,0.70,connection interface design info work
+17749,Solar Photovoltaic Installers,"Determine photovoltaic (PV) system designs or configurations based on factors such as customer needs, expectations, and site conditions.",0.50,design work needing customer interview and site analysis
+17760,Solar Photovoltaic Installers,"Select mechanical designs, installation equipment, or installation plans that conform to environmental, architectural, structural, site, and code requirements.",0.70,design selection per code info work
+17743,Solar Photovoltaic Installers,"Perform routine photovoltaic (PV) system maintenance on modules, arrays, batteries, power conditioning equipment, safety systems, structural systems, weather sealing, or balance of systems equipment.",0.05,physical routine maintenance
+17763,Solar Photovoltaic Installers,"Compile or maintain records of system operation, performance, and maintenance.",0.90,record compiling and maintenance pure info work
+17741,Solar Photovoltaic Installers,"Install active solar systems, including solar collectors, concentrators, pumps, or fans.",0.00,physical installation work
+13600,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Mix mortar, plaster, and grout, manually or using machines, according to standard formulas.",0.00,physical manual labor task
+13598,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",Erect scaffolding or other installation structures.,0.00,physical manual labor task
+13597,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Cut materials to specified sizes for installation, using power saws or tile cutters.",0.00,physical manual labor task
+13603,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Modify material moving, mixing, grouting, grinding, polishing, or cleaning procedures, according to installation or material requirements.",0.10,process adjustment tied to physical execution
+13606,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Transport materials, tools, or machines to installation sites, manually or using conveyance equipment.",0.00,physical manual labor task
+13604,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Provide assistance in the preparation, installation, repair, or rebuilding of tile, brick, or stone surfaces.",0.00,physical manual labor task
+13599,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Locate and supply materials to masons for installation, following drawings or numbered sequences.",0.05,physical material locating and supplying
+13610,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Arrange or store materials, machines, tools, or equipment.",0.00,physical manual labor task
+13605,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Clean installation surfaces, equipment, tools, work sites, or storage areas, using water, chemical solutions, oxygen lances, or polishing machines.",0.00,physical manual labor task
+13607,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Move or position materials such as marble slabs, using cranes, hoists, or dollies.",0.00,physical manual labor task
+13608,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Remove excess grout or residue from tile or brick joints, using sponges or trowels.",0.00,physical manual labor task
+13601,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Apply grout between joints of bricks or tiles, using grouting trowels.",0.00,physical manual labor task
+13611,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Apply caulk, sealants, or other agents to installed surfaces.",0.00,physical manual labor task
+13609,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Remove damaged tile, brick, or mortar, and clean or prepare surfaces, using pliers, hammers, chisels, drills, wire brushes, or metal wire anchors.",0.00,physical manual labor task
+13602,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Correct surface imperfections or fill chipped, cracked, or broken bricks or tiles, using fillers, adhesives, or grouting materials.",0.00,physical manual labor task
+8271,Helpers--Carpenters,"Clean work areas, machines, or equipment, to maintain a clean and safe job site.",0.00,physical manual labor task
+8270,Helpers--Carpenters,"Fasten timbers or lumber with glue, screws, pegs, or nails and install hardware.",0.00,physical manual labor task
+8276,Helpers--Carpenters,"Perform tie spacing layout and measure, mark, drill or cut.",0.00,physical manual labor task
+8269,Helpers--Carpenters,"Select tools, equipment, or materials from storage and transport items to work site.",0.00,physical manual labor task
+20443,Helpers--Carpenters,Drill holes in timbers or lumber.,0.00,physical manual labor task
+20444,Helpers--Carpenters,"Cut timbers, lumber, or paneling to specified dimensions.",0.00,physical manual labor task
+8267,Helpers--Carpenters,"Position and hold timbers, lumber, or paneling in place for fastening or cutting.",0.00,physical manual labor task
+8273,Helpers--Carpenters,"Align, straighten, plumb, or square forms for installation.",0.00,physical manual labor task
+8272,Helpers--Carpenters,"Hold plumb bobs, sighting rods, or other equipment to aid in establishing reference points and lines.",0.00,physical manual labor task
+8268,Helpers--Carpenters,"Erect scaffolding, shoring, or braces.",0.00,physical manual labor task
+8278,Helpers--Carpenters,Construct forms and assist in raising them to the required elevation.,0.00,physical manual labor task
+8279,Helpers--Carpenters,Install handrails under the direction of a carpenter.,0.00,physical manual labor task
+8280,Helpers--Carpenters,Glue and clamp edges or joints of assembled parts.,0.00,physical manual labor task
+8275,Helpers--Carpenters,"Smooth or sand surfaces to remove ridges, tool marks, glue, or caulking.",0.00,physical manual labor task
+8277,Helpers--Carpenters,"Secure stakes to grids for constructions of footings, nail scabs to footing forms, and vibrate and float concrete.",0.00,physical manual labor task
+8281,Helpers--Carpenters,Cut and install insulating or sound-absorbing material.,0.00,physical manual labor task
+8282,Helpers--Carpenters,Cut tile or linoleum to fit and spread adhesives on flooring for installation.,0.00,physical manual labor task
+8283,Helpers--Carpenters,Cover surfaces with laminated plastic covering material.,0.00,physical manual labor task
+4840,Helpers--Electricians,"Strip insulation from wire ends, using wire stripping pliers, and attach wires to terminals for subsequent soldering.",0.00,physical manual labor task
+4832,Helpers--Electricians,"Trace out short circuits in wiring, using test meter.",0.05,physical on-site circuit tracing
+4833,Helpers--Electricians,"Measure, cut, and bend wire and conduit, using measuring instruments and hand tools.",0.00,physical manual labor task
+4839,Helpers--Electricians,"Examine electrical units for loose connections and broken insulation and tighten connections, using hand tools.",0.00,physical manual labor task
+4834,Helpers--Electricians,"Maintain tools, vehicles, and equipment and keep parts and supplies in order.",0.00,physical manual labor task
+4835,Helpers--Electricians,"Drill holes and pull or push wiring through openings, using hand and power tools.",0.00,physical manual labor task
+4844,Helpers--Electricians,Clean work area and wash parts.,0.00,physical manual labor task
+4836,Helpers--Electricians,"Perform semi-skilled and unskilled laboring duties related to the installation, maintenance and repair of a wide variety of electrical systems and equipment.",0.00,physical manual labor task
+4841,Helpers--Electricians,"Thread conduit ends, connect couplings, and fabricate and secure conduit support brackets, using hand tools.",0.00,physical manual labor task
+4837,Helpers--Electricians,"Disassemble defective electrical equipment, replace defective or worn parts, and reassemble equipment, using hand tools.",0.00,physical manual labor task
+4842,Helpers--Electricians,"Construct controllers and panels, using power drills, drill presses, taps, saws, and punches.",0.00,physical manual labor task
+4838,Helpers--Electricians,"Transport tools, materials, equipment, and supplies to work site by hand, handtruck, or heavy, motorized truck.",0.00,physical manual labor task
+4843,Helpers--Electricians,"String transmission lines or cables through ducts or conduits, under the ground, through equipment, or to towers.",0.00,physical manual labor task
+4846,Helpers--Electricians,"Install copper-clad ground rods, using a manual post driver.",0.00,physical manual labor task
+4848,Helpers--Electricians,Dig trenches or holes for installation of conduit or supports.,0.00,physical manual labor task
+4847,Helpers--Electricians,"Raise, lower, or position equipment, tools, and materials, using hoist, hand line, or block and tackle.",0.00,physical manual labor task
+4850,Helpers--Electricians,"Bolt component parts together to form tower assemblies, using hand tools.",0.00,physical manual labor task
+4845,Helpers--Electricians,"Erect electrical system components and barricades, and rig scaffolds, hoists, and shoring.",0.00,physical manual labor task
+4855,Helpers--Electricians,Trim trees and clear undergrowth along right-of-way.,0.00,physical manual labor task
+4849,Helpers--Electricians,"Requisition materials, using warehouse requisition or release forms.",0.70,form-based material requisition digital process
+4854,Helpers--Electricians,"Solder electrical connections, using soldering iron.",0.00,physical manual labor task
+4851,Helpers--Electricians,Paint a variety of objects related to electrical functions.,0.00,physical manual labor task
+4853,Helpers--Electricians,"Break up concrete, using airhammer, to facilitate installation, construction, or repair of equipment.",0.00,physical manual labor task
+23977,Helpers--Electricians,"Operate heavy equipment, such as backhoes.",0.00,physical manual labor task
+4852,Helpers--Electricians,"Operate cutting torches and welding equipment, while working with conduit and metal components to construct devices associated with electrical functions.",0.00,physical manual labor task
+13612,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Clean work areas and equipment.,0.00,physical manual labor task
+13613,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Perform support duties to assist painters, paperhangers, plasterers, or masons.",0.00,physical manual labor task
+13614,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Apply protective coverings, such as masking tape, to articles or areas that could be damaged or stained by work processes.",0.00,physical manual labor task
+13615,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Erect scaffolding.,0.00,physical manual labor task
+13616,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Fill cracks or breaks in surfaces of plaster articles or areas with putty or epoxy compounds.,0.00,physical manual labor task
+13617,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Supply or hold tools and materials.,0.00,physical manual labor task

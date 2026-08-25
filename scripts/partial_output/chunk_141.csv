@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+14462,Sailors and Marine Oilers,"Stand watch in ships' bows or bridge wings to look for obstructions in a ship's path or to locate navigational aids, such as buoys or lighthouses.",0.05,requires physical presence on watch
+14457,Sailors and Marine Oilers,"Maintain government-issued certifications, as required.",0.15,certification held by human license holder
+14476,Sailors and Marine Oilers,Examine machinery to verify specified pressures or lubricant flows.,0.05,physical inspection of machinery
+14480,Sailors and Marine Oilers,Maintain a ship's engines under the direction of the ship's engineering officers.,0.05,hands-on engine maintenance
+14468,Sailors and Marine Oilers,"Break out, rig, and stow cargo-handling gear, stationary rigging, or running gear.",0.00,physical rigging of cargo gear
+14467,Sailors and Marine Oilers,"Lubricate machinery, equipment, or engine parts, such as gears, shafts, or bearings.",0.00,physical lubrication of machinery
+14458,Sailors and Marine Oilers,Lower and man lifeboats when emergencies occur.,0.00,physical emergency lifeboat handling
+14472,Sailors and Marine Oilers,"Sweep, mop, and wash down decks to remove oil, dirt, and debris, using brooms, mops, brushes, and hoses.",0.00,manual deck cleaning
+14469,Sailors and Marine Oilers,"Splice and repair ropes, wire cables, or cordage, using marlinespikes, wire cutters, twine, and hand tools.",0.00,manual rope splicing
+20934,Sailors and Marine Oilers,"Load or unload materials, vehicles, or passengers from vessels.",0.00,physical loading of vessels
+14473,Sailors and Marine Oilers,"Chip and clean rust spots on decks, superstructures, or sides of ships, using wire brushes and hand or air chipping machines.",0.00,manual chipping and cleaning
+14470,Sailors and Marine Oilers,Provide engineers with assistance in repairing or adjusting machinery.,0.00,hands-on repair assistance
+14465,Sailors and Marine Oilers,"Operate, maintain, or repair ship equipment, such as winches, cranes, derricks, or weapons system.",0.00,physical operation of ship equipment
+14471,Sailors and Marine Oilers,"Paint or varnish decks, superstructures, lifeboats, or sides of ships.",0.00,manual painting of ship structures
+14474,Sailors and Marine Oilers,Give directions to crew members engaged in cleaning wheelhouses or quarterdecks.,0.10,on-site supervisory direction of crew
+14459,Sailors and Marine Oilers,"Stand by wheels when ships are on automatic pilot, and verify accuracy of courses, using magnetic compasses.",0.05,requires physical presence at wheel
+14460,Sailors and Marine Oilers,"Steer ships under the direction of commanders or navigating officers or direct helmsmen to steer, following designated courses.",0.00,physical steering of ship
+14481,Sailors and Marine Oilers,"Relay specified signals to other ships, using visual signaling devices, such as blinker lights or semaphores.",0.00,physical operation of signaling devices
+14464,Sailors and Marine Oilers,Overhaul lifeboats or lifeboat gear and lower or raise lifeboats with winches or falls.,0.00,physical lifeboat overhaul
+14463,Sailors and Marine Oilers,Stand gangway watches to prevent unauthorized persons from boarding ships while in port.,0.00,physical gangway watch
+20935,Sailors and Marine Oilers,"Record data in ships' logs, such as weather conditions or distances traveled.",0.25,recording requires physical observation of conditions
+14477,Sailors and Marine Oilers,"Measure depth of water in shallow or unfamiliar waters, using leadlines, and telephone or shout depth information to vessel bridges.",0.00,manual depth measurement on board
+14484,Sailors and Marine Oilers,"Clean and polish wood trim, brass, or other metal parts.",0.00,manual polishing and cleaning
+14483,Sailors and Marine Oilers,Participate in shore patrols.,0.00,physical shore patrol presence
+23802,"Captains, Mates, and Pilots of Water Vessels","Direct courses and speeds of ships, based on specialized knowledge of local winds, weather, water depths, tides, currents, and hazards.",0.15,requires on-site judgment and pilot authority
+23803,"Captains, Mates, and Pilots of Water Vessels",Prevent ships under navigational control from engaging in unsafe operations.,0.05,requires on-site authority to intervene
+23804,"Captains, Mates, and Pilots of Water Vessels",Serve as a vessel's docking master upon arrival at a port or at a berth.,0.00,physical docking master role on board
+23805,"Captains, Mates, and Pilots of Water Vessels","Consult maps, charts, weather reports, or navigation equipment to determine and direct ship movements.",0.30,chart analysis feasible but directing needs onboard authority
+23806,"Captains, Mates, and Pilots of Water Vessels","Steer and operate vessels, using radios, depth finders, radars, lights, buoys, or lighthouses.",0.00,physical operation of vessel controls
+23807,"Captains, Mates, and Pilots of Water Vessels",Operate ship-to-shore radios to exchange information needed for ship operations.,0.05,physical radio operation on board
+23808,"Captains, Mates, and Pilots of Water Vessels","Dock or undock vessels, sometimes maneuvering through narrow spaces, such as locks.",0.00,physical maneuvering of vessel
+23809,"Captains, Mates, and Pilots of Water Vessels",Stand watches on vessels during specified periods while vessels are under way.,0.00,physical presence standing watch
+23810,"Captains, Mates, and Pilots of Water Vessels",Inspect vessels to ensure efficient and safe operation of vessels and equipment and conformance to regulations.,0.05,physical inspection with regulatory authority
+23811,"Captains, Mates, and Pilots of Water Vessels","Read gauges to verify sufficient levels of hydraulic fluid, air pressure, or oxygen.",0.00,manual gauge reading on board
+23812,"Captains, Mates, and Pilots of Water Vessels",Report to appropriate authorities any violations of federal or state pilotage laws.,0.20,reporting requires licensed on-site observation
+23813,"Captains, Mates, and Pilots of Water Vessels",Provide assistance in maritime rescue operations.,0.00,physical rescue assistance
+23814,"Captains, Mates, and Pilots of Water Vessels","Signal passing vessels, using whistles, flashing lights, flags, or radios.",0.00,physical signaling of vessels
+23815,"Captains, Mates, and Pilots of Water Vessels","Measure depths of water, using depth-measuring equipment.",0.00,manual depth measurement equipment
+23817,"Captains, Mates, and Pilots of Water Vessels","Signal crew members or deckhands to rig tow lines, open or close gates or ramps, or pull guard chains across entries.",0.00,physical signaling to crew on site
+23816,"Captains, Mates, and Pilots of Water Vessels","Maintain boats or equipment on board, such as engines, winches, navigational systems, fire extinguishers, or life preservers.",0.00,hands-on maintenance of onboard equipment
+23819,"Captains, Mates, and Pilots of Water Vessels","Maintain records of daily activities, personnel reports, ship positions and movements, ports of call, weather and sea conditions, pollution control efforts, or cargo or passenger status.",0.55,record compilation feasible from ship data feeds
+23818,"Captains, Mates, and Pilots of Water Vessels",Advise ships' masters on harbor rules and customs procedures.,0.55,advisory task on rules and procedures
+23820,"Captains, Mates, and Pilots of Water Vessels",Observe loading or unloading of cargo or equipment to ensure that handling and storage are performed according to specifications.,0.05,physical observation of cargo handling
+23821,"Captains, Mates, and Pilots of Water Vessels","Calculate sightings of land, using electronic sounding devices and following contour lines on charts.",0.15,requires physical device operation on board
+23822,"Captains, Mates, and Pilots of Water Vessels","Learn to operate new technology systems and procedures through instruction, simulators, or models.",0.10,hands-on training on physical systems
+23823,"Captains, Mates, and Pilots of Water Vessels","Direct or coordinate crew members or workers performing activities such as loading or unloading cargo, steering vessels, operating engines, or operating, maintaining, or repairing ship equipment.",0.05,on-site supervisory coordination of crew
+23824,"Captains, Mates, and Pilots of Water Vessels","Arrange for ships to be fueled, restocked with supplies, or repaired.",0.60,logistics coordination largely information work
+23825,"Captains, Mates, and Pilots of Water Vessels","Supervise crews in cleaning or maintaining decks, superstructures, or bridges.",0.05,on-site supervision of cleaning crews
+23826,"Captains, Mates, and Pilots of Water Vessels",Purchase supplies or equipment.,0.55,procurement research feasible but purchasing authority needed
+23827,"Captains, Mates, and Pilots of Water Vessels",Tow and maneuver barges or signal tugboats to tow barges to destinations.,0.00,physical maneuvering of barges
+23828,"Captains, Mates, and Pilots of Water Vessels","Perform various marine duties, such as checking for oil spills or other pollutants around ports or harbors or patrolling beaches.",0.00,physical patrol duties
+23829,"Captains, Mates, and Pilots of Water Vessels",Assign watches or living quarters to crew members.,0.60,scheduling assignment task from crew roster
+23830,"Captains, Mates, and Pilots of Water Vessels",Interview and hire crew members.,0.30,requires interpersonal interview and hiring authority
+23831,"Captains, Mates, and Pilots of Water Vessels",Conduct safety drills such as man overboard or fire drills.,0.00,physical presence for safety drills
+14537,Motorboat Operators,Operate engine throttles and steering mechanisms to guide boats on desired courses.,0.00,physical operation of boat controls
+14538,Motorboat Operators,Direct safety operations in emergency situations.,0.00,on-site real-time emergency direction
+14540,Motorboat Operators,"Secure boats to docks with mooring lines, and cast off lines to enable departure.",0.00,manual mooring of boats
+14535,Motorboat Operators,"Maintain desired courses, using compasses or electronic navigational aids.",0.00,physical steering to maintain course
+14545,Motorboat Operators,Organize and direct the activities of crew members.,0.10,on-site direction of crew activities
+14536,Motorboat Operators,"Follow safety procedures to ensure the protection of passengers, cargo, and vessels.",0.00,physical safety enforcement on board
+14541,Motorboat Operators,"Maintain equipment such as range markers, fire extinguishers, boat fenders, lines, pumps, and fittings.",0.00,hands-on equipment maintenance
+14542,Motorboat Operators,Report any observed navigational hazards to authorities.,0.15,reporting requires physical observation of hazards
+14548,Motorboat Operators,"Oversee operation of vessels used for carrying passengers, motor vehicles, or goods across rivers, harbors, lakes, and coastal waters.",0.00,physical oversight of vessel operation
+14543,Motorboat Operators,Service motors by performing tasks such as changing oil and lubricating parts.,0.00,manual motor servicing
+14544,Motorboat Operators,"Arrange repairs, fuel, and supplies for vessels.",0.60,logistics coordination largely information work
+14539,Motorboat Operators,"Issue directions for loading, unloading, and seating in boats.",0.05,on-site direction of loading and seating
+14547,Motorboat Operators,"Clean boats and repair hulls and superstructures, using hand tools, paint, and brushes.",0.00,manual boat cleaning and repair
+14546,Motorboat Operators,"Tow, push, or guide other boats, barges, logs, or rafts.",0.00,physical towing and guiding of boats
+14549,Motorboat Operators,Take depth soundings in turning basins.,0.00,manual depth sounding
+14550,Motorboat Operators,Perform general labor duties such as repairing booms.,0.00,manual labor repairing booms
+14553,Ship Engineers,"Monitor engine, machinery, or equipment indicators when vessels are underway, and report abnormalities to appropriate shipboard staff.",0.15,requires physical presence to observe indicators
+14552,Ship Engineers,"Monitor the availability, use, or condition of lifesaving equipment or pollution preventatives to ensure that international regulations are followed.",0.10,physical inspection of lifesaving equipment
+14559,Ship Engineers,Monitor and test operations of engines or other equipment so that malfunctions and their causes can be identified.,0.05,hands-on engine testing
+14558,Ship Engineers,"Start engines to propel ships, and regulate engines and power transmissions to control speeds of ships, according to directions from captains or bridge computers.",0.00,physical engine operation
+14556,Ship Engineers,"Perform or participate in emergency drills, as required.",0.00,physical participation in drills
+14561,Ship Engineers,"Perform general marine vessel maintenance or repair work, such as repairing leaks, finishing interiors, refueling, or maintaining decks.",0.00,manual vessel maintenance and repair
+14560,Ship Engineers,"Maintain or repair engines, electric motors, pumps, winches, or other mechanical or electrical equipment, or assist other crew members with maintenance or repair duties.",0.00,hands-on engine and equipment repair
+14557,Ship Engineers,"Maintain complete records of engineering department activities, including machine operations.",0.55,record compilation feasible from provided data
+14562,Ship Engineers,Operate or maintain off-loading liquid pumps or valves.,0.00,physical pump and valve operation
+14554,Ship Engineers,"Maintain electrical power, heating, ventilation, refrigeration, water, or sewerage systems.",0.00,hands-on systems maintenance
+14567,Ship Engineers,"Install engine controls, propeller shafts, or propellers.",0.00,manual mechanical installation
+14563,Ship Engineers,Clean engine parts and keep engine rooms clean.,0.00,manual cleaning of engine parts
+14555,Ship Engineers,"Record orders for changes in ship speed or direction, and note gauge readings or test data, such as revolutions per minute or voltage output, in engineering logs or bellbooks.",0.45,transcribing readings requires physical gauge access
+14565,Ship Engineers,"Order and receive engine room stores, such as oil or spare parts, maintain inventories, and record usage of supplies.",0.55,inventory ordering and recordkeeping information work
+14566,Ship Engineers,Act as a liaison between a ship's captain and shore personnel to ensure that schedules and budgets are maintained and that the ship is operated safely and efficiently.,0.35,liaison role needs on-site judgment and accountability
+14564,Ship Engineers,"Supervise marine engine technicians engaged in the maintenance or repair of mechanical or electrical marine vessels, and inspect their work to ensure that it is performed properly.",0.05,on-site supervision of technicians
+14568,Ship Engineers,"Fabricate engine replacement parts, such as valves, stay rods, or bolts, using metalworking machinery.",0.00,manual metalworking fabrication
+7152,Bridge and Lock Tenders,"Control machinery to open and close canal locks and dams, railroad or highway drawbridges, or horizontally or vertically adjustable bridges.",0.10,on-site machinery operation with safety accountability
+7153,Bridge and Lock Tenders,"Direct movements of vessels in locks or bridge areas, using signals, telecommunication equipment, or loudspeakers.",0.10,requires physical observation to direct vessels
+7156,Bridge and Lock Tenders,Observe position and progress of vessels to ensure best use of lock spaces or bridge opening spaces.,0.05,physical observation of vessel positions
+7151,Bridge and Lock Tenders,"Record names, types, and destinations of vessels passing through bridge openings or locks, and numbers of trains or vehicles crossing bridges.",0.55,clerical recording feasible from data feed
+7155,Bridge and Lock Tenders,"Observe approaching vessels to determine size and speed, and listen for whistle signals indicating desire to pass.",0.05,physical observation of approaching vessels
+7150,Bridge and Lock Tenders,"Move levers to activate traffic signals, navigation lights, and alarms.",0.00,physical operation of levers
+7161,Bridge and Lock Tenders,Write and submit maintenance work requisitions.,0.85,routine written maintenance requisition
+7160,Bridge and Lock Tenders,"Log data, such as water levels and weather conditions.",0.35,logging requires physical or sensor observation
+7154,Bridge and Lock Tenders,Prepare accident reports.,0.75,writing report from provided facts
+7162,Bridge and Lock Tenders,"Perform maintenance duties, such as sweeping, painting, and yard work to keep facilities clean and in order.",0.00,manual maintenance and yard work
+7164,Bridge and Lock Tenders,Turn valves to increase or decrease water levels in locks.,0.00,physical valve operation
+7163,Bridge and Lock Tenders,Check that bridges are clear of vehicles and pedestrians prior to opening.,0.05,physical safety check before opening bridge
+7165,Bridge and Lock Tenders,"Stop automobile and pedestrian traffic on bridges, and lower automobile gates prior to moving bridges.",0.00,physical traffic control and gate operation
+7166,Bridge and Lock Tenders,Raise drawbridges and observe passage of water traffic or lower drawbridges and raise automobile gates.,0.00,physical bridge operation
+7157,Bridge and Lock Tenders,Maintain and guard stations in bridges to check waterways for boat traffic.,0.00,physical guard presence at station
+7159,Bridge and Lock Tenders,"Clean and lubricate equipment, and make minor repairs and adjustments.",0.00,manual equipment lubrication and repair
+7158,Bridge and Lock Tenders,"Inspect canal and bridge equipment, and areas, such as roadbeds, for damage or defects, reporting problems to supervisors as necessary.",0.05,physical inspection of equipment and roadbeds
+7169,Bridge and Lock Tenders,Attach ropes or cable lines to bitts on lock decks or wharfs to secure vessels.,0.00,manual attachment of mooring lines
+3187,Parking Attendants,"Take numbered tags from customers, locate vehicles, and deliver vehicles, or provide customers with instructions for locating vehicles.",0.00,physical vehicle retrieval
+3196,Parking Attendants,Inspect vehicles to detect any damage.,0.05,physical inspection of vehicle damage
+3192,Parking Attendants,Greet customers and open their car doors.,0.00,physical greeting and door service
+20835,Parking Attendants,"Issue ticket stubs or place numbered tags on windshields, log tags or attach tag to customers' keys, and give customers matching tags for locating parked vehicles.",0.00,physical tag issuance and placement
+20836,Parking Attendants,"Perform cash handling tasks, such as making change, balancing and recording cash drawer, or distributing tips.",0.05,physical cash handling
+20837,Parking Attendants,"Explain and calculate parking charges, collect fees from customers, and respond to customer complaints.",0.25,fee explanation feasible but collection needs physical presence
+3191,Parking Attendants,"Park and retrieve automobiles for customers in parking lots, storage garages, or new car lots.",0.00,physical driving of customer vehicles
+20838,Parking Attendants,"Provide customer assistance and information, such as giving directions or handling wheelchairs.",0.10,mostly physical customer assistance
+3188,Parking Attendants,Keep parking areas clean and orderly to ensure that space usage is maximized.,0.00,manual upkeep of parking areas
+20839,Parking Attendants,"Call emergency responders or the proper authorities and provide motorist assistance, such as giving directions or helping jump start a stalled vehicle.",0.20,calling for help feasible but physical assistance is not
+3190,Parking Attendants,Patrol parking areas to prevent vehicle damage and vehicle or property thefts.,0.00,physical patrol presence
+3189,Parking Attendants,"Direct motorists to parking areas or parking spaces, using hand signals or flashlights as necessary.",0.00,physical direction of traffic
+3198,Parking Attendants,Escort customers to their vehicles to ensure their safety.,0.00,physical escort presence
+3200,Parking Attendants,"Perform maintenance on cars in storage to protect tires, batteries, or exteriors from deterioration.",0.00,hands-on vehicle maintenance
+3195,Parking Attendants,"Lift, position, and remove barricades to open or close parking areas.",0.00,physical barricade handling
+10712,Automotive and Watercraft Service Attendants,"Collect cash payments from customers, and make change or charge purchases to customers' credit cards, providing customers with receipts.",0.15,mostly physical payment handling
+20936,Automotive and Watercraft Service Attendants,"Check tire pressure and levels of fuel, motor oil, transmission, radiator, battery, or other fluids, adding air or fluids as required.",0.00,manual fluid checks and top-offs
+10719,Automotive and Watercraft Service Attendants,"Perform minor repairs, such as adjusting brakes, replacing spark plugs, or changing engine oil or filters.",0.00,manual vehicle repairs
+10715,Automotive and Watercraft Service Attendants,"Clean parking areas, offices, restrooms, or equipment, and remove trash.",0.00,manual cleaning duties
+10720,Automotive and Watercraft Service Attendants,"Order stock, and price and shelve incoming goods.",0.35,ordering and pricing feasible but shelving is physical
+10725,Automotive and Watercraft Service Attendants,"Sell and install accessories, such as batteries, windshield wiper blades, fan belts, bulbs, or headlamps.",0.10,mostly physical installation of parts
+10724,Automotive and Watercraft Service Attendants,"Grease and lubricate vehicles or specified units, such as springs, universal joints, or steering knuckles, using grease guns or spray lubricants.",0.00,manual greasing and lubrication
+10721,Automotive and Watercraft Service Attendants,"Rotate, test, and repair or replace tires.",0.00,manual tire service
+10714,Automotive and Watercraft Service Attendants,"Prepare daily reports of fuel, oil, and accessory sales.",0.80,report compilation from sales data
+20937,Automotive and Watercraft Service Attendants,Clean windshields.,0.00,manual windshield cleaning

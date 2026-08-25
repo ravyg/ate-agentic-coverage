@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+2434,Parts Salespersons,"Mark and store parts in stockrooms, according to prearranged systems.",0.05,physical stocking of parts
+2435,Parts Salespersons,"Discuss use and features of various parts, based on knowledge of machines or equipment.",0.75,informational product discussion
+2436,Parts Salespersons,"Demonstrate equipment to customers, and explain functioning of equipment.",0.10,physical equipment demonstration
+2437,Parts Salespersons,Place new merchandise on display.,0.02,physical merchandise placement
+2438,Parts Salespersons,"Measure parts, using precision measuring instruments, to determine whether similar parts may be machined to required sizes.",0.03,physical precision measurement
+2439,Parts Salespersons,Repair parts or equipment.,0.02,physical repair work
+2440,Real Estate Sales Agents,Present purchase offers to sellers for consideration.,0.30,requires agent authority to present offers
+2441,Real Estate Sales Agents,"Confer with escrow companies, lenders, home inspectors, and pest control operators to ensure that terms and conditions of purchase agreements are met before closing dates.",0.55,coordination via calls and email
+2442,Real Estate Sales Agents,Interview clients to determine what kinds of properties they are seeking.,0.45,interview needs live rapport
+2443,Real Estate Sales Agents,"Prepare documents such as representation contracts, purchase agreements, closing statements, deeds, and leases.",0.65,document drafting needs human signoff
+2444,Real Estate Sales Agents,"Coordinate property closings, overseeing signing of documents and disbursement of funds.",0.15,requires physical presence at closing
+2445,Real Estate Sales Agents,"Act as an intermediary in negotiations between buyers and sellers, generally representing one or the other.",0.35,negotiation needs trust and authority
+2446,Real Estate Sales Agents,"Promote sales of properties through advertisements, open houses, and participation in multiple listing services.",0.45,mix of digital ads and physical open houses
+2447,Real Estate Sales Agents,Compare a property with similar properties that have recently sold to determine its competitive market price.,0.90,pure market data analysis
+2448,Real Estate Sales Agents,Coordinate appointments to show homes to prospective buyers.,0.80,scheduling task
+2449,Real Estate Sales Agents,Generate lists of properties that are compatible with buyers' needs and financial resources.,0.90,data search and matching
+2450,Real Estate Sales Agents,"Display commercial, industrial, agricultural, and residential properties to clients and explain their features.",0.10,physical property showing
+2451,Real Estate Sales Agents,Arrange for title searches to determine whether clients have clear property titles.,0.75,arranging service via forms and calls
+2452,Real Estate Sales Agents,"Review plans for new construction with clients, enumerating and recommending available options and features.",0.55,plan review with live client discussion
+2453,Real Estate Sales Agents,"Answer clients' questions regarding construction work, financing, maintenance, repairs, and appraisals.",0.85,informational Q&A
+2454,Real Estate Sales Agents,"Inspect condition of premises, and arrange for necessary maintenance or notify owners of maintenance needs.",0.15,requires on-site inspection
+2455,Real Estate Sales Agents,"Accompany buyers during visits to and inspections of property, advising them on the suitability and value of the homes they are visiting.",0.05,requires physical accompaniment
+2456,Real Estate Sales Agents,Advise sellers on how to make homes more appealing to potential buyers.,0.70,advisory report can be remote
+2457,Real Estate Sales Agents,Arrange meetings between buyers and sellers when details of transactions need to be negotiated.,0.75,scheduling negotiation meetings
+2458,Real Estate Sales Agents,"Advise clients on market conditions, prices, mortgages, legal requirements, and related matters.",0.85,advisory information work
+2459,Real Estate Sales Agents,Evaluate mortgage options to help clients obtain financing at the best prevailing rates and terms.,0.85,financial option comparison
+2460,Real Estate Sales Agents,"Review property listings, trade journals, and relevant literature, and attend conventions, seminars, and staff and association meetings, to remain knowledgeable about real estate markets.",0.55,mix of reading and in-person conventions
+2461,Real Estate Sales Agents,Investigate clients' financial and credit status to determine eligibility for financing.,0.80,financial data investigation
+2462,Real Estate Sales Agents,Contact property owners and advertise services to solicit property sales listings.,0.65,outreach via calls and ads
+2463,Real Estate Sales Agents,"Develop networks of attorneys, mortgage lenders, and contractors to whom clients may be referred.",0.30,long-term relationship networking
+2464,Real Estate Sales Agents,Visit properties to assess them before showing them to clients.,0.05,requires physical site visit
+2465,Real Estate Sales Agents,Contact utility companies for service hookups to clients' property.,0.70,administrative service requests
+2466,Real Estate Sales Agents,Conduct seminars and training sessions for sales agents to improve sales techniques.,0.35,live training delivery
+2467,Real Estate Sales Agents,Appraise properties to determine loan values.,0.15,requires licensed appraiser and site visit
+2468,Real Estate Sales Agents,Solicit and compile listings of available rental properties.,0.65,solicit and compile listings
+2469,Real Estate Sales Agents,Secure construction or purchase financing with own firm or mortgage company.,0.30,financial negotiation and decision authority
+2470,Real Estate Sales Agents,Rent or lease properties on behalf of clients.,0.25,requires legal authority to bind lease
+2471,Real Estate Sales Agents,"Locate and appraise undeveloped areas for building sites, based on evaluations of area market conditions.",0.30,appraisal needs licensed judgment and site visit
+2472,Bill and Account Collectors,Receive payments and post amounts paid to customer accounts.,0.75,digital payment posting
+2473,Bill and Account Collectors,"Locate and monitor overdue accounts, using computers and a variety of automated systems.",0.90,automated account monitoring
+2474,Bill and Account Collectors,Record information about financial status of customers and status of collection efforts.,0.90,data record keeping
+2475,Bill and Account Collectors,"Locate and notify customers of delinquent accounts by mail, telephone, or personal visits to solicit payment.",0.55,mix of automatable contact and personal visits
+2476,Bill and Account Collectors,"Confer with customers by telephone or in person to determine reasons for overdue payments and to review the terms of sales, service, or credit contracts.",0.45,live conversation needs rapport
+2477,Bill and Account Collectors,Advise customers of necessary actions and strategies for debt repayment.,0.75,advisory information work
+2478,Bill and Account Collectors,"Persuade customers to pay amounts due on credit accounts, damage claims, or nonpayable checks, or to return merchandise.",0.40,persuasion needs human rapport
+2479,Bill and Account Collectors,"Sort and file correspondence and perform miscellaneous clerical duties, such as answering correspondence and writing reports.",0.85,clerical correspondence and reports
+2480,Bill and Account Collectors,"Perform various administrative functions for assigned accounts, such as recording address changes and purging the records of deceased customers.",0.90,administrative data updates
+2481,Bill and Account Collectors,"Arrange for debt repayment or establish repayment schedules, based on customers' financial situations.",0.55,repayment arrangement needs judgment and trust
+2482,Bill and Account Collectors,Negotiate credit extensions when necessary.,0.35,credit negotiation needs authority
+2483,Bill and Account Collectors,"Trace delinquent customers to new addresses by inquiring at post offices, telephone companies, credit bureaus, or through the questioning of neighbors.",0.55,mostly database and record tracing
+2484,Bill and Account Collectors,"Notify credit departments, order merchandise repossession or service disconnection, and turn over account records to attorneys when customers fail to respond to collection attempts.",0.65,notification and instruction issuance
+2486,"Bookkeeping, Accounting, and Auditing Clerks","Check figures, postings, and documents for correct entry, mathematical accuracy, and proper codes.",0.90,figure checking and verification
+2487,"Bookkeeping, Accounting, and Auditing Clerks","Operate computers programmed with accounting software to record, store, and analyze information.",0.90,software based data work
+2488,"Bookkeeping, Accounting, and Auditing Clerks","Comply with federal, state, and company policies, procedures, and regulations.",0.60,compliance monitoring with human accountability
+2489,"Bookkeeping, Accounting, and Auditing Clerks","Debit, credit, and total accounts on computer spreadsheets and databases, using specialized accounting software.",0.90,spreadsheet computation
+2490,"Bookkeeping, Accounting, and Auditing Clerks","Classify, record, and summarize numerical and financial data to compile and keep financial records, using journals and ledgers or computers.",0.90,financial data classification
+2491,"Bookkeeping, Accounting, and Auditing Clerks","Calculate, prepare, and issue bills, invoices, account statements, and other financial statements according to established procedures.",0.90,billing and statement generation
+2492,"Bookkeeping, Accounting, and Auditing Clerks","Compile statistical, financial, accounting, or auditing reports and tables pertaining to such matters as cash receipts, expenditures, accounts payable and receivable, and profits and losses.",0.90,report compilation from data
+2493,"Bookkeeping, Accounting, and Auditing Clerks",Code documents according to company procedures.,0.90,document coding
+2494,"Bookkeeping, Accounting, and Auditing Clerks",Access computerized financial information to answer general questions as well as those related to specific accounts.,0.90,information lookup and Q&A
+2495,"Bookkeeping, Accounting, and Auditing Clerks","Operate 10-key calculators, typewriters, and copy machines to perform calculations and produce documents.",0.30,operating physical office machines
+2496,"Bookkeeping, Accounting, and Auditing Clerks",Reconcile or note and report discrepancies found in records.,0.90,record reconciliation
+2497,"Bookkeeping, Accounting, and Auditing Clerks","Perform financial calculations, such as amounts due, interest charges, balances, discounts, equity, and principal.",0.95,pure financial calculation
+2498,"Bookkeeping, Accounting, and Auditing Clerks","Perform general office duties, such as filing, answering telephones, and handling routine correspondence.",0.45,mix of digital and physical office duties
+2499,"Bookkeeping, Accounting, and Auditing Clerks","Prepare bank deposits by compiling data from cashiers, verifying and balancing receipts, and sending cash, checks, or other forms of payment to banks.",0.25,physical cash handling and bank deposit
+2500,"Bookkeeping, Accounting, and Auditing Clerks","Receive, record, and bank cash, checks, and vouchers.",0.20,physical cash and check handling
+2501,"Bookkeeping, Accounting, and Auditing Clerks","Calculate and prepare checks for utilities, taxes, and other payments.",0.75,digital calculation and check preparation
+2502,"Bookkeeping, Accounting, and Auditing Clerks",Compare computer printouts to manually maintained journals to determine if they match.,0.85,data comparison task
+2503,"Bookkeeping, Accounting, and Auditing Clerks",Reconcile records of bank transactions.,0.90,bank transaction reconciliation
+2504,"Bookkeeping, Accounting, and Auditing Clerks",Prepare trial balances of books.,0.90,trial balance preparation
+2505,"Bookkeeping, Accounting, and Auditing Clerks",Monitor status of loans and accounts to ensure that payments are up to date.,0.90,loan status monitoring
+2506,"Bookkeeping, Accounting, and Auditing Clerks",Transfer details from separate journals to general ledgers or data processing sheets.,0.90,ledger data transfer
+2507,"Bookkeeping, Accounting, and Auditing Clerks","Compile budget data and documents, based on estimated revenues and expenses and previous budgets.",0.85,budget data compilation
+2508,"Bookkeeping, Accounting, and Auditing Clerks","Calculate costs of materials, overhead, and other expenses, based on estimates, quotations and price lists.",0.85,cost calculation from data
+2509,"Bookkeeping, Accounting, and Auditing Clerks","Match order forms with invoices, and record the necessary information.",0.90,invoice matching and recording
+2510,"Bookkeeping, Accounting, and Auditing Clerks","Complete and submit tax forms and returns, workers' compensation forms, pension contribution forms, and other government documents.",0.75,form completion with possible signoff needed
+2511,"Bookkeeping, Accounting, and Auditing Clerks",Maintain inventory records.,0.90,inventory record keeping
+2514,"Bookkeeping, Accounting, and Auditing Clerks",Prepare purchase orders and expense reports.,0.90,purchase order and expense report drafting
+2515,Payroll and Timekeeping Clerks,Process and issue employee paychecks and statements of earnings and deductions.,0.80,paycheck processing mostly digital
+2516,Payroll and Timekeeping Clerks,"Compute wages and deductions, and enter data into computers.",0.95,wage computation and data entry
+2517,Payroll and Timekeeping Clerks,"Compile employee time, production, and payroll data from time sheets and other records.",0.90,payroll data compilation
+2518,Payroll and Timekeeping Clerks,"Review time sheets, work charts, wage computation, and other information to detect and reconcile payroll discrepancies.",0.90,discrepancy review from records
+2519,Payroll and Timekeeping Clerks,"Verify attendance, hours worked, and pay adjustments, and post information onto designated records.",0.90,attendance verification and posting
+2520,Payroll and Timekeeping Clerks,"Record employee information, such as exemptions, transfers, and resignations, to maintain and update payroll records.",0.90,payroll record updates
+2521,Payroll and Timekeeping Clerks,Issue and record adjustments to pay related to previous errors or retroactive increases.,0.85,pay adjustment calculation and recording
+2522,Payroll and Timekeeping Clerks,Keep informed about changes in tax and deduction laws that apply to the payroll process.,0.85,regulatory research
+2523,Payroll and Timekeeping Clerks,"Provide information to employees and managers on payroll matters, tax issues, benefit plans, and collective agreement provisions.",0.85,informational Q&A on payroll
+2524,Payroll and Timekeeping Clerks,Complete time sheets showing employees' arrival and departure times.,0.70,time sheet data completion
+2526,Payroll and Timekeeping Clerks,Distribute and collect timecards each pay period.,0.30,physical distribution of timecards
+2527,Payroll and Timekeeping Clerks,"Complete, verify, and process forms and documentation for administration of benefits, such as pension plans, and unemployment and medical insurance.",0.85,benefits form processing
+2528,Payroll and Timekeeping Clerks,"Prepare and balance period-end reports, and reconcile issued payrolls to bank statements.",0.90,period end report reconciliation
+2529,Payroll and Timekeeping Clerks,"Compile statistical reports, statements, and summaries related to pay and benefits accounts, and submit them to appropriate departments.",0.90,statistical report compilation
+2530,Payroll and Timekeeping Clerks,"Coordinate special programs, such as United Way campaigns, that involve payroll deductions.",0.55,coordinating a charity program needs outreach
+2531,Procurement Clerks,Prepare purchase orders and send copies to suppliers and to departments originating requests.,0.90,purchase order preparation
+2532,Procurement Clerks,"Determine if inventory quantities are sufficient for needs, ordering more materials when necessary.",0.85,inventory determination and ordering
+2533,Procurement Clerks,"Respond to customer and supplier inquiries about order status, changes, or cancellations.",0.85,inquiry response from data
+2534,Procurement Clerks,Perform buying duties when necessary.,0.55,buying decisions need budget authority
+2535,Procurement Clerks,"Contact suppliers to schedule or expedite deliveries and to resolve shortages, missed or late deliveries, and other problems.",0.65,supplier contact and logistics coordination
+2536,Procurement Clerks,"Review requisition orders to verify accuracy, terminology, and specifications.",0.90,requisition accuracy review
+2537,Procurement Clerks,"Prepare, maintain, and review purchasing files, reports and price lists.",0.90,purchasing file maintenance
+2538,Procurement Clerks,"Compare prices, specifications, and delivery dates to determine the best bid among potential suppliers.",0.85,bid comparison analysis
+2539,Procurement Clerks,"Track the status of requisitions, contracts, and orders.",0.90,status tracking
+2540,Procurement Clerks,"Calculate costs of orders, and charge or forward invoices to appropriate accounts.",0.90,cost calculation and invoice forwarding
+2541,Procurement Clerks,Check shipments when they arrive to ensure that orders have been filled correctly and that goods meet specifications.,0.15,requires physical shipment inspection
+2542,Procurement Clerks,Compare suppliers' bills with bids and purchase orders to verify accuracy.,0.90,bill verification against records
+2544,Procurement Clerks,"Locate suppliers, using sources such as catalogs and the internet, and interview them to gather information about products to be ordered.",0.65,supplier research and interviews
+2545,Procurement Clerks,"Maintain knowledge of all organizational and governmental rules affecting purchases, and provide information about these rules to organization staff members and to vendors.",0.85,regulatory knowledge and information sharing
+2546,Procurement Clerks,Monitor in-house inventory movement and complete inventory transfer forms for bookkeeping purposes.,0.85,inventory monitoring and form completion
+2547,Procurement Clerks,"Monitor contractor performance, recommending contract modifications when necessary.",0.60,performance monitoring with judgment calls
+2548,Procurement Clerks,"Prepare invitation-of-bid forms, and mail forms to supplier firms or distribute forms for public posting.",0.75,bid form drafting and distribution
+2549,Tellers,"Balance currency, coin, and checks in cash drawers at ends of shifts and calculate daily transactions, using computers, calculators, or adding machines.",0.30,physical cash drawer balancing
+2550,Tellers,"Cash checks and pay out money after verifying that signatures are correct, that written and numerical amounts agree, and that accounts have sufficient funds.",0.35,requires physically paying out money
+2551,Tellers,"Receive checks and cash for deposit, verify amounts, and check accuracy of deposit slips.",0.30,physical cash and check receiving
+2552,Tellers,"Examine checks for endorsements and to verify other information, such as dates, bank names, identification of the persons receiving payments, and the legality of the documents.",0.55,check examination partly automatable
+2553,Tellers,Enter customers' transactions into computers to record transactions and issue computer-generated receipts.,0.85,digital transaction entry
+2554,Tellers,"Count currency, coins, and checks received, by hand or using currency-counting machine, to prepare them for deposit or shipment to branch banks or the Federal Reserve Bank.",0.15,physical currency counting
+2555,Tellers,Identify transaction mistakes when debits and credits do not balance.,0.85,analytical discrepancy detection
+2556,Tellers,Prepare and verify cashier's checks.,0.50,check preparation partly physical
+2557,Tellers,Arrange monies received in cash boxes and coin dispensers according to denomination.,0.05,physical cash arrangement
+2558,Tellers,"Process transactions, such as term deposits, retirement savings plan contributions, automated teller transactions, night deposits, and mail deposits.",0.75,mostly digital transaction processing
+2559,Tellers,"Receive mortgage, loan, or public utility bill payments, verifying payment dates and amounts due.",0.45,mix of physical payment receipt and verification
+2560,Tellers,Resolve problems or discrepancies concerning customers' accounts.,0.65,account discrepancy resolution
+2561,Tellers,"Explain, promote, or sell products or services, such as travelers' checks, savings bonds, money orders, and cashier's checks, using computerized information about customers to tailor recommendations.",0.60,sales communication with some persuasion
+2562,Tellers,"Perform clerical tasks, such as typing, filing, and microfilm photography.",0.40,mix of digital typing and physical filing
+2563,Tellers,Monitor bank vaults to ensure cash balances are correct.,0.35,requires physical vault presence
+2564,Tellers,Order a supply of cash to meet daily needs.,0.70,cash supply ordering via system
+2565,Tellers,Sort and file deposit slips and checks.,0.15,physical sorting and filing
+2566,Tellers,"Receive and count daily inventories of cash, drafts, and travelers' checks.",0.15,physical inventory counting
+2567,Tellers,Process and maintain records of customer loans.,0.85,digital loan record maintenance
+2568,Tellers,"Count, verify, and post armored car deposits.",0.30,physical armored car deposit handling

@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+23912,"Umpires, Referees, and Other Sports Officials",Inspect game sites for compliance with regulations or safety requirements.,0.10,needs on-site physical inspection
+3915,"Umpires, Referees, and Other Sports Officials","Resolve claims of rule infractions or complaints by participants and assess any necessary penalties, according to regulations.",0.10,live in-person officiating and authority
+3911,"Umpires, Referees, and Other Sports Officials",Signal participants or other officials to make them aware of infractions or to otherwise regulate play or competition.,0.00,physical signaling during live play
+3920,"Umpires, Referees, and Other Sports Officials",Teach and explain the rules and regulations governing a specific sport.,0.55,can explain rules via text but live teaching helps
+3912,"Umpires, Referees, and Other Sports Officials",Inspect sporting equipment or examine participants to ensure compliance with event and safety regulations.,0.05,physical inspection of equipment and people
+3918,"Umpires, Referees, and Other Sports Officials","Report to regulating organizations regarding sporting activities, complaints made, and actions taken or needed, such as fines or other disciplinary actions.",0.75,writing reports from given information
+3919,"Umpires, Referees, and Other Sports Officials","Confer with other sporting officials, coaches, players, and facility managers to provide information, coordinate activities, and discuss problems.",0.25,live in-person coordination and rapport
+3910,"Umpires, Referees, and Other Sports Officials","Judge performances in sporting competitions to award points, impose scoring penalties, and determine results.",0.10,real-time physical judging with authority
+3916,"Umpires, Referees, and Other Sports Officials",Verify scoring calculations before competition winners are announced.,0.85,pure verification computation
+3914,"Umpires, Referees, and Other Sports Officials",Start races and competitions.,0.00,physical starting action on site
+3923,"Umpires, Referees, and Other Sports Officials",Compile scores and other athletic records.,0.90,data compilation and recordkeeping
+3922,"Umpires, Referees, and Other Sports Officials","Verify credentials of participants in sporting events, and make other qualifying determinations, such as starting order or handicap number.",0.45,credential checks with some official authority
+3913,"Umpires, Referees, and Other Sports Officials","Keep track of event times, including race times and elapsed time during game segments, starting or stopping play when necessary.",0.10,live on-site timekeeping and play control
+3917,"Umpires, Referees, and Other Sports Officials","Direct participants to assigned areas, such as starting blocks or penalty areas.",0.05,physical directing of people on site
+3921,"Umpires, Referees, and Other Sports Officials",Research and study players and teams to anticipate issues that might arise in future engagements.,0.85,research and analysis of teams
+7686,Dancers,Study and practice dance moves required in roles.,0.00,physical dance practice
+7687,Dancers,Harmonize body movements to rhythm of musical accompaniment.,0.00,physical embodied movement
+7685,Dancers,"Train, exercise, and attend dance classes to maintain high levels of technical proficiency, physical ability, and physical fitness.",0.00,physical training and exercise
+7690,Dancers,Coordinate dancing with that of partners or dance ensembles.,0.00,physical partnered dancing
+7693,Dancers,"Develop self-understanding of physical capabilities and limitations, and choose dance styles accordingly.",0.00,physical self-assessment of body
+7688,Dancers,"Perform classical, modern, or acrobatic dances in productions, expressing stories, rhythm, and sound with their bodies.",0.00,physical live performance
+7689,Dancers,Collaborate with choreographers to refine or modify dance steps.,0.05,physical demonstration with choreographer
+7692,Dancers,Audition for dance roles or for membership in dance companies.,0.00,physical audition performance
+7691,Dancers,"Attend costume fittings, photography sessions, and makeup calls associated with dance performances.",0.00,requires physical attendance
+7694,Dancers,Monitor the field of dance to remain aware of current trends and innovations.,0.85,reading and research on dance trends
+21141,Dancers,"Prepare pointe shoes, by sewing or other means, for use in rehearsals and performance.",0.00,manual sewing and physical craft
+7697,Dancers,"Perform in productions, singing or acting in addition to dancing, if required.",0.00,physical stage performance
+7695,Dancers,Teach dance students.,0.10,hands-on physical instruction
+7696,Dancers,Devise and choreograph dance for self or others.,0.25,conceptual choreography still needs physical testing
+11028,Choreographers,Direct rehearsals to instruct dancers in dance steps and in techniques to achieve desired effects.,0.10,in-person rehearsal direction
+11032,Choreographers,"Advise dancers on standing and moving properly, teaching correct dance techniques to help prevent injuries.",0.10,live physical technique correction
+11038,Choreographers,"Teach students, dancers, and other performers about rhythm and interpretive movement.",0.15,in-person movement instruction
+11043,Choreographers,"Record dance movements and their technical aspects, using a technical understanding of the patterns and formations of choreography.",0.55,documentation from given movement info
+11035,Choreographers,Direct and stage dance presentations for various forms of entertainment.,0.10,live staging and direction
+11031,Choreographers,"Choose the music, sound effects, or spoken narrative to accompany a dance.",0.75,selection task from available options
+11040,Choreographers,"Experiment with different types of dancers, steps, dances, and placements, testing ideas informally to get feedback from dancers.",0.10,live experimentation with dancers
+11041,Choreographers,"Seek influences from other art forms, such as theatre, the visual arts, and architecture.",0.85,research across art forms
+11036,Choreographers,"Develop ideas for creating dances, keeping notes and sketches to record influences.",0.65,conceptual idea development and note-taking
+11033,Choreographers,Coordinate production music with music directors.,0.35,coordination needs live discussion
+11030,Choreographers,"Design dances for individual dancers, dance companies, musical theatre, opera, fashion shows, film, television productions, and special events, and for dancers ranging from beginners to professionals.",0.30,creative choreography needs physical realization
+11034,Choreographers,Audition performers for one or more dance parts.,0.10,judging live physical auditions
+11039,Choreographers,Assess students' dancing abilities to determine where improvement or change is needed.,0.20,assessment mostly needs observing live performance
+11042,Choreographers,"Design sets, lighting, costumes, and other artistic elements of productions, in collaboration with cast members.",0.30,conceptual design but in-person collaboration needed
+11037,Choreographers,"Train, exercise, and attend dance classes to maintain high levels of technical proficiency, physical ability, and physical fitness.",0.00,physical training and fitness
+11029,Choreographers,Read and study story lines and musical scores to determine how to translate ideas and moods into dance movements.,0.80,reading and analysis of texts and scores
+11045,Choreographers,"Manage dance schools, or assist in their management.",0.40,admin tasks doable but management authority needed
+11044,Choreographers,"Restage traditional dances and works in dance companies' repertoires, developing new interpretations.",0.20,creative but needs live physical direction
+22544,Music Directors and Composers,"Use gestures to shape the music being played, communicating desired tempo, phrasing, tone, color, pitch, volume, and other performance aspects.",0.00,physical conducting gestures
+22545,Music Directors and Composers,"Direct groups at rehearsals and live or recorded performances to achieve desired effects such as tonal and harmonic balance dynamics, rhythm, and tempo.",0.05,live physical direction of ensemble
+22546,Music Directors and Composers,"Study scores to learn the music in detail, and to develop interpretations.",0.75,score study and analysis
+22547,Music Directors and Composers,"Apply elements of music theory to create musical and tonal structures, including harmonies and melodies.",0.85,composition via music theory
+22548,Music Directors and Composers,"Consider such factors as ensemble size and abilities, availability of scores, and the need for musical variety, to select music to be performed.",0.70,selection decision from known factors
+22549,Music Directors and Composers,"Determine voices, instruments, harmonic structures, rhythms, tempos, and tone balances required to achieve the effects desired in a musical composition.",0.80,compositional determination task
+22550,Music Directors and Composers,"Experiment with different sounds, and types and pieces of music, using synthesizers and computers as necessary to test and evaluate ideas.",0.75,digital experimentation with sound tools
+22551,Music Directors and Composers,"Transcribe ideas for musical compositions into musical notation, using instruments, pen and paper, or computers.",0.75,notation transcription via software
+22552,Music Directors and Composers,Audition and select performers for musical presentations.,0.25,live audition judgment of performers
+22553,Music Directors and Composers,"Plan and schedule rehearsals and performances, and arrange details such as locations, accompanists, and instrumentalists.",0.75,scheduling and admin coordination
+22554,Music Directors and Composers,"Write musical scores for orchestras, bands, choral groups, or individual instrumentalists or vocalists, using knowledge of music theory and of instrumental and vocal capabilities.",0.85,composition writing task
+22555,Music Directors and Composers,Position members within groups to obtain balance among instrumental or vocal sections.,0.10,physical arrangement of ensemble members
+22556,Music Directors and Composers,"Perform administrative tasks such as applying for grants, developing budgets, negotiating contracts, and designing and printing programs and other promotional materials.",0.55,admin drafting easy but negotiation needs authority
+22557,Music Directors and Composers,Confer with producers and directors to define the nature and placement of film or television music.,0.35,live discussion with producers
+22558,Music Directors and Composers,Meet with soloists and concertmasters to discuss and prepare for performances.,0.20,in-person meeting and rapport
+22559,Music Directors and Composers,"Fill in details of orchestral sketches, such as adding vocal parts to scores.",0.80,composition detail work
+22560,Music Directors and Composers,Explore and develop musical ideas based on sources such as imagination or sounds in the environment.,0.55,creative idea generation partly sensory
+22561,Music Directors and Composers,"Write music for commercial mediums, including advertising jingles or film soundtracks.",0.80,commercial music composition
+22562,Music Directors and Composers,Transpose music from one voice or instrument to another to accommodate particular musicians.,0.85,mechanical musical transposition
+22563,Music Directors and Composers,"Rewrite original musical scores in different musical styles by changing rhythms, harmonies, or tempos.",0.85,rewriting scores computationally
+22564,Music Directors and Composers,"Arrange music composed by others, changing the music to achieve desired effects.",0.80,"arranging music, agent-friendly"
+22565,Music Directors and Composers,"Assign and review staff work in such areas as scoring, arranging, and copying music, and vocal coaching.",0.50,reviewing work doable but assigning needs authority
+22566,Music Directors and Composers,Study films or scripts to determine how musical scores can be used to create desired effects or moods.,0.80,analysis of scripts for scoring
+22567,Music Directors and Composers,"Transcribe musical compositions and melodic lines to adapt them to a particular group, or to create a particular musical style.",0.80,transcription and adaptation task
+22568,Music Directors and Composers,"Create original musical forms, or write within circumscribed musical forms such as sonatas, symphonies, or operas.",0.85,original composition work
+22569,Music Directors and Composers,"Collaborate with other colleagues, such as copyists, to complete final scores.",0.50,collaboration needs human coordination
+22570,Music Directors and Composers,Copy parts from scores for individual performers.,0.85,mechanical score copying
+22571,Music Directors and Composers,"Coordinate and organize tours, or hire touring companies to arrange concert dates, venues, accommodations, and transportation for longer tours.",0.50,coordination doable but hiring needs authority
+22572,Music Directors and Composers,Produce recordings of music.,0.20,studio production needs physical presence
+22573,Music Directors and Composers,Stay abreast of the latest trends in music and music technology.,0.90,staying current via research
+22574,Musicians and Singers,"Perform before live audiences in concerts, recitals, educational presentations, and other social gatherings.",0.00,live physical performance for audience
+22575,Musicians and Singers,Sing a cappella or with musical accompaniment.,0.05,embodied vocal performance
+22576,Musicians and Singers,"Interpret or modify music, applying knowledge of harmony, melody, rhythm, and voice production to individualize presentations and maintain audience interest.",0.05,live performance interpretation
+22577,Musicians and Singers,Specialize in playing a specific family of instruments or a particular type of music.,0.00,physical instrumental skill
+22578,Musicians and Singers,Sing as a soloist or as a member of a vocal group.,0.00,live vocal performance
+22579,Musicians and Singers,Observe choral leaders or prompters for cues or directions in vocal presentation.,0.00,live physical performance coordination
+22580,Musicians and Singers,"Memorize musical selections and routines, or sing following printed text, musical notation, or customer instructions.",0.00,physical performance of memorized material
+22581,Musicians and Singers,"Play musical instruments as soloists, or as members or guest artists of musical groups such as orchestras, ensembles, or bands.",0.00,physical instrument performance
+22582,Musicians and Singers,Sight-read musical parts during rehearsals.,0.00,live physical sight-reading performance
+22583,Musicians and Singers,Play from memory or by following scores.,0.00,physical performance skill
+22584,Musicians and Singers,Practice singing exercises and study with vocal coaches to develop voice and skills and to rehearse for upcoming roles.,0.00,physical vocal training
+22585,Musicians and Singers,Listen to recordings to master pieces or to maintain and improve skills.,0.15,some audio analysis but mainly skill practice
+22586,Musicians and Singers,Teach music for specific instruments.,0.15,hands-on instrument instruction
+22587,Musicians and Singers,"Provide the musical background for live shows, such as ballets, operas, musical theatre, and cabarets.",0.00,live musical performance
+22588,Musicians and Singers,"Audition for orchestras, bands, or other musical groups.",0.00,live physical audition performance
+22589,Musicians and Singers,Seek out and learn new music suitable for live performance or recording.,0.35,research doable but learning is physical skill
+22590,Musicians and Singers,Make or participate in recordings in music studios.,0.10,studio recording needs physical presence
+22591,Musicians and Singers,Promote their own or their group's music by participating in media interviews and other activities.,0.10,live media interviews need presence
+22592,Musicians and Singers,Make or participate in recordings.,0.10,physical recording participation
+22593,Musicians and Singers,"Research particular roles to find out more about a character, or the time and place in which a piece is set.",0.90,research task on roles and settings
+22594,Musicians and Singers,"Learn acting, dancing, and other skills required for dramatic singing roles.",0.00,physical skill acquisition
+22595,Musicians and Singers,"Transpose music to alternate keys, or to fit individual styles or purposes.",0.85,computational music transposition
+22596,Musicians and Singers,Direct bands or orchestras.,0.00,physical conducting
+22597,Musicians and Singers,Compose songs or create vocal arrangements.,0.80,song composition and arrangement
+22598,Musicians and Singers,Arrange and edit music to fit style and purpose.,0.80,music arranging and editing
+22599,Musicians and Singers,Improvise music during performances.,0.00,live performance improvisation
+22600,Musicians and Singers,"Collaborate with a manager or agent who handles administrative details, finds work, and negotiates contracts.",0.30,collaboration with human agent who negotiates
+22602,Musicians and Singers,"Perform in television, radio, or movie productions.",0.00,physical performance in productions
+22603,Musicians and Singers,"Practice performances, individually or in rehearsal with other musicians, to master individual pieces of music or to maintain and improve skills.",0.00,physical rehearsal practice
+22604,"Disc Jockeys, Except Radio",Accept music requests from event guests.,0.10,live in-person event interaction
+22605,"Disc Jockeys, Except Radio",Adhere to schedules to keep events running on time.,0.10,live on-site event control
+22606,"Disc Jockeys, Except Radio",Advertise services using media such as internet advertising and brochures.,0.80,marketing content creation
+22607,"Disc Jockeys, Except Radio",Assemble audio and video equipment.,0.00,physical equipment assembly
+22608,"Disc Jockeys, Except Radio",Collect payments from customers.,0.30,payment collection mostly in-person or needs authority
+22609,"Disc Jockeys, Except Radio","Communicate with clients or venue owners to determine event information, such as music preferences, scheduling, and anticipated attendance.",0.70,communication via messages doable
+22610,"Disc Jockeys, Except Radio",Conduct sound checks to ensure equipment is working and appropriate for the venue.,0.05,physical sound check on site
+22611,"Disc Jockeys, Except Radio",Create itemized invoices to record amounts due for services rendered.,0.90,invoice generation from data
+22612,"Disc Jockeys, Except Radio",Create tailored playlists by aligning music with event functions.,0.80,playlist curation from criteria
+22613,"Disc Jockeys, Except Radio",Develop written contracts for bookings.,0.60,contract drafting doable but signing needs authority
+22614,"Disc Jockeys, Except Radio","Encourage guests to dance using group dances, competitions, or other party games.",0.00,live physical presence with guests
+22615,"Disc Jockeys, Except Radio","Lead party games, such as dance-offs or prize giveaways.",0.00,live in-person game leading
+22616,"Disc Jockeys, Except Radio",Listen to music before playing at events to ensure recordings are appropriate and meet quality standards.,0.55,audio review partially doable digitally
+22617,"Disc Jockeys, Except Radio",Maintain up-to-date knowledge of music releases and trends.,0.90,research on music trends
+22618,"Disc Jockeys, Except Radio","Mix, cut, or sample recorded music using DJ controllers, CDJs, or DJ mixers.",0.10,physical operation of DJ hardware
+22619,"Disc Jockeys, Except Radio","Operate disc jockey controller and other equipment, such as microphones.",0.00,physical equipment operation
+22620,"Disc Jockeys, Except Radio","Operate visual effects equipment, such as lights, fog machines, or lasers.",0.00,physical effects equipment operation
+22621,"Disc Jockeys, Except Radio",Organize music libraries or playlists.,0.85,digital library organization
+22622,"Disc Jockeys, Except Radio",Select and play music incorporating crowd preferences and mood.,0.15,reading live crowd mood needs presence
+3925,Broadcast Announcers and Radio Disc Jockeys,Read news flashes to inform audiences of important events.,0.65,text and voice generation for news reading
+3935,Broadcast Announcers and Radio Disc Jockeys,"Announce musical selections, station breaks, commercials, or public service information, and accept requests from listening audience.",0.45,announcing doable but live requests need interaction
+3934,Broadcast Announcers and Radio Disc Jockeys,Operate control consoles.,0.10,physical console operation
+20887,Broadcast Announcers and Radio Disc Jockeys,"Identify stations, and introduce or close shows, ad-libbing or using memorized or read scripts.",0.55,script generation and voice synthesis for intros
+3928,Broadcast Announcers and Radio Disc Jockeys,Study background information to prepare for programs or interviews.,0.85,research and prep from background info

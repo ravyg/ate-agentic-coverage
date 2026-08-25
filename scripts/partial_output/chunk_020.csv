@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+17112,Neurologists,Supervise medical technicians in the performance of neurological diagnostic or therapeutic activities.,0.15,supervising on-site staff needs human authority and presence
+17113,Neurologists,"Counsel patients or others on the background of neurological disorders including risk factors, or genetic or environmental concerns.",0.40,patient counseling needs human rapport
+17114,Neurologists,"Interpret the results of neuroimaging studies, such as Magnetic Resonance Imaging (MRI), Single Photon Emission Computed Tomography (SPECT), and Positron Emission Tomography (PET) scans.",0.25,imaging interpretation needs licensed clinical judgment
+17115,Neurologists,Refer patients to other health care practitioners as necessary.,0.25,referral decision requires clinical authority
+17116,Neurologists,Advise other physicians on the treatment of neurological problems.,0.35,peer consultation needs licensed accountability
+17117,Neurologists,"Prescribe or administer medications, such as anti-epileptic drugs, and monitor patients for behavioral and cognitive side effects.",0.10,prescribing requires licensed authority
+17118,Neurologists,"Prescribe or administer treatments, such as transcranial magnetic stimulation, vagus nerve stimulation, and deep brain stimulation.",0.05,invasive treatment plus prescribing authority
+17119,Neurologists,"Prepare, maintain, or review records that include patients' histories, neurological examination findings, treatment plans, or outcomes.",0.75,mostly documentation and record-keeping work
+17120,Neurologists,"Perform specialized treatments in areas such as sleep disorders, neuroimmunology, neuro-oncology, behavioral neurology, and neurogenetics.",0.10,specialized clinical treatment needs licensed physician
+17121,Neurologists,Order or interpret results of laboratory analyses of patients' blood or cerebrospinal fluid.,0.25,lab interpretation needs licensed judgment
+17122,Neurologists,"Order supportive care services, such as physical therapy, specialized nursing care, and social services.",0.30,ordering care needs clinical authority
+17123,Neurologists,"Interview patients to obtain information, such as complaints, symptoms, medical histories, and family histories.",0.40,patient interview needs human rapport and presence
+17124,Neurologists,"Inform patients or families of neurological diagnoses and prognoses, or benefits, risks and costs of various treatment plans.",0.15,delivering diagnosis needs human presence and accountability
+17125,Neurologists,"Diagnose neurological conditions based on interpretation of examination findings, histories, or test results.",0.10,diagnosis requires licensed medical authority
+17126,Neurologists,"Develop treatment plans based on diagnoses and on evaluation of factors, such as age and general health, or procedural risks and costs.",0.25,treatment planning needs licensed physician approval
+17127,Neurologists,Determine brain death using accepted tests and procedures.,0.05,legal medical determination needs licensed physician and exam
+17128,Neurologists,Communicate with other health care professionals regarding patients' conditions and care.,0.40,professional communication with clinical accountability
+17129,Neurologists,Coordinate neurological services with other health care team activities.,0.35,care coordination needs human oversight and accountability
+17130,Neurologists,"Perform or interpret the outcomes of procedures or diagnostic tests, such as lumbar punctures, electroencephalography, electromyography, and nerve conduction velocity tests.",0.15,mix of physical procedure and diagnostic interpretation
+17131,Neurologists,"Identify and treat major neurological system diseases and disorders, such as central nervous system infection, cranio spinal trauma, dementia, and stroke.",0.08,diagnosis and treatment of major disease needs licensed physician
+17132,Neurologists,"Examine patients to obtain information about functional status of areas, such as vision, physical strength, coordination, reflexes, sensations, language skills, cognitive abilities, and mental status.",0.05,physical examination requires bodily presence
+17159,"Ophthalmologists, Except Pediatric",Provide ophthalmic consultation to other medical professionals.,0.35,peer consultation needs licensed accountability
+17160,"Ophthalmologists, Except Pediatric","Refer patients for more specialized treatments when conditions exceed the experience, expertise, or scope of practice of practitioner.",0.25,referral decision requires clinical authority
+17161,"Ophthalmologists, Except Pediatric","Instruct interns, residents, or others in ophthalmologic procedures and techniques.",0.20,hands-on clinical teaching needs human presence
+17162,"Ophthalmologists, Except Pediatric",Develop or implement plans and procedures for ophthalmologic services.,0.45,service planning is mostly info work but needs authority
+17163,"Ophthalmologists, Except Pediatric",Educate patients about maintenance and promotion of healthy vision.,0.45,"general patient education, mostly informational"
+17164,"Ophthalmologists, Except Pediatric",Conduct clinical or laboratory-based research in ophthalmology.,0.30,research involves physical lab work and human subjects
+17165,"Ophthalmologists, Except Pediatric",Collaborate with multidisciplinary teams of health professionals to provide optimal patient care.,0.35,team collaboration needs human presence and accountability
+17166,"Ophthalmologists, Except Pediatric",Provide or direct the provision of postoperative care.,0.15,postoperative care direction needs clinical presence and authority
+17167,"Ophthalmologists, Except Pediatric",Document or evaluate patients' medical histories.,0.70,mostly documentation and evaluation work
+17168,"Ophthalmologists, Except Pediatric",Prescribe corrective lenses such as glasses or contact lenses.,0.30,prescribing requires licensed authority though routine
+17169,"Ophthalmologists, Except Pediatric",Prescribe or administer topical or systemic medications to treat ophthalmic conditions and to manage pain.,0.10,prescribing requires licensed authority
+17170,"Ophthalmologists, Except Pediatric","Perform, order, or interpret the results of diagnostic or clinical tests.",0.20,mix of physical testing and licensed interpretation
+17171,"Ophthalmologists, Except Pediatric","Develop treatment plans based on patients' histories and goals, the nature and severity of disorders, and treatment risks and benefits.",0.25,treatment planning needs licensed physician approval
+17172,"Ophthalmologists, Except Pediatric","Perform laser surgeries to alter, remove, reshape, or replace ocular tissue.",0.00,physical surgery requires body and licensed hands
+17173,"Ophthalmologists, Except Pediatric","Perform ophthalmic surgeries such as cataract, glaucoma, refractive, corneal, vitro-retinal, eye muscle, or oculoplastic surgeries.",0.00,physical surgery requires body and licensed hands
+17174,"Ophthalmologists, Except Pediatric","Prescribe ophthalmologic treatments or therapies such as chemotherapy, cryotherapy, or low vision therapy.",0.10,prescribing requires licensed authority
+17175,"Ophthalmologists, Except Pediatric",Perform comprehensive examinations of the visual system to determine the nature or extent of ocular disorders.,0.05,physical examination requires bodily presence
+17176,"Ophthalmologists, Except Pediatric","Diagnose or treat injuries, disorders, or diseases of the eye and eye structures including the cornea, sclera, conjunctiva, or eyelids.",0.08,diagnosis and treatment needs licensed physician
+17177,"Physicians, Pathologists",Testify in depositions or trials as an expert witness.,0.05,sworn legal testimony requires human presence and authority
+17178,"Physicians, Pathologists","Review cases by analyzing autopsies, laboratory findings, or case investigation reports.",0.45,case analysis is info work but needs licensed sign-off
+17179,"Physicians, Pathologists",Manage medical laboratories.,0.20,lab management needs on-site human authority
+17180,"Physicians, Pathologists","Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments in pathology.",0.45,mix of literature review and in-person networking
+17181,"Physicians, Pathologists",Develop or adopt new tests or instruments to improve diagnosis of diseases.,0.30,instrument development needs physical lab work and validation
+17182,"Physicians, Pathologists","Educate physicians, students, and other personnel in medical laboratory professions, such as medical technology, cytotechnology, or histotechnology.",0.30,clinical education needs human presence
+17183,"Physicians, Pathologists",Conduct research and present scientific findings.,0.35,research analysis is high but live presentation needs presence
+17184,"Physicians, Pathologists",Perform autopsies to determine causes of deaths.,0.00,physical autopsy requires body and licensed authority
+17185,"Physicians, Pathologists","Plan and supervise the work of the pathology staff, residents, or visiting pathologists.",0.15,supervising staff needs human authority and presence
+17186,"Physicians, Pathologists","Obtain specimens by performing procedures, such as biopsies or fine needle aspirations (FNAs) of superficial nodules.",0.00,physical invasive procedure requires body and license
+17187,"Physicians, Pathologists","Identify the etiology, pathogenesis, morphological change, and clinical significance of diseases.",0.30,disease characterization needs licensed diagnostic authority
+17188,"Physicians, Pathologists","Diagnose infections, such as Hepatitis B and Acquired Immune Deficiency Syndrome (AIDS), by conducting tests to detect the antibodies that patients' immune systems make to fight such infections.",0.15,diagnosis plus physical lab testing needs human
+17189,"Physicians, Pathologists",Conduct genetic analyses of deoxyribonucleic acid (DNA) or chromosomes to diagnose small biopsies and cell samples.,0.35,genetic analysis is computational but sample handling needs human
+17190,"Physicians, Pathologists","Write pathology reports summarizing analyses, results, and conclusions.",0.75,report writing is mostly text generation from data
+17191,"Physicians, Pathologists","Analyze and interpret results from tests, such as microbial or parasite tests, urine analyses, hormonal assays, fine needle aspirations (FNAs), and polymerase chain reactions (PCRs).",0.40,lab interpretation is analytical but needs diagnostic authority
+17192,"Physicians, Pathologists",Communicate pathologic findings to surgeons or other physicians.,0.40,professional communication with clinical accountability
+17193,"Physicians, Pathologists",Consult with physicians about ordering and interpreting tests or providing treatments.,0.35,consultation needs licensed accountability
+17194,"Physicians, Pathologists",Examine microscopic samples to identify diseases or other abnormalities.,0.30,microscopic exam increasingly digital but needs diagnostic authority
+17195,"Physicians, Pathologists","Diagnose diseases or study medical conditions, using techniques such as gross pathology, histology, cytology, cytopathology, clinical chemistry, immunology, flow cytometry, or molecular biology.",0.15,diagnosis requires licensed medical authority
+17196,Physical Medicine and Rehabilitation Physicians,Instruct interns and residents in the diagnosis and treatment of temporary or permanent physically disabling conditions.,0.25,clinical teaching needs human presence
+17197,Physical Medicine and Rehabilitation Physicians,"Conduct physical tests, such as functional capacity evaluations, to determine injured workers' capabilities to perform the physical demands of their jobs.",0.05,physical testing requires bodily presence
+17198,Physical Medicine and Rehabilitation Physicians,"Assess characteristics of patients' pain, such as intensity, location, or duration, using standardized clinical measures.",0.30,pain assessment needs direct patient interaction
+17199,Physical Medicine and Rehabilitation Physicians,"Monitor effectiveness of pain management interventions, such as medication or spinal injections.",0.25,monitoring needs clinical judgment and patient interaction
+17200,Physical Medicine and Rehabilitation Physicians,"Examine patients to assess mobility, strength, communication, or cognition.",0.05,physical examination requires bodily presence
+17201,Physical Medicine and Rehabilitation Physicians,"Document examination results, treatment plans, and patients' outcomes.",0.75,mostly documentation work
+17202,Physical Medicine and Rehabilitation Physicians,"Diagnose or treat performance-related conditions, such as sports injuries or repetitive-motion injuries.",0.10,diagnosis and treatment needs licensed physician
+17203,Physical Medicine and Rehabilitation Physicians,"Develop comprehensive plans for immediate and long-term rehabilitation, including therapeutic exercise, speech and occupational therapy, counseling, cognitive retraining, patient, family or caregiver ",0.30,rehab planning is largely text work but needs clinical authority
+17204,Physical Medicine and Rehabilitation Physicians,Prescribe physical therapy to relax the muscles and improve strength.,0.15,prescribing requires licensed authority
+17205,Physical Medicine and Rehabilitation Physicians,Coordinate physical medicine and rehabilitation services with other medical activities.,0.35,care coordination needs human oversight and accountability
+17206,Physical Medicine and Rehabilitation Physicians,"Consult or coordinate with other rehabilitative professionals, including physical and occupational therapists, rehabilitation nurses, speech pathologists, neuropsychologists, behavioral psychologists,",0.35,consultation and coordination needs human accountability
+17207,Physical Medicine and Rehabilitation Physicians,"Perform electrodiagnosis, including electromyography, nerve conduction studies, or somatosensory evoked potentials of neuromuscular disorders or damage.",0.05,physical procedure requires bodily presence
+17208,Physical Medicine and Rehabilitation Physicians,"Prescribe therapy services, such as electrotherapy, ultrasonography, heat or cold therapy, hydrotherapy, debridement, short-wave or microwave diathermy, and infrared or ultraviolet radiation, to enhan",0.15,prescribing requires licensed authority
+17209,Physical Medicine and Rehabilitation Physicians,"Prescribe orthotic and prosthetic applications and adaptive equipment, such as wheelchairs, bracing, or communication devices, to maximize patient function and self-sufficiency.",0.15,prescribing requires licensed authority
+17210,Physical Medicine and Rehabilitation Physicians,"Provide inpatient or outpatient medical management of neuromuscular disorders, musculoskeletal trauma, acute and chronic pain, deformity or amputation, cardiac or pulmonary disease, or other disabling",0.10,ongoing medical management needs licensed physician
+17211,Preventive Medicine Physicians,Teach or train medical staff regarding preventive medicine issues.,0.35,training content generation is high but delivery needs presence
+17212,Preventive Medicine Physicians,Document or review comprehensive patients' histories with an emphasis on occupation or environmental risks.,0.65,mostly documentation and review work
+17213,Preventive Medicine Physicians,"Prepare preventive health reports, including problem descriptions, analyses, alternative solutions, and recommendations.",0.80,"report writing and analysis, mostly information work"
+17214,Preventive Medicine Physicians,"Supervise or coordinate the work of physicians, nurses, statisticians, or other professional staff members.",0.15,supervising staff needs human authority and presence
+17215,Preventive Medicine Physicians,Deliver presentations to lay or professional audiences.,0.20,live presentation delivery needs human presence
+17216,Preventive Medicine Physicians,Evaluate the effectiveness of prescribed risk reduction measures or other interventions.,0.70,evaluation is largely data analysis work
+17217,Preventive Medicine Physicians,Identify groups at risk for specific preventable diseases or injuries.,0.70,identifying at-risk groups is data analysis work
+17218,Preventive Medicine Physicians,"Design or use surveillance tools, such as screening, lab reports, and vital records, to identify health risks.",0.60,"surveillance design and analysis, mostly information work"
+17219,Preventive Medicine Physicians,"Direct public health education programs dealing with topics such as preventable diseases, injuries, nutrition, food service sanitation, water supply safety, sewage and waste disposal, insect control, ",0.20,directing public programs needs organizational authority
+17220,Preventive Medicine Physicians,Perform epidemiological investigations of acute and chronic diseases.,0.45,epidemiological analysis is data work though fieldwork needs presence
+17221,Preventive Medicine Physicians,Develop or implement interventions to address behavioral causes of diseases.,0.30,intervention design is info work but implementation needs human action
+17222,Preventive Medicine Physicians,"Direct or manage prevention programs in specialty areas such as aerospace, occupational, infectious disease, and environmental medicine.",0.20,directing or managing programs needs organizational authority
+17223,Preventive Medicine Physicians,"Design, implement, or evaluate health service delivery systems to improve the health of targeted populations.",0.40,mix of design/evaluation info work and implementation needing authority
+17224,Preventive Medicine Physicians,"Coordinate or integrate the resources of health care institutions, social service agencies, public safety workers, or other organizations to improve community health.",0.20,cross-organization coordination needs human authority and relationships
+17225,Preventive Medicine Physicians,"Provide information about potential health hazards and possible interventions to the media, the public, other health care professionals, or local, state, and federal health authorities.",0.40,information dissemination is content work but official authority often needed
+17231,Radiologists,Participate in quality improvement activities including discussions of areas where risk of error is high.,0.30,meeting participation needs human presence and judgment
+17234,Radiologists,Participate in continuing education activities to maintain and develop expertise.,0.20,credentialed continuing education needs human participation
+17235,Radiologists,Develop treatment plans for radiology patients.,0.25,treatment planning needs licensed physician approval
+17236,Radiologists,Establish or enforce standards for protection of patients or personnel.,0.30,standard-setting is info work but enforcement needs human authority
+17239,Radiologists,Review or transmit images and information using picture archiving or communications systems.,0.75,"digital image review and transmission, largely system-based work"
+17241,Radiologists,"Recognize or treat complications during and after procedures, including blood pressure problems, pain, oversedation, or bleeding.",0.05,emergency clinical response requires physical presence
+17242,Radiologists,Prepare comprehensive interpretive reports of findings.,0.35,report writing built on licensed diagnostic interpretation
+17243,Radiologists,"Obtain patients' histories from electronic records, patient interviews, dictated reports, or by communicating with referring clinicians.",0.40,mix of record retrieval and interpersonal communication
+17245,Radiologists,Confer with medical professionals regarding image-based diagnoses.,0.35,peer consultation needs licensed accountability
+17246,Radiologists,"Instruct radiologic staff in desired techniques, positions, or projections.",0.20,hands-on instruction needs human presence
+17248,Radiologists,"Document the performance, interpretation, or outcomes of all procedures performed.",0.70,mostly documentation work
+17249,Radiologists,Develop or monitor procedures to ensure adequate quality control of images.,0.55,QC monitoring is largely technical and analytical work
+17250,Radiologists,Coordinate radiological services with other medical activities.,0.35,care coordination needs human oversight and accountability
+17251,Radiologists,"Provide counseling to radiologic patients to explain the processes, risks, benefits, or alternative treatments.",0.30,patient counseling needs human rapport
+17252,Radiologists,"Communicate examination results or diagnostic information to referring physicians, patients, or families.",0.35,results communication needs human accountability and sensitivity
+17253,Radiologists,"Perform interventional procedures such as image-guided biopsy, percutaneous transluminal angioplasty, transhepatic biliary drainage, or nephrostomy catheter placement.",0.00,physical invasive procedure requires body and license
+17254,Radiologists,"Perform or interpret the outcomes of diagnostic imaging procedures including magnetic resonance imaging (MRI), computer tomography (CT), positron emission tomography (PET), nuclear cardiology treadmil",0.25,mix of physical imaging performance and diagnostic interpretation
+17255,Sports Medicine Physicians,Select and prepare medical equipment or medications to be taken to athletic competition sites.,0.10,physical equipment preparation and logistics
+17256,Sports Medicine Physicians,Provide coaches and therapists with assistance in selecting and fitting protective equipment.,0.15,physical fitting assistance needs presence
+17257,Sports Medicine Physicians,Advise against injured athletes returning to games or competition if resuming activity could lead to further injury.,0.20,return-to-play decision needs licensed authority and presence
+17258,Sports Medicine Physicians,Observe and evaluate athletes' mental well-being.,0.20,mental health observation needs human presence and rapport
+17259,Sports Medicine Physicians,Participate in continuing education activities to improve and maintain knowledge and skills.,0.20,credentialed continuing education needs human participation
+17260,Sports Medicine Physicians,"Develop and prescribe exercise programs, such as off-season conditioning regimens.",0.35,program design is info work but prescribing needs clinical authority
+17261,Sports Medicine Physicians,"Advise athletes on ways that substances, such as herbal remedies, could affect drug testing results.",0.50,"informational advisory work, largely text-based"
+17262,Sports Medicine Physicians,Conduct research in the prevention or treatment of injuries or medical conditions related to sports and exercise.,0.40,research involves data analysis and human subjects work
+17263,Sports Medicine Physicians,"Advise athletes, trainers, or coaches to alter or cease sports practices that are potentially harmful.",0.30,advisory role needs licensed authority and rapport
+17264,Sports Medicine Physicians,Attend games and competitions to provide evaluation and treatment of activity-related injuries or medical conditions.,0.00,requires physical attendance at events
+17265,Sports Medicine Physicians,"Record athletes' medical histories, and perform physical examinations.",0.15,mix of recording and physical examination
+17266,Sports Medicine Physicians,Supervise the rehabilitation of injured athletes.,0.15,supervising rehabilitation needs human authority and presence
+17267,Sports Medicine Physicians,"Refer athletes for specialized consultation, physical therapy, or diagnostic testing.",0.25,referral decision requires clinical authority
+17268,Sports Medicine Physicians,"Record athletes' medical care information, and maintain medical records.",0.75,mostly documentation and record-keeping work
+17269,Sports Medicine Physicians,"Inform coaches, trainers, or other interested parties regarding the medical conditions of athletes.",0.35,communication with confidentiality and accountability concerns
+17270,Sports Medicine Physicians,Provide education and counseling on illness and injury prevention.,0.40,education and counseling needs human rapport
+17271,Sports Medicine Physicians,"Prescribe orthotics, prosthetics, and adaptive equipment.",0.15,prescribing requires licensed authority
+17272,Sports Medicine Physicians,Prescribe medications for the treatment of athletic-related injuries.,0.10,prescribing requires licensed authority
+17273,Sports Medicine Physicians,Order and interpret the results of laboratory tests and diagnostic imaging procedures.,0.25,ordering and interpreting needs licensed clinical judgment
+17274,Sports Medicine Physicians,"Inform athletes about nutrition, hydration, dietary supplements, or uses and possible consequences of medication.",0.55,"general nutrition and medication information, largely text-based"
+17275,Sports Medicine Physicians,Evaluate and manage chronic pain conditions.,0.15,ongoing pain management needs licensed physician
+17276,Sports Medicine Physicians,Examine and evaluate athletes prior to participation in sports activities to determine level of physical fitness or predisposition to injuries.,0.05,physical examination requires bodily presence
+17277,Sports Medicine Physicians,Develop and test procedures for dealing with emergencies during practices or competitions.,0.35,procedure development is info work but drills need physical presence
+17278,Sports Medicine Physicians,"Coordinate sports care activities with other experts, including specialty physicians and surgeons, athletic trainers, physical therapists, or coaches.",0.30,coordination across experts needs human accountability
+17279,Sports Medicine Physicians,"Advise coaches, trainers, or physical therapists on the proper use of exercises and other therapeutic techniques, and alert them to potentially dangerous practices.",0.40,"advisory role, largely informational"

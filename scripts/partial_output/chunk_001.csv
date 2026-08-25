@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+412,Respiratory Therapists,"Teach, train, supervise, or use the assistance of students, respiratory therapy technicians, or assistants.",0.20,supervising/training students requires physical clinical presence
+413,Respiratory Therapists,Use a variety of testing techniques to assist doctors in cardiac or pulmonary research or to diagnose disorders.,0.10,hands-on diagnostic testing on patients
+414,Respiratory Therapists,Make emergency visits to resolve equipment problems.,0.00,physical on-site equipment repair
+415,Respiratory Therapists,"Conduct tests, such as electrocardiograms (EKGs), stress testing, or lung capacity tests, to evaluate patients' cardiopulmonary functions.",0.05,physical hands-on cardiopulmonary testing
+416,Dental Hygienists,"Clean calcareous deposits, accretions, and stains from teeth and beneath margins of gums, using dental instruments.",0.00,hands-on dental instrument work
+417,Dental Hygienists,Feel and visually examine gums for sores and signs of disease.,0.00,physical exam of gums
+418,Dental Hygienists,Chart conditions of decay and disease for diagnosis and treatment by dentist.,0.10,charting tied to live physical exam findings
+419,Dental Hygienists,Feel lymph nodes under patient's chin to detect swelling or tenderness that could indicate presence of oral cancer.,0.00,physical palpation exam
+420,Dental Hygienists,Apply fluorides or other cavity preventing agents to arrest dental decay.,0.00,physical application of fluoride
+421,Dental Hygienists,"Examine gums, using probes, to locate periodontal recessed gums and signs of gum disease.",0.00,physical probing exam
+422,Dental Hygienists,Expose and develop x-ray film.,0.05,physical x-ray positioning on patient
+424,Dental Hygienists,Remove excess cement from coronal surfaces of teeth.,0.00,physical dental instrument work
+425,Dental Hygienists,Make impressions for study casts.,0.00,physical impression taking
+427,Dental Hygienists,Administer local anesthetic agents.,0.00,physical injection requiring licensure
+428,Dental Hygienists,Conduct dental health clinics for community groups to augment services of dentist.,0.15,in-person community clinic delivery
+431,Diagnostic Medical Sonographers,"Decide which images to include, looking for differences between healthy and pathological areas.",0.40,medical image interpretation needs accountable clinician
+432,Diagnostic Medical Sonographers,"Observe screen during scan to ensure that image produced is satisfactory for diagnostic purposes, making adjustments to equipment as required.",0.05,real-time equipment adjustment during physical scan
+433,Diagnostic Medical Sonographers,Observe and care for patients throughout examinations to ensure their safety and comfort.,0.00,physical patient care and presence
+434,Diagnostic Medical Sonographers,Provide sonogram and oral or written summary of technical findings to physician for use in medical diagnosis.,0.30,sonogram requires physical scan though summary is writable
+435,Diagnostic Medical Sonographers,"Operate ultrasound equipment to produce and record images of the motion, shape, and composition of blood, organs, tissues, or bodily masses, such as fluid accumulations.",0.00,physical ultrasound equipment operation on patient
+436,Diagnostic Medical Sonographers,Select appropriate equipment settings and adjust patient positions to obtain the best sites and angles.,0.00,physical patient positioning
+437,Diagnostic Medical Sonographers,"Determine whether scope of exam should be extended, based on findings.",0.30,clinical judgment call needing accountable provider
+438,Diagnostic Medical Sonographers,Process and code film from procedures and complete appropriate documentation.,0.60,mostly administrative coding and documentation
+439,Diagnostic Medical Sonographers,"Obtain and record accurate patient history, including prior test results or information from physical examinations.",0.45,patient interview needs live rapport
+440,Diagnostic Medical Sonographers,"Prepare patient for exam by explaining procedure, transferring patient to ultrasound table, scrubbing skin and applying gel, and positioning patient properly.",0.00,physical patient prep and positioning
+441,Diagnostic Medical Sonographers,"Record and store suitable images, using camera unit connected to the ultrasound equipment.",0.10,tied to physical image capture during exam
+442,Diagnostic Medical Sonographers,"Coordinate work with physicians or other healthcare team members, including providing assistance during invasive procedures.",0.05,physical assistance during invasive procedures
+443,Diagnostic Medical Sonographers,"Maintain records that include patient information, sonographs and interpretations, files of correspondence, publications and regulations, or quality assurance records, such as pathology, biopsy, or po",0.75,digital record maintenance and documentation
+444,Diagnostic Medical Sonographers,"Perform legal and ethical duties, including preparing safety or accident reports, obtaining written consent from patient to perform invasive procedures, or reporting symptoms of abuse or neglect.",0.15,legal consent and mandated reporting need accountable human
+445,Diagnostic Medical Sonographers,Supervise or train students or other medical sonographers.,0.15,hands-on training and supervision
+446,Diagnostic Medical Sonographers,"Maintain stock and supplies, preparing supplies for special examinations and ordering supplies when necessary.",0.25,mostly physical stocking with some automatable ordering
+447,Diagnostic Medical Sonographers,"Clean, check, and maintain sonographic equipment, submitting maintenance requests or performing minor repairs as necessary.",0.10,physical cleaning and minor equipment repair
+448,Diagnostic Medical Sonographers,"Perform clerical duties, such as scheduling exams or special procedures, keeping records, or archiving computerized images.",0.80,clerical scheduling and archiving work
+449,Diagnostic Medical Sonographers,"Perform medical procedures, such as administering oxygen, inserting and removing airways, taking vital signs, or giving emergency treatment, such as first aid or cardiopulmonary resuscitation (CPR).",0.00,physical emergency medical procedures
+450,Diagnostic Medical Sonographers,Load and unload film cassettes used to record images from procedures.,0.00,physical film cassette handling
+507,Licensed Practical and Licensed Vocational Nurses,"Observe patients, charting and reporting changes in patients' conditions, such as adverse reactions to medication or treatment, and taking any necessary action.",0.15,patient observation requires physical presence
+508,Licensed Practical and Licensed Vocational Nurses,"Administer prescribed medications or start intravenous fluids, noting times and amounts on patients' charts.",0.00,physical medication administration requiring licensure
+509,Licensed Practical and Licensed Vocational Nurses,Answer patients' calls and determine how to assist them.,0.10,answering and physically responding to patient calls
+510,Licensed Practical and Licensed Vocational Nurses,"Measure and record patients' vital signs, such as height, weight, temperature, blood pressure, pulse, or respiration.",0.00,physical vital sign measurement
+511,Licensed Practical and Licensed Vocational Nurses,"Provide basic patient care or treatments, such as taking temperatures or blood pressures, dressing wounds, treating bedsores, giving enemas or douches, rubbing with alcohol, massaging, or performing c",0.00,hands-on physical patient care
+512,Licensed Practical and Licensed Vocational Nurses,"Help patients with bathing, dressing, maintaining personal hygiene, moving in bed, or standing and walking.",0.00,physical assistance with mobility and hygiene
+513,Licensed Practical and Licensed Vocational Nurses,Supervise nurses' aides or assistants.,0.15,supervision needs physical presence and authority
+514,Licensed Practical and Licensed Vocational Nurses,"Work as part of a healthcare team to assess patient needs, plan and modify care, and implement interventions.",0.20,care planning mixed with physical intervention
+515,Licensed Practical and Licensed Vocational Nurses,Record food and fluid intake and output.,0.15,recording tied to physical observation
+516,Licensed Practical and Licensed Vocational Nurses,"Evaluate nursing intervention outcomes, conferring with other healthcare team members as necessary.",0.30,clinical evaluation needing accountable nurse
+517,Licensed Practical and Licensed Vocational Nurses,"Assemble and use equipment, such as catheters, tracheotomy tubes, or oxygen suppliers.",0.00,physical equipment assembly and use
+518,Licensed Practical and Licensed Vocational Nurses,"Collect samples, such as blood, urine, or sputum from patients, and perform routine laboratory tests on samples.",0.10,physical sample collection from patients
+519,Licensed Practical and Licensed Vocational Nurses,"Prepare patients for examinations, tests, or treatments and explain procedures.",0.10,physical patient preparation
+520,Licensed Practical and Licensed Vocational Nurses,Prepare or examine food trays for conformance to prescribed diet.,0.20,visual inspection of physical food trays
+521,Licensed Practical and Licensed Vocational Nurses,"Apply compresses, ice bags, or hot water bottles.",0.00,physical application of compresses
+522,Licensed Practical and Licensed Vocational Nurses,Clean rooms and make beds.,0.00,physical cleaning labor
+523,Licensed Practical and Licensed Vocational Nurses,Inventory and requisition supplies and instruments.,0.35,physical counting with some automatable ordering
+524,Licensed Practical and Licensed Vocational Nurses,"Provide medical treatment or personal care to patients in private home settings, such as cooking, keeping rooms orderly, seeing that patients are comfortable and in good spirits, or instructing family",0.00,in-home physical caregiving
+525,Licensed Practical and Licensed Vocational Nurses,"Sterilize equipment and supplies, using germicides, sterilizer, or autoclave.",0.00,physical sterilization work
+527,Licensed Practical and Licensed Vocational Nurses,Wash and dress bodies of deceased persons.,0.00,physical handling of deceased
+528,Licensed Practical and Licensed Vocational Nurses,"Make appointments, keep records, or perform other clerical duties in doctors' offices or clinics.",0.80,clerical scheduling and record keeping
+529,Licensed Practical and Licensed Vocational Nurses,Set up equipment and prepare medical treatment rooms.,0.00,physical room and equipment setup
+550,Dental Assistants,"Prepare patient, sterilize or disinfect instruments, set up instrument trays, prepare materials, or assist dentist during dental procedures.",0.00,physical chairside dental assistance
+551,Dental Assistants,Expose dental diagnostic x-rays.,0.00,physical x-ray positioning on patient
+552,Dental Assistants,Record treatment information in patient records.,0.70,documentation task given treatment data
+553,Dental Assistants,Take and record medical and dental histories and vital signs of patients.,0.25,mixed physical vitals and live interview
+554,Dental Assistants,Provide postoperative instructions prescribed by dentist.,0.45,instructions deliverable without physical presence
+555,Dental Assistants,Assist dentist in management of medical or dental emergencies.,0.00,physical emergency assistance
+556,Dental Assistants,"Pour, trim, and polish study casts.",0.00,physical cast fabrication
+557,Dental Assistants,Instruct patients in oral hygiene and plaque control programs.,0.55,educational content deliverable remotely
+558,Dental Assistants,Make preliminary impressions for study casts and occlusal registrations for mounting study casts.,0.00,physical impression taking
+559,Dental Assistants,Clean and polish removable appliances.,0.00,physical cleaning of appliances
+560,Dental Assistants,"Clean teeth, using dental instruments.",0.00,hands-on tooth cleaning
+561,Dental Assistants,Apply protective coating of fluoride to teeth.,0.00,physical fluoride application
+562,Dental Assistants,Fabricate temporary restorations or custom impressions from preliminary impressions.,0.00,physical fabrication work
+563,Dental Assistants,"Schedule appointments, prepare bills and receive payment for dental services, complete insurance forms, and maintain records, manually or using computer.",0.85,scheduling billing and insurance paperwork
+657,First-Line Supervisors of Retail Sales Workers,Provide customer service by greeting and assisting customers and responding to customer inquiries and complaints.,0.25,in-person retail floor customer service
+658,First-Line Supervisors of Retail Sales Workers,Monitor sales activities to ensure that customers receive satisfactory service and quality goods.,0.20,requires physical floor presence to monitor
+659,First-Line Supervisors of Retail Sales Workers,Assign employees to specific duties.,0.45,scheduling decision without needing physical presence
+660,First-Line Supervisors of Retail Sales Workers,"Direct and supervise employees engaged in sales, inventory-taking, reconciling cash receipts, or in performing services for customers.",0.15,supervision needs physical presence and authority
+661,First-Line Supervisors of Retail Sales Workers,Inventory stock and reorder when inventory drops to a specified level.,0.75,automatable via inventory and reorder systems
+662,First-Line Supervisors of Retail Sales Workers,"Keep records of purchases, sales, and requisitions.",0.85,pure record keeping
+663,First-Line Supervisors of Retail Sales Workers,"Enforce safety, health, and security rules.",0.10,enforcement needs physical presence and authority
+664,First-Line Supervisors of Retail Sales Workers,Examine products purchased for resale or received for storage to assess the condition of each product or item.,0.15,physical product inspection
+665,First-Line Supervisors of Retail Sales Workers,"Hire, train, and evaluate personnel in sales or marketing establishments, promoting or firing workers when appropriate.",0.20,hiring and firing need human authority and interviews
+666,First-Line Supervisors of Retail Sales Workers,"Perform work activities of subordinates, such as cleaning and organizing shelves and displays and selling merchandise.",0.00,physical shelving and selling work
+667,First-Line Supervisors of Retail Sales Workers,"Establish and implement policies, goals, objectives, and procedures for the department.",0.35,policy drafting feasible but implementation needs authority
+668,First-Line Supervisors of Retail Sales Workers,Instruct staff on how to handle difficult and complicated sales.,0.35,live coaching of staff
+669,First-Line Supervisors of Retail Sales Workers,"Formulate pricing policies for merchandise, according to profitability requirements.",0.65,data-driven pricing analysis
+670,First-Line Supervisors of Retail Sales Workers,Estimate consumer demand and determine the types and amounts of goods to be sold.,0.70,demand forecasting from data
+671,First-Line Supervisors of Retail Sales Workers,Examine merchandise to ensure that it is correctly priced and displayed and that it functions as advertised.,0.15,physical inspection of displayed merchandise
+672,First-Line Supervisors of Retail Sales Workers,Plan and prepare work schedules and keep records of employees' work schedules and time cards.,0.80,automatable scheduling and time record task
+673,First-Line Supervisors of Retail Sales Workers,Review inventory and sales records to prepare reports for management and budget departments.,0.85,data analysis and report writing
+674,First-Line Supervisors of Retail Sales Workers,Plan and coordinate advertising campaigns and sales promotions and prepare merchandise displays and advertising copy.,0.45,mixed content creation and physical display work
+675,First-Line Supervisors of Retail Sales Workers,"Confer with company officials to develop methods and procedures to increase sales, expand markets, and promote business.",0.30,live negotiation and consultation with officials
+676,First-Line Supervisors of Retail Sales Workers,Establish credit policies and operating procedures.,0.35,policy drafting but establishing needs authority
+677,First-Line Supervisors of Retail Sales Workers,Plan budgets and authorize payments and merchandise returns.,0.30,budget planning but authorizing needs fiduciary authority
+678,Counter and Rental Clerks,Compute charges for merchandise or services and receive payments.,0.45,computing charges automatable but cash handling physical
+679,Counter and Rental Clerks,Prepare merchandise for display or for purchase or rental.,0.10,physical merchandise preparation
+680,Counter and Rental Clerks,Recommend and provide advice on a wide variety of products and services.,0.75,advisory information task
+681,Counter and Rental Clerks,Answer telephones to provide information and receive orders.,0.75,phone-based information and order taking
+682,Counter and Rental Clerks,"Greet customers and discuss the type, quality, and quantity of merchandise sought for rental.",0.30,in-person customer discussion
+683,Counter and Rental Clerks,Keep records of transactions and of the number of customers entering an establishment.,0.55,record keeping though foot traffic counting needs presence
+684,Counter and Rental Clerks,"Prepare rental forms, obtaining customer signature and other information, such as required licenses.",0.40,form prep mixed with physical signature and license checks
+685,Counter and Rental Clerks,"Receive, examine, and tag articles to be altered, cleaned, stored, or repaired.",0.05,physical item handling and tagging
+686,Counter and Rental Clerks,Inspect and adjust rental items to meet needs of customer.,0.05,physical inspection and adjustment
+687,Counter and Rental Clerks,"Explain rental fees, policies, and procedures.",0.85,pure information delivery
+688,Counter and Rental Clerks,Reserve items for requested times and keep records of items rented.,0.85,automatable reservation and record system
+689,Counter and Rental Clerks,"Receive orders for services, such as rentals, repairs, dry cleaning, and storage.",0.80,order intake automatable via phone or digital channel
+690,Counter and Rental Clerks,"Rent items, arrange for provision of services to customers, and accept returns.",0.25,mixed physical item handoff and returns
+691,Counter and Rental Clerks,"Provide information about rental items, such as availability, operation, or description.",0.85,pure information delivery
+692,Counter and Rental Clerks,Advise customers on use and care of merchandise.,0.70,advisory information task
+693,Counter and Rental Clerks,Allocate equipment to participants in sporting events or recreational activities.,0.10,physical equipment handoff
+694,Retail Salespersons,Greet customers and ascertain what each customer wants or needs.,0.25,in-person retail floor greeting
+695,Retail Salespersons,"Open and close cash registers, performing tasks such as counting money, separating charge slips, coupons, and vouchers, balancing cash drawers, and making deposits.",0.05,physical cash handling
+696,Retail Salespersons,"Maintain knowledge of current sales and promotions, policies regarding payment and exchanges, and security practices.",0.85,maintaining a knowledge base
+697,Retail Salespersons,"Compute sales prices, total purchases, and receive and process cash or credit payment.",0.35,computing prices automatable but cash payment physical
+698,Retail Salespersons,Maintain records related to sales.,0.85,pure record keeping
+699,Retail Salespersons,Watch for and recognize security risks and thefts and know how to prevent or handle these situations.,0.15,physical monitoring and intervention needed
+700,Retail Salespersons,"Recommend, select, and help locate or obtain merchandise based on customer needs and desires.",0.35,advisory recommendation mixed with physical locating
+701,Retail Salespersons,Answer questions regarding the store and its merchandise.,0.85,pure information delivery
+702,Retail Salespersons,"Describe merchandise and explain use, operation, and care of merchandise to customers.",0.80,informational product explanation
+703,Retail Salespersons,"Ticket, arrange, and display merchandise to promote sales.",0.05,physical merchandising work
+704,Retail Salespersons,Prepare sales slips or sales contracts.,0.80,document preparation task
+705,Retail Salespersons,Place special orders or call other stores to find desired items.,0.65,calling and ordering automatable via phone or system
+706,Retail Salespersons,Demonstrate use or operation of merchandise.,0.05,physical demonstration of merchandise
+707,Retail Salespersons,"Clean shelves, counters, and tables.",0.00,physical cleaning labor
+708,Retail Salespersons,Exchange merchandise for customers and accept returns.,0.10,physical merchandise handling
+709,Retail Salespersons,Bag or package purchases and wrap gifts.,0.00,physical packaging labor
+710,Retail Salespersons,Help customers try on or fit merchandise.,0.00,physical fitting assistance
+711,Retail Salespersons,Inventory stock and requisition new stock.,0.70,automatable inventory and requisition system
+712,Retail Salespersons,Prepare merchandise for purchase or rental.,0.10,physical merchandise preparation
+713,Retail Salespersons,"Sell or arrange for delivery, insurance, financing, or service contracts for merchandise.",0.45,contract arranging automatable but selling partly in person
+714,Retail Salespersons,Estimate and quote trade-in allowances.,0.65,estimation task from data
+715,Retail Salespersons,Estimate cost of repair or alteration of merchandise.,0.60,cost estimation from specifications

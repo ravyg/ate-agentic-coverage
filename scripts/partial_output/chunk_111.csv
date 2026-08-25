@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+11598,Hazardous Materials Removal Workers,"Operate cranes to move or load baskets, casks, or canisters.",0.00,physical crane operation on site
+11586,Hazardous Materials Removal Workers,Drive trucks or other heavy equipment to convey contaminated waste to designated sea or ground locations.,0.00,physical driving of trucks on site
+19870,Hazardous Materials Removal Workers,Identify or separate waste products or materials for recycling or reuse.,0.05,physical sorting of waste on site
+11592,Hazardous Materials Removal Workers,Upload baskets of irradiated elements onto machines that insert fuel elements into canisters and secure lids.,0.00,physical hazardous material handling
+19871,Hazardous Materials Removal Workers,"Process e-waste, such as computer components containing lead or mercury.",0.02,physical hazardous material handling
+11597,Hazardous Materials Removal Workers,Organize or track the locations of hazardous items in landfills.,0.15,mostly physical site tracking of items
+11600,Hazardous Materials Removal Workers,Mix or pour concrete into forms to encase waste material for disposal.,0.00,physical manual labor pouring concrete
+19868,Hazardous Materials Removal Workers,Apply bioremediation techniques to hazardous wastes to allow naturally occurring bacteria to break down toxic substances.,0.05,physical on-site application of treatment
+11596,Hazardous Materials Removal Workers,"Package, store, or move irradiated fuel elements in the underwater storage basins of nuclear reactor plants, using machines or equipment.",0.00,physical hazardous handling underwater
+4872,Highway Maintenance Workers,Set out signs and cones around work areas to divert traffic.,0.00,physical on-site setup of signs
+4871,Highway Maintenance Workers,Flag motorists to warn them of obstacles or repair work ahead.,0.00,requires physical presence to flag traffic
+18783,Highway Maintenance Workers,Perform preventative maintenance on vehicles and heavy equipment.,0.00,physical mechanical maintenance work
+4875,Highway Maintenance Workers,Drive trucks to transport crews and equipment to work sites.,0.00,physical driving of trucks
+4878,Highway Maintenance Workers,"Erect, install, or repair guardrails, road shoulders, berms, highway markers, warning signals, and highway lighting, using hand tools and power tools.",0.00,physical construction and installation
+4880,Highway Maintenance Workers,"Clean and clear debris from culverts, catch basins, drop inlets, ditches, and other drain structures.",0.00,physical labor clearing debris
+18784,Highway Maintenance Workers,"Drive heavy equipment and vehicles with adjustable attachments to sweep debris from paved surfaces, mow grass and weeds, remove snow and ice, and spread salt and sand.",0.00,physical operation of heavy equipment
+4877,Highway Maintenance Workers,"Haul and spread sand, gravel, and clay to fill washouts and repair road shoulders.",0.00,physical labor hauling materials
+4876,Highway Maintenance Workers,"Inspect, clean, and repair drainage systems, bridges, tunnels, and other structures.",0.02,physical on-site inspection and repair
+4879,Highway Maintenance Workers,"Remove litter and debris from roadways, including debris from rock and mud slides.",0.00,physical labor removing debris
+4874,Highway Maintenance Workers,"Dump, spread, and tamp asphalt, using pneumatic tampers, to repair joints and patch broken pavement.",0.00,physical labor spreading asphalt
+4881,Highway Maintenance Workers,"Perform roadside landscaping work, such as clearing weeds and brush, and planting and trimming trees.",0.00,physical landscaping labor
+4884,Highway Maintenance Workers,Apply poisons along roadsides and in animal burrows to eliminate unwanted roadside vegetation and rodents.,0.00,physical on-site application of poison
+4885,Highway Maintenance Workers,"Measure and mark locations for installation of markers, using tape, string, or chalk.",0.00,physical on-site measurement and marking
+4882,Highway Maintenance Workers,"Paint traffic control lines and place pavement traffic messages, by hand or using machines.",0.00,physical on-site painting work
+4886,Highway Maintenance Workers,"Apply oil to road surfaces, using sprayers.",0.00,physical operation of sprayers
+4883,Highway Maintenance Workers,Inspect markers to verify accurate installation.,0.02,physical on-site inspection
+4888,Highway Maintenance Workers,Place and remove snow fences used to prevent the accumulation of drifting snow on highways.,0.00,physical labor placing fences
+4887,Highway Maintenance Workers,Blend compounds to form adhesive mixtures used for marker installation.,0.02,physical mixing of compounds on site
+13643,Rail-Track Laying and Maintenance Equipment Operators,Patrol assigned track sections so that damaged or broken track can be located and reported.,0.05,physical on-site patrol of track
+13645,Rail-Track Laying and Maintenance Equipment Operators,"Repair or adjust track switches, using wrenches and replacement parts.",0.00,physical repair with tools
+20798,Rail-Track Laying and Maintenance Equipment Operators,"Weld sections of track together, such as switch points and frogs.",0.00,physical welding work
+13654,Rail-Track Laying and Maintenance Equipment Operators,Observe leveling indicator arms to verify levelness and alignment of tracks.,0.00,physical on-site observation task
+13655,Rail-Track Laying and Maintenance Equipment Operators,Operate single- or multiple-head spike driving machines to drive spikes into ties and secure rails.,0.00,physical operation of machinery
+13653,Rail-Track Laying and Maintenance Equipment Operators,Operate track wrenches to tighten or loosen bolts at joints that hold ends of rails together.,0.00,physical operation of wrenches
+13648,Rail-Track Laying and Maintenance Equipment Operators,"Cut rails to specified lengths, using rail saws.",0.00,physical cutting with rail saws
+13646,Rail-Track Laying and Maintenance Equipment Operators,"Lubricate machines, change oil, or fill hydraulic reservoirs to specified levels.",0.00,physical machine maintenance
+13651,Rail-Track Laying and Maintenance Equipment Operators,"Drill holes through rails, tie plates, or fishplates for insertion of bolts or spikes, using power drills.",0.00,physical drilling with power tools
+13644,Rail-Track Laying and Maintenance Equipment Operators,Clean tracks or clear ice or snow from tracks or switch boxes.,0.00,physical labor clearing snow or ice
+13658,Rail-Track Laying and Maintenance Equipment Operators,"Clean, grade, or level ballast on railroad tracks.",0.00,physical labor grading ballast
+13649,Rail-Track Laying and Maintenance Equipment Operators,"Raise rails, using hydraulic jacks, to allow for tie removal and replacement.",0.00,physical operation of hydraulic jacks
+13650,Rail-Track Laying and Maintenance Equipment Operators,"Adjust controls of machines that spread, shape, raise, level, or align track, according to specifications.",0.00,physical operation of track machinery
+13647,Rail-Track Laying and Maintenance Equipment Operators,"Dress and reshape worn or damaged railroad switch points or frogs, using portable power grinders.",0.00,physical grinding work
+13657,Rail-Track Laying and Maintenance Equipment Operators,Clean or make minor repairs to machines or equipment.,0.00,physical machine repair
+13652,Rail-Track Laying and Maintenance Equipment Operators,"Grind ends of new or worn rails to attain smooth joints, using portable grinders.",0.00,physical grinding of rail ends
+13660,Rail-Track Laying and Maintenance Equipment Operators,Operate single- or multiple-head spike pullers to pull old spikes from ties.,0.00,physical operation of spike pullers
+13665,Rail-Track Laying and Maintenance Equipment Operators,String and attach wire-guidelines machine to rails so that tracks or rails can be aligned or leveled.,0.00,physical rigging of guide wires
+13656,Rail-Track Laying and Maintenance Equipment Operators,Engage mechanisms that lay tracks or rails to specified gauges.,0.00,physical operation of track laying mechanism
+13659,Rail-Track Laying and Maintenance Equipment Operators,"Drive graders, tamping machines, brooms, or ballast spreading machines to redistribute gravel or ballast between rails.",0.00,physical driving of maintenance equipment
+13661,Rail-Track Laying and Maintenance Equipment Operators,"Drive vehicles that automatically move and lay tracks or rails over sections of track to be constructed, repaired, or maintained.",0.00,physical on-site vehicle operation
+13662,Rail-Track Laying and Maintenance Equipment Operators,"Turn wheels of machines, using lever controls, to adjust guidelines for track alignments or grades, following specifications.",0.00,physical adjustment of machine controls
+13664,Rail-Track Laying and Maintenance Equipment Operators,Push controls to close grasping devices on track or rail sections so that they can be raised or moved.,0.00,physical control of grasping devices
+13666,Rail-Track Laying and Maintenance Equipment Operators,Operate tie-adzing machines to cut ties and permit insertion of fishplates that hold rails.,0.00,physical operation of adzing machines
+13667,Rail-Track Laying and Maintenance Equipment Operators,"Paint railroad signs, such as speed limits or gate-crossing warnings.",0.00,physical painting of signs
+13663,Rail-Track Laying and Maintenance Equipment Operators,"Spray ties, fishplates, or joints with oil to protect them from weathering.",0.00,physical spraying of oil on tracks
+11602,Septic Tank Servicers and Sewer Pipe Cleaners,"Communicate with supervisors and other workers, using equipment such as wireless phones, pagers, or radio telephones.",0.10,field communication tied to physical work
+11601,Septic Tank Servicers and Sewer Pipe Cleaners,"Drive trucks to transport crews, materials, and equipment.",0.00,physical driving of trucks
+11613,Septic Tank Servicers and Sewer Pipe Cleaners,Inspect manholes to locate sewer line stoppages.,0.00,physical on-site inspection of manholes
+11604,Septic Tank Servicers and Sewer Pipe Cleaners,"Operate sewer cleaning equipment, including power rodders, high-velocity water jets, sewer flushers, bucket machines, wayne balls, and vac-alls.",0.00,physical operation of sewer equipment
+11603,Septic Tank Servicers and Sewer Pipe Cleaners,"Prepare and keep records of actions taken, including maintenance and repair work.",0.55,documentation task if given field data
+11610,Septic Tank Servicers and Sewer Pipe Cleaners,"Clean and repair septic tanks, sewer lines, or related structures such as manholes, culverts, and catch basins.",0.00,physical repair labor
+11608,Septic Tank Servicers and Sewer Pipe Cleaners,"Measure excavation sites, using plumbers' snakes, tapelines, or lengths of cutting heads within sewers, and mark areas for digging.",0.00,physical on-site measurement
+11612,Septic Tank Servicers and Sewer Pipe Cleaners,"Service, adjust, and make minor repairs to equipment, machines, and attachments.",0.00,physical equipment maintenance
+11609,Septic Tank Servicers and Sewer Pipe Cleaners,"Locate problems, using specially designed equipment, and mark where digging must occur to reach damaged tanks or pipes.",0.00,physical on-site problem location and marking
+11615,Septic Tank Servicers and Sewer Pipe Cleaners,"Dig out sewer lines manually, using shovels.",0.00,physical manual digging
+11620,Septic Tank Servicers and Sewer Pipe Cleaners,Clean and disinfect domestic basements and other areas flooded by sewer stoppages.,0.00,physical cleaning labor
+11606,Septic Tank Servicers and Sewer Pipe Cleaners,"Withdraw cables from pipes and examine them for evidence of mud, roots, grease, and other deposits indicating broken or clogged sewer lines.",0.00,physical inspection of cables
+11605,Septic Tank Servicers and Sewer Pipe Cleaners,Ensure that repaired sewer line joints are tightly sealed before backfilling begins.,0.00,physical on-site verification of seals
+11619,Septic Tank Servicers and Sewer Pipe Cleaners,"Rotate cleaning rods manually, using turning pins.",0.00,physical manual rod rotation
+11607,Septic Tank Servicers and Sewer Pipe Cleaners,"Install rotary knives on flexible cables mounted on machine reels, according to the diameters of pipes to be cleaned.",0.00,physical installation of knives on cables
+11611,Septic Tank Servicers and Sewer Pipe Cleaners,"Start machines to feed revolving cables or rods into openings, stopping machines and changing knives to conform to pipe sizes.",0.00,physical operation of machines
+11622,Septic Tank Servicers and Sewer Pipe Cleaners,Update sewer maps and manhole charts.,0.50,map and chart update if data supplied
+11617,Septic Tank Servicers and Sewer Pipe Cleaners,"Cover repaired pipes with dirt, and pack backfilled excavations, using air and gasoline tampers.",0.00,physical labor backfilling
+11614,Septic Tank Servicers and Sewer Pipe Cleaners,"Cut damaged sections of pipe with cutters, remove broken sections from ditches, and replace pipe sections, using pipe sleeves.",0.00,physical pipe cutting and replacement
+11618,Septic Tank Servicers and Sewer Pipe Cleaners,Requisition or order tools and equipment.,0.70,procurement and ordering task
+11616,Septic Tank Servicers and Sewer Pipe Cleaners,"Break asphalt and other pavement so that pipes can be accessed, using airhammers, picks, and shovels.",0.00,physical labor breaking pavement
+11621,Septic Tank Servicers and Sewer Pipe Cleaners,Tap mainline sewers to install sewer saddles.,0.00,physical installation of sewer saddles
+8285,Segmental Pavers,"Prepare base for installation by removing unstable or unsuitable materials, compacting and grading the soil, draining or stabilizing weak or saturated soils and taking measures to prevent water penetration and migration of bedding sand.",0.00,physical site preparation work
+8284,Segmental Pavers,"Supply and place base materials, edge restraints, bedding sand and jointing sand.",0.00,physical labor placing materials
+8292,Segmental Pavers,Discuss the design with the client.,0.35,in-person client design consultation
+8287,Segmental Pavers,"Set pavers, aligning and spacing them correctly.",0.00,physical placement of pavers
+8288,Segmental Pavers,Sweep sand into the joints and compact pavement until the joints are full.,0.00,physical labor compacting joints
+8294,Segmental Pavers,"Screed sand level to an even thickness, and recheck sand exposed to elements, raking and rescreeding if necessary.",0.00,physical screeding labor
+8293,Segmental Pavers,"Cut paving stones to size and for edges, using a splitter and a masonry saw.",0.00,physical cutting of paving stones
+8289,Segmental Pavers,"Compact bedding sand and pavers to finish the paved area, using a plate compactor.",0.00,physical compaction with machine
+8290,Segmental Pavers,Design paver installation layout pattern and create markings for directional references of joints and stringlines.,0.25,partly digital design partly on-site marking
+8286,Segmental Pavers,Sweep sand from the surface prior to opening to traffic.,0.00,physical sweeping labor
+8291,Segmental Pavers,"Resurface an outside area with cobblestones, terracotta tiles, concrete or other materials.",0.00,physical resurfacing labor
+8295,Segmental Pavers,Cement the edges of the paved area.,0.00,physical cementing labor
+21204,Weatherization Installers and Technicians,"Test combustible appliances, such as gas appliances.",0.00,physical on-site appliance testing
+21205,Weatherization Installers and Technicians,"Determine amount of air leakage in buildings, using a blower door machine.",0.00,physical on-site testing with equipment
+17789,Weatherization Installers and Technicians,"Test and diagnose air flow systems, using furnace efficiency analysis equipment.",0.00,physical on-site diagnostic testing
+17792,Weatherization Installers and Technicians,"Install and seal air ducts, combustion air openings, or ventilation openings to improve heating and cooling efficiency.",0.00,physical installation and sealing work
+17787,Weatherization Installers and Technicians,"Inspect buildings to identify required weatherization measures, including repair work, modification, or replacement.",0.05,physical on-site building inspection
+17788,Weatherization Installers and Technicians,"Recommend weatherization techniques to clients in accordance with needs and applicable energy regulations, codes, policies, or statutes.",0.45,recommendation from inspection data and codes
+17790,Weatherization Installers and Technicians,"Apply insulation materials, such as loose, blanket, board, and foam insulation to attics, crawl spaces, basements, or walls.",0.00,physical installation of insulation
+17794,Weatherization Installers and Technicians,"Make minor repairs using basic hand or power tools and materials, such as glass, lumber, and drywall.",0.00,physical repair with hand tools
+17796,Weatherization Installers and Technicians,Prepare cost estimates or specifications for rehabilitation or weatherization services.,0.55,cost estimate writing and computation
+17801,Weatherization Installers and Technicians,Contact residents or building owners to schedule appointments.,0.65,scheduling and communication task
+17797,Weatherization Installers and Technicians,"Wrap air ducts and water lines with insulating materials, such as duct wrap and pipe insulation.",0.00,physical wrapping of ducts and pipes
+17795,Weatherization Installers and Technicians,"Prepare and apply weather-stripping, glazing, caulking, or door sweeps to reduce energy losses.",0.00,physical application of weather-stripping
+17800,Weatherization Installers and Technicians,Clean and maintain tools and equipment.,0.00,physical cleaning and maintenance
+17799,Weatherization Installers and Technicians,"Apply spackling, compounding, or other materials to repair holes in walls.",0.00,physical wall repair labor
+17802,Weatherization Installers and Technicians,"Explain recommendations, policies, procedures, requirements, or other related information to residents or building owners.",0.45,client-facing explanation of recommendations
+17803,Weatherization Installers and Technicians,"Maintain activity logs, financial transaction logs, or other records of weatherization work performed.",0.55,documentation and log keeping task
+17791,Weatherization Installers and Technicians,"Explain energy conservation measures, such as the use of low flow showerheads and energy-efficient lighting.",0.50,informational communication about conservation
+17804,Weatherization Installers and Technicians,"Prepare or assist in the preparation of bids, contracts, or written reports related to weatherization work.",0.55,writing of bids contracts and reports
+17793,Weatherization Installers and Technicians,Install storm windows or storm doors and verify proper fit.,0.00,physical installation and fitting work
+17798,Weatherization Installers and Technicians,Wrap water heaters with water heater blankets.,0.00,physical wrapping of water heaters
+9889,"Derrick Operators, Oil and Gas","Inspect derricks, or order their inspection, prior to being raised or lowered.",0.05,physical inspection or coordination on site
+9890,"Derrick Operators, Oil and Gas","Inspect derricks for flaws, and clean and oil derricks to maintain proper working conditions.",0.00,physical inspection and maintenance
+9891,"Derrick Operators, Oil and Gas",Control the viscosity and weight of the drilling fluid.,0.05,physical on-site process control
+9892,"Derrick Operators, Oil and Gas","Repair pumps, mud tanks, and related equipment.",0.00,physical repair of equipment
+9893,"Derrick Operators, Oil and Gas",Set and bolt crown blocks to posts at tops of derricks.,0.00,physical assembly labor at height
+9894,"Derrick Operators, Oil and Gas",Listen to mud pumps and check regularly for vibration and other problems to ensure that rig pumps and drilling mud systems are working properly.,0.05,physical on-site monitoring by listening
+9895,"Derrick Operators, Oil and Gas",Start pumps that circulate mud through drill pipes and boreholes to cool drill bits and flush out drill cuttings.,0.00,physical operation of pumps
+9896,"Derrick Operators, Oil and Gas","Position and align derrick elements, using harnesses and platform climbing devices.",0.00,physical hazardous work at height
+9897,"Derrick Operators, Oil and Gas","Supervise crew members, and provide assistance in training them.",0.10,on-site supervision and accountability
+9898,"Derrick Operators, Oil and Gas",Guide lengths of pipe into and out of elevators.,0.00,physical guiding of pipe
+9899,"Derrick Operators, Oil and Gas","Prepare mud reports, and instruct crews about the handling of any chemical additives.",0.30,partly documentation partly on-site instruction
+9900,"Derrick Operators, Oil and Gas",Clamp holding fixtures on ends of hoisting cables.,0.00,physical rigging labor
+9901,"Derrick Operators, Oil and Gas","Weigh clay, and mix with water and chemicals to make drilling mud, using portable mixers.",0.00,physical mixing labor
+9902,"Derrick Operators, Oil and Gas",String cables through pulleys and blocks.,0.00,physical stringing of cables
+9903,"Derrick Operators, Oil and Gas",Steady pipes during connection to or disconnection from drill or casing strings.,0.00,physical steadying of pipes
+8296,"Rotary Drill Operators, Oil and Gas","Train crews, and introduce procedures to make drill work more safe and effective.",0.20,mostly on-site training delivery
+8297,"Rotary Drill Operators, Oil and Gas","Observe pressure gauge and move throttles and levers to control the speed of rotary tables, and to regulate pressure of tools at bottoms of boreholes.",0.00,physical on-site control of equipment
+8298,"Rotary Drill Operators, Oil and Gas",Count sections of drill rod to determine depths of boreholes.,0.05,physical on-site monitoring task
+8299,"Rotary Drill Operators, Oil and Gas","Push levers and brake pedals to control gasoline, diesel, electric, or steam draw works that lower and raise drill pipes and casings in and out of wells.",0.00,physical operation of controls
+8300,"Rotary Drill Operators, Oil and Gas","Connect sections of drill pipe, using hand tools and powered wrenches and tongs.",0.00,physical connection of drill pipe
+8301,"Rotary Drill Operators, Oil and Gas","Maintain records of footage drilled, location and nature of strata penetrated, materials and tools used, services rendered, and time required.",0.55,documentation of drilling records
+8302,"Rotary Drill Operators, Oil and Gas",Maintain and adjust machinery to ensure proper performance.,0.00,physical machinery maintenance

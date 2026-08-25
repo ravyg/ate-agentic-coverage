@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+5442,Market Research Analysts and Marketing Specialists,Monitor industry statistics and follow trends in trade literature.,0.90,monitoring trends via text and data sources
+5443,Market Research Analysts and Marketing Specialists,"Devise and evaluate methods and procedures for collecting data, such as surveys, opinion polls, or questionnaires, or arrange to obtain existing data.",0.80,designing survey methodology and data collection plans
+5444,Market Research Analysts and Marketing Specialists,Develop and implement procedures for identifying advertising needs.,0.75,developing procedures via analysis and writing
+5445,Market Research Analysts and Marketing Specialists,Direct trained survey interviewers.,0.35,directing human interviewers needs live authority
+5643,"Judges, Magistrate Judges, and Magistrates","Instruct juries on applicable laws, direct juries to deduce the facts from the evidence presented, and hear their verdicts.",0.05,presiding over jury requires legal authority and presence
+5644,"Judges, Magistrate Judges, and Magistrates","Sentence defendants in criminal cases, on conviction by jury, according to applicable government statutes.",0.05,sentencing requires sworn judicial authority
+5645,"Judges, Magistrate Judges, and Magistrates",Rule on admissibility of evidence and methods of conducting testimony.,0.05,evidentiary rulings require judicial authority
+5646,"Judges, Magistrate Judges, and Magistrates",Preside over hearings and listen to allegations made by plaintiffs to determine whether the evidence supports the charges.,0.05,presiding over hearings needs authority and presence
+5647,"Judges, Magistrate Judges, and Magistrates",Read documents on pleadings and motions to ascertain facts and issues.,0.80,reading documents to extract facts is text analysis
+5648,"Judges, Magistrate Judges, and Magistrates",Interpret and enforce rules of procedure or establish new rules in situations where there are no procedures already established by law.,0.10,enforcing procedural rules requires judicial authority
+5649,"Judges, Magistrate Judges, and Magistrates",Monitor proceedings to ensure that all applicable rules and procedures are followed.,0.10,monitoring court proceedings needs presence and authority
+5650,"Judges, Magistrate Judges, and Magistrates","Advise attorneys, juries, litigants, and court personnel regarding conduct, issues, and proceedings.",0.10,advising in courtroom needs authority and live presence
+5651,"Judges, Magistrate Judges, and Magistrates",Research legal issues and write opinions on the issues.,0.55,research and drafting feasible but opinions need judicial sign-off
+5652,"Judges, Magistrate Judges, and Magistrates","Conduct preliminary hearings to decide issues, such as whether there is reasonable and probable cause to hold defendants in felony cases.",0.05,deciding probable cause requires judicial authority
+5653,"Judges, Magistrate Judges, and Magistrates",Write decisions on cases.,0.55,drafting decisions feasible but issuance needs judicial authority
+5654,"Judges, Magistrate Judges, and Magistrates",Award compensation for damages to litigants in civil cases in relation to findings by juries or by the court.,0.05,awarding damages is an official judicial act
+5655,"Judges, Magistrate Judges, and Magistrates",Settle disputes between opposing attorneys.,0.10,settling disputes needs live authority and presence
+5656,"Judges, Magistrate Judges, and Magistrates","Supervise other judges, court officers, and the court's administrative staff.",0.15,supervising staff requires management authority and presence
+5657,"Judges, Magistrate Judges, and Magistrates",Impose restrictions upon parties in civil cases until trials can be held.,0.05,imposing restrictions is an official judicial act
+5658,"Judges, Magistrate Judges, and Magistrates","Rule on custody and access disputes, and enforce court orders regarding custody and support of children.",0.05,custody rulings require judicial authority
+5659,"Judges, Magistrate Judges, and Magistrates",Grant divorces and divide assets between spouses.,0.05,granting divorce requires judicial authority
+5660,"Judges, Magistrate Judges, and Magistrates",Participate in judicial tribunals to help resolve disputes.,0.10,tribunal participation needs authority and presence
+5661,"Judges, Magistrate Judges, and Magistrates",Perform wedding ceremonies.,0.02,officiating weddings needs legal authority and physical presence
+6913,Chiropractors,Perform a series of manual adjustments to the spine or other articulations of the body to correct the musculoskeletal system.,0.00,hands-on spinal manipulation needs a body
+6914,Chiropractors,Evaluate the functioning of the neuromuscularskeletal system and the spine using systems of chiropractic diagnosis.,0.10,hands-on chiropractic exam needs physical presence
+6915,Chiropractors,"Diagnose health problems by reviewing patients' health and medical histories, questioning, observing, and examining patients and interpreting x-rays.",0.30,mix of questioning imaging and hands-on exam
+6916,Chiropractors,Maintain accurate case histories of patients.,0.85,pure recordkeeping from given data
+6917,Chiropractors,Advise patients about recommended courses of treatment.,0.20,medical treatment advice needs licensed judgment
+6918,Chiropractors,Obtain and record patients' medical histories.,0.50,history intake interview doable remotely but needs judgment
+6919,Chiropractors,Analyze x-rays to locate the sources of patients' difficulties and to rule out fractures or diseases as sources of problems.,0.30,x-ray image analysis feasible but diagnosis needs licensure
+6920,Chiropractors,"Counsel patients about nutrition, exercise, sleeping habits, stress management, or other matters.",0.60,informational lifestyle counseling deliverable via chat
+6922,Chiropractors,Consult with or refer patients to appropriate health practitioners when necessary.,0.50,referral decisions need clinical judgment
+6923,Chiropractors,"Suggest and apply the use of supports such as straps, tapes, bandages, or braces if necessary.",0.05,applying physical supports needs a body
+6925,"Dentists, General",Administer anesthetics to limit the amount of pain experienced by patients during procedures.,0.00,administering anesthesia is a physical licensed act
+6926,"Dentists, General","Examine teeth, gums, and related tissues, using dental instruments, x-rays, or other diagnostic equipment, to evaluate dental health, diagnose diseases or abnormalities, and plan appropriate treatment",0.10,hands-on dental exam needs physical presence
+6927,"Dentists, General",Formulate plan of treatment for patient's teeth and mouth tissue.,0.30,treatment planning is analytical but needs licensed sign-off
+6929,"Dentists, General","Advise or instruct patients regarding preventive dental care, the causes and treatment of dental problems, or oral health care services.",0.55,informational preventive care advice deliverable via chat
+6930,"Dentists, General","Design, make, or fit prosthodontic appliances, such as space maintainers, bridges, or dentures, or write fabrication instructions or prescriptions for denturists or dental technicians.",0.15,fabricating and fitting appliances is physical work
+6931,"Dentists, General","Diagnose and treat diseases, injuries, or malformations of teeth, gums, or related oral structures and provide preventive or corrective services.",0.05,diagnosing and treating oral disease needs licensed physical work
+6932,"Dentists, General",Fill pulp chamber and canal with endodontic materials.,0.00,root canal filling is a physical procedure
+6933,"Dentists, General",Write prescriptions for antibiotics or other medications.,0.05,prescribing medication requires legal authority
+6934,"Dentists, General",Analyze or evaluate dental needs to determine changes or trends in patterns of dental disease.,0.85,population-level trend analysis is pure data work
+6935,"Dentists, General","Treat exposure of pulp by pulp capping, removal of pulp from pulp chamber, or root canal, using dental instruments.",0.00,pulp treatment is a physical procedure
+6936,"Dentists, General","Eliminate irritating margins of fillings and correct occlusions, using dental instruments.",0.00,adjusting fillings is a physical procedure
+6937,"Dentists, General",Perform oral or periodontal surgery on the jaw or mouth.,0.00,oral surgery needs a body
+6938,"Dentists, General","Remove diseased tissue, using surgical instruments.",0.00,removing tissue needs a body
+6939,"Dentists, General",Apply fluoride or sealants to teeth.,0.00,applying fluoride needs a body
+6941,"Dentists, General","Bleach, clean, or polish teeth to restore natural color.",0.00,polishing teeth needs a body
+6942,"Dentists, General","Plan, organize, or maintain dental health programs.",0.65,program planning is mostly information work
+6943,"Dentists, General",Produce or evaluate dental health educational materials.,0.90,producing educational materials is pure content creation
+6944,Psychiatric Technicians,Monitor patients' physical and emotional well-being and report unusual behavior or physical ailments to medical staff.,0.05,monitoring patients needs physical presence
+6945,Psychiatric Technicians,"Provide nursing, psychiatric, or personal care to patients with cognitive, intellectual, or developmental disabilities.",0.00,hands-on nursing and personal care needs a body
+6946,Psychiatric Technicians,"Observe and influence patients' behavior, communicating and interacting with them and teaching, counseling, or befriending them.",0.05,live in-person behavioral interaction needs a body
+6947,Psychiatric Technicians,"Take and record measures of patients' physical condition, using devices such as thermometers or blood pressure gauges.",0.00,taking vital signs needs a body
+6948,Psychiatric Technicians,"Encourage patients to develop work skills and to participate in social, recreational, or other therapeutic activities that enhance interpersonal skills or develop social relationships.",0.05,facilitating activities needs live physical presence
+6949,Psychiatric Technicians,"Collaborate with or assist doctors, psychologists, or rehabilitation therapists in working with patients with cognitive, intellectual, or developmental disabilities to treat, rehabilitate, and return ",0.05,hands-on patient care and rehab needs a body
+6950,Psychiatric Technicians,Develop or teach strategies to promote client wellness and independence.,0.30,strategy design feasible but teaching patients needs presence
+6951,Psychiatric Technicians,"Restrain violent, potentially violent, or suicidal patients by verbal or physical means as required.",0.00,physical restraint needs a body and safety responsibility
+6952,Psychiatric Technicians,"Aid patients in performing tasks, such as bathing or keeping beds, clothing, or living areas clean.",0.00,bathing and hygiene assistance needs a body
+6953,Psychiatric Technicians,"Administer oral medications or hypodermic injections, following physician's prescriptions and hospital procedures.",0.00,administering medication needs a body and licensure
+6954,Psychiatric Technicians,Issue medications from dispensary and maintain records in accordance with specified procedures.,0.10,dispensing medication is mostly physical handling
+6955,Psychiatric Technicians,"Interview new patients to complete admission forms, to assess their mental health status, or to obtain their mental health and treatment history.",0.40,admission interview doable remotely but needs clinical judgment
+6956,Psychiatric Technicians,Lead prescribed individual or group therapy sessions as part of specific therapeutic procedures.,0.05,leading therapy sessions needs licensed live presence
+6957,Psychiatric Technicians,Contact patients' relatives to arrange family conferences.,0.75,scheduling family conferences via calls or messages
+6998,Gambling Change Persons and Booth Cashiers,Count money and audit money drawers.,0.00,counting cash on-site needs a body
+6999,Gambling Change Persons and Booth Cashiers,"Keep accurate records of monetary exchanges, authorization forms, and transaction reconciliations.",0.55,recordkeeping of exchanges given transaction data
+7002,Gambling Change Persons and Booth Cashiers,Listen for jackpot alarm bells and issue payoffs to winners.,0.00,physical cash payout needs a body
+7003,Gambling Change Persons and Booth Cashiers,Maintain cage security according to rules.,0.00,physical cage security needs presence
+7004,Gambling Change Persons and Booth Cashiers,Obtain customers' signatures on receipts when winnings exceed the amount held in a slot machine.,0.02,in-person signature collection needs a body
+7005,Gambling Change Persons and Booth Cashiers,Reconcile daily summaries of transactions to balance books.,0.85,reconciling transaction summaries is pure data work
+7006,Gambling Change Persons and Booth Cashiers,"Sell gambling chips, tokens, or tickets to patrons, or to other workers for resale to patrons.",0.02,selling chips in person needs a body
+7007,Gambling Change Persons and Booth Cashiers,Calculate the value of chips won or lost by players.,0.85,calculating chip values from given data
+7008,Gambling Change Persons and Booth Cashiers,Furnish change persons with a money bank at the start of each shift.,0.00,physically handing over cash bank needs a body
+7009,Gambling Change Persons and Booth Cashiers,Accept credit applications and verify credit references to provide check-cashing authorization or to establish house credit accounts.,0.55,credit verification is mostly info work with some authorization judgment
+7010,Couriers and Messengers,"Walk, ride bicycles, drive vehicles, or use public conveyances to reach destinations to deliver messages or materials.",0.00,physical travel to deliver needs a body
+7011,Couriers and Messengers,"Load vehicles with listed goods, ensuring goods are loaded correctly and taking precautions with hazardous goods.",0.00,loading vehicles needs a body
+7012,Couriers and Messengers,Unload and sort items collected along delivery routes.,0.00,unloading and sorting physical items needs a body
+7013,Couriers and Messengers,"Receive messages or materials to be delivered, and information on recipients, such as names, addresses, telephone numbers, and delivery instructions, communicated via telephone, two-way radio, or in p",0.40,receiving delivery info by phone is partly info work
+7014,Couriers and Messengers,Plan and follow the most efficient routes for delivering goods.,0.35,route planning is info work but following route is physical
+7015,Couriers and Messengers,"Deliver messages and items, such as newspapers, documents, and packages, between establishment departments and to other establishments and private homes.",0.00,physical delivery needs a body
+7016,Couriers and Messengers,Sort items to be delivered according to the delivery route.,0.05,sorting physical items needs a body
+7017,Couriers and Messengers,"Obtain signatures and payments, or arrange for recipients to make payments.",0.15,obtaining signatures in person needs a body though arranging payment is remote
+7018,Couriers and Messengers,"Record information, such as items received and delivered and recipients' responses to messages.",0.60,recording delivery info from given data
+7019,Couriers and Messengers,Check with home offices after completed deliveries to confirm deliveries and collections and to receive instructions for other deliveries.,0.55,phone check-ins to confirm deliveries and get instructions
+7020,Couriers and Messengers,"Perform routine maintenance on delivery vehicles, such as monitoring fluid levels and replenishing fuel.",0.00,vehicle maintenance needs a body
+7021,Couriers and Messengers,Use telephone to deliver verbal messages.,0.75,delivering verbal messages by phone call
+7023,Couriers and Messengers,"Perform general office or clerical work, such as filing materials, operating duplicating machines, or running errands.",0.15,clerical filing and errands are mostly physical office work
+7024,Couriers and Messengers,"Collect, seal, and stamp outgoing mail, using postage meters and envelope sealers.",0.00,physically sealing and stamping mail needs a body
+7246,"Insurance Appraisers, Auto Damage","Estimate parts and labor to repair damage, using standard automotive labor and parts cost manuals and knowledge of automotive repair.",0.75,cost estimation from manuals is analytical work
+7247,"Insurance Appraisers, Auto Damage",Review repair cost estimates with automobile repair shop to secure agreement on cost of repairs.,0.35,negotiating cost agreement with repair shop needs live rapport
+7248,"Insurance Appraisers, Auto Damage","Examine damaged vehicle to determine extent of structural, body, mechanical, electrical, or interior damage.",0.30,physical vehicle inspection though photo based partly feasible
+7249,"Insurance Appraisers, Auto Damage",Evaluate practicality of repair as opposed to payment of market value of vehicle before accident.,0.75,repair versus payout evaluation is financial analysis
+7250,"Insurance Appraisers, Auto Damage",Determine salvage value on total-loss vehicle.,0.75,salvage valuation is data driven analysis
+7251,"Insurance Appraisers, Auto Damage",Prepare insurance forms to indicate repair cost estimates and recommendations.,0.85,preparing insurance forms is documentation work
+7252,"Insurance Appraisers, Auto Damage",Arrange to have damage appraised by another appraiser to resolve disagreement with shop on repair cost.,0.55,arranging a second appraiser is coordination and scheduling
+7276,Management Analysts,Gather and organize information on problems or procedures.,0.90,gathering and organizing information is pure info work
+7277,Management Analysts,Analyze data gathered and develop solutions or alternative methods of proceeding.,0.85,data analysis and solution development
+7278,Management Analysts,Confer with personnel concerned to ensure successful functioning of newly implemented systems or procedures.,0.55,conferring with staff needs live interaction
+7279,Management Analysts,"Develop and implement records management program for filing, protection, and retrieval of records, and assure compliance with program.",0.55,developing program is info work but implementation and compliance need oversight
+7280,Management Analysts,"Review forms and reports and confer with management and users about format, distribution, and purpose, identifying problems and improvements.",0.65,review is analytical but conferring needs live interaction
+7281,Management Analysts,"Interview personnel and conduct on-site observation to ascertain unit functions, work performed, and methods, equipment, and personnel used.",0.35,on-site observation needs presence though interviews are remote-feasible
+7282,Management Analysts,"Document findings of study and prepare recommendations for implementation of new systems, procedures, or organizational changes.",0.90,documenting findings and writing recommendations
+7283,Management Analysts,"Prepare manuals and train workers in use of new forms, reports, procedures or equipment, according to organizational policy.",0.55,preparing manuals is info work but training workers needs live interaction
+7284,Management Analysts,"Design, evaluate, recommend, and approve changes of forms and reports.",0.65,design and evaluation is info work but approval needs organizational authority
+7285,Management Analysts,"Plan study of work problems and procedures, such as organizational change, communications, information flow, integrated production methods, inventory control, or cost analysis.",0.85,planning a study is analytical work
+7286,Management Analysts,Recommend purchase of storage equipment and design area layout to locate equipment in space available.,0.75,equipment recommendation and layout design from data
+7314,Financial Examiners,Investigate activities of institutions to enforce laws and regulations and to ensure legality of transactions and operations or financial solvency.,0.40,investigation is analytical but enforcement needs regulatory authority
+7315,Financial Examiners,"Review and analyze new, proposed, or revised laws, regulations, policies, and procedures to interpret their meaning and determine their impact.",0.85,analyzing regulations and policies is pure research
+7316,Financial Examiners,"Plan, supervise, and review work of assigned subordinates.",0.25,supervising subordinates needs management authority and presence
+7317,Financial Examiners,"Recommend actions to ensure compliance with laws and regulations, or to protect solvency of institutions.",0.80,compliance recommendations from analysis
+7318,Financial Examiners,"Examine the minutes of meetings of directors, stockholders, and committees to investigate the specific authority extended at various levels of management.",0.85,document review of meeting minutes
+7319,Financial Examiners,"Prepare reports, exhibits, and other supporting schedules that detail an institution's safety and soundness, compliance with laws and regulations, and recommended solutions to questionable financial c",0.85,report writing from examination data
+7320,Financial Examiners,"Review balance sheets, operating income and expense accounts, and loan documentation to confirm institution assets and liabilities.",0.85,financial statement review and analysis
+7321,Financial Examiners,Review audit reports of internal and external auditors to monitor adequacy of scope of reports or to discover specific weaknesses in internal routines.,0.85,reviewing audit reports for adequacy
+7322,Financial Examiners,Train other examiners in the financial examination process.,0.40,training examiners needs live coaching interaction
+7323,Financial Examiners,Establish guidelines for procedures and policies that comply with new and revised regulations and direct their implementation.,0.55,drafting guidelines is info work but directing implementation needs authority
+7324,Financial Examiners,"Direct and participate in formal and informal meetings with bank directors, trustees, senior management, counsels, outside accountants, and consultants to gather information and discuss findings.",0.35,live meetings with executives need human rapport
+7325,Financial Examiners,"Verify and inspect cash reserves, assigned collateral, and bank-owned securities to check internal control procedures.",0.40,verifying physical cash and collateral needs on-site presence
+7326,Financial Examiners,"Review applications for mergers, acquisitions, establishment of new institutions, acceptance in Federal Reserve System, or registration of securities sales to determine their public interest value and",0.55,application review is analytical but final determination needs regulatory authority
+7327,Financial Examiners,"Resolve problems concerning the overall financial integrity of banking institutions including loan investment portfolios, capital, earnings, and specific or large troubled accounts.",0.35,resolving institutional problems needs negotiation and authority
+7328,Financial Examiners,Evaluate data processing applications for institutions under examination to develop recommendations for coordinating existing systems with examination procedures.,0.80,technical system evaluation and recommendations
+7329,Financial Examiners,"Confer with officials of real estate, securities, or financial institution industries to exchange views and discuss issues or pending cases.",0.40,conferring with industry officials needs live interaction
+7358,Tax Preparers,"Compute taxes owed or overpaid, using adding machines or personal computers, and complete entries on forms, following tax form instructions and tax tables.",0.95,pure tax computation from data and tables
+7359,Tax Preparers,Prepare or assist in preparing simple to complex tax returns for individuals or small businesses.,0.90,preparing tax returns is document based computation
+7360,Tax Preparers,"Use all appropriate adjustments, deductions, and credits to keep clients' taxes to a minimum.",0.90,optimizing deductions and credits is computational analysis
+7361,Tax Preparers,Interview clients to obtain additional information on taxable income and deductible expenses and allowances.,0.55,client interview doable via forms or chat
+7362,Tax Preparers,"Review financial records, such as income statements and documentation of expenditures to determine forms needed to prepare tax returns.",0.85,reviewing financial records to determine needed forms
+7363,Tax Preparers,Furnish taxpayers with sufficient information and advice to ensure correct tax form completion.,0.80,advising taxpayers on form completion
+7364,Tax Preparers,Consult tax law handbooks or bulletins to determine procedures for preparation of atypical returns.,0.90,researching tax law handbooks and bulletins
+7365,Tax Preparers,Calculate form preparation fees according to return complexity and processing time required.,0.85,calculating fees from complexity and time data

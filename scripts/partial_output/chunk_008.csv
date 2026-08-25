@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+3781,Lawyers,"Select jurors, argue motions, meet with judges, and question witnesses during the course of a trial.",0.05,requires licensed courtroom presence and advocacy
+3782,Lawyers,Present evidence to defend clients or prosecute defendants in criminal or civil litigation.,0.05,requires licensed courtroom presence and advocacy
+3783,Lawyers,"Study Constitution, statutes, decisions, regulations, and ordinances of quasi-judicial bodies to determine ramifications for cases.",0.85,legal research and analysis from texts
+3785,Lawyers,"Prepare legal briefs and opinions, and file appeals in state and federal courts of appeal.",0.55,can draft briefs but filing needs attorney certification
+3786,Lawyers,Negotiate settlements of civil disputes.,0.35,requires live negotiation and human trust
+3787,Lawyers,Confer with colleagues with specialties in appropriate areas of legal issue to establish and verify bases for legal proceedings.,0.40,needs live conferral with human colleagues
+3788,Lawyers,Search for and examine public and other legal records to write opinions or establish ownership.,0.85,records research and opinion writing
+3789,Lawyers,Supervise legal assistants.,0.25,requires managing and directing human staff
+3790,Lawyers,Perform administrative and management functions related to the practice of law.,0.40,mix of routine admin and management authority
+3791,Lawyers,"Act as agent, trustee, guardian, or executor for businesses or individuals.",0.05,requires fiduciary legal authority
+3792,Lawyers,Probate wills and represent and advise executors and administrators of estates.,0.10,requires licensed legal representation in court
+3793,Lawyers,"Help develop federal and state programs, draft and interpret laws and legislation, and establish enforcement procedures.",0.50,can draft legislative text but adoption needs human authority
+4073,Physician Assistants,Examine patients to obtain information about their physical condition.,0.05,requires physical patient examination
+4074,Physician Assistants,Interpret diagnostic test results for deviations from normal.,0.80,data interpretation from test results
+4075,Physician Assistants,Make tentative diagnoses and decisions about management and treatment of patients.,0.40,clinical decision needs licensed human accountability
+4076,Physician Assistants,"Obtain, compile, and record patient medical data, including health history, progress notes, and results of physical examination.",0.30,requires in-person exam and history taking
+4077,Physician Assistants,"Administer or order diagnostic tests, such as x-ray, electrocardiogram, and laboratory tests.",0.25,administering tests needs physical presence
+4078,Physician Assistants,Prescribe therapy or medication with physician approval.,0.15,requires licensed prescribing authority
+4079,Physician Assistants,"Perform therapeutic procedures, such as injections, immunizations, suturing and wound care, and infection management.",0.00,physical hands-on medical procedures
+4080,Physician Assistants,"Instruct and counsel patients about prescribed therapeutic regimens, normal growth and development, family planning, emotional problems of daily living, and health maintenance.",0.35,counseling benefits from in-person human rapport
+4081,Physician Assistants,Provide physicians with assistance during surgery or complicated medical procedures.,0.00,requires physical presence during surgery
+4082,Physician Assistants,Supervise and coordinate activities of technicians and technical assistants.,0.25,requires supervising human staff
+4083,Physician Assistants,"Visit and observe patients on hospital rounds or house calls, updating charts, ordering therapy, and reporting back to physician.",0.15,requires physical rounds and house calls
+4084,Physician Assistants,Order medical and laboratory supplies and equipment.,0.85,procurement ordering via systems
+4085,Radiation Therapists,"Administer prescribed doses of radiation to specific body parts, using radiation therapy equipment according to established practices and standards.",0.00,physical radiation administration
+4086,Radiation Therapists,"Position patients for treatment with accuracy, according to prescription.",0.00,requires physically positioning patient
+4087,Radiation Therapists,Enter data into computer and set controls to operate or adjust equipment or regulate dosage.,0.15,real-time equipment control with patient present
+4088,Radiation Therapists,"Follow principles of radiation protection for patient, self, and others.",0.05,requires physical presence for protection actions
+4089,Radiation Therapists,"Maintain records, reports, or files as required, including such information as radiation dosages, equipment settings, or patients' reactions.",0.80,record keeping from provided data
+4090,Radiation Therapists,"Review prescription, diagnosis, patient chart, and identification.",0.50,chart review feasible but identity check needs presence
+4091,Radiation Therapists,"Conduct most treatment sessions independently, in accordance with the long-term treatment plan and under the general direction of the patient's physician.",0.00,physical treatment administration
+4092,Radiation Therapists,Check radiation therapy equipment to ensure proper operation.,0.05,requires physical equipment inspection
+4093,Radiation Therapists,Observe and reassure patients during treatment and report unusual reactions to physician or turn equipment off if unexpected adverse reactions occur.,0.00,requires physical presence to observe and reassure
+4094,Radiation Therapists,"Check for side effects, such as skin irritation, nausea, or hair loss to assess patients' reaction to treatment.",0.05,requires physical examination of patient
+4095,Radiation Therapists,"Educate, prepare, and reassure patients and their families by answering questions, providing physical assistance, and reinforcing physicians' advice regarding treatment reactions or post-treatment car",0.30,answering questions remote but physical assistance needed
+4096,Radiation Therapists,Calculate actual treatment dosages delivered during each session.,0.85,calculation from treatment data
+4097,Radiation Therapists,"Prepare or construct equipment, such as immobilization, treatment, or protection devices.",0.00,physical construction of equipment
+4098,Radiation Therapists,Photograph treated area of patient and process film.,0.05,requires physical photography of patient
+4099,Radiation Therapists,"Help physicians, radiation oncologists, or clinical physicists to prepare physical or technical aspects of radiation treatment plans, using information about patient condition and anatomy.",0.55,technical treatment planning aided by computation
+4100,Radiation Therapists,Train or supervise student or subordinate radiotherapy technologists.,0.20,in-person training and supervision of staff
+4101,Radiation Therapists,Act as liaison with physicist and supportive care personnel.,0.55,coordination and liaison communication
+4102,Radiation Therapists,Provide assistance to other healthcare personnel during dosimetry procedures and tumor localization.,0.05,requires physical assistance during procedures
+4103,Radiation Therapists,Implement appropriate follow-up care plans.,0.30,care planning needs clinical human accountability
+4104,Radiation Therapists,"Store, sterilize, or prepare the special applicators containing the radioactive substance implanted by the physician.",0.00,physical handling of radioactive materials
+4105,Radiation Therapists,"Assist in the preparation of sealed radioactive materials, such as cobalt, radium, cesium, or isotopes, for use in radiation treatments.",0.00,physical handling of radioactive materials
+4106,Veterinarians,Examine animals to detect and determine the nature of diseases or injuries.,0.05,requires physical examination of animals
+4107,Veterinarians,"Treat sick or injured animals by prescribing medication, setting bones, dressing wounds, or performing surgery.",0.00,physical and licensed veterinary treatment
+4108,Veterinarians,"Inoculate animals against various diseases, such as rabies or distemper.",0.00,physical inoculation of animals
+4109,Veterinarians,"Collect body tissue, feces, blood, urine, or other body fluids for examination and analysis.",0.00,physical collection of specimens
+4110,Veterinarians,"Operate diagnostic equipment, such as radiographic or ultrasound equipment, and interpret the resulting images.",0.30,operating equipment is physical though interpretation could be aided
+4112,Veterinarians,Educate the public about diseases that can be spread from animals to humans.,0.80,public education content creation
+4113,Veterinarians,Train or supervise workers who handle or care for animals.,0.25,requires in-person supervision of workers
+4114,Veterinarians,"Provide care to a wide range of animals or specialize in a particular species, such as horses or exotic birds.",0.00,physical animal care
+4115,Veterinarians,Euthanize animals.,0.00,physical act requiring professional authority
+4116,Veterinarians,Establish or conduct quarantine or testing procedures that prevent the spread of diseases to other animals or to humans and that comply with applicable government regulations.,0.40,protocol design assisted but enforcement needs authority
+4117,Veterinarians,Conduct postmortem studies and analyses to determine the causes of animals' deaths.,0.20,necropsy is physical though analysis could be aided
+4119,Veterinarians,"Direct the overall operations of animal hospitals, clinics, or mobile services to farms.",0.25,business and operational management authority
+4121,Veterinarians,"Specialize in a particular type of treatment, such as dentistry, pathology, nutrition, surgery, microbiology, or internal medicine.",0.05,physical clinical specialization work
+4122,Veterinarians,"Inspect and test horses, sheep, poultry, or other animals to detect the presence of communicable diseases.",0.05,requires physical inspection of animals
+4123,Veterinarians,Plan or execute animal nutrition or reproduction programs.,0.35,planning aided but execution is physical
+4124,Veterinarians,Research diseases to which animals could be susceptible.,0.85,literature research on animal diseases
+4126,Veterinarians,"Determine the effects of drug therapies, antibiotics, or new surgical techniques by testing them on animals.",0.05,requires physical testing on animals
+4127,Cardiovascular Technologists and Technicians,Monitor patients' blood pressure and heart rate using electrocardiogram (EKG) equipment during diagnostic or therapeutic procedures to notify the physician if something appears wrong.,0.05,requires live physical patient monitoring
+4128,Cardiovascular Technologists and Technicians,"Monitor patients' comfort and safety during tests, alerting physicians to abnormalities or changes in patient responses.",0.05,requires live physical patient monitoring
+4129,Cardiovascular Technologists and Technicians,Explain testing procedures to patients to obtain cooperation and reduce anxiety.,0.35,explaining procedures benefits from in-person reassurance
+4131,Cardiovascular Technologists and Technicians,"Observe gauges, recorder, and video screens of data analysis system during imaging of cardiovascular system.",0.10,requires physical presence monitoring imaging
+4132,Cardiovascular Technologists and Technicians,"Conduct electrocardiogram (EKG), phonocardiogram, echocardiogram, stress testing, or other cardiovascular tests to record patients' cardiac activity, using specialized electronic test equipment, recor",0.05,physical hands-on cardiac testing
+4133,Cardiovascular Technologists and Technicians,Prepare and position patients for testing.,0.00,physical patient preparation and positioning
+4134,Cardiovascular Technologists and Technicians,"Obtain and record patient identification, medical history, or test results.",0.35,obtaining data needs interaction though recording is easy
+4135,Cardiovascular Technologists and Technicians,"Attach electrodes to the patients' chests, arms, and legs, connect electrodes to leads from the electrocardiogram (EKG) machine, and operate the EKG machine to obtain a reading.",0.00,physical attachment of electrodes
+4136,Cardiovascular Technologists and Technicians,Adjust equipment and controls according to physicians' orders or established protocol.,0.05,physical equipment adjustment
+4137,Cardiovascular Technologists and Technicians,"Check, test, and maintain cardiology equipment, making minor repairs when necessary, to ensure proper operation.",0.05,physical equipment maintenance
+4138,Cardiovascular Technologists and Technicians,Supervise or train other cardiology technologists or students.,0.25,in-person supervision and training
+4140,Cardiovascular Technologists and Technicians,Operate diagnostic imaging equipment to produce contrast enhanced radiographs of heart and cardiovascular system.,0.05,physical operation of imaging equipment
+4141,Cardiovascular Technologists and Technicians,Inject contrast medium into patients' blood vessels.,0.00,physical licensed injection procedure
+4142,Cardiovascular Technologists and Technicians,"Observe ultrasound display screen and listen to signals to record vascular information, such as blood pressure, limb volume changes, oxygen saturation, or cerebral circulation.",0.10,requires physical presence with patient
+4143,Cardiovascular Technologists and Technicians,Assess cardiac physiology and calculate valve areas from blood flow velocity measurements.,0.80,computation from provided measurements
+4144,Cardiovascular Technologists and Technicians,Compare measurements of heart wall thickness and chamber sizes to standard norms to identify abnormalities.,0.80,analysis comparing measurements to norms
+4148,Nuclear Medicine Technologists,"Calculate, measure, and record radiation dosage or radiopharmaceuticals received, used, and disposed, using computer and following physician's prescription.",0.50,computation and recording from prescribed data
+4149,Nuclear Medicine Technologists,"Detect and map radiopharmaceuticals in patients' bodies, using a camera to produce photographic or computer images.",0.05,physical imaging operation with patient
+4150,Nuclear Medicine Technologists,Explain test procedures and safety precautions to patients and provide them with assistance during test procedures.,0.25,assistance during procedures needs physical presence
+4152,Nuclear Medicine Technologists,Produce a computer-generated or film image for interpretation by a physician.,0.10,image production tied to physical scanning
+4153,Nuclear Medicine Technologists,"Process cardiac function studies, using computer.",0.75,computer processing of studies
+4154,Nuclear Medicine Technologists,"Dispose of radioactive materials and store radiopharmaceuticals, following radiation safety procedures.",0.00,physical handling of radioactive materials
+4155,Nuclear Medicine Technologists,Record and process results of procedures.,0.80,record processing from provided results
+4156,Nuclear Medicine Technologists,"Prepare stock radiopharmaceuticals, adhering to safety standards that minimize radiation exposure to workers and patients.",0.00,physical preparation of radiopharmaceuticals
+4157,Nuclear Medicine Technologists,Maintain and calibrate radioisotope and laboratory equipment.,0.05,physical equipment maintenance and calibration
+4158,Nuclear Medicine Technologists,Gather information on patients' illnesses and medical history to guide the choice of diagnostic procedures for therapy.,0.40,gathering history needs interaction though guidance is analytic
+4159,Nuclear Medicine Technologists,"Measure glandular activity, blood volume, red cell survival, or radioactivity of patient, using scanners, Geiger counters, scintillometers, or other laboratory equipment.",0.05,physical measurement using lab equipment
+4160,Nuclear Medicine Technologists,Train or supervise student or subordinate nuclear medicine technologists.,0.25,in-person training and supervision of staff
+4161,Nuclear Medicine Technologists,"Position radiation fields, radiation beams, and patient to allow for most effective treatment of patient's disease, using computer.",0.15,requires physically positioning patient and beams
+4162,Nuclear Medicine Technologists,"Add radioactive substances to biological specimens, such as blood, urine, or feces, to determine therapeutic drug or hormone levels.",0.00,physical lab handling of radioactive substances
+4163,Nuclear Medicine Technologists,Develop treatment procedures for nuclear medicine treatment programs.,0.50,protocol development assisted but needs clinical authority
+4165,Dietetic Technicians,"Prepare a major meal, following recipes and determining group food quantities.",0.00,physical meal preparation
+4166,Dietetic Technicians,"Analyze menus or recipes, standardize recipes, or test new products.",0.45,nutritional analysis feasible but product testing is physical
+4167,Dietetic Technicians,Supervise food production or service or assist dietitians or nutritionists in food service supervision or planning.,0.25,in-person supervision of food production
+4169,Dietetic Technicians,"Plan menus or diets or guide individuals or families in food selection, preparation, or menu planning, based upon nutritional needs and established guidelines.",0.80,menu and diet planning from nutritional guidelines
+4170,Dietetic Technicians,Determine food and beverage costs and assist in implementing cost control procedures.,0.80,cost analysis and control procedures
+4171,Dietetic Technicians,"Develop job specifications, job descriptions, or work schedules.",0.80,document drafting of job specs and schedules
+4172,Dietetic Technicians,"Select, schedule, or conduct orientation or in-service education programs.",0.35,conducting in-person training needs presence
+4173,Dietetic Technicians,"Provide dietitians with assistance researching food, nutrition, or food service systems.",0.85,research assistance on food and nutrition
+4174,Dietetic Technicians,"Deliver speeches on diet, nutrition, or health to promote healthy eating habits and illness prevention and treatment.",0.30,live speech delivery needs human presence
+4175,Dietetic Technicians,Refer patients to other relevant services to provide continuity of care.,0.50,referral judgment with care coordination accountability
+4176,Veterinary Technologists and Technicians,"Administer anesthesia to animals, under the direction of a veterinarian, and monitor animals' responses to anesthetics so that dosages can be adjusted.",0.00,physical and licensed anesthesia administration
+4177,Veterinary Technologists and Technicians,Care for and monitor the condition of animals recovering from surgery.,0.05,physical monitoring of recovering animals
+4178,Veterinary Technologists and Technicians,"Prepare and administer medications, vaccines, serums, or treatments, as prescribed by veterinarians.",0.00,physical administration of medications
+4179,Veterinary Technologists and Technicians,"Perform laboratory tests on blood, urine, or feces, such as urinalyses or blood counts, to assist in the diagnosis and treatment of animal health problems.",0.10,physical lab testing of samples
+4180,Veterinary Technologists and Technicians,"Administer emergency first aid, such as performing emergency resuscitation or other life saving procedures.",0.00,physical emergency first aid
+4181,Veterinary Technologists and Technicians,"Collect, prepare, and label samples for laboratory testing, culture, or microscopic examination.",0.00,physical sample collection
+4182,Veterinary Technologists and Technicians,"Clean and sterilize instruments, equipment, or materials.",0.00,physical cleaning of instruments
+4183,Veterinary Technologists and Technicians,"Provide veterinarians with the correct equipment or instruments, as needed.",0.00,physical handling of equipment
+4184,Veterinary Technologists and Technicians,"Fill prescriptions, measuring medications and labeling containers.",0.05,physical measuring and labeling of medication
+4185,Veterinary Technologists and Technicians,"Prepare animals for surgery, performing such tasks as shaving surgical areas.",0.00,physical preparation of animal for surgery
+4186,Veterinary Technologists and Technicians,"Take animals into treatment areas and assist with physical examinations by performing such duties as obtaining temperature, pulse, or respiration data.",0.00,physical handling and examination of animals
+4187,Veterinary Technologists and Technicians,Observe the behavior and condition of animals and monitor their clinical symptoms.,0.05,requires physical presence observing animals
+4188,Veterinary Technologists and Technicians,"Take and develop diagnostic radiographs, using x-ray equipment.",0.00,physical operation of x-ray equipment
+4189,Veterinary Technologists and Technicians,"Maintain laboratory, research, or treatment records, as well as inventories of pharmaceuticals, equipment, or supplies.",0.75,record keeping from provided data
+4190,Veterinary Technologists and Technicians,"Give enemas and perform catheterizations, ear flushes, intravenous feedings, or gavages.",0.00,physical hands-on medical procedures
+4191,Veterinary Technologists and Technicians,Prepare treatment rooms for surgery.,0.00,physical preparation of treatment rooms
+4192,Veterinary Technologists and Technicians,"Maintain instruments, equipment, or machinery to ensure proper working condition.",0.05,physical equipment maintenance
+4193,Veterinary Technologists and Technicians,"Perform dental work, such as cleaning, polishing, or extracting teeth.",0.00,physical dental procedures on animals
+4194,Veterinary Technologists and Technicians,"Clean kennels, animal holding areas, surgery suites, examination rooms, or animal loading or unloading facilities to control the spread of disease.",0.00,physical cleaning of facilities
+4195,Veterinary Technologists and Technicians,"Provide information or counseling regarding issues such as animal health care, behavior problems, or nutrition.",0.55,informational counseling can be delivered remotely
+4196,Veterinary Technologists and Technicians,Provide assistance with animal euthanasia and the disposal of remains.,0.00,physical and emotional presence for euthanasia
+4197,Veterinary Technologists and Technicians,Dress and suture wounds and apply splints or other protective devices.,0.00,physical wound care procedures
+4198,Veterinary Technologists and Technicians,"Perform a variety of office, clerical, or accounting duties, such as reception, billing, bookkeeping, or selling products.",0.85,office clerical and accounting work
+4199,Veterinary Technologists and Technicians,"Bathe animals, clip nails or claws, and brush or cut animals' hair.",0.00,physical animal grooming
+4200,Veterinary Technologists and Technicians,"Conduct specialized procedures, such as animal branding or tattooing or hoof trimming.",0.00,physical specialized animal procedures
+4201,"Opticians, Dispensing","Measure clients' bridge and eye size, temple length, vertex distance, pupillary distance, and optical centers of eyes, using measuring devices.",0.00,physical measurement of client
+4202,"Opticians, Dispensing",Verify that finished lenses are ground to specifications.,0.30,verification typically needs physical inspection

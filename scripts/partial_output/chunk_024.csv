@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+18361,Nurse Anesthetists,"Manage patients' airway or pulmonary status, using techniques such as endotracheal intubation, mechanical ventilation, pharmacological support, respiratory therapy, and extubation.",0.00,hands-on physical airway management
+18362,Nurse Anesthetists,"Monitor patients' responses, including skin color, pupil dilation, pulse, heart rate, blood pressure, respiration, ventilation, or urine output, using invasive and noninvasive techniques.",0.02,physical patient monitoring at bedside
+18363,Nurse Anesthetists,"Perform or manage regional anesthetic techniques, such as local, spinal, epidural, caudal, nerve blocks and intravenous blocks.",0.00,hands-on regional anesthesia procedure
+18364,Nurse Anesthetists,"Prepare prescribed solutions and administer local, intravenous, spinal, or other anesthetics, following specified methods and procedures.",0.00,physical administration of anesthetic drugs
+18365,Nurse Anesthetists,"Respond to emergency situations by providing airway management, administering emergency fluids or drugs, or using basic or advanced cardiac life support techniques.",0.00,physical emergency intervention
+18366,Nurse Anesthetists,"Select, order, or administer anesthetics, adjuvant drugs, accessory drugs, fluids or blood products as necessary.",0.05,selection ok but administration is physical and licensed
+18367,Nurse Anesthetists,Assess patients' medical histories to predict anesthesia response.,0.25,clinical risk assessment needs licensed judgment
+18368,Nurse Anesthetists,Develop anesthesia care plans.,0.20,care planning needs licensed clinical accountability
+18369,Nurse Anesthetists,Obtain informed consent from patients for anesthesia procedures.,0.05,legal informed consent needs patient present authority
+18370,Nurse Anesthetists,"Select, prepare, or use equipment, monitors, supplies, or drugs for the administration of anesthetics.",0.00,physical equipment setup
+18371,Nurse Anesthetists,Calibrate and test anesthesia equipment.,0.00,physical equipment calibration
+18372,Nurse Anesthetists,Disassemble and clean anesthesia equipment.,0.00,physical equipment cleaning
+18373,Nurse Anesthetists,Insert arterial catheters or perform arterial punctures to obtain arterial blood samples.,0.00,physical catheter insertion procedure
+18374,Nurse Anesthetists,Insert peripheral or central intravenous catheters.,0.00,physical catheter insertion procedure
+18375,Nurse Anesthetists,"Instruct nurses, residents, interns, students, or other staff on topics such as anesthetic techniques, pain management and emergency responses.",0.35,can draft materials but live instruction needs presence
+18376,Nurse Anesthetists,"Read current literature, talk with colleagues, and participate in professional organizations or conferences to keep abreast of developments in nursing.",0.40,literature review doable but networking needs presence
+18377,Nurse Anesthetists,"Request anesthesia equipment repairs, adjustments, or safety tests.",0.75,administrative repair request drafting
+18378,Nurse Practitioners,"Educate patients about self-management of acute or chronic illnesses, tailoring instructions to patients' individual circumstances.",0.40,patient education benefits from live rapport
+18379,Nurse Practitioners,Schedule follow-up visits to monitor patients or evaluate health or illness care.,0.80,scheduling task across calendars
+18380,Nurse Practitioners,"Counsel patients about drug regimens and possible side effects or interactions with other substances, such as food supplements, over-the-counter (OTC) medications, or herbal remedies.",0.35,medication counseling benefits from human trust
+18381,Nurse Practitioners,"Order, perform, or interpret the results of diagnostic tests, such as complete blood counts (CBCs), electrocardiograms (EKGs), and radiographs (x-rays).",0.25,mix of physical test performance and licensed interpretation
+18382,Nurse Practitioners,"Analyze and interpret patients' histories, symptoms, physical findings, or diagnostic information to develop appropriate diagnoses.",0.15,diagnostic reasoning needs licensed accountability
+18383,Nurse Practitioners,"Diagnose or treat acute health care problems, such as illnesses, infections, or injuries.",0.10,diagnosis and treatment needs licensed authority
+18384,Nurse Practitioners,"Diagnose or treat chronic health care problems, such as high blood pressure and diabetes.",0.10,diagnosis and treatment needs licensed authority
+18385,Nurse Practitioners,"Diagnose or treat complex, unstable, comorbid, episodic, or emergency conditions in collaboration with other health care providers as necessary.",0.12,complex diagnosis needs licensed accountability
+18386,Nurse Practitioners,"Treat or refer patients for primary care conditions, such as headaches, hypertension, urinary tract infections, upper respiratory infections, and dermatological conditions.",0.15,treatment or referral needs licensed judgment
+18387,Nurse Practitioners,"Consult with, or refer patients to, appropriate specialists when conditions exceed the scope of practice or expertise.",0.30,referral coordination needs clinical judgment call
+18388,Nurse Practitioners,"Detect and respond to adverse drug reactions, with special attention to vulnerable populations such as infants, children, pregnant and lactating women, or older adults.",0.10,adverse reaction response needs physical presence and authority
+18389,Nurse Practitioners,"Develop treatment plans, based on scientific rationale, standards of care, and professional practice guidelines.",0.20,treatment planning needs licensed clinical judgment
+18390,Nurse Practitioners,"Perform primary care procedures such as suturing, splinting, administering immunizations, taking cultures, and debriding wounds.",0.00,hands-on physical procedure
+18391,Nurse Practitioners,Perform routine or annual physical examinations.,0.00,hands-on physical examination
+18392,Nurse Practitioners,"Prescribe medications based on efficacy, safety, and cost as legally authorized.",0.05,prescribing requires legal authority
+18393,Nurse Practitioners,"Provide patients with information needed to promote health, reduce risk factors, or prevent disease or disability.",0.55,health information delivery mostly informational
+18394,Nurse Practitioners,"Recommend diagnostic or therapeutic interventions with attention to safety, cost, invasiveness, simplicity, acceptability, adherence, and efficacy.",0.25,recommendation still needs licensed clinical judgment
+18395,Nurse Practitioners,Recommend interventions to modify behavior associated with health risks.,0.45,behavioral recommendations mostly informational
+18396,Nurse Practitioners,"Prescribe medication dosages, routes, and frequencies, based on such patient characteristics as age and gender.",0.05,prescribing requires legal authority
+18397,Nurse Practitioners,Advocate for accessible health care that minimizes environmental health risks.,0.35,advocacy writing possible but needs human representation
+18398,Nurse Practitioners,Provide patients or caregivers with assistance in locating health care resources.,0.70,resource lookup mostly informational
+18399,Nurse Practitioners,Maintain complete and detailed records of patients' health care plans and prognoses.,0.85,record keeping is pure documentation
+18400,Nurse Practitioners,"Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments in nursing.",0.40,literature review doable but networking needs presence
+18401,Nurse Practitioners,"Keep abreast of regulatory processes and payer systems, such as Medicare, Medicaid, managed care, and private sources.",0.75,regulatory research is informational
+18402,Nurse Practitioners,"Maintain current knowledge of state legal regulations for nurse practitioner practice, including reimbursement of services.",0.75,legal regulation research is informational
+18403,Nurse Practitioners,Maintain departmental policies and procedures in areas such as safety and infection control.,0.55,policy documentation with some admin authority needed
+18404,Nurse Practitioners,Supervise or coordinate patient care or support staff activities.,0.15,supervision needs human presence and authority
+18405,Naturopathic Physicians,"Perform mobilizations and high-velocity adjustments to joints or soft tissues, using principles of massage, stretching, or resistance.",0.00,hands-on physical adjustment procedure
+18406,Naturopathic Physicians,"Maintain professional development through activities such as postgraduate education, continuing education, preceptorships, and residency programs.",0.10,requires physical participation in training programs
+18407,Naturopathic Physicians,"Order diagnostic imaging procedures such as radiographs (x-rays), ultrasounds, mammograms, and bone densitometry tests, or refer patients to other health professionals for these procedures.",0.55,ordering or referral is administrative coordination
+18408,Naturopathic Physicians,"Administer treatments or therapies, such as homeopathy, hydrotherapy, Oriental or Ayurvedic medicine, electrotherapy, and diathermy, using physical agents including air, heat, cold, water, sound, or u",0.00,hands-on physical treatment administration
+18409,Naturopathic Physicians,"Administer, dispense, or prescribe natural medicines, such as food or botanical extracts, herbs, dietary supplements, vitamins, nutraceuticals, and amino acids.",0.05,dispensing and prescribing needs physical presence and authority
+18410,Naturopathic Physicians,Conduct physical examinations and physiological function tests for diagnostic purposes.,0.00,hands-on physical examination
+18411,Naturopathic Physicians,Interview patients to document symptoms and health histories.,0.45,patient interview similar to requirements gathering
+18412,Naturopathic Physicians,Educate patients about health care management.,0.40,patient education content
+18413,Naturopathic Physicians,Advise patients about therapeutic exercise and nutritional medicine regimens.,0.45,advisory recommendations mostly informational
+18414,Naturopathic Physicians,"Diagnose health conditions, based on patients' symptoms and health histories, laboratory and diagnostic radiology test results, or other physiological measurements, such as electrocardiograms and elec",0.10,diagnosis needs licensed authority
+18415,Naturopathic Physicians,Perform venipuncture or skin pricking to collect blood samples.,0.00,hands-on blood draw procedure
+18416,Naturopathic Physicians,"Treat minor cuts, abrasions, or contusions.",0.00,hands-on physical wound treatment
+18417,Naturopathic Physicians,Prescribe synthetic drugs under the supervision of medical doctors or within the allowances of regulatory bodies.,0.05,prescribing requires legal authority
+18418,Naturopathic Physicians,"Document patients' histories, including identifying data, chief complaints, illnesses, previous medical or family histories, or psychosocial characteristics.",0.80,documentation is pure info work
+18419,Naturopathic Physicians,"Perform minor surgical procedures, such as removing warts, moles, or cysts, sampling tissues for skin cancer or lipomas, and applying or removing sutures.",0.00,hands-on minor surgery
+18420,Naturopathic Physicians,"Consult with other health professionals to provide optimal patient care, referring patients to traditional health care professionals as necessary.",0.30,professional consultation needs clinical judgment
+18421,Naturopathic Physicians,"Report patterns of patients' health conditions, such as disease status and births, to public health agencies.",0.65,reporting to agencies is mostly administrative
+18422,Naturopathic Physicians,Monitor updates from public health agencies to keep abreast of health trends.,0.80,monitoring public health updates is informational
+18423,Naturopathic Physicians,Conduct periodic public health maintenance activities such as immunizations and screenings for diseases and disease risk factors.,0.00,hands-on immunizations and screenings
+18424,Naturopathic Physicians,Obtain medical records from previous physicians or other health care providers for the purpose of patient evaluation.,0.45,record requests need manual institutional coordination
+18425,Orthoptists,"Assist ophthalmologists in diagnostic ophthalmic procedures, such as ultrasonography, fundus photography, and tonometry.",0.00,hands-on diagnostic assistance
+18426,Orthoptists,"Provide nonsurgical interventions, including corrective lenses, patches, drops, fusion exercises, or stereograms, to treat conditions such as strabismus, heterophoria, and convergence insufficiency.",0.05,mostly physical treatment application
+18427,Orthoptists,"Develop nonsurgical treatment plans for patients with conditions such as strabismus, nystagmus, and other visual disorders.",0.20,treatment planning needs licensed judgment
+18428,Orthoptists,"Perform diagnostic tests or measurements, such as motor testing, visual acuity testing, lensometry, retinoscopy, and color vision testing.",0.00,hands-on diagnostic testing
+18429,Orthoptists,"Examine patients with problems related to ocular motility, binocular vision, amblyopia, or strabismus.",0.00,hands-on physical examination
+18430,Orthoptists,"Evaluate, diagnose, or treat disorders of the visual system with an emphasis on binocular vision or abnormal eye movements.",0.12,diagnosis and treatment needs licensed authority
+18431,Orthoptists,Interpret clinical or diagnostic test results.,0.30,test interpretation needs licensed clinical judgment
+18432,Orthoptists,Provide instructions to patients or family members concerning diagnoses or treatment plans.,0.45,instructional communication with patients
+18433,Orthoptists,Refer patients to ophthalmic surgeons or other physicians.,0.30,referral needs clinical judgment
+18434,Orthoptists,Develop or use special test and communication techniques to facilitate diagnosis and treatment of children or patients with disabilities.,0.15,hands-on adaptive testing techniques
+18435,Orthoptists,"Collaborate with ophthalmologists, optometrists, or other specialists in the diagnosis, treatment, or management of conditions such as glaucoma, cataracts, and retinal diseases.",0.25,professional collaboration needs clinical judgment
+18436,Orthoptists,Prepare diagnostic or treatment reports for other medical practitioners or therapists.,0.80,report writing is informational
+18437,Orthoptists,Participate in clinical research projects.,0.35,research participation partially assistable remotely
+18438,Orthoptists,Present or publish scientific papers.,0.25,publishing needs human authorship and presenting needs presence
+18439,Orthoptists,Perform vision screening of children in schools or community health centers.,0.00,on-site physical vision screening
+18440,Orthoptists,"Provide training related to clinical methods or orthoptics to students, resident physicians, or other health professionals.",0.20,clinical training needs hands-on live instruction
+18441,Nurse Midwives,"Educate patients and family members regarding prenatal, intrapartum, postpartum, newborn, or interconception care.",0.40,patient education content
+18442,Nurse Midwives,"Provide prenatal, intrapartum, postpartum, or newborn care to patients.",0.00,hands-on physical maternity care
+18443,Nurse Midwives,"Document patients' health histories, symptoms, physical conditions, or other diagnostic information.",0.80,documentation is pure info work
+18444,Nurse Midwives,"Monitor fetal development by listening to fetal heartbeat, taking external uterine measurements, identifying fetal position, or estimating fetal size and weight.",0.00,hands-on fetal monitoring
+18445,Nurse Midwives,"Perform physical examinations by taking vital signs, checking neurological reflexes, examining breasts, or performing pelvic examinations.",0.00,hands-on physical examination
+18446,Nurse Midwives,Consult with or refer patients to appropriate specialists when conditions exceed the scope of practice or expertise.,0.30,referral coordination needs clinical judgment
+18447,Nurse Midwives,Develop and implement individualized plans for health care management.,0.15,plan implementation requires hands-on care delivery
+18448,Nurse Midwives,Document findings of physical examinations.,0.85,documentation is pure info work
+18449,Nurse Midwives,"Explain procedures to patients, family members, staff members or others.",0.40,explanatory communication with patients
+18450,Nurse Midwives,Initiate emergency interventions to stabilize patients.,0.00,hands-on emergency stabilization
+18451,Nurse Midwives,Manage newborn care during the first weeks of life.,0.05,hands-on newborn care management
+18452,Nurse Midwives,"Provide primary health care, including pregnancy and childbirth, to women.",0.00,hands-on childbirth and pregnancy care
+18453,Nurse Midwives,Order and interpret diagnostic or laboratory tests.,0.30,ordering and interpreting needs licensed judgment
+18454,Nurse Midwives,Prescribe medications as permitted by state regulations.,0.05,prescribing requires legal authority
+18455,Nurse Midwives,"Provide patients with direct family planning services, such as inserting intrauterine devices, dispensing oral contraceptives, and fitting cervical barriers, including cervical caps or diaphragms.",0.00,hands-on physical procedures
+18456,Nurse Midwives,Write information in medical records or provide narrative summaries to communicate patient information to other health care providers.,0.85,documentation writing is pure info work
+18457,Nurse Midwives,"Conduct clinical research on topics such as maternal or infant health care, contraceptive methods, breastfeeding, and gynecological care.",0.30,research needs human subject interaction beyond analysis
+18458,Nurse Midwives,"Establish practice guidelines for specialty areas such as primary health care of women, care of the childbearing family, and newborn care.",0.40,guideline drafting informational but adoption needs authority
+18459,Nurse Midwives,"Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments in midwifery.",0.40,literature review doable but networking needs presence
+18460,Nurse Midwives,"Plan, provide, or evaluate educational programs for nursing staff, health care teams, or the community.",0.35,planning doable but delivery needs live presence
+18491,Paralegals and Legal Assistants,"Prepare affidavits or other documents, such as legal correspondence, and organize and maintain documents in paper or electronic filing system.",0.75,document drafting and organization mostly info work
+18492,Paralegals and Legal Assistants,Prepare for trial by performing tasks such as organizing exhibits.,0.60,exhibit organization mostly logistics work
+18493,Paralegals and Legal Assistants,Meet with clients and other professionals to discuss details of cases.,0.40,client meeting needs human interaction and trust
+18494,Paralegals and Legal Assistants,File pleadings with court clerks.,0.30,filing needs attorney authorization and signature
+18496,Paralegals and Legal Assistants,"Arbitrate disputes between parties and assist in the real estate closing process, such as by reviewing title searches.",0.30,arbitration needs human trust and authority
+18522,Respiratory Therapists,"Work as part of a team of physicians, nurses, or other healthcare professionals to manage patient care by assisting with medical procedures or related duties.",0.00,hands-on team clinical procedures
+18523,Speech-Language Pathologists,"Evaluate hearing or speech and language test results, barium swallow results, or medical or background information to diagnose and plan treatment for speech, language, fluency, voice, or swallowing di",0.20,diagnostic evaluation needs licensed clinical judgment
+18524,Speech-Language Pathologists,"Write reports and maintain proper documentation of information, such as client Medicaid or billing records or caseload activities, including the initial evaluation, treatment, progress, and discharge ",0.85,documentation and report writing
+18525,Speech-Language Pathologists,"Develop individual or group activities or programs in schools to deal with behavior, speech, language, or swallowing problems.",0.55,program development largely informational drafting
+18526,Speech-Language Pathologists,"Participate in and write reports for meetings regarding patients' progress, such as individualized educational planning (IEP) meetings, in-service meetings, or intervention assistance team meetings.",0.35,meeting participation needs presence report writing is info work
+18527,Speech-Language Pathologists,"Complete administrative responsibilities, such as coordinating paperwork, scheduling case management activities, or writing lesson plans.",0.80,administrative paperwork is info work
+18528,Speech-Language Pathologists,"Educate patients and family members about various topics, such as communication techniques or strategies to cope with or to avoid personal misunderstandings.",0.40,education and counseling content
+18529,Speech-Language Pathologists,"Participate in conferences, training, continuing education courses, or publish research results to share knowledge of new hearing or speech disorder treatment methods or technologies.",0.35,conference participation needs presence research writing is info work
+18530,Speech-Language Pathologists,Supervise or collaborate with therapy team.,0.20,supervision needs human presence and authority
+18531,Speech-Language Pathologists,Consult with and refer clients to additional medical or educational services.,0.35,referral coordination mostly informational with some judgment
+18532,Veterinarians,"Advise animal owners regarding sanitary measures, feeding, general care, medical conditions, or treatment options.",0.45,advisory communication mostly informational
+18533,Veterinarians,"Attend lectures, conferences, or continuing education courses.",0.15,requires human attendance for licensure credit
+18534,Veterinarians,"Perform administrative or business management tasks, such as scheduling appointments, accepting payments from clients, budgeting, or maintaining business records.",0.80,administrative business tasks are info work
+18535,Medical and Clinical Laboratory Technicians,"Set up, maintain, calibrate, clean, and test sterility of medical laboratory equipment.",0.00,hands-on equipment calibration and cleaning
+18536,Dental Hygienists,Record and review patient medical histories.,0.80,record review and documentation
+18537,Dental Hygienists,Provide clinical services or health education to improve and maintain the oral health of patients or the general public.,0.15,primarily physical clinical service
+18538,Dental Hygienists,Maintain dental equipment and sharpen and sterilize dental instruments.,0.00,hands-on equipment maintenance
+18539,Dental Hygienists,Maintain patient recall system.,0.80,administrative recall system is info work
+18544,Pharmacy Technicians,"Prepack bulk medicines, fill bottles with prescribed medications, and type and affix labels.",0.05,physical medication packaging and handling
+18545,Pharmacy Technicians,"Receive and store incoming supplies, verify quantities against invoices, check for outdated medications in current inventory, and inform supervisors of stock needs and shortages.",0.15,mostly physical inventory handling with some info verification
+18546,Pharmacy Technicians,"Restock intravenous (IV) supplies and add measured drugs or nutrients to IV solutions under sterile conditions to prepare IV packs for various uses, such as chemotherapy medication.",0.00,hands-on sterile IV preparation
+18548,Veterinary Technologists and Technicians,Maintain controlled drug inventory and related log books.,0.25,inventory logging with physical controlled substance handling
+18549,Veterinary Technologists and Technicians,Supervise or train veterinary students or other staff members.,0.20,supervision and training needs human presence
+18550,Veterinary Technologists and Technicians,Monitor medical supplies and place orders when inventory is low.,0.75,inventory monitoring and ordering is info work
+18551,"Opticians, Dispensing",Order and purchase frames and lenses.,0.70,ordering and purchasing is administrative task

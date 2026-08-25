@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+21283,Security Managers,"Analyze and evaluate security operations to identify risks or opportunities for improvement through auditing, review, or assessment.",0.85,auditing and analysis of security operations
+21290,Security Managers,"Create or implement security standards, policies, and procedures.",0.65,can draft standards but implementing needs org authority
+21284,Security Managers,Assess risks to mitigate potential consequences of incidents and develop a plan to respond to incidents.,0.80,risk assessment and incident response planning
+21307,Security Managers,"Supervise or provide leadership to subordinate security professionals, performing activities such as hiring, investigating applicants' backgrounds, training, assigning work, evaluating performance, or disciplining.",0.20,hiring discipline and leadership need human authority
+21295,Security Managers,"Develop, implement, manage, or evaluate policies and methods to protect personnel against harassment, threats, or violence.",0.55,policy drafting high but managing personnel protection needs presence
+21296,Security Managers,"Develop, recommend, or manage security procedures for operations or processes, such as security call centers, access control, and reporting tools.",0.55,can develop procedures but managing ops needs oversight presence
+21301,Security Managers,Plan security for special and high-risk events.,0.40,planning aided but on site event coordination needed
+21288,Security Managers,"Conduct threat or vulnerability analyses to determine probable frequency, criticality, consequence, or severity of natural or man-made disasters or criminal activity on the organization's profitability or delivery of products or services.",0.85,threat and vulnerability analysis is information work
+21287,Security Managers,Conduct physical examinations of property to ensure compliance with security policies and regulations.,0.05,requires physical on site examination of property
+21300,Security Managers,"Monitor security policies, programs or procedures to ensure compliance with internal security policies, or applicable government security requirements, policies, and directives.",0.55,compliance monitoring mixes data review and on site checks
+21289,Security Managers,"Coordinate security operations or activities with public law enforcement, fire and other agencies.",0.30,coordination with outside agencies needs human rapport and presence
+21299,Security Managers,"Monitor and ensure a sound, ethical environment.",0.25,ensuring ethical culture needs ongoing human leadership presence
+21310,Security Managers,"Write or review security-related documents, such as incident reports, proposals, and tactical or strategic initiatives.",0.90,pure document writing and review
+21286,Security Managers,"Communicate security status, updates, and actual or potential problems, using established protocols.",0.65,status communication mostly drafting but some real time interaction
+21309,Security Managers,Train subordinate security professionals or other organization members in security rules and procedures.,0.35,training delivery needs human presence and authority
+21292,Security Managers,"Develop or manage investigation programs, including collection and preservation of video and notes of surveillance processes or investigative interviews.",0.30,investigative interviews need human rapport and physical presence
+21303,Security Managers,"Prepare reports or make presentations on internal investigations, losses, or violations of regulations, policies and procedures.",0.70,report prep high but live presentation needs human presence
+21285,Security Managers,"Attend meetings, professional seminars, or conferences to keep abreast of changes in executive legislative directives or new technologies impacting security operations.",0.20,attending meetings and conferences requires physical presence
+21304,Security Managers,"Purchase security-related supplies, equipment, or technology.",0.40,purchasing needs authorized human approval of funds
+21293,Security Managers,"Develop, arrange for, perform, or assess executive protection activities to reduce security risks.",0.10,executive protection is physical bodyguard work
+21306,Security Managers,Review financial reports to ensure efficiency and quality of security operations.,0.85,financial report review is analysis work
+21294,Security Managers,"Develop, conduct, support, or assist in governmental reviews, internal corporate evaluations, or assessments of the overall effectiveness of facility and personnel security processes.",0.70,assessment and evaluation work mostly information based
+21308,Security Managers,Support efforts to reduce substance abuse or other illegal activities in the workplace.,0.20,substance abuse efforts need human intervention and presence
+968,Computer and Information Systems Managers,"Direct daily operations of department, analyzing workflow, establishing priorities, developing standards and setting deadlines.",0.30,directing daily operations needs ongoing human management
+975,Computer and Information Systems Managers,"Meet with department heads, managers, supervisors, vendors, and others, to solicit cooperation and resolve problems.",0.30,meetings to solicit cooperation need human rapport
+978,Computer and Information Systems Managers,Review project plans to plan and coordinate project activity.,0.55,reviewing plans is analysis but coordination needs interaction
+969,Computer and Information Systems Managers,"Assign and review the work of systems analysts, programmers, and other computer-related workers.",0.35,assigning and reviewing staff work needs management authority
+15198,Computer and Information Systems Managers,Provide users with technical support for computer problems.,0.85,technical support is well suited to an agent
+971,Computer and Information Systems Managers,"Develop computer information resources, providing for data security and control, strategic computing, and disaster recovery.",0.75,developing information resource strategy is planning work
+977,Computer and Information Systems Managers,"Recruit, hire, train and supervise staff, or participate in staffing decisions.",0.15,hiring and supervising staff needs human authority
+970,Computer and Information Systems Managers,Stay abreast of advances in technology.,0.90,staying current on technology is research work
+967,Computer and Information Systems Managers,"Consult with users, management, vendors, and technicians to assess computing needs and system requirements.",0.45,consulting to assess needs requires live stakeholder interaction
+976,Computer and Information Systems Managers,"Develop and interpret organizational goals, policies, and procedures.",0.60,developing goals and policies is drafting work
+973,Computer and Information Systems Managers,"Evaluate the organization's technology use and needs and recommend improvements, such as hardware and software upgrades.",0.85,evaluating tech needs and recommending upgrades is analysis
+972,Computer and Information Systems Managers,Review and approve all systems charts and programs prior to their implementation.,0.35,approving systems before implementation needs sign off authority
+980,Computer and Information Systems Managers,Prepare and review operational reports or project progress reports.,0.90,preparing and reviewing reports is pure writing
+979,Computer and Information Systems Managers,Evaluate data processing proposals to assess project feasibility and requirements.,0.85,evaluating proposals for feasibility is analysis work
+974,Computer and Information Systems Managers,Control operational budget and expenditures.,0.30,controlling budget and expenditures needs fiduciary authority
+981,Computer and Information Systems Managers,Purchase necessary equipment.,0.35,purchasing equipment needs authorized approval
+966,Computer and Information Systems Managers,"Manage backup, security and user help systems.",0.70,managing backup and security systems is largely technical work
+21311,Financial Managers,Establish and maintain relationships with individual or business customers or provide assistance with problems these customers may encounter.,0.35,customer relationship maintenance needs human rapport
+21319,Financial Managers,Oversee the flow of cash or financial instruments.,0.25,overseeing cash flow needs fiduciary human responsibility
+21312,Financial Managers,"Plan, direct, or coordinate the activities of workers in branches, offices, or departments of establishments, such as branch banks, brokerage firms, risk and insurance departments, or credit departments.",0.25,directing branch activities needs ongoing human management
+21313,Financial Managers,Recruit staff members.,0.15,recruiting staff needs human hiring authority
+21315,Financial Managers,Evaluate data pertaining to costs to plan budgets.,0.85,evaluating cost data to plan budgets is analysis
+21316,Financial Managers,Oversee training programs.,0.40,overseeing training programs needs human oversight
+21327,Financial Managers,"Establish procedures for custody or control of assets, records, loan collateral, or securities to ensure safekeeping.",0.45,establishing custody procedures mixes drafting and fiduciary duty
+21322,Financial Managers,Communicate with stockholders or other investors to provide information or to raise capital.,0.25,communicating with investors to raise capital needs trust and authority
+21321,Financial Managers,Develop or analyze information to assess the current or future financial status of firms.,0.85,analyzing financial status is information work
+21318,Financial Managers,"Approve, reject, or coordinate the approval or rejection of lines of credit or commercial, real estate, or personal loans.",0.20,approving loans needs fiduciary decision authority
+21320,Financial Managers,"Prepare financial or regulatory reports required by laws, regulations, or boards of directors.",0.75,preparing regulatory reports is largely drafting work
+21317,Financial Managers,"Examine, evaluate, or process loan applications.",0.70,examining and processing loan applications is data work
+21323,Financial Managers,"Evaluate financial reporting systems, accounting or collection procedures, or investment activities and make recommendations for changes to procedures, operating systems, budgets, or other financial control functions.",0.85,evaluating systems and making recommendations is analysis
+21325,Financial Managers,Network within communities to find and attract new business.,0.20,networking to attract business needs in person presence
+21314,Financial Managers,Prepare operational or risk reports for management analysis.,0.90,preparing risk reports is pure writing
+21326,Financial Managers,Review collection reports to determine the status of collections and the amounts of outstanding balances.,0.85,reviewing collection reports is analysis work
+21329,Financial Managers,Review reports of securities transactions or price lists to analyze market conditions.,0.85,reviewing securities reports is analysis work
+8870,Treasurers and Controllers,Evaluate needs for procurement of funds and investment of surpluses and make appropriate recommendations.,0.80,evaluating fund needs and recommending actions is analysis
+8858,Treasurers and Controllers,"Delegate authority for the receipt, disbursement, banking, protection, and custody of funds, securities, and financial instruments.",0.15,delegating fiduciary authority requires human accountability
+8864,Treasurers and Controllers,"Develop and maintain relationships with banking, insurance, and external accounting personnel to facilitate financial activities.",0.30,maintaining banking relationships needs human rapport
+20168,Treasurers and Controllers,"Monitor financial activities and details, such as cash flow and reserve levels, to ensure that all legal and regulatory requirements are met.",0.75,monitoring cash flow for compliance is data analysis
+8861,Treasurers and Controllers,"Receive, record, and authorize requests for disbursements in accordance with company policies and procedures.",0.25,authorizing disbursements needs fiduciary human authority
+8866,Treasurers and Controllers,"Develop internal control policies, guidelines, and procedures for activities, such as budget administration, cash and credit management, and accounting.",0.70,developing internal control policies is drafting work
+8865,Treasurers and Controllers,"Coordinate and direct the financial planning, budgeting, procurement, or investment activities of all or part of an organization.",0.30,directing financial planning activities needs human management
+8872,Treasurers and Controllers,Receive cash and checks and make deposits.,0.05,receiving cash and making deposits is physical work
+8856,Treasurers and Controllers,"Prepare or direct preparation of financial statements, business activity reports, financial position forecasts, annual budgets, or reports required by regulatory agencies.",0.80,preparing financial statements and reports is drafting work
+8863,Treasurers and Controllers,"Monitor and evaluate the performance of accounting and other financial staff, recommending and implementing personnel actions, such as promotions and dismissals.",0.15,evaluating staff and personnel actions needs human authority
+8867,Treasurers and Controllers,"Analyze the financial details of past, present, and expected operations to identify development opportunities and areas where improvement is needed.",0.85,analyzing financial details is information work
+8860,Treasurers and Controllers,Conduct or coordinate audits of company accounts and financial transactions to ensure compliance with state and federal requirements and statutes.,0.65,audits are largely analysis but need independent human authority
+8868,Treasurers and Controllers,"Advise management on short-term and long-term financial objectives, policies, and actions.",0.80,advising management on objectives is analysis and writing
+8859,Treasurers and Controllers,"Maintain current knowledge of organizational policies and procedures, federal and state policies and directives, and current accounting standards.",0.90,maintaining current knowledge is research work
+8869,Treasurers and Controllers,Provide direction and assistance to other organizational units regarding accounting and budgeting policies and procedures and efficient control and utilization of financial resources.,0.55,providing direction to other units needs interactive advisory work
+8871,Treasurers and Controllers,Lead staff training and development in budgeting and financial management areas.,0.30,leading staff training needs human presence
+8855,Treasurers and Controllers,Prepare and file annual tax returns or prepare financial information so that outside accountants can complete tax returns.,0.65,preparing tax info is doable but filing needs authorized signer
+8857,Treasurers and Controllers,"Supervise employees performing financial reporting, accounting, billing, collections, payroll, and budgeting duties.",0.25,supervising employees needs human management authority
+8874,Treasurers and Controllers,Perform tax planning work.,0.75,tax planning is analysis work
+8873,Treasurers and Controllers,"Compute, withhold, and account for all payroll deductions.",0.90,computing payroll deductions is computational work
+20169,Treasurers and Controllers,"Handle all aspects of employee insurance, benefits, and casualty programs, including monitoring changes in health insurance regulations and creating budgets for benefits and worker's compensation.",0.65,benefits administration mixes research admin and budget creation
+8875,Treasurers and Controllers,"Determine depreciation rates to apply to capitalized items and advise management on actions regarding the purchase, lease, or disposal of such items.",0.80,determining depreciation and advising is analysis work
+15678,Investment Fund Managers,Manage investment funds to maximize return on client investments.,0.30,managing investment funds carries fiduciary decision responsibility
+15679,Investment Fund Managers,Select specific investments or investment mixes for purchase by an investment fund.,0.35,selecting investments involves fiduciary decision responsibility
+15669,Investment Fund Managers,Monitor financial or operational performance of individual investments to ensure portfolios meet risk goals.,0.75,monitoring portfolio performance is analysis work
+15676,Investment Fund Managers,Select or direct the execution of trades.,0.35,directing trade execution carries fiduciary responsibility
+15675,Investment Fund Managers,Develop or implement fund investment policies or strategies.,0.55,developing investment strategy is analysis but needs sign off
+15667,Investment Fund Managers,"Perform or evaluate research, such as detailed company or industry analyses, to inform financial forecasting, decision making, or valuation.",0.90,research and valuation analysis is information work
+15668,Investment Fund Managers,"Present investment information, such as product risks, fees, or fund performance statistics.",0.65,presenting investment info prep high live delivery lower
+15664,Investment Fund Managers,"Develop, implement, or monitor security valuation policies.",0.65,developing valuation policy is analysis and drafting
+15671,Investment Fund Managers,Meet with investors to determine investment goals or to discuss investment strategies.,0.35,meeting investors needs human rapport and trust
+15665,Investment Fund Managers,Attend investment briefings or consult financial media to stay abreast of relevant investment markets.,0.80,consulting media and briefings is research work
+15660,Investment Fund Managers,Prepare for and respond to regulatory inquiries.,0.55,prep is doable but responding to regulators needs authority
+15674,Investment Fund Managers,"Evaluate the potential of new product developments or market opportunities, according to factors such as business plans, technologies, or market potential.",0.85,evaluating product and market potential is analysis
+15662,Investment Fund Managers,Hire or evaluate staff.,0.15,hiring and evaluating staff needs human authority
+15670,Investment Fund Managers,Monitor regulatory or tax law changes to ensure fund compliance or to capitalize on development opportunities.,0.85,monitoring regulatory changes is research work
+15673,Investment Fund Managers,Develop or direct development of offering documents or marketing materials.,0.75,drafting offering documents is writing work
+15677,Investment Fund Managers,Analyze acquisitions to ensure conformance with strategic goals or regulatory requirements.,0.85,analyzing acquisitions is information work
+15661,Investment Fund Managers,Verify regulatory compliance of transaction reporting.,0.75,verifying compliance of reporting is data based checking
+15666,Investment Fund Managers,Review offering documents or marketing materials to ensure regulatory compliance.,0.75,reviewing documents for compliance is review work
+15672,Investment Fund Managers,Identify group or individual target investors for a specific fund.,0.70,identifying target investors is research and analysis
+15663,Investment Fund Managers,Direct activities of accounting or operations departments.,0.25,directing departments needs ongoing human management
+39,Industrial Production Managers,"Set and monitor product standards, examining samples of raw products or directing testing during processing, to ensure finished products are of prescribed quality.",0.20,examining samples and directing testing needs physical presence
+32,Industrial Production Managers,"Direct or coordinate production, processing, distribution, or marketing activities of industrial organizations.",0.20,directing industrial production operations needs physical oversight
+34,Industrial Production Managers,"Review processing schedules or production orders to make decisions concerning inventory requirements, staffing requirements, work procedures, or duty assignments, considering budgetary limitations and time constraints.",0.60,reviewing schedules and orders is largely data driven planning
+35,Industrial Production Managers,Review operations and confer with technical or administrative staff to resolve production or processing problems.,0.35,conferring with staff to resolve problems needs human interaction
+36,Industrial Production Managers,"Hire, train, evaluate, or discharge staff or resolve personnel grievances.",0.10,hiring training discharging staff needs human authority
+40,Industrial Production Managers,"Develop or implement production tracking or quality control systems, analyzing production, quality control, maintenance, or other operational reports to detect production problems.",0.75,developing tracking systems and analyzing reports is analysis
+38,Industrial Production Managers,Prepare and maintain production reports or personnel records.,0.85,preparing production and personnel reports is writing
+41,Industrial Production Managers,Review plans and confer with research or support staff to develop new products or processes.,0.40,conferring with staff on new products needs human interaction
+33,Industrial Production Managers,"Develop budgets or approve expenditures for supplies, materials, or human resources, ensuring that materials, labor, or equipment are used efficiently to meet production targets.",0.45,developing budgets is doable but approving expenditures needs authority
+44,Industrial Production Managers,"Maintain current knowledge of the quality control field, relying on current literature pertaining to materials use, technological advances, or statistical studies.",0.90,maintaining current knowledge is research work
+43,Industrial Production Managers,"Coordinate or recommend procedures for facility or equipment maintenance or modification, including the replacement of machines.",0.45,recommending procedures high but coordinating physical maintenance lower
+37,Industrial Production Managers,Initiate or coordinate inventory or cost control programs.,0.45,coordinating inventory programs needs organizational interaction
+45,Industrial Production Managers,Negotiate materials prices with suppliers.,0.35,negotiating prices with suppliers needs human negotiation
+21332,Industrial Production Managers,Conduct site audits to ensure adherence to safety and environmental regulations.,0.15,site audits require physical on site presence
+21333,Industrial Production Managers,Develop or enforce procedures for normal operation of manufacturing systems.,0.45,developing procedures is drafting but enforcement needs presence
+21334,Industrial Production Managers,Implement operational and emergency procedures.,0.25,implementing operational and emergency procedures needs physical action
+21335,Industrial Production Managers,"Maintain records to demonstrate compliance with safety and environmental laws, regulations, or policies.",0.80,maintaining compliance records is documentation work
+21336,Industrial Production Managers,Monitor permit requirements for updates.,0.90,monitoring permit requirements is research work
+21337,Industrial Production Managers,Optimize operational costs and productivity consistent with safety and environmental rules and regulations.,0.75,optimizing costs and productivity is analysis work
+21338,Industrial Production Managers,Prepare reports on operations and system productivity or efficiency.,0.90,preparing operations reports is pure writing
+21339,Industrial Production Managers,Supervise subordinate employees.,0.15,supervising employees needs human authority
+15405,Quality Control Systems Managers,Stop production if serious product defects are present.,0.15,stopping production requires physical authority on the line
+15415,Quality Control Systems Managers,Review and update standard operating procedures or quality assurance manuals.,0.85,reviewing and updating procedure manuals is writing
+15430,Quality Control Systems Managers,Monitor performance of quality control systems to ensure effectiveness and efficiency.,0.75,monitoring quality system performance is analysis work
+15414,Quality Control Systems Managers,Review quality documentation necessary for regulatory submissions and inspections.,0.80,reviewing quality documentation is review work
+15428,Quality Control Systems Managers,Analyze quality control test results and provide feedback and interpretation to production management or staff.,0.75,analyzing test results and giving feedback is analysis
+15413,Quality Control Systems Managers,"Verify that raw materials, purchased parts or components, in-process samples, and finished products meet established testing and inspection standards.",0.20,verifying materials and products needs physical inspection
+15429,Quality Control Systems Managers,"Oversee workers including supervisors, inspectors, or laboratory workers engaged in testing activities.",0.15,overseeing testing workers needs human supervision authority
+15431,Quality Control Systems Managers,Direct product testing activities throughout production cycles.,0.20,directing physical testing activities needs on site presence
+15421,Quality Control Systems Managers,Instruct staff in quality control and analytical procedures.,0.30,instructing staff needs human presence and delivery
+15424,Quality Control Systems Managers,"Direct the tracking of defects, test results, or other regularly reported quality control data.",0.65,directing data tracking is largely information work

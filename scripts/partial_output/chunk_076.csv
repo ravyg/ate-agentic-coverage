@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+6185,"Library Science Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",0.55,can select materials but obtaining needs purchasing authority
+6182,"Library Science Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.20,requires ongoing human supervisory authority
+20089,"Library Science Teachers, Postsecondary",Develop and teach online courses.,0.50,can build course content but teaching needs human presence
+6179,"Library Science Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.30,requires interpersonal collaboration with colleagues
+6188,"Library Science Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,pure literature research and compilation
+20090,"Library Science Teachers, Postsecondary",Edit manuscripts for professional journals.,0.80,text editing agent can perform well
+6186,"Library Science Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional presence and decision authority
+6183,"Library Science Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.20,requires live scheduled presence for students
+6184,"Library Science Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.80,primarily writing though PI must sign and submit
+6189,"Library Science Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,requires institutional leadership authority
+6187,"Library Science Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.25,in person recruitment and interpersonal activity
+6190,"Library Science Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical presence at events
+6191,"Library Science Teachers, Postsecondary",Act as advisers to student organizations.,0.20,requires ongoing personal mentorship and presence
+21123,"Library Science Teachers, Postsecondary",Select and invite guest speakers to speak to classes.,0.60,can research and draft invites but relies on human relationships
+6192,"Library Science Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.25,requires professional accountability and client relationship
+6197,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as criminal law, defensive policing, and investigation techniques.",0.40,can draft lecture content but live delivery needs presence
+6193,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.25,requires live in classroom facilitation
+6195,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",0.75,text based grading agent can perform
+6196,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.45,compiling and grading feasible but administering needs presence
+6194,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.55,reading literature feasible but conferences need presence
+6202,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,clerical record keeping agent handles well
+6198,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,pure content creation task
+6200,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",0.80,curriculum design is largely intellectual work
+6205,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.20,requires live scheduled presence for students
+6204,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.35,career advising benefits from human rapport
+6206,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.30,requires interpersonal collaboration with colleagues
+6210,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.25,in person recruitment and interpersonal activity
+6203,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",0.55,can select materials but obtaining needs purchasing authority
+21124,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Write letters of recommendation for students.,0.45,drafting text but needs authentic personal endorsement
+6208,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional presence and decision authority
+6209,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,pure literature research and compilation
+6213,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical presence at events
+6199,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.65,can research and write though scholarship needs human authorship
+6201,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.20,requires ongoing human supervisory authority
+6212,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,requires institutional leadership authority
+6214,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Act as advisers to student organizations.,0.20,requires ongoing personal mentorship and presence
+6207,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.80,primarily writing though PI must sign and submit
+6211,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.25,requires professional accountability and client relationship
+6218,"Law Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.25,requires live in classroom facilitation
+6215,"Law Teachers, Postsecondary","Evaluate and grade students' class work, assignments, papers, and oral presentations.",0.65,grading text feasible but oral presentations need live judgment
+6219,"Law Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,pure content creation task
+6216,"Law Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.45,compiling and grading feasible but administering needs presence
+6220,"Law Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.55,reading literature feasible but conferences need presence
+6217,"Law Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as civil procedure, contracts, and torts.",0.40,can draft lecture content but live delivery needs presence
+6227,"Law Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,clerical record keeping agent handles well
+6223,"Law Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.65,can research and write though scholarship needs human authorship
+6221,"Law Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",0.80,curriculum design is largely intellectual work
+6222,"Law Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.20,requires live scheduled presence for students
+6226,"Law Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",0.55,can select materials but obtaining needs purchasing authority
+6224,"Law Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.35,career advising benefits from human rapport
+6235,"Law Teachers, Postsecondary",Assign cases for students to hear and try.,0.75,selecting and assigning case materials is text based
+6225,"Law Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.20,requires ongoing human supervisory authority
+6230,"Law Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.30,requires interpersonal collaboration with colleagues
+6228,"Law Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional presence and decision authority
+6234,"Law Teachers, Postsecondary",Act as advisers to student organizations.,0.20,requires ongoing personal mentorship and presence
+6231,"Law Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.25,in person recruitment and interpersonal activity
+6229,"Law Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,requires institutional leadership authority
+6233,"Law Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical presence at events
+6232,"Law Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,pure literature research and compilation
+6237,"Law Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.80,primarily writing though PI must sign and submit
+6236,"Law Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.25,requires professional accountability and client relationship
+6238,"Social Work Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.25,requires live in classroom facilitation
+6244,"Social Work Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, or handouts.",0.90,pure content creation task
+6249,"Social Work Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.45,compiling and grading feasible but administering needs presence
+6243,"Social Work Teachers, Postsecondary",Supervise students' laboratory and field work.,0.10,requires physical presence for lab and field supervision
+6240,"Social Work Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as family behavior, child and adolescent mental health, or social intervention evaluation.",0.40,can draft lecture content but live delivery needs presence
+6245,"Social Work Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.20,requires ongoing human supervisory authority
+6239,"Social Work Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",0.75,text based grading agent can perform
+6247,"Social Work Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",0.80,curriculum design is largely intellectual work
+6241,"Social Work Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.55,reading literature feasible but conferences need presence
+6248,"Social Work Teachers, Postsecondary",Collaborate with colleagues and community agencies to address teaching and research issues.,0.30,requires interpersonal collaboration with colleagues
+6250,"Social Work Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.35,career advising benefits from human rapport
+6251,"Social Work Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,clerical record keeping agent handles well
+6246,"Social Work Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.20,requires live scheduled presence for students
+6257,"Social Work Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.25,in person recruitment and interpersonal activity
+6255,"Social Work Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,pure literature research and compilation
+6256,"Social Work Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks or laboratory equipment.",0.55,can select materials but obtaining needs purchasing authority
+6253,"Social Work Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional presence and decision authority
+23911,"Social Work Teachers, Postsecondary",Mentor new faculty members.,0.20,personal mentoring relationship needs human presence
+6258,"Social Work Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical presence at events
+6260,"Social Work Teachers, Postsecondary",Act as advisers to student organizations.,0.20,requires ongoing personal mentorship and presence
+6242,"Social Work Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.65,can research and write though scholarship needs human authorship
+6254,"Social Work Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,requires institutional leadership authority
+6252,"Social Work Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.80,primarily writing though PI must sign and submit
+6259,"Social Work Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.25,requires professional accountability and client relationship
+6262,"Art, Drama, and Music Teachers, Postsecondary",Explain and demonstrate artistic techniques.,0.10,requires physical demonstration of technique
+6261,"Art, Drama, and Music Teachers, Postsecondary","Evaluate and grade students' class work, performances, projects, assignments, and papers.",0.55,grading feasible but live performance evaluation needs presence
+6263,"Art, Drama, and Music Teachers, Postsecondary","Prepare students for performances, exams, or assessments.",0.25,coaching for live performance needs presence
+6267,"Art, Drama, and Music Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.25,requires live in classroom facilitation
+6264,"Art, Drama, and Music Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as acting techniques, fundamentals of music, and art history.",0.40,can draft lecture content but live delivery needs presence
+6266,"Art, Drama, and Music Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,pure content creation task
+6270,"Art, Drama, and Music Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,clerical record keeping agent handles well
+6268,"Art, Drama, and Music Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.55,reading literature feasible but conferences need presence
+6273,"Art, Drama, and Music Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",0.80,curriculum design is largely intellectual work
+6275,"Art, Drama, and Music Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.45,compiling and grading feasible but administering needs presence
+6274,"Art, Drama, and Music Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.20,requires live scheduled presence for students
+6277,"Art, Drama, and Music Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks and performance pieces.",0.55,can select materials but obtaining needs purchasing authority
+6276,"Art, Drama, and Music Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.25,in person recruitment and interpersonal activity
+6278,"Art, Drama, and Music Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.30,requires interpersonal collaboration with colleagues
+6269,"Art, Drama, and Music Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.35,career advising benefits from human rapport
+6283,"Art, Drama, and Music Teachers, Postsecondary","Display students' work in schools, galleries, and exhibitions.",0.05,requires physical display and installation
+6280,"Art, Drama, and Music Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical presence at events
+6281,"Art, Drama, and Music Teachers, Postsecondary","Keep students informed of community events, such as plays and concerts.",0.85,informational communication task
+6279,"Art, Drama, and Music Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional presence and decision authority
+6285,"Art, Drama, and Music Teachers, Postsecondary",Act as advisers to student organizations.,0.20,requires ongoing personal mentorship and presence
+6265,"Art, Drama, and Music Teachers, Postsecondary",Organize performance groups and direct their rehearsals.,0.10,directing live rehearsals needs physical presence
+6272,"Art, Drama, and Music Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.20,requires ongoing human supervisory authority
+6284,"Art, Drama, and Music Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,requires institutional leadership authority
+21125,"Art, Drama, and Music Teachers, Postsecondary",Maintain or repair studio facilities.,0.00,physical maintenance and repair work
+6271,"Art, Drama, and Music Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.65,can research and write though scholarship needs human authorship
+6286,"Art, Drama, and Music Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.80,primarily writing though PI must sign and submit
+6282,"Art, Drama, and Music Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,pure literature research and compilation
+6287,"Art, Drama, and Music Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.25,requires professional accountability and client relationship
+6288,"Communications Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",0.75,text based grading agent can perform
+6290,"Communications Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.25,requires live in classroom facilitation
+6292,"Communications Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.45,compiling and grading feasible but administering needs presence
+6289,"Communications Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,pure content creation task
+6291,"Communications Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as public speaking, media criticism, and oral traditions.",0.40,can draft lecture content but live delivery needs presence
+6293,"Communications Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,clerical record keeping agent handles well
+6294,"Communications Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",0.80,curriculum design is largely intellectual work
+6295,"Communications Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.20,requires live scheduled presence for students
+6297,"Communications Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.35,career advising benefits from human rapport
+6299,"Communications Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",0.55,can select materials but obtaining needs purchasing authority
+6300,"Communications Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.30,requires interpersonal collaboration with colleagues
+6302,"Communications Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.25,in person recruitment and interpersonal activity
+20091,"Communications Teachers, Postsecondary","Keep abreast of developments and technological advances in the communication field by reading current literature, talking with colleagues, and participating in professional conferences.",0.55,reading literature feasible but conferences need presence
+6303,"Communications Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,requires institutional presence and decision authority
+6306,"Communications Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical presence at events
+6301,"Communications Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.65,can research and write though scholarship needs human authorship
+6305,"Communications Teachers, Postsecondary",Act as advisers to student organizations.,0.20,requires ongoing personal mentorship and presence

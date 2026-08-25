@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+16497,Microsystems Engineers,"Investigate characteristics such as cost, performance, or process capability of potential microelectromechanical systems (MEMS) device designs, using simulation or modeling software.",0.85,simulation and modeling analysis
+16492,Microsystems Engineers,"Create or maintain formal engineering documents, such as schematics, bills of materials, components or materials specifications, or packaging requirements.",0.85,engineering documentation and schematics
+16505,Microsystems Engineers,"Conduct analyses addressing issues such as failure, reliability, or yield improvement.",0.80,data analysis for failure and reliability
+16485,Microsystems Engineers,Plan or schedule engineering research or development projects involving microelectromechanical systems (MEMS) technology.,0.70,planning and scheduling projects
+16495,Microsystems Engineers,"Propose product designs involving microelectromechanical systems (MEMS) technology, considering market data or customer requirements.",0.70,draft design proposals from data
+16502,Microsystems Engineers,"Develop formal documentation for microelectromechanical systems (MEMS) devices, including quality assurance guidance, quality control protocols, process control checklists, data collection, or reporting.",0.85,formal QA/QC documentation
+16490,Microsystems Engineers,Communicate operating characteristics or performance experience to other engineers or designers for training or new product development purposes.,0.75,written communication of performance data
+16498,Microsystems Engineers,"Evaluate materials, fabrication methods, joining methods, surface treatments, or packaging to ensure acceptable processing, performance, cost, sustainability, or availability.",0.75,evaluate materials and methods via analysis
+16494,Microsystems Engineers,"Refine final microelectromechanical systems (MEMS) design to optimize design for target dimensions, physical tolerances, or processing constraints.",0.75,refine design via simulation
+16508,Microsystems Engineers,"Conduct harsh environmental testing, accelerated aging, device characterization, or field trials to validate devices, using inspection tools, testing protocols, peripheral instrumentation, or modeling and simulation software.",0.25,hands-on lab testing and field trials
+16489,Microsystems Engineers,"Develop or file intellectual property and patent disclosure or application documents related to microelectromechanical systems (MEMS) devices, products, or systems.",0.55,draft IP docs but filing needs legal authority
+16504,Microsystems Engineers,Conduct or oversee the conduct of prototype development or microfabrication activities to ensure compliance to specifications and promote effective production processes.,0.15,physical microfabrication oversight
+16506,Microsystems Engineers,Conduct experimental or virtual studies to investigate characteristics and processing principles of potential microelectromechanical systems (MEMS) technology.,0.45,mix of physical experiments and virtual studies
+16499,Microsystems Engineers,"Devise microelectromechanical systems (MEMS) production methods, such as integrated circuit fabrication, lithographic electroform modeling, or micromachining.",0.55,devise production methods conceptually
+16500,Microsystems Engineers,"Develop or validate specialized materials characterization procedures, such as thermal withstand, fatigue, notch sensitivity, abrasion, or hardness tests.",0.40,develop test procedures but validation needs physical testing
+16507,Microsystems Engineers,"Validate fabrication processes for microelectromechanical systems (MEMS), using statistical process control implementation, virtual process simulations, data mining, or life testing.",0.45,mix of simulation and physical life testing
+16491,Microsystems Engineers,"Demonstrate miniaturized systems that contain components, such as microsensors, microactuators, or integrated electronic circuits, fabricated on silicon or silicon carbide wafers.",0.10,physical demonstration of hardware
+16484,Microsystems Engineers,Manage new product introduction projects to ensure effective deployment of microelectromechanical systems (MEMS) devices or applications.,0.35,project management needing human coordination
+16493,Microsystems Engineers,"Conduct acceptance tests, vendor-qualification protocols, surveys, audits, corrective-action reviews, or performance monitoring of incoming materials or components to ensure conformance to specifications.",0.35,physical acceptance testing and audits
+16486,Microsystems Engineers,"Develop or implement microelectromechanical systems (MEMS) processing tools, fixtures, gages, dies, molds, or trays.",0.15,physical tooling development
+16488,Microsystems Engineers,"Develop customer documentation, such as performance specifications, training manuals, or operating instructions.",0.90,pure documentation writing
+16487,Microsystems Engineers,"Identify, procure, or develop test equipment, instrumentation, or facilities for characterization of microelectromechanical systems (MEMS) applications.",0.35,procuring and building physical test equipment
+16501,Microsystems Engineers,"Develop or validate product-specific test protocols, acceptance thresholds, or inspection tools for quality control testing or performance measurement.",0.45,protocol drafting but validation needs physical testing
+16496,Microsystems Engineers,"Oversee operation of microelectromechanical systems (MEMS) fabrication or assembly equipment, such as handling, singulation, assembly, wire-bonding, soldering, or package sealing.",0.10,physical oversight of fabrication equipment
+19656,Microsystems Engineers,Consider environmental issues when proposing product designs involving microelectromechanical systems (MEMS) technology.,0.75,research and consider environmental factors in design
+19657,Microsystems Engineers,"Design or develop energy products using nanomaterials or nanoprocesses, such as micro-nano machining.",0.40,design work with physical micro-nano machining
+19658,Microsystems Engineers,"Design or develop industrial air quality microsystems, such as carbon dioxide fixing devices.",0.55,conceptual design of microsystems
+19659,Microsystems Engineers,"Design or develop sensors to reduce the energy or resource requirements to operate appliances, such as washing machines or dishwashing machines.",0.60,sensor design work
+19660,Microsystems Engineers,Design sensors or switches that require little or no power to operate for environmental monitoring or industrial metering applications.,0.60,sensor design work
+19661,Microsystems Engineers,"Research or develop emerging microelectromechanical (MEMS) systems to convert nontraditional energy sources into power, such as ambient energy harvesters that convert environmental vibrations into usable energy.",0.50,research and design of energy harvesters
+18195,Photonics Engineers,Analyze system performance or operational requirements.,0.85,analytical performance requirements
+18200,Photonics Engineers,"Develop optical or imaging systems, such as optical imaging products, optical components, image processes, signal process technologies, or optical systems.",0.45,develop optical systems includes physical hardware
+18199,Photonics Engineers,Develop or test photonic prototypes or models.,0.30,physical prototype testing
+18194,Photonics Engineers,"Design, integrate, or test photonics systems or components.",0.40,design plus physical integration and testing
+18202,Photonics Engineers,Assist in the transition of photonic prototypes to production.,0.25,physical production transition support
+18205,Photonics Engineers,"Read current literature, talk with colleagues, continue education, or participate in professional organizations or conferences to keep abreast of developments in the field.",0.40,reading is easy but conferences need presence
+21055,Photonics Engineers,Write reports or proposals related to photonics research or development projects.,0.90,pure report writing
+18196,Photonics Engineers,Conduct testing to determine functionality or optimization or to establish limits of photonics systems or components.,0.25,physical testing of components
+18198,Photonics Engineers,Determine applications of photonics appropriate to meet product objectives or features.,0.75,analytical determination of applications
+18193,Photonics Engineers,Conduct research on new photonics technologies.,0.70,literature and simulation research
+18189,Photonics Engineers,Design electro-optical sensing or imaging systems.,0.60,design work
+21056,Photonics Engineers,"Document photonics system or component design processes, including objectives, issues, or outcomes.",0.90,documentation of design process
+19664,Photonics Engineers,"Design photonics products, such as light sources, displays, or photovoltaics, to achieve increased energy efficiency.",0.55,photonics product design
+18206,Photonics Engineers,"Train operators, engineers, or other personnel.",0.35,in-person training of personnel
+18188,Photonics Engineers,"Analyze, fabricate, or test fiber-optic links.",0.35,fabrication and physical testing of fiber links
+18197,Photonics Engineers,"Design gas lasers, solid state lasers, infrared, or other light emitting or light sensitive devices.",0.55,laser device design
+18203,Photonics Engineers,Create or maintain photonic design histories.,0.85,design history documentation
+18204,Photonics Engineers,"Oversee or provide expertise on manufacturing, assembly, or fabrication processes.",0.35,oversight of physical manufacturing processes
+18192,Photonics Engineers,"Determine commercial, industrial, scientific, or other uses for electro-optical applications or devices.",0.75,analytical determination of applications
+19665,Photonics Engineers,Design solar energy photonics or other materials or devices to generate energy.,0.55,solar photonics design
+19663,Photonics Engineers,Design or redesign optical fibers to minimize energy loss.,0.55,optical fiber redesign
+19666,Photonics Engineers,Develop photonics sensing or manufacturing technologies to improve the efficiency of manufacturing or related processes.,0.45,develop sensing tech with physical manufacturing ties
+18191,Photonics Engineers,"Develop laser-processed designs, such as laser-cut medical devices.",0.55,laser-processed design work
+19662,Photonics Engineers,Design or develop new crystals for photonics applications.,0.35,crystal development requires lab synthesis
+18190,Photonics Engineers,Design laser machining equipment for purposes such as high-speed ablation.,0.55,laser machining equipment design
+18187,Photonics Engineers,"Select, purchase, set up, operate, or troubleshoot state-of-the-art laser cutting equipment.",0.10,hands-on equipment operation
+16512,Robotics Engineers,"Review or approve designs, calculations, or cost estimates.",0.55,review designs but approval needs human authority
+16517,Robotics Engineers,Process or interpret signals or sensor data.,0.90,pure data processing
+16521,Robotics Engineers,Debug robotics programs.,0.90,software debugging
+21057,Robotics Engineers,"Build, configure, or test robots or robotic applications.",0.35,physical build and configuration of robots
+16516,Robotics Engineers,Create back-ups of robot programs or parameters.,0.90,simple software backup task
+16511,Robotics Engineers,Provide technical support for robotic systems.,0.45,technical support often needs physical intervention
+16522,Robotics Engineers,Design end-of-arm tooling.,0.65,CAD design of tooling
+16530,Robotics Engineers,"Design robotic systems, such as automatic vehicle control, autonomous vehicles, advanced displays, advanced sensing, robotic platforms, computer vision, or telematics systems.",0.65,system design and modeling
+16509,Robotics Engineers,"Supervise technologists, technicians, or other engineers.",0.15,human supervision of staff
+16528,Robotics Engineers,"Design software to control robotic systems for applications, such as military defense or manufacturing.",0.85,pure software design and coding
+16523,Robotics Engineers,Conduct research on robotic technology to create new robotic systems or system capabilities.,0.65,research via literature and simulation
+16519,Robotics Engineers,Investigate mechanical failures or unexpected maintenance problems.,0.30,physical inspection of mechanical failures
+16510,Robotics Engineers,"Integrate robotics with peripherals, such as welders, controllers, or other equipment.",0.15,physical hardware integration
+21058,Robotics Engineers,Evaluate robotic systems or prototypes.,0.40,evaluation includes physical testing
+16520,Robotics Engineers,"Install, calibrate, operate, or maintain robots.",0.05,purely physical hands-on work
+16525,Robotics Engineers,"Conduct research into the feasibility, design, operation, or performance of robotic mechanisms, components, or systems, such as planetary rovers, multiple mobile robots, reconfigurable robots, or man-machine interactions.",0.60,research and design via modeling
+16514,Robotics Engineers,"Document robotic application development, maintenance, or changes.",0.90,documentation writing
+16527,Robotics Engineers,"Design automated robotic systems to increase production volume or precision in high-throughput operations, such as automated ribonucleic acid (RNA) analysis or sorting, moving, or stacking production materials.",0.60,automated system design
+16515,Robotics Engineers,Write algorithms or programming code for ad hoc robotic applications.,0.90,pure coding task
+16513,Robotics Engineers,Make system device lists or event timing charts.,0.80,documentation and planning charts
+19667,Robotics Engineers,Design or program robotics systems for environmental clean-up applications to minimize human exposure to toxic or hazardous materials or to improve the quality or speed of clean-up operations.,0.65,design and programming of robotics
+16518,Robotics Engineers,Plan mobile robot paths and teach path plans to robots.,0.45,path planning algorithmic but teaching needs physical robot access
+19668,Robotics Engineers,"Design robotics applications for manufacturers of green products, such as wind turbines or solar panels, to increase production time, eliminate waste, or reduce costs.",0.60,robotics application design
+16524,Robotics Engineers,Automate assays on laboratory robotics.,0.50,automation scripting on physical lab robots
+16540,Nanosystems Engineers,"Provide scientific or technical guidance or expertise to scientists, engineers, technologists, technicians, or others, using knowledge of chemical, analytical, or biological processes as applied to micro and nanoscale systems.",0.60,advisory guidance can be written
+16532,Nanosystems Engineers,Supervise technologists or technicians engaged in nanotechnology research or production.,0.15,human supervision of staff
+16546,Nanosystems Engineers,"Conduct research related to a range of nanotechnology topics, such as packaging, heat transfer, fluorescence detection, nanoparticle dispersion, hybrid systems, liquid systems, nanocomposites, nanofabrication, optoelectronics, or nanolithography.",0.40,nanotech research needs lab work
+16533,Nanosystems Engineers,"Synthesize, process, or characterize nanomaterials, using advanced tools or techniques.",0.10,physical lab synthesis and characterization
+16537,Nanosystems Engineers,"Prepare reports, deliver presentations, or participate in program review activities to communicate engineering results or recommendations.",0.55,report writing but presentations need human presence
+16542,Nanosystems Engineers,"Design or conduct tests of new nanotechnology products, processes, or systems.",0.40,test design high but conducting tests physical
+16545,Nanosystems Engineers,"Create designs or prototypes for nanosystem applications, such as biomedical delivery systems or atomic force microscopes.",0.45,design high but prototyping is physical
+16531,Nanosystems Engineers,Write proposals to secure external funding or to partner with other companies.,0.75,proposal writing
+16536,Nanosystems Engineers,"Generate high-resolution images or measure force-distance curves, using techniques such as atomic force microscopy.",0.10,physical AFM instrument operation
+16539,Nanosystems Engineers,Develop processes or identify equipment needed for pilot or commercial nanoscale scale production.,0.55,process planning conceptual work
+16535,Nanosystems Engineers,"Provide technical guidance or support to customers on topics such as nanosystem start-up, maintenance, or use.",0.40,customer support needs human trust and often on-site help
+16541,Nanosystems Engineers,"Engineer production processes for specific nanotechnology applications, such as electroplating, nanofabrication, or epoxy.",0.35,physical process engineering
+19669,Nanosystems Engineers,"Apply nanotechnology to improve the performance or reduce the environmental impact of energy products, such as fuel cells or solar cells.",0.50,applied research and design
+16534,Nanosystems Engineers,Identify new applications for existing nanotechnologies.,0.75,research and ideation
+16544,Nanosystems Engineers,"Design or engineer nanomaterials, nanodevices, nano-enabled products, or nanosystems, using three-dimensional computer-aided design (CAD) software.",0.75,CAD design work
+19671,Nanosystems Engineers,"Design nano-enabled products with reduced toxicity, increased durability, or improved energy efficiency.",0.60,product design work
+16543,Nanosystems Engineers,"Coordinate or supervise the work of suppliers or vendors in the designing, building, or testing of nanosystem devices, such as lenses or probes.",0.25,supervision of vendors needs human coordination
+19670,Nanosystems Engineers,"Design nano-based manufacturing processes to minimize water, chemical, or energy use, as well as to reduce waste production.",0.55,process design planning
+19673,Nanosystems Engineers,Design nanosystems with components such as nanocatalysts or nanofiltration devices to clean specific pollutants from hazardous waste sites.,0.55,nanosystem design work
+16538,Nanosystems Engineers,Prepare nanotechnology-related invention disclosures or patent applications.,0.65,draft patent documents but filing needs legal authority
+19677,Nanosystems Engineers,Reengineer nanomaterials to improve biodegradability.,0.40,reengineering needs lab synthesis
+19676,Nanosystems Engineers,"Integrate nanotechnology with antimicrobial properties into products, such as household or medical appliances, to reduce the development of bacteria or other microbes.",0.35,physical product integration
+19674,Nanosystems Engineers,"Develop catalysis or other green chemistry methods to synthesize nanomaterials, such as nanotubes, nanocrystals, nanorods, or nanowires.",0.25,chemistry lab synthesis work
+19672,Nanosystems Engineers,"Design nanoparticle catalysts to detect or remove chemical or other pollutants from water, soil, or air.",0.50,catalyst design work
+19675,Nanosystems Engineers,"Develop green building nanocoatings, such as self-cleaning, anti-stain, depolluting, anti-fogging, anti-icing, antimicrobial, moisture-resistant, or ultraviolet protectant coatings.",0.40,coating development needs lab synthesis
+16559,Wind Energy Engineers,"Create or maintain wind farm layouts, schematics, or other visual documentation for wind farms.",0.85,layout documentation and schematics
+16549,Wind Energy Engineers,"Recommend process or infrastructure changes to improve wind turbine performance, reduce operational costs, or comply with regulations.",0.80,analysis and recommendations from data
+16560,Wind Energy Engineers,"Create models to optimize the layout of wind farm access roads, crane pads, crane paths, collection systems, substations, switchyards, or transmission lines.",0.80,modeling and optimization
+16553,Wind Energy Engineers,Provide engineering technical support to designers of prototype wind turbines.,0.60,technical support can be text-based advisory
+16550,Wind Energy Engineers,"Investigate experimental wind turbines or wind turbine technologies for properties such as aerodynamics, production, noise, and load.",0.40,experimental investigation needs physical testing
+16558,Wind Energy Engineers,"Develop active control algorithms, electronics, software, electromechanical, or electrohydraulic systems for wind turbines.",0.45,mix of software and physical hardware development
+16557,Wind Energy Engineers,"Develop specifications for wind technology components, such as gearboxes, blades, generators, frequency converters, or pad transformers.",0.80,specification writing
+16552,Wind Energy Engineers,"Test wind turbine components, using mechanical or electronic testing equipment.",0.15,physical component testing
+16548,Wind Energy Engineers,Oversee the work activities of wind farm consultants or subcontractors.,0.20,human oversight of contractors
+16551,Wind Energy Engineers,Test wind turbine equipment to determine effects of stress or fatigue.,0.15,physical stress and fatigue testing
+16555,Wind Energy Engineers,Monitor wind farm construction to ensure compliance with regulatory standards or environmental requirements.,0.15,on-site construction monitoring
+16556,Wind Energy Engineers,"Direct balance of plant (BOP) construction, generator installation, testing, commissioning, or supervisory control and data acquisition (SCADA) to ensure compliance with specifications.",0.20,physical construction direction
+16562,Wind Energy Engineers,"Analyze operation of wind farms or wind farm components to determine reliability, performance, and compliance with specifications.",0.85,data analysis of farm operations
+16554,Wind Energy Engineers,Perform root cause analysis on wind turbine tower component failures.,0.55,failure analysis from data
+16561,Wind Energy Engineers,Design underground or overhead wind farm collector systems.,0.70,design and modeling of collector systems
+16547,Wind Energy Engineers,Write reports to document wind farm collector system test results.,0.85,report writing from test data
+16575,Solar Energy Systems Engineers,"Conduct engineering site audits to collect structural, electrical, and related site information for use in the design of residential or commercial solar power systems.",0.10,physical on-site audit
+16571,Solar Energy Systems Engineers,"Create plans for solar energy system development, monitoring, and evaluation activities.",0.75,planning documentation
+16574,Solar Energy Systems Engineers,"Design or coordinate design of photovoltaic (PV) or solar thermal systems, including system components, for residential and commercial buildings.",0.70,design engineering and CAD calculations
+16568,Solar Energy Systems Engineers,"Provide technical direction or support to installation teams during installation, start-up, testing, system commissioning, or performance monitoring.",0.30,on-site technical direction during installation
+16572,Solar Energy Systems Engineers,"Create electrical single-line diagrams, panel schedules, or connection diagrams for solar electric systems, using computer-aided design (CAD) software.",0.90,CAD diagram documentation
+16569,Solar Energy Systems Engineers,Perform computer simulation of solar photovoltaic (PV) generation system performance or energy production to optimize efficiency.,0.90,pure computer simulation
+16564,Solar Energy Systems Engineers,Review specifications and recommend engineering or manufacturing changes to achieve solar design objectives.,0.80,specification review and recommendations
+16570,Solar Energy Systems Engineers,"Develop design specifications and functional requirements for residential, commercial, or industrial solar energy systems or components.",0.80,specification writing
+16566,Solar Energy Systems Engineers,Develop standard operation procedures and quality or safety standards for solar installation work.,0.80,procedure and standards documentation

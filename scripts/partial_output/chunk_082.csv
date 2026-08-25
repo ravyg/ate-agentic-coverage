@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+8671,Self-Enrichment Teachers,Prepare students for further development by encouraging them to explore learning opportunities and to persevere with challenging tasks.,0.15,needs live human motivation and presence
+8667,Self-Enrichment Teachers,"Observe students to determine qualifications, limitations, abilities, interests, and other individual characteristics.",0.15,needs in-person observation of students
+8676,Self-Enrichment Teachers,Maintain accurate and complete student records as required by administrative policy.,0.90,routine recordkeeping task
+8666,Self-Enrichment Teachers,"Monitor students' performance to make suggestions for improvement and to ensure that they satisfy course standards, training requirements, and objectives.",0.40,needs in-person monitoring of live performance
+8683,Self-Enrichment Teachers,"Prepare and administer written, oral, and performance tests, and issue grades in accordance with performance.",0.50,administering oral and performance tests needs presence
+8669,Self-Enrichment Teachers,"Establish clear objectives for all lessons, units, and projects and communicate those objectives to students.",0.55,drafting objectives easy but live communication needs presence
+8675,Self-Enrichment Teachers,"Prepare instructional program objectives, outlines, and lesson plans.",0.90,lesson planning is pure text work
+8681,Self-Enrichment Teachers,Confer with other teachers and professionals to plan and schedule lessons promoting learning and development.,0.35,live collaboration with colleagues
+8672,Self-Enrichment Teachers,Prepare materials and classrooms for class activities.,0.15,physical classroom setup
+8673,Self-Enrichment Teachers,Enforce policies and rules governing students.,0.10,needs in-person authority to enforce rules
+8687,Self-Enrichment Teachers,"Review instructional content, methods, and student evaluations to assess strengths and weaknesses, and to develop recommendations for course revision, development, or elimination.",0.85,content review and analysis task
+8680,Self-Enrichment Teachers,Meet with other instructors to discuss individual students and their progress.,0.30,live meeting with colleagues
+8674,Self-Enrichment Teachers,"Plan and conduct activities for a balanced program of instruction, demonstration, and work time that provides students with opportunities to observe, question, and investigate.",0.35,conducting activities needs live presence
+8690,Self-Enrichment Teachers,"Use computers, audio-visual aids, and other equipment and materials to supplement presentations.",0.15,physical operation of AV equipment in classroom
+8679,Self-Enrichment Teachers,"Attend professional meetings, conferences, and workshops to maintain and improve professional competence.",0.10,requires physical attendance
+8678,Self-Enrichment Teachers,"Plan and supervise class projects, field trips, visits by guest speakers, contests, or other experiential activities, and guide students in learning from those activities.",0.25,supervision requires physical presence
+8682,Self-Enrichment Teachers,"Attend staff meetings and serve on committees, as required.",0.10,requires physical attendance
+8692,Self-Enrichment Teachers,"Select, order, and issue books, materials, and supplies for courses or projects.",0.55,ordering doable but issuing materials is physical
+8685,Self-Enrichment Teachers,Assign and grade class work and homework.,0.85,grading written work is text based
+8665,Self-Enrichment Teachers,"Conduct classes, workshops, and demonstrations, and provide individual instruction to teach topics and skills, such as cooking, dancing, writing, physical fitness, photography, personal finance, and flying.",0.05,hands-on live instruction
+8670,Self-Enrichment Teachers,Instruct and monitor students in the use and care of equipment and materials to prevent injury and damage.,0.05,safety monitoring needs physical presence
+8688,Self-Enrichment Teachers,Meet with parents and guardians to discuss their children's progress and to determine their priorities for their children.,0.30,live conversation with parents
+8684,Self-Enrichment Teachers,Schedule class times to ensure maximum attendance.,0.85,scheduling optimization task
+8686,Self-Enrichment Teachers,Prepare and implement remedial programs for students requiring extra help.,0.35,implementation needs live instruction
+8691,Self-Enrichment Teachers,Observe and evaluate the performance of other instructors.,0.20,needs in-person observation
+8689,Self-Enrichment Teachers,"Organize and supervise games and other recreational activities to promote physical, mental, and social development.",0.10,physical supervision of activities
+8677,Self-Enrichment Teachers,Participate in publicity planning and student recruitment.,0.55,publicity content creation mostly text work
+8693,Self-Enrichment Teachers,Write instructional articles on designated subjects.,0.95,pure writing task
+22395,"Substitute Teachers, Short-Term",Enforce school and class rules to maintain order in the classroom.,0.05,needs physical presence and authority
+22389,"Substitute Teachers, Short-Term",Answer students' questions.,0.15,live classroom interaction
+22396,"Substitute Teachers, Short-Term",Follow lesson plans designed by absent teachers.,0.10,physical classroom execution
+22403,"Substitute Teachers, Short-Term",Take class attendance and maintain attendance records.,0.25,requires physical presence to take attendance
+22402,"Substitute Teachers, Short-Term","Supervise students during activities outside the classroom, such as recess, lunch, and field trips.",0.05,physical supervision required
+22405,"Substitute Teachers, Short-Term","Teach social skills to students, such as communication, conflict resolution, and etiquette.",0.10,live interpersonal teaching
+22406,"Substitute Teachers, Short-Term",Tutor or assist students individually or in small groups.,0.15,live tutoring presence expected
+22393,"Substitute Teachers, Short-Term",Distribute or collect tests or homework assignments.,0.05,physical distribution task
+22394,"Substitute Teachers, Short-Term","Distribute teaching materials, such as textbooks, workbooks, papers, and pencils, to students.",0.05,physical distribution task
+22404,"Substitute Teachers, Short-Term","Teach a variety of subjects, such as English, mathematics, and social studies.",0.10,live classroom teaching
+22398,"Substitute Teachers, Short-Term",Operate equipment such as computers or audio-visual aids to supplement presentations.,0.15,physical equipment operation
+22392,"Substitute Teachers, Short-Term",Counsel students with adjustment or academic problems.,0.15,needs live counseling rapport
+22391,"Substitute Teachers, Short-Term","Attend professional meetings, educational conferences, or teacher training workshops to improve professional competence.",0.10,requires physical attendance
+22400,"Substitute Teachers, Short-Term","Provide students with disabilities with assistive devices, supportive technology, or assistance accessing facilities, such as restrooms.",0.02,physical assistance required
+22399,"Substitute Teachers, Short-Term",Organize and supervise games or other recreational activities.,0.10,physical supervision
+22390,"Substitute Teachers, Short-Term",Assist students with boarding or exiting school buses.,0.02,physical assistance required
+22397,"Substitute Teachers, Short-Term",Grade students' assignments and exams.,0.85,grading is text based
+22401,"Substitute Teachers, Short-Term",Restock teaching materials or supplies.,0.05,physical restocking task
+17027,Tutors,"Provide feedback to students, using positive reinforcement techniques to encourage, motivate, or build confidence in students.",0.55,feedback deliverable via text but rapport needs human
+17026,Tutors,"Review class material with students by discussing text, working solutions to problems, or reviewing worksheets or other assignments.",0.55,text based tutoring largely automatable
+17034,Tutors,Assess students' progress throughout tutoring sessions.,0.55,assessment via session analysis but needs live presence
+17036,Tutors,"Teach students study skills, note-taking skills, and test-taking strategies.",0.55,teaching skills content deliverable via text
+17037,Tutors,"Provide private instruction to individual or small groups of students to improve academic performance, improve occupational skills, or prepare for academic or occupational tests.",0.40,private instruction benefits from live presence
+17023,Tutors,Participate in training and development sessions to improve tutoring practices or learn new tutoring techniques.,0.10,requires live attendance
+17033,Tutors,"Collaborate with students, parents, teachers, school administrators, or counselors to determine student needs, develop tutoring plans, or assess student progress.",0.30,live collaboration with multiple stakeholders
+17025,Tutors,"Monitor student performance or assist students in academic environments, such as classrooms, laboratories, or computing centers.",0.15,requires physical presence in classroom
+17020,Tutors,Schedule tutoring appointments with students or their parents.,0.85,scheduling task
+17024,Tutors,Organize tutoring environment to promote productivity and learning.,0.25,physical environment setup
+17032,Tutors,"Communicate students' progress to students, parents, or teachers in written progress reports, in person, by phone, or by email.",0.55,written reports feasible but live communication needs human
+17029,Tutors,"Maintain records of students' assessment results, progress, feedback, or school performance, ensuring confidentiality of all records.",0.85,recordkeeping task
+17030,Tutors,"Identify, develop, or implement intervention strategies, tutoring plans, or individualized education plans (IEPs) for students.",0.50,developing plans feasible implementation needs live instruction
+17022,Tutors,"Prepare and facilitate tutoring workshops, collaborative projects, or academic support sessions for small groups of students.",0.35,facilitation needs live presence
+17028,Tutors,Prepare lesson plans or learning modules for tutoring sessions according to students' needs and goals.,0.90,lesson plan prep is text work
+17031,Tutors,"Develop teaching or training materials, such as handouts, study materials, or quizzes.",0.92,content creation task
+17019,Tutors,"Travel to students' homes, libraries, or schools to conduct tutoring sessions.",0.00,physical travel required
+17035,Tutors,"Administer, proctor, or score academic or diagnostic assessments.",0.35,administering and proctoring need physical presence
+17021,Tutors,"Research or recommend textbooks, software, equipment, or other learning materials to complement tutoring.",0.90,research and recommendation task
+7631,Archivists,Organize archival records and develop classification systems to facilitate access to archival materials.,0.75,classification and organization is info work
+7633,Archivists,Provide reference services and assistance for users needing archival materials.,0.55,reference assistance often needs physical retrieval
+7635,Archivists,"Prepare archival records, such as document descriptions, to allow easy access to information.",0.85,metadata description writing
+7630,Archivists,"Create and maintain accessible, retrievable computer archives and databases, incorporating current advances in electronic information storage technology.",0.90,digital database work
+7637,Archivists,Establish and administer policy guidelines concerning public access and use of materials.,0.35,policy authority requires human decision maker
+7634,Archivists,"Direct activities of workers who assist in arranging, cataloguing, exhibiting, and maintaining collections of valuable materials.",0.15,directing human workers needs authority and presence
+7636,Archivists,"Preserve records, documents, and objects, copying records to film, videotape, audiotape, disk, or computer formats as necessary.",0.20,physical preservation and copying of media
+7639,Archivists,Research and record the origins and historical significance of archival materials.,0.80,research and writing task
+7638,Archivists,Locate new materials and direct their acquisition and display.,0.35,acquisition and physical display need human
+7632,Archivists,Authenticate and appraise historical documents and archival materials.,0.25,physical examination and expert appraisal authority
+7641,Archivists,"Coordinate educational and public outreach programs, such as tours, workshops, lectures, and classes.",0.35,delivering tours and lectures needs live presence
+7640,Archivists,"Specialize in an area of history or technology, researching topics or items relevant to collections to determine what should be retained or acquired.",0.80,research task
+7642,Archivists,"Select and edit documents for publication and display, applying knowledge of subject, literary expression, and presentation techniques.",0.75,editorial content work
+18641,Curators,"Plan and organize the acquisition, storage, and exhibition of collections and related materials, including the selection of exhibition themes and designs, and develop or install exhibit materials.",0.35,physical installation of exhibits needs presence
+1644,Curators,"Develop and maintain an institution's registration, cataloging, and basic record-keeping systems, using computer databases.",0.90,database recordkeeping task
+1649,Curators,Plan and conduct special research projects in area of interest or expertise.,0.80,research task
+1645,Curators,Provide information from the institution's holdings to other curators and to the public.,0.70,information provision task
+1648,Curators,"Negotiate and authorize purchase, sale, exchange, or loan of collections.",0.15,negotiation and authorization need human authority
+1655,Curators,"Study, examine, and test acquisitions to authenticate their origin, composition, history, and to assess their current value.",0.20,physical examination and testing required
+1646,Curators,Inspect premises to assess the need for repairs and to ensure that climate and pest control issues are addressed.,0.05,physical on-site inspection
+1654,Curators,"Write and review grant proposals, journal articles, institutional reports, and publicity materials.",0.90,writing task
+18642,Curators,"Design, organize, or conduct tours, workshops, and instructional or educational sessions to acquaint individuals with an institution's facilities and materials.",0.35,conducting tours needs live presence
+1652,Curators,"Attend meetings, conventions, and civic events to promote use of institution's services, to seek financing, and to maintain community alliances.",0.10,requires physical attendance and networking
+1647,Curators,"Train and supervise curatorial, fiscal, technical, research, and clerical staff, as well as volunteers or interns.",0.15,supervising staff needs authority and presence
+1651,Curators,"Confer with the board of directors to formulate and interpret policies, to determine budget requirements, and to plan overall operations.",0.15,requires live meeting and institutional authority
+1656,Curators,Arrange insurance coverage for objects on loan or for special exhibits and recommend changes in coverage for the entire collection.,0.35,insurance contracts need authorized human signer
+1653,Curators,"Schedule events and organize details, including refreshment, entertainment, decorations, and the collection of any fees.",0.45,logistics planning feasible but physical execution needs human
+1657,Curators,Establish specifications for reproductions and oversee their manufacture or select items from commercially available replica sources.,0.40,overseeing physical manufacture needs presence
+3806,Museum Technicians and Conservators,"Install, arrange, assemble, and prepare artifacts for exhibition, ensuring the artifacts' safety, reporting their status and condition, and identifying and correcting any problems with the set up.",0.05,physical installation of artifacts
+3818,Museum Technicians and Conservators,"Repair, restore, and reassemble artifacts, designing and fabricating missing or broken parts, to restore them to their original appearance and prevent deterioration.",0.05,physical hands-on restoration
+3809,Museum Technicians and Conservators,"Clean objects, such as paper, textiles, wood, metal, glass, rock, pottery, and furniture, using cleansers, solvents, soap solutions, and polishes.",0.02,physical cleaning task
+18644,Museum Technicians and Conservators,Photograph objects for documentation.,0.05,physical photography operation
+3808,Museum Technicians and Conservators,Determine whether objects need repair and choose the safest and most effective method of repair.,0.35,assessment often needs physical examination
+3810,Museum Technicians and Conservators,Prepare artifacts for storage and shipping.,0.05,physical preparation and packing
+21065,Museum Technicians and Conservators,Enter information about museum collections into computer databases.,0.90,data entry task
+3814,Museum Technicians and Conservators,"Recommend preservation procedures, such as control of temperature and humidity, to curatorial and building staff.",0.70,recommendation based on knowledge text output
+3824,Museum Technicians and Conservators,Notify superior when restoration of artifacts requires outside experts.,0.55,notification depends on prior physical assessment
+3811,Museum Technicians and Conservators,Supervise and work with volunteers.,0.10,supervising volunteers needs presence and authority
+3817,Museum Technicians and Conservators,"Perform on-site field work which may involve interviewing people, inspecting and identifying artifacts, note-taking, viewing sites and collections, and repainting exhibition spaces.",0.05,physical on-site fieldwork
+18645,Museum Technicians and Conservators,Lead tours and teach educational courses to students and the general public.,0.05,live in-person leading required
+3815,Museum Technicians and Conservators,Classify and assign registration numbers to artifacts and supervise inventory control.,0.55,classification is info work inventory needs presence
+3820,Museum Technicians and Conservators,"Study object documentation or conduct standard chemical and physical tests to ascertain the object's age, composition, original appearance, need for treatment or restoration, and appropriate preservation method.",0.35,physical chemical testing needs hands-on lab work
+3819,Museum Technicians and Conservators,"Prepare reports on the operation of conservation laboratories, documenting the condition of artifacts, treatment options, and the methods of preservation and repair used.",0.80,report writing task
+3813,Museum Technicians and Conservators,"Specialize in particular materials or types of object, such as documents and books, paintings, decorative arts, textiles, metals, or architectural materials.",0.30,implies hands-on material expertise
+3822,Museum Technicians and Conservators,"Perform tests and examinations to establish storage and conservation requirements, policies, and procedures.",0.25,physical testing needed policy part is text work
+18643,Museum Technicians and Conservators,"Direct and supervise curatorial, technical, and student staff in the handling, mounting, care, and storage of art objects.",0.10,supervising staff needs presence and authority
+3807,Museum Technicians and Conservators,"Coordinate exhibit installations, assisting with design, constructing displays, dioramas, display cases, and models, and ensuring the availability of necessary materials.",0.30,constructing displays is physical work
+3826,Museum Technicians and Conservators,"Preserve or direct preservation of objects, using plaster, resin, sealants, hardeners, and shellac.",0.03,physical hands-on preservation work
+3823,Museum Technicians and Conservators,Plan and conduct research to develop and improve methods of restoring and preserving specimens.,0.45,research planning feasible but experiments need hands
+18646,Museum Technicians and Conservators,Deliver artwork on courier trips.,0.00,physical delivery task
+3827,Museum Technicians and Conservators,"Build, repair, and install wooden steps, scaffolds, and walkways to gain access to or permit improved view of exhibited equipment.",0.00,physical construction task
+3825,Museum Technicians and Conservators,Estimate cost of restoration work.,0.75,cost estimation analysis task
+22407,Librarians and Media Collections Specialists,Check books in and out of the library.,0.15,physical handling of books
+22408,Librarians and Media Collections Specialists,"Teach library patrons basic computer skills, such as searching computerized databases.",0.20,live in-person teaching partly text deliverable
+22409,Librarians and Media Collections Specialists,"Review and evaluate materials, using book reviews, catalogs, faculty recommendations, and current holdings to select and order print, audio-visual, and electronic resources.",0.80,selection and evaluation is info work
+22411,Librarians and Media Collections Specialists,"Search standard reference materials, including online sources and the Internet, to answer patrons' reference questions.",0.90,reference research task
+22410,Librarians and Media Collections Specialists,"Keep up-to-date records of circulation and materials, maintain inventory, and correct cataloging errors.",0.70,recordkeeping is info work inventory needs presence
+22412,Librarians and Media Collections Specialists,Analyze patrons' requests to determine needed information and assist in furnishing or locating that information.,0.80,analysis and information location task
+22413,Librarians and Media Collections Specialists,"Supervise daily library operations, budgeting, planning, and personnel activities, such as hiring, training, scheduling, and performance evaluations.",0.20,personnel management needs human authority
+22414,Librarians and Media Collections Specialists,"Plan and teach classes on topics such as information literacy, library instruction, and technology use.",0.35,live teaching needs presence
+22415,Librarians and Media Collections Specialists,"Confer with colleagues, faculty, and community members and organizations to conduct informational programs, make collection decisions, and determine library services to offer.",0.30,live collaboration with stakeholders
+22416,Librarians and Media Collections Specialists,"Code, classify, and catalog books, publications, films, audio-visual aids, and other library materials, based on subject matter or standard library classification systems.",0.85,cataloging is info work
+22417,Librarians and Media Collections Specialists,"Respond to customer complaints, taking action as necessary.",0.55,responding is text work but action may need authority
+22419,Librarians and Media Collections Specialists,"Plan and deliver client-centered programs and services, such as special services for corporate clients, storytelling for children, newsletters, or programs for special groups.",0.40,delivering live programs needs presence
+22418,Librarians and Media Collections Specialists,"Explain use of library facilities, resources, equipment, and services, and provide information about library policies.",0.65,information provision often live in person

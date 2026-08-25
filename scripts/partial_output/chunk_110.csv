@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+13618,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Smooth surfaces of articles to be painted, using sanding and buffing tools and equipment.",0.00,physical hands-on sanding work
+13619,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Mix plaster, and carry plaster to plasterers.",0.00,physical mixing and carrying
+13620,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Place articles to be stripped into stripping tanks.,0.00,physical placement of items
+13621,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Remove articles such as cabinets, metal furniture, and paint containers from stripping tanks after prescribed periods of time.",0.00,physical removal of items
+13622,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Pour specified amounts of chemical solutions into stripping tanks.,0.00,physical handling of chemicals
+4858,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Measure, cut, thread and assemble new pipe, placing the assembled pipe in hangers or other supports.",0.00,physical pipe fabrication and installation
+4857,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Cut or drill holes in walls or floors to accommodate the passage of pipes.,0.00,physical cutting and drilling
+20144,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Perform rough-ins, repair and replace fixtures and water heaters, and locate, repair, or remove leaking or broken pipes.",0.00,physical plumbing repair on site
+4862,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Assist pipe fitters in the layout, assembly, and installation of piping for air, ammonia, gas, and water systems.",0.00,physical assistance with pipe installation
+4864,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Cut pipe and lift up to fitters.,0.00,physical cutting and lifting
+4861,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Fit or assist in fitting valves, couplings, or assemblies to tanks, pumps, or systems, using hand tools.",0.00,physical fitting with hand tools
+4860,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Requisition tools and equipment, select type and size of pipe, and collect and transport materials and equipment to work site.",0.05,mostly physical transport of materials
+4859,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Mount brackets and hangers on walls and ceilings to hold pipes, and set sleeves or inserts to provide support for pipes.",0.00,physical mounting of hardware
+4863,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Excavate and grade ditches, and lay and join pipe for water and sewer service.",0.00,physical excavation and pipe laying
+4865,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Disassemble and remove damaged or worn pipe.,0.00,physical disassembly and removal
+4866,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Clean shop, work area, and machines, using solvent and rags.",0.00,physical cleaning work
+4867,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Install gas burners to convert furnaces from wood, coal, or oil.",0.00,physical installation of burners
+4870,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Fill pipes with sand or resin to prevent distortion, and hold pipes during bending and installation.",0.00,physical pipe handling
+4868,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Immerse pipe in chemical solution to remove dirt, oil, and scale.",0.00,physical dipping in chemicals
+4869,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Clean and renew steam traps.,0.00,physical maintenance work
+14926,Helpers--Roofers,Check to ensure that completed roofs are watertight.,0.00,on-site physical roof check
+14927,Helpers--Roofers,Sweep and clean roofs to prepare them for the application of new roofing materials.,0.00,physical sweeping and cleaning
+14928,Helpers--Roofers,Locate worn or torn areas in roofs.,0.00,on-site physical inspection
+14929,Helpers--Roofers,Clean work areas and equipment.,0.00,physical cleaning of work area
+14930,Helpers--Roofers,Maintain tools and equipment.,0.00,physical tool maintenance
+14931,Helpers--Roofers,"Cover roofs with layers of roofing felt or asphalt strips before installing tile, slate, or composition materials.",0.00,physical roof covering work
+14932,Helpers--Roofers,Remove old roofing materials.,0.00,physical material removal
+14933,Helpers--Roofers,"Unload materials and tools from work trucks, and unroll roofing as directed.",0.00,physical unloading and unrolling
+14934,Helpers--Roofers,"Set ladders, scaffolds, and hoists in place for taking supplies to roofs.",0.00,physical equipment setup
+14935,Helpers--Roofers,"Place tiles, nail them to roof boards, and cover nailheads with roofing cement.",0.00,physical tile placement and nailing
+14936,Helpers--Roofers,"Provide assistance to skilled roofers installing and repairing roofs, flashings, and surfaces.",0.00,physical on-site assistance
+14937,Helpers--Roofers,"Attach roofing paper and composition shingles, using nails.",0.00,physical nailing of roofing
+14938,Helpers--Roofers,Perform emergency leak repairs and general maintenance for a variety of roof types.,0.00,physical emergency repair work
+14939,Helpers--Roofers,Attach sheets of metal to roof boards or building frameworks when installing metal roofs.,0.00,physical metal roof installation
+14940,Helpers--Roofers,"Hoist tar and roofing materials to roofs, using ropes and pulleys, or carry materials up ladders.",0.00,physical hoisting of materials
+14941,Helpers--Roofers,"Apply shingles, gravel, or asphalt over the top layer of tar to protect the roofing material.",0.00,physical application of materials
+14942,Helpers--Roofers,"Chop tar into small pieces, and heat chopped tar in kettles.",0.00,physical tar preparation
+14943,Helpers--Roofers,Clear drains and downspouts and clean gutters.,0.00,physical gutter cleaning
+20447,Construction and Building Inspectors,Approve building plans that meet required specifications.,0.05,requires official approval authority
+871,Construction and Building Inspectors,"Review and interpret plans, blueprints, site layouts, specifications, or construction methods to ensure compliance to legal requirements and safety regulations.",0.55,document review needing authoritative judgment
+875,Construction and Building Inspectors,"Issue permits for construction, relocation, demolition, or occupancy.",0.05,requires government permitting authority
+869,Construction and Building Inspectors,"Inspect bridges, dams, highways, buildings, wiring, plumbing, electrical circuits, sewers, heating systems, or foundations during and after construction for structural quality, general safety, or conformance to specifications and codes.",0.05,on-site physical structural inspection
+878,Construction and Building Inspectors,"Monitor installation of plumbing, wiring, equipment, or appliances to ensure that installation is performed properly and is in compliance with applicable regulations.",0.05,on-site physical monitoring
+872,Construction and Building Inspectors,"Inspect and monitor construction sites to ensure adherence to safety standards, building codes, or specifications.",0.05,on-site physical site inspection
+20446,Construction and Building Inspectors,"Confer with owners, violators, or authorities to explain regulations or recommend remedial actions.",0.35,live discussion with enforcement authority
+873,Construction and Building Inspectors,"Measure dimensions and verify level, alignment, or elevation of structures or fixtures to ensure compliance to building plans and codes.",0.00,physical measurement on site
+870,Construction and Building Inspectors,Maintain daily logs and supplement inspection records with photographs.,0.30,logging plus on-site photography
+20445,Construction and Building Inspectors,"Conduct inspections, using survey instruments, metering devices, tape measures, or test equipment.",0.00,physical use of survey instruments
+880,Construction and Building Inspectors,"Train, direct, or supervise other construction inspectors.",0.15,requires human supervisory presence
+19866,Construction and Building Inspectors,Monitor construction activities to ensure that environmental regulations are not violated.,0.05,on-site physical monitoring
+19864,Construction and Building Inspectors,Evaluate project details to ensure adherence to environmental regulations.,0.55,document based regulatory analysis
+19865,Construction and Building Inspectors,Inspect facilities or installations to determine their environmental impact.,0.05,on-site physical inspection
+20448,Construction and Building Inspectors,"Examine lifting or conveying devices, such as elevators, escalators, moving sidewalks, hoists, inclined railways, ski lifts, or amusement rides to ensure safety and proper functioning.",0.00,physical examination of machinery
+19863,Construction and Building Inspectors,"Conduct environmental hazard inspections to identify or quantify problems, such as asbestos, poor air quality, water contamination, or other environmental hazards.",0.00,physical hazard sampling on site
+20449,Construction and Building Inspectors,Estimate cost of completed work or of needed renovations or upgrades.,0.65,cost estimation from specifications
+20450,Construction and Building Inspectors,"Evaluate premises for cleanliness, such as proper garbage disposal or lack of vermin infestation.",0.00,on-site physical cleanliness check
+19867,Construction and Building Inspectors,"Sample and test air to identify gasses, such as bromine, ozone, or sulfur dioxide, or particulates, such as mold, dust, or allergens.",0.00,physical air sampling
+18082,Energy Auditors,Identify and prioritize energy-saving measures.,0.75,analytical prioritization from data
+18074,Energy Auditors,Prepare audit reports containing energy analysis results or recommendations for energy cost savings.,0.90,report writing from analysis
+19561,Energy Auditors,Identify any health or safety issues related to planned weatherization projects.,0.55,review of project data for hazards
+18083,Energy Auditors,"Identify opportunities to improve the operation, maintenance, or energy efficiency of building or process systems.",0.70,analytical efficiency assessment
+18077,Energy Auditors,Calculate potential for energy savings.,0.90,pure calculation task
+18073,Energy Auditors,"Inspect or evaluate building envelopes, mechanical systems, electrical systems, or process systems to determine the energy consumption of each system.",0.10,on-site physical system evaluation
+18076,Energy Auditors,"Analyze technical feasibility of energy-saving measures, using knowledge of engineering, energy production, energy use, construction, maintenance, system operation, or process systems.",0.75,engineering feasibility analysis
+19560,Energy Auditors,Examine commercial sites to determine the feasibility of installing equipment that allows building management systems to reduce electricity consumption during peak demand periods.,0.10,on-site physical site examination
+18087,Energy Auditors,Recommend energy-efficient technologies or alternate energy sources.,0.85,advisory recommendation from analysis
+18078,Energy Auditors,Collect and analyze field data related to energy usage.,0.30,field data collection is physical
+18071,Energy Auditors,"Measure energy usage with devices such as data loggers, universal data recorders, light meters, sling psychrometers, psychrometric charts, flue gas analyzers, amp probes, watt meters, volt meters, thermometers, or utility meters.",0.05,physical use of measuring devices
+18081,Energy Auditors,Educate customers on energy efficiency or answer questions on topics such as the costs of running household appliances or the selection of energy-efficient appliances.,0.70,conversational customer education
+18072,Energy Auditors,Perform tests such as blower-door tests to locate air leaks.,0.00,physical blower-door testing
+18086,Energy Auditors,"Prepare job specification sheets for home energy improvements, such as attic insulation, window retrofits, or heating system upgrades.",0.80,document preparation from specs
+19562,Energy Auditors,Inspect newly installed energy-efficient equipment to ensure that it was installed properly and is performing according to specifications.,0.05,on-site physical inspection
+18075,Energy Auditors,"Analyze energy bills, including utility rates or tariffs, to gather historical energy usage data.",0.90,pure data analysis of bills
+18084,Energy Auditors,Quantify energy consumption to establish baselines for energy use or need.,0.85,computation from usage data
+18080,Energy Auditors,"Determine patterns of building use to show annual or monthly needs for heating, cooling, lighting, or other energy needs.",0.80,data pattern analysis
+18079,Energy Auditors,Compare existing energy consumption levels to normative data.,0.90,comparative data analysis
+18085,Energy Auditors,"Oversee installation of equipment such as water heater wraps, pipe insulation, weatherstripping, door sweeps, or low-flow showerheads to improve energy efficiency.",0.10,on-site oversight of installation
+19563,Energy Auditors,Verify income eligibility of participants in publicly financed weatherization programs.,0.55,document based eligibility verification
+11571,Elevator and Escalator Installers and Repairers,"Inspect wiring connections, control panel hookups, door installations, and alignments and clearances of cars and hoistways to ensure that equipment will operate properly.",0.00,physical inspection of wiring
+11564,Elevator and Escalator Installers and Repairers,"Assemble, install, repair, and maintain elevators, escalators, moving sidewalks, and dumbwaiters, using hand and power tools, and testing devices such as test lamps, ammeters, and voltmeters.",0.00,physical assembly and repair
+11572,Elevator and Escalator Installers and Repairers,"Disassemble defective units, and repair or replace parts such as locks, gears, cables, and electric wiring.",0.00,physical disassembly and repair
+11567,Elevator and Escalator Installers and Repairers,"Check that safety regulations and building codes are met, and complete service reports verifying conformance to standards.",0.10,mostly physical code check plus report
+11566,Elevator and Escalator Installers and Repairers,"Locate malfunctions in brakes, motors, switches, and signal and control systems, using test equipment.",0.00,physical fault diagnosis with equipment
+11569,Elevator and Escalator Installers and Repairers,"Adjust safety controls, counterweights, door mechanisms, and components such as valves, ratchets, seals, and brake linings.",0.00,physical adjustment of controls
+11570,Elevator and Escalator Installers and Repairers,"Read and interpret blueprints to determine the layout of system components, frameworks, and foundations, and to select installation equipment.",0.55,blueprint interpretation is analytical
+11576,Elevator and Escalator Installers and Repairers,"Connect car frames to counterweights, using steel cables.",0.00,physical cable connection
+11573,Elevator and Escalator Installers and Repairers,Maintain log books that detail all repairs and checks performed.,0.60,documentation of repair data
+11568,Elevator and Escalator Installers and Repairers,Connect electrical wiring to control panels and electric motors.,0.00,physical wiring connection
+11565,Elevator and Escalator Installers and Repairers,"Test newly installed equipment to ensure that it meets specifications, such as stopping at floors for set amounts of time.",0.00,physical equipment testing
+11574,Elevator and Escalator Installers and Repairers,Participate in additional training to keep skills up to date.,0.05,requires attending physical training
+11582,Elevator and Escalator Installers and Repairers,"Operate elevators to determine power demands, and test power consumption to detect overload factors.",0.00,physical operation and testing
+11580,Elevator and Escalator Installers and Repairers,Install electrical wires and controls by attaching conduit along shaft walls from floor to floor and pulling plastic-covered wires through the conduit.,0.00,physical wire installation
+11575,Elevator and Escalator Installers and Repairers,Attach guide shoes and rollers to minimize the lateral motion of cars as they travel through shafts.,0.00,physical hardware attachment
+11579,Elevator and Escalator Installers and Repairers,Install outer doors and door frames at elevator entrances on each floor of a structure.,0.00,physical door installation
+11578,Elevator and Escalator Installers and Repairers,"Assemble elevator cars, installing each car's platform, walls, and doors.",0.00,physical car assembly
+11577,Elevator and Escalator Installers and Repairers,"Bolt or weld steel rails to the walls of shafts to guide elevators, working from scaffolding or platforms.",0.00,physical bolting and welding
+11583,Elevator and Escalator Installers and Repairers,"Assemble electrically powered stairs, steel frameworks, and tracks, and install associated motors and electrical wiring.",0.00,physical stair assembly
+11581,Elevator and Escalator Installers and Repairers,"Cut prefabricated sections of framework, rails, and other components to specified dimensions.",0.00,physical cutting of components
+13623,Fence Erectors,"Establish the location for a fence, and gather information needed to ensure that there are no electric cables or water lines in the area.",0.15,mostly on-site location work
+13627,Fence Erectors,Set metal or wooden posts in upright positions in postholes.,0.00,physical post setting
+13625,Fence Erectors,"Measure and lay out fence lines and mark posthole positions, following instructions, drawings, or specifications.",0.00,physical layout and marking
+13624,Fence Erectors,"Align posts, by lines or sighting, and verify vertical alignment of posts, using plumb bobs or spirit levels.",0.00,physical alignment check
+13637,Fence Erectors,Attach rails or tension wire along bottoms of posts to form fencing frames.,0.00,physical rail attachment
+13626,Fence Erectors,"Dig postholes, using spades, posthole diggers, or power-driven augers.",0.00,physical digging
+13633,Fence Erectors,"Attach fence rail supports to posts, using hammers and pliers.",0.00,physical support attachment
+13634,Fence Erectors,"Assemble gates, and fasten gates into position, using hand tools.",0.00,physical gate assembly
+13629,Fence Erectors,"Mix and pour concrete around bases of posts, or tamp soil into postholes to embed posts.",0.00,physical concrete pouring
+13630,Fence Erectors,"Make rails for fences, by sawing lumber or by cutting metal tubing to required lengths.",0.00,physical sawing and cutting
+13631,Fence Erectors,"Nail top and bottom rails to fence posts, or insert them in slots on posts.",0.00,physical nailing of rails
+13628,Fence Erectors,"Discuss fencing needs with customers, and estimate and quote prices.",0.45,customer rapport for sales quote
+13632,Fence Erectors,"Stretch wire, wire mesh, or chain link fencing between posts, and attach fencing to frames.",0.00,physical fencing installation
+13635,Fence Erectors,"Complete top fence rails of metal fences by connecting tube sections, using metal sleeves.",0.00,physical rail connection
+13641,Fence Erectors,"Erect alternate panel, basket weave, and louvered fences.",0.00,physical fence erection
+13636,Fence Erectors,Insert metal tubing through rail supports.,0.00,physical tubing insertion
+13638,Fence Erectors,Nail pointed slats to rails to construct picket fences.,0.00,physical nailing of slats
+13639,Fence Erectors,"Construct and repair barriers, retaining walls, trellises, and other types of fences, walls, and gates.",0.00,physical construction and repair
+13640,Fence Erectors,"Weld metal parts together, using portable gas welding equipment.",0.00,physical welding work
+13642,Fence Erectors,Blast rock formations and rocky areas with dynamite to facilitate posthole digging.,0.00,physical hazardous blasting work
+20796,Hazardous Materials Removal Workers,Build containment areas prior to beginning abatement or decontamination work.,0.00,physical containment construction
+11591,Hazardous Materials Removal Workers,"Remove asbestos or lead from surfaces, using hand or power tools such as scrapers, vacuums, or high-pressure sprayers.",0.00,physical hazmat removal
+11594,Hazardous Materials Removal Workers,"Identify asbestos, lead, or other hazardous materials to be removed, using monitoring devices.",0.00,on-site physical material identification
+20797,Hazardous Materials Removal Workers,Prepare hazardous material for removal or storage.,0.00,physical material handling
+11584,Hazardous Materials Removal Workers,Comply with prescribed safety procedures or federal laws regulating waste disposal methods.,0.05,compliance behavior during physical work
+11588,Hazardous Materials Removal Workers,"Load or unload materials into containers or onto trucks, using hoists or forklifts.",0.00,physical loading with equipment
+11589,Hazardous Materials Removal Workers,"Clean contaminated equipment or areas for reuse, using detergents or solvents, sandblasters, filter pumps, or steam cleaners.",0.00,physical cleaning of equipment
+19872,Hazardous Materials Removal Workers,Remove or limit contamination following emergencies involving hazardous substances.,0.00,physical emergency decontamination
+19869,Hazardous Materials Removal Workers,Clean mold-contaminated sites by removing damaged porous materials or thoroughly cleaning all contaminated nonporous materials.,0.00,physical mold cleanup
+11587,Hazardous Materials Removal Workers,"Operate machines or equipment to remove, package, store, or transport loads of waste materials.",0.00,physical equipment operation
+11585,Hazardous Materials Removal Workers,"Record numbers of containers stored at disposal sites, specifying amounts or types of equipment or waste disposed.",0.10,on-site recordkeeping of physical counts
+19873,Hazardous Materials Removal Workers,"Sort specialized hazardous waste at landfills or disposal centers, following proper disposal procedures.",0.00,physical waste sorting

@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+11451,Boilermakers,"Shape or fabricate parts, such as stacks, uptakes, or chutes, to adapt pressure vessels, heat exchangers, or piping to premises, using heavy-metalworking machines such as brakes, rolls, or drill presses.",0.00,physical metalworking on-site
+11449,Boilermakers,"Position, align, and secure structural parts or related assemblies to boiler frames, tanks, or vats of pressure vessels, following blueprints.",0.00,physical assembly work
+11452,Boilermakers,"Clean pressure vessel equipment, using scrapers, wire brushes, and cleaning solvents.",0.00,physical cleaning task
+11441,Boilermakers,"Repair or replace defective pressure vessel parts, such as safety valves or regulators, using torches, jacks, caulking hammers, power saws, threading dies, welding equipment, or metalworking machinery.",0.00,physical repair with tools
+11442,Boilermakers,Attach rigging and signal crane or hoist operators to lift heavy frame and plate sections or other parts into place.,0.00,physical rigging and signaling
+11447,Boilermakers,"Straighten or reshape bent pressure vessel plates or structure parts, using hammers, jacks, or torches.",0.00,physical metalworking
+11448,Boilermakers,"Shape seams, joints, or irregular edges of pressure vessel sections or structural parts to attain specified fit of parts, using cutting torches, hammers, files, or metalworking machines.",0.00,physical metalworking
+11439,Boilermakers,"Bolt or arc weld pressure vessel structures and parts together, using wrenches or welding equipment.",0.00,physical welding and fastening
+11445,Boilermakers,"Install manholes, handholes, taps, tubes, valves, gauges, or feedwater connections in drums of water tube boilers, using hand tools.",0.00,physical installation with hand tools
+11454,Boilermakers,Assemble large vessels in an on-site fabrication shop prior to installation to ensure proper fit.,0.00,physical on-site assembly
+11453,Boilermakers,Install refractory bricks or other heat-resistant materials in fireboxes of pressure vessels.,0.00,physical bricklaying
+4769,Brickmasons and Blockmasons,"Measure distance from reference points and mark guidelines to lay out work, using plumb bobs and levels.",0.00,physical on-site layout
+4768,Brickmasons and Blockmasons,"Construct corners by fastening in plumb position a corner pole or building a corner pyramid of bricks, and filling in between the corners using a line from corner to corner to guide each course, or layer, of brick.",0.00,physical masonry construction
+4775,Brickmasons and Blockmasons,Apply and smooth mortar or other mixture over work surface.,0.00,physical mortar application
+4770,Brickmasons and Blockmasons,Calculate angles and courses and determine vertical and horizontal alignment of courses.,0.15,calculation portion feasible but needs on-site verification
+4772,Brickmasons and Blockmasons,"Break or cut bricks, tiles, or blocks to size, using trowel edge, hammer, or power saw.",0.00,physical cutting
+4774,Brickmasons and Blockmasons,Interpret blueprints and drawings to determine specifications and to calculate the materials required.,0.60,desk-based blueprint analysis and material calculation
+4773,Brickmasons and Blockmasons,"Remove excess mortar with trowels and hand tools, and finish mortar joints with jointing tools, for a sealed, uniform appearance.",0.00,physical finishing work
+4771,Brickmasons and Blockmasons,"Fasten or fuse brick or other building material to structure with wire clamps, anchor holes, torch, or cement.",0.00,physical fastening
+4778,Brickmasons and Blockmasons,"Clean working surface to remove scale, dust, soot, or chips of brick and mortar, using broom, wire brush, or scraper.",0.00,physical cleaning
+4777,Brickmasons and Blockmasons,Examine brickwork or structure to determine need for repair.,0.15,mostly visual on-site inspection
+4776,Brickmasons and Blockmasons,"Mix specified amounts of sand, clay, dirt, or mortar powder with water to form refractory mixtures.",0.00,physical mixing
+4780,Brickmasons and Blockmasons,"Remove burned or damaged brick or mortar, using sledgehammer, crowbar, chipping gun, or chisel.",0.00,physical demolition work
+4779,Brickmasons and Blockmasons,"Lay and align bricks, blocks, or tiles to build or repair structures or high temperature equipment, such as cupola, kilns, ovens, or furnaces.",0.00,physical bricklaying
+4781,Brickmasons and Blockmasons,Spray or spread refractory material over brickwork to protect against deterioration.,0.00,physical application
+8768,Stonemasons,"Set vertical and horizontal alignment of structures, using plumb bob, gauge line, and level.",0.00,physical on-site alignment
+8766,Stonemasons,"Lay out wall patterns or foundations, using straight edge, rule, or staked lines.",0.00,physical layout work
+8771,Stonemasons,"Set stone or marble in place, according to layout or pattern.",0.00,physical placement
+8770,Stonemasons,"Remove wedges, fill joints between stones, finish joints between stones, using a trowel, and smooth the mortar to an attractive finish, using a tuck pointer.",0.00,physical finishing
+8772,Stonemasons,"Clean excess mortar or grout from surface of marble, stone, or monument, using sponge, brush, water, or acid.",0.00,physical cleaning
+8767,Stonemasons,"Shape, trim, face and cut marble or stone preparatory to setting, using power saws, cutting equipment, and hand tools.",0.00,physical stone cutting
+8769,Stonemasons,"Mix mortar or grout and pour or spread mortar or grout on marble slabs, stone, or foundation.",0.00,physical mixing and spreading
+8779,Stonemasons,Construct and install prefabricated masonry units.,0.00,physical installation
+8775,Stonemasons,"Smooth, polish, and bevel surfaces, using hand tools and power tools.",0.00,physical finishing
+8773,Stonemasons,"Lay brick to build shells of chimneys and smokestacks or to line or reline industrial furnaces, kilns, boilers and similar installations.",0.00,physical bricklaying
+8774,Stonemasons,Replace broken or missing masonry units in walls or floors.,0.00,physical repair
+8778,Stonemasons,"Remove sections of monument from truck bed, and guide stone onto foundation, using skids, hoist, or truck crane.",0.00,physical rigging and placement
+8776,Stonemasons,Drill holes in marble or ornamental stone and anchor brackets in holes.,0.00,physical drilling
+8780,Stonemasons,"Dig trench for foundation of monument, using pick and shovel.",0.00,physical digging
+8777,Stonemasons,"Repair cracked or chipped areas of stone or marble, using blowtorch and mastic, and remove rough or defective spots from concrete, using power grinder or chisel and hammer.",0.00,physical repair work
+8781,Stonemasons,"Position mold along guidelines of wall, press mold in place, and remove mold and paper from wall.",0.00,physical mold work
+23430,Carpenters,Follow established safety rules and regulations and maintain a safe and clean environment.,0.00,requires on-site physical presence
+23432,Carpenters,"Measure and mark cutting lines on materials, using a ruler, pencil, chalk, and marking gauge.",0.00,physical measuring on materials
+23443,Carpenters,"Assemble and fasten materials to make frameworks or props, using hand tools and wood screws, nails, dowel pins, or glue.",0.00,physical assembly
+23431,Carpenters,"Study specifications in blueprints, sketches, or building plans to prepare project layout and determine dimensions and materials required.",0.60,desk-based blueprint analysis and layout planning
+23433,Carpenters,"Shape or cut materials to specified measurements, using hand tools, machines, or power saws.",0.00,physical cutting
+23435,Carpenters,"Verify trueness of structure, using plumb bob and level.",0.00,physical verification on-site
+23442,Carpenters,"Inspect ceiling or floor tile, wall coverings, siding, glass, or woodwork to detect broken or damaged structures.",0.15,mostly visual on-site inspection
+23440,Carpenters,Erect scaffolding or ladders for assembling structures above ground level.,0.00,physical construction
+23434,Carpenters,"Install structures or fixtures, such as windows, frames, floorings, trim, or hardware, using carpenters' hand or power tools.",0.00,physical installation
+23438,Carpenters,"Maintain records, document actions, and present written progress reports.",0.85,pure documentation and writing task
+23446,Carpenters,"Remove damaged or defective parts or sections of structures and repair or replace, using hand tools.",0.00,physical repair
+23445,Carpenters,Maintain job records and schedule work crew.,0.55,records are info work but crew scheduling needs judgment
+23441,Carpenters,"Anchor and brace forms and other structures in place, using nails, bolts, anchor rods, steel cables, planks, wedges, and timbers.",0.00,physical bracing
+23444,Carpenters,"Bore boltholes in timber, masonry or concrete walls, using power drill.",0.00,physical drilling
+23447,Carpenters,"Install rough door and window frames, subflooring, fixtures, or temporary supports in structures undergoing construction or repair.",0.00,physical installation
+23458,Carpenters,Dig or direct digging of post holes and set poles to support structures.,0.00,physical digging
+23451,Carpenters,"Cover subfloors with building paper to keep out moisture and lay hardwood, parquet, or wood-strip-block floors by nailing floors to subfloor or cementing them to mastic or asphalt base.",0.00,physical flooring work
+23455,Carpenters,Construct forms or chutes for pouring concrete.,0.00,physical construction
+23437,Carpenters,"Arrange for subcontractors to deal with special areas, such as heating or electrical wiring work.",0.50,coordination via calls or emails involving vendor judgment
+23439,Carpenters,"Build or repair cabinets, doors, frameworks, floors, or other wooden fixtures used in buildings, using woodworking machines, carpenter's hand tools, or power tools.",0.00,physical woodworking
+23448,Carpenters,"Finish surfaces of woodwork or wallboard in houses or buildings, using paint, hand tools, or paneling.",0.00,physical finishing
+23436,Carpenters,Select and order lumber or other required materials.,0.60,research and ordering can be done remotely
+23457,Carpenters,Work with or remove hazardous material.,0.00,physical handling on-site
+23452,Carpenters,"Fill cracks or other defects in plaster or plasterboard and sand patch, using patching plaster, trowel, and sanding tool.",0.00,physical patching
+23454,Carpenters,Prepare cost estimates for clients or employers.,0.75,computation from materials and labor data
+23453,Carpenters,"Perform minor plumbing, welding, or concrete mixing work.",0.00,physical trade work
+23450,Carpenters,"Apply shock-absorbing, sound-deadening, or decorative paneling to ceilings or walls.",0.00,physical installation
+23449,Carpenters,"Examine structural timbers and supports to detect decay, and replace timbers as required, using hand tools, nuts, and bolts.",0.00,physical inspection and repair
+23456,Carpenters,Build sleds from logs and timbers for use in hauling camp buildings and machinery through wooded areas.,0.00,physical fabrication
+2835,Carpet Installers,"Inspect the surface to be covered to determine its condition, and correct any imperfections that might show through carpet or cause carpet to wear unevenly.",0.05,tactile inspection plus physical correction
+2836,Carpet Installers,"Roll out, measure, mark, and cut carpeting to size with a carpet knife, following floor sketches and allowing extra carpet for final fitting.",0.00,physical cutting
+2833,Carpet Installers,"Join edges of carpet and seam edges where necessary, by sewing or by using tape with glue and heated carpet iron.",0.00,physical seaming
+2834,Carpet Installers,"Cut and trim carpet to fit along wall edges, openings, and projections, finishing the edges with a wall trimmer.",0.00,physical trimming
+2837,Carpet Installers,"Plan the layout of the carpet, allowing for expected traffic patterns and placing seams for best appearance and longest wear.",0.10,planning needs on-site traffic assessment
+2838,Carpet Installers,"Stretch carpet to align with walls and ensure a smooth surface, and press carpet in place over tack strips or use staples, tape, tacks or glue to hold carpet in place.",0.00,physical installation
+2839,Carpet Installers,Take measurements and study floor sketches to calculate the area to be carpeted and the amount of material needed.,0.15,measurement is physical but area calculation is info work
+2841,Carpet Installers,"Install carpet on some floors using adhesive, following prescribed method.",0.00,physical installation
+20142,Carpet Installers,"Clean up before and after installation, including vacuuming carpet and discarding remnant pieces.",0.00,physical cleaning
+2844,Carpet Installers,"Measure, cut and install tackless strips along the baseboard or wall.",0.00,physical installation
+2842,Carpet Installers,Nail tack strips around area to be carpeted or use old strips to attach edges of new carpet.,0.00,physical fastening
+2840,Carpet Installers,"Cut carpet padding to size and install padding, following prescribed method.",0.00,physical installation
+2843,Carpet Installers,Fasten metal treads across door openings or where carpet meets flooring to hold carpet in place.,0.00,physical fastening
+2845,Carpet Installers,Draw building diagrams and record dimensions.,0.10,requires on-site measurement
+2846,Carpet Installers,Move furniture from area to be carpeted and remove old carpet and padding.,0.00,physical labor
+2847,Carpet Installers,Cut and bind material.,0.00,physical cutting
+8253,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Sweep, scrape, sand, or chip dirt and irregularities to clean base surfaces, correcting imperfections that may show through the covering.",0.00,physical surface prep
+8254,"Floor Layers, Except Carpet, Wood, and Hard Tiles",Cut flooring material to fit around obstructions.,0.00,physical cutting
+8255,"Floor Layers, Except Carpet, Wood, and Hard Tiles",Inspect surface to be covered to ensure that it is firm and dry.,0.05,tactile on-site inspection
+8256,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Trim excess covering materials, tack edges, and join sections of covering material to form tight joint.",0.00,physical installation
+8257,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Form a smooth foundation by stapling plywood or Masonite over the floor or by brushing waterproof compound onto surface and filling cracks with plaster, putty, or grout to seal pores.",0.00,physical construction
+8258,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Measure and mark guidelines on surfaces or foundations, using chalk lines and dividers.",0.00,physical on-site marking
+8259,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Cut covering and foundation materials, according to blueprints and sketches.",0.00,physical cutting
+8260,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Roll and press sheet wall and floor covering into cement base to smooth and finish surface, using hand roller.",0.00,physical installation
+8261,"Floor Layers, Except Carpet, Wood, and Hard Tiles",Apply adhesive cement to floor or wall material to join and adhere foundation material.,0.00,physical application
+8262,"Floor Layers, Except Carpet, Wood, and Hard Tiles",Determine traffic areas and decide location of seams.,0.10,planning needs on-site assessment
+8263,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Lay out, position, and apply shock-absorbing, sound-deadening, or decorative coverings to floors, walls, and cabinets, following guidelines to keep courses straight and create designs.",0.00,physical installation
+8264,"Floor Layers, Except Carpet, Wood, and Hard Tiles",Remove excess cement to clean finished surface.,0.00,physical cleaning
+8265,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Disconnect and remove appliances, light fixtures, and worn floor and wall covering from floors, walls, and cabinets.",0.00,physical removal
+8266,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Heat and soften floor covering materials to patch cracks or fit floor coverings around irregular surfaces, using blowtorch.",0.00,physical work with torch
+23933,Floor Sanders and Finishers,Buff and vacuum floors to ensure their cleanliness prior to the application of finish.,0.00,physical cleaning
+14870,Floor Sanders and Finishers,"Scrape and sand floor edges and areas inaccessible to floor sanders, using scrapers, disk-type sanders, and sandpaper.",0.00,physical sanding
+14869,Floor Sanders and Finishers,Inspect floors for smoothness.,0.05,tactile on-site inspection
+14872,Floor Sanders and Finishers,Attach sandpaper to rollers of sanding machines.,0.00,physical machine prep
+14871,Floor Sanders and Finishers,Guide sanding machines over surfaces of floors until surfaces are smooth.,0.00,physical machine operation
+14873,Floor Sanders and Finishers,Apply filler compound and coats of finish to floors to seal wood.,0.00,physical application
+14874,Floor Sanders and Finishers,"Remove excess glue from joints, using knives, scrapers, or wood chisels.",0.00,physical cleanup
+2848,Tile and Stone Setters,"Align and straighten tile using levels, squares, and straightedges.",0.00,physical alignment
+2851,Tile and Stone Setters,"Finish and dress the joints and wipe excess grout from between tiles, using damp sponge.",0.00,physical finishing
+2850,Tile and Stone Setters,"Cut and shape tile to fit around obstacles and into odd spaces and corners, using hand and power cutting tools.",0.00,physical cutting
+2849,Tile and Stone Setters,Determine and implement the best layout to achieve a desired pattern.,0.10,design portion feasible but implementation is physical
+2853,Tile and Stone Setters,"Mix, apply, and spread plaster, concrete, mortar, cement, mastic, glue or other adhesives to form a bed for the tiles, using brush, trowel and screed.",0.00,physical mixing and application
+2859,Tile and Stone Setters,Study blueprints and examine surface to be covered to determine amount of material needed.,0.15,blueprint study feasible but surface exam needs on-site presence
+2855,Tile and Stone Setters,"Measure and mark surfaces to be tiled, following blueprints.",0.00,physical on-site marking
+2864,Tile and Stone Setters,"Lay and set mosaic tiles to create decorative wall, mural, and floor designs.",0.00,physical tile setting
+2852,Tile and Stone Setters,"Apply mortar to tile back, position the tile, and press or tap with trowel handle to affix tile to base.",0.00,physical tile setting
+2869,Tile and Stone Setters,Mix and apply mortar or cement to edges and ends of drain tiles to seal halves and joints.,0.00,physical application
+2871,Tile and Stone Setters,Apply a sealer to make grout stain- and water-resistant.,0.00,physical application
+2856,Tile and Stone Setters,Level concrete and allow to dry.,0.00,physical leveling
+2867,Tile and Stone Setters,"Measure and cut metal lath to size for walls and ceilings, using tin snips.",0.00,physical cutting
+2861,Tile and Stone Setters,"Install and anchor fixtures in designated positions, using hand tools.",0.00,physical installation
+2858,Tile and Stone Setters,"Prepare surfaces for tiling by attaching lath or waterproof paper, or by applying a cement mortar coat to a metal screen.",0.00,physical prep work
+2866,Tile and Stone Setters,Remove and replace cracked or damaged tile.,0.00,physical repair
+2862,Tile and Stone Setters,"Cut tile backing to required size, using shears.",0.00,physical cutting
+2863,Tile and Stone Setters,"Remove any old tile, grout and adhesive using chisels and scrapers and clean the surface carefully.",0.00,physical demolition
+2860,Tile and Stone Setters,"Cut, surface, polish, and install marble and granite or install pre-cast terrazzo, granite or marble units.",0.00,physical stonework
+2870,Tile and Stone Setters,"Spread mastic or other adhesive base on roof deck to form base for promenade tile, using serrated spreader.",0.00,physical application
+2865,Tile and Stone Setters,Assist customers in selection of tile and grout.,0.55,consultative recommendation doable remotely
+2854,Tile and Stone Setters,"Prepare cost and labor estimates, based on calculations of time and materials needed for project.",0.75,computation from time and materials data
+2872,Tile and Stone Setters,"Brush glue onto manila paper on which design has been drawn and position tiles, finished side down, onto paper.",0.00,physical craft work

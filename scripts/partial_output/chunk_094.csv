@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+5051,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Operate underwater recovery units.,0.03,physical operation of underwater recovery gear
+5047,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Provide assistance with staff selection, training, and supervision.",0.35,can draft materials but supervision needs presence
+5050,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Provide assistance in the safe use of equipment, such as ski lifts.",0.05,on-site equipment safety instruction needs presence
+5052,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Participate in recreational demonstrations to entertain resort guests.,0.02,physical presence entertaining guests
+15341,Transportation Security Screeners,"Inspect carry-on items, using x-ray viewing equipment, to determine whether items contain objects that warrant further investigation.",0.10,on-site screening decision needs authority and presence
+15348,Transportation Security Screeners,Search carry-on or checked baggage by hand when it is suspected to contain prohibited items such as weapons.,0.02,physical hand search of baggage
+15332,Transportation Security Screeners,"Check passengers' tickets to ensure that they are valid, and to determine whether passengers have designations that require special handling, such as providing photo identification.",0.08,physical ID check at checkpoint
+15350,Transportation Security Screeners,"Test baggage for any explosive materials, using equipment such as explosive detection machines or chemical swab systems.",0.03,physical explosive testing on site
+15346,Transportation Security Screeners,"Perform pat-down or hand-held wand searches of passengers who have triggered machine alarms, who are unable to pass through metal detectors, or who have been randomly identified for such searches.",0.00,physical pat-down search
+15345,Transportation Security Screeners,Notify supervisors or other appropriate personnel when security breaches occur.,0.25,notification tied to physical detection event
+15349,Transportation Security Screeners,"Send checked baggage through automated screening machines, and set bags aside for searching or rescreening as indicated by equipment.",0.03,physical baggage handling
+15337,Transportation Security Screeners,Decide whether baggage that triggers alarms should be searched or should be allowed to pass through.,0.15,security decision needs authority and presence
+15354,Transportation Security Screeners,Follow those who breach security until police or other security personnel arrive to apprehend them.,0.00,physical pursuit of suspect
+15339,Transportation Security Screeners,Inform other screeners when baggage should not be opened because it might contain explosives.,0.15,communication tied to physical presence
+15342,Transportation Security Screeners,Inspect checked baggage for signs of tampering.,0.05,physical inspection of baggage
+15331,Transportation Security Screeners,Ask passengers to remove shoes and divest themselves of metal objects prior to walking through metal detectors.,0.05,physical passenger interaction
+15333,Transportation Security Screeners,Close entry areas following security breaches or reopen areas after receiving notification that the airport is secure.,0.00,physical area control action
+15353,Transportation Security Screeners,"Challenge suspicious people, requesting their badges and asking what their business is in a particular areas.",0.02,physical confrontation with security authority
+15355,Transportation Security Screeners,Patrol work areas to detect any suspicious items.,0.02,physical patrol of work areas
+15336,Transportation Security Screeners,"Contact police directly in cases of urgent security issues, using phones or two-way radios.",0.25,communication tied to on-site judgment
+15347,Transportation Security Screeners,Record information about any baggage that sets off alarms in monitoring equipment.,0.40,data recording tied to physical alarm event
+15352,Transportation Security Screeners,Watch for potentially dangerous persons whose pictures are posted at checkpoints.,0.15,visual watch needs on-site checkpoint presence
+15335,Transportation Security Screeners,Contact leads or supervisors to discuss objects of concern that are not on prohibited object lists.,0.15,judgment call tied to physical presence
+15334,Transportation Security Screeners,Confiscate dangerous items and hazardous materials found in opened bags and turn them over to airlines for disposal.,0.00,physical confiscation with authority
+15344,Transportation Security Screeners,Monitor passenger flow through screening checkpoints to ensure order and efficiency.,0.20,on-site crowd flow monitoring
+15340,Transportation Security Screeners,"Inform passengers of how to mail prohibited items to themselves, or confiscate these items.",0.15,mostly physical confiscation and interaction
+15356,Transportation Security Screeners,Provide directions and respond to passenger inquiries.,0.40,info Q&A but mostly on-site presence
+15338,Transportation Security Screeners,Direct passengers to areas where they can pick up their baggage after screening is complete.,0.10,physical directing at site
+15351,Transportation Security Screeners,"View images of checked bags and cargo, using remote screening equipment, and alert baggage screeners or handlers to any possible problems.",0.40,remote image review with alerting
+15343,Transportation Security Screeners,"Locate suspicious bags pictured in printouts sent from remote monitoring areas, and set these bags aside for inspection.",0.25,image review plus physical bag handling
+23081,School Bus Monitors,Announce routes or stops.,0.20,verbal announcement needs on-bus presence
+23082,School Bus Monitors,"Assist children with disabilities or children with psychological, emotional, or behavioral issues with boarding and exiting the school bus.",0.00,physical assistance for children with disabilities
+23083,School Bus Monitors,Buckle seatbelts or fasten wheelchair tie-down straps to secure passengers for transportation.,0.00,physical buckling of restraints
+23084,School Bus Monitors,"Clean school bus interiors by picking up waste, wiping down windows, or vacuuming.",0.00,physical cleaning
+23085,School Bus Monitors,Direct students boarding and exiting the school bus.,0.02,physical presence directing students
+23086,School Bus Monitors,Direct students evacuating the bus during safety drills.,0.00,physical safety drill supervision
+23087,School Bus Monitors,Escort young children across roads or highways.,0.00,physical escort across roads
+23088,School Bus Monitors,Evacuate students from the school bus in emergency situations.,0.00,physical emergency evacuation
+23089,School Bus Monitors,Guide the driver when the bus is moving in reverse gear.,0.00,physical guiding outside bus
+23090,School Bus Monitors,Monitor for trains at railroad crossings and signal the bus driver when it is safe to proceed.,0.05,safety critical on-site visual monitoring
+23091,School Bus Monitors,Monitor the conduct of students to maintain discipline and safety.,0.05,physical presence discipline authority
+23092,School Bus Monitors,Open and close school bus doors for students.,0.02,physical door operation for students
+23093,School Bus Monitors,Operate a wheelchair lift to load or unload wheelchairs.,0.00,physical lift operation
+23094,School Bus Monitors,Prevent or defuse altercations between students.,0.00,physical intervention with authority
+23095,School Bus Monitors,"Report delays, accidents, or other traffic and transportation situations to dispatchers or other bus drivers, using phones or mobile two-way radios.",0.20,reporting tied to on-site awareness
+23096,School Bus Monitors,"Respond to students' questions, requests, or complaints.",0.15,live in-person response to students
+23097,School Bus Monitors,"Talk to children's parents or guardians about problematic behaviors, emotional or developmental problems, or related issues.",0.15,needs human rapport and trust
+23098,School Bus Monitors,"Write and submit reports that include data such as the number of passengers or trips, hours worked, mileage driven, or fuel consumed.",0.75,pure administrative data reporting
+17561,Retail Loss Prevention Specialists,"Investigate known or suspected internal theft, external theft, or vendor fraud.",0.40,investigation mixes analysis and human interviews
+17560,Retail Loss Prevention Specialists,Implement or monitor processes to reduce property or financial losses.,0.55,process design and monitoring largely analytical
+17565,Retail Loss Prevention Specialists,Identify and report merchandise or stock shortages.,0.75,data analysis and reporting of shortages
+17567,Retail Loss Prevention Specialists,Maintain documentation or reports on security-related incidents or investigations.,0.85,pure documentation and reporting
+17575,Retail Loss Prevention Specialists,Apprehend shoplifters in accordance with guidelines.,0.00,physical apprehension with authority
+17573,Retail Loss Prevention Specialists,"Verify proper functioning of physical security systems, such as closed-circuit televisions, alarms, sensor tag systems, or locks.",0.25,mostly on-site physical verification
+17578,Retail Loss Prevention Specialists,Identify and report safety concerns to maintain a safe shopping and working environment.,0.20,on-site observation for safety concerns
+17563,Retail Loss Prevention Specialists,Conduct store audits to identify problem areas or procedural deficiencies.,0.25,on-site audit with physical inspection
+17568,Retail Loss Prevention Specialists,"Monitor compliance with standard operating procedures for loss prevention, physical security, or risk management.",0.40,compliance monitoring partly data based
+17566,Retail Loss Prevention Specialists,"Inspect buildings, equipment, or access points to determine security risks.",0.10,physical on-site inspection
+17569,Retail Loss Prevention Specialists,"Perform covert surveillance of areas susceptible to loss, such loading docks, distribution centers, or warehouses.",0.30,surveillance partly via camera feeds
+17570,Retail Loss Prevention Specialists,Prepare written reports on investigations.,0.85,pure report writing
+17562,Retail Loss Prevention Specialists,Collaborate with law enforcement agencies to report or investigate crimes.,0.15,requires human authority liaison with police
+17574,Retail Loss Prevention Specialists,Testify in civil or criminal court proceedings.,0.02,sworn courtroom testimony needs legal presence
+17579,Retail Loss Prevention Specialists,Recommend methods to reduce potential financial fraud losses.,0.85,analytical recommendation writing
+17572,Retail Loss Prevention Specialists,Train establishment personnel in loss prevention activities.,0.35,can prepare materials but live training needs presence
+17577,Retail Loss Prevention Specialists,"Coordinate with risk management, human resources, or other departments to assist in company programs, investigations, or training.",0.30,coordination needing human interaction
+17580,Retail Loss Prevention Specialists,"Respond to critical incidents, such as catastrophic events, violent weather, or civil disorders.",0.03,physical presence for critical incident response
+17571,Retail Loss Prevention Specialists,Recommend new or improved processes or equipment to reduce risk exposure.,0.85,analytical process recommendation
+17564,Retail Loss Prevention Specialists,Direct work of contract security officers or other loss prevention agents.,0.20,directing agents needs authority and presence
+17576,Retail Loss Prevention Specialists,Conduct employee background investigations and review reports with operational or human resources managers.,0.50,background checks are info work but review meetings need humans
+11129,Chefs and Head Cooks,Monitor sanitation practices to ensure that employees follow standards and regulations.,0.15,on-site observation of employee practices
+11135,Chefs and Head Cooks,"Instruct cooks or other workers in the preparation, cooking, garnishing, or presentation of food.",0.30,can prepare instructions but live demo needs presence
+11132,Chefs and Head Cooks,Supervise or coordinate activities of cooks or workers engaged in food preparation.,0.15,on-site supervision of kitchen staff
+11131,Chefs and Head Cooks,Order or requisition food or other supplies needed to ensure efficient operation.,0.85,procurement is a pure admin task
+11133,Chefs and Head Cooks,"Inspect supplies, equipment, or work areas to ensure conformance to established standards.",0.10,physical inspection of work areas
+11130,Chefs and Head Cooks,Check the quantity and quality of received products.,0.10,physical quality check of deliveries
+11128,Chefs and Head Cooks,Check the quality of raw or cooked food products to ensure that standards are met.,0.05,physical taste and quality check
+11136,Chefs and Head Cooks,"Estimate amounts and costs of required supplies, such as food and ingredients.",0.90,pure cost calculation
+11148,Chefs and Head Cooks,"Coordinate planning, budgeting, or purchasing for all the food operations within establishments such as clubs, hotels, or restaurant chains.",0.60,mostly analytical planning and budgeting
+11138,Chefs and Head Cooks,"Analyze recipes to assign prices to menu items, based on food, labor, and overhead costs.",0.90,pure recipe cost analysis
+11147,Chefs and Head Cooks,"Plan, direct, or supervise food preparation or cooking activities of multiple kitchens or restaurants in an establishment such as a restaurant chain, hospital, or hotel.",0.20,on-site supervision of multiple kitchens
+11134,Chefs and Head Cooks,Determine how food should be presented and create decorative food displays.,0.05,physical plating craft
+11139,Chefs and Head Cooks,"Prepare and cook foods of all types, either on a regular basis or for special guests or functions.",0.00,physical cooking labor
+11140,Chefs and Head Cooks,Determine production schedules and staff requirements necessary to ensure timely delivery of services.,0.80,scheduling and planning analysis
+11142,Chefs and Head Cooks,"Meet with customers to discuss menus for special occasions, such as weddings, parties, or banquets.",0.40,client meeting needs live rapport
+11141,Chefs and Head Cooks,"Recruit and hire staff, such as cooks and other kitchen workers.",0.25,hiring needs interviews and judgment
+11146,Chefs and Head Cooks,Record production or operational data on specified forms.,0.85,pure data entry
+11144,Chefs and Head Cooks,Meet with sales representatives to negotiate prices or order supplies.,0.35,vendor price negotiation
+11145,Chefs and Head Cooks,Arrange for equipment purchases or repairs.,0.70,arranging purchases and coordinating repairs
+11143,Chefs and Head Cooks,Demonstrate new cooking techniques or equipment to staff.,0.05,physical demonstration to staff
+11137,Chefs and Head Cooks,"Collaborate with other personnel to plan and develop recipes or menus, taking into account such factors as seasonal availability of ingredients or the likely number of customers.",0.50,recipe collaboration mixes creative and human input
+2145,First-Line Supervisors of Food Preparation and Serving Workers,Resolve customer complaints regarding food service.,0.35,customer complaint resolution needs live interaction
+2146,First-Line Supervisors of Food Preparation and Serving Workers,"Train workers in food preparation, and in service, sanitation, and safety procedures.",0.25,live hands-on training needed
+2150,First-Line Supervisors of Food Preparation and Serving Workers,"Assign duties, responsibilities, and work stations to employees in accordance with work requirements.",0.65,scheduling assignment largely info work
+2157,First-Line Supervisors of Food Preparation and Serving Workers,Present bills and accept payments.,0.15,physical payment handling at site
+18714,First-Line Supervisors of Food Preparation and Serving Workers,"Perform various financial activities, such as cash handling, deposit preparation, and payroll.",0.20,cash handling is physical
+18715,First-Line Supervisors of Food Preparation and Serving Workers,Supervise and participate in kitchen and dining area cleaning activities.,0.05,physical cleaning supervision
+2155,First-Line Supervisors of Food Preparation and Serving Workers,Recommend measures for improving work procedures and worker performance to increase service quality and enhance job safety.,0.80,analytical recommendation writing
+2154,First-Line Supervisors of Food Preparation and Serving Workers,"Specify food portions and courses, production and time sequences, and workstation and equipment arrangements.",0.70,planning specification is info work
+2148,First-Line Supervisors of Food Preparation and Serving Workers,"Control inventories of food, equipment, smallware, and liquor, and report shortages to designated personnel.",0.40,inventory control mixes data tracking and physical counts
+18716,First-Line Supervisors of Food Preparation and Serving Workers,"Observe and evaluate workers and work procedures to ensure quality standards and service, and complete disciplinary write-ups.",0.25,on-site observation plus write-ups
+2153,First-Line Supervisors of Food Preparation and Serving Workers,"Analyze operational problems, such as theft and wastage, and establish procedures to alleviate these problems.",0.70,analytical problem review
+2147,First-Line Supervisors of Food Preparation and Serving Workers,"Inspect supplies, equipment, and work areas to ensure efficient service and conformance to standards.",0.10,physical inspection of work areas
+2156,First-Line Supervisors of Food Preparation and Serving Workers,"Greet and seat guests, and present menus and wine lists.",0.05,physical hosting presence
+2167,First-Line Supervisors of Food Preparation and Serving Workers,Evaluate new products for usefulness and suitability.,0.40,product evaluation may need physical taste test
+2144,First-Line Supervisors of Food Preparation and Serving Workers,Compile and balance cash receipts at the end of the day or shift.,0.75,cash reconciliation is computational
+2158,First-Line Supervisors of Food Preparation and Serving Workers,"Forecast staff, equipment, and supply requirements, based on a master menu.",0.85,forecasting analysis
+18721,First-Line Supervisors of Food Preparation and Serving Workers,"Assess nutritional needs of patients, plan special menus, supervise the assembly of regular and special diet trays, and oversee the delivery of food trolleys to hospital patients.",0.35,planning is info work but delivery oversight is physical
+18719,First-Line Supervisors of Food Preparation and Serving Workers,"Record production, operational, and personnel data on specified forms.",0.85,pure data entry
+18717,First-Line Supervisors of Food Preparation and Serving Workers,"Perform personnel actions, such as hiring and firing staff, providing employee orientation and training, and conducting supervisory activities, such as creating work schedules or organizing employee time sheets.",0.25,personnel actions need human authority and presence
+2151,First-Line Supervisors of Food Preparation and Serving Workers,Estimate ingredients and supplies required to prepare a recipe.,0.90,pure recipe calculation
+2161,First-Line Supervisors of Food Preparation and Serving Workers,Purchase or requisition supplies and equipment needed to ensure quality and timely delivery of services.,0.80,procurement admin task
+18718,First-Line Supervisors of Food Preparation and Serving Workers,"Perform food preparation and serving duties, such as carving meat, preparing flambe dishes, or serving wine and liquor.",0.00,physical food service labor
+2164,First-Line Supervisors of Food Preparation and Serving Workers,Schedule parties and take reservations.,0.85,scheduling and reservations admin task
+2165,First-Line Supervisors of Food Preparation and Serving Workers,"Develop departmental objectives, budgets, policies, procedures, and strategies.",0.75,strategy drafting is text work
+18720,First-Line Supervisors of Food Preparation and Serving Workers,"Conduct meetings and collaborate with other personnel for menu planning, serving arrangements, and related details.",0.40,meeting facilitation needs live human collaboration
+2166,First-Line Supervisors of Food Preparation and Serving Workers,Develop equipment maintenance schedules and arrange for repairs.,0.70,maintenance scheduling and vendor coordination
+5070,"Cooks, Fast Food",Order and take delivery of supplies.,0.35,ordering is admin but delivery receipt is physical
+5062,"Cooks, Fast Food","Cook the exact number of items ordered by each customer, working on several different orders simultaneously.",0.00,physical cooking labor
+5065,"Cooks, Fast Food","Prepare specialty foods, such as pizzas, fish and chips, sandwiches, or tacos, following specific methods that usually require short preparation time.",0.00,physical food prep
+5055,"Cooks, Fast Food","Operate large-volume cooking equipment, such as grills, deep-fat fryers, or griddles.",0.00,physical equipment operation
+5059,"Cooks, Fast Food","Wash, cut, and prepare foods designated for cooking.",0.00,physical food prep
+5068,"Cooks, Fast Food","Prepare and serve beverages, such as coffee or fountain drinks.",0.00,physical beverage prep
+5054,"Cooks, Fast Food","Clean food preparation areas, cooking surfaces, and utensils.",0.00,physical cleaning
+5058,"Cooks, Fast Food","Read food order slips or receive verbal instructions as to food required by patron, and prepare and cook food according to instructions.",0.10,mostly physical cooking despite reading orders
+5063,"Cooks, Fast Food","Serve orders to customers at windows, counters, or tables.",0.02,physical serving
+5064,"Cooks, Fast Food","Clean, stock, and restock workstations and display cases.",0.00,physical stocking and cleaning
+5053,"Cooks, Fast Food","Maintain sanitation, health, and safety standards in work areas.",0.05,physical on-site sanitation maintenance
+5061,"Cooks, Fast Food","Cook and package batches of food, such as hamburgers or fried chicken, prepared to order or kept warm until sold.",0.00,physical cooking labor
+5066,"Cooks, Fast Food","Prepare dough, following recipe.",0.00,physical dough prep
+5057,"Cooks, Fast Food",Take food and drink orders and receive payment from customers.,0.50,order taking and payment could be digital kiosk

@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+6982,Residential Advisors,"Direct and participate in on- and off-campus recreational activities for residents of institutions, boarding schools, fraternities or sororities, children's homes, or similar establishments.",0.03,requires physical presence leading activities
+6989,Residential Advisors,Sort and distribute mail.,0.03,physical mail handling
+6997,Residential Advisors,"Inventory, pack, and remove items left behind by former residents.",0.10,mostly physical packing and removal
+23340,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Assign tasks such as feeding and treatment of animals, and cleaning and maintenance of animal quarters.",0.40,task assignment mostly needs on-site coordination
+23341,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Record the numbers and types of fish or shellfish reared, harvested, released, sold, and shipped.",0.30,recording requires physical on-site counting
+23342,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Monitor workers to ensure that safety regulations are followed, warning or disciplining those who violate safety regulations.",0.05,physical presence and disciplinary authority needed
+23343,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Observe animals for signs of illness, injury, or unusual behavior, notifying veterinarians or managers as warranted.",0.05,requires physical animal observation
+23344,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Observe fish and beds or ponds to detect diseases, monitor fish growth, determine quality of fish, or determine completeness of harvesting.",0.05,requires physical pond observation
+23345,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Train workers in tree felling or bucking, operation of tractors or loading machines, yarding or loading techniques, or safety regulations.",0.05,hands-on physical training
+23346,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Treat animal illnesses or injuries, following experience or instructions of veterinarians.",0.05,physical veterinary treatment
+23347,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Train workers in spawning, rearing, cultivating, and harvesting methods, and in the use of equipment.",0.05,hands-on physical training
+23348,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Train workers in techniques such as planting, harvesting, weeding, or insect identification and in the use of safety measures.",0.05,hands-on physical training
+23349,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Confer with managers to evaluate weather or soil conditions, to develop plans or procedures, or to discuss issues such as changes in fertilizers, herbicides, or cultivating techniques.",0.35,planning conversation but needs on-site condition assessment
+23350,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Communicate with forestry personnel regarding forest harvesting or forest management plans, procedures, or schedules.",0.60,communication task doable remotely
+23351,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Inspect crops, fields, or plant stock to determine conditions and need for cultivating, spraying, weeding, or harvesting.",0.05,requires physical field inspection
+23352,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Coordinate dismantling, moving, and setting up equipment at new work sites.",0.10,physical on-site coordination
+23353,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Coordinate the selection and movement of logs from storage areas, according to transportation schedules or production requirements.",0.45,logistics coordination largely remote
+23354,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Schedule work crews, equipment, or transportation for several different work locations.",0.75,scheduling is pure planning work
+23355,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Drive or operate farm machinery, such as trucks, tractors, or self-propelled harvesters, to transport workers or supplies or to cultivate or harvest fields.",0.00,physical machine operation
+23356,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Perform both supervisory and management functions, such as accounting, marketing, and personnel work.",0.50,accounting doable but personnel authority needed
+23357,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Transport or arrange for transport of animals, equipment, food, animal feed, and other supplies to and from work sites.",0.30,arranging transport partly remote rest physical
+23358,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Inspect buildings, fences, fields or ranges, supplies, and equipment to determine work to be performed.",0.05,physical facility inspection
+23359,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Read inventory records, customer orders, or shipping schedules to determine required activities.",0.90,pure information review task
+23360,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",Inspect facilities to determine maintenance needs.,0.05,physical facility inspection
+23361,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Confer with managers to determine production requirements, conditions of equipment and supplies, and work schedules.",0.35,conversation but needs on-site equipment checks
+23362,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Prepare and maintain time or payroll reports, as well as details of personnel actions, such as performance evaluations, hires, promotions, or disciplinary actions.",0.80,documentation and record keeping task
+23363,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Requisition or purchase supplies, such as insecticides, machine parts or lubricants, or tools.",0.75,purchasing supplies via online ordering
+23364,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Monitor or oversee construction projects, such as horticultural buildings or irrigation systems.",0.10,requires physical construction oversight
+23365,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Issue equipment, such as farm implements, machinery, ladders, or containers to workers, and collect equipment when work is complete.",0.05,physical equipment handling
+23366,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Calculate or monitor budgets for maintenance or development of collections, grounds, or infrastructure.",0.85,pure budget calculation and analysis
+23367,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",Direct or assist with the adjustment or repair of equipment or machinery.,0.05,physical equipment repair
+23368,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Monitor operations to identify and solve problems, improve work methods, and ensure compliance with safety, company, and government regulations.",0.15,monitoring largely requires physical presence
+23369,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",Plan work schedules according to personnel and equipment availability.,0.80,pure scheduling and planning work
+14854,Agricultural Inspectors,Inspect food products and processing procedures to determine whether products are safe to eat.,0.05,requires physical food safety inspection
+14850,Agricultural Inspectors,Interpret and enforce government acts and regulations and explain required standards to agricultural workers.,0.25,explaining is info work but enforcement needs authority
+14846,Agricultural Inspectors,"Inspect agricultural commodities or related operations, as well as fish or logging operations, for compliance with laws and regulations governing health, quality, and safety.",0.05,requires physical inspection and legal authority
+14857,Agricultural Inspectors,Label and seal graded products and issue official grading certificates.,0.05,physical labeling and official certification authority
+14853,Agricultural Inspectors,Monitor the operations and sanitary conditions of slaughtering or meat processing plants.,0.05,requires physical plant monitoring
+14855,Agricultural Inspectors,"Take emergency actions, such as closing production facilities, if product safety is compromised.",0.03,requires legal authority and decisive physical action
+14848,Agricultural Inspectors,Verify that transportation and handling procedures meet regulatory requirements.,0.20,mostly requires physical verification on-site
+14852,Agricultural Inspectors,Inspect the cleanliness and practices of establishment employees.,0.05,requires physical workplace observation
+14863,Agricultural Inspectors,"Examine, weigh, and measure commodities, such as poultry, eggs, meat, or seafood to certify qualities, grades, and weights.",0.05,physical examination and certification authority
+14847,Agricultural Inspectors,"Inspect or test horticultural products or livestock to detect harmful diseases, chemical residues, or infestations and to determine the quality of products or animals.",0.05,requires physical or lab testing
+14856,Agricultural Inspectors,Monitor the grading performed by company employees to verify conformance to standards.,0.10,requires physical monitoring at plant
+14851,Agricultural Inspectors,"Write reports of findings and recommendations and advise farmers, growers, or processors of corrective action to be taken.",0.65,report writing and advice from given findings
+14849,Agricultural Inspectors,"Collect samples from animals, plants, or products and route them to laboratories for microbiological assessment, ingredient verification, or other testing.",0.05,physical sample collection
+14866,Agricultural Inspectors,"Provide consultative services in areas such as equipment or product evaluation, plant construction or layout, or food safety systems.",0.55,consultative advice is mostly information work
+14868,Agricultural Inspectors,Testify in legal proceedings.,0.02,requires legal personhood and in-person testimony
+14864,Agricultural Inspectors,Compare product recipes with government-approved formulas or recipes to determine acceptability.,0.90,pure document comparison task
+8232,Animal Breeders,"Feed and water animals, and clean and disinfect pens, cages, yards, and hutches.",0.00,physical animal care
+8237,Animal Breeders,"Observe animals in heat to detect approach of estrus and exercise animals to induce or hasten estrus, if necessary.",0.02,requires physical animal observation
+8236,Animal Breeders,Treat minor injuries and ailments and contact veterinarians to obtain treatment for animals with serious illnesses or injuries.,0.05,physical treatment of animals
+21080,Animal Breeders,Purchase and stock supplies of feed and medicines.,0.35,purchasing remote but stocking is physical
+8235,Animal Breeders,"Select animals to be bred, and semen specimens to be used, according to knowledge of animals, genealogies, traits, and desired offspring characteristics.",0.70,analytical selection from recorded traits data
+8233,Animal Breeders,Examine animals to detect symptoms of illness or injury.,0.05,physical animal examination
+8240,Animal Breeders,"Build hutches, pens, and fenced yards.",0.00,physical construction
+8238,Animal Breeders,"Record animal characteristics such as weights, growth patterns, and diets.",0.30,recording requires physical measurement
+8251,Animal Breeders,"Brand, tattoo, or tag animals to allow animal identification.",0.00,physical animal marking
+8246,Animal Breeders,"Arrange for sale of animals and eggs to hospitals, research centers, pet shops, and food processing plants.",0.55,sales arranging is mostly communication work
+8234,Animal Breeders,"Place vaccines in drinking water, inject vaccines, or dust air with vaccine powder to protect animals from diseases.",0.00,physical vaccine administration
+21081,Animal Breeders,Bathe and groom animals.,0.00,physical animal grooming
+21082,Animal Breeders,Exercise animals to keep them in healthy condition.,0.00,physical animal exercise
+8249,Animal Breeders,Adjust controls to maintain specific building temperatures required for animals' health and safety.,0.20,mostly physical control adjustment
+8245,Animal Breeders,Maintain logs of semen specimens used and animals bred.,0.85,pure log and record keeping
+8248,Animal Breeders,"Inject prepared animal semen into female animals for breeding purposes, by inserting nozzle of syringe into vagina and depressing syringe plunger.",0.00,physical insemination procedure
+8241,Animal Breeders,Clip or shear hair on animals.,0.00,physical grooming task
+8243,Animal Breeders,"Package and label semen to be used for artificial insemination, recording information such as the date, source, quality, and concentration.",0.10,mostly physical packaging some recording
+8239,Animal Breeders,Exhibit animals at shows.,0.00,requires physical presence at shows
+8247,Animal Breeders,"Measure specified amounts of semen into calibrated syringes, and insert syringes into inseminating guns.",0.00,physical syringe handling
+8250,Animal Breeders,"Examine semen microscopically to assess and record density and motility of gametes, and dilute semen with prescribed diluents, according to formulas.",0.10,physical lab sample handling
+13352,"Graders and Sorters, Agricultural Products",Place products in containers according to grade and mark grades on containers.,0.00,physical container placement
+13351,"Graders and Sorters, Agricultural Products","Weigh products or estimate their weight, visually or by feel.",0.00,physical weighing by feel
+13350,"Graders and Sorters, Agricultural Products","Discard inferior or defective products or foreign matter, and place acceptable products in containers for further processing.",0.00,physical sorting and discarding
+13349,"Graders and Sorters, Agricultural Products","Grade and sort products according to factors such as color, species, length, width, appearance, feel, smell, and quality to ensure correct processing and usage.",0.05,physical sensory sorting no body
+13353,"Graders and Sorters, Agricultural Products","Record grade or identification numbers on tags or on shipping, receiving, or sales sheets.",0.80,pure data recording task
+13369,Agricultural Equipment Operators,"Load and unload crops or containers of materials, manually or using conveyors, handtrucks, forklifts, or transfer augers.",0.00,physical loading and unloading
+13358,Agricultural Equipment Operators,"Mix specified materials or chemicals, and dump solutions, powders, or seeds into planter or sprayer machinery.",0.00,physical material mixing
+13363,Agricultural Equipment Operators,"Spray fertilizer or pesticide solutions to control insects, fungus and weed growth, and diseases, using hand sprayers.",0.00,physical spraying with hand tools
+13356,Agricultural Equipment Operators,Observe and listen to machinery operation to detect equipment malfunctions.,0.02,physical sensory machine monitoring
+13360,Agricultural Equipment Operators,"Manipulate controls to set, activate, and adjust mechanisms on machinery.",0.00,physical control manipulation
+13359,Agricultural Equipment Operators,"Operate or tend equipment used in agricultural production, such as tractors, combines, and irrigation equipment.",0.00,physical equipment operation
+13355,Agricultural Equipment Operators,"Adjust, repair, and service farm machinery and notify supervisors when machinery malfunctions.",0.05,mostly physical repair work
+13364,Agricultural Equipment Operators,"Attach farm implements such as plows, discs, sprayers, or harvesters to tractors, using bolts and hand tools.",0.00,physical implement attachment
+13362,Agricultural Equipment Operators,"Load hoppers, containers, or conveyors to feed machines with products, using forklifts, transfer augers, suction gates, shovels, or pitchforks.",0.00,physical loading with tools
+13361,Agricultural Equipment Operators,"Direct and monitor the activities of work crews engaged in planting, weeding, or harvesting activities.",0.10,requires physical on-site supervision
+13365,Agricultural Equipment Operators,"Operate towed machines such as seed drills or manure spreaders to plant, fertilize, dust, and spray crops.",0.00,physical machine operation
+13368,Agricultural Equipment Operators,"Weigh crop-filled containers, and record weights and other identifying information.",0.08,mostly physical weighing
+13367,Agricultural Equipment Operators,Walk beside or ride on planting machines while inserting plants in planter mechanisms at specified intervals.,0.00,physical machine riding
+13366,Agricultural Equipment Operators,"Drive trucks to haul crops, supplies, tools, or farm workers.",0.00,physical truck driving
+13370,Agricultural Equipment Operators,"Guide products on conveyors to regulate flow through machines, and to discard diseased or rotten products.",0.00,physical conveyor guiding
+13371,Agricultural Equipment Operators,"Position boxes or attach bags at discharge ends of machinery to catch products, removing and closing full containers.",0.00,physical container positioning
+13357,Agricultural Equipment Operators,"Irrigate soil, using portable pipes or ditch systems, and maintain ditches or pipes and pumps.",0.00,physical irrigation maintenance
+23387,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Record information about crops, such as pesticide use, yields, or costs.",0.80,pure data recording task
+23379,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",Direct and monitor the work of casual and seasonal help during planting and harvesting.,0.10,requires physical on-site supervision
+23392,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Participate in the inspection, grading, sorting, storage, and post-harvest treatment of crops.",0.05,physical participation in field tasks
+23370,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Harvest plants, and transplant or pot and label them.",0.00,physical harvesting and transplanting
+23373,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Repair and maintain farm vehicles, implements, and mechanical equipment.",0.00,physical vehicle repair
+23374,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",Harvest fruits and vegetables by hand.,0.00,physical hand harvesting
+23372,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",Set up and operate irrigation equipment.,0.00,physical irrigation setup
+23378,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",Inform farmers or farm managers of crop progress.,0.75,informing is pure communication task
+23380,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Identify plants, pests, and weeds to determine the selection and application of pesticides and fertilizers.",0.30,identification mostly requires field presence
+23371,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Operate tractors, tractor-drawn machinery, and self-propelled machinery to plow, harrow and fertilize soil, or to plant, cultivate, spray and harvest crops.",0.00,physical machinery operation
+23397,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Load agricultural products into trucks, and drive trucks to market or storage facilities.",0.00,physical loading and driving
+23375,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Clean work areas, and maintain grounds and landscaping.",0.00,physical grounds maintenance
+23376,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",Sell and deliver plants and flowers to customers.,0.15,selling partly remote but delivery physical
+23381,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Regulate greenhouse conditions, and indoor and outdoor irrigation systems.",0.20,mostly physical system regulation
+23383,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",Feel plants' leaves and note their coloring to detect the presence of insects or disease.,0.02,requires physical touch and observation
+23384,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Provide information and advice to the public regarding the selection, purchase, and care of products.",0.85,pure informational advice task
+23385,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",Maintain and repair irrigation and climate control systems.,0.00,physical system repair
+23386,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Dig, cut, and transplant seedlings, cuttings, trees, and shrubs.",0.00,physical digging and transplanting
+23390,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",Record information about plants and plant growth.,0.80,pure data recording task
+23389,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Maintain inventory, ordering materials as required.",0.80,inventory tracking and remote ordering
+23391,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Dig, rake, and screen soil, filling cold frames and hot beds in preparation for planting.",0.00,physical soil preparation
+23393,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",Inspect plants and bud ties to assess quality.,0.05,physical quality inspection
+23395,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Move containerized shrubs, plants, and trees, using wheelbarrows or tractors.",0.00,physical plant moving
+23396,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Tie and bunch flowers, plants, shrubs, and trees, wrap their roots, and pack them into boxes to fill orders.",0.00,physical tying and packing
+23398,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Haul and spread topsoil, fertilizer, peat moss, and other materials to condition soil, using wheelbarrows or carts and shovels.",0.00,physical hauling and spreading
+23388,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Repair farm buildings, fences, and other structures.",0.00,physical building repair
+23399,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Plant, spray, weed, fertilize, water, and prune plants, shrubs, and trees, using gardening tools.",0.00,physical gardening tasks
+13410,"Farmworkers, Farm, Ranch, and Aquacultural Animals",Feed and water livestock and monitor food and water supplies.,0.05,mostly physical feeding and watering
+13419,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Herd livestock to pastures for grazing or to scales, trucks, or other enclosures.",0.00,physical livestock herding
+13412,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Examine animals to detect illness, injury, or disease, and to check physical characteristics, such as rate of weight gain.",0.05,physical animal examination
+13413,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Provide medical treatment, such as administering medications and vaccinations, or arrange for veterinarians to provide more extensive treatment.",0.10,mostly physical treatment small scheduling part
+13418,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Mark livestock to identify ownership and grade, using brands, tags, paint, or tattoos.",0.00,physical animal marking
+13411,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Drive trucks, tractors, and other equipment to distribute feed to animals.",0.00,physical driving to distribute feed
+13424,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Segregate animals according to weight, age, color, and physical condition.",0.02,physical animal handling
+13415,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Inspect, maintain, and repair equipment, machinery, buildings, pens, yards, and fences.",0.00,physical equipment repair
+13416,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Move equipment, poultry, or livestock from one location to another, manually or using trucks or carts.",0.00,physical equipment or livestock moving
+13417,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Clean stalls, pens, and equipment, using disinfectant solutions, brushes, shovels, water hoses, or pumps.",0.00,physical cleaning task
+13414,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Mix feed, additives, and medicines in prescribed portions.",0.00,physical feed mixing

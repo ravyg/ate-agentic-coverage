@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+19206,Exercise Physiologists,Evaluate staff performance in leading group exercise or conducting diagnostic tests.,0.25,requires in-person observation of staff performance
+19207,Exercise Physiologists,Interview participants to obtain medical history or assess participant goals.,0.50,history-taking interview doable via chat but needs rapport
+19208,Exercise Physiologists,Mentor or train staff to lead group exercise.,0.15,requires physical demonstration and in-person coaching
+19209,Exercise Physiologists,"Order or recommend diagnostic procedures, such as stress tests, drug screenings, or urinary tests.",0.15,ordering diagnostics needs licensed medical authority
+19210,Exercise Physiologists,Plan or conduct exercise physiology research projects.,0.40,can design research but conducting needs physical presence
+19211,Exercise Physiologists,"Present exercise knowledge, program information, or research study findings at professional meetings or conferences.",0.30,content prep easy but live conference presentation needs presence
+19212,Exercise Physiologists,Provide emergency or other appropriate medical care to participants with symptoms or signs of physical distress.,0.00,physical emergency medical care requires a body
+19213,Exercise Physiologists,Supervise maintenance of exercise or exercise testing equipment.,0.25,supervising equipment maintenance needs physical inspection
+19214,Exercise Physiologists,Teach behavior modification classes related to topics such as stress management or weight control.,0.40,can prepare class content but live teaching needs presence
+19215,Exercise Physiologists,"Teach group exercise for low-, medium-, or high-risk clients to improve participant strength, flexibility, endurance, or circulatory functioning.",0.05,physical instruction and safety supervision required
+19216,Magnetic Resonance Imaging Technologists,"Attach physiological monitoring leads to patient's finger, chest, waist, or other body parts.",0.00,physically attaching monitoring leads to patient
+19217,Magnetic Resonance Imaging Technologists,Calibrate magnetic resonance imaging (MRI) console or peripheral hardware.,0.10,hardware calibration needs physical access to scanner
+19218,Magnetic Resonance Imaging Technologists,"Conduct screening interviews of patients to identify contraindications, such as ferrous objects, pregnancy, prosthetic heart valves, cardiac pacemakers, or tattoos.",0.60,screening interview doable via chat intake
+19219,Magnetic Resonance Imaging Technologists,Connect physiological leads to physiological acquisition control (PAC) units.,0.00,physically connecting leads to PAC unit
+19220,Magnetic Resonance Imaging Technologists,Create backup copies of images by transferring images from disk to storage media or workstation.,0.85,pure digital file backup task
+19221,Magnetic Resonance Imaging Technologists,Develop or otherwise produce film records of magnetic resonance images.,0.30,operating physical film processing equipment
+19222,Magnetic Resonance Imaging Technologists,"Explain magnetic resonance imaging (MRI) procedures to patients, patient representatives, or family members.",0.50,can explain via chat but usually in-person patient interaction
+19223,Magnetic Resonance Imaging Technologists,"Intravenously inject contrast dyes, such as gadolinium contrast, in accordance with scope of practice.",0.00,physical IV injection requires licensed presence
+19224,Magnetic Resonance Imaging Technologists,"Inspect images for quality, using magnetic resonance scanner equipment and laser camera.",0.70,digital image quality review feasible
+19225,Magnetic Resonance Imaging Technologists,Operate magnetic resonance imaging (MRI) scanners.,0.05,physically operating MRI scanner with patient present
+19226,Magnetic Resonance Imaging Technologists,"Position patients on cradle, attaching immobilization devices, if needed, to ensure appropriate placement for imaging.",0.00,physically positioning patient on cradle
+19227,Magnetic Resonance Imaging Technologists,Provide headphones or earplugs to patients to improve comfort and reduce unpleasant noise.,0.00,physically handing patient headphones or earplugs
+19228,Magnetic Resonance Imaging Technologists,Select appropriate imaging techniques or coils to produce required images.,0.40,technique selection is informational but coil placement is physical
+19229,Magnetic Resonance Imaging Technologists,"Troubleshoot technical issues related to magnetic resonance imaging (MRI) scanner or peripheral equipment, such as monitors or coils.",0.35,remote diagnosis possible but physical repair needed
+19230,Magnetic Resonance Imaging Technologists,Conduct inventories to maintain stock of clinical supplies.,0.35,requires physical stock counting
+19231,Magnetic Resonance Imaging Technologists,Instruct medical staff or students in magnetic resonance imaging (MRI) procedures or equipment operation.,0.35,hands-on equipment instruction needs physical presence
+19232,Magnetic Resonance Imaging Technologists,"Operate optical systems to capture dynamic magnetic resonance imaging (MRI) images, such as functional brain imaging, real-time organ motion tracking, or musculoskeletal anatomy and trajectory visuali",0.10,physically operating imaging equipment
+19233,Magnetic Resonance Imaging Technologists,"Place and secure small, portable magnetic resonance imaging (MRI) scanners on body part to be imaged, such as arm, leg, or head.",0.00,physically placing and securing scanner on patient
+19235,Magnetic Resonance Imaging Technologists,Schedule appointments for research subjects or clinical patients.,0.85,pure administrative scheduling task
+19236,Magnetic Resonance Imaging Technologists,Take brief medical histories from patients.,0.50,brief history taking doable via structured interview
+19237,Magnetic Resonance Imaging Technologists,Test magnetic resonance imaging (MRI) equipment to ensure proper functioning and performance in accordance with specifications.,0.15,physical equipment testing
+19238,Magnetic Resonance Imaging Technologists,Write reports or notes to summarize testing procedures or outcomes for physicians or other medical professionals.,0.90,pure documentation writing task
+19239,Ophthalmic Medical Technicians,Administer topical ophthalmic or oral medications.,0.00,physical administration of medication to patient
+19240,Ophthalmic Medical Technicians,"Assess refractive conditions of eyes, using retinoscopes.",0.05,physical eye exam using handheld instrument
+19241,Ophthalmic Medical Technicians,Assist patients to insert or remove contact lenses.,0.00,physically assisting with contact lens insertion
+19242,Ophthalmic Medical Technicians,Call patients to inquire about their post-operative status or recovery.,0.60,automated outreach call plausible for voice agent
+19243,Ophthalmic Medical Technicians,Clean or sterilize ophthalmic or surgical instruments.,0.00,physical cleaning and sterilizing of instruments
+19244,Ophthalmic Medical Technicians,Conduct ocular motility tests to measure function of eye muscles.,0.00,physical eye muscle exam on patient
+19245,Ophthalmic Medical Technicians,Conduct visual field tests to measure field of vision.,0.05,physical visual field test administration
+19246,Ophthalmic Medical Technicians,Instruct patients in the care and use of contact lenses.,0.40,can give instructions but hands-on demo often needed
+19247,Ophthalmic Medical Technicians,Maintain ophthalmic instruments or equipment.,0.10,physical maintenance of instruments
+19248,Ophthalmic Medical Technicians,"Measure and record lens power, using lensometers.",0.05,physical operation of lensometer
+19249,Ophthalmic Medical Technicians,"Measure visual acuity, including near, distance, pinhole, or dynamic visual acuity, using appropriate tests.",0.05,physical visual acuity exam
+19250,Ophthalmic Medical Technicians,"Operate ophthalmic equipment, such as autorefractors, phoropters, tomographs, or retinoscopes.",0.05,physical operation of ophthalmic equipment
+19251,Ophthalmic Medical Technicians,"Take anatomical or functional ocular measurements of the eye or surrounding tissue, such as axial length measurements.",0.05,physical ocular measurement on patient
+19252,Ophthalmic Medical Technicians,Take and document patients' medical histories.,0.50,history taking and documentation via interview
+19253,Ophthalmic Medical Technicians,Adjust or make minor repairs to spectacles or eyeglasses.,0.00,physical repair of eyewear
+19254,Ophthalmic Medical Technicians,Assist patients to select eyewear.,0.30,styling advice possible but physical fitting needed
+19255,Ophthalmic Medical Technicians,"Assist physicians in performing ophthalmic procedures, including surgery.",0.00,"physical assistance in surgery, licensed"
+19256,Ophthalmic Medical Technicians,Conduct binocular disparity tests to assess depth perception.,0.05,physical depth perception exam
+19257,Ophthalmic Medical Technicians,Conduct tonometry or tonography tests to measure intraocular pressure.,0.00,physical tonometry test touching the eye
+19258,Ophthalmic Medical Technicians,"Measure corneal curvature with keratometers or ophthalmometers to aid in the diagnosis of conditions, such as astigmatism.",0.05,physical keratometer measurement
+19259,Ophthalmic Medical Technologists,Administer topical ophthalmic or oral medications.,0.00,physical administration of medication to patient
+19260,Ophthalmic Medical Technologists,"Assess abnormalities of color vision, such as amblyopia.",0.30,vision test could be digitally administered but typically in-person
+19261,Ophthalmic Medical Technologists,"Assess refractive condition of eyes, using retinoscope.",0.05,physical eye exam using handheld instrument
+19262,Ophthalmic Medical Technologists,"Assist physicians in performing ophthalmic procedures, including surgery.",0.00,"physical assistance in surgery, licensed"
+19263,Ophthalmic Medical Technologists,Calculate corrections for refractive errors.,0.85,pure calculation from measurement data
+19264,Ophthalmic Medical Technologists,"Collect ophthalmic measurements or other diagnostic information, using ultrasound equipment, such as A-scan ultrasound biometry or B-scan ultrasonography equipment.",0.05,physical ultrasound equipment operation
+19265,Ophthalmic Medical Technologists,Conduct binocular disparity tests to assess depth perception.,0.05,physical depth perception exam
+19266,Ophthalmic Medical Technologists,Conduct ocular motility tests to measure function of eye muscles.,0.00,physical eye muscle exam on patient
+19267,Ophthalmic Medical Technologists,"Conduct tests, such as the Amsler Grid test, to measure central visual field used in the early diagnosis of macular degeneration, glaucoma, or diseases of the eye.",0.30,simple visual test could be partly self-administered digitally
+19268,Ophthalmic Medical Technologists,Conduct tonometry or tonography tests to measure intraocular pressure.,0.00,physical tonometry test touching the eye
+19269,Ophthalmic Medical Technologists,Conduct visual field tests to measure field of vision.,0.05,physical visual field test administration
+19270,Ophthalmic Medical Technologists,"Create three-dimensional images of the eye, using computed tomography (CT).",0.20,physical scanner operation though reconstruction could be computational
+19271,Ophthalmic Medical Technologists,"Measure and record lens power, using lensometers.",0.05,physical operation of lensometer
+19272,Ophthalmic Medical Technologists,"Measure corneal curvature with keratometers or ophthalmometers to aid in the diagnosis of conditions, such as astigmatism.",0.05,physical keratometer measurement
+19273,Ophthalmic Medical Technologists,"Measure corneal thickness, using pachymeter or contact ultrasound methods.",0.05,physical pachymeter measurement
+19274,Ophthalmic Medical Technologists,"Measure the thickness of the retinal nerve, using scanning laser polarimetry techniques to aid in diagnosis of glaucoma.",0.10,physical scanning equipment operation
+19275,Ophthalmic Medical Technologists,"Measure visual acuity, including near, distance, pinhole, or dynamic visual acuity, using appropriate tests.",0.05,physical visual acuity exam
+19276,Ophthalmic Medical Technologists,"Perform advanced ophthalmic procedures, including electrophysiological, electrophysical, or microbial procedures.",0.00,"advanced invasive ophthalmic procedures, licensed"
+19277,Ophthalmic Medical Technologists,Perform fluorescein angiography of the eye.,0.00,invasive dye injection and imaging procedure
+19278,Ophthalmic Medical Technologists,"Perform slit lamp biomicroscopy procedures to diagnose disorders of the eye, such as retinitis, presbyopia, cataracts, or retinal detachment.",0.05,physical slit lamp exam procedure
+19279,Ophthalmic Medical Technologists,"Photograph patients' eye areas, using clinical photography techniques, to document retinal or corneal defects.",0.10,physical camera operation with patient present
+19280,Ophthalmic Medical Technologists,Supervise or instruct ophthalmic staff.,0.30,supervisory role needs human authority and presence
+19281,Ophthalmic Medical Technologists,"Take anatomical or functional ocular measurements, such as axial length measurements, of the eye or surrounding tissue.",0.05,physical ocular measurement on patient
+19282,Ophthalmic Medical Technologists,Call patients to inquire about their post-operative status or recovery.,0.60,automated outreach call plausible for voice agent
+19283,Ophthalmic Medical Technologists,Clean or sterilize ophthalmic or surgical instruments.,0.00,physical cleaning and sterilizing of instruments
+19284,Ophthalmic Medical Technologists,Conduct low vision blindness tests.,0.05,physical vision test administration
+19285,Ophthalmic Medical Technologists,Instruct patients in the care and use of contact lenses.,0.40,can give instructions but hands-on demo often needed
+19286,Ophthalmic Medical Technologists,Maintain ophthalmic instruments or equipment.,0.10,physical maintenance of instruments
+19287,Ophthalmic Medical Technologists,Take and document patients' medical histories.,0.50,history taking and documentation via interview
+19288,Surgical Assistants,"Adjust and maintain operating room temperature, humidity, or lighting, according to surgeon's specifications.",0.20,primarily physical facility adjustment
+19289,Surgical Assistants,"Apply sutures, staples, clips, or other materials to close skin, facia, or subcutaneous wound layers.",0.00,physical wound closure procedure
+19290,Surgical Assistants,Assess skin integrity or other body conditions upon completion of the procedure to determine if damage has occurred from body positioning.,0.00,physical skin assessment on patient
+19291,Surgical Assistants,"Assist in the insertion, positioning, or suturing of closed-wound drainage systems.",0.00,physical insertion of drainage systems
+19292,Surgical Assistants,Assist members of surgical team with gowning or gloving.,0.00,physically assisting with gowning or gloving
+19293,Surgical Assistants,"Clamp, ligate, or cauterize blood vessels to control bleeding during surgical entry, using hemostatic clamps, suture ligatures, or electrocautery equipment.",0.00,physical hemostasis procedure during surgery
+19294,Surgical Assistants,"Coordinate or participate in the positioning of patients, using body stabilizing equipment or protective padding to provide appropriate exposure for the procedure or to protect against nerve damage or",0.00,physically positioning patient with equipment
+19295,Surgical Assistants,Coordinate with anesthesia personnel to maintain patient temperature.,0.15,requires in-person coordination and physical action
+19296,Surgical Assistants,"Discuss with surgeon the nature of the surgical procedure, including operative consent, methods of operative exposure, diagnostic or laboratory data, or patient-advanced directives or other needs.",0.20,requires professional clinical judgment discussion in person
+19297,Surgical Assistants,Incise tissue layers in lower extremities to harvest veins.,0.00,physical surgical tissue incision
+19298,Surgical Assistants,"Maintain an unobstructed operative field, using surgical retractors, sponges, or suctioning and irrigating equipment.",0.00,physically maintaining surgical field with instruments
+19299,Surgical Assistants,Monitor and maintain aseptic technique throughout procedures.,0.00,requires physical presence to maintain sterile technique
+19300,Surgical Assistants,"Monitor patient intra-operative status, including patient position, vital signs, or volume and color of blood.",0.15,sensor data readable but accountable presence required
+19301,Surgical Assistants,Postoperatively inject a subcutaneous local anesthetic agent to reduce pain.,0.00,physical injection procedure
+19302,Surgical Assistants,Prepare and apply sterile wound dressings.,0.00,physical application of wound dressings
+19303,Surgical Assistants,"Assist in applying casts, splints, braces, or similar devices.",0.00,physical application of casts or splints
+19304,Surgical Assistants,Assist in volume replacement or autotransfusion techniques.,0.00,physical medical procedure
+19305,Surgical Assistants,Assist with patient resuscitation during cardiac arrest or other life-threatening events.,0.00,"physical emergency resuscitation, no body"
+19306,Surgical Assistants,Cover patients with surgical drapes to create and maintain a sterile operative field.,0.00,physically draping patient
+19307,Surgical Assistants,Determine availability of necessary equipment or supplies for operative procedures.,0.75,equipment availability check is largely digital admin work
+19308,Surgical Assistants,"Gather, arrange, or assemble instruments or supplies.",0.00,physically gathering and arranging instruments
+19309,Surgical Assistants,Insert or remove urinary bladder catheters.,0.00,"physical catheter insertion, licensed"
+19310,Surgical Assistants,"Obtain or inspect sterile or non-sterile surgical equipment, instruments, or supplies.",0.05,physical inspection of surgical equipment
+19311,Surgical Assistants,Operate sterilizing devices.,0.05,physical operation of sterilizing devices
+19312,Surgical Assistants,Pass instruments or supplies to surgeon during procedure.,0.00,physically passing instruments during surgery
+19313,Surgical Assistants,Remove patient hair or disinfect incision sites to prepare patient for surgery.,0.00,physically preparing patient skin
+19314,Surgical Assistants,Transport patients to operating room.,0.00,"physically transporting patient, no body"
+19315,Surgical Assistants,Verify the identity of patient or operative site.,0.15,safety verification requires accountable in-person presence
+19316,Nursing Assistants,"Administer medications or treatments, such as catheterizations, suppositories, irrigations, enemas, massages, or douches, as directed by a physician or nurse.",0.00,"physical administration of treatments, licensed"
+19317,Nursing Assistants,"Answer patient call signals, signal lights, bells, or intercom systems to determine patients' needs.",0.00,requires physical presence to respond to patient calls
+19318,Nursing Assistants,"Apply clean dressings, slings, stockings, or support bandages, under direction of nurse or physician.",0.00,physical application of dressings and bandages
+19319,Nursing Assistants,Assist nurses or physicians in the operation of medical equipment or provision of patient care.,0.00,physical assistance with equipment or patient care
+19320,Nursing Assistants,Change bed linens or make beds.,0.00,physical bed-making task
+19321,Nursing Assistants,"Clean and sanitize patient rooms, bathrooms, examination rooms, or other patient areas.",0.00,physical cleaning of patient rooms
+19322,Nursing Assistants,"Collect specimens, such as urine, feces, or sputum.",0.00,physical specimen collection
+19323,Nursing Assistants,Communicate with patients to ascertain feelings or need for assistance or social and emotional support.,0.35,conversational support possible but physical presence typically expected
+19324,Nursing Assistants,"Document or otherwise report observations of patient behavior, complaints, or physical symptoms to nurses.",0.25,observation requires physical presence though documenting is easy
+19325,Nursing Assistants,Feed patients or assist patients to eat or drink.,0.00,physically feeding or assisting patients
+19326,Nursing Assistants,"Gather information from caregivers, nurses, or physicians about patient condition, treatment plans, or appropriate activities.",0.60,information gathering via records and communication feasible
+19327,Nursing Assistants,"Measure and record food and liquid intake or urinary and fecal output, reporting changes to medical or nursing staff.",0.05,physical measurement of intake and output
+19328,Nursing Assistants,"Observe or examine patients to detect symptoms that may require medical attention, such as bruises, open wounds, or blood in urine.",0.00,physical observation and examination of patient
+19329,Nursing Assistants,Position or hold patients in position for surgical preparation.,0.00,physically positioning patient for surgery
+19330,Nursing Assistants,Prepare or serve food trays.,0.00,physical food tray preparation
+19331,Nursing Assistants,"Provide physical support to assist patients to perform daily living activities, such as getting out of bed, bathing, dressing, using the toilet, standing, walking, or exercising.",0.00,physical support for daily living activities
+19332,Nursing Assistants,Record height or weight of patients.,0.05,physical height and weight measurement
+19333,Nursing Assistants,"Record vital signs, such as temperature, blood pressure, pulse, or respiration rate, as directed by medical or nursing staff.",0.05,physical vital sign measurement
+19334,Nursing Assistants,Remind patients to take medications or nutritional supplements.,0.55,automated reminder system feasible though compliance often needs presence
+19335,Nursing Assistants,"Restock patient rooms with personal hygiene items, such as towels, washcloths, soap, or toilet paper.",0.00,physical restocking of supplies
+19336,Nursing Assistants,"Review patients' dietary restrictions, food allergies, and preferences to ensure patient receives appropriate diet.",0.85,information review and matching against records

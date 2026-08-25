@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+12317,Power Plant Operators,"Regulate equipment operations and conditions, such as water levels, based on instrument data or from computers.",0.30,requires physical control of plant systems
+12320,Power Plant Operators,Inspect records or log book entries or communicate with plant personnel to assess equipment operating status.,0.55,reading logs and communicating with staff
+12322,Power Plant Operators,"Clean, lubricate, or maintain equipment, such as generators, turbines, pumps, or compressors, to prevent failure or deterioration.",0.02,physical cleaning and lubrication
+12324,Power Plant Operators,"Record and compile operational data by completing and maintaining forms, logs, or reports.",0.85,pure data recording and reporting
+12327,Power Plant Operators,"Make adjustments or minor repairs, such as tightening leaking gland or pipe joints.",0.02,physical minor repairs on-site
+12315,Power Plant Operators,Adjust controls to generate specified electrical power or to regulate the flow of power between generating stations and substations.,0.25,safety-critical real-time grid control
+19915,Power Plant Operators,"Operate, control, or monitor equipment, such as acid or gas carbon dioxide removal units, carbon dioxide compressors, or pipelines, to capture, store, or transport carbon dioxide exhaust.",0.15,physical plant equipment operation
+19916,Power Plant Operators,"Operate, control, or monitor gasifiers or related equipment, such as coolers, water quenches, water gas shifts reactors, or sulfur recovery units, to produce syngas or electricity from coal.",0.15,physical gasifier equipment operation
+12323,Power Plant Operators,Communicate with systems operators to regulate and coordinate line voltages and transmission loads and frequencies.,0.30,coordinating live voltage and load with humans
+19917,Power Plant Operators,"Operate, control, or monitor integrated gasification combined cycle (IGCC) or related equipment, such as air separation units, to generate electricity from coal.",0.15,physical IGCC equipment operation
+12330,Power Plant Operators,Receive outage calls and request necessary personnel during power outages or emergencies.,0.45,emergency coordination requiring human decisions
+12326,Power Plant Operators,"Collect oil, water, or electrolyte samples for laboratory analysis.",0.05,physical sample collection
+12331,Power Plant Operators,"Examine and test electrical power distribution machinery and equipment, using testing devices.",0.05,physical testing with devices on-site
+12329,Power Plant Operators,"Place standby emergency electrical generators on line in emergencies and monitor the temperature, output, and lubrication of the system.",0.05,physical emergency generator operation
+23612,Power Plant Operators,"Analyze the layout, instrumentation, or function of electrical generation or transmission facilities.",0.65,engineering analysis from documents
+23613,Power Plant Operators,Diagnose or troubleshoot problems with gas collection systems.,0.30,diagnosis often needs on-site troubleshooting
+23614,Power Plant Operators,Monitor well fields periodically to ensure proper functioning and performance.,0.20,field monitoring needs on-site presence
+23615,Power Plant Operators,"Operate landfill gas, methane, or natural gas fueled electrical generation systems.",0.15,physical generation system operation
+23616,Power Plant Operators,"Prepare and submit compliance, operational, and safety forms or reports.",0.75,mostly paperwork compliance reporting
+23617,Power Plant Operators,Repair or replace gas piping.,0.00,physical pipe repair
+23618,Power Plant Operators,Trace electrical circuitry to ensure compliance of electrical systems with applicable codes or laws.,0.15,physical circuit tracing on-site
+23619,Power Plant Operators,Verify that well field monitoring data conforms to applicable regulations.,0.75,data compliance verification against regulations
+17861,Biomass Plant Technicians,Operate biomass fuel-burning boiler or biomass fuel gasification system equipment in accordance with specifications or instructions.,0.10,physical boiler operation
+21208,Biomass Plant Technicians,Perform tests of water chemistry in boilers.,0.10,physical water chemistry testing
+17864,Biomass Plant Technicians,Operate high-pressure steam boiler or water chiller equipment for electrical cogeneration operations.,0.08,physical boiler and chiller operation
+17862,Biomass Plant Technicians,"Operate equipment to heat biomass, using knowledge of controls, combustion, and firing mechanisms.",0.10,physical biomass heating equipment operation
+17863,Biomass Plant Technicians,"Operate equipment to start, stop, or regulate biomass-fueled generators, generator units, boilers, engines, or auxiliary systems.",0.10,physical generator and boiler operation
+17860,Biomass Plant Technicians,"Inspect biomass power plant or processing equipment, recording or reporting damage and mechanical problems.",0.15,physical inspection with reporting
+17866,Biomass Plant Technicians,"Record or report operational data, such as readings on meters, instruments, and gauges.",0.40,physically reading gauges then logging
+17855,Biomass Plant Technicians,"Operate valves, pumps, engines, or generators to control and adjust production of biofuels or biomass-fueled power.",0.08,physical valve and pump operation
+17858,Biomass Plant Technicians,"Calculate, measure, load, or mix biomass feedstock for power generation.",0.10,physical feedstock measuring and loading
+17867,Biomass Plant Technicians,Clean work areas to ensure compliance with safety regulations.,0.02,physical cleaning of work areas
+17856,Biomass Plant Technicians,"Perform routine maintenance or make minor repairs to mechanical, electrical, or electronic equipment in biomass plants.",0.03,physical maintenance and minor repairs
+17854,Biomass Plant Technicians,"Measure and monitor raw biomass feedstock, including wood, waste, or refuse materials.",0.08,physical feedstock measurement
+17859,Biomass Plant Technicians,"Calibrate liquid flow devices or meters, including fuel, chemical, and water meters.",0.05,physical meter calibration
+17857,Biomass Plant Technicians,Assess quality of biomass feedstock.,0.15,physical sensory quality assessment
+17869,Biomass Plant Technicians,Read and interpret instruction manuals or technical drawings related to biomass-fueled power or biofuels production equipment or processes.,0.85,reading and interpreting technical documents
+21209,Biomass Plant Technicians,"Operate heavy equipment, such as bulldozers and front-end loaders.",0.00,physical heavy equipment operation
+17865,Biomass Plant Technicians,Preprocess feedstock to prepare for biochemical or thermochemical production processes.,0.05,physical feedstock preprocessing
+17868,Biomass Plant Technicians,Manage parts and supply inventories for biomass plants.,0.40,inventory tracking partly digital partly physical
+17912,Hydroelectric Plant Technicians,"Monitor hydroelectric power plant equipment operation and performance, adjusting to performance specifications, as necessary.",0.20,monitoring with physical adjustment
+17911,Hydroelectric Plant Technicians,"Identify or address malfunctions of hydroelectric plant operational equipment, such as generators, transformers, or turbines.",0.10,diagnosis plus physical equipment repair
+17913,Hydroelectric Plant Technicians,"Start, adjust, or stop generating units, operating valves, gates, or auxiliary equipment in hydroelectric power generating plants.",0.08,physical generating unit operation
+17929,Hydroelectric Plant Technicians,Perform preventive or corrective containment or cleanup measures in hydroelectric plants to prevent environmental contamination.,0.03,physical containment and cleanup work
+17916,Hydroelectric Plant Technicians,Inspect water-powered electric generators or auxiliary equipment in hydroelectric plants to verify proper operation or to determine maintenance or repair needs.,0.10,physical equipment inspection
+17914,Hydroelectric Plant Technicians,Communicate status of hydroelectric operating equipment to dispatchers or supervisors.,0.55,status communication largely reporting
+17920,Hydroelectric Plant Technicians,Operate high voltage switches or related devices in hydropower stations.,0.03,physical high voltage switch operation
+17921,Hydroelectric Plant Technicians,"Operate hydroelectric plant equipment, such as turbines, pumps, valves, gates, fans, electric control boards, or battery banks.",0.08,physical plant equipment operation
+17919,Hydroelectric Plant Technicians,"Maintain or repair hydroelectric plant electrical, mechanical, or electronic equipment, such as motors, transformers, voltage regulators, generators, relays, battery systems, air compressors, sump pumps, gates, or valves.",0.03,physical equipment maintenance and repair
+17915,Hydroelectric Plant Technicians,"Implement load or switching orders in hydroelectric plants, in accordance with specifications or instructions.",0.15,safety-critical physical switching execution
+17917,Hydroelectric Plant Technicians,"Install or calibrate electrical or mechanical equipment, such as motors, engines, switchboards, relays, switch gears, meters, pumps, hydraulics, or flood channels.",0.03,physical equipment installation and calibration
+17924,Hydroelectric Plant Technicians,"Change oil, hydraulic fluid, or other lubricants to maintain condition of hydroelectric plant equipment.",0.02,physical fluid and lubricant changes
+17918,Hydroelectric Plant Technicians,"Maintain logs, reports, work requests, or other records of work performed in hydroelectric plants.",0.75,administrative record keeping
+17925,Hydroelectric Plant Technicians,"Connect metal parts or components in hydroelectric plants by welding, soldering, riveting, tapping, bolting, bonding, or screwing.",0.00,physical welding and fastening work
+17928,Hydroelectric Plant Technicians,"Lift and move loads, using cranes, hoists, and rigging, to install or repair hydroelectric system equipment or infrastructure.",0.00,physical rigging and load moving
+17930,Hydroelectric Plant Technicians,Perform tunnel or field inspections of hydroelectric plant facilities or resources.,0.05,physical on-site facility inspection
+17931,Hydroelectric Plant Technicians,Splice or terminate cables or electrical wiring in hydroelectric plants.,0.00,physical cable splicing work
+17923,Hydroelectric Plant Technicians,"Test and repair or replace electrical equipment, such as circuit breakers, station batteries, cable trays, conduits, or control devices.",0.03,physical electrical equipment repair
+17922,Hydroelectric Plant Technicians,"Take readings and record data, such as water levels, temperatures, or flow rates.",0.35,physically taking readings then recording
+17927,Hydroelectric Plant Technicians,"Erect scaffolds, platforms, or hoisting frames to access hydroelectric plant machinery or infrastructure for repair or replacement.",0.00,physical scaffold erection
+17926,Hydroelectric Plant Technicians,"Cut, bend, or shape metal for applications in hydroelectric plants, using equipment such as hydraulic benders or pipe threaders.",0.00,physical metal shaping work
+10468,Stationary Engineers and Boiler Operators,"Operate or tend stationary engines, boilers, and auxiliary equipment, such as pumps, compressors, or air-conditioning equipment, to supply and maintain steam or heat for buildings, marine vessels, or pneumatic tools.",0.08,physical boiler and engine operation
+10471,Stationary Engineers and Boiler Operators,"Activate valves to maintain required amounts of water in boilers, to adjust supplies of combustion air, and to control the flow of fuel into burners.",0.05,physical valve activation
+10472,Stationary Engineers and Boiler Operators,"Monitor boiler water, chemical, and fuel levels, and make adjustments to maintain required levels.",0.15,physical boiler monitoring and adjustment
+10475,Stationary Engineers and Boiler Operators,Analyze problems and take appropriate action to ensure continuous and reliable operation of equipment and systems.,0.20,diagnosis plus physical corrective action
+10469,Stationary Engineers and Boiler Operators,"Observe and interpret readings on gauges, meters, and charts registering various aspects of boiler operation to ensure that boilers are operating properly.",0.30,physical gauge observation and interpretation
+10476,Stationary Engineers and Boiler Operators,"Maintain daily logs of operation, maintenance, and safety activities, including test results, instrument readings, and details of equipment malfunctions and maintenance work.",0.70,log compilation from operational data
+10470,Stationary Engineers and Boiler Operators,"Test boiler water quality or arrange for testing and take necessary corrective action, such as adding chemicals to prevent corrosion and harmful deposits.",0.10,physical water testing and chemical addition
+10474,Stationary Engineers and Boiler Operators,"Monitor and inspect equipment, computer terminals, switches, valves, gauges, alarms, safety devices, and meters to detect leaks or malfunctions and to ensure that equipment is operating efficiently and safely.",0.15,physical equipment monitoring and inspection
+10478,Stationary Engineers and Boiler Operators,Switch from automatic to manual controls and isolate equipment mechanically and electrically to allow for safe inspection and repair work.,0.03,physical control switching and isolation
+10481,Stationary Engineers and Boiler Operators,"Perform or arrange for repairs, such as complete overhauls, replacement of defective valves, gaskets, or bearings, or fabrication of new parts.",0.10,physical equipment repair and overhaul
+10477,Stationary Engineers and Boiler Operators,"Adjust controls and/or valves on equipment to provide power, and to regulate and set operations of system or industrial processes.",0.08,physical control and valve adjustment
+10479,Stationary Engineers and Boiler Operators,"Clean and lubricate boilers and auxiliary equipment and make minor adjustments as needed, using hand tools.",0.02,physical cleaning and lubrication
+10483,Stationary Engineers and Boiler Operators,"Develop operation, safety, and maintenance procedures or assist in their development.",0.75,procedure documentation text-based work
+10486,Stationary Engineers and Boiler Operators,"Test electrical systems to determine voltages, using voltage meters.",0.05,physical voltage testing with meters
+10485,Stationary Engineers and Boiler Operators,Contact equipment manufacturers or appropriate specialists when necessary to resolve equipment problems.,0.55,vendor communication and coordination
+10482,Stationary Engineers and Boiler Operators,"Weigh, measure, and record fuel used.",0.15,physical fuel weighing and recording
+10489,Stationary Engineers and Boiler Operators,Receive instructions from steam engineers regarding steam plant and air compressor operations.,0.25,receiving instructions to execute physical work
+10484,Stationary Engineers and Boiler Operators,"Install burners and auxiliary equipment, using hand tools.",0.00,physical burner installation
+10480,Stationary Engineers and Boiler Operators,Check the air quality of ventilation systems and make adjustments to ensure compliance with mandated safety codes.,0.15,physical ventilation check and adjustment
+10487,Stationary Engineers and Boiler Operators,"Provide assistance to plumbers in repairing or replacing water, sewer, or waste lines, and in daily maintenance activities.",0.00,physical plumbing assistance
+10473,Stationary Engineers and Boiler Operators,"Fire coal furnaces by hand or with stokers and gas- or oil-fed boilers, using automatic gas feeds or oil pumps.",0.05,physical furnace firing
+10488,Stationary Engineers and Boiler Operators,"Supervise the work of assistant stationary engineers, turbine operators, boiler tenders, or air conditioning and refrigeration operators and mechanics.",0.15,on-site supervision requiring presence and authority
+10491,Stationary Engineers and Boiler Operators,Investigate and report on accidents.,0.35,accident investigation needs on-site fact-finding
+10492,Stationary Engineers and Boiler Operators,Operate mechanical hoppers and provide assistance in their adjustment and repair.,0.03,physical hopper operation and repair
+10490,Stationary Engineers and Boiler Operators,"Ignite fuel in burners, using torches or flames.",0.00,physical fuel ignition
+928,Water and Wastewater Treatment Plant and System Operators,"Collect and test water and sewage samples, using test equipment and color analysis standards.",0.10,physical sample collection and testing
+926,Water and Wastewater Treatment Plant and System Operators,"Operate and adjust controls on equipment to purify and clarify water, process or dispose of sewage, and generate power.",0.10,physical equipment control operation
+929,Water and Wastewater Treatment Plant and System Operators,"Record operational data, personnel attendance, or meter and gauge readings on specified forms.",0.45,recording data some readings need presence
+925,Water and Wastewater Treatment Plant and System Operators,"Add chemicals, such as ammonia, chlorine, or lime, to disinfect and deodorize water and other liquids.",0.02,physical chemical dosing
+927,Water and Wastewater Treatment Plant and System Operators,"Inspect equipment or monitor operating conditions, meters, and gauges to determine load requirements and detect malfunctions.",0.15,physical equipment inspection
+932,Water and Wastewater Treatment Plant and System Operators,Direct and coordinate plant workers engaged in routine operations and maintenance activities.,0.15,on-site worker supervision
+18585,Water and Wastewater Treatment Plant and System Operators,"Clean and maintain tanks, filter beds, and other work areas, using hand tools and power tools.",0.00,physical cleaning and maintenance
+930,Water and Wastewater Treatment Plant and System Operators,"Maintain, repair, and lubricate equipment, using hand tools and power tools.",0.02,physical equipment repair and lubrication
+10494,Chemical Plant and System Operators,"Monitor recording instruments, flowmeters, panel lights, or other indicators and listen for warning signals to verify conformity of process conditions.",0.25,monitoring requiring physical presence and hearing
+10499,Chemical Plant and System Operators,"Regulate or shut down equipment during emergency situations, as directed by supervisory personnel.",0.05,physical emergency equipment shutdown
+10495,Chemical Plant and System Operators,"Control or operate chemical processes or systems of machines, using panelboards, control boards, or semi-automatic equipment.",0.20,safety-critical physical process control
+10493,Chemical Plant and System Operators,"Move control settings to make necessary adjustments on equipment units affecting speeds of chemical reactions, quality, or yields.",0.10,physical control setting adjustment
+10504,Chemical Plant and System Operators,"Inspect operating units, such as towers, soap-spray storage tanks, scrubbers, collectors, or driers to ensure that all are functioning and to maintain maximum efficiency.",0.10,physical inspection of operating units
+10498,Chemical Plant and System Operators,Draw samples of products and conduct quality control tests to monitor processing and to ensure that standards are met.,0.10,physical sampling and quality testing
+10496,Chemical Plant and System Operators,"Record operating data, such as process conditions, test results, or instrument readings.",0.45,recording operating data and readings
+10502,Chemical Plant and System Operators,Patrol work areas to ensure that solutions in tanks or troughs are not in danger of overflowing.,0.02,physical work area patrol
+10506,Chemical Plant and System Operators,"Turn valves to regulate flow of products or byproducts through agitator tanks, storage drums, or neutralizer tanks.",0.05,physical valve turning
+10501,Chemical Plant and System Operators,Interpret chemical reactions visible through sight glasses or on television monitors and review laboratory test reports for process adjustments.,0.40,visual interpretation via monitors plus report review
+10497,Chemical Plant and System Operators,"Confer with technical and supervisory personnel to report or resolve conditions affecting safety, efficiency, or product quality.",0.50,communication and coordination on plant conditions
+10500,Chemical Plant and System Operators,"Start pumps to wash and rinse reactor vessels, to exhaust gases or vapors, to regulate the flow of oil, steam, air, or perfume to towers, or to add products to converter or blending vessels.",0.05,physical pump operation
+10503,Chemical Plant and System Operators,"Notify maintenance, stationary engineering, or other auxiliary personnel to correct equipment malfunctions or to adjust power, steam, water, or air supplies.",0.60,notification task largely administrative
+10509,Chemical Plant and System Operators,Repair or replace damaged equipment.,0.00,physical equipment repair
+10508,Chemical Plant and System Operators,"Gauge tank levels, using calibrated rods.",0.03,physical tank level gauging
+10507,Chemical Plant and System Operators,Calculate material requirements or yields according to formulas.,0.90,pure calculation from formulas
+10505,Chemical Plant and System Operators,Direct workers engaged in operating machinery that regulates the flow of materials and products.,0.15,on-site worker direction
+10511,Chemical Plant and System Operators,"Supervise the cleaning of towers, strainers, or spray tips.",0.10,on-site supervision of physical cleaning
+10510,Chemical Plant and System Operators,"Defrost frozen valves, using steam hoses.",0.00,physical valve defrosting
+14287,Gas Plant Operators,"Monitor equipment functioning, observe temperature, level, and flow gauges, and perform regular unit checks to ensure that all equipment is operating as it should.",0.15,physical equipment monitoring and checks
+14299,Gas Plant Operators,"Distribute or process gas for utility companies or industrial plants, using panel boards, control boards, and semi-automatic equipment.",0.15,safety-critical physical control room work
+14288,Gas Plant Operators,"Control operation of compressors, scrubbers, evaporators, and refrigeration equipment to liquefy, compress, or regasify natural gas.",0.10,physical compressor and refrigeration control
+14300,Gas Plant Operators,"Control equipment to regulate flow and pressure of gas to feedlines of boilers, furnaces, and related steam-generating or heating equipment.",0.10,physical gas flow control
+14290,Gas Plant Operators,"Record, review, and compile operations records, test results, and gauge readings such as temperatures, pressures, concentrations, and flows.",0.45,recording and reviewing operations data
+14294,Gas Plant Operators,"Determine causes of abnormal pressure variances, and make corrective recommendations, such as installation of pipes to relieve overloading.",0.55,diagnostic analysis and recommendation
+14291,Gas Plant Operators,"Adjust temperature, pressure, vacuum, level, flow rate, or transfer of gas to maintain processes at required levels or to correct problems.",0.10,physical process adjustment
+14293,Gas Plant Operators,Collaborate with other operators to solve unit problems.,0.45,collaborative problem solving via communication
+14286,Gas Plant Operators,Monitor transportation and storage of flammable and other potentially dangerous products to ensure that safety guidelines are followed.,0.15,physical safety monitoring of hazardous materials
+14289,Gas Plant Operators,Start and shut down plant equipment.,0.05,physical equipment start and shutdown
+14295,Gas Plant Operators,"Read logsheets to determine product demand and disposition, or to detect malfunctions.",0.70,reading and analyzing logsheets
+14297,Gas Plant Operators,Contact maintenance crews when necessary.,0.60,notification and communication task
+14296,Gas Plant Operators,"Test gas, chemicals, and air during processing to assess factors such as purity and moisture content, and to detect quality problems or gas or chemical leaks.",0.08,physical gas and chemical testing
+14292,Gas Plant Operators,"Clean, maintain, and repair equipment, using hand tools, or request that repair and maintenance work be performed.",0.15,mostly physical equipment maintenance
+14303,Gas Plant Operators,Signal or direct workers who tend auxiliary equipment.,0.15,on-site worker signaling and direction
+14301,Gas Plant Operators,"Control fractioning columns, compressors, purifying towers, heat exchangers, and related equipment to extract nitrogen and oxygen from air.",0.10,physical fractioning equipment control
+14302,Gas Plant Operators,"Calculate gas ratios to detect deviations from specifications, using testing apparatus.",0.30,calculation combined with physical apparatus testing

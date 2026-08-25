@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+17684,Freight Forwarders,"Arrange for special transport of sensitive cargoes, such as livestock, food, or medical supplies.",0.55,arranging specialized transport needs booking authority
+17685,Freight Forwarders,Assist clients in obtaining insurance reimbursements.,0.75,paperwork and claims support for clients
+17686,Freight Forwarders,"Calculate weight, volume, or cost of goods to be moved.",0.95,pure calculation from data
+17687,Freight Forwarders,"Prepare shipping documentation, such as bills of lading, packing lists, dock receipts, or certificates of origin.",0.85,drafting shipping documents
+17688,Freight Forwarders,Consolidate loads with a common destination to reduce costs to individual shippers.,0.85,logistics planning and optimization
+17689,Freight Forwarders,"Inform clients of factors such as shipping options, timelines, transfers, or regulations affecting shipments.",0.90,informational communication to clients
+17690,Freight Forwarders,Keep records of goods dispatched or received.,0.95,record keeping and data entry
+17691,Freight Forwarders,"Maintain current knowledge of relevant legislation, political situations, or other factors that could affect freight shipping.",0.90,research and monitoring of regulations
+17692,Freight Forwarders,Monitor or record locations of goods in transit.,0.90,tracking via monitoring systems
+17693,Freight Forwarders,Negotiate shipping rates with freight carriers.,0.35,negotiation with carriers needs human rapport
+17694,Freight Forwarders,Obtain or arrange cargo insurance.,0.55,arranging insurance needs binding authority
+17695,Freight Forwarders,Pay or arrange for payment of freight or insurance fees or other charges.,0.50,payment authorization needs human accountability
+17696,Freight Forwarders,Prepare invoices or cost quotations for freight transportation.,0.90,drafting invoices and quotations
+17697,Freight Forwarders,"Recommend or arrange appropriate merchandise packing methods, according to climate, terrain, weight, nature of goods, or costs.",0.75,recommending packing methods is analytical
+17698,Freight Forwarders,Verify proper packaging and labeling of exported goods.,0.35,verification needs physical inspection of goods
+17699,Freight Forwarders,"Verify adherence of documentation to customs, insurance, or regulatory requirements.",0.85,document compliance review
+17700,Freight Forwarders,"Arrange for applicable duties, taxes, or paperwork for customs clearance.",0.75,computing duties and preparing customs paperwork
+17701,Freight Forwarders,Complete customs paperwork.,0.85,completing paperwork
+17702,Freight Forwarders,Make arrangements with customs brokers to facilitate the passage of goods through customs.,0.65,coordinating with brokers via communication
+17703,Freight Forwarders,Provide detailed port information to importers or exporters.,0.90,providing informational port details
+17704,Freight Forwarders,"Provide shipment status notification to exporters, consignees, or insurers.",0.90,automated status notifications
+17705,Freight Forwarders,"Refer exporters to experts in areas such as trade financing, international marketing, government export requirements, international banking, or marine insurance.",0.85,informational referrals to experts
+18000,Clinical Nurse Specialists,Coordinate or conduct educational programs or in-service training sessions on topics such as clinical procedures.,0.45,can prepare training materials but live sessions need presence
+18001,Clinical Nurse Specialists,"Observe, interview, and assess patients to identify care needs.",0.15,patient observation and assessment needs physical presence
+18002,Clinical Nurse Specialists,Evaluate the quality and effectiveness of nursing practice or organizational systems.,0.55,evaluation from data but needs professional authority
+18003,Clinical Nurse Specialists,"Provide direct care by performing comprehensive health assessments, developing differential diagnoses, conducting specialized tests, or prescribing medications or treatments.",0.08,direct patient care and prescribing needs licensed human
+18004,Clinical Nurse Specialists,"Provide specialized direct and indirect care to inpatients and outpatients within a designated specialty, such as obstetrics, neurology, oncology, or neonatal care.",0.10,direct clinical care requires physical presence
+18005,Clinical Nurse Specialists,"Maintain departmental policies, procedures, objectives, or infection control standards.",0.55,policy drafting but enforcement needs authority
+18006,Clinical Nurse Specialists,Collaborate with other health care professionals and service providers to ensure optimal patient care.,0.30,collaboration needs live human interaction
+18007,Clinical Nurse Specialists,"Develop nursing service philosophies, goals, policies, priorities, or procedures.",0.65,drafting policy and philosophy documents
+18008,Clinical Nurse Specialists,"Develop, implement, or evaluate standards of nursing practice in specialty area, such as pediatrics, acute care, and geriatrics.",0.50,developing standards partly writing partly authority
+18009,Clinical Nurse Specialists,Develop or assist others in development of care and treatment plans.,0.45,drafting care plans but needs clinical accountability
+18010,Clinical Nurse Specialists,"Make clinical recommendations to physicians, other health care providers, insurance companies, patients, or health care organizations.",0.35,clinical recommendations need licensed authority
+18011,Clinical Nurse Specialists,"Plan, evaluate, or modify treatment programs, based on information gathered by observing and interviewing patients or by analyzing patient records.",0.30,requires patient interview and clinical judgment
+18012,Clinical Nurse Specialists,Present clients with information required to make informed health care and treatment decisions.,0.45,communicating info but needs trusted counseling presence
+18013,Clinical Nurse Specialists,"Instruct nursing staff in areas such as the assessment, development, implementation, and evaluation of disability, illness, management, technology, or resources.",0.40,instruction of staff needs live presence
+18014,Clinical Nurse Specialists,Direct or supervise nursing care staff in the provision of patient therapy.,0.20,supervision requires authority and presence
+18015,Clinical Nurse Specialists,Identify training needs or conduct training sessions for nursing students or medical staff.,0.40,training needs identification plus live sessions
+18016,Clinical Nurse Specialists,"Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments in nursing.",0.55,reading literature high but colleague talk needs presence
+18017,Clinical Nurse Specialists,Monitor or evaluate medical conditions of patients in collaboration with other health care professionals.,0.20,clinical monitoring needs authority and presence
+18018,Clinical Nurse Specialists,"Participate in clinical research projects, such as by reviewing protocols, reviewing patient records, monitoring compliance, and meeting with regulatory authorities.",0.45,reviewing records doable but meeting regulators needs human
+18019,Clinical Nurse Specialists,Perform discharge planning for patients.,0.45,discharge planning needs clinical judgment and accountability
+18020,Clinical Nurse Specialists,Prepare reports to document patients' care activities.,0.80,documentation and report writing
+18021,Clinical Nurse Specialists,Write nursing orders.,0.10,writing orders requires licensed authority
+18045,Regulatory Affairs Specialists,"Communicate with regulatory agencies regarding pre-submission strategies, potential regulatory pathways, compliance test requirements, or clarification and follow-up of submissions under review.",0.55,agency communication often needs authorized representative
+18048,Regulatory Affairs Specialists,"Coordinate, prepare, or review regulatory submissions for domestic or international projects.",0.75,preparing and reviewing submissions is document work
+18049,Regulatory Affairs Specialists,Interpret regulatory rules or rule changes and ensure that they are communicated through corporate policies and procedures.,0.65,interpreting rules but ensuring compliance needs authority
+18050,Regulatory Affairs Specialists,"Provide technical review of data or reports to be incorporated into regulatory submissions to assure scientific rigor, accuracy, and clarity of presentation.",0.80,technical review of reports
+18051,Regulatory Affairs Specialists,"Review product promotional materials, labeling, batch records, specification sheets, or test methods for compliance with applicable regulations and policies.",0.85,compliance review of documents
+18052,Regulatory Affairs Specialists,"Advise project teams on subjects such as premarket regulatory requirements, export and labeling requirements, or clinical study compliance issues.",0.80,advisory informational work
+18053,Regulatory Affairs Specialists,Compile and maintain regulatory documentation databases or systems.,0.90,database maintenance
+18054,Regulatory Affairs Specialists,Coordinate efforts associated with the preparation of regulatory documents or submissions.,0.70,coordination of document preparation
+18055,Regulatory Affairs Specialists,Determine the types of regulatory submissions or internal documentation that are required in situations such as proposed device changes or labeling changes.,0.75,determining submission requirements from rules
+18056,Regulatory Affairs Specialists,Develop or conduct employee regulatory training.,0.45,developing training high but conducting needs presence
+18058,Regulatory Affairs Specialists,"Maintain current knowledge base of existing and emerging regulations, standards, or guidance documents.",0.90,research to maintain regulatory knowledge
+18059,Regulatory Affairs Specialists,"Obtain and distribute updated information regarding domestic or international laws, guidelines, or standards.",0.85,researching and distributing information
+18060,Regulatory Affairs Specialists,Participate in internal or external audits.,0.35,audit participation needs human presence
+18061,Regulatory Affairs Specialists,Prepare or direct the preparation of additional information or responses as requested by regulatory agencies.,0.75,drafting responses to agencies
+18062,Regulatory Affairs Specialists,Prepare or maintain technical files as necessary to obtain and sustain product approval.,0.80,maintaining technical files
+18063,Regulatory Affairs Specialists,Recommend changes to company procedures in response to changes in regulations or standards.,0.80,recommending procedure changes from analysis
+18064,Regulatory Affairs Specialists,"Prepare responses to customer requests for information, such as product data, written regulatory affairs statements, surveys, or questionnaires.",0.85,drafting responses to customer requests
+18065,Regulatory Affairs Specialists,Review clinical protocols to ensure collection of data needed for regulatory submissions.,0.80,reviewing protocols for data needs
+18066,Regulatory Affairs Specialists,"Write or update standard operating procedures, work instructions, or policies.",0.85,writing procedures and policies
+18067,Regulatory Affairs Specialists,Coordinate recall or market withdrawal activities as necessary.,0.35,recall coordination needs urgent human authority
+18068,Regulatory Affairs Specialists,Develop or track quality metrics.,0.85,tracking quality metrics
+18069,Regulatory Affairs Specialists,Direct the collection and preparation of laboratory samples as requested by regulatory agencies.,0.25,directing physical lab sample collection
+18070,Regulatory Affairs Specialists,Review adverse drug reactions and file all related reports in accordance with regulatory agency guidelines.,0.55,reviewing and filing reports with regulatory accountability
+18297,Acute Care Nurses,"Analyze the indications, contraindications, risk complications, and cost-benefit tradeoffs of therapeutic interventions.",0.70,analytical reasoning about interventions
+18298,Acute Care Nurses,Diagnose acute or chronic conditions that could result in rapid physiological deterioration or life-threatening instability.,0.15,diagnosis requires licensed clinical authority
+18299,Acute Care Nurses,"Distinguish between normal and abnormal developmental and age-related physiological and behavioral changes in acute, critical, and chronic illness.",0.20,clinical judgment needs patient assessment presence
+18300,Acute Care Nurses,"Manage patients' pain relief and sedation by providing pharmacologic and non-pharmacologic interventions, monitoring patients' responses, and changing care plans accordingly.",0.10,direct pain management and medication administration
+18301,Acute Care Nurses,Interpret information obtained from electrocardiograms (EKGs) or radiographs (x-rays).,0.55,interpreting imaging data is analytical
+18302,Acute Care Nurses,"Perform emergency medical procedures, such as basic cardiac life support (BLS), advanced cardiac life support (ACLS), and other condition-stabilizing interventions.",0.02,physical emergency procedures need a body
+18303,Acute Care Nurses,"Assess urgent and emergent health conditions, using both physiologically and technologically derived data.",0.15,assessing emergent conditions needs presence
+18304,Acute Care Nurses,"Adjust settings on patients' assistive devices, such as temporary pacemakers.",0.05,physical device adjustment on patient
+18305,Acute Care Nurses,"Assess the impact of illnesses or injuries on patients' health, function, growth, development, nutrition, sleep, rest, quality of life, or family, social and educational relationships.",0.20,assessment via patient interview and observation
+18306,Acute Care Nurses,"Collaborate with members of multidisciplinary health care teams to plan, manage, or assess patient treatments.",0.30,team collaboration needs live interaction
+18307,Acute Care Nurses,Discuss illnesses and treatments with patients and family members.,0.25,discussing care needs interpersonal trust and presence
+18308,Acute Care Nurses,"Document data related to patients' care, including assessment results, interventions, medications, patient responses, or treatment changes.",0.80,documentation of care data
+18309,Acute Care Nurses,Treat wounds or superficial lacerations.,0.02,physical wound treatment
+18310,Acute Care Nurses,"Set up, operate, or monitor invasive equipment and devices, such as colostomy or tracheotomy equipment, mechanical ventilators, catheters, gastrointestinal tubes, and central lines.",0.03,physical equipment operation on patient
+18311,Acute Care Nurses,Obtain specimens or samples for laboratory work.,0.02,physical specimen collection
+18312,Acute Care Nurses,"Order, perform, or interpret the results of diagnostic tests and screening procedures based on assessment results, differential diagnoses, and knowledge about age, gender and health status of clients.",0.35,ordering and interpreting doable but performing tests is physical
+18313,Acute Care Nurses,Participate in patients' care meetings and conferences.,0.30,meeting participation needs presence and authority
+18314,Acute Care Nurses,"Prescribe medications and observe patients' reactions, modifying prescriptions as needed.",0.05,prescribing requires licensed authority
+18315,Acute Care Nurses,Refer patients for specialty consultations or treatments.,0.40,referral decision needs clinical authority
+18316,Acute Care Nurses,"Administer blood and blood product transfusions or intravenous infusions, monitoring patients for adverse reactions.",0.03,physical administration of transfusions
+18317,Acute Care Nurses,Assist patients in organizing their health care system activities.,0.55,administrative assistance organizing care activities
+18318,Acute Care Nurses,Assess the needs of patients' family members or caregivers.,0.20,assessing family needs requires interpersonal presence
+18319,Acute Care Nurses,Collaborate with patients to plan for future health care needs or to coordinate transitions and referrals.,0.30,care planning collaboration needs presence
+18321,Acute Care Nurses,"Read current literature, talk with colleagues, and participate in professional organizations or conferences to keep abreast of developments in acute care.",0.55,reading literature high but colleague talk needs presence
+18322,Acute Care Nurses,Participate in the development of practice protocols.,0.55,drafting practice protocols
+18323,Acute Care Nurses,"Perform administrative duties that facilitate admission, transfer, or discharge of patients.",0.55,administrative admission and discharge paperwork
+18324,Acute Care Nurses,Provide formal and informal education to other staff members.,0.35,education of staff often needs live presence
+18325,Critical Care Nurses,Identify patients' age-specific needs and alter care plans as necessary to meet those needs.,0.25,care plan adjustment needs clinical presence
+18326,Critical Care Nurses,Provide post-mortem care.,0.02,physical post-mortem care
+18327,Critical Care Nurses,Evaluate patients' vital signs or laboratory data to determine emergency intervention needs.,0.35,evaluating vitals data is partly analytical
+18328,Critical Care Nurses,"Perform approved therapeutic or diagnostic procedures, based upon patients' clinical status.",0.03,physical therapeutic procedures
+18329,Critical Care Nurses,"Administer blood and blood products, monitoring patients for signs and symptoms related to transfusion reactions.",0.03,physical administration of blood products
+18330,Critical Care Nurses,"Administer medications intravenously, by injection, orally, through gastric tubes, or by other methods.",0.02,physical medication administration
+18331,Critical Care Nurses,"Advocate for patients' and families' needs, or provide emotional support for patients and their families.",0.15,emotional support needs human presence
+18332,Critical Care Nurses,"Set up and monitor medical equipment and devices such as cardiac monitors, mechanical ventilators and alarms, oxygen delivery devices, transducers, or pressure lines.",0.15,physical equipment setup on patient
+18333,Critical Care Nurses,"Monitor patients' fluid intake and output to detect emerging problems, such as fluid and electrolyte imbalances.",0.45,monitoring fluid data is analytical if data available
+18334,Critical Care Nurses,Monitor patients for changes in status and indications of conditions such as sepsis or shock and institute appropriate interventions.,0.20,monitoring plus physical intervention needs presence
+18335,Critical Care Nurses,Assess patients' pain levels or sedation requirements.,0.20,pain assessment needs patient interaction
+18336,Critical Care Nurses,"Assess patients' psychosocial status and needs, including areas such as sleep patterns, anxiety, grief, anger, and support systems.",0.20,psychosocial assessment needs interpersonal presence
+18337,Critical Care Nurses,"Collaborate with other health care professionals to develop and revise treatment plans, based on identified needs and assessment data.",0.35,collaborative plan revision needs presence and authority
+18338,Critical Care Nurses,Collect specimens for laboratory tests.,0.02,physical specimen collection
+18339,Critical Care Nurses,Compile and analyze data obtained from monitoring or diagnostic tests.,0.80,data compilation and analysis
+18340,Critical Care Nurses,Conduct pulmonary assessments to identify abnormal respiratory patterns or breathing sounds that indicate problems.,0.05,physical pulmonary assessment
+18341,Critical Care Nurses,Document patients' medical histories and assessment findings.,0.75,documentation of medical histories
+18342,Critical Care Nurses,"Document patients' treatment plans, interventions, outcomes, or plan revisions.",0.75,documentation of treatment plans
+18343,Critical Care Nurses,Identify patients at risk of complications due to nutritional status.,0.55,nutritional risk analysis from records
+18344,Critical Care Nurses,"Prioritize nursing care for assigned critically ill patients, based on assessment data or identified needs.",0.35,triage prioritization needs clinical accountability
+18345,Critical Care Nurses,"Assist physicians with procedures such as bronchoscopy, endoscopy, endotracheal intubation, or elective cardioversion.",0.02,physical assistance in procedures
+18346,Critical Care Nurses,Ensure that equipment or devices are properly stored after use.,0.05,physical equipment storage
+18347,Critical Care Nurses,Identify malfunctioning equipment or devices.,0.25,equipment fault identification often needs inspection
+18348,Critical Care Nurses,Assess family adaptation levels and coping skills to determine whether intervention is needed.,0.15,family coping assessment needs presence
+18349,Critical Care Nurses,Coordinate patient care conferences.,0.65,administrative coordination of conferences
+18350,Critical Care Nurses,Participate in professional organizations and continuing education to improve practice knowledge and skills.,0.30,professional participation needs human presence
+18351,Critical Care Nurses,"Participate in the development, review, or evaluation of nursing practice protocols.",0.55,protocol development and review writing
+18352,Critical Care Nurses,"Plan, provide, or evaluate educational programs for nursing staff, interdisciplinary health care team members, or community members.",0.40,planning high but teaching needs presence
+18353,Critical Care Nurses,Supervise and monitor unit nursing staff.,0.15,staff supervision needs authority and presence
+18354,Nurse Anesthetists,Administer post-anesthesia medications or fluids to support patients' cardiovascular systems.,0.03,physical medication administration
+18355,Nurse Anesthetists,"Evaluate patients' post-surgical or post-anesthesia responses, taking appropriate corrective actions or requesting consultation if complications occur.",0.15,post-anesthesia evaluation needs presence and authority
+18356,Nurse Anesthetists,"Perform pre-anesthetic screenings, including physical evaluations and patient interviews, and document results.",0.25,physical evaluation and interview needed
+18357,Nurse Anesthetists,Select and prescribe post-anesthesia medications or treatments to patients.,0.05,prescribing requires licensed authority
+18358,Nurse Anesthetists,"Select, order, or administer pre-anesthetic medications.",0.10,selecting and administering meds needs licensed authority
+18359,Nurse Anesthetists,Discharge patients from post-anesthesia care.,0.10,discharge decision needs clinical authority and presence
+18360,Nurse Anesthetists,"Perform or evaluate the results of diagnostic tests, such as radiographs (x-rays) and electrocardiograms (EKGs).",0.35,performing tests physical but evaluating results analytical

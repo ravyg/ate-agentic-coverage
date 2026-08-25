@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+3541,Surveyors,"Train assistants and helpers, and direct their work in such activities as performing surveys or drafting maps.",0.35,directs human assistants in physical fieldwork
+3537,Surveyors,"Coordinate findings with the work of engineering and architectural personnel, clients, and others concerned with projects.",0.55,coordination and information sharing across parties
+3542,Surveyors,Analyze survey objectives and specifications to prepare survey proposals or to direct others in survey proposal preparation.,0.80,analysis and proposal writing from specs
+20954,Surveyors,"Testify as an expert witness in court cases on land survey issues, such as property boundaries.",0.05,sworn expert testimony needs legal authority and presence
+3538,Surveyors,Adjust surveying instruments to maintain their accuracy.,0.05,physical adjustment of instruments
+3544,Surveyors,Develop criteria for survey methods and procedures.,0.85,pure writing of methods criteria
+3548,Surveyors,"Survey bodies of water to determine navigable channels and to secure data for construction of breakwaters, piers, and other marine structures.",0.05,physical fieldwork surveying water bodies
+3549,Surveyors,Direct aerial surveys of specified geographical areas.,0.30,directs physical aerial survey operations
+3546,Surveyors,"Conduct research in surveying and mapping methods, using knowledge of photogrammetric map compilation and electronic data processing.",0.85,research and literature synthesis
+3547,Surveyors,"Locate and mark sites selected for geophysical prospecting activities, such as efforts to locate petroleum or other mineral products.",0.05,physically locating and marking field sites
+3550,Surveyors,"Determine specifications for equipment to be used for aerial photography, as well as altitudes from which to photograph terrain.",0.80,computational equipment specification planning
+3545,Surveyors,Develop criteria for the design and modification of survey instruments.,0.80,writing design criteria for instruments
+16299,Geodetic Surveyors,Analyze control or survey data to ensure adherence to project specifications or land survey standards.,0.85,data analysis against specifications
+16302,Geodetic Surveyors,"Conduct surveys to determine exact positions, measurement of points, elevations, lines, areas, volumes, contours, or other features of land surfaces.",0.05,physical field survey measurement
+16298,Geodetic Surveyors,Calculate the exact horizontal and vertical position of points on the Earth's surface.,0.90,pure computation from collected data
+16295,Geodetic Surveyors,"Maintain databases of geodetic and related information, including coordinate, descriptive, or quality assurance data.",0.90,database maintenance info work
+16292,Geodetic Surveyors,Verify the mathematical correctness of newly collected survey data.,0.90,mathematical verification of data
+16297,Geodetic Surveyors,"Compute horizontal and vertical coordinates of control networks, using direct leveling or other geodetic survey techniques, such as triangulation, trilateration, and traversing, to establish features of the Earth's surface.",0.35,requires physical field leveling and instrument use
+16289,Geodetic Surveyors,"Plan or direct the work of geodetic surveying staff, providing technical consultation as needed.",0.40,directs human survey staff
+16300,Geodetic Surveyors,"Assess the quality of control data to determine the need for additional survey data for engineering, construction, or other projects.",0.85,data quality analysis
+16290,Geodetic Surveyors,Distribute compiled geodetic data to government agencies or the general public.,0.90,distributing compiled data
+16293,Geodetic Surveyors,Request additional survey data when field collection errors occur or engineering surveying specifications are not maintained.,0.85,communication requesting corrected data
+16291,Geodetic Surveyors,"Read current literature, talk with colleagues, continue education, or participate in professional organizations or conferences to keep abreast of developments in technology, equipment, or systems.",0.55,mix of reading literature and in person networking
+16288,Geodetic Surveyors,Provide training and interpretation in the use of methods or procedures for observing and checking controls for geodetic and plane coordinates.,0.45,training involves hands on instrument instruction
+16294,Geodetic Surveyors,Prepare progress or technical reports.,0.95,pure report writing
+16287,Geodetic Surveyors,"Review existing standards, controls, or equipment used, recommending changes or upgrades as needed.",0.85,review and recommend standards
+16296,Geodetic Surveyors,"Compute, retrace, or adjust existing surveys of features such as highway alignments, property boundaries, utilities, control and other surveys to match the ground elevation-dependent grids, geodetic grids, or property boundaries and to ensure accuracy and continuity of data used in engineering, surveying, or construction projects.",0.80,computation adjusting existing survey data
+16301,Geodetic Surveyors,"Determine orientation of tracts of land, including position, boundaries, size, and shape, using theodolites, electronic distance-measuring equipment, satellite-based positioning equipment, land information systems, or other geodetic survey equipment.",0.05,physical use of survey equipment on land
+1339,Aerospace Engineers,"Formulate mathematical models or other methods of computer analysis to develop, evaluate, or modify design, according to customer engineering requirements.",0.85,mathematical modeling and design analysis
+1337,Aerospace Engineers,"Plan or conduct experimental, environmental, operational, or stress tests on models or prototypes of aircraft or aerospace systems or equipment.",0.30,conducting physical prototype tests
+20724,Aerospace Engineers,Formulate conceptual design of aeronautical or aerospace products or systems to meet customer requirements or conform to environmental regulations.,0.80,conceptual design work
+1345,Aerospace Engineers,Plan or coordinate investigation and resolution of customers' reports of technical problems with aircraft or aerospace vehicles.,0.65,coordinating investigation via communication
+1340,Aerospace Engineers,"Write technical reports or other documentation, such as handbooks or bulletins, for use by engineering staff, management, or customers.",0.95,pure technical writing
+1335,Aerospace Engineers,"Direct or coordinate activities of engineering or technical personnel involved in designing, fabricating, modifying, or testing of aircraft or aerospace products.",0.30,directs physical fabrication and testing personnel
+20725,Aerospace Engineers,"Evaluate product data or design from inspections or reports for conformance to engineering principles, customer requirements, environmental regulations, or quality standards.",0.85,evaluating design data for conformance
+20726,Aerospace Engineers,"Develop design criteria for aeronautical or aerospace products or systems, including testing methods, production costs, quality standards, environmental standards, or completion dates.",0.80,developing design criteria
+1341,Aerospace Engineers,"Analyze project requests, proposals, or engineering data to determine feasibility, productibility, cost, or production time of aerospace or aeronautical products.",0.85,feasibility and cost analysis
+1346,Aerospace Engineers,Maintain records of performance reports for future reference.,0.90,record keeping
+20727,Aerospace Engineers,Diagnose performance problems by reviewing reports or documentation from customers or field engineers or by inspecting malfunctioning or damaged products.,0.55,mix of report review and physical inspection
+20728,Aerospace Engineers,Direct aerospace research and development programs.,0.30,directs physical R&D programs with authority
+1344,Aerospace Engineers,Evaluate and approve selection of vendors by studying past performance or new advertisements.,0.55,evaluation feasible but approval needs accountable human
+19601,Aerospace Engineers,"Design new or modify existing aerospace systems to reduce polluting emissions, such as nitrogen oxide, carbon monoxide, or smoke emissions.",0.80,engineering design to reduce emissions
+19602,Aerospace Engineers,Design or engineer filtration systems that reduce harmful emissions.,0.80,engineering design of filtration systems
+19603,Aerospace Engineers,Evaluate biofuel performance specifications to determine feasibility for aerospace applications.,0.85,feasibility analysis of biofuel specs
+5336,Agricultural Engineers,"Prepare reports, sketches, working drawings, specifications, proposals, and budgets for proposed sites or systems.",0.85,drafting reports and proposals
+5325,Agricultural Engineers,"Visit sites to observe environmental problems, to consult with contractors, or to monitor construction activities.",0.05,physical site visits and monitoring
+5337,Agricultural Engineers,"Meet with clients, such as district or regional councils, farmers, and developers, to discuss their needs.",0.45,in person meetings to gather client needs
+5331,Agricultural Engineers,"Discuss plans with clients, contractors, consultants, and other engineers so that they can be evaluated and necessary changes made.",0.45,discussion with clients and contractors
+5327,Agricultural Engineers,Test agricultural machinery and equipment to ensure adequate performance.,0.05,physical equipment testing
+5334,Agricultural Engineers,"Plan and direct construction of rural electric-power distribution systems, and irrigation, drainage, and flood control systems for soil and water conservation.",0.25,planning plus directing physical construction
+5329,Agricultural Engineers,"Provide advice on water quality and issues related to pollution management, river control, and ground and surface water resources.",0.80,advisory analysis on water quality
+5328,Agricultural Engineers,"Design structures for crop storage, animal shelter and loading, and animal and crop processing, and supervise their construction.",0.35,design work plus supervising physical construction
+5330,Agricultural Engineers,Conduct educational programs that provide farmers or farm cooperative members with information that can help them improve agricultural productivity.,0.45,live educational program delivery to farmers
+5338,Agricultural Engineers,"Design sensing, measuring, and recording devices, and other instrumentation used to study plant or animal life.",0.75,instrumentation design work
+5326,Agricultural Engineers,"Design agricultural machinery components and equipment, using computer-aided design (CAD) technology.",0.80,CAD based component design
+5333,Agricultural Engineers,Design and supervise environmental and land reclamation projects in agriculture and related industries.,0.30,design plus supervising physical reclamation projects
+5335,Agricultural Engineers,Design food processing plants and related mechanical systems.,0.80,design of processing plants
+5332,Agricultural Engineers,Supervise food processing or manufacturing plant operations.,0.15,on site supervision of plant operations
+8968,Bioengineers and Biomedical Engineers,"Evaluate the safety, efficiency, and effectiveness of biomedical equipment.",0.65,evaluation of equipment safety and effectiveness
+21856,Bioengineers and Biomedical Engineers,"Prepare technical reports, data summary documents, or research articles for scientific publication, regulatory submissions, or patent applications.",0.90,technical report and article writing
+21847,Bioengineers and Biomedical Engineers,"Design or develop medical diagnostic or clinical instrumentation, equipment, or procedures, using the principles of engineering and biobehavioral sciences.",0.65,design of instrumentation with some physical development
+8975,Bioengineers and Biomedical Engineers,"Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals.",0.55,collaborative research with other scientists
+8979,Bioengineers and Biomedical Engineers,Adapt or design computer hardware or software for medical science uses.,0.75,software and hardware design work
+21853,Bioengineers and Biomedical Engineers,Maintain databases of experiment characteristics or results.,0.90,database maintenance
+21851,Bioengineers and Biomedical Engineers,"Develop statistical models or simulations, using statistical or modeling software.",0.90,pure statistical modeling
+21857,Bioengineers and Biomedical Engineers,"Read current scientific or trade literature to stay abreast of scientific, industrial, or technological advances.",0.90,reading scientific literature
+21854,Bioengineers and Biomedical Engineers,"Manage teams of engineers by creating schedules, tracking inventory, creating or using budgets, or overseeing contract obligations or deadlines.",0.55,team management with scheduling and budgeting
+8973,Bioengineers and Biomedical Engineers,Develop models or computer simulations of human biobehavioral systems to obtain data for measuring or controlling life processes.,0.85,computer simulation development
+21846,Bioengineers and Biomedical Engineers,"Design or conduct follow-up experimentation, based on generated data, to meet established process objectives.",0.35,design plus conducting physical experiments
+18604,Bioengineers and Biomedical Engineers,"Write documents describing protocols, policies, standards for use, maintenance, and repair of medical equipment.",0.90,writing protocol documents
+21841,Bioengineers and Biomedical Engineers,Communicate with bioregulatory authorities regarding licensing or compliance responsibilities.,0.35,regulatory communication with compliance responsibility
+21850,Bioengineers and Biomedical Engineers,Develop methodologies for transferring procedures or biological processes from laboratories to commercial-scale manufacturing production.,0.75,methodology development for scale up
+21840,Bioengineers and Biomedical Engineers,"Collaborate with manufacturing or quality assurance staff to prepare product specification or safety sheets, standard operating procedures, user manuals, or qualification and validation reports.",0.70,collaborative document preparation
+8972,Bioengineers and Biomedical Engineers,"Research new materials to be used for products, such as implanted artificial organs.",0.65,research into new materials
+21855,Bioengineers and Biomedical Engineers,"Prepare project plans for equipment or facility improvements, including time lines, budgetary estimates, or capital spending requests.",0.85,project planning and budgeting
+21844,Bioengineers and Biomedical Engineers,Consult with chemists or biologists to develop or evaluate novel technologies.,0.55,consultation discussion with scientists
+21843,Bioengineers and Biomedical Engineers,Confer with research and biomanufacturing personnel to ensure the compatibility of design and production.,0.55,coordination discussion with personnel
+21858,Bioengineers and Biomedical Engineers,"Recommend process formulas, instrumentation, or equipment specifications, based on results of bench or pilot experimentation.",0.80,recommendations based on experimental data
+21842,Bioengineers and Biomedical Engineers,"Communicate with suppliers regarding the design or specifications of bioproduction equipment, instrumentation, or materials.",0.75,supplier communication on specifications
+18603,Bioengineers and Biomedical Engineers,Conduct training or in-services to educate clinicians and other personnel on proper use of equipment.,0.35,hands on training for clinical equipment use
+8970,Bioengineers and Biomedical Engineers,"Advise hospital administrators on the planning, acquisition, and use of medical equipment.",0.75,advisory analysis for administrators
+8980,Bioengineers and Biomedical Engineers,Analyze new medical procedures to forecast likely outcomes.,0.80,forecasting analysis of procedures
+21845,Bioengineers and Biomedical Engineers,"Design and deliver technology, such as prosthetic devices, to assist people with disabilities.",0.35,design plus physical delivery fitting of devices
+21839,Bioengineers and Biomedical Engineers,"Advise manufacturing staff regarding problems with fermentation, filtration, or other bioproduction processes.",0.70,advisory analysis on bioproduction issues
+21859,Bioengineers and Biomedical Engineers,Review existing manufacturing processes to identify opportunities for yield improvement or reduced process variation.,0.85,process review for yield improvement
+21849,Bioengineers and Biomedical Engineers,"Develop bioremediation processes to reduce pollution, protect the environment, or treat waste products.",0.65,process development with experimental component
+21852,Bioengineers and Biomedical Engineers,Lead studies to examine or recommend changes in process sequences or operation protocols.,0.60,leading analytical studies
+21848,Bioengineers and Biomedical Engineers,Design or direct bench or pilot production experiments to determine the scale of production methods that optimize product yield and minimize production costs.,0.35,design plus directing physical pilot experiments
+3552,Chemical Engineers,Develop safety procedures to be employed by workers operating equipment or working in close proximity to ongoing chemical reactions.,0.85,writing safety procedures
+18471,Chemical Engineers,Troubleshoot problems with chemical manufacturing processes.,0.55,troubleshooting often needs on site presence
+20955,Chemical Engineers,Monitor and analyze data from processes and experiments.,0.85,data monitoring and analysis
+18472,Chemical Engineers,Evaluate chemical equipment and processes to identify ways to optimize performance or to ensure compliance with safety and environmental regulations.,0.80,evaluation of equipment and processes
+3560,Chemical Engineers,Design and plan layout of equipment.,0.80,equipment layout design
+3554,Chemical Engineers,Prepare estimate of production costs and production progress reports for management.,0.90,cost estimation and reporting
+18473,Chemical Engineers,"Perform tests and monitor performance of processes throughout stages of production to determine degree of control over variables such as temperature, density, specific gravity, and pressure.",0.40,physical testing and monitoring at plant
+3558,Chemical Engineers,Conduct research to develop new and improved chemical manufacturing processes.,0.55,research mixing analysis with physical experimentation
+3553,Chemical Engineers,"Determine most effective arrangement of operations such as mixing, crushing, heat transfer, distillation, and drying.",0.80,computational process arrangement optimization
+3557,Chemical Engineers,"Develop processes to separate components of liquids or gases or generate electrical currents, using controlled chemical processes.",0.60,process development with physical experimentation
+3559,Chemical Engineers,Design measurement and control systems for chemical plants based on data collected in laboratory experiments and in pilot plant operations.,0.80,control system design from existing data
+3556,Chemical Engineers,"Perform laboratory studies of steps in manufacture of new products and test proposed processes in small-scale operation, such as a pilot plant.",0.15,physical laboratory and pilot plant work
+24003,Chemical Engineers,Develop computer models of chemical processes.,0.90,pure computer modeling
+3555,Chemical Engineers,"Direct activities of workers who operate or are engaged in constructing and improving absorption, evaporation, or electromagnetic equipment.",0.20,directs physical construction workers
+19610,Civil Engineers,"Direct engineering activities, ensuring compliance with environmental, safety, or other governmental regulations.",0.35,directs engineering activities with regulatory accountability
+20490,Civil Engineers,"Manage and direct the construction, operations, or maintenance activities at project site.",0.15,on site management of construction operations
+148,Civil Engineers,Inspect project sites to monitor progress and ensure conformance to design specifications and safety or sanitation standards.,0.10,physical site inspection
+147,Civil Engineers,"Compute load and grade requirements, water flow rates, or material stress factors to determine design specifications.",0.90,pure engineering computation
+20491,Civil Engineers,"Plan and design transportation or hydraulic systems or structures, using computer-assisted design or drawing tools.",0.85,CAD based system design
+20489,Civil Engineers,"Provide technical advice to industrial or managerial personnel regarding design, construction, program modifications, or structural repairs.",0.75,advisory technical consultation
+20492,Civil Engineers,"Analyze survey reports, maps, drawings, blueprints, aerial photography, or other topographical or geologic data.",0.90,analysis of survey and geologic data
+150,Civil Engineers,"Direct or participate in surveying to lay out installations or establish reference points, grades, or elevations to guide construction.",0.10,physical fieldwork surveying
+151,Civil Engineers,"Estimate quantities and cost of materials, equipment, or labor to determine project feasibility.",0.85,cost and quantity estimation
+152,Civil Engineers,"Prepare or present public reports on topics such as bid proposals, deeds, environmental impact statements, or property and right-of-way descriptions.",0.65,report writing plus public presentation
+19607,Civil Engineers,Design energy-efficient or environmentally sound civil structures.,0.80,energy efficient structure design
+153,Civil Engineers,"Test soils or materials to determine the adequacy and strength of foundations, concrete, asphalt, or steel.",0.10,physical material testing
+19611,Civil Engineers,Identify environmental risks and develop risk management strategies for civil engineering projects.,0.80,risk analysis and strategy development
+155,Civil Engineers,Conduct studies of traffic patterns or environmental conditions to identify engineering problems and assess potential project impact.,0.65,studies mixing data analysis and field observation
+19609,Civil Engineers,Develop or implement engineering solutions to clean up industrial accidents or other contaminated sites.,0.30,solution design plus physical site cleanup
+19608,Civil Engineers,"Design or engineer systems to efficiently dispose of chemical, biological, or other toxic wastes.",0.80,waste disposal system design
+16323,Transportation Engineers,"Design or prepare plans for new transportation systems or parts of systems, such as airports, commuter trains, highways, streets, bridges, drainage structures, or roadway lighting.",0.85,transportation system design planning
+16320,Transportation Engineers,"Check construction plans, design calculations, or cost estimations to ensure completeness, accuracy, or conformity to engineering standards or practices.",0.90,reviewing plans and calculations
+16305,Transportation Engineers,"Prepare administrative, technical, or statistical reports on traffic-operation matters, such as accidents, safety measures, or pedestrian volume or practices.",0.90,statistical and technical reporting
+16311,Transportation Engineers,Plan alteration or modification of existing transportation structures to improve safety or function.,0.80,planning structural modifications
+16319,Transportation Engineers,"Confer with contractors, utility companies, or government agencies to discuss plans, specifications, or work schedules.",0.55,conferring with contractors and agencies
+16303,Transportation Engineers,"Present data, maps, or other information at construction-related public hearings or meetings.",0.40,public presentation at hearings
+16310,Transportation Engineers,Prepare final project layout drawings that include details such as stress calculations.,0.85,drafting layout drawings with calculations
+16314,Transportation Engineers,Investigate traffic problems and recommend methods to improve traffic flow or safety.,0.75,traffic analysis and recommendations
+16318,Transportation Engineers,Estimate transportation project costs.,0.90,cost estimation
+19612,Transportation Engineers,"Design or engineer drainage, erosion, or sedimentation control systems for transportation projects.",0.80,drainage system design
+16307,Transportation Engineers,Evaluate traffic control devices or lighting systems to determine need for modification or expansion.,0.75,evaluation of traffic control devices
+16309,Transportation Engineers,"Prepare project budgets, schedules, or specifications for labor or materials.",0.85,budget and schedule preparation

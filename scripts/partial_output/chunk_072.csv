@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+21109,"Computer Science Teachers, Postsecondary",Develop and maintain Web sites for online courses.,0.85,build and maintain course websites is pure software work
+5697,"Computer Science Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.25,recruitment and placement need live human interaction
+5698,"Computer Science Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.25,collaboration with colleagues needs live human exchange
+5695,"Computer Science Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks and laboratory equipment.",0.55,can research and order materials but human authorizes purchase
+5699,"Computer Science Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,committee service needs institutional presence and authority
+5706,"Computer Science Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical attendance at campus events
+5704,"Computer Science Teachers, Postsecondary",Direct research of other teachers or of graduate students working for advanced academic degrees.,0.25,directing others research needs human mentorship authority
+5701,"Computer Science Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.20,supervision requires human presence and accountability
+5703,"Computer Science Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.40,agent can support research and writing but publication needs accountable human author
+5693,"Computer Science Teachers, Postsecondary",Supervise students' laboratory work.,0.10,lab supervision needs physical presence for safety
+5708,"Computer Science Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.75,grant proposal drafting is mostly text generation work
+5702,"Computer Science Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,department head duties require institutional authority
+20059,"Computer Science Teachers, Postsecondary",Maintain computer equipment used in instruction.,0.10,physical maintenance of computer hardware
+5707,"Computer Science Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,compiling bibliographies is pure information retrieval
+5705,"Computer Science Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.30,consulting needs credentialed human relationship and accountability
+5700,"Computer Science Teachers, Postsecondary",Act as advisers to student organizations.,0.15,advising student orgs needs sustained human presence
+5710,"Mathematical Science Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.55,agent can compile and grade but administering exams needs proctor presence
+5709,"Mathematical Science Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",0.80,grading text based assignments is largely automatable
+5711,"Mathematical Science Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as linear algebra, differential equations, and discrete mathematics.",0.35,prep is text work but live lecture delivery needs human presence
+5713,"Mathematical Science Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,maintaining records is routine data entry
+5712,"Mathematical Science Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,drafting syllabi and handouts is pure text generation
+5715,"Mathematical Science Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, and course materials and methods of instruction.",0.75,curriculum planning is mostly analysis and writing
+5714,"Mathematical Science Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.20,office hours require live human availability and rapport
+5716,"Mathematical Science Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.15,moderating live classroom discussion needs human presence
+20060,"Mathematical Science Teachers, Postsecondary","Keep abreast of developments and technological advances in the mathematical field by reading current literature, talking with colleagues, and participating in professional conferences.",0.35,reading literature is text work but conferences need physical presence
+5717,"Mathematical Science Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",0.55,can research and order materials but human authorizes purchase
+5720,"Mathematical Science Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.25,collaboration with colleagues needs live human exchange
+5719,"Mathematical Science Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.40,advising can be drafted but career guidance needs human trust
+5721,"Mathematical Science Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,committee service needs institutional presence and authority
+5724,"Mathematical Science Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in books, professional journals, or electronic media.",0.40,agent can support research and writing but publication needs accountable human author
+21110,"Mathematical Science Teachers, Postsecondary",Develop department and course schedules.,0.80,schedule building is a computational optimization task
+5723,"Mathematical Science Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,department head duties require institutional authority
+21111,"Mathematical Science Teachers, Postsecondary",Conduct faculty performance evaluations.,0.25,performance evaluation needs human judgment and authority
+5725,"Mathematical Science Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.20,supervision requires human presence and accountability
+5726,"Mathematical Science Teachers, Postsecondary",Act as advisers to student organizations.,0.15,advising student orgs needs sustained human presence
+5722,"Mathematical Science Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.25,recruitment and placement need live human interaction
+5728,"Mathematical Science Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.75,grant proposal drafting is mostly text generation work
+5727,"Mathematical Science Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical attendance at campus events
+5729,"Mathematical Science Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,compiling bibliographies is pure information retrieval
+5735,"Architecture Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, and course materials and methods of instruction.",0.75,curriculum planning is mostly analysis and writing
+5733,"Architecture Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,drafting syllabi and handouts is pure text generation
+5732,"Architecture Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as architectural design methods, aesthetics and design, and structures and materials.",0.35,prep is text work but live lecture delivery needs human presence
+5731,"Architecture Teachers, Postsecondary","Evaluate and grade students' work, including work performed in design studios.",0.55,grading design studio work needs nuanced visual and physical judgment
+5737,"Architecture Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,maintaining records is routine data entry
+5734,"Architecture Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.15,moderating live classroom discussion needs human presence
+5736,"Architecture Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.35,reading literature is text work but conferences need physical presence
+5739,"Architecture Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.55,agent can compile and grade but administering exams needs proctor presence
+5742,"Architecture Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.40,advising can be drafted but career guidance needs human trust
+5740,"Architecture Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.40,agent can support research and writing but publication needs accountable human author
+5741,"Architecture Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.20,supervision requires human presence and accountability
+5743,"Architecture Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.25,collaboration with colleagues needs live human exchange
+5748,"Architecture Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.75,grant proposal drafting is mostly text generation work
+5738,"Architecture Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.20,office hours require live human availability and rapport
+5746,"Architecture Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.25,recruitment and placement need live human interaction
+5745,"Architecture Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,committee service needs institutional presence and authority
+5747,"Architecture Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks and laboratory equipment.",0.55,can research and order materials but human authorizes purchase
+5744,"Architecture Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,compiling bibliographies is pure information retrieval
+5751,"Architecture Teachers, Postsecondary",Act as advisers to student organizations.,0.15,advising student orgs needs sustained human presence
+5750,"Architecture Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,department head duties require institutional authority
+5749,"Architecture Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.30,consulting needs credentialed human relationship and accountability
+5752,"Architecture Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical attendance at campus events
+5757,"Engineering Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.40,agent can support research and writing but publication needs accountable human author
+5758,"Engineering Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,drafting syllabi and handouts is pure text generation
+5756,"Engineering Teachers, Postsecondary","Evaluate and grade students' class work, laboratory work, assignments, and papers.",0.75,grading class and lab reports is mostly text based evaluation
+5760,"Engineering Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.75,grant proposal drafting is mostly text generation work
+5755,"Engineering Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.20,supervision requires human presence and accountability
+5754,"Engineering Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.35,reading literature is text work but conferences need physical presence
+5753,"Engineering Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as mechanics, hydraulics, and robotics.",0.35,prep is text work but live lecture delivery needs human presence
+5762,"Engineering Teachers, Postsecondary","Initiate, facilitate, and moderate class discussions.",0.15,moderating live classroom discussion needs human presence
+5761,"Engineering Teachers, Postsecondary",Supervise students' laboratory work.,0.10,lab supervision needs physical presence for safety
+5759,"Engineering Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.55,agent can compile and grade but administering exams needs proctor presence
+5767,"Engineering Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.25,collaboration with colleagues needs live human exchange
+5764,"Engineering Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, and course materials and methods of instruction.",0.75,curriculum planning is mostly analysis and writing
+5766,"Engineering Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,maintaining records is routine data entry
+5763,"Engineering Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.20,office hours require live human availability and rapport
+5769,"Engineering Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.25,recruitment and placement need live human interaction
+5768,"Engineering Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks and laboratory equipment.",0.55,can research and order materials but human authorizes purchase
+5765,"Engineering Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.40,advising can be drafted but career guidance needs human trust
+5770,"Engineering Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,committee service needs institutional presence and authority
+5771,"Engineering Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,department head duties require institutional authority
+21112,"Engineering Teachers, Postsecondary",Review manuscripts for professional journals.,0.55,manuscript review is text analysis but needs accountable expert reviewer
+5775,"Engineering Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical attendance at campus events
+5774,"Engineering Teachers, Postsecondary",Act as advisers to student organizations.,0.15,advising student orgs needs sustained human presence
+5772,"Engineering Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.30,consulting needs credentialed human relationship and accountability
+5773,"Engineering Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,compiling bibliographies is pure information retrieval
+5778,"Agricultural Sciences Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.35,reading literature is text work but conferences need physical presence
+5785,"Agricultural Sciences Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.40,advising can be drafted but career guidance needs human trust
+5783,"Agricultural Sciences Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.20,supervision requires human presence and accountability
+5782,"Agricultural Sciences Teachers, Postsecondary",Supervise laboratory sessions and field work and coordinate laboratory operations.,0.10,lab and field supervision needs physical presence for safety
+5781,"Agricultural Sciences Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.40,agent can support research and writing but publication needs accountable human author
+5779,"Agricultural Sciences Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as crop production, plant genetics, and soil chemistry.",0.35,prep is text work but live lecture delivery needs human presence
+5789,"Agricultural Sciences Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.25,collaboration with colleagues needs live human exchange
+5776,"Agricultural Sciences Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,drafting syllabi and handouts is pure text generation
+5777,"Agricultural Sciences Teachers, Postsecondary","Evaluate and grade students' class work, laboratory work, assignments, and papers.",0.75,grading class and lab reports is mostly text based evaluation
+5790,"Agricultural Sciences Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.20,office hours require live human availability and rapport
+5780,"Agricultural Sciences Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.15,moderating live classroom discussion needs human presence
+5786,"Agricultural Sciences Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, and course materials and methods of instruction.",0.75,curriculum planning is mostly analysis and writing
+5784,"Agricultural Sciences Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.55,agent can compile and grade but administering exams needs proctor presence
+5787,"Agricultural Sciences Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,maintaining records is routine data entry
+5791,"Agricultural Sciences Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.25,recruitment and placement need live human interaction
+5792,"Agricultural Sciences Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks and laboratory equipment.",0.55,can research and order materials but human authorizes purchase
+5793,"Agricultural Sciences Teachers, Postsecondary",Act as advisers to student organizations.,0.15,advising student orgs needs sustained human presence
+5788,"Agricultural Sciences Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.75,grant proposal drafting is mostly text generation work
+5795,"Agricultural Sciences Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,committee service needs institutional presence and authority
+5794,"Agricultural Sciences Teachers, Postsecondary",Participate in campus and community events.,0.05,requires physical attendance at campus events
+5796,"Agricultural Sciences Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.30,consulting needs credentialed human relationship and accountability
+5798,"Agricultural Sciences Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,compiling bibliographies is pure information retrieval
+5797,"Agricultural Sciences Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.15,department head duties require institutional authority
+5800,"Biological Science Teachers, Postsecondary","Evaluate and grade students' class work, laboratory work, assignments, and papers.",0.75,grading class and lab reports is mostly text based evaluation
+5799,"Biological Science Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as molecular biology, marine biology, and botany.",0.35,prep is text work but live lecture delivery needs human presence
+5807,"Biological Science Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, and course materials and methods of instruction.",0.75,curriculum planning is mostly analysis and writing
+20061,"Biological Science Teachers, Postsecondary","Prepare materials for laboratory activities and course materials, such as syllabi, homework assignments, and handouts.",0.85,drafting lab and course materials is mostly text generation
+5806,"Biological Science Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.15,moderating live classroom discussion needs human presence
+5803,"Biological Science Teachers, Postsecondary",Supervise students' laboratory work.,0.10,lab supervision needs physical presence for safety
+5804,"Biological Science Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.35,reading literature is text work but conferences need physical presence
+5805,"Biological Science Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.90,maintaining records is routine data entry
+5802,"Biological Science Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.55,agent can compile and grade but administering exams needs proctor presence
+5810,"Biological Science Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.20,supervision requires human presence and accountability
+20062,"Biological Science Teachers, Postsecondary",Assist students who need extra help with their coursework outside of class.,0.55,text based tutoring help is automatable but in person help is not
+5808,"Biological Science Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.40,advising can be drafted but career guidance needs human trust
+5809,"Biological Science Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.20,office hours require live human availability and rapport
+5813,"Biological Science Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.40,agent can support research and writing but publication needs accountable human author
+5812,"Biological Science Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.25,collaboration with colleagues needs live human exchange
+5811,"Biological Science Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks and laboratory equipment.",0.55,can research and order materials but human authorizes purchase
+5814,"Biological Science Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,committee service needs institutional presence and authority
+20063,"Biological Science Teachers, Postsecondary","Provide students course-related experiences, such as field trips, outside the classroom.",0.10,field trips require physical presence and supervision
+5816,"Biological Science Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.75,grant proposal drafting is mostly text generation work
+20064,"Biological Science Teachers, Postsecondary",Review papers for publication in journals.,0.55,manuscript review is text analysis but needs accountable expert reviewer
+5815,"Biological Science Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.25,recruitment and placement need live human interaction
+21113,"Biological Science Teachers, Postsecondary",Maintain or repair lab equipment.,0.05,physical repair of lab equipment

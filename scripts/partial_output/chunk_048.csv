@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+21735,Geographic Information Systems Technologists and Technicians,"Make recommendations regarding upgrades, considering implications of new or revised Geographic Information Systems (GIS) software, equipment, or applications.",0.85,research-based upgrade recommendation writing
+21736,Geographic Information Systems Technologists and Technicians,Assist users in formulating Geographic Information Systems (GIS) requirements or understanding the implications of alternatives.,0.55,requirements consulting needs user interaction
+21737,Geographic Information Systems Technologists and Technicians,"Create visual representations of geospatial data, using complex procedures such as analytical modeling, three-dimensional renderings, or plot creation.",0.85,geospatial visualization via modeling tools
+21738,Geographic Information Systems Technologists and Technicians,Transfer or rescale information from original photographs onto maps or other photographs.,0.60,digital rescaling with possible physical photo handling
+21739,Geographic Information Systems Technologists and Technicians,"Prepare training materials for, or make presentations to, Geographic Information Systems (GIS) users.",0.60,materials easy but live presentation needs presence
+21740,Geographic Information Systems Technologists and Technicians,Apply three-dimensional (3D) or four-dimensional (4D) technologies to geospatial data to allow for new or different analyses or applications.,0.85,computational geospatial analysis
+21741,Geographic Information Systems Technologists and Technicians,"Conduct research, data analysis, systems design, or support for software such as Geographic Information Systems (GIS) or Global Positioning Systems (GPS) mapping software.",0.85,research and systems design work
+21742,Geographic Information Systems Technologists and Technicians,"Read current literature, talk with colleagues, continue education, or participate in professional organizations or conferences to keep abreast of developments in Geographic Information Systems (GIS) technology, equipment, or systems.",0.55,reading easy but conferences and colleagues need presence
+21743,Geographic Information Systems Technologists and Technicians,"Recommend procedures, equipment, or software upgrades to increase data accessibility or ease of use.",0.85,research-based recommendation writing
+16234,Document Management Specialists,"Assist in determining document management policies to facilitate efficient, legal, and secure access to electronic content.",0.80,policy drafting assistance information work
+16232,Document Management Specialists,"Assist in the development of document or content classification taxonomies to facilitate information capture, search, and retrieval.",0.85,taxonomy design is information work
+16238,Document Management Specialists,"Implement electronic document processing, retrieval, and distribution systems in collaboration with other information technology specialists.",0.75,system implementation mostly digital work
+16239,Document Management Specialists,"Identify and classify documents or other electronic content according to characteristics such as security level, function, and metadata.",0.90,document classification via text analysis
+16229,Document Management Specialists,"Develop, document, or maintain standards, best practices, or system usage procedures.",0.90,writing documentation and procedures
+16233,Document Management Specialists,"Assist in the assessment, acquisition, or deployment of new electronic document management systems.",0.70,assessment and deployment some steps need authority
+16237,Document Management Specialists,Administer document and system access rights and revision control to ensure security of system and integrity of master documents.,0.80,system administration via scripts and permissions
+20368,Document Management Specialists,"Prepare and record changes to official documents and confirm changes with legal and compliance management staff, including enterprise-wide records management staff.",0.50,drafting easy but confirmation needs human staff sign-off
+16220,Document Management Specialists,"Write, review, or execute plans for testing new or established document management systems.",0.85,test planning and execution for software systems
+16219,Document Management Specialists,Monitor regulatory activity to maintain compliance with records and document management laws.,0.85,regulatory monitoring via research
+16222,Document Management Specialists,"Retrieve electronic assets from repository for distribution to users, collecting and returning to repository, if necessary.",0.85,digital asset retrieval via system access
+20367,Document Management Specialists,"Keep abreast of developments in document management technologies and techniques by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.",0.55,literature review easy but meetings and conferences need presence
+16231,Document Management Specialists,Conduct needs assessments to identify document management requirements of departments or end users.,0.55,needs assessment requires user interaction
+16240,Document Management Specialists,"Develop or configure document management system features, such as user interfaces, access profiles, and document workflow procedures.",0.90,software configuration and development
+16228,Document Management Specialists,Document technical functions and specifications for new or proposed content management systems.,0.90,technical specification writing
+16226,Document Management Specialists,"Exercise security surveillance over document processing, reproduction, distribution, storage, or archiving.",0.65,monitoring can be automated but oversight role needed
+16230,Document Management Specialists,Consult with end users regarding problems in accessing electronic content.,0.65,user support consultation via chat
+16223,Document Management Specialists,Propose recommendations for improving content management system capabilities.,0.90,analysis-based recommendations
+16236,Document Management Specialists,Operate data capture technology to import digitized documents into document management system.,0.75,importing digitized files mostly automatable
+16224,Document Management Specialists,Prepare support documentation and training materials for end users of document management systems.,0.90,writing documentation and training materials
+16221,Document Management Specialists,"Search electronic sources, such as databases or repositories, or manual sources for information.",0.80,digital search manual sources need physical access
+16227,Document Management Specialists,"Implement scanning or other automated data entry procedures, using imaging devices and document imaging software.",0.45,requires physical scanner operation alongside software setup
+16235,Document Management Specialists,"Analyze, interpret, or disseminate system performance data.",0.90,data analysis and reporting
+21744,Penetration Testers,"Assess the physical security of servers, systems, or network devices to identify vulnerability to temperature, vandalism, or natural disasters.",0.15,requires physical on-site inspection
+21745,Penetration Testers,Collect stakeholder data to evaluate risk and to develop mitigation strategies.,0.55,stakeholder interviews plus analysis
+21746,Penetration Testers,"Conduct network and security system audits, using established criteria.",0.85,automatable technical audit
+21747,Penetration Testers,Configure information systems to incorporate principles of least functionality and least access.,0.85,system configuration task
+21748,Penetration Testers,Design security solutions to address known device vulnerabilities.,0.85,security design analysis
+21749,Penetration Testers,Develop and execute tests that simulate the techniques of known cyber threat actors.,0.80,automated penetration testing execution
+21750,Penetration Testers,Develop infiltration tests that exploit device vulnerabilities.,0.80,exploit development for testing
+21751,Penetration Testers,Develop presentations on threat intelligence.,0.85,presentation content creation
+21752,Penetration Testers,"Develop security penetration testing processes, such as wireless, data networks, and telecommunication security tests.",0.85,technical process design
+21753,Penetration Testers,Discuss security solutions with information technology teams or management.,0.40,requires live discussion with human teams
+21754,Penetration Testers,Document penetration test findings.,0.95,report writing from test data
+21755,Penetration Testers,"Evaluate vulnerability assessments of local computing environments, networks, infrastructures, or enclave boundaries.",0.85,technical evaluation work
+21756,Penetration Testers,Gather cyber intelligence to identify vulnerabilities.,0.85,research and OSINT gathering
+21757,Penetration Testers,"Identify new threat tactics, techniques, or procedures used by cyber threat actors.",0.85,threat research and analysis
+21758,Penetration Testers,"Identify security system weaknesses, using penetration tests.",0.80,automated penetration testing
+21759,Penetration Testers,"Investigate security incidents, using computer forensics, network forensics, root cause analysis, or malware analysis.",0.85,digital forensic analysis
+21760,Penetration Testers,Keep up with new penetration testing tools and methods.,0.90,reading and research
+21761,Penetration Testers,Maintain up-to-date knowledge of hacking trends.,0.90,reading and research on trends
+21762,Penetration Testers,Prepare and submit reports describing the results of security fixes.,0.90,report writing
+21763,Penetration Testers,"Test the security of systems by attempting to gain access to networks, Web-based applications, or computers.",0.80,digital penetration testing execution
+21764,Penetration Testers,Update corporate policies to improve cyber security.,0.70,policy drafting approval needs authority
+21765,Penetration Testers,Write audit reports to communicate technical and procedural findings and recommend solutions.,0.90,audit report writing
+21776,Information Security Engineers,"Identify security system weaknesses, using penetration tests.",0.80,automated penetration testing
+21769,Information Security Engineers,Coordinate monitoring of networks or systems for security breaches or intrusions.,0.65,coordination role monitoring can be automated
+21766,Information Security Engineers,"Assess the quality of security controls, using performance indicators.",0.85,metrics-based analysis
+21783,Information Security Engineers,"Train staff on, and oversee the use of, information security standards, policies, and best practices.",0.40,live staff training and oversight
+21782,Information Security Engineers,"Scan networks, using vulnerability assessment tools to identify vulnerabilities.",0.90,automated vulnerability scanning
+21774,Information Security Engineers,Develop response and recovery strategies for security breaches.,0.85,strategy development information work
+21767,Information Security Engineers,Conduct investigations of information security breaches to identify vulnerabilities and evaluate the damage.,0.85,digital investigation and analysis
+21773,Information Security Engineers,"Develop or install software, such as firewalls and data encryption programs, to protect sensitive information.",0.85,software development and deployment
+21777,Information Security Engineers,"Oversee development of plans to safeguard computer files against accidental or unauthorized modification, destruction, or disclosure or to meet emergency data processing needs.",0.75,planning oversight mostly information work
+21775,Information Security Engineers,Identify or implement solutions to information security problems.,0.85,technical solution implementation
+21771,Information Security Engineers,Develop information security standards and best practices.,0.90,standards writing
+21780,Information Security Engineers,Recommend information security enhancements to management.,0.85,recommendation report writing
+21778,Information Security Engineers,Oversee performance of risk assessment or execution of system tests to ensure the functioning of data processing activities or security measures.,0.75,oversight of technical assessments
+21770,Information Security Engineers,Coordinate vulnerability assessments or analysis of information security systems.,0.75,coordination of technical assessments
+21781,Information Security Engineers,Review security assessments for computing environments or check for compliance with cybersecurity standards and regulations.,0.85,compliance review information work
+21784,Information Security Engineers,Troubleshoot security and network problems.,0.80,remote technical troubleshooting
+21768,Information Security Engineers,"Coordinate documentation of computer security or emergency measure policies, procedures, or tests.",0.75,coordination and documentation writing
+21772,Information Security Engineers,"Develop or implement software tools to assist in the detection, prevention, and analysis of security threats.",0.90,software development task
+21785,Information Security Engineers,Write reports regarding investigations of information security breaches or network evaluations.,0.90,report writing
+21779,Information Security Engineers,Provide technical support to computer users for installation and use of security products.,0.65,remote support some cases need on-site help
+21786,Digital Forensics Analysts,Adhere to legal policies and procedures related to handling digital media.,0.35,chain of custody needs legally accountable human
+21787,Digital Forensics Analysts,Analyze log files or other digital information to identify the perpetrators of network intrusions.,0.85,log analysis pure information work
+21788,Digital Forensics Analysts,Conduct predictive or reactive analyses on security measures to support cyber security initiatives.,0.85,security analysis work
+21789,Digital Forensics Analysts,Create system images or capture network settings from information technology environments to preserve as evidence.,0.70,forensic imaging via tools may need physical access
+21790,Digital Forensics Analysts,"Develop plans for investigating alleged computer crimes, violations, or suspicious activity.",0.85,investigation planning information work
+21791,Digital Forensics Analysts,"Develop policies or requirements for data collection, processing, or reporting.",0.85,policy drafting
+21792,Digital Forensics Analysts,Duplicate digital evidence to use for data recovery and analysis procedures.,0.80,digital evidence duplication via tools
+21793,Digital Forensics Analysts,Identify or develop reverse-engineering tools to improve system capabilities or detect vulnerabilities.,0.85,tool development coding work
+21794,Digital Forensics Analysts,Maintain cyber defense software or hardware to support responses to cyber incidents.,0.55,software maintenance easy hardware needs physical access
+21795,Digital Forensics Analysts,"Maintain knowledge of laws, regulations, policies or other issuances pertaining to digital forensics or information privacy.",0.90,legal research and reading
+21796,Digital Forensics Analysts,Perform file signature analysis to verify files on storage media or discover potential hidden files.,0.90,automated file analysis
+21797,Digital Forensics Analysts,Perform forensic investigations of operating or file systems.,0.85,digital forensic investigation
+21798,Digital Forensics Analysts,"Perform web service network traffic analysis or waveform analysis to detect anomalies, such as unusual events or trends.",0.85,network traffic analysis
+21799,Digital Forensics Analysts,Preserve and maintain digital forensic evidence for analysis.,0.55,technical preservation but legal custody needs human
+21800,Digital Forensics Analysts,Recommend cyber defense software or hardware to support responses to cyber incidents.,0.90,research-based recommendations
+21801,Digital Forensics Analysts,Recover data or decrypt seized data.,0.85,technical data recovery
+21802,Digital Forensics Analysts,"Write and execute scripts to automate tasks, such as parsing large data files.",0.95,scripting and automation
+21803,Digital Forensics Analysts,"Write cyber defense recommendations, reports, or white papers using research or experience.",0.90,report and whitepaper writing
+21804,Digital Forensics Analysts,"Write reports, sign affidavits, or give depositions for legal proceedings.",0.25,signing affidavits and depositions need legal authority
+21805,Digital Forensics Analysts,Write technical summaries to report findings.,0.90,technical summary writing
+21806,Blockchain Engineers,"Assess blockchain threats, such as untested code and unprotected keys.",0.85,security code assessment
+21807,Blockchain Engineers,Automate the deployment of software updates over geographically distributed network nodes.,0.85,deployment automation scripting
+21808,Blockchain Engineers,"Design and deploy blockchain design patterns to make transactions secure, transparent, and immutable.",0.85,blockchain architecture design and coding
+21809,Blockchain Engineers,Design and develop blockchain technologies for industries such as finance and music.,0.85,software design and development
+21810,Blockchain Engineers,Design and implement dashboard and data visualizations to meet customer reporting needs.,0.85,dashboard development
+21811,Blockchain Engineers,Design and implement data repositories to integrate data.,0.85,data infrastructure development
+21812,Blockchain Engineers,Design and verify cryptographic protocols to protect private information.,0.80,cryptographic protocol design
+21813,Blockchain Engineers,"Determine specifications for, or implement, logging.",0.90,logging implementation coding task
+21814,Blockchain Engineers,"Develop a maintainable code base using object-oriented design principles, practices, or patterns.",0.90,software development
+21815,Blockchain Engineers,"Discuss and plan systems with solution architects, system engineers, or cybersecurity experts to meet customer requirements.",0.45,live discussion with human architects and engineers
+21816,Blockchain Engineers,"Discuss data needs with engineers, product managers, or data scientists to identify blockchain requirements.",0.45,requirements discussion needs human interaction
+21817,Blockchain Engineers,Evaluate blockchain processes or risks based on security assessments or control matrix reviews.,0.85,risk evaluation from assessments
+21818,Blockchain Engineers,Evaluate new blockchain technologies and vendor products.,0.85,technology evaluation research
+21819,Blockchain Engineers,Implement catastrophic failure handlers to identify security breaches and prevent serious damage.,0.85,failure handler coding
+21820,Blockchain Engineers,Run infrastructure tests to examine the behavior of large peer-to-peer networks.,0.85,automated infrastructure testing
+21821,Blockchain Engineers,Test the security and performance of blockchain infrastructures.,0.85,security and performance testing
+21822,Blockchain Engineers,Update client and server applications responsible for integration and business logic.,0.90,software update development
+14666,Computer Systems Engineers/Architects,Communicate with staff or clients to understand specific system requirements.,0.45,requirements gathering via live communication
+14677,Computer Systems Engineers/Architects,"Investigate system component suitability for specified purposes, and make recommendations regarding component use.",0.85,research-based component evaluation
+14674,Computer Systems Engineers/Architects,Provide customers or installation teams guidelines for implementing secure systems.,0.85,guideline writing
+14676,Computer Systems Engineers/Architects,"Direct the analysis, development, and operation of complete computer systems.",0.40,management role directing human teams
+14689,Computer Systems Engineers/Architects,"Direct the installation of operating systems, network or application software, or computer or network hardware.",0.35,directing physical installation work
+14675,Computer Systems Engineers/Architects,Monitor system operation to detect potential problems.,0.90,automated system monitoring
+14673,Computer Systems Engineers/Architects,"Identify system data, hardware, or software components required to meet user needs.",0.80,requirements analysis
+14678,Computer Systems Engineers/Architects,"Perform ongoing hardware and software maintenance operations, including installing or upgrading hardware or software.",0.45,hardware maintenance needs physical presence
+14669,Computer Systems Engineers/Architects,"Verify stability, interoperability, portability, security, or scalability of system architecture.",0.85,technical architecture verification
+14686,Computer Systems Engineers/Architects,"Research, test, or verify proper functioning of software patches and fixes.",0.85,software patch testing
+14679,Computer Systems Engineers/Architects,Configure servers to meet functional specifications.,0.85,server configuration via scripts
+14670,Computer Systems Engineers/Architects,Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.,0.55,collaborative design decisions with humans
+14683,Computer Systems Engineers/Architects,Design and conduct hardware or software tests.,0.65,test design mostly software hardware needs physical
+14685,Computer Systems Engineers/Architects,"Evaluate existing systems to determine effectiveness, and suggest changes to meet organizational requirements.",0.85,system evaluation and recommendations
+14668,Computer Systems Engineers/Architects,"Document design specifications, installation instructions, and other system-related information.",0.90,technical documentation writing
+14691,Computer Systems Engineers/Architects,Perform security analyses of developed or packaged software components.,0.85,software security analysis
+14672,Computer Systems Engineers/Architects,Provide technical guidance or support for the development or troubleshooting of systems.,0.65,technical guidance via remote support
+14681,Computer Systems Engineers/Architects,"Define and analyze objectives, scope, issues, or organizational impact of information systems.",0.85,scope and impact analysis
+14684,Computer Systems Engineers/Architects,"Establish functional or system standards to address operational requirements, quality requirements, and design constraints.",0.85,standards development information work

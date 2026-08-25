@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+15571,Biofuels/Biodiesel Technology and Product Development Managers,Develop methods to recover ethanol or other fuels from complex bioreactor liquid and gas streams.,0.30,R&D method development needs physical lab experimentation
+15199,Food Service Managers,Count money and make bank deposits.,0.05,physical cash handling and bank visit
+1086,Food Service Managers,Establish standards for personnel performance and customer service.,0.55,can draft standards but human authority finalizes
+1085,Food Service Managers,Keep records required by government agencies regarding sanitation or food subsidies.,0.75,recordkeeping and compliance documentation
+1082,Food Service Managers,Schedule staff hours and assign duties.,0.75,scheduling task from constraints
+1078,Food Service Managers,"Investigate and resolve complaints regarding food quality, service, or accommodations.",0.35,needs interpersonal resolution and on-site check
+1090,Food Service Managers,"Maintain food and equipment inventories, and keep inventory records.",0.35,requires physical inventory counting
+1089,Food Service Managers,"Perform some food preparation or service tasks, such as cooking, clearing tables, and serving food and drinks when necessary.",0.00,physical food prep and service
+1081,Food Service Managers,"Monitor budgets and payroll records, and review financial transactions to ensure that expenditures are authorized and budgeted.",0.85,financial record review and analysis
+1079,Food Service Managers,"Schedule and receive food and beverage deliveries, checking delivery contents to verify product quality and quantity.",0.20,requires physical receipt and inspection of deliveries
+1084,Food Service Managers,Coordinate assignments of cooking personnel to ensure economical use of food and timely preparation.,0.45,kitchen coordination needs real time situational judgment
+1091,Food Service Managers,"Organize and direct worker training programs, resolve personnel problems, hire new staff, and evaluate employee performance in dining and lodging facilities.",0.30,hiring and personnel management need human judgment
+1095,Food Service Managers,"Assess staffing needs and recruit staff, using methods such as newspaper advertisements or attendance at job fairs.",0.35,job fairs require physical presence
+1087,Food Service Managers,"Estimate food, liquor, wine, and other beverage consumption to anticipate amounts to be purchased or requisitioned.",0.85,consumption forecasting from historical data
+1080,Food Service Managers,"Monitor food preparation methods, portion sizes, and garnishing and presentation of food to ensure that food is prepared and presented in an acceptable manner.",0.10,requires physical on-site inspection and tasting
+1083,Food Service Managers,"Monitor compliance with health and fire regulations regarding food preparation and serving, and building maintenance in lodging and dining facilities.",0.15,requires on-site compliance inspection
+1077,Food Service Managers,Test cooked food by tasting and smelling it to ensure palatability and flavor conformity.,0.00,requires physical tasting and smelling
+1092,Food Service Managers,Order and purchase equipment and supplies.,0.55,purchasing decisions need spend authorization
+1088,Food Service Managers,"Review work procedures and operational problems to determine ways to improve service, performance, or safety.",0.80,process analysis and improvement recommendations
+1096,Food Service Managers,"Arrange for equipment maintenance and repairs, and coordinate a variety of services, such as waste removal and pest control.",0.65,vendor coordination and scheduling
+1097,Food Service Managers,Monitor employee and patron activities to ensure liquor regulations are obeyed.,0.10,requires physical on-site monitoring
+1098,Food Service Managers,"Greet guests, escort them to their seats, and present them with menus and wine lists.",0.00,physical guest greeting and escorting
+1094,Food Service Managers,"Record the number, type, and cost of items sold to determine which items may be unpopular or less profitable.",0.90,sales data analysis
+1100,Food Service Managers,"Plan menus and food utilization, based on anticipated number of guests, nutritional value, palatability, popularity, and costs.",0.75,menu planning from data and constraints
+1093,Food Service Managers,"Review menus and analyze recipes to determine labor and overhead costs, and assign prices to menu items.",0.85,cost analysis and pricing
+1102,Food Service Managers,Take dining reservations.,0.75,reservation taking via digital system
+1101,Food Service Managers,Create specialty dishes and develop recipes to be used in dining facilities.,0.40,recipe drafting fine but dish creation needs physical cooking
+1103,Food Service Managers,"Schedule use of facilities or catering services for events such as banquets or receptions, and negotiate details of arrangements with clients.",0.40,client negotiation needs human rapport
+1099,Food Service Managers,"Establish and enforce nutritional standards for dining establishments, based on accepted industry standards.",0.45,standards drafting fine but enforcement needs authority
+7185,Gambling Managers,"Resolve customer complaints regarding problems, such as payout errors.",0.35,needs on-site interpersonal complaint resolution
+7186,Gambling Managers,"Remove suspected cheaters, such as card counters or other players who may have systems that shift the odds of winning to their favor.",0.00,physical removal of persons
+7196,Gambling Managers,Track supplies of money to tables and perform any required paperwork.,0.25,physical cash tracking required
+7190,Gambling Managers,"Explain and interpret house rules, such as game rules or betting limits.",0.55,rule explanation is info work but often in-person
+7193,Gambling Managers,Prepare work schedules and station arrangements and keep attendance records.,0.75,scheduling and attendance recordkeeping
+7191,Gambling Managers,"Monitor staffing levels to ensure that games and tables are adequately staffed for each shift, arranging for staff rotations and breaks and locating substitute employees as necessary.",0.45,real time staffing coordination
+7187,Gambling Managers,"Maintain familiarity with all games used at a facility, as well as strategies or tricks employed in those games.",0.85,game knowledge research task
+7188,Gambling Managers,Train new workers or evaluate their performance.,0.30,training and evaluation need human interaction
+20472,Gambling Managers,Market or promote the casino to bring in business.,0.65,marketing content creation
+7192,Gambling Managers,Interview and hire workers.,0.30,hiring needs human judgment and authority
+7194,Gambling Managers,"Direct the distribution of complimentary hotel rooms, meals, or other discounts or free items given to players, based on their length of play and betting totals.",0.55,data driven decision doable but distribution needs staff execution
+7195,Gambling Managers,"Establish policies on issues, such as the type of gambling offered and the odds, the extension of credit, or the serving of food and beverages.",0.35,policy setting needs business and regulatory authority
+7189,Gambling Managers,"Circulate among gaming tables to ensure that operations are conducted properly, that dealers follow house rules, or that players are not cheating.",0.00,requires physical presence on gaming floor
+7197,Gambling Managers,Set and maintain a bank and table limit for each game.,0.50,limit setting is analytical but needs approval authority
+7201,Gambling Managers,Direct the compilation of summary sheets that show wager amounts and payoffs for races or events.,0.80,data compilation task
+7199,Gambling Managers,"Review operational expenses, budget estimates, betting accounts, or collection reports for accuracy.",0.85,financial accuracy review
+7200,Gambling Managers,"Record, collect, or pay off bets, issuing receipts as necessary.",0.20,physical cash transactions
+7202,Gambling Managers,Notify board attendants of table vacancies so that waiting patrons can play.,0.70,notification task via messaging
+7198,Gambling Managers,Monitor credit extended to players.,0.80,credit monitoring data task
+21409,"Entertainment and Recreation Managers, Except Gambling","Plan, organize, or lead group activities for customers, such as exercise routines, athletic events, or arts and crafts.",0.30,leading activities needs physical presence
+21408,"Entertainment and Recreation Managers, Except Gambling",Plan programs of events or schedules of activities.,0.85,event program planning
+21412,"Entertainment and Recreation Managers, Except Gambling","Talk to coworkers using electronic devices, such as computers and radios.",0.45,electronic communication but radio use is real time on site
+21416,"Entertainment and Recreation Managers, Except Gambling",Write budgets to plan recreational activities or programs.,0.85,budget drafting from data
+21406,"Entertainment and Recreation Managers, Except Gambling",Interview and hire associates to fill staff vacancies.,0.30,hiring needs human judgment
+21402,"Entertainment and Recreation Managers, Except Gambling",Calculate and record department expenses and revenue.,0.90,expense and revenue recordkeeping
+21413,"Entertainment and Recreation Managers, Except Gambling",Talk to customers to convey information about events or activities.,0.65,customer communication via digital channels
+21404,"Entertainment and Recreation Managers, Except Gambling",Explain rules and regulations of facilities and entertainment attractions to customers.,0.55,rule explanation info task partly on-site
+21400,"Entertainment and Recreation Managers, Except Gambling",Administer first aid in emergency situations.,0.00,physical first aid administration
+21401,"Entertainment and Recreation Managers, Except Gambling",Assign tasks and work hours to staff.,0.75,scheduling task
+21410,"Entertainment and Recreation Managers, Except Gambling",Resolve customer complaints regarding worker performance or services rendered.,0.35,needs interpersonal complaint resolution
+21411,"Entertainment and Recreation Managers, Except Gambling","Store and retrieve equipment, such as vehicles, radios, and ride components.",0.00,physical equipment handling
+21414,"Entertainment and Recreation Managers, Except Gambling",Train workers in company procedures or policy.,0.45,training delivery often needs human interaction
+21415,"Entertainment and Recreation Managers, Except Gambling",Write and present strategies for recreational facility programming using customer or employee data.,0.65,strategy writing from data presenting may need live delivery
+21405,"Entertainment and Recreation Managers, Except Gambling","Inspect equipment, such as rides, games, and vehicles, to detect wear and damage.",0.10,requires physical inspection
+21403,"Entertainment and Recreation Managers, Except Gambling","Clean equipment and areas of amusement park, cruise ship, or other recreational facility.",0.00,physical cleaning task
+21407,"Entertainment and Recreation Managers, Except Gambling","Operate, drive, or explain the use of mechanical equipment in amusement parks, cruise ships, or other recreational facilities.",0.00,physical operation of equipment
+1105,Lodging Managers,"Answer inquiries pertaining to hotel policies and services, and resolve occupants' complaints.",0.55,inquiry answering agent-feasible complaint resolution partly
+1108,Lodging Managers,"Participate in financial activities, such as the setting of room rates, the establishment of budgets, and the allocation of funds to departments.",0.70,financial analysis and rate setting
+1109,Lodging Managers,Confer and cooperate with other managers to ensure coordination of hotel activities.,0.55,manager coordination via communication
+1104,Lodging Managers,Greet and register guests.,0.30,greeting needs physical presence registration partly digital
+18599,Lodging Managers,Monitor the revenue activity of the hotel or facility.,0.90,revenue data monitoring
+1111,Lodging Managers,Manage and maintain temporary or permanent lodging facilities.,0.30,facility management needs physical oversight
+1113,Lodging Managers,Train staff members.,0.35,staff training needs human interaction
+1112,Lodging Managers,Observe and monitor staff performance to ensure efficient operations and adherence to facility's policies and procedures.,0.25,requires on-site observation of staff
+1107,Lodging Managers,"Coordinate front-office activities of hotels or motels, and resolve problems.",0.40,front office coordination needs on-site presence
+1116,Lodging Managers,"Inspect guest rooms, public areas, and grounds for cleanliness and appearance.",0.10,physical inspection required
+1106,Lodging Managers,"Assign duties to workers, and schedule shifts.",0.80,scheduling task
+1123,Lodging Managers,"Receive and process advance registration payments, mail letters of confirmation, or return checks when registrations cannot be accepted.",0.55,payment processing digital but mailing checks is physical
+1118,Lodging Managers,Interview and hire applicants.,0.30,hiring needs human judgment
+1119,Lodging Managers,"Purchase supplies, and arrange for outside services, such as deliveries, laundry, maintenance and repair, and trash collection.",0.55,procurement coordination with spend authorization needed
+18600,Lodging Managers,Collect payments and record data pertaining to funds and expenditures.,0.45,payment collection partly physical recordkeeping digital
+1115,Lodging Managers,Develop and implement policies and procedures for the operation of a department or establishment.,0.50,policy drafting fine but implementation needs authority
+1117,Lodging Managers,Prepare required paperwork pertaining to departmental functions.,0.85,paperwork preparation
+1114,Lodging Managers,"Show, rent, or assign accommodations.",0.35,showing rooms needs physical presence
+1121,Lodging Managers,Perform marketing and public relations activities.,0.60,marketing content creation partly digital
+1122,Lodging Managers,Organize and coordinate the work of staff and convention personnel for meetings to be held at a particular facility.,0.40,coordination needs on-site execution
+1125,Lodging Managers,"Provide assistance to staff members by inspecting rooms, setting tables, or doing laundry.",0.00,physical assistance tasks
+1120,Lodging Managers,"Arrange telephone answering services, deliver mail and packages, or answer questions regarding locations for eating and entertainment.",0.45,answering questions agent-feasible delivery is physical
+1124,Lodging Managers,"Meet with clients to schedule and plan details of conventions, banquets, receptions and other functions.",0.40,client meeting needs human rapport
+1126,Lodging Managers,Book tickets for guests for local tours and attractions.,0.85,digital booking task
+46,Medical and Health Services Managers,"Direct, supervise and evaluate work activities of medical, nursing, technical, clerical, service, maintenance, and other personnel.",0.25,supervision needs human authority and presence
+49,Medical and Health Services Managers,"Develop and maintain computerized record management systems to store and process data, such as personnel activities and information, and to produce reports.",0.85,system development and data processing
+58,Medical and Health Services Managers,"Plan, implement, and administer programs and services in a health care or medical facility, including personnel administration, training, and coordination of medical, nursing and physical plant staff.",0.30,administration needs organizational authority
+51,Medical and Health Services Managers,"Conduct and administer fiscal operations, including accounting, planning budgets, authorizing expenditures, establishing rates for services, and coordinating financial reporting.",0.55,financial ops mostly info work but authorization needs fiduciary authority
+55,Medical and Health Services Managers,"Maintain awareness of advances in medicine, computerized diagnostic and treatment equipment, data processing technology, government regulations, health insurance changes, and financing options.",0.90,research and knowledge tracking task
+52,Medical and Health Services Managers,"Establish work schedules and assignments for staff, according to workload, space, and equipment availability.",0.80,scheduling task from constraints
+54,Medical and Health Services Managers,"Monitor the use of diagnostic services, inpatient beds, facilities, and staff to ensure effective use of resources and assess the need for additional staff, equipment, and services.",0.75,resource utilization data analysis
+48,Medical and Health Services Managers,"Direct or conduct recruitment, hiring, and training of personnel.",0.30,hiring and training need human judgment
+56,Medical and Health Services Managers,"Manage change in integrated health care delivery systems, such as work restructuring, technological innovations, and shifts in the focus of care.",0.30,change management needs organizational authority and leadership
+53,Medical and Health Services Managers,"Maintain communication between governing boards, medical staff, and department heads by attending board meetings and coordinating interdepartmental functioning.",0.20,attending board meetings needs physical presence and authority
+47,Medical and Health Services Managers,Establish objectives and evaluative or operational criteria for units managed.,0.55,objective drafting needs organizational authority to finalize
+50,Medical and Health Services Managers,Develop and implement organizational policies and procedures for the facility or medical unit.,0.50,policy development fine but implementation needs authority
+61,Medical and Health Services Managers,Review and analyze facility activities and data to aid planning and cash and risk management and to improve service utilization.,0.85,data analysis task
+57,Medical and Health Services Managers,"Prepare activity reports to inform management of the status and implementation plans of programs, services, and quality initiatives.",0.90,report writing from data
+62,Medical and Health Services Managers,"Develop or expand and implement medical programs or health services that promote research, rehabilitation, and community health.",0.35,program development needs authority and physical implementation
+59,Medical and Health Services Managers,"Consult with medical, business, and community groups to discuss service problems, respond to community needs, enhance public relations, coordinate activities and plans, and promote health programs.",0.35,stakeholder consultation needs human rapport
+63,Medical and Health Services Managers,Develop instructional materials and conduct in-service and community-based educational programs.,0.40,materials development fine but conducting programs needs presence
+60,Medical and Health Services Managers,"Inspect facilities and recommend building or equipment modifications to ensure emergency readiness and compliance to access, safety, and sanitation regulations.",0.20,physical inspection required
+7209,Natural Sciences Managers,"Hire, supervise, or evaluate engineers, technicians, researchers, or other staff.",0.30,hiring and supervision need human judgment
+7207,Natural Sciences Managers,"Design or coordinate successive phases of problem analysis, solution proposals, or testing.",0.70,phase planning and coordination
+7205,Natural Sciences Managers,"Plan or direct research, development, or production activities.",0.45,planning doable but directing production needs oversight
+7208,Natural Sciences Managers,"Review project activities and prepare and review research, testing, or operational reports.",0.85,report review and writing
+7203,Natural Sciences Managers,"Confer with scientists, engineers, regulators, or others to plan or review projects or to provide technical assistance.",0.60,technical consultation via communication
+7204,Natural Sciences Managers,"Develop client relationships and communicate with clients to explain proposals, present research findings, establish specifications, or discuss project status.",0.40,client relationship building needs human rapport
+7210,Natural Sciences Managers,Determine scientific or technical goals within broad outlines provided by top management and make detailed plans to accomplish these goals.,0.70,technical planning task
+7206,Natural Sciences Managers,Prepare project proposals.,0.90,proposal writing
+7211,Natural Sciences Managers,"Develop or implement policies, standards, or procedures for the architectural, scientific, or technical work performed to ensure regulatory compliance or operations enhancement.",0.50,policy drafting fine but implementation needs authority
+7215,Natural Sciences Managers,Recruit personnel or oversee the development or maintenance of staff competence.,0.35,recruiting needs human judgment
+7217,Natural Sciences Managers,"Prepare and administer budgets, approve and review expenditures, and prepare financial reports.",0.55,budget prep doable but approval needs fiduciary authority
+7214,Natural Sciences Managers,Conduct own research in field of expertise.,0.45,research may require physical lab work
+7212,Natural Sciences Managers,Develop innovative technology or train staff for its implementation.,0.35,technology development often needs physical work and training needs interaction
+7218,Natural Sciences Managers,Make presentations at professional meetings to further knowledge in the field.,0.30,live presentation needs human presence
+7213,Natural Sciences Managers,"Provide for stewardship of plant or animal resources or habitats, studying land use, monitoring animal populations, or providing shelter, resources, or medical treatment for animals.",0.15,physical fieldwork and animal care
+7216,Natural Sciences Managers,Advise or assist in obtaining patents or meeting other legal requirements.,0.40,patent drafting assist but filing needs licensed authority
+15612,Clinical Research Coordinators,"Schedule subjects for appointments, procedures, or inpatient stays as required by study protocols.",0.80,scheduling logistics task
+15587,Clinical Research Coordinators,"Perform specific protocol procedures such as interviewing subjects, taking vital signs, and performing electrocardiograms.",0.05,physical medical procedures
+15610,Clinical Research Coordinators,"Assess eligibility of potential subjects through methods such as screening interviews, reviews of medical records, or discussions with physicians and nurses.",0.45,record review doable but interviews need human interaction
+15595,Clinical Research Coordinators,"Prepare study-related documentation, such as protocol worksheets, procedural manuals, adverse event reports, institutional review board documents, or progress reports.",0.85,documentation preparation task
+15602,Clinical Research Coordinators,Inform patients or caregivers about study aspects and outcomes to be expected.,0.40,patient communication often needs human clinician for consent
+15594,Clinical Research Coordinators,Record adverse event and side effect data and confer with investigators regarding the reporting of events to oversight agencies.,0.55,recording and conferring doable but reporting needs accountable sign-off
+15613,Clinical Research Coordinators,"Monitor study activities to ensure compliance with protocols and with all relevant local, federal, and state regulatory and institutional polices.",0.45,compliance monitoring mixes document review and site presence

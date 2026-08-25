@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+15963,Business Continuity Planners,Create scenarios to reestablish operations from various types of business disruptions.,0.85,drafting disruption recovery scenarios is pure writing
+15964,Business Continuity Planners,Conduct or oversee contingency plan integration and operation.,0.35,overseeing real contingency plan operations needs accountable human
+15965,Business Continuity Planners,"Develop emergency management plans for recovery decision making and communications, continuity of critical departmental processes, or temporary shut-down of non-critical departments to ensure continui",0.85,drafting emergency management plan documents
+15966,Business Continuity Planners,"Conduct or oversee collection of corporate intelligence to avoid fraud, financial crime, cyber attack, terrorism, and infrastructure failure.",0.45,intelligence collection mixes research with human-led investigation
+15967,Business Continuity Planners,"Analyze corporate intelligence data to identify trends, patterns, or warnings indicating threats to security of people, assets, information, or infrastructure.",0.85,pure data analysis for threat trends
+15968,Sustainability Specialists,Review and revise sustainability proposals or policies.,0.85,reviewing and revising policy documents
+15969,Sustainability Specialists,"Research or review regulatory, technical, or market issues related to sustainability.",0.90,research and literature review task
+15970,Sustainability Specialists,"Identify or investigate violations of natural resources, waste management, recycling, or other environmental policies.",0.40,investigating violations often needs on-site inspection
+15971,Sustainability Specialists,Identify or create new sustainability indicators.,0.85,defining new indicators is analytical desk work
+15972,Sustainability Specialists,"Write grant applications, rebate applications, or project proposals to secure funding for sustainability projects.",0.85,drafting grant and proposal documents
+15973,Sustainability Specialists,Provide technical or administrative support for sustainability programs or issues.,0.75,technical or admin support largely doable remotely
+15974,Sustainability Specialists,Identify or procure needed resources to implement sustainability programs or projects.,0.45,identifying resources fine but procurement needs purchasing authority
+15975,Sustainability Specialists,Create or maintain plans or other documents related to sustainability projects.,0.90,creating and maintaining project documents
+15976,Sustainability Specialists,Develop reports or presentations to communicate the effectiveness of sustainability initiatives.,0.90,drafting reports and presentations from data
+15977,Sustainability Specialists,"Create marketing or outreach media, such as brochures or Web sites, to communicate sustainability issues, procedures, or objectives.",0.85,creating marketing content and web copy
+15978,Sustainability Specialists,Collect information about waste stream management or green building practices to inform decision makers.,0.75,collecting and compiling information for decision makers
+15979,Sustainability Specialists,"Assess or propose sustainability initiatives, considering factors such as cost effectiveness, technical feasibility, and acceptance.",0.80,assessing initiatives via analysis of cost and feasibility
+15980,Sustainability Specialists,"Monitor or track sustainability indicators, such as energy usage, natural resource usage, waste generation, and recycling.",0.75,tracking sustainability metrics from data sources
+15981,Sustainability Specialists,"Develop sustainability project goals, objectives, initiatives, or strategies in collaboration with other sustainability professionals.",0.55,developing goals in collaboration with human colleagues
+15982,Financial Quantitative Analysts,Prepare requirements documentation for use by software developers.,0.85,writing requirements documentation
+15983,Financial Quantitative Analysts,Provide application or analytical support to researchers or traders on issues such as valuations or data.,0.75,analytical support on valuations or data
+15984,Financial Quantitative Analysts,"Identify, track, or maintain metrics for trading system operations.",0.75,tracking metrics for trading systems
+15985,Financial Quantitative Analysts,"Collaborate in the development or testing of new analytical software to ensure compliance with user requirements, specifications, or scope.",0.70,collaborative software dev and testing work
+15986,Financial Quantitative Analysts,Research new financial products or analytics to determine their usefulness.,0.85,researching new financial products
+15987,Financial Quantitative Analysts,Maintain or modify all financial analytic models in use.,0.80,maintaining and modifying analytic models
+15988,Financial Quantitative Analysts,Produce written summary reports of financial research results.,0.90,writing summary reports of research results
+15989,Financial Quantitative Analysts,Interpret results of financial analysis procedures.,0.85,interpreting analysis results is analytical reasoning
+15990,Financial Quantitative Analysts,"Develop core analytical capabilities or model libraries, using advanced statistical, quantitative, or econometric techniques.",0.80,developing quantitative model libraries
+15991,Financial Quantitative Analysts,Define or recommend model specifications or data collection methods.,0.80,recommending model specs and data methods
+15992,Financial Quantitative Analysts,Consult traders or other financial industry personnel to determine the need for new or improved analytical applications.,0.50,consulting traders needs live human interaction to gauge needs
+15993,Financial Quantitative Analysts,"Confer with other financial engineers or analysts on trading strategies, market dynamics, or trading system performance to inform development of quantitative techniques.",0.45,conferring with colleagues is live discussion
+15994,Financial Quantitative Analysts,"Collaborate with product development teams to research, model, validate, or implement quantitative structured solutions for new or expanded markets.",0.55,collaborating with product teams on new solutions
+15995,Financial Quantitative Analysts,"Research or develop analytical tools to address issues such as portfolio construction or optimization, performance measurement, attribution, profit and loss measurement, or pricing models.",0.85,researching and developing analytical tools
+15996,Financial Quantitative Analysts,Devise or apply independent models or tools to help verify results of analytical systems.,0.85,devising independent verification models
+15997,Financial Quantitative Analysts,"Apply mathematical or statistical techniques to address practical issues in finance, such as derivative valuation, securities trading, risk management, or financial market regulation.",0.85,applying math and stats techniques to finance problems
+16035,"Fraud Examiners, Investigators and Analysts",Maintain knowledge of current events and trends in such areas as money laundering and criminal tools and techniques.,0.90,keeping current via reading and research
+16036,"Fraud Examiners, Investigators and Analysts",Train others in fraud detection and prevention techniques.,0.55,training others usually needs live human instruction
+16037,"Fraud Examiners, Investigators and Analysts",Research or evaluate new technologies for use in fraud detection systems.,0.85,researching and evaluating new technologies
+16038,"Fraud Examiners, Investigators and Analysts",Prepare evidence for presentation in court.,0.45,evidence prep partly admin but has chain of custody concerns
+16039,"Fraud Examiners, Investigators and Analysts",Obtain and serve subpoenas.,0.05,serving subpoenas needs legal authority and physical presence
+16040,"Fraud Examiners, Investigators and Analysts",Negotiate with responsible parties to arrange for recovery of losses due to fraud.,0.30,negotiating loss recovery with parties
+16041,"Fraud Examiners, Investigators and Analysts",Conduct field surveillance to gather case-related information.,0.05,field surveillance requires physical presence
+16042,"Fraud Examiners, Investigators and Analysts",Arrest individuals to be charged with fraud.,0.00,arrest requires legal authority and physical body
+16043,"Fraud Examiners, Investigators and Analysts",Testify in court regarding investigation findings.,0.05,sworn court testimony requires human legal authority
+16044,"Fraud Examiners, Investigators and Analysts",Advise businesses or agencies on ways to improve fraud detection.,0.75,advising on fraud detection improvements is analytical writing
+16045,"Fraud Examiners, Investigators and Analysts",Review reports of suspected fraud to determine need for further investigation.,0.80,reviewing reports to triage further investigation
+16046,"Fraud Examiners, Investigators and Analysts",Prepare written reports of investigation findings.,0.85,writing investigation reports
+16047,"Fraud Examiners, Investigators and Analysts",Recommend actions in fraud cases.,0.75,recommending actions from case analysis
+16048,"Fraud Examiners, Investigators and Analysts","Lead, or participate in, fraud investigation teams.",0.40,leading investigation teams needs human accountability and presence
+16049,"Fraud Examiners, Investigators and Analysts",Interview witnesses or suspects and take statements.,0.30,interviewing suspects needs rapport legal standing and presence
+16050,"Fraud Examiners, Investigators and Analysts","Design, implement, or maintain fraud detection tools or procedures.",0.80,designing and maintaining fraud detection tools
+16051,"Fraud Examiners, Investigators and Analysts",Gather financial documents related to investigations.,0.55,gathering documents often needs formal requests or legal process
+16052,"Fraud Examiners, Investigators and Analysts",Evaluate business operations to identify risk areas for fraud.,0.80,evaluating business operations for fraud risk via analysis
+16053,"Fraud Examiners, Investigators and Analysts",Document all investigative activities.,0.85,documenting investigative activities
+16054,"Fraud Examiners, Investigators and Analysts","Create and maintain logs, records, or databases of information about fraudulent activity.",0.90,maintaining logs and databases of fraud info
+16055,"Fraud Examiners, Investigators and Analysts",Coordinate investigative efforts with law enforcement officers and attorneys.,0.40,coordinating with law enforcement and attorneys needs human liaison
+16056,"Fraud Examiners, Investigators and Analysts","Conduct in-depth investigations of suspicious financial activity, such as suspected money-laundering efforts.",0.65,in-depth investigation is mostly data analysis with some coordination
+16057,"Fraud Examiners, Investigators and Analysts","Analyze financial data to detect irregularities in areas such as billing trends, financial relationships, and regulatory compliance procedures.",0.90,analyzing financial data for irregularities
+16172,Search Marketing Strategists,"Keep abreast of government regulations and emerging Web technology to ensure regulatory compliance by reviewing current literature, talking with colleagues, participating in educational programs, atte",0.75,mostly reading and research though some events need presence
+16173,Search Marketing Strategists,Resolve product availability problems in collaboration with customer service staff.,0.50,resolving availability issues via collaboration with staff
+16174,Search Marketing Strategists,Implement online customer service processes to ensure positive and consistent user experiences.,0.65,implementing customer service processes
+16175,Search Marketing Strategists,"Identify, evaluate, or procure hardware or software for implementing online marketing campaigns.",0.55,identifying and evaluating tools fine but procurement needs authority
+16176,Search Marketing Strategists,Identify methods for interfacing Web application technologies with enterprise resource planning or other system software.,0.80,technical research on system interfacing methods
+16177,Search Marketing Strategists,"Define product requirements, based on market research analysis, in collaboration with user interface design and engineering staff.",0.65,defining requirements in collaboration with design and engineering
+16178,Search Marketing Strategists,Assist in the evaluation or negotiation of contracts with vendors or online partners.,0.45,assisting contract evaluation but negotiation needs human authority
+16179,Search Marketing Strategists,Propose online or multiple-sales-channel campaigns to marketing executives.,0.80,proposing campaigns to executives via written proposals
+16180,Search Marketing Strategists,Assist in the development of online transaction or security policies.,0.80,assisting policy development via drafting and research
+16181,Search Marketing Strategists,"Prepare electronic commerce designs or prototypes, such as storyboards, mock-ups, or other content, using graphics design software.",0.80,preparing design prototypes with software
+16182,Search Marketing Strategists,Participate in the development or implementation of online marketing strategy.,0.65,participating in strategy development and implementation
+16183,Search Marketing Strategists,"Identify and develop commercial or technical specifications, such as usability, pricing, checkout, or data security, to promote transactional internet-enabled commerce functionality.",0.80,developing technical and commercial specifications
+16184,Search Marketing Strategists,"Develop transactional Web applications, using Web programming software and knowledge of programming languages, such as hypertext markup language (HTML) and extensible markup language (XML).",0.90,developing web applications is pure coding
+16185,Search Marketing Strategists,"Coordinate sales or other promotional strategies with merchandising, operations, or inventory control staff to ensure product catalogs are current, accurate, and organized for best findability against",0.55,coordinating catalog strategy across multiple staff teams
+16186,Search Marketing Strategists,"Conduct market research analysis to identify search query trends, real-time search and news media activity, popular social media topics, electronic commerce trends, market opportunities, or competitor",0.85,market research and trend analysis
+16187,Search Marketing Strategists,Conduct financial modeling for online marketing programs or Web site revenue forecasting.,0.85,financial modeling and revenue forecasting
+16188,Search Marketing Strategists,"Communicate and collaborate with merchants, Webmasters, bloggers, or online editors to strategically place hyperlinks.",0.55,outreach to place hyperlinks needs relationship building
+16189,Search Marketing Strategists,Collaborate with other marketing staff to integrate and complement marketing strategies across multiple sales channels.,0.60,collaborating with marketing staff across channels
+16190,Search Marketing Strategists,Optimize Web site exposure by analyzing search engine patterns to direct online placement of keywords or other content.,0.85,analyzing search patterns to optimize site exposure
+16191,Search Marketing Strategists,"Conduct online marketing initiatives, such as paid ad placement, affiliate programs, sponsorship programs, email promotions, or viral marketing campaigns on social media Web sites.",0.75,executing online marketing initiatives via ad and email platforms
+16192,Search Marketing Strategists,"Collect and analyze Web metrics, such as visits, time on site, page views per visit, transaction volume and revenue, traffic mix, click-through rates, conversion rates, cost per acquisition, or cost p",0.90,collecting and analyzing web metrics
+16193,Search Marketing Strategists,"Collaborate with Web, multimedia, or art design staffs to create multimedia Web sites or other internet content that conforms to brand and company visual format.",0.60,collaborating with design staff on web content
+17061,Allergists and Immunologists,Present research findings at national meetings or in peer-reviewed journals.,0.35,writing findings feasible but presenting at meetings needs presence
+17062,Allergists and Immunologists,Engage in self-directed learning and continuing education activities.,0.75,self-directed learning via reading and study
+17063,Allergists and Immunologists,Document patients' medical histories.,0.30,taking patient history needs live interaction and trust
+17064,Allergists and Immunologists,Conduct laboratory or clinical research on allergy or immunology topics.,0.30,lab and clinical research needs physical lab work
+17065,Allergists and Immunologists,Provide allergy or immunology consultation or education to physicians or other health care providers.,0.40,consultation to providers carries professional liability
+17066,Allergists and Immunologists,"Prescribe medication such as antihistamines, antibiotics, and nasal, oral, topical, or inhaled glucocorticosteroids.",0.05,prescribing medication needs licensed authority
+17067,Allergists and Immunologists,Conduct physical examinations of patients.,0.00,physical examination requires a body
+17068,Allergists and Immunologists,"Order or perform diagnostic tests such as skin pricks and intradermal, patch, or delayed hypersensitivity tests.",0.10,diagnostic tests are physical procedures needing authority
+17069,Allergists and Immunologists,"Educate patients about diagnoses, prognoses, or treatments.",0.30,educating patients needs trust and clinical accountability
+17070,Allergists and Immunologists,Interpret diagnostic test results to make appropriate differential diagnoses.,0.15,differential diagnosis carries clinical liability
+17071,Allergists and Immunologists,"Develop individualized treatment plans for patients, considering patient preferences, clinical data, or the risks and benefits of therapies.",0.15,treatment planning is a clinical judgment with liability
+17072,Allergists and Immunologists,Coordinate the care of patients with other health care professionals or support staff.,0.35,coordinating patient care with human staff and accountability
+17073,Allergists and Immunologists,Assess the risks and benefits of therapies for allergic and immunologic disorders.,0.25,risk benefit assessment of therapies carries clinical liability
+17074,Allergists and Immunologists,"Provide therapies, such as allergen immunotherapy or immunoglobin therapy, to treat immune conditions.",0.00,administering immunotherapy is physical treatment
+17075,Allergists and Immunologists,"Perform allergen provocation tests such as nasal, conjunctival, bronchial, oral, food, or medication challenges.",0.00,provocation tests are physical medical procedures
+17076,Allergists and Immunologists,Diagnose or treat allergic or immunologic conditions.,0.10,diagnosing and treating conditions needs licensed authority
+17077,Dermatologists,"Refer patients to other specialists, as needed.",0.30,referrals require clinical judgment and authority
+17078,Dermatologists,Record patients' health histories.,0.30,recording health histories needs live patient interaction
+17079,Dermatologists,Provide dermatologic consultation to other health professionals.,0.40,consultation to other professionals carries liability
+17081,Dermatologists,"Read current literature, talk with colleagues, and participate in professional organizations or conferences to keep abreast of developments in dermatology.",0.55,reading literature feasible but colleague talks and conferences need presence
+17082,Dermatologists,Instruct interns or residents in diagnosis and treatment of dermatological diseases.,0.30,instructing residents needs live teaching and physical demo
+17083,Dermatologists,"Evaluate patients to determine eligibility for cosmetic procedures such as liposuction, laser resurfacing, or microdermabrasion.",0.15,eligibility evaluation needs clinical exam and judgment
+17084,Dermatologists,"Conduct or order diagnostic tests such as chest radiographs (x-rays), microbiologic tests, or endocrinologic tests.",0.10,diagnostic tests are physical and require ordering authority
+17085,Dermatologists,Recommend diagnostic tests based on patients' histories and physical examination findings.,0.25,recommending tests from exam findings is clinical judgment
+17086,Dermatologists,Conduct clinical or basic research.,0.30,clinical research needs physical lab and patient work
+17087,Dermatologists,"Provide therapies such as intralesional steroids, chemical peels, or comodo removal to treat age spots, sun damage, rough skin, discolored skin, or oily skin.",0.00,administering skin therapies is physical treatment
+17088,Dermatologists,"Provide dermabrasion or laser abrasion to treat atrophic scars, elevated scars, or other skin conditions.",0.00,dermabrasion and laser abrasion are physical procedures
+17089,Dermatologists,"Prescribe hormonal agents or topical treatments such as contraceptives, spironolactone, antiandrogens, oral corticosteroids, retinoids, benzoyl peroxide, or antibiotics.",0.05,prescribing treatments needs licensed authority
+17090,Dermatologists,"Perform skin surgery to improve appearance, make early diagnoses, or control diseases such as skin cancer.",0.00,skin surgery requires physical body and licensure
+17091,Dermatologists,Perform incisional biopsies to diagnose melanoma.,0.00,biopsy is a physical licensed procedure
+17092,Dermatologists,"Diagnose and treat pigmented lesions such as common acquired nevi, congenital nevi, dysplastic nevi, Spitz nevi, blue nevi, or melanoma.",0.05,diagnosing and treating melanoma needs licensed clinical authority
+17093,Dermatologists,"Counsel patients on topics such as the need for annual dermatologic screenings, sun protection, skin cancer awareness, or skin and lymph node self-examinations.",0.35,patient counseling needs trust and clinical accountability
+17094,Dermatologists,Conduct complete skin examinations.,0.00,skin examination requires physical presence
+17095,Dermatologists,"Diagnose and treat skin conditions such as acne, dandruff, athlete's foot, moles, psoriasis, or skin cancer.",0.05,diagnosing and treating skin conditions needs licensed authority
+17096,Hospitalists,"Refer patients to medical specialists, social services, or other professionals as appropriate.",0.30,referrals require clinical judgment and authority
+17097,Hospitalists,Participate in continuing education activities to maintain or enhance knowledge and skills.,0.65,continuing education largely reading based
+17098,Hospitalists,"Direct, coordinate, or supervise the patient care activities of nursing or support staff.",0.15,supervising ward staff needs physical presence and authority
+17099,Hospitalists,Write patient discharge summaries and send them to primary care physicians.,0.75,drafting discharge summaries from patient data
+17100,Hospitalists,Direct the operations of short stay or specialty units.,0.10,directing unit operations needs on-site authority
+17101,Hospitalists,"Train or supervise medical students, residents, or other health professionals.",0.30,training and supervising trainees needs live interaction
+17102,Hospitalists,Prescribe medications or treatment regimens to hospital inpatients.,0.05,prescribing treatment needs licensed authority
+17103,Hospitalists,Order or interpret the results of tests such as laboratory tests and radiographs (x-rays).,0.30,interpreting tests is analytical but ordering needs authority
+17104,Hospitalists,Attend inpatient consultations in areas of specialty.,0.05,attending consultations requires physical presence
+17105,Hospitalists,Conduct discharge planning and discharge patients.,0.20,discharging patients is a clinical decision with authority
+17106,Hospitalists,"Diagnose, treat, or provide continuous care to hospital inpatients.",0.05,diagnosing and caring for inpatients needs physical licensed care
+17107,Hospitalists,Admit patients for hospital stays.,0.05,admitting patients is a clinical decision with authority
+17108,Hospitalists,"Communicate with patients' primary care physicians upon admission, when treatment plans change, or at discharge to maintain continuity and quality of care.",0.45,communicating with physicians about care continuity
+17109,Neurologists,Participate in neuroscience research activities.,0.40,research participation mixes analysis with physical lab work
+17110,Neurologists,Provide training to medical students or staff members.,0.30,training students needs live human interaction
+17111,Neurologists,Participate in continuing education activities to maintain and expand competence.,0.65,continuing education largely reading based

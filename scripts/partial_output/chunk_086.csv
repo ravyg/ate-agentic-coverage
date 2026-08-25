@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+7650,Actors,"Work with other crew members responsible for lighting, costumes, make-up, and props.",0.15,needs in-person on-set collaboration
+7656,Actors,"Tell jokes, perform comic dances, songs and skits, impersonate mannerisms and voices of others, contort face, and use other devices to amuse audiences.",0.02,live physical comedic performance
+7652,Actors,"Read from scripts or books to narrate action or to inform or entertain audiences, utilizing few or no stage props.",0.10,live narration performance for audience
+7653,Actors,Promote productions using means such as interviews about plays or movies.,0.10,requires actor's own persona in live interviews
+7655,Actors,"Prepare and perform action stunts for motion picture, television, or stage productions.",0.00,physical dangerous stunt work
+7654,Actors,"Write original or adapted material for dramas, comedies, puppet shows, narration, or other performances.",0.90,pure creative writing task
+7657,Actors,Introduce performances and performers to stimulate excitement and coordinate smooth transition of acts during events.,0.05,live physical hosting of event
+7659,Actors,"Dress in comical clown costumes and makeup, and perform comedy routines to entertain audiences.",0.00,physical clown performance
+7661,Actors,"Construct puppets and ventriloquist dummies, and sew accessory clothing, using hand tools and machines.",0.00,manual construction and sewing
+7660,Actors,"Perform original and stock tricks of illusion to entertain and mystify audiences, occasionally including audience members as participants.",0.00,live physical magic performance
+22515,Producers and Directors,"Plan details such as framing, composition, camera movement, sound, and actor movement for each shot or scene.",0.55,can plan shots but needs on-set execution
+22516,Producers and Directors,"Communicate to actors the approach, characterization, and movement needed for each scene in such a way that rehearsals and takes are minimized.",0.25,needs live rapport coaching actors
+22517,Producers and Directors,"Direct live broadcasts, films and recordings, or non-broadcast programming for public entertainment or education.",0.10,real-time live production control
+22522,Producers and Directors,"Research production topics using the internet, video archives, and other informational sources.",0.90,pure research task
+22523,Producers and Directors,"Review film, recordings, or rehearsals to ensure conformance to production and broadcast standards.",0.70,can review recorded media files
+22519,Producers and Directors,Study and research scripts to determine how they should be directed.,0.85,text analysis of scripts
+22520,Producers and Directors,"Supervise and coordinate the work of camera, lighting, design, and sound crew members.",0.15,in-person crew supervision
+22521,Producers and Directors,"Confer with technical directors, managers, crew members, and writers to discuss details of production, such as photography, script, music, sets, and costumes.",0.35,coordination meeting benefits from human presence
+22532,Producers and Directors,"Perform management activities, such as budgeting, scheduling, planning, and marketing.",0.75,budgeting scheduling planning are office work
+22524,Producers and Directors,"Consult with writers, producers, or actors about script changes or ""workshop"" scripts, through rehearsal with writers and actors to create final drafts.",0.25,live workshop rehearsal collaboration
+22525,Producers and Directors,"Identify and approve equipment and elements required for productions, such as scenery, lights, props, costumes, choreography, and music.",0.45,creative approval carries decision authority
+22526,Producers and Directors,Establish pace of programs and sequences of scenes according to time requirements and cast and set accessibility.,0.65,scheduling and pacing planning task
+22527,Producers and Directors,Conduct meetings with staff to discuss production progress and to ensure production objectives are attained.,0.25,live staff meeting facilitation
+22528,Producers and Directors,"Compile scripts, program notes, and other material related to productions.",0.85,document compilation task
+22530,Producers and Directors,Resolve personnel problems that arise during the production process by acting as liaisons between dissenting parties when necessary.,0.15,needs human rapport to mediate personnel disputes
+22518,Producers and Directors,"Coordinate the activities of writers, directors, managers, and other personnel throughout the production process.",0.45,coordination across personnel partly remote
+22538,Producers and Directors,Obtain rights to scripts or to such items as existing video footage.,0.25,rights negotiation needs contracting authority
+22539,Producers and Directors,Write and submit proposals to bid on contracts for projects.,0.65,"proposal writing task, submission needs authority"
+22533,Producers and Directors,Compose and edit scripts or provide screenwriters with story outlines from which scripts can be written.,0.90,script writing and editing task
+22535,Producers and Directors,Cut and edit film or tape to integrate component parts into desired sequences.,0.60,software video editing with creative judgment
+22514,Producers and Directors,Write and edit news stories from information collected by reporters and other sources.,0.90,pure writing task from source material
+22536,Producers and Directors,Choose settings and locations for films and determine how scenes will be shot in these settings.,0.30,requires physical location scouting judgment
+22537,Producers and Directors,Review film daily to check on work in progress and to plan for future filming.,0.65,review recorded footage and plan filming
+22534,Producers and Directors,"Negotiate with parties, including independent producers and the distributors and broadcasters who will be handling completed productions.",0.30,negotiation needs trust and contracting authority
+22529,Producers and Directors,"Perform administrative duties, such as preparing operational reports, distributing rehearsal call sheets and script copies, and arranging for rehearsal quarters.",0.70,mostly office admin with some physical arranging
+22540,Producers and Directors,"Develop marketing plans for finished products, collaborating with sales associates to supervise product distribution.",0.55,marketing plan drafting plus supervision
+22531,Producers and Directors,Arrange financing for productions.,0.20,financing requires trust and signing authority
+22541,Producers and Directors,"Hire principal cast members and crew members, such as art directors, cinematographers, and costume designers.",0.15,hiring requires human authority and judgment
+22542,Producers and Directors,Hold auditions for parts or negotiate contracts with actors determined suitable for specific roles.,0.15,live audition judgment and contract negotiation
+22543,Producers and Directors,"Select plays, scripts, books, news content, or ideas to be produced.",0.65,content selection based on script evaluation
+7680,Media Programming Directors,Operate and maintain on-air and production audio equipment.,0.05,physical equipment operation
+7665,Media Programming Directors,Check completed program logs for accuracy and conformance with Federal Communications Commission (FCC) rules and regulations and resolve program log inaccuracies.,0.85,document accuracy check against rules
+7679,Media Programming Directors,"Read news, read or record public service and promotional announcements, or perform other on-air duties.",0.35,on-air voice work often needs live presence
+7664,Media Programming Directors,"Direct and coordinate activities of personnel engaged in broadcast news, sports, or programming.",0.20,live in-person personnel direction
+7663,Media Programming Directors,"Monitor and review programming to ensure that schedules are met, guidelines are adhered to, and performances are of adequate quality.",0.55,monitoring schedules plus subjective quality review
+7675,Media Programming Directors,Prepare copy and edit tape so that material is ready for broadcasting.,0.60,copy writing plus tape editing
+7667,Media Programming Directors,"Coordinate activities between departments, such as news and programming.",0.45,cross-department coordination communication
+7668,Media Programming Directors,"Perform personnel duties, such as hiring staff and evaluating work performance.",0.20,hiring and evaluating staff needs authority
+7666,Media Programming Directors,Establish work schedules and assign work to staff members.,0.75,scheduling and staff assignment planning
+7674,Media Programming Directors,Develop promotions for current programs and specials.,0.75,creative promotional content writing
+7662,Media Programming Directors,"Plan and schedule programming and event coverage, based on broadcast length, time availability, and other factors, such as community needs, ratings data, and viewer demographics.",0.80,data-driven scheduling and planning
+7673,Media Programming Directors,"Monitor network transmissions for advisories concerning daily program schedules, program content, special feeds, or program changes.",0.75,monitoring transmission data and advisories
+7676,Media Programming Directors,Develop ideas for programs and features that a station could produce.,0.85,creative ideation and brainstorming
+7672,Media Programming Directors,"Select, acquire, and maintain programs, music, films, and other needed materials and obtain legal clearances for their use as necessary.",0.35,acquisition and legal clearances need authority
+7669,Media Programming Directors,"Evaluate new and existing programming to assess suitability and the need for changes, using information such as audience surveys and feedback.",0.85,data analysis of surveys and feedback
+7683,Media Programming Directors,Conduct interviews for broadcasts.,0.35,live interview rapport with guests
+7671,Media Programming Directors,"Confer with directors and production staff to discuss issues, such as production and casting problems, budgets, policies, and news coverage.",0.35,live discussion meeting with staff
+7678,Media Programming Directors,Review information about programs and schedules to ensure accuracy and provide such information to local media outlets.,0.80,info verification and communication task
+7681,Media Programming Directors,Direct setup of remote facilities and install or cancel programs at remote stations.,0.10,on-site physical facility setup direction
+7670,Media Programming Directors,Develop budgets for programming and broadcasting activities and monitor expenditures to ensure that they remain within budgetary limits.,0.80,financial planning and monitoring task
+7682,Media Programming Directors,"Cue announcers, actors, performers, and guests.",0.10,real-time physical presence for live cues
+7684,Media Programming Directors,"Act as a liaison between talent and directors, providing information that performers or guests need to prepare for appearances and communicating relevant information from guests, performers, or staff to directors.",0.30,liaison role often needs on-site presence
+7677,Media Programming Directors,Participate in the planning and execution of fundraising activities.,0.30,fundraising execution needs in-person trust
+11018,Talent Directors,Audition and interview performers to match their attributes to specific roles or to increase the pool of available acting talent.,0.15,live performance judgment and interaction
+11020,Talent Directors,Prepare actors for auditions by providing scripts and information about roles and casting requirements.,0.80,providing scripts and info is document task
+11017,Talent Directors,Select performers for roles or submit lists of suitable performers to producers or directors for final selection.,0.30,human judgment on talent selection
+11024,Talent Directors,Contact agents and actors to provide notification of audition and performance opportunities and to set up audition times.,0.85,scheduling and communication task
+11021,Talent Directors,"Serve as liaisons between directors, actors, and agents.",0.45,liaison communication role
+11023,Talent Directors,"Negotiate contract agreements with performers, with agents, or between performers and agents or production companies.",0.20,negotiation needs contracting authority
+11026,Talent Directors,Arrange for or design screen tests or auditions for prospective performers.,0.60,designing and arranging audition logistics
+11015,Talent Directors,"Review performer information, such as photos, resumes, voice tapes, videos, and union membership, to decide whom to audition for parts.",0.70,review of documents and media files
+11019,Talent Directors,"Maintain talent files that include information such as performers' specialties, past performances, and availability.",0.90,database record maintenance task
+11016,Talent Directors,Read scripts and confer with producers to determine the types and numbers of performers required for a given production.,0.55,script reading plus conferring with producers
+11022,Talent Directors,Attend or view productions to maintain knowledge of available actors.,0.35,often requires attending live productions
+21139,Talent Directors,"Direct shows, productions, and plays.",0.10,live directing requires physical presence
+11025,Talent Directors,Hire and supervise workers who help locate people with specified attributes and talents.,0.20,hiring and supervising staff needs authority
+21140,Talent Directors,Teach acting classes.,0.15,in-person acting instruction
+11027,Talent Directors,"Locate performers or extras for crowd and background scenes, and stand-ins or photo doubles for actors, by direct contact or through agents.",0.65,outreach and research to locate performers
+3904,Media Technical Directors/Managers,"Switch between video sources in a studio or on multi-camera remotes, using equipment such as switchers, video slide projectors, and video effects generators.",0.10,real-time physical equipment operation
+3897,Media Technical Directors/Managers,Observe pictures through monitors and direct camera and video staff concerning shading and composition.,0.15,live observation and directing of on-site staff
+3899,Media Technical Directors/Managers,Supervise and assign duties to workers engaged in technical control and production of radio and television programs.,0.25,supervisory authority over technical staff
+3896,Media Technical Directors/Managers,Monitor broadcasts to ensure that programs conform to station or network policies and regulations.,0.75,automatable content compliance monitoring
+3902,Media Technical Directors/Managers,Operate equipment to produce programs or broadcast live programs from remote locations.,0.05,physical equipment operation
+3895,Media Technical Directors/Managers,Test equipment to ensure proper operation.,0.05,hands-on equipment testing
+3903,Media Technical Directors/Managers,"Train workers in use of equipment, such as switchers, cameras, monitors, microphones, and lights.",0.15,hands-on physical equipment training
+3898,Media Technical Directors/Managers,Act as liaisons between engineering and production departments.,0.45,cross-department liaison communication
+3906,Media Technical Directors/Managers,Collaborate with promotions directors to produce on-air station promotions.,0.50,creative collaboration on promotional content
+3901,Media Technical Directors/Managers,Confer with operations directors to formulate and maintain fair and attainable technical policies for programs.,0.45,policy drafting plus live conferring
+3900,Media Technical Directors/Managers,Schedule use of studio and editing facilities for producers and engineering and maintenance staff.,0.80,facility scheduling task
+3894,Media Technical Directors/Managers,"Direct technical aspects of newscasts and other productions, checking and switching between video sources and taking responsibility for the on-air product, including camera shots and graphics.",0.10,real-time live technical direction with accountability
+3908,Media Technical Directors/Managers,"Follow instructions from production managers and directors during productions, such as commands for camera cuts, effects, graphics, and takes.",0.10,real-time control room execution of live commands
+3905,Media Technical Directors/Managers,"Set up and execute video transitions and special effects, such as fades, dissolves, cuts, keys, and supers, using computers to manipulate pictures as necessary.",0.30,often live-timed technical execution
+3907,Media Technical Directors/Managers,"Discuss filter options, lens choices, and the visual effects of objects being filmed with photography directors and video operators.",0.35,live consultation on filming setup
+13038,Athletes and Sports Competitors,"Assess performance following athletic competition, identifying strengths and weaknesses and making adjustments to improve future performance.",0.70,performance analysis from data and video
+13036,Athletes and Sports Competitors,Maintain equipment used in a particular sport.,0.05,physical equipment maintenance
+13033,Athletes and Sports Competitors,Attend scheduled practice or training sessions.,0.00,physical attendance and training
+13037,Athletes and Sports Competitors,"Maintain optimum physical fitness levels by training regularly, following nutrition plans, or consulting with health professionals.",0.00,physical fitness training
+13034,Athletes and Sports Competitors,"Participate in athletic events or competitive sports, according to established rules and regulations.",0.00,physical athletic competition
+13035,Athletes and Sports Competitors,"Exercise or practice under the direction of athletic trainers or professional coaches to develop skills, improve physical condition, or prepare for competitions.",0.00,physical exercise and practice
+20882,Athletes and Sports Competitors,Receive instructions from coaches or other sports staff prior to events and discuss performance afterwards.,0.15,tied to athlete's own physical participation
+13040,Athletes and Sports Competitors,"Represent teams or professional sports clubs, performing such activities as meeting with members of the media, making speeches, or participating in charity events.",0.10,in-person public appearances and speeches
+13041,Athletes and Sports Competitors,Lead teams by serving as captain.,0.05,physical leadership presence as team captain
+1742,Coaches and Scouts,"Plan, organize, and conduct practice sessions.",0.20,conducting practice needs physical presence
+20109,Coaches and Scouts,"Provide training direction, encouragement, motivation, and nutritional advice to prepare athletes for games, competitive events, or tours.",0.25,live coaching motivation and presence
+1747,Coaches and Scouts,"Adjust coaching techniques, based on the strengths and weaknesses of athletes.",0.55,adaptive coaching planning from performance data
+1750,Coaches and Scouts,"Instruct individuals or groups in sports rules, game strategies, and performance principles, such as specific ways of moving the body, hands, or feet, to achieve desired results.",0.15,physical demonstration of technique needed
+1745,Coaches and Scouts,Plan strategies and choose team members for individual games or sports seasons.,0.50,strategy planning and roster selection judgment
+20117,Coaches and Scouts,Monitor the academic eligibility of student athletes.,0.85,tracking academic eligibility records
+20115,Coaches and Scouts,"Counsel student athletes on academic, athletic, and personal issues.",0.10,counseling needs emotional trust and presence
+1751,Coaches and Scouts,Analyze the strengths and weaknesses of opposing teams to develop game strategies.,0.80,data and video analysis of opponents
+20112,Coaches and Scouts,Coordinate travel arrangements and travel with team to away contests.,0.35,arranging doable but traveling with team needs presence
+1752,Coaches and Scouts,Evaluate athletes' skills and review performance records to determine their fitness and potential in a particular area of athletics.,0.60,skill evaluation from records and video
+1754,Coaches and Scouts,Monitor athletes' use of equipment to ensure safe and proper use.,0.10,in-person physical equipment monitoring
+1753,Coaches and Scouts,"Keep abreast of changing rules, techniques, technologies, and philosophies relevant to their sport.",0.90,research task keeping up with rules and trends
+1756,Coaches and Scouts,Explain and enforce safety rules and regulations.,0.30,explaining doable but enforcement needs presence
+20111,Coaches and Scouts,Contact the parents of players to provide information and answer questions.,0.80,communication task with parents
+1760,Coaches and Scouts,"Arrange and conduct sports-related activities, such as training camps, skill-improvement courses, clinics, and pre-season try-outs.",0.20,conducting activities needs physical presence
+1758,Coaches and Scouts,"Explain and demonstrate the use of sports and training equipment, such as trampolines or weights.",0.10,physical demonstration of equipment use
+20116,Coaches and Scouts,"Perform activities that support a team or a specific sport, such as participating in community outreach activities, meeting with media representatives, and appearing at fundraising events.",0.10,in-person community and media appearances
+1746,Coaches and Scouts,Plan and direct physical conditioning programs that will enable athletes to achieve maximum performance.,0.30,plan doable but directing conditioning needs presence
+20118,Coaches and Scouts,"Identify and recruit potential athletes by sending recruitment letters, meeting with recruits, and arranging and offering incentives, such as athletic scholarships.",0.30,mix of outreach research and in-person recruiting meetings
+20113,Coaches and Scouts,"Hire, supervise, and work with extended coaching staff.",0.20,hiring and supervising staff needs authority
+1757,Coaches and Scouts,"Serve as organizer, leader, instructor, or referee for outdoor and indoor games, such as volleyball, football, and soccer.",0.05,live physical officiating and leading games
+20110,Coaches and Scouts,Teach instructional courses and advise students.,0.40,teaching often needs live instruction presence
+20119,Coaches and Scouts,Oversee the development and management of the sports program budget and fundraising activities.,0.50,budget management plus event oversight
+1755,Coaches and Scouts,Develop and arrange competition schedules and programs.,0.85,scheduling and planning task
+20114,Coaches and Scouts,"Keep and review paper, computerized, and video records of athlete, team, and opposing team performance.",0.75,"record keeping and review, mostly digital"
+1748,Coaches and Scouts,"File scouting reports that detail player assessments, provide recommendations on athlete recruitment, and identify locations and individuals to be targeted for future recruitment efforts.",0.70,report writing from scouting assessments
+1761,Coaches and Scouts,"Select, acquire, store, and issue equipment and other materials as necessary.",0.25,acquiring doable but storing issuing is physical
+3909,"Umpires, Referees, and Other Sports Officials","Officiate at sporting events, games, or competitions, to maintain standards of play and to ensure that game rules are observed.",0.05,live physical officiating with real-time authority

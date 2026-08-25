@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+14682,Computer Systems Engineers/Architects,"Develop system engineering, software engineering, system integration, or distributed system architectures.",0.80,software and system architecture design
+14667,Computer Systems Engineers/Architects,"Provide advice on project costs, design concepts, or design changes.",0.85,advisory analysis on costs and design
+14671,Computer Systems Engineers/Architects,"Evaluate current or emerging technologies to consider factors such as cost, portability, compatibility, or usability.",0.85,technology evaluation research
+14680,Computer Systems Engineers/Architects,"Develop or approve project plans, schedules, or budgets.",0.60,planning doable but approval needs authority
+14687,Computer Systems Engineers/Architects,"Communicate project information through presentations, technical reports, or white papers.",0.75,reports doable presentations less so
+14690,Computer Systems Engineers/Architects,Train system users in system operation or maintenance.,0.45,training involves live instruction
+14688,Computer Systems Engineers/Architects,"Complete models and simulations, using manual or automated tools, to analyze or predict system performance under different operating conditions.",0.90,computational modeling and simulation
+14693,Computer Systems Engineers/Architects,Develop efficient and effective system controllers.,0.75,control system engineering design
+14692,Computer Systems Engineers/Architects,Develop application-specific software.,0.90,software development task
+16169,Information Technology Project Managers,"Manage project execution to ensure adherence to budget, schedule, and scope.",0.45,management requires accountable decision-making
+16154,Information Technology Project Managers,Confer with project personnel to identify and resolve problems.,0.40,requires live interpersonal conferring
+16157,Information Technology Project Managers,Monitor or track project milestones and deliverables.,0.80,milestone tracking and reporting
+16152,Information Technology Project Managers,"Submit project deliverables, ensuring adherence to quality standards.",0.70,deliverable submission and quality check
+16155,Information Technology Project Managers,"Assess current or future customer needs and priorities by communicating directly with customers, conducting surveys, or other methods.",0.45,requires direct customer communication
+16159,Information Technology Project Managers,"Initiate, review, or approve modifications to project plans.",0.60,review doable but approval needs authority
+16156,Information Technology Project Managers,Schedule and facilitate meetings related to information technology projects.,0.45,facilitating meetings needs live presence
+16163,Information Technology Project Managers,Direct or coordinate activities of project personnel.,0.35,directing personnel needs human authority
+16164,Information Technology Project Managers,Develop implementation plans that include analyses such as cost-benefit or return on investment (ROI).,0.85,cost-benefit analysis and planning
+16162,Information Technology Project Managers,Identify need for initial or supplemental project resources.,0.80,resource needs analysis
+16170,Information Technology Project Managers,"Develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing.",0.80,project planning documentation
+16151,Information Technology Project Managers,Perform risk assessments to develop response strategies.,0.85,risk analysis task
+16168,Information Technology Project Managers,"Prepare project status reports by collecting, analyzing, and summarizing information and trends.",0.90,status report from data
+16160,Information Technology Project Managers,"Identify, review, or select vendors or consultants to meet project needs.",0.65,vendor research with selection decision
+16166,Information Technology Project Managers,Develop and manage annual budgets for information technology projects.,0.55,budget development with ongoing accountable management
+16161,Information Technology Project Managers,Establish and execute a project communication plan.,0.55,plan doable but execution needs human communication
+16171,Information Technology Project Managers,Develop and manage work breakdown structure (WBS) of information technology projects.,0.85,WBS documentation task
+16153,Information Technology Project Managers,"Monitor the performance of project team members, providing and documenting performance feedback.",0.40,performance management needs human authority
+16165,Information Technology Project Managers,Coordinate recruitment or selection of project personnel.,0.35,recruitment needs interpersonal interviewing
+16167,Information Technology Project Managers,"Assign duties, responsibilities, and spans of authority to project personnel.",0.25,assigning organizational authority needs a human
+16158,Information Technology Project Managers,Negotiate with project stakeholders or suppliers to obtain resources or materials.,0.35,negotiation with stakeholders
+3500,Actuaries,Ascertain premium rates required and cash reserves and liabilities necessary to ensure payment of future benefits.,0.85,actuarial computation
+3503,Actuaries,"Collaborate with programmers, underwriters, accounts, claims experts, and senior management to help companies develop plans for new lines of business or improvements to existing business.",0.50,cross-team collaboration
+3501,Actuaries,"Analyze statistical information to estimate mortality, accident, sickness, disability, and retirement rates.",0.90,statistical analysis
+3502,Actuaries,"Design, review, and help administer insurance, annuity and pension plans, determining financial soundness and calculating premiums.",0.75,plan design and calculation admin needs authority
+3504,Actuaries,"Determine, or help determine, company policy, and explain complex technical matters to company executives, government officials, shareholders, policyholders, or the public.",0.35,policy determination needs organizational authority
+3508,Actuaries,"Construct probability tables for events such as fires, natural disasters, and unemployment, based on analysis of statistical data and other pertinent information.",0.90,probability table construction from data
+3506,Actuaries,"Provide advice to clients on a contract basis, working as a consultant.",0.55,advisory content generation consulting needs human
+3512,Actuaries,Determine equitable basis for distributing surplus earnings under participating insurance and annuity contracts in mutual companies.,0.55,actuarial calculation needs professional sign-off
+20951,Actuaries,Negotiate terms and conditions of reinsurance with other companies.,0.30,negotiation with other companies
+3511,Actuaries,Provide expertise to help financial institutions manage risks and maximize returns associated with investment products or credit offerings.,0.70,analytical financial advisory
+3505,Actuaries,Testify before public agencies on proposed legislation affecting businesses.,0.05,testimony requires physical presence and legal standing
+3509,Actuaries,Determine policy contract provisions for each type of insurance.,0.60,contract provision analysis needs licensed sign-off
+3507,Actuaries,Testify in court as expert witness or to provide legal evidence on matters such as the value of potential lifetime earnings of a person disabled or killed in an accident.,0.05,requires sworn court testimony
+3513,Actuaries,Explain changes in contract provisions to customers.,0.65,customer explanation mostly written
+3510,Actuaries,Manage credit and help price corporate security offerings.,0.55,credit management needs authority pricing analytical
+24002,Mathematicians,Mentor others on mathematical techniques.,0.40,mentoring requires live human interaction
+7369,Mathematicians,"Maintain knowledge in the field by reading professional journals, talking with other mathematicians, and attending professional conferences.",0.45,networking and conferences need human presence
+7374,Mathematicians,Develop new principles and new relationships between existing mathematical principles to advance mathematical science.,0.75,mathematical research task
+20191,Mathematicians,"Disseminate research by writing reports, publishing papers, or presenting at professional conferences.",0.70,writing doable conference presenting less so
+7372,Mathematicians,"Assemble sets of assumptions, and explore the consequences of each set.",0.90,logical mathematical exploration
+7370,Mathematicians,Perform computations and apply methods of numerical analysis to data.,0.95,numerical computation
+7373,Mathematicians,"Address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols.",0.90,mathematical reasoning task
+7376,Mathematicians,"Conduct research to extend mathematical knowledge in traditional areas, such as algebra, geometry, probability, and logic.",0.75,mathematical research
+7371,Mathematicians,Develop mathematical or statistical models of phenomena to be used for analysis or for computational simulation.,0.90,model development task
+7367,Mathematicians,"Apply mathematical theories and techniques to the solution of practical problems in business, engineering, the sciences, or other fields.",0.85,applied math problem solving
+7368,Mathematicians,Develop computational methods for solving problems that occur in areas of science and engineering or that come from applications in business or industry.,0.85,computational method development
+7375,Mathematicians,"Design, analyze, and decipher encryption systems designed to transmit military, political, financial, or law-enforcement-related information in code.",0.80,cryptography technical work
+20952,Operations Research Analysts,Present the results of mathematical modeling and data analysis to management or other end users.,0.55,live presentation to management
+7382,Operations Research Analysts,"Define data requirements, and gather and validate information, applying judgment and statistical tests.",0.85,data requirements and validation analysis
+7380,Operations Research Analysts,"Perform validation and testing of models to ensure adequacy, and reformulate models, as necessary.",0.90,model validation and testing
+7384,Operations Research Analysts,Prepare management reports defining and evaluating problems and recommending solutions.,0.90,report writing and recommendations
+7378,Operations Research Analysts,Collaborate with others in the organization to ensure successful implementation of chosen problem solutions.,0.45,requires organizational collaboration
+7377,Operations Research Analysts,"Formulate mathematical or simulation models of problems, relating constants and variables, restrictions, alternatives, conflicting objectives, and their numerical parameters.",0.90,mathematical model formulation
+7387,Operations Research Analysts,"Observe the current system in operation, and gather and analyze information about each of the component problems, using a variety of sources.",0.60,system observation mostly documentary
+7379,Operations Research Analysts,Analyze information obtained from management to conceptualize and define operational problems.,0.85,problem analysis from provided information
+7383,Operations Research Analysts,Study and analyze information about alternative courses of action to determine which plan will offer the best outcomes.,0.85,analysis of alternatives
+7381,Operations Research Analysts,Collaborate with senior managers and decision makers to identify and solve a variety of problems and to clarify management objectives.,0.45,requires live interaction with senior managers
+7386,Operations Research Analysts,Specify manipulative or computational methods to be applied to models.,0.85,computational method specification
+7388,Operations Research Analysts,"Design, conduct, and evaluate experimental operational models in cases where models cannot be developed from existing data.",0.75,simulation experiment design and evaluation
+7389,Operations Research Analysts,"Develop and apply time and cost networks to plan, control, and review large projects.",0.85,project network planning task
+7385,Operations Research Analysts,"Break systems into their components, assign numerical values to each component, and examine the mathematical relationships between them.",0.90,systems decomposition and analysis
+20953,Operations Research Analysts,Educate staff in the use of mathematical models.,0.45,educating staff often needs live instruction
+7390,Operations Research Analysts,"Develop business methods and procedures, including accounting systems, file systems, office systems, logistics systems, and production schedules.",0.80,business process design documentation
+23986,Operations Research Analysts,Review research literature.,0.90,literature review task
+8956,Statisticians,Analyze and interpret statistical data to identify significant differences in relationships among sources of information.,0.90,statistical analysis
+8958,Statisticians,"Evaluate the statistical methods and procedures used to obtain data to ensure validity, applicability, efficiency, and accuracy.",0.90,methodology evaluation
+8953,Statisticians,"Report results of statistical analyses, including information in the form of graphs, charts, and tables.",0.90,statistical reporting
+21100,Statisticians,"Determine whether statistical methods are appropriate, based on user needs or research questions of interest.",0.85,statistical method appropriateness judgment
+8957,Statisticians,"Prepare data for processing by organizing information, checking for inaccuracies, and adjusting and weighting the raw data.",0.90,data cleaning and preparation
+8966,Statisticians,"Develop and test experimental designs, sampling techniques, and analytical methods.",0.85,experimental design development
+8955,Statisticians,"Identify relationships and trends in data, as well as any factors that could affect the results of research.",0.90,data trend analysis
+20194,Statisticians,"Present statistical and nonstatistical results, using charts, bullets, and graphs, in meetings or conferences to audiences such as clients, peers, and students.",0.50,live presentation to audiences
+8961,Statisticians,"Design research projects that apply valid scientific techniques, and use information obtained from baselines or historical data to structure uncompromised and efficient analyses.",0.85,research design task
+8965,Statisticians,"Adapt statistical methods to solve specific problems in many fields, such as economics, biology, and engineering.",0.85,applied statistical methods
+8959,Statisticians,"Evaluate sources of information to determine any limitations, in terms of reliability or usability.",0.85,source evaluation task
+8954,Statisticians,"Process large amounts of data for statistical modeling and graphic analysis, using computers.",0.95,data processing task
+20193,Statisticians,Develop software applications or programming for statistical modeling and graphic analysis.,0.90,software development for statistics
+20192,Statisticians,Report results of statistical analyses in peer-reviewed papers and technical manuals.,0.85,writing statistical papers and manuals
+8960,Statisticians,"Plan data collection methods for specific projects, and determine the types and sizes of sample groups to be used.",0.85,data collection planning
+8964,Statisticians,"Apply sampling techniques, or use complete enumeration bases to determine and define groups to be surveyed.",0.85,sampling technique application
+8967,Statisticians,"Examine theories, such as those of probability and inference, to discover mathematical bases for new or improved methods of obtaining and evaluating numerical data.",0.80,theoretical statistical research
+8963,Statisticians,Supervise and provide instructions for workers collecting and tabulating data.,0.35,supervising human workers needs authority
+21101,Statisticians,Prepare and structure data warehouses for storing data.,0.85,data warehouse design task
+16254,Biostatisticians,"Draw conclusions or make predictions, based on data summaries or statistical analyses.",0.90,data-based conclusions
+16265,Biostatisticians,"Analyze clinical or survey data, using statistical approaches such as longitudinal analysis, mixed-effect modeling, logistic regression analyses, and model-building techniques.",0.90,clinical data statistical analysis
+16250,Biostatisticians,Write detailed analysis plans and descriptions of analyses and findings for research protocols or reports.,0.90,analysis plan writing
+16246,Biostatisticians,Calculate sample size requirements for clinical studies.,0.90,sample size calculation
+16243,Biostatisticians,"Read current literature, attend meetings or conferences, and talk with colleagues to keep abreast of methodological or conceptual developments in fields such as biostatistics, pharmacology, life sciences, and social sciences.",0.45,conference attendance and networking need presence
+16258,Biostatisticians,"Design research studies in collaboration with physicians, life scientists, or other professionals.",0.55,collaborative research design with professionals
+16252,Biostatisticians,Prepare tables and graphs to present clinical data or results.,0.90,data visualization task
+16249,Biostatisticians,Write program code to analyze data with statistical analysis software.,0.95,coding and statistical programming
+16263,Biostatisticians,Provide biostatistical consultation to clients or colleagues.,0.55,consultation typically needs live interaction
+16262,Biostatisticians,Review clinical or other medical research protocols and recommend appropriate statistical analyses.,0.85,protocol review and recommendation task
+16257,Biostatisticians,Develop or implement data analysis algorithms.,0.90,algorithm development task
+16247,Biostatisticians,"Determine project plans, timelines, or technical objectives for statistical aspects of biological research studies.",0.80,research project planning
+16244,Biostatisticians,"Prepare statistical data for inclusion in reports to data monitoring committees, federal regulatory agencies, managers, or clients.",0.80,regulatory report preparation
+16251,Biostatisticians,Plan or direct research studies related to life sciences.,0.55,directing studies needs leadership authority
+16245,Biostatisticians,Prepare articles for publication or presentation at professional conferences.,0.70,writing largely doable presenting less so
+16253,Biostatisticians,Monitor clinical trials or experiments to ensure adherence to established procedures or to verify the quality of data collected.,0.45,clinical trial monitoring often needs on-site presence
+16241,Biostatisticians,Write research proposals or grant applications for submission to external bodies.,0.85,grant proposal writing
+16259,Biostatisticians,Design or maintain databases of biological data.,0.85,database design and maintenance
+16260,Biostatisticians,Collect data through surveys or experimentation.,0.40,data collection often needs physical or live interaction
+16264,Biostatisticians,Apply research or simulation results to extend biological theory or recommend new research projects.,0.80,research extension and recommendation
+16255,Biostatisticians,"Develop or use mathematical models to track changes in biological phenomena, such as the spread of infectious diseases.",0.90,epidemiological modeling task
+16248,Biostatisticians,Assign work to biostatistical assistants or programmers.,0.35,assigning work needs supervisory authority
+16261,Biostatisticians,"Analyze archival data, such as birth, death, and disease records.",0.90,archival data analysis
+16256,Biostatisticians,Design surveys to assess health issues.,0.85,survey design task
+16242,Biostatisticians,Teach graduate or continuing education courses or seminars in biostatistics.,0.40,teaching requires live instruction
+21823,Data Scientists,"Analyze, manipulate, or process large sets of data using statistical software.",0.95,data processing task
+21824,Data Scientists,"Apply feature selection algorithms to models predicting outcomes of interest, such as sales, attrition, and healthcare use.",0.90,feature selection modeling task
+21825,Data Scientists,Apply sampling techniques to determine groups to be surveyed or use complete enumeration methods.,0.85,sampling technique task
+21826,Data Scientists,Clean and manipulate raw data using statistical software.,0.95,data cleaning task
+21827,Data Scientists,"Compare models using statistical performance metrics, such as loss functions or proportion of explained variance.",0.95,model comparison task
+21828,Data Scientists,"Create graphs, charts, or other visualizations to convey the results of data analysis using specialized software.",0.90,data visualization task
+21829,Data Scientists,Deliver oral or written presentations of the results of mathematical modeling and data analysis to management or other end users.,0.55,oral delivery needs presence written doable
+21830,Data Scientists,"Design surveys, opinion polls, or other instruments to collect data.",0.85,survey instrument design
+21831,Data Scientists,Identify business problems or management objectives that can be addressed through data analysis.,0.85,business problem identification via analysis
+21832,Data Scientists,Identify relationships and trends or any factors that could affect the results of research.,0.90,trend identification analysis
+21833,Data Scientists,"Identify solutions to business problems, such as budgeting, staffing, and marketing decisions, using the results of data analysis.",0.85,data-driven solution identification
+21834,Data Scientists,"Propose solutions in engineering, the sciences, and other fields using mathematical theories and techniques.",0.85,mathematical solution proposal

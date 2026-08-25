@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+23205,"Securities, Commodities, and Financial Services Sales Agents",Review all securities transactions to ensure accuracy of information and conformance to governing agency regulations.,0.85,compliance data review
+23206,"Securities, Commodities, and Financial Services Sales Agents",Contact prospective customers to present information and explain available services.,0.55,outbound sales contact needs rapport
+23207,"Securities, Commodities, and Financial Services Sales Agents","Devise trading, option, or hedge strategies.",0.85,analytical strategy design
+23208,"Securities, Commodities, and Financial Services Sales Agents","Track and analyze factors that affect price movement, such as trade policies, weather conditions, political developments, or supply and demand changes.",0.90,research and analysis task
+23209,"Securities, Commodities, and Financial Services Sales Agents","Inform other traders, managers, or customers of market conditions, including volume, price, competition, or dynamics.",0.80,market info reporting
+23210,"Securities, Commodities, and Financial Services Sales Agents",Offer advice on the purchase or sale of particular securities.,0.35,requires licensed advisory authority
+23211,"Securities, Commodities, and Financial Services Sales Agents",Evaluate costs and revenue of agreements to determine continued profitability.,0.85,financial profitability analysis
+23212,"Securities, Commodities, and Financial Services Sales Agents",Explain stock market terms or trading practices to clients.,0.85,explaining info to clients
+23213,"Securities, Commodities, and Financial Services Sales Agents",Calculate costs for billings or commissions.,0.95,pure computation task
+23214,"Securities, Commodities, and Financial Services Sales Agents",Prepare financial reports to monitor client or corporate finances.,0.90,financial report preparation
+23215,"Securities, Commodities, and Financial Services Sales Agents","Supply the latest price quotes on any security, as well as information on the activities or financial positions of the corporations issuing these securities.",0.90,info retrieval and reporting
+23216,"Securities, Commodities, and Financial Services Sales Agents",Supervise support staff and ensure proper execution of contracts.,0.20,requires supervisory authority over staff
+23217,"Securities, Commodities, and Financial Services Sales Agents",Relay buy or sell orders to securities exchanges or to firm trading departments.,0.55,order relay needs licensed trading authority
+23218,"Securities, Commodities, and Financial Services Sales Agents",Negotiate prices or contracts for securities or commodities sales or purchases.,0.35,negotiation requires human judgment
+23219,"Securities, Commodities, and Financial Services Sales Agents",Prepare and send requests for price quotations to all companies in a particular market.,0.85,mechanical quote request drafting
+23220,"Securities, Commodities, and Financial Services Sales Agents",Price securities or commodities based on market conditions.,0.85,market based pricing calculation
+23221,"Securities, Commodities, and Financial Services Sales Agents",Purchase or sell financial derivatives for customers.,0.30,requires licensed authority trading for clients
+23222,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel","Answer customers' questions about services, prices, availability, or credit terms.",0.85,answering customer questions from info
+23223,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel","Attend sales or trade meetings or read related publications to obtain information about market conditions, business trends, regulations, or industry developments.",0.45,partly requires physical meeting attendance
+23224,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",Compute and compare costs of services.,0.95,pure cost computation
+23225,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",Consult with clients after sales or contract signings to resolve problems and provide ongoing support.,0.65,customer support communication
+23226,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",Contact prospective or existing customers to discuss how services can meet their needs.,0.55,outbound sales contact needs rapport
+23227,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",Create forms or agreements to complete sales.,0.85,document drafting task
+23228,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",Develop sales presentations or proposals to explain service specifications.,0.90,sales content creation
+23229,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel","Distribute promotional materials at meetings, conferences, or trade shows.",0.05,physical distribution at events
+23230,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",Emphasize or recommend service features based on knowledge of customers' needs and vendor capabilities and limitations.,0.65,advisory communication based on data
+23231,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel","Identify prospective customers using business directories, leads from clients, or information from conferences or trade shows.",0.75,mostly research based lead identification
+23232,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",Inform customers of contracts or other information pertaining to purchased services.,0.85,informational communication task
+23233,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",Maintain customer records using automated systems.,0.95,automated record maintenance
+23234,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel","Monitor market conditions, innovations, and competitors' services, prices, and sales.",0.90,market monitoring and research
+23235,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",Negotiate prices or terms of sales or service agreements.,0.35,negotiation task
+23236,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel","Quote prices, credit terms, contract terms, or fulfillment dates for services.",0.85,quoting based on established terms
+23237,Billing and Posting Clerks,Post stop-payment notices to prevent payment of protested checks.,0.85,system data entry task
+23238,Billing and Posting Clerks,Verify accuracy of billing data and revise any errors.,0.90,data verification task
+23239,Billing and Posting Clerks,Verify signatures and required information on checks.,0.60,signature verification with some liability
+23240,Billing and Posting Clerks,"Prepare itemized statements, bills, or invoices and record amounts due for items purchased or services rendered.",0.90,invoice preparation task
+23241,Billing and Posting Clerks,"Perform bookkeeping work, including posting data or keeping other records concerning costs of goods or services or the shipment of goods.",0.90,bookkeeping data task
+23242,Billing and Posting Clerks,"Operate typing, adding, calculating, or billing machines.",0.10,physical machine operation
+23243,Billing and Posting Clerks,Resolve discrepancies in accounting records.,0.85,accounting discrepancy analysis
+23244,Billing and Posting Clerks,Contact customers to obtain or relay account information.,0.55,customer contact for account info
+23245,Billing and Posting Clerks,"Review documents, such as purchase orders, sales tickets, charge slips, or hospital records, to compute fees or charges due.",0.90,document review and fee computation
+23246,Billing and Posting Clerks,Keep records of invoices and support documents.,0.90,record keeping task
+23247,Billing and Posting Clerks,Route statements for mailing or over-the-counter delivery to customers.,0.10,physical routing and delivery
+23248,Billing and Posting Clerks,Monitor equipment to ensure proper operation.,0.15,physical equipment monitoring
+23249,Billing and Posting Clerks,"Fix minor problems, such as equipment jams, and notify repair personnel of major equipment problems.",0.05,physical equipment repair
+23250,Billing and Posting Clerks,"Weigh envelopes containing statements to determine correct postage and affix postage, using stamps or metering equipment.",0.00,physical weighing and postage affixing
+23251,Billing and Posting Clerks,Compare previously prepared bank statements with canceled checks and reconcile discrepancies.,0.85,reconciliation task
+23253,Billing and Posting Clerks,Take orders for imprinted checks.,0.70,order taking communication task
+23254,Billing and Posting Clerks,"Encode and cancel checks, using bank machines.",0.10,physical bank machine operation
+23255,Billing and Posting Clerks,"Consult sources, such as rate books, manuals, or insurance company representatives, to determine specific charges or information such as rules, regulations, or government tax and tariff information.",0.75,research using reference sources
+23256,Billing and Posting Clerks,"Track accumulated hours and dollar amounts charged to each client job to calculate client fees for professional services, such as legal or accounting services.",0.90,fee tracking and computation
+23257,Billing and Posting Clerks,"Update manuals when rates, rules, or regulations are amended.",0.85,document update task
+23258,Billing and Posting Clerks,"Compute credit terms, discounts, shipment charges, or rates for goods or services to complete billing documents.",0.90,billing computation task
+23259,Billing and Posting Clerks,"Load machines with statements, cancelled checks, or envelopes to prepare statements for distribution to customers or stuff envelopes by hand.",0.00,physical machine loading and envelope stuffing
+23260,Billing and Posting Clerks,Review compiled data on operating costs and revenues to set rates.,0.75,rate setting analysis with some authority
+23262,Billing and Posting Clerks,"Answer inquiries regarding rates, routing, or procedures.",0.85,answering informational inquiries
+23263,Billing and Posting Clerks,"Compile reports of cost factors, such as labor, production, storage, and equipment.",0.90,cost report compilation
+23264,Billing and Posting Clerks,"Create billing documents, shipping labels, credit memorandums, or credit forms.",0.90,document creation task
+23265,Billing and Posting Clerks,"Perform general administrative tasks, such as answering telephones, scheduling appointments, and ordering supplies or equipment.",0.65,general admin tasks mostly agent doable
+23266,Billing and Posting Clerks,"Return checks to customers or retrieve checks returned to customers in error, adjusting accounts and answering inquiries about errors as necessary.",0.45,mixed physical check handling and account fix
+23267,"Court, Municipal, and License Clerks",Evaluate information on applications to verify completeness and accuracy and to determine whether applicants are qualified to obtain desired licenses.,0.75,application evaluation against criteria
+23268,"Court, Municipal, and License Clerks","Verify the authenticity of documents, such as foreign identification or immigration documents.",0.55,document authenticity verification needs certainty
+23269,"Court, Municipal, and License Clerks",Record and edit the minutes of meetings and distribute to appropriate officials or staff members.,0.80,minute taking and editing from content
+23270,"Court, Municipal, and License Clerks","Question applicants to obtain required information, such as name, address, or age, and record data on prescribed forms.",0.55,structured info gathering interview
+23271,"Court, Municipal, and License Clerks",Issue public notification of all official activities or meetings.,0.85,notification publishing task
+23272,"Court, Municipal, and License Clerks",Record and maintain all vital and fiscal records and accounts.,0.90,record maintenance task
+23273,"Court, Municipal, and License Clerks","Answer questions or provide advice to the public regarding licensing policies, procedures, or regulations.",0.85,informational qa task
+23274,"Court, Municipal, and License Clerks",Prepare meeting agendas or packets of related information.,0.90,document preparation task
+23275,"Court, Municipal, and License Clerks","Prepare and issue orders of the court, such as probation orders, release documentation, sentencing information, or summonses.",0.30,requires official court authority to issue
+23276,"Court, Municipal, and License Clerks","Prepare ordinances, resolutions, or proclamations so that they can be executed, recorded, archived, or distributed.",0.75,document drafting task
+23277,"Court, Municipal, and License Clerks",Code information on license applications for entry into computers.,0.95,data entry task
+23278,"Court, Municipal, and License Clerks","Record case dispositions, court orders, or arrangements made for payment of court fees.",0.90,record keeping task
+23279,"Court, Municipal, and License Clerks","Perform budgeting duties, such as assisting in budget preparation, expenditure review, or budget administration.",0.80,budget analysis task
+23280,"Court, Municipal, and License Clerks","Perform record checks on past or current licensees, as required by investigations.",0.80,record check research task
+23281,"Court, Municipal, and License Clerks",Prepare documents recording the outcomes of court proceedings.,0.65,document prep with some official authority
+23282,"Court, Municipal, and License Clerks",Examine legal documents submitted to courts for adherence to laws or court procedures.,0.75,legal document compliance review
+23283,"Court, Municipal, and License Clerks","Perform general office duties, such as taking or transcribing dictation, typing or proofreading correspondence, distributing or filing official forms, or scheduling appointments.",0.65,general office admin tasks
+23284,"Court, Municipal, and License Clerks","Perform administrative tasks, such as answering telephone calls, filing court documents, or maintaining office supplies or equipment.",0.45,mixed admin tasks with physical filing
+23285,"Court, Municipal, and License Clerks","Respond to requests for information from the public, other municipalities, state officials, or state and federal legislative offices.",0.80,informational response task
+23286,"Court, Municipal, and License Clerks","Search files and contact witnesses, attorneys, or litigants to obtain information for the court.",0.55,research and contact task
+23287,"Court, Municipal, and License Clerks",Coordinate or maintain office tracking systems for correspondence or follow-up actions.,0.80,tracking system maintenance
+23288,"Court, Municipal, and License Clerks","Answer inquiries from the general public regarding judicial procedures, court appearances, trial dates, adjournments, outstanding warrants, summonses, subpoenas, witness fees, or payment of fines.",0.80,informational qa task
+23289,"Court, Municipal, and License Clerks","Train other workers or coordinate their work, as necessary.",0.25,requires in person training and coordination
+23290,"Court, Municipal, and License Clerks",Instruct parties about timing of court appearances.,0.75,informational instruction task
+23291,"Court, Municipal, and License Clerks",Research information in the municipal archives upon request of public officials or private citizens.,0.85,archival research task
+23292,"Court, Municipal, and License Clerks","Perform contract administration duties, assisting with bid openings or the awarding of contracts.",0.35,requires official presence for contract awarding
+23293,"Court, Municipal, and License Clerks","Participate in the administration of municipal elections, such as preparation or distribution of ballots, appointment or training of election officers, or tabulation or certification of results.",0.25,election administration needs authority and presence
+23294,"Court, Municipal, and License Clerks","Issue various permits and licenses, such as marriage, fishing, hunting, and dog licenses, and collect appropriate fees.",0.35,requires official licensing authority
+23295,"Court, Municipal, and License Clerks","Plan or direct the maintenance, filing, safekeeping, or computerization of all municipal documents.",0.55,records management planning task
+23296,"Court, Municipal, and License Clerks",Prepare dockets or calendars of cases to be called.,0.85,docket preparation task
+23297,"Credit Authorizers, Checkers, and Clerks",Keep records of customers' charges and payments.,0.90,record keeping task
+23298,"Credit Authorizers, Checkers, and Clerks",Compile and analyze credit information gathered by investigation.,0.85,credit analysis task
+23299,"Credit Authorizers, Checkers, and Clerks","Obtain information about potential creditors from banks, credit bureaus, and other credit services, and provide reciprocal information if requested.",0.80,info retrieval and exchange task
+23300,"Credit Authorizers, Checkers, and Clerks",Interview credit applicants by telephone or in person to obtain personal and financial data needed to complete credit report.,0.45,interview task requiring rapport partly in person
+23301,"Credit Authorizers, Checkers, and Clerks","Evaluate customers' computerized credit records and payment histories to decide whether to approve new credit, based on predetermined standards.",0.80,rule based credit decision task
+23302,"Credit Authorizers, Checkers, and Clerks",File sales slips in customers' ledgers for billing purposes.,0.30,physical filing of paper records
+23303,"Credit Authorizers, Checkers, and Clerks","Receive charge slips or credit applications by mail, or receive information from salespeople or merchants by telephone.",0.45,mixed physical mail receipt and phone reception
+23304,"Credit Authorizers, Checkers, and Clerks",Mail charge statements to customers.,0.10,physical mailing task
+23305,"Credit Authorizers, Checkers, and Clerks","Examine city directories and public records to verify residence property ownership, bankruptcies, liens, arrest record, or unpaid taxes of applicants.",0.85,public records research task
+23306,"Credit Authorizers, Checkers, and Clerks",Relay credit report information to subscribers by mail or by telephone.,0.75,info relay communication task
+23307,"Credit Authorizers, Checkers, and Clerks",Prepare credit cards or charge account plates.,0.05,physical card preparation
+23308,"Credit Authorizers, Checkers, and Clerks",Call customers to collect payment on delinquent accounts.,0.45,collection calls needing persuasion
+23309,"Credit Authorizers, Checkers, and Clerks",Consult with customers to resolve complaints or verify financial or credit transactions.,0.60,customer service communication task
+23310,"Credit Authorizers, Checkers, and Clerks","Contact former employers and other acquaintances to verify applicants' references, employment, health history, or social behavior.",0.65,reference verification communication task
+23311,"Credit Authorizers, Checkers, and Clerks",Prepare reports of findings and recommendations.,0.90,report writing task
+23312,"Credit Authorizers, Checkers, and Clerks",Review individual or commercial customer files to identify and select delinquent accounts for collection.,0.85,account review and selection task
+23313,Insurance Claims and Policy Processing Clerks,"Prepare insurance claim forms or related documents, and review them for completeness.",0.90,claim form preparation and review
+23314,Insurance Claims and Policy Processing Clerks,Calculate amount of claim.,0.90,claim calculation task
+23315,Insurance Claims and Policy Processing Clerks,Post or attach information to claim file.,0.90,data entry task
+23316,Insurance Claims and Policy Processing Clerks,Transmit claims for payment or further investigation.,0.85,claims transmission task
+23317,Insurance Claims and Policy Processing Clerks,Contact insured or other involved persons to obtain missing information.,0.60,info gathering communication task
+23318,Insurance Claims and Policy Processing Clerks,Review insurance policy to determine coverage.,0.85,policy coverage analysis task
+23319,Insurance Claims and Policy Processing Clerks,Process and record new insurance policies and claims.,0.85,policy and claims processing task
+23320,Insurance Claims and Policy Processing Clerks,"Organize or work with detailed office or warehouse records, using computers to enter, access, search or retrieve data.",0.90,computerized record management task
+23321,Insurance Claims and Policy Processing Clerks,"Provide customer service, such as limited instructions on proceeding with claims or referrals to auto repair facilities or local contractors.",0.75,customer service info task
+23322,Insurance Claims and Policy Processing Clerks,Correspond with insured or agent to obtain information or to inform them of account status or changes.,0.85,written correspondence task
+23323,Insurance Claims and Policy Processing Clerks,"Review and verify data, such as age, name, address, and principal sum and value of property, on insurance applications and policies.",0.90,data verification task
+23324,Insurance Claims and Policy Processing Clerks,"Compare information from application to criteria for policy reinstatement, and approve reinstatement when criteria are met.",0.80,rule based reinstatement approval task
+23325,Insurance Claims and Policy Processing Clerks,"Examine letters from policyholders or agents, original insurance applications, and other company documents to determine if changes are needed and effects of changes.",0.85,document analysis task
+23326,Insurance Claims and Policy Processing Clerks,"Transcribe data to worksheets, and enter data into computer for use in preparing documents and adjusting accounts.",0.95,data entry and transcription task
+23327,Insurance Claims and Policy Processing Clerks,Notify insurance agent and accounting department of policy cancellation.,0.90,notification task
+23328,Insurance Claims and Policy Processing Clerks,Pay small claims.,0.55,financial disbursement needs accountability
+23329,Insurance Claims and Policy Processing Clerks,"Process, prepare, and submit business or government forms, such as submitting applications for coverage to insurance carriers.",0.85,form processing and submission task
+23330,Insurance Claims and Policy Processing Clerks,Collect initial premiums and issue receipts.,0.55,premium collection may involve physical handling
+23332,Insurance Claims and Policy Processing Clerks,Interview clients and take their calls to provide customer service and obtain information on claims.,0.50,customer interview and call handling
+23333,Insurance Claims and Policy Processing Clerks,"Obtain computer printout of policy cancellations, or retrieve cancellation cards from file.",0.35,physical retrieval from files or printouts
+23334,Insurance Claims and Policy Processing Clerks,"Compose business correspondence for supervisors, managers, and professionals.",0.90,correspondence writing task
+23336,Insurance Claims and Policy Processing Clerks,"Calculate premiums, refunds, commissions, adjustments, or new reserve requirements, using insurance rate standards.",0.90,insurance calculation task
+23337,Insurance Claims and Policy Processing Clerks,Enter insurance- and claims-related information into database systems.,0.95,data entry task
+23338,Insurance Claims and Policy Processing Clerks,"Modify, update, or process existing policies and claims to reflect any change in beneficiary, amount of coverage, or type of insurance.",0.85,policy update processing task

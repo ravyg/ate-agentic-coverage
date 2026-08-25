@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+13969,Engine and Other Machine Assemblers,"Set up and operate metalworking machines, such as milling or grinding machines, to shape or fabricate parts.",0.00,physical machine operation
+13963,Engine and Other Machine Assemblers,Maintain and lubricate parts or components.,0.00,physical maintenance and lubrication
+10036,Structural Metal Fabricators and Fitters,"Verify conformance of workpieces to specifications, using squares, rulers, and measuring tapes.",0.05,physical measurement of workpieces
+10042,Structural Metal Fabricators and Fitters,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.55,document analysis of blueprints for materials and sequencing
+10035,Structural Metal Fabricators and Fitters,"Position, align, fit, and weld parts to form complete units or subunits, following blueprints and layout specifications, and using jigs, welding torches, and hand tools.",0.00,physical welding and fitting
+10038,Structural Metal Fabricators and Fitters,Lay out and examine metal stock or workpieces to be processed to ensure that specifications are met.,0.05,physical layout and examination of stock
+10037,Structural Metal Fabricators and Fitters,Tack-weld fitted parts together.,0.00,physical welding
+10043,Structural Metal Fabricators and Fitters,"Move parts into position, manually or with hoists or cranes.",0.00,physical moving of parts with hoists cranes
+10044,Structural Metal Fabricators and Fitters,"Set up and operate fabricating machines, such as brakes, rolls, shears, flame cutters, grinders, and drill presses, to bend, cut, form, punch, drill, or otherwise form and assemble metal components.",0.00,physical machine operation
+10041,Structural Metal Fabricators and Fitters,"Position or tighten braces, jacks, clamps, ropes, or bolt straps, or bolt parts in position for welding or riveting.",0.00,physical positioning and clamping
+10053,Structural Metal Fabricators and Fitters,"Lift or move materials and finished products, using large cranes.",0.00,physical crane operation
+10050,Structural Metal Fabricators and Fitters,"Set up face blocks, jigs, and fixtures.",0.00,physical setup of jigs and fixtures
+10039,Structural Metal Fabricators and Fitters,"Align and fit parts according to specifications, using jacks, turnbuckles, wedges, drift pins, pry bars, and hammers.",0.00,physical alignment with hand tools
+10045,Structural Metal Fabricators and Fitters,"Hammer, chip, and grind workpieces to cut, bend, and straighten metal.",0.00,physical hammering and grinding
+10040,Structural Metal Fabricators and Fitters,"Locate and mark workpiece bending and cutting lines, allowing for stock thickness, machine and welding shrinkage, and other component specifications.",0.10,physical marking with some calculation
+10051,Structural Metal Fabricators and Fitters,"Remove high spots and cut bevels, using hand files, portable grinders, and cutting torches.",0.00,physical grinding and cutting
+10046,Structural Metal Fabricators and Fitters,"Smooth workpiece edges and fix taps, tubes, and valves.",0.00,physical smoothing and fitting
+10049,Structural Metal Fabricators and Fitters,"Mark reference points onto floors or face blocks and transpose them to workpieces, using measuring devices, squares, chalk, and soapstone.",0.00,physical marking on floors
+10047,Structural Metal Fabricators and Fitters,"Design and construct templates and fixtures, using hand tools.",0.10,physical construction of templates with hand tools
+10052,Structural Metal Fabricators and Fitters,Direct welders to build up low spots or short pieces with weld.,0.05,directing on-site welders requires physical presence
+10054,Structural Metal Fabricators and Fitters,"Heat-treat parts, using acetylene torches.",0.00,physical heat treating
+10048,Structural Metal Fabricators and Fitters,"Straighten warped or bent parts, using sledges, hand torches, straightening presses, or bulldozers.",0.00,physical straightening of metal
+10057,Structural Metal Fabricators and Fitters,Erect ladders and scaffolding to fit together large assemblies.,0.00,physical erection of scaffolding
+10055,Structural Metal Fabricators and Fitters,"Preheat workpieces to make them malleable, using hand torches or furnaces.",0.00,physical preheating with torches
+10056,Structural Metal Fabricators and Fitters,"Install boilers, containers, and other structures.",0.00,physical installation on site
+13970,Fiberglass Laminators and Fabricators,"Release air bubbles and smooth seams, using rollers.",0.00,physical rolling of laminate
+13971,Fiberglass Laminators and Fabricators,"Spray chopped fiberglass, resins, and catalysts onto prepared molds or dies using pneumatic spray guns with chopper attachments.",0.00,physical spraying of fiberglass
+13974,Fiberglass Laminators and Fabricators,"Mix catalysts into resins, and saturate cloth and mats with mixtures, using brushes.",0.00,physical mixing and brushing
+13976,Fiberglass Laminators and Fabricators,"Check completed products for conformance to specifications and for defects by measuring with rulers or micrometers, by checking them visually, or by tapping them to detect bubbles or dead spots.",0.05,physical inspection with tools
+13973,Fiberglass Laminators and Fabricators,"Pat or press layers of saturated mat or cloth into place on molds, using brushes or hands, and smooth out wrinkles and air bubbles with hands or squeegees.",0.00,physical hand shaping of laminate
+13972,Fiberglass Laminators and Fabricators,"Select precut fiberglass mats, cloth, and wood-bracing materials as required by projects being assembled.",0.10,physical selection and retrieval of materials
+13975,Fiberglass Laminators and Fabricators,"Bond wood reinforcing strips to decks and cabin structures of watercraft, using resin-saturated fiberglass.",0.00,physical bonding work
+13977,Fiberglass Laminators and Fabricators,"Trim excess materials from molds, using hand shears or trimming knives.",0.00,physical trimming with hand tools
+13980,Fiberglass Laminators and Fabricators,"Apply layers of plastic resin to mold surfaces prior to placement of fiberglass mats, repeating layers until products have the desired thicknesses and plastics have jelled.",0.00,physical resin application
+13984,Fiberglass Laminators and Fabricators,"Inspect, clean, and assemble molds before beginning work.",0.05,physical mold inspection and cleaning
+13979,Fiberglass Laminators and Fabricators,"Cure materials by letting them set at room temperature, placing them under heat lamps, or baking them in ovens.",0.05,physical placement for curing
+13982,Fiberglass Laminators and Fabricators,Apply lacquers and waxes to mold surfaces to facilitate assembly and removal of laminated parts.,0.00,physical application of lacquers waxes
+13978,Fiberglass Laminators and Fabricators,"Repair or modify damaged or defective glass-fiber parts, checking thicknesses, densities, and contours to ensure a close fit after repair.",0.05,physical repair and inspection
+13981,Fiberglass Laminators and Fabricators,"Mask off mold areas not to be laminated, using cellophane, wax paper, masking tape, or special sprays containing mold-release substances.",0.00,physical masking of molds
+13983,Fiberglass Laminators and Fabricators,"Check all dies, templates, and cutout patterns to be used in the manufacturing process to ensure that they conform to dimensional data, photographs, blueprints, samples, or customer specifications.",0.15,physical inspection against document specs
+13985,Fiberglass Laminators and Fabricators,Trim cured materials by sawing them with diamond-impregnated cutoff wheels.,0.00,physical sawing
+15003,Timing Device Assemblers and Adjusters,"Assemble and install components of timepieces to complete mechanisms, using watchmakers' tools and loupes.",0.00,fine physical assembly with tools
+15004,Timing Device Assemblers and Adjusters,"Observe operation of timepiece parts and subassemblies to determine accuracy of movement, and to diagnose causes of defects.",0.15,physical observation with some diagnostic reasoning
+15005,Timing Device Assemblers and Adjusters,"Test operation and fit of timepiece parts and subassemblies, using electronic testing equipment, tweezers, watchmakers' tools, and loupes.",0.05,physical testing with instruments
+15006,Timing Device Assemblers and Adjusters,"Replace specified parts to repair malfunctioning timepieces, using watchmakers' tools, loupes, and holding fixtures.",0.00,physical repair work
+15007,Timing Device Assemblers and Adjusters,"Disassemble timepieces such as watches, clocks, and chronometers so that repairs can be made.",0.00,physical disassembly
+15008,Timing Device Assemblers and Adjusters,"Clean and lubricate timepiece parts and assemblies, using solvents, buff sticks, and oil.",0.00,physical cleaning and lubrication
+15009,Timing Device Assemblers and Adjusters,"Examine components of timepieces such as watches, clocks, or chronometers for defects, using loupes or microscopes.",0.05,physical inspection under microscope
+15010,Timing Device Assemblers and Adjusters,"Bend parts, such as hairsprings, pallets, barrel covers, and bridges, to correct deficiencies in truing or endshake, using tweezers.",0.00,fine physical manipulation with tweezers
+15011,Timing Device Assemblers and Adjusters,Change timing weights on balance wheels to correct deficient timing.,0.00,physical adjustment of weights
+15012,Timing Device Assemblers and Adjusters,"Adjust sizes or positioning of timepiece parts to achieve specified fit or function, using calipers, fixtures, and loupes.",0.00,physical adjustment with tools
+15013,Timing Device Assemblers and Adjusters,Mount hairsprings and balance wheel assemblies between jaws of truing calipers.,0.00,physical mounting in calipers
+15014,Timing Device Assemblers and Adjusters,Estimate spaces between collets and first inner coils to determine if spaces are within acceptable limits.,0.05,physical measurement under magnification
+15015,Timing Device Assemblers and Adjusters,"Bend inner coils of springs away from or toward collets, using tweezers, to locate centers of collets in centers of springs, and to correct errors resulting from faulty colleting of coils.",0.00,fine physical manipulation
+15016,Timing Device Assemblers and Adjusters,"Turn wheels of calipers and examine springs, using loupes, to determine if center coils appear as perfect circles.",0.00,physical inspection with calipers
+15017,Timing Device Assemblers and Adjusters,"Examine and adjust hairspring assemblies to ensure horizontal and circular alignment of hairsprings, using calipers, loupes, and watchmakers' tools.",0.00,physical adjustment and alignment
+15018,Timing Device Assemblers and Adjusters,"Review blueprints, sketches, or work orders to gather information about tasks to be completed.",0.65,document review to gather task information
+15019,Timing Device Assemblers and Adjusters,"Tighten or replace loose jewels, using watchmakers' tools.",0.00,physical tool work on jewels
+20157,Team Assemblers,Perform quality checks on products and parts.,0.10,physical quality inspection on line
+20160,Team Assemblers,Review work orders and blueprints to ensure work is performed according to specifications.,0.55,document review against work orders and blueprints
+8468,Team Assemblers,Rotate through all the tasks required in a particular production process.,0.00,physical production line rotation
+8469,Team Assemblers,Determine work assignments and procedures.,0.35,on-site work assignment decisions
+20163,Team Assemblers,Supervise assemblers and train employees on job procedures.,0.10,hands-on supervision and training requires presence
+20159,Team Assemblers,"Shovel, sweep, or otherwise clean work areas.",0.00,physical cleaning work
+8472,Team Assemblers,Provide assistance in the production of wiring assemblies.,0.00,physical wiring assembly assistance
+20162,Team Assemblers,Maintain production equipment and machinery.,0.00,physical equipment maintenance
+20161,Team Assemblers,Complete production reports to communicate team production level to management.,0.75,report writing from production data
+20158,Team Assemblers,Package finished products and prepare them for shipment.,0.00,physical packaging work
+20164,Team Assemblers,"Operate machinery and heavy equipment, such as forklifts.",0.00,physical machinery operation
+20819,Bakers,"Check products for quality, and identify damaged or expired goods.",0.10,physical product quality inspection
+11916,Bakers,"Set oven temperatures, and place items into hot ovens for baking.",0.00,physical oven operation
+11917,Bakers,"Combine measured ingredients in bowls of mixing, blending, or cooking machinery.",0.00,physical ingredient combining
+11920,Bakers,"Place dough in pans, molds, or on sheets, and bake in production ovens or on grills.",0.00,physical baking placement
+11926,Bakers,"Set time and speed controls for mixing machines, blending machines, or steam kettles so that ingredients will be mixed or cooked according to instructions.",0.05,physical control setting on-site
+11918,Bakers,"Measure or weigh flour or other ingredients to prepare batters, doughs, fillings, or icings, using scales or graduated containers.",0.00,physical measuring of ingredients
+11915,Bakers,"Observe color of products being baked, and adjust oven temperatures, humidity, or conveyor speeds accordingly.",0.10,physical observation and on-site adjustment
+11921,Bakers,Check the quality of raw materials to ensure that standards and specifications are met.,0.10,physical raw material inspection
+11924,Bakers,"Check equipment to ensure that it meets health and safety regulations, and perform maintenance or cleaning, as necessary.",0.05,physical equipment checking and maintenance
+11922,Bakers,Adapt the quantity of ingredients to match the amount of items to be baked.,0.85,arithmetic scaling of recipe quantities
+11923,Bakers,"Apply glazes, icings, or other toppings to baked goods, using spatulas or brushes.",0.00,physical application of glazes
+11925,Bakers,"Decorate baked goods, such as cakes or pastries.",0.00,physical decorating work
+11919,Bakers,"Roll, knead, cut, or shape dough to form sweet rolls, pie crusts, tarts, cookies, or other products.",0.00,physical dough shaping
+11928,Bakers,Direct or coordinate bakery deliveries.,0.40,logistics coordination of deliveries
+11929,Bakers,Order or receive supplies or equipment.,0.45,ordering is doable digitally but receiving is physical
+11927,Bakers,Prepare or maintain inventory or production records.,0.80,record keeping from production data
+11930,Bakers,Operate slicing or wrapping machines.,0.00,physical machine operation
+11931,Bakers,Develop new recipes for baked goods.,0.60,creative recipe drafting though testing needs human
+8784,Butchers and Meat Cutters,Prepare and place meat cuts and products in display counter to appear attractive and catch the shopper's eye.,0.00,physical display arrangement
+8783,Butchers and Meat Cutters,"Wrap, weigh, label, and price cuts of meat.",0.00,physical wrapping weighing labeling
+8786,Butchers and Meat Cutters,"Cut, trim, bone, tie, and grind meats, such as beef, pork, poultry, and fish, to prepare in cooking form.",0.00,physical meat cutting
+8785,Butchers and Meat Cutters,Prepare special cuts of meat ordered by customers.,0.00,physical custom meat cutting
+8787,Butchers and Meat Cutters,"Receive, inspect, and store meat upon delivery to ensure meat quality.",0.05,physical receiving and inspection of meat
+8789,Butchers and Meat Cutters,Estimate requirements and order or requisition meat supplies to maintain inventories.,0.50,ordering supplies partly digital partly physical
+8788,Butchers and Meat Cutters,"Shape, lace, and tie roasts, using boning knife, skewer, and twine.",0.00,physical shaping of roasts
+8791,Butchers and Meat Cutters,Record quantity of meat received and issued to cooks or keep records of meat sales.,0.75,record keeping of meat quantities and sales
+8790,Butchers and Meat Cutters,Supervise other butchers or meat cutters.,0.10,hands-on supervision of butchers
+8793,Butchers and Meat Cutters,"Cure, smoke, tenderize, and preserve meat.",0.00,physical curing and smoking
+8792,Butchers and Meat Cutters,Negotiate with representatives from supply companies to determine order details.,0.35,vendor negotiation needs human rapport
+8795,"Meat, Poultry, and Fish Cutters and Trimmers","Use knives, cleavers, meat saws, bandsaws, or other equipment to perform meat cutting and trimming.",0.00,physical cutting with tools
+8804,"Meat, Poultry, and Fish Cutters and Trimmers",Weigh meats and tag containers for weight and contents.,0.05,physical weighing and tagging
+8799,"Meat, Poultry, and Fish Cutters and Trimmers","Inspect meat products for defects, bruises or blemishes and remove them along with any excess fat.",0.00,physical inspection and trimming
+8797,"Meat, Poultry, and Fish Cutters and Trimmers",Cut and trim meat to prepare for packing.,0.00,physical cutting and trimming
+8803,"Meat, Poultry, and Fish Cutters and Trimmers",Separate meats and byproducts into specified containers and seal containers.,0.00,physical packaging and sealing
+8801,"Meat, Poultry, and Fish Cutters and Trimmers",Process primal parts into cuts that are ready for retail use.,0.00,physical cutting of primal parts
+8807,"Meat, Poultry, and Fish Cutters and Trimmers","Prepare ready-to-heat foods by filleting meat or fish or cutting it into bite-sized pieces, preparing and adding vegetables or applying sauces or breading.",0.00,physical food prep
+8796,"Meat, Poultry, and Fish Cutters and Trimmers","Clean, trim, slice, and section carcasses for future processing.",0.00,physical carcass processing
+8798,"Meat, Poultry, and Fish Cutters and Trimmers","Remove parts, such as skin, feathers, scales or bones, from carcass.",0.00,physical carcass processing
+8802,"Meat, Poultry, and Fish Cutters and Trimmers",Obtain and distribute specified meat or carcass.,0.00,physical distribution of meat
+8800,"Meat, Poultry, and Fish Cutters and Trimmers",Produce hamburger meat and meat trimmings.,0.00,physical grinding
+8805,"Meat, Poultry, and Fish Cutters and Trimmers",Clean and salt hides.,0.00,physical hide cleaning
+13986,Slaughterers and Meat Packers,"Remove bones, and cut meat into standard cuts in preparation for marketing.",0.00,physical meat cutting
+13991,Slaughterers and Meat Packers,Sever jugular veins to drain blood and facilitate slaughtering.,0.00,physical slaughtering
+13990,Slaughterers and Meat Packers,"Tend assembly lines, performing a few of the many cuts needed to process a carcass.",0.00,physical assembly line cutting
+13994,Slaughterers and Meat Packers,Shackle hind legs of animals to raise them for slaughtering or skinning.,0.00,physical animal handling
+13989,Slaughterers and Meat Packers,"Slit open, eviscerate, and trim carcasses of slaughtered animals.",0.00,physical evisceration
+13999,Slaughterers and Meat Packers,Stun animals prior to slaughtering.,0.00,physical stunning of animals
+13995,Slaughterers and Meat Packers,Skin sections of animals or whole animals.,0.00,physical skinning
+13987,Slaughterers and Meat Packers,"Cut, trim, skin, sort, and wash viscera of slaughtered animals to separate edible portions from offal.",0.00,physical processing of viscera
+13992,Slaughterers and Meat Packers,"Shave or singe and defeather carcasses, and wash them in preparation for further processing or packaging.",0.00,physical carcass preparation
+13997,Slaughterers and Meat Packers,"Saw, split, or scribe carcasses into smaller portions to facilitate handling.",0.00,physical carcass sawing
+13996,Slaughterers and Meat Packers,"Trim head meat, and sever or remove parts of animals' heads or skulls.",0.00,physical head trimming
+13998,Slaughterers and Meat Packers,"Grind meat into hamburger, and into trimmings used to prepare sausages, luncheon meats, and other meat products.",0.00,physical meat grinding
+13993,Slaughterers and Meat Packers,"Trim, clean, or cure animal hides.",0.00,physical hide processing
+14000,Slaughterers and Meat Packers,Wrap dressed carcasses or meat cuts.,0.00,physical wrapping
+10058,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders","Observe, feel, taste, or otherwise examine products during and after processing to ensure conformance to standards.",0.00,physical sensory examination of product
+10061,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders","Set temperature and time controls, light ovens, burners, driers, or roasters, and start equipment, such as conveyors, cylinders, blowers, driers, or pumps.",0.00,physical equipment operation
+10059,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders","Observe temperature, humidity, pressure gauges, and product samples and adjust controls, such as thermostats and valves, to maintain prescribed operating conditions for specific stages.",0.15,gauge monitoring and control adjustment on-site
+10062,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders","Observe flow of materials and listen for machine malfunctions, such as jamming or spillage, and notify supervisors if corrective actions fail.",0.08,physical presence needed to observe and listen
+10063,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders","Record production data, such as weight and amount of product processed, type of product, and time and temperature of processing.",0.70,production data logging
+10064,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders","Weigh or measure products, using scale hoppers or scale conveyors.",0.00,physical weighing of products

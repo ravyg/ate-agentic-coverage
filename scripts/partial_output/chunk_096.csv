@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+23121,Fast Food and Counter Workers,"Set up dining areas for meals, and clear them following meals.",0.02,physical dining area setup
+23111,Fast Food and Counter Workers,Collect and return dirty dishes to the kitchen for washing.,0.02,physical dish collection
+23101,Fast Food and Counter Workers,"Scrub and polish counters, steam tables, and other equipment, and clean glasses, dishes, and fountain equipment.",0.02,physical scrubbing and cleaning
+23123,Fast Food and Counter Workers,"Deliver orders to kitchens, and pick up and serve food when it is ready.",0.02,physical food delivery
+23118,Fast Food and Counter Workers,"Perform personnel activities, such as supervising and training employees.",0.15,in-person supervision and training
+23122,Fast Food and Counter Workers,"Add relishes and garnishes to food orders, according to instructions.",0.02,physical food garnishing
+23120,Fast Food and Counter Workers,Distribute food to servers.,0.02,physical food distribution
+23116,Fast Food and Counter Workers,"Select food items from serving or storage areas and place them in dishes, on serving trays, or in take-out bags.",0.02,physical food plating
+23114,Fast Food and Counter Workers,Notify kitchen personnel of shortages or special orders.,0.15,requires physical observation to notify
+23119,Fast Food and Counter Workers,"Take customers' orders and write ordered items on tickets, giving ticket stubs to customers when needed to identify filled orders.",0.15,in-person order taking and ticket handoff
+23125,Fast Food and Counter Workers,"Plan, prepare, and deliver meals to individuals with special dietary needs.",0.10,planning aided but prep and delivery are physical
+23117,Fast Food and Counter Workers,Replenish foods at serving stations.,0.02,physical restocking
+23112,Fast Food and Counter Workers,"Wash dishes, glassware, and silverware after meals.",0.02,physical dishwashing
+23124,Fast Food and Counter Workers,Arrange tables and decorations according to instructions.,0.02,physical table arranging
+17588,Baristas,Receive and process customer payments.,0.10,in-person payment handling
+17581,Baristas,"Prepare or serve hot or cold beverages, such as coffee, espresso drinks, blended coffees, or teas.",0.02,physical beverage prep
+17591,Baristas,Take customer orders and convey them to other employees for preparation.,0.15,in-person order taking
+17582,Baristas,"Clean or sanitize work areas, utensils, or equipment.",0.02,physical cleaning
+17585,Baristas,"Describe menu items to customers, or suggest products that might appeal to them.",0.15,in-person menu description
+17583,Baristas,Clean service or seating areas.,0.02,physical cleaning
+17589,Baristas,"Serve prepared foods, such as muffins, biscotti, or bagels.",0.02,physical food serving
+17597,Baristas,"Prepare or serve menu items, such as sandwiches or salads.",0.02,physical food prep
+17598,Baristas,Set up or restock product displays.,0.02,physical display restocking
+17593,Baristas,"Weigh, grind, or pack coffee beans for customers.",0.02,physical weighing and packing
+17590,Baristas,Stock customer service stations with paper products or beverage preparation items.,0.02,physical stocking
+17594,Baristas,"Wrap, label, or date food items for sale.",0.02,physical wrapping and labeling
+17587,Baristas,"Provide customers with product details, such as coffee blend or preparation descriptions.",0.15,in-person product description
+17592,Baristas,Take out garbage.,0.02,physical trash removal
+17586,Baristas,"Order, receive, or stock supplies or retail products.",0.20,ordering can be digital but receiving and stocking are physical
+17599,Baristas,"Slice fruits, vegetables, desserts, or meats for use in food service.",0.02,physical food slicing
+17584,Baristas,"Check temperatures of freezers, refrigerators, or heating equipment to ensure proper functioning.",0.10,physical equipment check without sensor access
+17596,Baristas,"Demonstrate the use of retail equipment, such as espresso machines.",0.02,physical equipment demonstration
+17595,Baristas,Create signs to advertise store products or events.,0.85,pure content and design creation
+2276,Waiters and Waitresses,Collect payments from customers.,0.10,in-person payment collection
+2275,Waiters and Waitresses,Check patrons' identification to ensure that they meet minimum age requirements for consumption of alcoholic beverages.,0.05,requires physical id check and legal responsibility
+2277,Waiters and Waitresses,"Write patrons' food orders on order slips, memorize orders, or enter orders into computers for transmittal to kitchen staff.",0.20,order entry partly digital but taking order is in person
+2279,Waiters and Waitresses,"Check with customers to ensure that they are enjoying their meals, and take action to correct any problems.",0.10,in-person rapport and service recovery
+2278,Waiters and Waitresses,Take orders from patrons for food or beverages.,0.15,in-person order taking
+2281,Waiters and Waitresses,Prepare checks that itemize and total meal costs and sales taxes.,0.75,mostly computation of totals and taxes
+18745,Waiters and Waitresses,"Remove dishes and glasses from tables or counters, and take them to kitchen for cleaning.",0.02,physical dish removal
+2285,Waiters and Waitresses,Clean tables or counters after patrons have finished dining.,0.02,physical table cleaning
+2280,Waiters and Waitresses,"Serve food or beverages to patrons, and prepare or serve specialty dishes at tables as required.",0.02,physical food serving
+18747,Waiters and Waitresses,"Perform cleaning duties, such as sweeping and mopping floors, vacuuming carpet, tidying up server station, taking out trash, or checking and cleaning bathroom.",0.02,physical cleaning duties
+2283,Waiters and Waitresses,"Present menus to patrons and answer questions about menu items, making recommendations upon request.",0.15,in-person menu presentation and recommendations
+2288,Waiters and Waitresses,"Prepare tables for meals, including setting up items such as linens, silverware, and glassware.",0.02,physical table setup
+2290,Waiters and Waitresses,"Stock service areas with supplies such as coffee, food, tableware, and linens.",0.02,physical stocking
+18744,Waiters and Waitresses,"Roll silverware, set up food stations, or set up dining areas to prepare for the next shift or for large parties.",0.02,physical station setup
+2284,Waiters and Waitresses,Inform customers of daily specials.,0.15,in-person communication of specials
+2287,Waiters and Waitresses,"Explain how various menu items are prepared, describing ingredients and cooking methods.",0.15,in-person menu explanation
+18746,Waiters and Waitresses,"Assist host or hostess by answering phones to take reservations or to-go orders, and by greeting, seating, and thanking guests.",0.35,phone reservations automatable but greeting and seating are physical
+2292,Waiters and Waitresses,"Fill salt, pepper, sugar, cream, condiment, and napkin containers.",0.02,physical container filling
+2289,Waiters and Waitresses,"Perform food preparation duties, such as preparing salads, appetizers, and cold dishes, portioning desserts, and brewing coffee.",0.02,physical food prep
+2286,Waiters and Waitresses,"Prepare hot, cold, and mixed drinks for patrons, and chill bottles of wine.",0.02,physical drink prep
+2293,Waiters and Waitresses,Escort customers to their tables.,0.02,physical escorting
+18748,Waiters and Waitresses,"Provide guests with information about local areas, including directions.",0.15,in-person guest information delivery
+2291,Waiters and Waitresses,Garnish and decorate dishes in preparation for serving.,0.02,physical garnishing
+2295,Waiters and Waitresses,"Bring wine selections to tables with appropriate glasses, and pour the wines for customers.",0.02,physical wine service
+2294,Waiters and Waitresses,Describe and recommend wines to customers.,0.15,in-person wine recommendation and delivery
+11152,"Food Servers, Nonrestaurant",Place food servings on plates or trays according to orders or instructions.,0.02,physical plating
+11150,"Food Servers, Nonrestaurant","Clean or sterilize dishes, kitchen utensils, equipment, or facilities.",0.02,physical cleaning
+11149,"Food Servers, Nonrestaurant","Monitor food distribution, ensuring that meals are delivered to the correct recipients and that guidelines, such as those for special diets, are followed.",0.10,requires physical monitoring of delivery
+11151,"Food Servers, Nonrestaurant",Examine trays to ensure that they contain required items.,0.05,physical tray inspection
+11153,"Food Servers, Nonrestaurant","Load trays with accessories, such as eating utensils, napkins, or condiments.",0.02,physical tray loading
+11154,"Food Servers, Nonrestaurant",Take food orders and relay orders to kitchens or serving counters so they can be filled.,0.15,in-person order taking and relay
+11158,"Food Servers, Nonrestaurant",Monitor food preparation or serving techniques to ensure that proper procedures are followed.,0.10,physical oversight of preparation
+11156,"Food Servers, Nonrestaurant",Remove trays and stack dishes for return to kitchen after meals are finished.,0.02,physical tray removal
+11159,"Food Servers, Nonrestaurant","Carry food, silverware, or linen on trays or use carts to carry trays.",0.02,physical carrying
+11161,"Food Servers, Nonrestaurant",Record amounts and types of special food items served to customers.,0.15,requires physical observation to record
+11155,"Food Servers, Nonrestaurant","Stock service stations with items, such as ice, napkins, or straws.",0.02,physical stocking
+11157,"Food Servers, Nonrestaurant","Prepare food items, such as sandwiches, salads, soups, or beverages.",0.02,physical food prep
+11160,"Food Servers, Nonrestaurant",Determine where patients or patrons would like to eat their meals and help them get situated.,0.05,physical assistance seating patrons
+11162,"Food Servers, Nonrestaurant","Total checks, present them to customers, and accept payment for services.",0.30,totaling is computable but presenting and accepting payment is physical
+11178,Dining Room and Cafeteria Attendants and Bartender Helpers,Run cash registers.,0.05,in-person register operation
+11169,Dining Room and Cafeteria Attendants and Bartender Helpers,"Serve ice water, coffee, rolls, or butter to patrons.",0.02,physical serving
+11165,Dining Room and Cafeteria Attendants and Bartender Helpers,Scrape and stack dirty dishes and carry dishes and other tableware to kitchens for cleaning.,0.02,physical dish scraping
+11163,Dining Room and Cafeteria Attendants and Bartender Helpers,Wipe tables or seats with dampened cloths or replace dirty tablecloths.,0.02,physical wiping
+11164,Dining Room and Cafeteria Attendants and Bartender Helpers,"Set tables with clean linens, condiments, or other supplies.",0.02,physical table setting
+23929,Dining Room and Cafeteria Attendants and Bartender Helpers,Greet and seat customers.,0.02,physical greeting and seating
+11166,Dining Room and Cafeteria Attendants and Bartender Helpers,Clean up spilled food or drink or broken dishes and remove empty bottles and trash.,0.02,physical cleanup
+11168,Dining Room and Cafeteria Attendants and Bartender Helpers,"Maintain adequate supplies of items, such as clean linens, silverware, glassware, dishes, or trays.",0.05,requires physical stock checking
+11172,Dining Room and Cafeteria Attendants and Bartender Helpers,Locate items requested by customers.,0.05,physical search for items
+11170,Dining Room and Cafeteria Attendants and Bartender Helpers,Fill beverage or ice dispensers.,0.02,physical filling
+11173,Dining Room and Cafeteria Attendants and Bartender Helpers,"Carry food, dishes, trays, or silverware from kitchens or supply departments to serving counters.",0.02,physical carrying
+11167,Dining Room and Cafeteria Attendants and Bartender Helpers,"Perform serving, cleaning, or stocking duties in establishments, such as cafeterias or dining rooms, to facilitate customer service.",0.02,physical serving and stocking
+11176,Dining Room and Cafeteria Attendants and Bartender Helpers,Carry trays from food counters to tables for cafeteria patrons.,0.02,physical tray carrying
+11171,Dining Room and Cafeteria Attendants and Bartender Helpers,Stock cabinets or serving areas with condiments and refill condiment containers.,0.02,physical stocking
+11174,Dining Room and Cafeteria Attendants and Bartender Helpers,Serve food to customers when waiters or waitresses need assistance.,0.02,physical serving
+11175,Dining Room and Cafeteria Attendants and Bartender Helpers,"Clean and polish counters, shelves, walls, furniture, or equipment in food service areas or other areas of restaurants and mop or vacuum floors.",0.02,physical cleaning
+11177,Dining Room and Cafeteria Attendants and Bartender Helpers,Replenish supplies of food or equipment at steam tables or service bars.,0.02,physical replenishing
+11179,Dining Room and Cafeteria Attendants and Bartender Helpers,Wash glasses or other serving equipment at bars.,0.02,physical washing
+11181,Dining Room and Cafeteria Attendants and Bartender Helpers,Carry linens to or from laundry areas.,0.02,physical carrying
+11180,Dining Room and Cafeteria Attendants and Bartender Helpers,Garnish foods and position them on tables to make them visible and accessible.,0.02,physical garnishing and plating
+11183,Dining Room and Cafeteria Attendants and Bartender Helpers,Mix and prepare flavors for mixed drinks.,0.02,physical drink mixing
+11184,Dining Room and Cafeteria Attendants and Bartender Helpers,Slice and pit fruit used to garnish drinks.,0.02,physical fruit slicing
+11182,Dining Room and Cafeteria Attendants and Bartender Helpers,Stock refrigerating units with wines or bottled beer or replace empty beer kegs.,0.02,physical stocking
+11186,Dishwashers,"Wash dishes, glassware, flatware, pots, or pans, using dishwashers or by hand.",0.02,physical dishwashing
+11188,Dishwashers,"Maintain kitchen work areas, equipment, or utensils in clean and orderly condition.",0.02,physical maintenance
+11187,Dishwashers,"Place clean dishes, utensils, or cooking equipment in storage areas.",0.02,physical storage placement
+11190,Dishwashers,Sweep or scrub floors.,0.02,physical sweeping
+11189,Dishwashers,"Stock supplies, such as food or utensils, in serving stations, cupboards, refrigerators, or salad bars.",0.02,physical stocking
+11193,Dishwashers,Clean or prepare various foods for cooking or serving.,0.02,physical food prep
+11192,Dishwashers,"Sort and remove trash, placing it in designated pickup areas.",0.02,physical trash sorting
+11195,Dishwashers,"Transfer supplies or equipment between storage and work areas, by hand or using hand trucks.",0.02,physical transfer of supplies
+11196,Dishwashers,Receive and store supplies.,0.05,physical receiving and storing
+11191,Dishwashers,Clean garbage cans with water or steam.,0.02,physical can cleaning
+11198,Dishwashers,Load or unload trucks that deliver or pick up food or supplies.,0.02,physical loading and unloading
+11197,Dishwashers,Prepare and package individual place settings.,0.02,physical place setting prep
+11194,Dishwashers,Set up banquet tables.,0.02,physical table setup
+2296,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Provide guests with menus.,0.02,physical menu handoff
+2297,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Greet guests and seat them at tables or in waiting areas.,0.02,physical greeting and seating
+2302,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop","Maintain contact with kitchen staff, management, serving staff, and customers to ensure that dining details are handled properly and customers' concerns are addressed.",0.15,in-person coordination across staff and guests
+18749,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Assign patrons to tables suitable for their needs and according to rotation so that servers receive an appropriate number of seatings.,0.20,assignment logic doable but needs live floor data
+18750,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop","Speak with patrons to ensure satisfaction with food and service, to respond to complaints, or to make conversation.",0.10,in-person rapport and complaint handling
+18752,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Inspect dining and serving areas to ensure cleanliness and proper setup.,0.02,physical inspection
+2307,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Supervise and coordinate activities of dining room staff to ensure that patrons receive prompt and courteous service.,0.10,in-person supervision requiring authority
+18751,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Answer telephone calls and respond to inquiries or transfer calls.,0.75,phone based communication fully agent doable
+21070,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop","Assist other restaurant workers by serving food and beverages, or by bussing tables.",0.02,physical serving and bussing
+18753,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop","Inspect restrooms for cleanliness and availability of supplies, and clean restrooms when necessary.",0.02,physical inspection and cleaning
+18754,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Take and prepare to-go orders.,0.15,order taking partly digital but preparation physical
+2303,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Inform patrons of establishment specialties and features.,0.15,in-person communication
+2301,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Receive and record patrons' dining reservations.,0.75,reservation taking is administrative and remote doable
+2305,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Operate cash registers to accept payments for food and beverages.,0.05,in-person register operation
+2304,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop","Direct patrons to coatrooms and waiting areas, such as lounges.",0.02,physical directing of patrons
+2306,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop","Prepare cash receipts after establishments close, and make bank deposits.",0.05,cash handling and physical bank deposit
+2309,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Order or requisition supplies and equipment for tables and serving stations.,0.55,supply ordering is largely administrative
+2310,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop","Hire, train, and supervise food and beverage service staff.",0.15,hiring and supervision require human authority
+2312,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Confer with other staff to help plan establishments' menus.,0.30,menu input possible but conferring requires presence
+2313,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Perform marketing and advertising services.,0.75,marketing content creation is largely digital
+9533,First-Line Supervisors of Housekeeping and Janitorial Workers,"Supervise in-house services, such as laundries, maintenance and repair, dry cleaning, or valet services.",0.15,supervision requires authority and presence
+9520,First-Line Supervisors of Housekeeping and Janitorial Workers,"Select the most suitable cleaning materials for different types of linens, furniture, flooring, and surfaces.",0.80,materials selection is a knowledge based recommendation

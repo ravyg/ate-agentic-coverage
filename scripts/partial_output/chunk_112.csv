@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+8303,"Rotary Drill Operators, Oil and Gas",Start and examine operation of slush pumps to ensure circulation and consistency of drilling fluid or mud in well.,0.05,physical on-site pump monitoring
+8304,"Rotary Drill Operators, Oil and Gas","Locate and recover lost or broken bits, casings, and drill pipes from wells, using special tools.",0.03,physical retrieval with special tools
+8305,"Rotary Drill Operators, Oil and Gas","Weigh clay, and mix with water and chemicals to make drilling mud.",0.03,physical mixing of drilling mud
+8306,"Rotary Drill Operators, Oil and Gas","Direct rig crews in drilling and other activities, such as setting up rigs and completing or servicing wells.",0.10,on-site crew direction and authority
+8307,"Rotary Drill Operators, Oil and Gas","Monitor progress of drilling operations, and select and change drill bits according to the nature of strata, using hand tools.",0.05,physical drill bit operation on site
+8308,"Rotary Drill Operators, Oil and Gas","Repair or replace defective parts of machinery, such as rotary drill rigs, water trucks, air compressors, and pumps, using hand tools.",0.03,physical machinery repair
+8309,"Rotary Drill Operators, Oil and Gas","Clean and oil pulleys, blocks, and cables.",0.02,physical cleaning and lubrication
+8310,"Rotary Drill Operators, Oil and Gas","Bolt together pump and engine parts, and connect tanks and flow lines.",0.02,physical assembly of parts
+8311,"Rotary Drill Operators, Oil and Gas",Remove core samples during drilling to determine the nature of the strata being drilled.,0.03,physical core sample removal
+8312,"Rotary Drill Operators, Oil and Gas","Cap wells with packers, or turn valves, to regulate outflow of oil from wells.",0.03,physical valve and packer operation
+8313,"Rotary Drill Operators, Oil and Gas","Line drilled holes with pipes, and install all necessary hardware, to prepare new wells.",0.02,physical pipe installation
+8314,"Rotary Drill Operators, Oil and Gas",Position and prepare truck-mounted derricks at drilling areas specified on field maps.,0.02,physical derrick positioning on site
+8315,"Rotary Drill Operators, Oil and Gas","Plug observation wells, and restore sites.",0.03,physical well plugging and site restoration
+20451,"Service Unit Operators, Oil and Gas",Maintain and perform safety inspections on equipment and tools.,0.05,physical safety inspection of equipment
+7080,"Service Unit Operators, Oil and Gas",Operate controls that raise derricks or level rigs.,0.02,physical rig control operation
+20452,"Service Unit Operators, Oil and Gas","Listen to engines, rotary chains, or other equipment to detect faulty operations or unusual well conditions.",0.05,on-site listening for equipment faults
+7083,"Service Unit Operators, Oil and Gas","Prepare reports of services rendered, tools used, or time required, for billing purposes.",0.80,administrative report writing from records
+7076,"Service Unit Operators, Oil and Gas",Install pressure-control devices onto wellheads.,0.02,physical wellhead device installation
+7074,"Service Unit Operators, Oil and Gas",Confer with others to gather information regarding pipe or tool sizes or borehole conditions in wells.,0.30,info gathering but usually on-site conferring
+7078,"Service Unit Operators, Oil and Gas","Operate pumps that circulate water, oil, or other fluids through wells to remove sand or other materials obstructing the free flow of oil.",0.02,physical pump operation
+7075,"Service Unit Operators, Oil and Gas",Drive truck-mounted units to well sites.,0.00,physical driving to well sites
+7088,"Service Unit Operators, Oil and Gas",Interpret instrument readings to ascertain the depth of obstruction.,0.55,interpreting instrument readings is data analysis
+7077,"Service Unit Operators, Oil and Gas","Thread cables through derrick pulleys, using hand tools.",0.02,physical cable threading
+7085,"Service Unit Operators, Oil and Gas","Select fishing methods or tools for removing obstacles such as liners, broken casing, screens, or drill pipe.",0.40,advisory selection of fishing tools and methods
+7079,"Service Unit Operators, Oil and Gas",Close and seal wells no longer in use.,0.02,physical well sealing
+7081,"Service Unit Operators, Oil and Gas","Direct drilling crews performing activities such as assembling and connecting pipe, applying weights to drill pipes, or drilling around lodged obstacles.",0.08,on-site crew direction
+19874,"Service Unit Operators, Oil and Gas","Apply green technologies or techniques, such as the use of coiled tubing, slim-hole drilling, horizontal drilling, hydraulic fracturing, or gas lift systems.",0.03,physical application of drilling techniques
+7084,"Service Unit Operators, Oil and Gas",Operate specialized equipment to remove obstructions by backing off or severing pipes by chemical or explosive action.,0.02,physical hazardous equipment operation
+7082,"Service Unit Operators, Oil and Gas",Perforate well casings or sidewalls of boreholes with explosive charges.,0.02,physical explosive perforation work
+7086,"Service Unit Operators, Oil and Gas",Examine unserviceable wells to determine actions to be taken to improve well conditions.,0.15,requires on-site examination to determine actions
+7089,"Service Unit Operators, Oil and Gas",Monitor sound wave-generating or detecting mechanisms to determine well fluid levels.,0.15,mostly on-site sensor monitoring
+7087,"Service Unit Operators, Oil and Gas",Insert detection instruments into wells with obstructions.,0.02,physical instrument insertion into wells
+12777,"Excavating and Loading Machine and Dragline Operators, Surface Mining","Move levers, depress foot pedals, and turn dials to operate power machinery, such as power shovels, stripping shovels, scraper loaders, or backhoes.",0.00,physical machine operation
+12778,"Excavating and Loading Machine and Dragline Operators, Surface Mining",Set up or inspect equipment prior to operation.,0.02,physical equipment setup and inspection
+12780,"Excavating and Loading Machine and Dragline Operators, Surface Mining","Become familiar with digging plans, machine capabilities and limitations, and efficient and safe digging procedures in a given application.",0.60,reviewing plans and machine specs is info work
+12779,"Excavating and Loading Machine and Dragline Operators, Surface Mining","Observe hand signals, grade stakes, or other markings when operating machines so that work can be performed to specifications.",0.02,physical machine operation guided by signals
+12781,"Excavating and Loading Machine and Dragline Operators, Surface Mining","Operate machinery to perform activities such as backfilling excavations, vibrating or breaking rock or concrete, or making winter roads.",0.00,physical machinery operation
+12786,"Excavating and Loading Machine and Dragline Operators, Surface Mining",Receive written or oral instructions regarding material movement or excavation.,0.60,receiving written or oral instructions is info task
+12784,"Excavating and Loading Machine and Dragline Operators, Surface Mining","Move materials over short distances, such as around a construction site, factory, or warehouse.",0.00,physical material movement via machinery
+20458,"Excavating and Loading Machine and Dragline Operators, Surface Mining",Create or maintain inclines or ramps.,0.02,physical construction of inclines
+12783,"Excavating and Loading Machine and Dragline Operators, Surface Mining","Lubricate, adjust, or repair machinery and replace parts, such as gears, bearings, or bucket teeth.",0.02,physical machinery repair
+20459,"Excavating and Loading Machine and Dragline Operators, Surface Mining","Handle slides, mud, or pit cleanings or maintenance.",0.02,physical site cleanup
+12791,"Excavating and Loading Machine and Dragline Operators, Surface Mining",Direct workers engaged in placing blocks or outriggers to prevent capsizing of machines when lifting heavy loads.,0.05,on-site direction of safety placement
+12785,"Excavating and Loading Machine and Dragline Operators, Surface Mining","Measure and verify levels of rock or gravel, bases, or other excavated material.",0.05,physical on-site measurement
+12790,"Excavating and Loading Machine and Dragline Operators, Surface Mining","Direct ground workers engaged in activities such as moving stakes or markers, or changing positions of towers.",0.05,on-site direction of ground workers
+12787,"Excavating and Loading Machine and Dragline Operators, Surface Mining",Adjust dig face angles for varying overburden depths and set lengths.,0.05,physical machine adjustment decisions on site
+12788,"Excavating and Loading Machine and Dragline Operators, Surface Mining",Drive machines to work sites.,0.00,physical driving to work sites
+12789,"Excavating and Loading Machine and Dragline Operators, Surface Mining","Perform manual labor to prepare or finish sites, such as shoveling materials by hand.",0.00,manual physical labor
+13673,"Earth Drillers, Except Oil and Gas",Operate controls to stabilize machines and to position and align drills.,0.00,physical drill control operation
+13671,"Earth Drillers, Except Oil and Gas","Start, stop, and control drilling speed of machines and insertion of casings into holes.",0.00,physical drilling machine control
+13668,"Earth Drillers, Except Oil and Gas","Regulate air pressure, rotary speed, and downward pressure, according to the type of rock or concrete being drilled.",0.05,physical on-site pressure regulation
+13674,"Earth Drillers, Except Oil and Gas","Select and attach drill bits and drill rods, adding more rods as hole depths increase, and changing drill bits as needed.",0.02,physical bit and rod attachment
+13677,"Earth Drillers, Except Oil and Gas","Drive or guide truck-mounted equipment into position, level and stabilize rigs, and extend telescoping derricks.",0.00,physical driving and rig positioning
+13676,"Earth Drillers, Except Oil and Gas",Operate machines to flush earth cuttings or to blow dust from holes.,0.00,physical machine operation
+13669,"Earth Drillers, Except Oil and Gas",Verify depths and alignments of boring positions.,0.08,physical on-site depth verification
+13678,"Earth Drillers, Except Oil and Gas","Perform routine maintenance and upgrade work on machines and equipment, such as replacing parts, building up drill bits, and lubricating machinery.",0.02,physical maintenance work
+13672,"Earth Drillers, Except Oil and Gas","Select the appropriate drill for the job, using knowledge of rock or soil conditions.",0.55,drill selection is a knowledge-based decision
+13686,"Earth Drillers, Except Oil and Gas",Document geological formations encountered during work.,0.30,requires on-site observation before documenting
+13679,"Earth Drillers, Except Oil and Gas","Drive trucks, tractors, or truck-mounted drills to and from work sites.",0.00,physical driving to work sites
+13682,"Earth Drillers, Except Oil and Gas","Assemble and position machines, augers, casing pipes, and other equipment, using hand and power tools.",0.02,physical equipment assembly
+13680,"Earth Drillers, Except Oil and Gas",Record drilling progress and geological data.,0.30,requires on-site data collection before recording
+13681,"Earth Drillers, Except Oil and Gas","Retrieve lost equipment from bore holes, using retrieval tools and equipment.",0.02,physical equipment retrieval
+13696,"Earth Drillers, Except Oil and Gas",Fabricate well casings.,0.02,physical fabrication of casings
+13683,"Earth Drillers, Except Oil and Gas","Pour water into wells, or pump water or slush into wells to cool drill bits and to remove drillings.",0.00,physical pouring and pumping into wells
+21016,"Earth Drillers, Except Oil and Gas",Create and lay out designs for drill and blast patterns.,0.55,drill and blast pattern design is planning work
+13689,"Earth Drillers, Except Oil and Gas","Place and install screens, casings, pumps, and other well fixtures to develop wells.",0.02,physical installation of well fixtures
+13684,"Earth Drillers, Except Oil and Gas","Operate water-well drilling rigs and other equipment to drill, bore, and dig for water wells or for environmental assessment purposes.",0.00,physical drilling rig operation
+13692,"Earth Drillers, Except Oil and Gas","Review client requirements and proposed locations for drilling operations to determine feasibility, and to determine cost estimates.",0.65,requirements review and cost estimation is info work
+13675,"Earth Drillers, Except Oil and Gas","Drill or bore holes in rock for blasting, grouting, anchoring, or building foundations.",0.00,physical drilling operation
+13685,"Earth Drillers, Except Oil and Gas",Perform pumping tests to assess well performance.,0.03,physical field pumping test
+13691,"Earth Drillers, Except Oil and Gas","Disinfect, reconstruct, and redevelop contaminated wells and water pumping systems, and clean and disinfect new wells in preparation for use.",0.02,physical well disinfection and reconstruction
+13690,"Earth Drillers, Except Oil and Gas",Design well pumping systems.,0.55,pumping system design is engineering computation
+13694,"Earth Drillers, Except Oil and Gas",Signal crane operators to move equipment.,0.02,on-site physical signaling
+13687,"Earth Drillers, Except Oil and Gas","Withdraw drill rods from holes, and extract core samples.",0.02,physical rod withdrawal and sampling
+13695,"Earth Drillers, Except Oil and Gas","Inspect core samples to determine nature of strata, or take samples to laboratories for analysis.",0.15,mostly physical sample handling and inspection
+13688,"Earth Drillers, Except Oil and Gas",Retract augers to force discharge dirt from holes.,0.00,physical auger operation
+23489,"Earth Drillers, Except Oil and Gas","Monitor drilling operations, by checking gauges and listening to equipment to assess drilling conditions and to determine the need to adjust drilling or alter equipment.",0.10,on-site gauge checking and listening
+9904,"Explosives Workers, Ordnance Handling Experts, and Blasters",Examine blast areas to determine amounts and kinds of explosive charges needed and to ensure that safety laws are observed.,0.03,physical site examination and licensed safety authority
+9905,"Explosives Workers, Ordnance Handling Experts, and Blasters",Tie specified lengths of delaying fuses into patterns in order to time sequences of explosions.,0.00,physical fuse tying
+9906,"Explosives Workers, Ordnance Handling Experts, and Blasters","Place safety cones around blast areas to alert other workers of danger zones, and signal workers as necessary to ensure that they clear blast sites prior to explosions.",0.00,physical placement of safety cones
+9907,"Explosives Workers, Ordnance Handling Experts, and Blasters","Place explosive charges in holes or other spots; then detonate explosives to demolish structures or to loosen, remove, or displace earth, rock, or other materials.",0.00,"physical hazardous explosive placement, licensed work"
+9908,"Explosives Workers, Ordnance Handling Experts, and Blasters","Insert, pack, and pour explosives, such as dynamite, ammonium nitrate, black powder, or slurries into blast holes; then shovel drill cuttings, admit water into boreholes, and tamp material to compact charges.",0.00,physical explosive handling
+9909,"Explosives Workers, Ordnance Handling Experts, and Blasters","Mark patterns, locations, and depths of charge holes for drilling, and issue drilling instructions.",0.05,mostly physical marking with some instruction issuing
+9910,"Explosives Workers, Ordnance Handling Experts, and Blasters",Compile and keep gun and explosives records in compliance with local and federal laws.,0.55,recordkeeping is info work though compliance needs accountability
+9911,"Explosives Workers, Ordnance Handling Experts, and Blasters","Measure depths of drilled blast holes, using weighted tape measures.",0.00,physical measurement with tape measure
+9912,"Explosives Workers, Ordnance Handling Experts, and Blasters","Connect electrical wire to primers, and cover charges or fill blast holes with clay, drill chips, sand, or other material.",0.00,physical wiring and charge covering
+9913,"Explosives Workers, Ordnance Handling Experts, and Blasters","Lay primacord between rows of charged blast holes, and tie cord into main lines to form blast patterns.",0.00,physical primacord laying
+9914,"Explosives Workers, Ordnance Handling Experts, and Blasters","Assemble and position equipment, explosives, and blasting caps in holes at specified depths, or load perforating guns or torpedoes with explosives.",0.00,physical explosive assembly and positioning
+9915,"Explosives Workers, Ordnance Handling Experts, and Blasters","Verify detonation of charges by observing control panels, or by listening for the sounds of blasts.",0.08,safety-critical on-site verification
+9916,"Explosives Workers, Ordnance Handling Experts, and Blasters","Move and store inventories of explosives, loaded perforating guns, and other materials, according to established safety procedures.",0.00,physical inventory handling
+9917,"Explosives Workers, Ordnance Handling Experts, and Blasters","Light fuses, drop detonating devices into wells or boreholes, or activate firing devices with plungers, dials, or buttons, in order to set off single or multiple blasts.",0.00,physical licensed detonation act
+9918,"Explosives Workers, Ordnance Handling Experts, and Blasters",Drive trucks to transport explosives and blasting equipment to blasting sites.,0.00,physical driving of hazardous materials
+9919,"Explosives Workers, Ordnance Handling Experts, and Blasters",Cut specified lengths of primacord and attach primers to cord ends.,0.00,physical primacord cutting
+9920,"Explosives Workers, Ordnance Handling Experts, and Blasters","Maintain inventory levels, ordering new supplies as necessary.",0.75,inventory tracking and ordering is info and procurement work
+9922,"Explosives Workers, Ordnance Handling Experts, and Blasters","Repair and service blasting, shooting, and automotive equipment, and electrical wiring and instruments, using hand tools.",0.02,physical equipment repair
+9923,"Explosives Workers, Ordnance Handling Experts, and Blasters",Set up and operate short-wave radio or field telephone equipment to transmit and receive blast information.,0.10,physical radio setup plus on-site presence
+9924,"Explosives Workers, Ordnance Handling Experts, and Blasters","Insert waterproof sealers, bullets, and/or powder charges into guns, and screw gun ports back into place.",0.00,physical charge insertion into guns
+9925,"Explosives Workers, Ordnance Handling Experts, and Blasters","Clean, gauge, and lubricate gun ports.",0.00,physical cleaning of gun ports
+9927,"Explosives Workers, Ordnance Handling Experts, and Blasters","Lower perforating guns into wells, using hoists; then use measuring devices and instrument panels to position guns in correct positions for taking samples.",0.00,physical hoist operation and gun positioning
+23490,"Explosives Workers, Ordnance Handling Experts, and Blasters",Create and lay out designs for drill and blast patterns.,0.55,drill and blast pattern design is planning work
+23491,"Explosives Workers, Ordnance Handling Experts, and Blasters",Document geological formations encountered during work.,0.30,requires on-site observation before documenting
+23492,"Explosives Workers, Ordnance Handling Experts, and Blasters",Operate machines to flush earth cuttings or to blow dust from holes.,0.00,physical machine operation
+23493,"Explosives Workers, Ordnance Handling Experts, and Blasters","Set up and operate equipment such as hoists, jackhammers, and drills, in order to bore charge holes.",0.00,physical equipment operation to bore holes
+23494,"Explosives Workers, Ordnance Handling Experts, and Blasters",Signal crane operators to move equipment.,0.02,on-site physical signaling
+20912,Continuous Mining Machine Operators,Hang ventilation tubing and ventilation curtains to ensure that the mining face area is kept properly ventilated.,0.00,physical ventilation equipment installation
+20913,Continuous Mining Machine Operators,Conduct methane gas checks to ensure breathing quality of air.,0.02,life-safety physical gas check on site
+20914,Continuous Mining Machine Operators,Check the stability of roof and rib support systems before mining face areas.,0.02,life-safety physical structural inspection
+14956,Continuous Mining Machine Operators,Operate mining machines to gather coal and convey it to floors or shuttle cars.,0.00,physical mining machine operation
+14959,Continuous Mining Machine Operators,Drive machines into position at working faces.,0.00,physical machine driving
+14960,Continuous Mining Machine Operators,Move controls to start and regulate movement of conveyors and to start and position drill cutters or torches.,0.00,physical control operation
+14958,Continuous Mining Machine Operators,Reposition machines to make additional holes or cuts.,0.00,physical machine repositioning
+14957,Continuous Mining Machine Operators,"Determine locations, boundaries, and depths of holes or channels to be cut.",0.35,planning task partly based on mine plan data
+14961,Continuous Mining Machine Operators,Observe and listen to equipment operation to detect binding or stoppage of tools or other equipment malfunctions.,0.10,on-site listening and observation for malfunctions
+14962,Continuous Mining Machine Operators,"Repair, oil, and adjust machines, and change cutting teeth, using wrenches.",0.00,physical repair work
+14964,Continuous Mining Machine Operators,Install casings to prevent cave-ins.,0.00,physical casing installation
+19876,Continuous Mining Machine Operators,"Scrape or wash conveyors, using belt scrapers or belt washers, to minimize dust production.",0.00,physical conveyor cleaning
+14963,Continuous Mining Machine Operators,Move levers to raise and lower hydraulic safety bars supporting roofs above machines until other workers complete framing.,0.00,physical safety bar operation
+19875,Continuous Mining Machine Operators,Apply new technologies developed to minimize the environmental impact of coal mining.,0.15,mostly physical implementation of new techniques
+14965,Continuous Mining Machine Operators,Guide and assist crews laying track and resetting supports and blocking.,0.05,on-site physical guidance of crews
+4889,"Roof Bolters, Mining",Drill bolt holes into roofs at specified distances from ribs or adjacent bolts.,0.00,physical roof bolt drilling
+21017,"Roof Bolters, Mining",Pull down loose rock that cannot be supported.,0.00,physical hazardous rock removal
+4894,"Roof Bolters, Mining","Position bolting machines, and insert drill bits into chucks.",0.00,physical machine positioning
+21018,"Roof Bolters, Mining",Perform safety checks on equipment before operating.,0.02,physical safety check of equipment
+21019,"Roof Bolters, Mining",Perform tests to determine if methane gas is present.,0.02,life-safety physical gas test
+4890,"Roof Bolters, Mining","Force bolts into holes, using hydraulic mechanisms of self-propelled bolting machines.",0.00,physical bolt forcing operation
+21020,"Roof Bolters, Mining","Perform ventilation tasks, such as hanging ventilation curtains and tubes.",0.00,physical ventilation task
+21021,"Roof Bolters, Mining",Dust rocks after bolting.,0.00,physical rock dusting
+21022,"Roof Bolters, Mining","Install various types of bolts, including truss, glue, and resin bolts, traversing entire ceiling spans.",0.00,physical bolt installation
+21023,"Roof Bolters, Mining","Drill test holes and test bolts for specified tension, using torque wrenches.",0.00,physical drilling and torque testing
+4893,"Roof Bolters, Mining",Position safety jacks to support underground mine roofs until bolts can be installed.,0.00,physical safety jack positioning

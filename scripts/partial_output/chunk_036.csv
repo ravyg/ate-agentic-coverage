@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+3223,Advertising and Promotions Managers,Prepare budgets and submit estimates for program costs as part of campaign plan development.,0.85,budget drafting and cost estimation
+3243,Advertising and Promotions Managers,Contact organizations to explain services and facilities offered.,0.55,outbound relationship communication needs human rapport
+3233,Advertising and Promotions Managers,Monitor and analyze sales promotion results to determine cost effectiveness of promotion campaigns.,0.90,data analysis of campaign performance
+3229,Advertising and Promotions Managers,"Identify and develop contacts for promotional campaigns and industry programs that meet identified buyer targets, such as dealers, distributors, or consumers.",0.45,developing business contacts needs relationship building
+3239,Advertising and Promotions Managers,"Track program budgets, expenses, and campaign response rates to evaluate each campaign, based on program objectives and industry norms.",0.90,budget and metrics tracking analysis
+3234,Advertising and Promotions Managers,"Read trade journals and professional literature to stay informed on trends, innovations, and changes that affect media planning.",0.95,reading and synthesizing literature
+18586,Advertising and Promotions Managers,"Manage sales team, including setting goals, providing incentives, and evaluating employee performance.",0.20,requires managerial authority over people
+3228,Advertising and Promotions Managers,Prepare and negotiate advertising and sales contracts.,0.35,negotiation and contract execution needs authority
+3235,Advertising and Promotions Managers,Formulate plans to extend business with established accounts and to transact business as agent for advertising accounts.,0.35,acting as authorized agent needs legal authority
+3241,Advertising and Promotions Managers,Train and direct workers engaged in developing and producing advertisements.,0.30,directing human workers needs presence and authority
+3240,Advertising and Promotions Managers,"Assemble and communicate with a strong, diverse coalition of organizations or public figures, securing their cooperation, support, and action, to further campaign goals.",0.30,coalition building needs personal rapport and trust
+3236,Advertising and Promotions Managers,Provide presentation and product demonstration support during the introduction of new products and services to field staff and customers.,0.35,live product demonstrations often need physical presence
+3245,Advertising and Promotions Managers,Represent company at trade association meetings to promote products.,0.10,requires physical presence at in-person meetings
+3244,Advertising and Promotions Managers,Direct and coordinate product research and development.,0.30,directing R&D teams needs managerial authority
+21217,Advertising and Promotions Managers,Analyze marketing or sales trends to forecast future conditions.,0.90,data analysis and forecasting
+21218,Advertising and Promotions Managers,Analyze the effectiveness of marketing tactics or channels.,0.90,marketing analytics
+21219,Advertising and Promotions Managers,"Attend or participate in conferences, community events, and promotional events related to products or technologies.",0.10,requires physical attendance at events
+21220,Advertising and Promotions Managers,"Conduct research on consumer opinions and buying habits, and identify target audiences for products, services, or technologies.",0.75,consumer research and audience analysis largely data-based
+21221,Advertising and Promotions Managers,"Coordinate with marketing team members, graphic artists, and other workers to develop and implement marketing programs.",0.45,coordinating with human team members
+21222,Advertising and Promotions Managers,"Develop communications materials, advertisements, presentations, or public relations initiatives to promote awareness of products and services.",0.85,content creation for marketing materials
+21223,Advertising and Promotions Managers,"Develop comprehensive marketing strategies, using knowledge of products and technologies, markets, and regulations.",0.80,strategic planning from data and knowledge
+21224,Advertising and Promotions Managers,"Devise or evaluate methods and procedures for collecting data, such as surveys, opinion polls, and questionnaires.",0.85,designing data collection methodology
+21225,Advertising and Promotions Managers,"Maintain portfolios of marketing campaigns, strategies, and other marketing products or ideas.",0.85,portfolio documentation and organization
+951,Marketing Managers,"Identify, develop, or evaluate marketing strategy, based on knowledge of establishment objectives, market characteristics, and cost and markup factors.",0.80,strategy development from data analysis
+20709,Marketing Managers,"Formulate, direct, or coordinate marketing activities or policies to promote products or services, working with advertising or promotion managers.",0.40,coordinating and directing human managers
+952,Marketing Managers,"Evaluate the financial aspects of product development, such as budgets, expenditures, research and development appropriations, or return-on-investment and profit-loss projections.",0.90,financial analysis and projections
+950,Marketing Managers,"Develop pricing strategies, balancing firm objectives and customer satisfaction.",0.80,pricing strategy analysis
+957,Marketing Managers,Compile lists describing product or service offerings.,0.95,compiling product info lists
+954,Marketing Managers,"Direct the hiring, training, or performance evaluations of marketing or sales staff and oversee their daily activities.",0.20,hiring and personnel management needs human authority
+956,Marketing Managers,"Consult with product development personnel on product specifications, such as design, color, or packaging.",0.55,consultation involves live collaborative decision-making
+958,Marketing Managers,"Use sales forecasting or strategic planning to ensure the sale and profitability of products, lines, or services, analyzing business developments and monitoring market trends.",0.85,forecasting and trend analysis
+955,Marketing Managers,"Negotiate contracts with vendors or distributors to manage product distribution, establishing distribution networks or developing distribution strategies.",0.35,vendor negotiation needs authority and rapport
+961,Marketing Managers,"Coordinate or participate in promotional activities or trade shows, working with developers, advertisers, or production managers, to market products or services.",0.25,trade show participation needs physical presence
+963,Marketing Managers,"Initiate market research studies, or analyze their findings.",0.75,market research design and analysis
+960,Marketing Managers,"Confer with legal staff to resolve problems, such as copyright infringement or royalty sharing with outside producers or distributors.",0.35,resolving legal disputes needs human legal authority
+964,Marketing Managers,Consult with buying personnel to gain advice regarding the types of products or services expected to be in demand.,0.55,consultation with humans for advice
+19502,Marketing Managers,Consult with buying personnel to gain advice regarding environmentally sound or sustainable products.,0.55,consultation for advice gathering
+965,Marketing Managers,Conduct economic or commercial surveys to identify potential markets for products or services.,0.80,market survey research and analysis
+19505,Marketing Managers,"Recommend modifications to products, packaging, production processes, or other characteristics to improve the environmental soundness or sustainability of products.",0.85,recommendations from analysis
+962,Marketing Managers,"Advise business or other groups on local, national, or international factors affecting the buying or selling of products or services.",0.75,advisory analysis and reporting
+959,Marketing Managers,Select products or accessories to be displayed at trade or special production shows.,0.70,selecting display items via data-informed decision
+19503,Marketing Managers,Develop business cases for environmental marketing strategies.,0.85,business case writing
+19504,Marketing Managers,"Integrate environmental information into product or company marketing strategies, policies, or activities.",0.80,integrating info into strategy documents
+14,Sales Managers,Oversee regional and local sales managers and their staffs.,0.20,overseeing human staff needs managerial authority
+1,Sales Managers,Resolve customer complaints regarding sales and service.,0.55,complaint resolution mixes routine and judgment calls
+2,Sales Managers,Monitor customer preferences to determine focus of sales efforts.,0.85,customer preference data analysis
+13,Sales Managers,"Confer with potential customers regarding equipment needs, and advise customers on types of equipment to purchase.",0.55,sales consultation with customers
+5,Sales Managers,Review operational records and reports to project sales and determine profitability.,0.90,financial and operational analysis
+11,Sales Managers,"Plan and direct staffing, training, and performance evaluations to develop and control sales and service programs.",0.20,staffing and performance management needs authority
+3,Sales Managers,"Direct and coordinate activities involving sales of manufactured products, services, commodities, real estate, or other subjects of sale.",0.30,directing sales activities needs managerial authority
+4,Sales Managers,Determine price schedules and discount rates.,0.75,price setting is analytical business decision
+9,Sales Managers,Prepare budgets and approve budget expenditures.,0.45,budget approval requires accountable authority
+7,Sales Managers,Confer or consult with department heads to plan advertising services and to secure information on equipment and customer specifications.,0.50,consultation with department heads
+12,Sales Managers,Visit franchised dealers to stimulate interest in establishment or expansion of leasing programs.,0.05,requires physically visiting dealers
+10,Sales Managers,Represent company at trade association meetings to promote products.,0.10,requires physical presence at meetings
+8,Sales Managers,Advise dealers and distributors on policies and operating procedures to ensure functional effectiveness of business.,0.65,advisory communication on policies
+6,Sales Managers,"Direct, coordinate, and review sales and service accounting and record-keeping, as well as receiving and shipping.",0.40,mixes physical logistics with directing human staff
+15,Sales Managers,"Direct clerical staff to keep records of export correspondence, bid requests, and credit collections, and to maintain current information on tariffs, licenses, and restrictions.",0.45,directing clerical staff mixed with recordkeeping
+17,Sales Managers,"Assess marketing potential of new and existing store locations, considering statistics and expenditures.",0.85,location analysis from statistics
+16,Sales Managers,Direct foreign sales and service outlets of an organization.,0.25,directing foreign outlets needs managerial authority
+21226,Public Relations Managers,"Assign, supervise, and review the activities of public relations staff.",0.20,supervising staff needs managerial authority
+21227,Public Relations Managers,Confer with labor relations managers to develop internal communications that keep employees informed of company activities.,0.55,collaborative consultation with human managers
+21228,Public Relations Managers,"Design and edit promotional publications, such as brochures.",0.80,publication design and editing
+21229,Public Relations Managers,"Develop and maintain the company's corporate image and identity, which includes the use of logos and signage.",0.55,brand identity design though signage may need install
+21230,Public Relations Managers,"Develop, implement, or maintain crisis communication plans.",0.55,crisis plan drafting high but live implementation needs judgment
+21231,Public Relations Managers,"Direct activities of external agencies, establishments, or departments that develop and implement communication strategies and information programs.",0.30,directing external agencies needs managerial authority
+21232,Public Relations Managers,Draft speeches for company executives and arrange interviews and other forms of contact for them.,0.75,speech drafting and scheduling contacts
+21233,Public Relations Managers,"Establish and maintain effective working relationships with clients, government officials, and media representatives and use these relationships to develop new business opportunities.",0.20,relationship building needs personal trust and presence
+21234,Public Relations Managers,Evaluate advertising and promotion programs for compatibility with public relations efforts.,0.85,program evaluation analysis
+21235,Public Relations Managers,"Facilitate consumer relations or the relationship between parts of the company, such as the managers and employees, or different branch offices.",0.35,facilitating relationships needs interpersonal trust
+21236,Public Relations Managers,"Formulate policies and procedures related to public information programs, working with public relations executives.",0.65,policy formulation with human collaboration
+21237,Public Relations Managers,"Identify main client groups and audiences, determine the best way to communicate publicity information to them, and develop and implement a communication plan.",0.75,audience analysis and communication planning
+21238,Public Relations Managers,Maintain company archives.,0.75,archive maintenance mostly digital recordkeeping
+21239,Public Relations Managers,Manage communications budgets.,0.75,budget tracking and management
+21240,Public Relations Managers,Manage in-house communication courses.,0.45,course management needs live facilitation
+21241,Public Relations Managers,"Manage special events, such as sponsorship of races, parties introducing new products, or other activities the firm supports, to gain public attention through the media without advertising directly.",0.15,event management needs on-site physical coordination
+21242,Public Relations Managers,"Observe and report on social, economic, and political trends that might affect employers.",0.90,trend research and reporting
+21243,Public Relations Managers,"Produce films and other video products, regulate their distribution, and operate film library.",0.40,film production traditionally needs physical crews
+21244,Public Relations Managers,Respond to requests for information about employers' activities or status.,0.85,responding to information requests
+21245,Public Relations Managers,"Write interesting and effective press releases, prepare information for media kits, and develop and maintain company internet or intranet web pages.",0.90,content writing and web page maintenance
+21252,Fundraising Managers,Develop strategies to encourage new or increased contributions.,0.80,fundraising strategy development
+21258,Fundraising Managers,Manage fundraising budgets.,0.80,budget management and tracking
+21251,Fundraising Managers,Develop fundraising activity plans that maximize participation or contributions and minimize costs.,0.80,activity plan development
+21259,Fundraising Managers,"Plan and direct special events for fundraising, such as silent auctions, dances, golf events, or walks.",0.20,event direction needs physical presence
+21255,Fundraising Managers,"Establish goals for soliciting funds, develop policies for collection and safeguarding of contributions, and coordinate disbursement of funds.",0.40,fund custody and disbursement needs fiduciary accountability
+21254,Fundraising Managers,"Establish and maintain effective working relationships with clients, government officials, and media representatives and use these relationships to develop new fundraising opportunities.",0.20,relationship building needs personal trust
+21247,Fundraising Managers,Compile or develop materials to submit to granting or other funding organizations.,0.85,grant material compilation and writing
+21249,Fundraising Managers,"Contact corporate representatives, government officials, or community leaders to increase awareness of organizational causes, activities, or needs.",0.50,outreach communication with stakeholders
+21248,Fundraising Managers,"Conduct research to identify the goals, net worth, charitable donation history, or other data related to potential donors, potential investors, or general donor markets.",0.85,donor prospect research from data
+21261,Fundraising Managers,"Write interesting and effective press releases, prepare information for media kits, and develop and maintain company internet or intranet Web pages.",0.90,press release and web content writing
+21257,Fundraising Managers,Formulate policies and procedures related to fundraising programs.,0.80,policy formulation writing
+21246,Fundraising Managers,"Assign, supervise, and review the activities of fundraising staff.",0.20,staff supervision needs managerial authority
+21256,Fundraising Managers,Evaluate advertising and promotion programs for compatibility with fundraising efforts.,0.85,program evaluation analysis
+21250,Fundraising Managers,"Design and edit promotional publications, such as brochures.",0.80,publication design and editing
+21253,Fundraising Managers,"Direct activities of external agencies, establishments, or departments that develop and implement fundraising strategies and programs.",0.30,directing external agencies needs authority
+21260,Fundraising Managers,"Produce films and other video products, regulate their distribution, and operate film library.",0.40,film production traditionally needs physical crews
+21,Administrative Services Managers,Prepare and review operational reports and schedules to ensure accuracy and efficiency.,0.90,report review and analysis
+20,Administrative Services Managers,Set goals and deadlines for the department.,0.45,authoritative goal-setting needs accountable decision maker
+23,Administrative Services Managers,"Acquire, distribute and store supplies.",0.15,physical acquisition and storage of supplies
+22,Administrative Services Managers,"Analyze internal processes and recommend and implement procedural or policy changes to improve operations, such as supply changes or the disposal of records.",0.55,process analysis high but implementation needs authority
+30,Administrative Services Managers,Conduct classes to teach procedures to staff.,0.55,training delivery can be virtual but often needs human presence
+24,Administrative Services Managers,"Plan, administer, and control budgets for contracts, equipment, and supplies.",0.65,budget planning and administration
+26,Administrative Services Managers,Hire and terminate clerical and administrative personnel.,0.10,hiring or firing needs legal employment authority
+19,Administrative Services Managers,"Direct or coordinate the supportive services department of a business, agency, or organization.",0.25,directing a department needs managerial authority
+21262,Administrative Services Managers,"Communicate with and provide guidance for external vendors and service providers to ensure the organization, department, or work unit's business needs are met.",0.65,vendor communication and guidance
+21263,Administrative Services Managers,Develop operational standards and procedures for the work unit or department.,0.85,standards and procedure writing
+21264,Administrative Services Managers,Establish work procedures or schedules to organize the daily work of administrative staff.,0.70,schedule and procedure creation
+21265,Administrative Services Managers,Learn to operate new office technologies as they are developed and implemented.,0.75,learning new software tools
+21266,Administrative Services Managers,"Manage paper or electronic filing systems by recording information, updating paperwork, or maintaining documents, such as attendance records or correspondence.",0.70,records management mostly digital with some physical filing
+21267,Administrative Services Managers,"Meet with other departmental leaders to establish organizational goals, strategic plans, and objectives, as well as make decisions about personnel, resources, and space or equipment needs.",0.30,leadership meetings and personnel decisions need human authority
+21268,Administrative Services Managers,"Oversee payroll functions, such as maintaining timekeeping information and processing and submitting payroll.",0.75,payroll processing largely automatable data task
+21269,Administrative Services Managers,"Read through contracts, regulations, and procedural guidelines to ensure comprehension and compliance.",0.90,document review for compliance
+21270,Administrative Services Managers,Represent work unit at meetings or conferences and serve as liaison for requests or complaints.,0.20,representing unit needs physical presence and authority
+21271,Administrative Services Managers,Supervise administrative staff and provide training and orientation to new staff.,0.30,supervising staff needs managerial presence
+21276,Facilities Managers,"Monitor the facility to ensure that it remains safe, secure, and well-maintained.",0.20,facility monitoring needs physical presence
+21278,Facilities Managers,"Oversee the maintenance and repair of machinery, equipment, and electrical and mechanical systems.",0.15,physical equipment maintenance oversight
+21277,Facilities Managers,"Oversee construction and renovation projects to improve efficiency and to ensure that facilities meet environmental, health, and security standards, and comply with government regulations.",0.10,construction oversight needs physical presence and licensed authority
+21280,Facilities Managers,"Plan, administer, and control budgets for contracts, equipment, and supplies.",0.65,budget planning and administration
+21279,Facilities Managers,"Participate in architectural and engineering planning and design, including space and installation management.",0.35,architectural design needs licensed professional authority
+21282,Facilities Managers,Set goals and deadlines for the department.,0.45,authoritative goal-setting needs accountable decision maker
+21273,Facilities Managers,Conduct classes to teach procedures to staff.,0.55,training delivery can be virtual but often needs human presence
+21281,Facilities Managers,Prepare and review operational reports and schedules to ensure accuracy and efficiency.,0.90,report review and analysis
+21272,Facilities Managers,"Acquire, distribute and store supplies.",0.15,physical acquisition and storage of supplies
+21274,Facilities Managers,"Dispose of, or oversee the disposal of, surplus or unclaimed property.",0.15,physical disposal of property
+21275,Facilities Managers,Manage leasing of facility space.,0.40,lease management involves legal contract authority
+21291,Security Managers,Develop budgets for security operations.,0.80,security budget planning
+21298,Security Managers,"Identify, investigate, or resolve security breaches.",0.40,security breach investigation may need physical presence
+21302,Security Managers,"Plan, direct, or coordinate security activities to safeguard company employees, guests, or others on company property.",0.15,physical security coordination on-site
+21297,Security Managers,Direct or participate in emergency management and contingency planning.,0.40,contingency planning high but directing emergencies needs presence
+21305,Security Managers,"Respond to medical emergencies, bomb threats, fire alarms, or intrusion alarms, following emergency response procedures.",0.02,physical emergency response requires human presence

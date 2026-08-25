@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+18911,Fundraisers,"Develop or implement fundraising activities, such as annual giving campaigns or direct mail programs.",0.70,planning and coordinating campaigns
+18912,Fundraisers,Develop strategies to encourage new or increased contributions.,0.85,strategy analysis and writing
+18913,Fundraisers,"Direct or coordinate Web-based fundraising activities, such as online auctions or donation Web sites.",0.75,coordinate web tools and platforms
+18914,Fundraisers,"Direct or supervise fundraising staff, including volunteer staff members.",0.20,supervising staff needs accountability
+18915,Fundraisers,Establish fundraising or participation goals for special events or specified time periods.,0.85,goal setting from data
+18916,Fundraisers,Explain the tax advantages of contributions to potential donors.,0.75,explain tax info to donors
+18917,Fundraisers,Identify and build relationships with potential donors.,0.30,relationship building needs human trust
+18918,Fundraisers,"Monitor budgets, expense reports, or other financial data for fundraising organizations.",0.85,financial data monitoring
+18919,Fundraisers,Monitor progress of fundraising drives.,0.85,progress tracking from data
+18920,Fundraisers,"Plan and direct special events for fundraising, such as silent auctions, dances, golf events, or walks.",0.35,planning ok but directing event needs presence
+18921,Fundraisers,"Recruit sponsors, participants, or volunteers for fundraising events.",0.35,recruiting needs human persuasion
+18922,Fundraisers,Secure commitments of participation or donation from individuals or corporate donors.,0.35,securing commitments needs trust and closing
+18923,Fundraisers,"Solicit cash or in-kind donations or sponsorships from individual, business, or government donors.",0.40,soliciting donations needs human trust
+18924,Fundraisers,"Write speeches, press releases, or other promotional materials to increase awareness of the causes, missions, or goals of organizations seeking funds.",0.90,pure writing task
+18925,Fundraisers,Compile or develop materials to submit to granting or other funding organizations.,0.85,compiling grant materials writing
+18926,Fundraisers,"Conduct research to identify the goals, net worth, charitable donation history, or other data related to potential donors, potential investors, or general donor markets.",0.85,online research on donors
+18927,Fundraisers,"Coordinate transportation or delivery of materials, supplies, or donations for fundraising events.",0.55,coordination doable execution needs humans
+18928,Fundraisers,Develop and maintain media contact lists.,0.90,compiling contact lists
+18929,Fundraisers,"Prepare materials such as fundraising envelopes, bid sheets, or gift bags for charitable events.",0.25,physical assembly of event materials
+18930,Fundraisers,"Secure speakers for charitable events, community meetings, or conferences to increase awareness of charitable, nonprofit, or political causes.",0.35,securing speakers needs persuasion
+18931,Fundraisers,Write and send letters of thanks to donors.,0.85,writing and sending thank you letters
+18932,Fundraisers,Write reports or prepare presentations to communicate fundraising program data.,0.90,report writing from data
+18933,Credit Counselors,"Advise clients or respond to inquiries about financial matters in person or via phone, email, Web site, or Internet chat.",0.55,text channels doable in person and phone not
+18934,Credit Counselors,"Assess clients' overall financial situations by reviewing income, assets, debts, expenses, credit reports, or other financial information.",0.90,financial data review
+18935,Credit Counselors,Calculate clients' available monthly income to meet debt obligations.,0.95,pure calculation
+18936,Credit Counselors,"Create debt management plans, spending plans, or budgets to assist clients to meet financial goals.",0.90,plan creation from financial data
+18937,Credit Counselors,"Estimate time for debt repayment, given amount of debt, interest rates, and available funds.",0.95,pure calculation
+18938,Credit Counselors,"Explain services or policies to clients, such as debt management program rules, advantages and disadvantages of using services, or creditor concession policies.",0.85,explain policies via text
+18939,Credit Counselors,Interview clients by telephone or in person to gather financial information.,0.45,live interview needs human presence
+18940,Credit Counselors,"Maintain or update records of client account activity, including financial transactions, counseling session notes, correspondence, document images, or client inquiries.",0.90,record keeping and data entry
+18941,Credit Counselors,"Negotiate with creditors on behalf of clients to arrange for payment adjustments, interest rate reductions, time extensions, or payment plans.",0.30,negotiation needs trust and authority
+18942,Credit Counselors,Prepare written documents to establish contracts with or communicate financial recommendations to clients.,0.75,drafting documents signing needs human
+18943,Credit Counselors,"Prioritize client debt repayment to avoid dire consequences, such as bankruptcy or foreclosure or to reduce overall costs, such as by paying high-interest or short-term loans first.",0.90,debt prioritization analysis
+18944,Credit Counselors,"Recommend educational materials or resources to clients on matters, such as financial planning, budgeting, or credit.",0.90,recommend resources informational
+18945,Credit Counselors,"Recommend strategies for clients to meet their financial goals, such as borrowing money through loans or loan programs, declaring bankruptcy, making budget adjustments, or enrolling in debt management",0.85,strategy recommendations from data
+18946,Credit Counselors,Refer clients to social service or community resources for needs beyond those of credit or debt counseling.,0.90,informational referral
+18947,Credit Counselors,"Review changes to financial, family, or employment situations to determine whether changes to existing debt management plans, spending plans, or budgets are needed.",0.85,review and update plans from data
+18948,Credit Counselors,"Advise clients on housing matters, such as housing rental, homeownership, mortgage delinquency, or foreclosure prevention.",0.85,housing advice informational
+18949,Credit Counselors,Conduct research to help clients avoid repossessions or foreclosures or remove levies or wage garnishments.,0.60,research high acting on levies needs authority
+18950,Credit Counselors,Create action plans to assist clients in obtaining permanent housing via rent or mortgage programs.,0.85,action plan writing
+18951,Credit Counselors,Disburse funds from client accounts to creditors.,0.35,moving client funds needs fiduciary trust
+18952,Credit Counselors,"Explain general financial topics to clients, such as credit report ratings, bankruptcy laws, consumer protection laws, wage attachments, or collection actions.",0.90,explain financial topics informational
+18953,Credit Counselors,"Explain loan information to clients, such as available loan types, eligibility requirements, or loan restrictions.",0.90,explain loan info informational
+18954,Credit Counselors,"Investigate missing checks, payment histories, held funds, returned checks, or other related issues to resolve client or creditor problems.",0.80,investigative research on records
+18955,Credit Counselors,"Teach courses or seminars on topics, such as budgeting, management of personal finances, or financial literacy.",0.45,live seminar teaching needs presence
+19044,Judicial Law Clerks,Attend court sessions to hear oral arguments or record necessary case information.,0.15,attending court needs physical presence
+19045,Judicial Law Clerks,Communicate with counsel regarding case management or procedural requirements.,0.75,text based communication with counsel
+19046,Judicial Law Clerks,"Confer with judges concerning legal questions, construction of documents, or granting of orders.",0.40,conferring with judge needs trusted live dialogue
+19047,Judicial Law Clerks,"Draft or proofread judicial opinions, decisions, or citations.",0.85,drafting and proofreading text
+19048,Judicial Law Clerks,Keep abreast of changes in the law and inform judges when cases are affected by such changes.,0.75,legal research and informing
+19049,Judicial Law Clerks,Participate in conferences or discussions between trial attorneys and judges.,0.20,live conference participation needs presence
+19050,Judicial Law Clerks,"Prepare briefs, legal memoranda, or statements of issues involved in cases, including appropriate suggestions or recommendations.",0.85,drafting legal memoranda
+19051,Judicial Law Clerks,"Research laws, court decisions, documents, opinions, briefs, or other information related to cases before the court.",0.90,legal research task
+19052,Judicial Law Clerks,"Review complaints, petitions, motions, or pleadings that have been filed to determine issues involved or basis for relief.",0.85,document review and analysis
+19053,Judicial Law Clerks,Review dockets of pending litigation to ensure adequate progress.,0.80,docket review from data
+19054,Judicial Law Clerks,"Verify that all files, complaints, or other papers are available and in the proper order.",0.75,verifying files digitally
+19056,Judicial Law Clerks,Coordinate judges' meeting and appointment schedules.,0.80,scheduling coordination
+19057,Judicial Law Clerks,"Enter information into computerized court calendar, filing, or case management systems.",0.90,data entry into systems
+19058,Judicial Law Clerks,Maintain judges' law libraries by assembling or updating appropriate documents.,0.65,compiling documents partly physical library
+19059,Judicial Law Clerks,"Perform courtroom duties, including calling calendars, administering oaths, and swearing in jury panels and witnesses.",0.05,courtroom duties need presence and authority
+19060,Judicial Law Clerks,"Prepare periodic reports on court proceedings, as required.",0.85,report writing on proceedings
+19061,Judicial Law Clerks,Respond to questions from judicial officers or court staff on general legal issues.,0.75,answering legal questions via text
+19062,Judicial Law Clerks,"Supervise law students, volunteers, or other personnel assigned to the court.",0.20,supervising personnel needs accountability
+19139,Art Therapists,Analyze data to determine the effectiveness of treatments or therapy approaches.,0.85,data analysis of treatment effectiveness
+19140,Art Therapists,Analyze or synthesize client data to draw conclusions or make recommendations for art therapy.,0.85,synthesizing client data
+19141,Art Therapists,"Assess client needs or disorders, using drawing, painting, sculpting, or other artistic processes.",0.15,live clinical assessment needs presence
+19142,Art Therapists,"Communicate client assessment findings and recommendations in oral, written, audio, video, or other forms.",0.65,written communication of findings
+19143,Art Therapists,"Conduct art therapy sessions, providing guided self-expression experiences to help clients recover from, or cope with, cognitive, emotional, or physical impairments.",0.05,live therapy session needs presence
+19144,Art Therapists,"Confer with other professionals on client's treatment team to develop, coordinate, or integrate treatment plans.",0.40,conferring with team needs live interaction
+19145,Art Therapists,"Customize art therapy programs for specific client populations, such as those in schools, nursing homes, wellness centers, prisons, shelters, or hospitals.",0.75,program customization planning
+19146,Art Therapists,Design art therapy sessions or programs to meet client's goals or objectives.,0.75,session design planning
+19147,Art Therapists,"Develop individualized treatment plans that incorporate studio art therapy, counseling, or psychotherapy techniques.",0.55,treatment plan writing needs clinical judgment
+19148,Art Therapists,Establish goals or objectives for art therapy sessions in consultation with clients or site administrators.,0.45,goal setting needs client consultation
+19149,Art Therapists,"Instruct individuals or groups in the use of art media, such as paint, clay, or yarn.",0.15,hands on instruction needs presence
+19150,Art Therapists,"Interpret the artistic creations of clients to assess their functioning, needs, or progress.",0.45,interpreting artwork needs clinical judgment
+19151,Art Therapists,"Observe and document client reactions, progress, or other outcomes related to art therapy.",0.25,observing clients needs presence
+19152,Art Therapists,Photograph or videotape client artwork for inclusion in client records or for promotional purposes.,0.10,photographing artwork needs physical presence
+19153,Art Therapists,"Talk with clients during art or other therapy sessions to build rapport, acknowledge their progress, or reflect upon their reactions to the artistic process.",0.15,live rapport building in session
+19154,Art Therapists,"Write treatment plans, case summaries, or progress or other reports related to individual clients or client groups.",0.80,writing treatment reports
+19155,Art Therapists,"Conduct information sharing sessions, such as in-service workshops for other professionals, potential client groups, or the general community.",0.30,live workshop needs presence
+19156,Art Therapists,Coordinate art showcases to display artwork produced by clients.,0.35,event coordination with physical component
+19157,Art Therapists,Coordinate field trips for client groups to museums or other public displays of art.,0.30,field trip logistics needs physical presence
+19158,Art Therapists,"Gather client information from sources such as case documentation, client observation, or interviews of client or family members.",0.40,mix of document review and live interview
+19159,Art Therapists,Recommend or purchase needed art supplies or equipment.,0.75,recommend and order supplies online
+19160,Art Therapists,"Review research or literature in art therapy, psychology, or related disciplines.",0.90,literature review research
+19161,Art Therapists,Select or prepare artistic media or related equipment or devices to accomplish therapy session objectives.,0.15,physical prep of art materials
+19162,Art Therapists,"Supervise staff, volunteers, practicum students, or interns.",0.20,staff supervision needs accountability
+19163,Art Therapists,"Teach art therapy techniques or processes to artists, interns, volunteers, or others.",0.30,teaching techniques needs live instruction
+19164,Music Therapists,Adapt existing or develop new music therapy assessment instruments or procedures to meet an individual client's needs.,0.75,designing assessment instruments
+19165,Music Therapists,Analyze data to determine the effectiveness of specific treatments or therapy approaches.,0.85,data analysis of treatment effectiveness
+19166,Music Therapists,Analyze or synthesize client data to draw conclusions or make recommendations for therapy.,0.85,synthesizing client data
+19167,Music Therapists,"Assess client functioning levels, strengths, and areas of need in terms of perceptual, sensory, affective, communicative, musical, physical, cognitive, social, spiritual, or other abilities.",0.20,live clinical assessment needs presence
+19168,Music Therapists,"Communicate client assessment findings and recommendations in oral, written, audio, video, or other forms.",0.65,written communication of findings
+19169,Music Therapists,"Confer with professionals on client's treatment team to develop, coordinate, or integrate treatment plans.",0.40,conferring with team needs live interaction
+19170,Music Therapists,"Customize treatment programs for specific areas of music therapy, such as intellectual or developmental disabilities, educational settings, geriatrics, medical settings, mental health, physical disabi",0.75,program customization planning
+19171,Music Therapists,"Design music therapy experiences, using various musical elements to meet client's goals or objectives.",0.65,designing music experiences creatively
+19172,Music Therapists,"Engage clients in music experiences to identify client responses to different styles of music, types of musical experiences, such as improvising or listening, or elements of music, such as tempo or ha",0.10,live client engagement needs presence
+19173,Music Therapists,"Establish client goals or objectives for music therapy treatment, considering client needs, capabilities, interests, overall therapeutic program, coordination of treatment, or length of treatment.",0.55,goal setting needs client consultation
+19174,Music Therapists,"Gather diagnostic data from sources such as case documentation, observations of clients, or interviews with clients or family members.",0.40,mix of document review and live interview
+19175,Music Therapists,"Improvise instrumentally, vocally, or physically to meet client's therapeutic needs.",0.10,live musical improvisation with client needs presence
+19176,Music Therapists,"Observe and document client reactions, progress, or other outcomes related to music therapy.",0.25,observing clients needs presence
+19177,Music Therapists,"Plan or structure music therapy sessions to achieve appropriate transitions, pacing, sequencing, energy level, or intensity in accordance with treatment plans.",0.75,session planning and structuring
+19178,Music Therapists,"Sing or play musical instruments, such as keyboard, guitar, or percussion instruments.",0.10,live instrument performance needs presence
+19179,Music Therapists,"Design or provide music therapy experiences to address client needs, such as using music for self-care, adjusting to life changes, improving cognitive functioning, raising self-esteem, communicating, ",0.35,design part high delivery needs presence
+19180,Music Therapists,"Select or adapt musical instruments, musical equipment, or non-musical materials, such as adaptive devices or visual aids, to meet treatment objectives.",0.25,physical selection of instruments
+19181,Music Therapists,"Communicate with clients to build rapport, acknowledge their progress, or reflect upon their reactions to musical experiences.",0.20,live rapport building with client
+19182,Music Therapists,"Document evaluations, treatment plans, case summaries, or progress or other reports related to individual clients or client groups.",0.85,writing evaluations and reports
+19183,Music Therapists,Assess the risks and benefits of treatment termination for clients.,0.45,clinical judgment on treatment termination
+19184,Music Therapists,"Compose, arrange, or adapt music for music therapy treatments.",0.80,composing music a creative text like task
+19185,Music Therapists,"Conduct information sharing sessions, such as in-service workshops for other professionals, potential client groups, or the general community.",0.30,live workshop needs presence
+19186,Music Therapists,"Conduct, or assist in the conduct of, music therapy research.",0.80,research task
+19187,Music Therapists,Identify and respond to emergency physical or mental health situations.,0.05,emergency response needs physical presence
+19188,Music Therapists,"Integrate behavioral, developmental, improvisational, medical, or neurological approaches into music therapy treatments.",0.55,synthesizing approaches needs clinical judgment
+19189,Music Therapists,Apply selected research findings to practice.,0.45,applying findings in live practice needs presence
+19190,Music Therapists,"Supervise staff, volunteers, practicum students, or interns engaged in music therapy activities.",0.20,staff supervision needs accountability
+19191,Exercise Physiologists,"Conduct stress tests, using electrocardiograph (EKG) machines.",0.05,physical medical procedure needs presence
+19192,Exercise Physiologists,Demonstrate correct use of exercise equipment or performance of exercise routines.,0.05,physical demonstration needs presence
+19193,Exercise Physiologists,"Develop exercise programs to improve participant strength, flexibility, endurance, or circulatory functioning, in accordance with exercise science standards, regulatory requirements, and credentialing",0.75,program development from standards and data
+19194,Exercise Physiologists,Explain exercise program or physiological testing procedures to participants.,0.80,explaining procedures informational
+19195,Exercise Physiologists,Interpret exercise program participant data to evaluate progress or identify needed program changes.,0.85,data interpretation and analysis
+19196,Exercise Physiologists,"Measure amount of body fat, using such equipment as hydrostatic scale, skinfold calipers, or tape measures.",0.02,physical body measurement
+19197,Exercise Physiologists,"Measure oxygen consumption or lung functioning, using spirometers.",0.02,physical lung measurement
+19198,Exercise Physiologists,Perform routine laboratory tests of blood samples for cholesterol level or glucose tolerance.,0.02,physical lab testing
+19199,Exercise Physiologists,"Prescribe individualized exercise programs, specifying equipment, such as treadmill, exercise bicycle, ergometers, or perceptual goggles.",0.55,prescribing needs professional authority
+19200,Exercise Physiologists,Provide clinical oversight of exercise for participants at all risk levels.,0.05,clinical oversight needs onsite presence
+19201,Exercise Physiologists,Recommend methods to increase lifestyle physical activity.,0.85,recommend activity informational
+19202,Exercise Physiologists,"Teach courses or seminars related to exercise or diet for patients, athletes, or community groups.",0.35,live teaching needs presence
+19203,Exercise Physiologists,Assess physical performance requirements to aid in the development of individualized recovery or rehabilitation exercise programs.,0.35,physical assessment needs presence
+19204,Exercise Physiologists,Calibrate exercise or testing equipment.,0.03,physical equipment calibration
+19205,Exercise Physiologists,"Educate athletes or coaches on techniques to improve athletic performance, such as heart rate monitoring, recovery techniques, hydration strategies, or training limits.",0.80,educating via informational content

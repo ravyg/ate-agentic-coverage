@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+14630,Computer and Information Research Scientists,"Develop and interpret organizational goals, policies, and procedures.",0.55,policy drafting needs organizational authority to finalize
+14632,Computer and Information Research Scientists,"Develop performance standards, and evaluate work in light of established standards.",0.45,evaluating employee performance needs managerial judgment
+14634,Computer and Information Research Scientists,"Maintain network hardware and software, direct network security measures, and monitor networks to ensure availability to system users.",0.40,hardware maintenance needs physical presence
+14637,Computer and Information Research Scientists,"Direct daily operations of departments, coordinating project activities with other departments.",0.20,directing departments needs managerial authority
+14631,Computer and Information Research Scientists,Participate in staffing decisions and direct training of subordinates.,0.15,hiring and directing staff needs human authority
+14636,Computer and Information Research Scientists,"Approve, prepare, monitor, and adjust operational budgets.",0.30,budget approval needs fiduciary authority
+19004,Computer Network Support Specialists,Back up network data.,0.85,automatable data backup task
+18991,Computer Network Support Specialists,Configure security settings or access permissions for groups or individuals.,0.80,remote configuration via admin tools
+19003,Computer Network Support Specialists,Analyze and report computer network security breaches or attempted breaches.,0.80,log analysis and reporting
+18995,Computer Network Support Specialists,"Identify the causes of networking problems, using diagnostic testing software and equipment.",0.65,diagnostics mostly remote software based
+18993,Computer Network Support Specialists,Document network support activities.,0.90,pure documentation
+18992,Computer Network Support Specialists,Configure wide area network (WAN) or local area network (LAN) routers or related equipment.,0.70,router configuration often doable remotely via CLI
+18997,Computer Network Support Specialists,"Install network software, including security or firewall software.",0.75,software installation scriptable remotely
+19002,Computer Network Support Specialists,Troubleshoot network or connectivity problems for users or user groups.,0.60,remote troubleshooting some needs on-site
+19010,Computer Network Support Specialists,Provide telephone support related to networking or connectivity issues.,0.45,voice support requires human-like phone interaction
+18994,Computer Network Support Specialists,"Evaluate local area network (LAN) or wide area network (WAN) performance data to ensure sufficient availability or speed, to identify network problems, or for disaster recovery purposes.",0.85,data analysis task
+18989,Computer Network Support Specialists,"Analyze network data to determine network usage, disk space availability, or server function.",0.85,network data analysis
+19000,Computer Network Support Specialists,Perform routine maintenance or standard repairs to networking components or equipment.,0.10,physical hardware repair
+18990,Computer Network Support Specialists,"Configure and define parameters for installation or testing of local area network (LAN), wide area network (WAN), hubs, routers, switches, controllers, multiplexers, or related networking equipment.",0.55,parameter config remote but install/test needs physical presence
+18998,Computer Network Support Specialists,"Install new hardware or software systems or components, ensuring integration with existing network systems.",0.30,hardware installation needs physical presence
+19001,Computer Network Support Specialists,"Test computer software or hardware, using standard diagnostic testing equipment and procedures.",0.40,hardware testing needs physical equipment
+18999,Computer Network Support Specialists,"Install or repair network cables, including fiber optic cables.",0.02,purely physical cabling work
+19009,Computer Network Support Specialists,"Monitor industry Web sites or publications for information about patches, releases, viruses, or potential problem identification.",0.90,web monitoring and research
+19006,Computer Network Support Specialists,Create or update technical documentation for network installations or changes to existing installations.,0.90,documentation writing
+19014,Computer Network Support Specialists,Train users in procedures related to network applications software or related systems.,0.35,in person training needs human rapport
+19013,Computer Network Support Specialists,Test repaired items to ensure proper operation.,0.15,physical equipment testing after repair
+18996,Computer Network Support Specialists,Install and configure wireless networking equipment.,0.25,physical equipment installation
+19008,Computer Network Support Specialists,Maintain logs of network activity.,0.90,automatable logging task
+19007,Computer Network Support Specialists,Document help desk requests and resolutions.,0.90,documentation task
+19011,Computer Network Support Specialists,Research hardware or software products to meet technical networking or security needs.,0.85,research and analysis task
+19005,Computer Network Support Specialists,"Create or revise user instructions, procedures, or manuals.",0.90,writing documentation
+19012,Computer Network Support Specialists,Run monthly network reports.,0.90,automatable reporting
+1285,Computer User Support Specialists,Oversee the daily performance of computer systems.,0.70,system monitoring and oversight
+1286,Computer User Support Specialists,"Set up equipment for employee use, performing or ensuring proper installation of cables, operating systems, or appropriate software.",0.15,physical equipment setup
+1288,Computer User Support Specialists,"Read technical manuals, confer with users, or conduct computer diagnostics to investigate and resolve problems or to provide technical assistance and support.",0.55,diagnostics doable but user conferring needs interaction
+1282,Computer User Support Specialists,Answer user inquiries regarding computer software or hardware operation to resolve problems.,0.65,text based support feasible
+1284,Computer User Support Specialists,"Install and perform minor repairs to hardware, software, or peripheral equipment, following design or installation specifications.",0.10,physical repair work
+1289,Computer User Support Specialists,"Confer with staff, users, and management to establish requirements for new systems or modifications.",0.40,requirements gathering needs live interaction
+1283,Computer User Support Specialists,Enter commands and observe system functioning to verify correct operations and detect errors.,0.85,command execution and verification
+1287,Computer User Support Specialists,"Maintain records of daily data communication transactions, problems and remedial actions taken, or installation activities.",0.85,record keeping task
+1291,Computer User Support Specialists,Refer major hardware or software problems or defective products to vendors or technicians for service.,0.65,communication and referral task
+1292,Computer User Support Specialists,"Prepare evaluations of software or hardware, and recommend improvements or upgrades.",0.80,analysis and recommendation report
+1290,Computer User Support Specialists,"Develop training materials and procedures, or train users in the proper use of hardware or software.",0.50,materials development high but live training needs presence
+1295,Computer User Support Specialists,Inspect equipment and read order sheets to prepare for delivery to users.,0.15,physical equipment inspection
+1293,Computer User Support Specialists,"Read trade magazines and technical manuals, or attend conferences and seminars to maintain knowledge of hardware and software.",0.55,reading feasible but conference attendance needs presence
+1297,Computer User Support Specialists,"Conduct office automation feasibility studies, including workflow analysis, space design, or cost comparison analysis.",0.70,feasibility study mostly analytical
+15204,Computer User Support Specialists,"Hire, supervise, and direct workers engaged in special project work, problem-solving, monitoring, and installation of data communication equipment and software.",0.10,hiring and supervising staff needs human authority
+1296,Computer User Support Specialists,Modify and customize commercial programs for internal needs.,0.85,software customization coding task
+18968,Computer Network Architects,Develop disaster recovery plans.,0.85,planning document writing
+18971,Computer Network Architects,"Develop or recommend network security measures, such as firewalls, network security audits, or automated security probes.",0.80,security analysis and recommendation
+18965,Computer Network Architects,Develop and implement solutions for network problems.,0.60,solution design high but implementation may need on site work
+18977,Computer Network Architects,"Maintain networks by performing activities such as file addition, deletion, or backup.",0.85,remote file and backup operations
+18960,Computer Network Architects,"Coordinate network operations, maintenance, repairs, or upgrades.",0.40,coordination involves physical repair work
+18959,Computer Network Architects,Coordinate installation of new equipment.,0.35,coordinating physical installation
+18979,Computer Network Architects,"Monitor and analyze network performance and reports on data input or output to detect problems, identify inefficient use of computer resources, or perform capacity planning.",0.85,data monitoring and analysis
+18969,Computer Network Architects,Develop network-related documentation.,0.90,documentation writing
+18966,Computer Network Architects,"Develop and write procedures for installation, use, or troubleshooting of communications hardware or software.",0.85,writing procedures
+18980,Computer Network Architects,"Participate in network technology upgrade or expansion projects, including installation of hardware and software and integration testing.",0.30,includes physical hardware installation
+18962,Computer Network Architects,"Design, build, or operate equipment configuration prototypes, including network hardware, software, servers, or server operation systems.",0.45,prototype design high but building hardware needs physical presence
+18956,Computer Network Architects,Adjust network sizes to meet volume or capacity demands.,0.75,remote capacity configuration
+18958,Computer Network Architects,Communicate with system users to ensure accounts are set up properly or to diagnose and solve operational problems.,0.60,user communication and account admin text feasible
+18967,Computer Network Architects,"Develop conceptual, logical, or physical network designs.",0.75,design work mostly analytical drafting
+18975,Computer Network Architects,Evaluate network designs to determine whether customer requirements are met efficiently and effectively.,0.80,design evaluation analysis
+18988,Computer Network Architects,"Communicate with vendors to gather information about products, alert them to future needs, resolve problems, or address system maintenance issues.",0.45,vendor communication with relationship element
+18972,Computer Network Architects,Develop plans or budgets for network equipment replacement.,0.75,budget planning and drafting
+18957,Computer Network Architects,"Communicate with customers, sales staff, or marketing staff to determine customer needs.",0.40,needs live requirements gathering interaction
+18964,Computer Network Architects,"Determine specific network hardware or software requirements, such as platforms, interfaces, bandwidths, or routine schemas.",0.80,technical requirements analysis
+18982,Computer Network Architects,"Prepare detailed network specifications, including diagrams, charts, equipment configurations, or recommended technologies.",0.85,spec writing and diagramming
+18985,Computer Network Architects,Supervise engineers or other staff in the design or implementation of network solutions.,0.15,supervising staff needs human authority
+18984,Computer Network Architects,Research and test new or modified hardware or software products to determine performance and interoperability.,0.50,research high but hardware testing needs physical equipment
+18974,Computer Network Architects,Estimate time and materials needed to complete projects.,0.80,estimation from data and specs
+18963,Computer Network Architects,"Design, organize, and deliver product awareness, skills transfer, or product education sessions for staff or suppliers.",0.35,live training delivery needs human presence
+18976,Computer Network Architects,Explain design specifications to integration or test engineers.,0.55,explaining specs text based feasible
+18973,Computer Network Architects,"Develop procedures to track, project, or report network availability, reliability, capacity, or utilization.",0.85,procedure and reporting development
+18961,Computer Network Architects,Coordinate network or design activities with designers of associated networks.,0.45,coordination via communication
+18983,Computer Network Architects,"Prepare or monitor project schedules, budgets, or cost control systems.",0.70,schedule and budget tracking
+18981,Computer Network Architects,Prepare design presentations and proposals for staff or customers.,0.80,presentation and proposal drafting
+18986,Computer Network Architects,Use network computer-aided design (CAD) software packages to optimize network designs.,0.60,CAD design work partially automatable
+18987,Computer Network Architects,"Visit vendors, attend conferences or training sessions, or study technical journals to keep up with changes in technology.",0.25,visiting and attending needs physical presence
+18970,Computer Network Architects,Develop or maintain project reporting systems.,0.80,reporting system development
+18978,Computer Network Architects,"Maintain or coordinate the maintenance of network peripherals, such as printers.",0.15,physical peripheral maintenance
+16080,Telecommunications Engineering Specialists,"Consult with users, administrators, and engineers to identify business and technical requirements for proposed system modifications or technology purchases.",0.40,requirements consultation needs live interaction
+16073,Telecommunications Engineering Specialists,"Implement system renovation projects in collaboration with technical staff, engineering consultants, installers, and vendors.",0.25,physical renovation implementation
+16058,Telecommunications Engineering Specialists,"Keep abreast of changes in industry practices and emerging telecommunications technology by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.",0.55,literature review high but attending events needs presence
+16063,Telecommunications Engineering Specialists,"Review and evaluate requests from engineers, managers, and technicians for system modifications.",0.75,review and evaluation task
+16082,Telecommunications Engineering Specialists,Assess existing facilities' needs for new or modified telecommunications systems.,0.35,facility assessment often needs on site inspection
+16060,Telecommunications Engineering Specialists,"Develop, maintain, or implement telecommunications disaster recovery plans to ensure business continuity.",0.80,disaster recovery planning document
+16081,Telecommunications Engineering Specialists,"Communicate with telecommunications vendors to obtain pricing and technical specifications for available hardware, software, or services.",0.65,vendor info gathering via communication
+16072,Telecommunications Engineering Specialists,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.05,physical site inspection
+16078,Telecommunications Engineering Specialists,Document procedures for hardware and software installation and use.,0.90,documentation writing
+16083,Telecommunications Engineering Specialists,"Install, or coordinate installation of, new or modified hardware, software, or programming modules of telecommunications systems.",0.30,includes physical hardware installation
+20366,Telecommunications Engineering Specialists,"Instruct in use of voice, video, and data communications systems.",0.35,live instruction needs human presence
+16074,Telecommunications Engineering Specialists,"Implement or perform preventive maintenance, backup, or recovery procedures.",0.50,backup high but preventive maintenance may be physical
+16066,Telecommunications Engineering Specialists,"Prepare purchase requisitions for computer hardware and software, networking and telecommunications equipment, test equipment, cabling, or tools.",0.80,purchase requisition drafting
+16077,Telecommunications Engineering Specialists,Document technical specifications and operating standards for telecommunications equipment.,0.90,technical documentation
+16064,Telecommunications Engineering Specialists,Provide user support by diagnosing network and device problems and implementing technical or procedural solutions.,0.60,remote diagnosis feasible implementation may need physical access
+16076,Telecommunications Engineering Specialists,"Document user support activity, such as system problems, corrective actions, resolution status, and completed equipment installations.",0.90,documentation task
+16059,Telecommunications Engineering Specialists,Estimate costs for system or component implementation and operation.,0.80,cost estimation analysis
+20365,Telecommunications Engineering Specialists,"Order or maintain inventory of telecommunications equipment for customer premises equipment (CPE), facilities, access networks, or backbone networks.",0.70,inventory management and ordering via systems
+16079,Telecommunications Engineering Specialists,"Work with personnel and facilities management staff to install, remove, or relocate user connectivity equipment and devices.",0.10,physical equipment relocation
+16067,Telecommunications Engineering Specialists,"Use computer-aided design (CAD) software to prepare or evaluate network diagrams, floor plans, or site configurations for existing facilities, renovations, or new systems.",0.60,CAD diagram work partially automatable
+16065,Telecommunications Engineering Specialists,Prepare system activity and performance reports.,0.90,reporting task
+16075,Telecommunications Engineering Specialists,"Implement controls to provide security for operating systems, software, and data.",0.80,security controls implementation software based
+16070,Telecommunications Engineering Specialists,Manage user access to systems and equipment through account management and password administration.,0.85,account administration via systems
+16061,Telecommunications Engineering Specialists,"Test and evaluate hardware and software to determine efficiency, reliability, or compatibility with existing systems.",0.45,hardware testing needs physical equipment
+16069,Telecommunications Engineering Specialists,"Monitor and analyze system performance, such as network traffic, security, and capacity.",0.85,performance monitoring and analysis
+16062,Telecommunications Engineering Specialists,Supervise maintenance of telecommunications equipment.,0.20,supervision needs human authority
+1299,Database Administrators,Modify existing databases and database management systems or direct programmers and analysts to make changes.,0.60,database modification high directing staff needs authority
+1301,Database Administrators,"Plan, coordinate, and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.",0.80,security planning and implementation software based
+21649,Database Administrators,Plan and install upgrades of database management system software to enhance database performance.,0.75,software upgrade largely remote scriptable
+1305,Database Administrators,Specify users and user access levels for each segment of database.,0.85,access control configuration
+21651,Database Administrators,Test changes to database applications or systems.,0.85,software testing
+1300,Database Administrators,"Test programs or databases, correct errors, and make necessary modifications.",0.85,debugging and coding task
+1303,Database Administrators,Train users and answer questions.,0.45,live training and Q&A needs human interaction
+21650,Database Administrators,Provide technical support to junior staff or clients.,0.60,technical support text feasible
+1302,Database Administrators,"Approve, schedule, plan, and supervise the installation and testing of new products and improvements to computer systems, such as the installation of new databases.",0.30,approval and supervision needs authority
+1298,Database Administrators,Develop standards and guidelines for the use and acquisition of software and to protect vulnerable information.,0.80,standards drafting
+1313,Database Administrators,"Write and code logical and physical database descriptions and specify identifiers of database to management system, or direct others in coding descriptions.",0.85,database schema coding
+1306,Database Administrators,"Develop data models describing data elements and how they are used, following procedures and using pen, template, or computer software.",0.85,data modeling task
+1311,Database Administrators,Select and enter codes to monitor database performance and to create production databases.,0.85,database code and monitoring setup
+21648,Database Administrators,"Identify, evaluate and recommend hardware or software technologies to achieve desired database performance.",0.80,technology evaluation and recommendation
+1309,Database Administrators,Review procedures in database management system manuals to make changes to database.,0.85,manual review and database changes
+1312,Database Administrators,Identify and evaluate industry trends in database systems to serve as a source of information and advice for upper management.,0.85,trend research and analysis
+1314,Database Administrators,"Review workflow charts developed by programmer analyst to understand tasks computer will perform, such as updating records.",0.85,workflow chart review
+1315,Database Administrators,Revise company definition of data as defined in data dictionary.,0.85,data dictionary editing
+16115,Database Architects,Develop and document database architectures.,0.85,architecture design and documentation
+16113,Database Architects,"Collaborate with system architects, software architects, design analysts, and others to understand business or industry requirements.",0.45,requirements gathering needs live collaboration
+16114,Database Architects,"Develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements.",0.75,architecture strategy design
+16109,Database Architects,"Design databases to support business applications, ensuring system scalability, security, performance, and reliability.",0.85,database design task
+16108,Database Architects,"Develop data models for applications, metadata tables, views or related database structures.",0.85,data modeling task

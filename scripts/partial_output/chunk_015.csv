@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+9747,"Eligibility Interviewers, Government Programs",Investigate claimants for the possibility of fraud or abuse.,0.55,records research plus judgment on fraud
+9748,"Eligibility Interviewers, Government Programs","Conduct annual, interim, and special housing reviews and home visits to ensure conformance to regulations.",0.05,requires on-site home visits
+9749,Reservation and Transportation Ticket Agents and Travel Clerks,"Plan routes, itineraries, and accommodation details, and compute fares and fees, using schedules, rate books, and computers.",0.90,pure planning and computation via computer
+9750,Reservation and Transportation Ticket Agents and Travel Clerks,"Make and confirm reservations for transportation and accommodations, using telephones, faxes, mail, and computers.",0.85,reservation booking via computer systems
+9751,Reservation and Transportation Ticket Agents and Travel Clerks,Prepare customer invoices and accept payment.,0.75,invoice prep high but payment handling partial
+9752,Reservation and Transportation Ticket Agents and Travel Clerks,"Answer inquiries regarding information, such as schedules, accommodations, procedures, or policies.",0.90,answering info inquiries
+9753,Reservation and Transportation Ticket Agents and Travel Clerks,"Assemble and issue required documentation, such as tickets, travel insurance policies, or itineraries.",0.85,assembling digital travel documents
+9754,Reservation and Transportation Ticket Agents and Travel Clerks,"Determine whether space is available on travel dates requested by customers, assigning requested spaces when available.",0.90,checking and assigning space via system
+9755,Reservation and Transportation Ticket Agents and Travel Clerks,"Inform clients of essential travel information, such as travel times, transportation connections, or medical and visa requirements.",0.90,informing clients of travel info
+9756,Reservation and Transportation Ticket Agents and Travel Clerks,Maintain computerized inventories of available passenger space and provide information on space reserved or available.,0.90,maintaining computerized inventory
+9757,Reservation and Transportation Ticket Agents and Travel Clerks,Confer with customers to determine their service requirements and travel preferences.,0.75,conversational requirement gathering
+9758,Reservation and Transportation Ticket Agents and Travel Clerks,Examine passenger documentation to determine destinations and to assign boarding passes.,0.35,physical document check and boarding pass at counter
+9759,Reservation and Transportation Ticket Agents and Travel Clerks,Provide boarding or disembarking assistance to passengers needing special assistance.,0.05,physical boarding assistance
+9760,Reservation and Transportation Ticket Agents and Travel Clerks,Check baggage and cargo and direct passengers to designated locations for loading.,0.05,physical baggage handling
+9761,Reservation and Transportation Ticket Agents and Travel Clerks,"Announce arrival and departure information, using public address systems.",0.75,automatable PA announcements
+9762,Reservation and Transportation Ticket Agents and Travel Clerks,"Trace lost, delayed, or misdirected baggage for customers.",0.75,system lookup for lost baggage
+9763,Reservation and Transportation Ticket Agents and Travel Clerks,"Promote particular destinations, tour packages, and other travel services.",0.85,marketing content creation
+9764,Reservation and Transportation Ticket Agents and Travel Clerks,Provide clients with assistance in preparing required travel documents and forms.,0.85,helping prepare travel documents
+9766,Reservation and Transportation Ticket Agents and Travel Clerks,"Provide customers with travel suggestions and information sources, such as guides, directories, brochures, or maps.",0.90,providing info sources to customers
+9767,Reservation and Transportation Ticket Agents and Travel Clerks,Contact customers or travel agents to advise them of travel conveyance changes or to confirm reservations.,0.85,contacting customers about changes
+9768,Reservation and Transportation Ticket Agents and Travel Clerks,"Contact motel, hotel, resort, and travel operators to obtain current advertising literature.",0.80,requesting literature from operators
+9788,Statistical Assistants,"Compute and analyze data, using statistical formulas and computers or calculators.",0.95,pure statistical computation
+9789,Statistical Assistants,Enter data into computers for use in analyses or reports.,0.90,data entry
+9790,Statistical Assistants,"Compile statistics from source materials, such as production or sales records, quality-control or test records, time sheets, or survey sheets.",0.90,compiling statistics from records
+9791,Statistical Assistants,"Compile reports, charts, or graphs that describe and interpret findings of analyses.",0.90,compiling reports and charts
+9792,Statistical Assistants,Check source data to verify completeness and accuracy.,0.90,verifying data accuracy
+9793,Statistical Assistants,Participate in the publication of data or information.,0.75,participating in data publication
+9794,Statistical Assistants,Discuss data presentation requirements with clients.,0.75,discussing requirements with clients
+9795,Statistical Assistants,"File data and related information, and maintain and update databases.",0.90,database maintenance
+9796,Statistical Assistants,Select statistical tests for analyzing data.,0.90,selecting statistical tests via reasoning
+9797,Statistical Assistants,"Organize paperwork, such as survey forms or reports, for distribution or analysis.",0.55,organizing physical paperwork
+9798,Statistical Assistants,"Code data prior to computer entry, using lists of codes.",0.90,coding data with lists
+9799,Statistical Assistants,"Check survey responses for errors, such as the use of pens instead of pencils, and set aside response forms that cannot be used.",0.20,physical inspection of paper forms
+9800,Statistical Assistants,Interview people and keep track of their responses.,0.45,live interviewing needs human rapport
+9801,Statistical Assistants,Send out surveys.,0.85,sending surveys via digital tools
+10829,Environmental Compliance Inspectors,"Determine the nature of code violations and actions to be taken, and issue written notices of violation, participating in enforcement hearings, as necessary.",0.25,legal enforcement authority and hearings needed
+10830,Environmental Compliance Inspectors,"Examine permits, licenses, applications, and records to ensure compliance with licensing requirements.",0.85,document compliance review
+10831,Environmental Compliance Inspectors,"Prepare, organize, and maintain inspection records.",0.90,record keeping
+10832,Environmental Compliance Inspectors,Interview individuals to determine the nature of suspected violations and to obtain evidence of violations.,0.40,investigative interviews need human presence
+10833,Environmental Compliance Inspectors,"Prepare written, oral, tabular, and graphic reports summarizing requirements and regulations, including enforcement and chain of custody documentation.",0.80,report writing on compliance
+10834,Environmental Compliance Inspectors,"Monitor follow-up actions in cases where violations were found, and review compliance monitoring reports.",0.80,reviewing compliance reports
+10835,Environmental Compliance Inspectors,"Investigate complaints and suspected violations regarding illegal dumping, pollution, pesticides, product quality, or labeling laws.",0.30,field investigation of complaints
+10836,Environmental Compliance Inspectors,"Inspect waste pretreatment, treatment, and disposal facilities and systems for conformance to federal, state, or local regulations.",0.05,physical facility inspection
+10837,Environmental Compliance Inspectors,"Inform individuals and groups of pollution control regulations and inspection findings, and explain how problems can be corrected.",0.55,communicating regulations remotely
+10838,Environmental Compliance Inspectors,"Determine sampling locations and methods, and collect water or wastewater samples for analysis, preserving samples with appropriate containers and preservation methods.",0.05,physical sample collection
+10839,Environmental Compliance Inspectors,"Verify that hazardous chemicals are handled, stored, and disposed of in accordance with regulations.",0.10,on-site chemical storage verification
+10840,Environmental Compliance Inspectors,Research and keep informed of pertinent information and developments in areas such as EPA laws and regulations.,0.95,pure regulatory research
+10841,Environmental Compliance Inspectors,"Determine which sites and violation reports to investigate, and coordinate compliance and enforcement activities with other government agencies.",0.55,decision plus interagency coordination
+10842,Environmental Compliance Inspectors,"Observe and record field conditions, gathering, interpreting, and reporting data such as flow meter readings and chemical levels.",0.10,physical field observation
+10843,Environmental Compliance Inspectors,"Learn and observe proper safety precautions, rules, regulations, and practices so that unsafe conditions can be recognized and proper safety protocols implemented.",0.10,on the job physical safety learning
+10844,Environmental Compliance Inspectors,Evaluate label information for accuracy and conformance to regulatory requirements.,0.85,label document review
+10845,Environmental Compliance Inspectors,"Inform health professionals, property owners, and the public about harmful properties and related problems of water pollution and contaminated wastewater.",0.65,public communication of hazards
+10846,Environmental Compliance Inspectors,"Analyze and implement state, federal or local requirements as necessary to maintain approved pretreatment, pollution prevention, and storm water runoff programs.",0.55,analysis high but implementation needs authority
+10847,Environmental Compliance Inspectors,"Perform laboratory tests on samples collected, such as analyzing the content of contaminated wastewater.",0.05,physical lab testing
+10848,Environmental Compliance Inspectors,"Review and evaluate applications for registration of products containing dangerous materials, or for pollution control discharge permits.",0.80,permit application review
+10849,Environmental Compliance Inspectors,"Research and perform calculations related to landscape allowances, discharge volumes, production-based and alternative limits, and wastewater strength classifications, making recommendations and compl",0.85,research and calculation work
+10850,Environmental Compliance Inspectors,"Participate in the development of spill prevention programs and hazardous waste rules and regulations, and recommend corrective actions for hazardous waste problems.",0.55,collaborative program development
+10851,Environmental Compliance Inspectors,"Maintain and repair materials, work sites, and equipment.",0.00,physical maintenance and repair
+10852,Environmental Compliance Inspectors,Conduct research on hazardous waste management projects to determine the magnitude of problems and treatment or disposal alternatives and costs.,0.85,research on waste management options
+10853,Environmental Compliance Inspectors,"Respond to questions and inquiries, such as those concerning service charges and capacity fees, or refer them to supervisors.",0.80,answering inquiries or referring
+10865,Equal Opportunity Representatives and Officers,Investigate employment practices or alleged violations of laws to document and correct discriminatory factors.,0.40,investigation needs authority and interviews
+10866,Equal Opportunity Representatives and Officers,Interpret civil rights laws and equal opportunity regulations for individuals or employers.,0.65,legal interpretation without binding authority
+10867,Equal Opportunity Representatives and Officers,Study equal opportunity complaints to clarify issues.,0.80,analyzing complaint documents
+10869,Equal Opportunity Representatives and Officers,"Coordinate, monitor, or revise complaint procedures to ensure timely processing and review of complaints.",0.65,process coordination and admin
+10870,Equal Opportunity Representatives and Officers,"Prepare reports of selection, survey, or other statistics and recommendations for corrective action.",0.85,report and recommendation writing
+10871,Equal Opportunity Representatives and Officers,Conduct surveys and evaluate findings to determine if systematic discrimination exists.,0.70,survey conduct and analysis
+10873,Equal Opportunity Representatives and Officers,Review company contracts to determine actions required to meet governmental equal opportunity provisions.,0.80,contract document review
+10874,Equal Opportunity Representatives and Officers,"Counsel newly hired members of minority or disadvantaged groups, informing them about details of civil rights laws.",0.40,counseling needs human rapport
+10875,Equal Opportunity Representatives and Officers,"Provide information, technical assistance, or training to supervisors, managers, or employees on topics such as employee supervision, hiring, grievance procedures, or staff development.",0.65,training and info delivery
+10876,Equal Opportunity Representatives and Officers,Verify that all job descriptions are submitted for review and approval and that descriptions meet regulatory standards.,0.75,job description compliance review
+10878,Equal Opportunity Representatives and Officers,Consult with community representatives to develop technical assistance agreements in accordance with governmental regulations.,0.40,consultation and relationship building
+10879,Equal Opportunity Representatives and Officers,"Meet with job search committees or coordinators to explain the role of the equal opportunity coordinator, to provide resources for advertising, or to explain expectations for future contacts.",0.35,in person meeting with committees
+10880,Equal Opportunity Representatives and Officers,"Participate in the recruitment of employees through job fairs, career days, or advertising plans.",0.35,job fairs need physical presence
+11237,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Answer customers' questions about products, prices, availability, or credit terms.",0.90,answering product questions
+11238,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Quote prices, credit terms, or other bid specifications.",0.85,quoting prices and terms
+11239,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Emphasize product features, based on analyses of customers' needs and on technical knowledge of product capabilities and limitations.",0.80,sales communication on features
+11240,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Negotiate prices or terms of sales or service agreements.,0.35,negotiation needs human trust
+11241,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Maintain customer records, using automated systems.",0.90,automated record maintenance
+11245,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Collaborate with colleagues to exchange information, such as selling strategies or marketing information.",0.65,collaborating with human colleagues
+11246,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Prepare sales presentations or proposals to explain product specifications or applications.,0.90,presentation content creation
+11248,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Provide customers with ongoing technical support.,0.75,remote technical support
+11249,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Inform customers of estimated delivery schedules, service contracts, warranties, or other information pertaining to purchased products.",0.85,informing customers of logistics
+11251,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Visit establishments to evaluate needs or to promote product or service sales.,0.10,physical establishment visits
+11252,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Complete expense reports, sales reports, or other paperwork.",0.90,paperwork and report completion
+11256,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Provide feedback to product design teams so that products can be tailored to clients' needs.,0.80,feedback communication to design teams
+11257,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Arrange for installation and testing of products or machinery.,0.65,arranging logistics not physical install
+11261,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Compute customer's installation or production costs and estimate savings from new services, products, or equipment.",0.90,cost computation and estimation
+11262,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Consult with engineers regarding technical problems with products.,0.65,technical consultation with engineers
+11265,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Stock or distribute resources, such as samples or promotional or educational materials.",0.05,physical stocking and distribution
+11267,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Visit establishments, such as pharmacies, to determine product sales.",0.10,physical establishment visits
+11270,Correspondence Clerks,"Prepare documents and correspondence, such as damage claims, credit and billing inquiries, invoices, and service complaints.",0.90,document and correspondence drafting
+11271,Correspondence Clerks,Compile data from records to prepare periodic reports.,0.90,compiling data into reports
+11272,Correspondence Clerks,Present clear and concise explanations of governing rules and regulations.,0.85,explaining regulations clearly
+11273,Correspondence Clerks,Read incoming correspondence to ascertain nature of writers' concerns and to determine disposition of correspondence.,0.90,reading and triaging correspondence
+11274,Correspondence Clerks,Type acknowledgment letters to persons sending correspondence.,0.95,typing acknowledgment letters
+11275,Correspondence Clerks,"Review correspondence for format and typographical accuracy, assemble the information into a prescribed form with the correct number of copies, and submit it to an authorized official for signature.",0.85,reviewing and assembling correspondence
+11276,Correspondence Clerks,Maintain files and control records to show correspondence activities.,0.90,file and record maintenance
+11277,Correspondence Clerks,"Gather records pertinent to specific problems, review them for completeness and accuracy, and attach records to correspondence as necessary.",0.85,gathering and reviewing records
+11278,Correspondence Clerks,Complete form letters in response to requests or problems identified by correspondence.,0.90,completing form letters
+11279,Correspondence Clerks,Route correspondence to other departments for reply.,0.85,routing correspondence digitally
+11280,Correspondence Clerks,"Compose letters in reply to correspondence concerning such items as requests for merchandise, damage claims, credit information requests, delinquent accounts, incorrect billing, or unsatisfactory serv",0.90,composing reply letters
+11281,Correspondence Clerks,Ensure that money collected is properly recorded and secured.,0.40,securing physical money not possible
+11283,Correspondence Clerks,"Compute costs of records furnished to requesters, and write letters to obtain payment.",0.85,cost computation and payment letters
+11285,Correspondence Clerks,Prepare records for shipment by certified mail.,0.30,physical mail preparation
+11287,Correspondence Clerks,Confer with company personnel regarding feasibility of complying with writers' requests.,0.65,conferring with personnel remotely
+11289,Correspondence Clerks,Process orders for goods requested in correspondence.,0.85,order processing
+11290,Correspondence Clerks,Compile data pertinent to manufacture of special products for customers.,0.85,compiling manufacturing data
+11291,Loan Interviewers and Clerks,Verify and examine information and accuracy of loan application and closing documents.,0.85,loan document verification
+11292,Loan Interviewers and Clerks,Interview loan applicants to obtain personal and financial data and to assist in completing applications.,0.55,interviewing applicants needs rapport
+11293,Loan Interviewers and Clerks,"Assemble and compile documents for loan closings, such as title abstracts, insurance forms, loan forms, and tax receipts.",0.85,compiling closing documents
+11294,Loan Interviewers and Clerks,Answer questions and advise customers regarding loans and transactions.,0.75,answering and advising on loans
+11295,Loan Interviewers and Clerks,"Contact customers by mail, telephone, or in person concerning acceptance or rejection of applications.",0.65,contacting customers remotely partial in person
+11296,Loan Interviewers and Clerks,"Record applications for loan and credit, loan information, and disbursements of funds, using computers.",0.90,recording applications via computer
+11297,Loan Interviewers and Clerks,"Prepare and type loan applications, closing documents, legal documents, letters, forms, government notices, and checks, using computers.",0.85,preparing loan documents digitally
+11298,Loan Interviewers and Clerks,Present loan and repayment schedules to customers.,0.85,presenting repayment schedules
+11299,Loan Interviewers and Clerks,"Calculate, review, and correct errors on interest, principal, payment, and closing costs, using computers or calculators.",0.90,calculating and correcting loan figures
+11300,Loan Interviewers and Clerks,Check value of customer collateral to be held as loan security.,0.55,collateral valuation may need physical appraisal
+11301,Loan Interviewers and Clerks,"Contact credit bureaus, employers, and other sources to check applicants' credit and personal references.",0.80,contacting bureaus for credit checks
+11302,Loan Interviewers and Clerks,File and maintain loan records.,0.90,loan record filing
+11303,Loan Interviewers and Clerks,Schedule and conduct closings of mortgage transactions.,0.25,closings need legal presence and signatures
+11304,Loan Interviewers and Clerks,Accept payment on accounts.,0.75,digital payment acceptance
+11305,Loan Interviewers and Clerks,Submit loan applications with recommendation for underwriting approval.,0.80,submitting applications with recommendation
+11306,Loan Interviewers and Clerks,Order property insurance or mortgage insurance policies to ensure protection against loss on mortgaged property.,0.75,ordering insurance policies digitally
+11307,Loan Interviewers and Clerks,Review customer accounts to determine whether payments are made on time and that other loan terms are being followed.,0.90,reviewing account payment status
+11308,Loan Interviewers and Clerks,Establish credit limits and grant extensions of credit on overdue accounts.,0.50,credit decisions need fiduciary accountability
+11309,"Meter Readers, Utilities","Read electric, gas, water, or steam consumption meters and enter data in route books or hand-held computers.",0.05,physical meter reading
+11310,"Meter Readers, Utilities",Walk or drive vehicles along established routes to take readings of meter dials.,0.00,physical travel along routes
+11311,"Meter Readers, Utilities","Upload into office computers all information collected on hand-held computers during meter rounds, or return route books or hand-held computers to business offices so that data can be compiled.",0.20,partly physical device handling
+11312,"Meter Readers, Utilities","Verify readings in cases where consumption appears to be abnormal, and record possible reasons for fluctuations.",0.35,verification may need physical recheck
+11313,"Meter Readers, Utilities","Inspect meters for unauthorized connections, defects, and damage, such as broken seals.",0.05,physical meter inspection

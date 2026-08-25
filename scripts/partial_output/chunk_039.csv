@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+21367,"Transportation, Storage, and Distribution Managers",Plan or implement improvements to internal or external systems or processes.,0.55,can plan but implementation needs organizational authority
+21368,"Transportation, Storage, and Distribution Managers",Recommend or authorize capital expenditures for acquisition of new equipment or property to increase efficiency and services.,0.40,can recommend but authorization needs formal authority
+21369,"Transportation, Storage, and Distribution Managers","Review invoices, work orders, consumption reports, or demand forecasts to estimate peak performance periods and to issue work assignments.",0.75,data review and assignment writing
+20942,Supply Chain Managers,"Determine appropriate equipment and staffing levels to load, unload, move, or store materials.",0.80,analytical staffing and equipment determination
+20943,Supply Chain Managers,"Manage activities related to strategic or tactical purchasing, material requirements planning, controlling inventory, warehousing, or receiving.",0.55,broad management role needs human oversight
+15680,Supply Chain Managers,Select transportation routes to maximize economy by combining shipments or consolidating warehousing and distribution.,0.85,route optimization analysis
+15695,Supply Chain Managers,"Define performance metrics for measurement, comparison, or evaluation of supply chain factors, such as product cost or quality.",0.90,pure metric definition work
+20944,Supply Chain Managers,Implement new or improved supply chain processes to improve efficiency or performance.,0.50,implementation needs organizational rollout
+15700,Supply Chain Managers,"Develop procedures for coordination of supply chain management with other functional areas, such as sales, marketing, finance, production, or quality assurance.",0.85,procedure writing
+15694,Supply Chain Managers,Confer with supply chain planners to forecast demand or create supply plans that ensure availability of materials or products.,0.50,requires live conferring with planners
+15696,Supply Chain Managers,"Analyze inventories to determine how to increase inventory turns, reduce waste, or optimize customer service.",0.85,inventory data analysis
+15685,Supply Chain Managers,"Negotiate prices and terms with suppliers, vendors, or freight forwarders.",0.35,vendor price negotiation
+15697,Supply Chain Managers,Analyze information about supplier performance or procurement program success.,0.90,supplier performance analysis
+20945,Supply Chain Managers,Monitor suppliers' activities to assess performance in meeting quality or delivery requirements.,0.80,performance monitoring from data
+15701,Supply Chain Managers,"Design or implement supply chains that support business strategies adapted to changing market conditions, new business opportunities, or cost reduction strategies.",0.50,design doable implementation needs authority
+15688,Supply Chain Managers,"Meet with suppliers to discuss performance metrics, to provide performance feedback, or to discuss production forecasts or changes.",0.40,live supplier meetings and feedback
+20946,Supply Chain Managers,Monitor forecasts and quotas to identify changes and predict effects on supply chain activities.,0.85,forecast monitoring and analysis
+15698,Supply Chain Managers,"Participate in the coordination of engineering changes, product line extensions, or new product launches to ensure orderly and timely transitions in material or production flow.",0.55,cross functional coordination needs humans
+20947,Supply Chain Managers,"Identify or qualify new suppliers in collaboration with other departments, such as procurement, engineering, or quality assurance.",0.55,supplier identification and vetting
+15693,Supply Chain Managers,Design or implement plant warehousing strategies for production materials or finished products.,0.50,design doable implementation needs execution
+19541,Supply Chain Managers,"Design, implement, or oversee product take back or reverse logistics programs to ensure products are recycled, reused, or responsibly disposed.",0.50,program design vs physical implementation
+15692,Supply Chain Managers,Develop or implement procedures or systems to evaluate or select suppliers.,0.75,procedure development for supplier evaluation
+15691,Supply Chain Managers,"Document physical supply chain processes, such as workflows, cycle times, position responsibilities, or system flows.",0.85,process documentation
+15681,Supply Chain Managers,Diagram supply chain models to help facilitate discussions with customers.,0.70,diagram creation for discussions
+19542,Supply Chain Managers,"Evaluate and select information or other technology solutions to improve tracking and reporting of materials or products distribution, storage, or inventory.",0.75,technology evaluation and selection
+19543,Supply Chain Managers,"Identify opportunities to reuse or recycle materials to minimize consumption of new materials, minimize waste, or to convert wastes to by-products.",0.80,research on reuse and recycling opportunities
+19546,Supply Chain Managers,"Review or update supply chain practices in accordance with new or changing environmental policies, standards, regulations, or laws.",0.80,policy review against regulations
+19540,Supply Chain Managers,Design or implement supply chains that support environmental policies.,0.50,design doable implementation needs execution
+20948,Supply Chain Managers,Forecast material costs or develop standard cost lists.,0.85,cost forecasting analysis
+19545,Supply Chain Managers,"Locate or select biodegradable, non-toxic, or other environmentally friendly raw materials for manufacturing processes.",0.75,research on eco friendly materials
+20949,Supply Chain Managers,Appraise vendor manufacturing capabilities through on-site observations or other measurements.,0.15,requires on site observation
+19539,Supply Chain Managers,"Conduct or oversee the conduct of life cycle analyses to determine the environmental impacts of products, processes, or systems.",0.80,life cycle data analysis
+19544,Supply Chain Managers,Investigate or review the carbon footprints and environmental performance records of current or potential storage and distribution service providers.,0.85,research on carbon footprint records
+3267,Compensation and Benefits Managers,"Direct preparation and distribution of written and verbal information to inform employees of benefits, compensation, and personnel policies.",0.60,directing comms mixes drafting and verbal delivery
+3272,Compensation and Benefits Managers,"Design, evaluate, and modify benefits policies to ensure that programs are current, competitive, and in compliance with legal requirements.",0.80,benefits policy design and analysis
+3276,Compensation and Benefits Managers,"Fulfill all reporting requirements of all relevant government rules and regulations, including the Employee Retirement Income Security Act (ERISA).",0.55,reporting prep but formal filing needs accountable officer
+3273,Compensation and Benefits Managers,"Analyze compensation policies, government regulations, and prevailing wage rates to develop competitive compensation plan.",0.85,compensation policy analysis
+3271,Compensation and Benefits Managers,Identify and implement benefits to increase the quality of life for employees by working with brokers and researching benefits issues.,0.55,requires working with brokers and implementation
+3285,Compensation and Benefits Managers,"Manage the design and development of tools to assist employees in benefits selection, and to guide managers through compensation decisions.",0.75,managing tool design and development
+3268,Compensation and Benefits Managers,"Administer, direct, and review employee benefit programs, including the integration of benefit programs following mergers and acquisitions.",0.55,ongoing administration needs human oversight
+3275,Compensation and Benefits Managers,"Mediate between benefits providers and employees, such as by assisting in handling employees' benefits-related questions or taking suggestions.",0.55,mediating between providers and employees
+3270,Compensation and Benefits Managers,"Plan, direct, supervise, and coordinate work activities of subordinates and staff relating to employment, compensation, labor relations, and employee relations.",0.35,supervising staff requires human authority
+3283,Compensation and Benefits Managers,"Prepare detailed job descriptions and classification systems and define job levels and families, in partnership with other managers.",0.75,job description writing with manager input
+3279,Compensation and Benefits Managers,"Develop methods to improve employment policies, processes, and practices, and recommend changes to management.",0.85,policy analysis and recommendations
+3274,Compensation and Benefits Managers,"Formulate policies, procedures and programs for recruitment, testing, placement, classification, orientation, benefits and compensation, and labor and industrial relations.",0.80,policy formulation writing
+3290,Compensation and Benefits Managers,"Study legislation, arbitration decisions, and collective bargaining contracts to assess industry trends.",0.85,legal and legislative research
+3269,Compensation and Benefits Managers,Plan and conduct new-employee orientations to foster positive attitude toward organizational objectives.,0.35,live orientation delivery
+3287,Compensation and Benefits Managers,Prepare budgets for personnel operations.,0.85,budget preparation analysis
+3280,Compensation and Benefits Managers,Negotiate bargaining agreements.,0.20,high stakes bargaining negotiation with binding authority
+3288,Compensation and Benefits Managers,Prepare personnel forecasts to project employment needs.,0.85,personnel forecasting analysis
+3277,Compensation and Benefits Managers,"Maintain records and compile statistical reports concerning personnel-related data, such as hires, transfers, performance appraisals, and absenteeism rates.",0.85,records and statistical compilation
+3278,Compensation and Benefits Managers,"Analyze statistical data and reports to identify and determine causes of personnel problems, and develop recommendations for improvement of organization's personnel policies and practices.",0.85,statistical analysis and recommendations
+3289,Compensation and Benefits Managers,"Contract with vendors to provide employee services, such as food services, transportation, or relocation service.",0.30,vendor contracting needs signing authority
+3266,Compensation and Benefits Managers,"Advise management on such matters as equal employment opportunity, sexual harassment, and discrimination.",0.75,advisory research and drafting
+3282,Compensation and Benefits Managers,Represent organization at personnel-related hearings and investigations.,0.10,requires legal representation and presence
+990,Human Resources Managers,"Serve as a link between management and employees by handling questions, interpreting and administering contracts and helping resolve work-related problems.",0.40,ongoing interpersonal liaison role
+991,Human Resources Managers,"Plan, direct, supervise, and coordinate work activities of subordinates and staff relating to employment, compensation, labor relations, and employee relations.",0.35,supervising staff requires human authority
+986,Human Resources Managers,"Perform difficult staffing duties, including dealing with understaffing, refereeing disputes, firing employees, and administering disciplinary procedures.",0.10,firing and discipline need human authority and presence
+998,Human Resources Managers,Represent organization at personnel-related hearings and investigations.,0.10,requires legal representation and presence
+999,Human Resources Managers,Negotiate bargaining agreements and help interpret labor contracts.,0.30,bargaining negotiation with binding authority
+987,Human Resources Managers,"Advise managers on organizational policy matters, such as equal employment opportunity and sexual harassment, and recommend needed changes.",0.75,advisory research and drafting
+989,Human Resources Managers,Plan and conduct new employee orientation to foster positive attitude toward organizational objectives.,0.35,live orientation delivery
+988,Human Resources Managers,Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements.,0.80,policy analysis and compliance
+983,Human Resources Managers,"Identify staff vacancies and recruit, interview, and select applicants.",0.40,interviewing and hiring decisions
+997,Human Resources Managers,Investigate and report on industrial accidents for insurance carriers.,0.45,investigation may need site visits and interviews
+994,Human Resources Managers,Analyze statistical data and reports to identify and determine causes of personnel problems and develop recommendations for improvement of organization's personnel policies and practices.,0.85,statistical analysis and recommendations
+982,Human Resources Managers,"Administer compensation, benefits, and performance management systems, and safety and recreation programs.",0.50,broad program administration needs human oversight
+1001,Human Resources Managers,Prepare and follow budgets for personnel operations.,0.85,budget preparation analysis
+993,Human Resources Managers,"Maintain records and compile statistical reports concerning personnel-related data such as hires, transfers, performance appraisals, and absenteeism rates.",0.85,records and statistical compilation
+985,Human Resources Managers,"Provide current and prospective employees with information about policies, job duties, working conditions, wages, opportunities for promotion, and employee benefits.",0.75,information provision to employees
+995,Human Resources Managers,"Plan, organize, direct, control, or coordinate the personnel, training, or labor relations activities of an organization.",0.35,broad directing role requires human authority
+996,Human Resources Managers,Conduct exit interviews to identify reasons for employee termination.,0.45,live exit interview conversation
+1003,Human Resources Managers,"Oversee the evaluation, classification, and rating of occupations and job positions.",0.75,job evaluation and classification analysis
+992,Human Resources Managers,"Analyze training needs to design employee development, language training, and health and safety programs.",0.80,training needs analysis and program design
+984,Human Resources Managers,"Allocate human resources, ensuring appropriate matches between personnel.",0.55,staffing allocation decisions with accountability
+1000,Human Resources Managers,Prepare personnel forecast to project employment needs.,0.85,personnel forecasting analysis
+1004,Human Resources Managers,"Study legislation, arbitration decisions, and collective bargaining contracts to assess industry trends.",0.85,legal and legislative research
+1005,Human Resources Managers,"Develop or administer special projects in areas such as pay equity, savings bond programs, day care, and employee awards.",0.55,developing doable but administering programs ongoing
+1002,Human Resources Managers,"Develop, administer, and evaluate applicant tests.",0.60,test development doable proctoring needs presence
+1007,Human Resources Managers,"Contract with vendors to provide employee services, such as food service, transportation, or relocation service.",0.30,vendor contracting needs signing authority
+1006,Human Resources Managers,Provide terminated employees with outplacement or relocation assistance.,0.35,real world relocation and outplacement assistance
+1015,Training and Development Managers,Analyze training needs to develop new training programs or modify and improve existing programs.,0.85,training needs analysis and program development
+1009,Training and Development Managers,"Evaluate instructor performance and the effectiveness of training programs, providing recommendations for improvement.",0.65,evaluation from performance data and records
+1014,Training and Development Managers,"Plan, develop, and provide training and staff development programs, using knowledge of the effectiveness of methods such as classroom training, demonstrations, on-the-job training, meetings, conferences, and workshops.",0.50,live training delivery mixed with planning
+1012,Training and Development Managers,"Confer with management and conduct surveys to identify training needs based on projected production processes, changes, and other factors.",0.55,conferring with management and survey work
+1008,Training and Development Managers,Conduct orientation sessions and arrange on-the-job training for new hires.,0.35,live orientation and on the job training
+1017,Training and Development Managers,Train instructors and supervisors in techniques and skills for training and dealing with employees.,0.40,live instructor training delivery
+1013,Training and Development Managers,"Develop and organize training manuals, multimedia visual aids, and other educational materials.",0.90,training material content creation
+1019,Training and Development Managers,Prepare training budget for department or organization.,0.85,budget preparation analysis
+1010,Training and Development Managers,Develop testing and evaluation procedures.,0.85,testing procedure design
+1011,Training and Development Managers,Conduct or arrange for ongoing technical training and personal development classes for staff members.,0.40,live class delivery and coordination
+1016,Training and Development Managers,Review and evaluate training and apprenticeship programs for compliance with government standards.,0.80,compliance review of training programs
+1018,Training and Development Managers,"Coordinate established courses with technical and professional courses provided by community schools, and designate training procedures.",0.65,coordination with external schools via communication
+21370,"Farmers, Ranchers, and Other Agricultural Managers","Collect and record growth, production, and environmental data.",0.25,physical field data collection
+21371,"Farmers, Ranchers, and Other Agricultural Managers","Manage nurseries that grow horticultural plants for sale to trade or retail customers, for display or exhibition, or for research.",0.10,physical nursery management
+21372,"Farmers, Ranchers, and Other Agricultural Managers","Direct and monitor trapping and spawning of fish, egg incubation, and fry rearing, applying knowledge of management and fish culturing techniques.",0.10,physical fish hatchery operations
+21373,"Farmers, Ranchers, and Other Agricultural Managers","Direct and monitor the transfer of mature fish to lakes, ponds, streams, or commercial tanks.",0.10,physical fish transfer operations
+21374,"Farmers, Ranchers, and Other Agricultural Managers","Determine how to allocate resources and to respond to unanticipated problems, such as insect infestation, drought, and fire.",0.55,resource allocation analysis vs on ground response
+21375,"Farmers, Ranchers, and Other Agricultural Managers","Determine plant growing conditions, such as greenhouses, hydroponics, or natural settings, and set planting and care schedules.",0.65,growing condition analysis and scheduling
+21376,"Farmers, Ranchers, and Other Agricultural Managers","Devise and participate in activities to improve fish hatching and growth rates, and to prevent disease in hatcheries.",0.30,devising doable but hands on hatchery work
+21377,"Farmers, Ranchers, and Other Agricultural Managers","Position and regulate plant irrigation systems, and program environmental and irrigation control computers.",0.35,physical positioning with some programmable automation
+21378,"Farmers, Ranchers, and Other Agricultural Managers",Prepare reports required by state and federal laws.,0.85,regulatory report writing
+21379,"Farmers, Ranchers, and Other Agricultural Managers","Inspect facilities and equipment for signs of disrepair, and perform necessary maintenance work.",0.05,physical inspection and maintenance work
+21380,"Farmers, Ranchers, and Other Agricultural Managers","Maintain financial, operational, production, or employment records for farms or ranches.",0.80,farm recordkeeping
+21381,"Farmers, Ranchers, and Other Agricultural Managers","Coordinate clerical, record-keeping, inventory, requisitioning, and marketing activities.",0.65,coordination of clerical and inventory activities
+21382,"Farmers, Ranchers, and Other Agricultural Managers","Direct the breeding or raising of stock, such as cattle, poultry, or honeybees, using recognized breeding practices to ensure stock improvement.",0.10,physical animal breeding operations
+21383,"Farmers, Ranchers, and Other Agricultural Managers","Negotiate with buyers for the sale, storage, or shipment of crops or livestock.",0.30,buyer negotiation
+21384,"Farmers, Ranchers, and Other Agricultural Managers",Coordinate the selection and maintenance of brood stock.,0.15,physical brood stock selection and maintenance
+21385,"Farmers, Ranchers, and Other Agricultural Managers",Analyze soil to determine types or quantities of fertilizer required for maximum crop production.,0.65,soil data analysis
+21386,"Farmers, Ranchers, and Other Agricultural Managers","Provide information to customers on the care of trees, shrubs, flowers, plants, and lawns.",0.80,customer information provision
+21387,"Farmers, Ranchers, and Other Agricultural Managers",Analyze market conditions to determine acreage allocations.,0.80,market analysis
+21388,"Farmers, Ranchers, and Other Agricultural Managers","Supervise the construction of farm or ranch structures, such as buildings, fences, drainage systems, wells, or roads.",0.15,on site construction supervision
+21389,"Farmers, Ranchers, and Other Agricultural Managers","Replace chemical insecticides with environmentally friendly practices, such as adding pest-repelling plants to fields.",0.10,physical field practice changes
+21390,"Farmers, Ranchers, and Other Agricultural Managers",Conduct inspections to determine crop maturity or condition or to detect disease or insect infestation.,0.15,physical crop inspection
+21391,"Farmers, Ranchers, and Other Agricultural Managers",Conduct or supervise stock examinations to identify diseases or parasites.,0.10,physical animal examination
+21392,"Farmers, Ranchers, and Other Agricultural Managers","Determine types or quantities of crops, plants, or livestock to be grown and raised, based on budgets, federal incentives, market conditions, executive directives, projected sales volumes, or soil conditions.",0.75,data driven crop and livestock planning decisions
+21393,"Farmers, Ranchers, and Other Agricultural Managers","Determine, administer, and execute policies relating to operations administration and standards, facility maintenance, and safety.",0.40,policy determination vs physical execution
+21394,"Farmers, Ranchers, and Other Agricultural Managers","Direct crop production operations, such as planning, tilling, planting, fertilizing, cultivating, spraying, and harvesting.",0.20,directing physical field operations
+21395,"Farmers, Ranchers, and Other Agricultural Managers",Evaluate marketing or sales alternatives for products.,0.85,marketing alternative analysis
+21396,"Farmers, Ranchers, and Other Agricultural Managers","Hire, supervise, and train support workers.",0.30,hiring supervising and training workers
+21397,"Farmers, Ranchers, and Other Agricultural Managers","Monitor activities, such as irrigation, chemical application, harvesting, milking, breeding, and grading, to ensure adherence to safety regulations or standards.",0.25,physical activity monitoring
+21398,"Farmers, Ranchers, and Other Agricultural Managers",Monitor environments to ensure maintenance of optimum animal or plant life.,0.30,physical environment monitoring
+21399,"Farmers, Ranchers, and Other Agricultural Managers","Obtain financing for and purchase necessary machinery, land, supplies, or livestock.",0.30,financing negotiation and purchasing authority
+3318,Construction Managers,Inspect or review projects to monitor compliance with building and safety codes or other regulations.,0.35,compliance inspection often needs site presence
+3327,Construction Managers,Develop or implement quality control programs.,0.55,quality program design vs organizational rollout
+20332,Construction Managers,"Plan, schedule, or coordinate construction project activities to meet deadlines.",0.75,project scheduling and coordination analysis
+3326,Construction Managers,"Prepare and submit budget estimates, progress reports, or cost tracking reports.",0.85,budget and progress report preparation
+20340,Construction Managers,Direct and supervise construction or related workers.,0.15,on site supervision of physical labor
+3317,Construction Managers,Determine labor requirements for dispatching workers to construction sites.,0.75,labor requirement planning analysis
+3314,Construction Managers,"Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",0.45,live conferring and dispute resolution with stakeholders

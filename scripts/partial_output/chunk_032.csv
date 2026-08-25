@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+21620,Financial Risk Specialists,"Evaluate the risks related to green investments, such as renewable energy company stocks.",0.90,pure investment risk analysis
+21621,Financial Risk Specialists,Gather risk-related data from internal or external resources.,0.90,gathering data from sources
+21622,Financial Risk Specialists,"Identify key risks and mitigating factors of potential investments, such as asset types and values, legal and ownership structures, professional reputations, customer bases, or industry segments.",0.85,risk identification analysis
+21623,Financial Risk Specialists,"Inform financial decisions by analyzing financial information to forecast business, industry, or economic conditions.",0.85,financial forecasting analysis
+21624,Financial Risk Specialists,"Interpret data on price, yield, stability, future investment-risk trends, economic influences, and other factors affecting investment programs.",0.85,interpreting investment risk data
+21625,Financial Risk Specialists,Maintain input or data quality of risk management systems.,0.80,maintaining digital data quality
+21626,Financial Risk Specialists,"Meet with clients to answer queries on subjects such as risk exposure, market scenarios, or values-at-risk calculations.",0.45,live client meeting rapport
+21627,Financial Risk Specialists,"Monitor developments in the fields of industrial technology, business, finance, and economic theory.",0.85,monitoring research and literature
+21628,Financial Risk Specialists,"Prepare plans of action for investment, using financial analyses.",0.80,prepare investment plans from analysis
+21629,Financial Risk Specialists,"Produce reports or presentations that outline findings, explain risk positions, or recommend changes.",0.90,produce written reports and presentations
+21630,Financial Risk Specialists,Provide statistical modeling advice to other departments.,0.80,statistical modeling advice text based
+21631,Financial Risk Specialists,"Recommend investments and investment timing to companies, investment firm staff, or the public.",0.70,investment recommendations carry advisory responsibility
+21632,Financial Risk Specialists,Recommend ways to control or reduce risk.,0.85,recommend risk control measures
+21633,Financial Risk Specialists,Review or draft risk disclosures for offer documents.,0.70,drafting disclosures needs professional signoff
+21634,Financial Risk Specialists,"Track, measure, or report on aspects of market risk for traded issues.",0.85,track and report market risk
+21635,Loan Officers,Assist in selection of financial award candidates using electronic databases to certify loan eligibility.,0.55,certifying eligibility implies accountable authority
+21636,Loan Officers,Authorize or sign mail collection letters.,0.30,authorizing signing requires human authority
+21637,Loan Officers,Calculate amount of debt and funds available to plan methods of payoff and to estimate time for debt liquidation.,0.90,pure debt calculation
+21638,Loan Officers,Confer with underwriters to resolve mortgage application problems.,0.55,confer with underwriters coordination
+21639,Loan Officers,Contact applicants or creditors to resolve questions about applications or to assist with completion of paperwork.,0.55,contact applicants to resolve questions
+21640,Loan Officers,Contact borrowers with delinquent accounts to obtain payment in full or to negotiate repayment plans.,0.40,negotiating repayment with borrowers
+21641,Loan Officers,"Counsel clients on personal and family financial problems, such as excessive spending or borrowing of funds.",0.35,counseling clients emotional trust needed
+21642,Loan Officers,Establish payment priorities according to credit terms and interest rates to reduce clients' overall costs.,0.85,establishing payment priorities analytical
+21643,Loan Officers,Inform individuals and groups about the financial assistance available to college or university students.,0.75,informing groups about aid programs
+21644,Loan Officers,"Maintain and review account records, updating and recategorizing them according to status changes.",0.90,maintain and review account records
+21645,Loan Officers,Match individuals' needs and eligibility with available financial aid programs to provide informed recommendations.,0.80,matching eligibility to aid programs
+21646,Loan Officers,Review accounts to determine write-offs for collection agencies.,0.65,review for write off decision
+21647,Loan Officers,Review billing for accuracy.,0.85,review billing accuracy
+22689,Cardiologists,"Administer emergency cardiac care for life-threatening heart problems, such as cardiac arrest and heart attack.",0.00,emergency physical cardiac care
+22690,Cardiologists,"Advise patients and community members concerning diet, activity, hygiene, or disease prevention.",0.40,advising requires clinical trust and presence
+22691,Cardiologists,Answer questions that patients have about their health and well-being.,0.40,answering health questions needs medical authority
+22692,Cardiologists,Calculate valve areas from blood flow velocity measurements.,0.90,pure calculation from measurements
+22693,Cardiologists,"Compare measurements of heart wall thickness and chamber sizes to standards to identify abnormalities, using the results of an echocardiogram.",0.55,comparing echocardiogram measurements to standards
+22694,Cardiologists,"Conduct electrocardiogram (EKG), phonocardiogram, echocardiogram, or other cardiovascular tests to record patients' cardiac activity, using specialized electronic test equipment, recording devices, or",0.05,physically operating cardiac test equipment
+22695,Cardiologists,Conduct exercise electrocardiogram tests to monitor cardiovascular activity under stress.,0.05,physical stress test administration
+22696,Cardiologists,"Conduct research to develop or test medications, treatments, or procedures that prevent or control disease or injury.",0.30,clinical research requires physical trials
+22697,Cardiologists,"Conduct tests of the pulmonary system, using a spirometer or other respiratory testing equipment.",0.05,physical pulmonary testing on patient
+22698,Cardiologists,"Design and explain treatment plans, based on patient information such as medical history, reports, and examination results.",0.30,treatment plan needs medical authority
+22699,Cardiologists,"Diagnose cardiovascular conditions, using cardiac catheterization.",0.05,invasive catheterization procedure
+22700,Cardiologists,"Diagnose medical conditions of patients, using records, reports, test results, or examination information.",0.30,diagnosis requires licensed medical authority
+22701,Cardiologists,Explain procedures and discuss test results or prescribed treatments with patients.,0.30,explaining results needs medical authority
+22702,Cardiologists,Inject contrast media into patients' blood vessels.,0.00,physically injecting patient
+22704,Cardiologists,"Monitor patients' conditions and progress, and reevaluate treatments, as necessary.",0.15,monitoring patient needs physical presence
+22705,Cardiologists,"Observe ultrasound display screen, and listen to signals to record vascular information, such as blood pressure, limb volume changes, oxygen saturation, and cerebral circulation.",0.05,physical ultrasound observation on patient
+22706,Cardiologists,"Obtain and record patient information, including patient identification, medical history, and examination results.",0.50,obtaining patient info partly physical
+22707,Cardiologists,Operate diagnostic imaging equipment to produce contrast-enhanced radiographs of heart and cardiovascular system.,0.00,operating imaging equipment on patient
+22708,Cardiologists,"Order medical tests, such as echocardiograms, electrocardiograms, and angiograms.",0.20,ordering tests requires medical authority
+22709,Cardiologists,"Perform minimally invasive surgical procedures, such as implanting pacemakers and defibrillators.",0.00,physical surgical procedure
+22710,Cardiologists,"Perform vascular procedures, such as balloon angioplasty and stents.",0.00,physical vascular procedure
+22711,Cardiologists,Prescribe heart medication to treat or prevent heart problems.,0.05,prescribing requires legal authority
+22712,Cardiologists,Recommend surgeons or surgical procedures.,0.35,surgeon recommendation carries professional authority
+22713,Cardiologists,Supervise or train cardiology technologists or students.,0.30,supervision requires presence and authority
+22714,Cardiologists,Talk to other physicians about patients to create a treatment plan.,0.30,physician discussion needs medical judgment
+22715,Emergency Medicine Physicians,"Analyze records, examination information, or test results to diagnose medical conditions.",0.30,diagnosis requires licensed authority
+22716,Emergency Medicine Physicians,Assess patients' pain levels or sedation requirements.,0.15,assessing pain needs physical exam
+22717,Emergency Medicine Physicians,"Collect and record patient information, such as medical history or examination results, in electronic or handwritten medical records.",0.50,recording patient info partly physical intake
+22718,Emergency Medicine Physicians,Communicate likely outcomes of medical diseases or traumatic conditions to patients or their representatives.,0.25,communicating outcomes needs medical authority
+22719,Emergency Medicine Physicians,Conduct primary patient assessments that include information from prior medical care.,0.10,primary assessment requires physical exam
+22720,Emergency Medicine Physicians,"Consult with hospitalists and other professionals, such as social workers, regarding patients' hospital admission, continued observation, transition of care, or discharge.",0.40,consulting professionals on care coordination
+22721,Emergency Medicine Physicians,"Direct and coordinate activities of nurses, assistants, specialists, residents, and other medical staff.",0.15,directing staff requires physical authority
+22722,Emergency Medicine Physicians,Discuss patients' treatment plans with physicians and other medical professionals.,0.35,discussing treatment plans with physicians
+22723,Emergency Medicine Physicians,Evaluate patients' vital signs or laboratory data to determine emergency intervention needs and priority of treatment.,0.25,urgent clinical judgment and authority
+22724,Emergency Medicine Physicians,"Identify factors that may affect patient management, such as age, gender, barriers to communication, and underlying disease.",0.35,identifying management factors analytical
+22725,Emergency Medicine Physicians,"Monitor patients' conditions, and reevaluate treatments, as necessary.",0.15,monitoring patients needs physical presence
+22726,Emergency Medicine Physicians,Perform emergency resuscitations on patients.,0.00,physical emergency resuscitation
+22727,Emergency Medicine Physicians,"Perform such medical procedures as emergent cricothyrotomy, endotracheal intubation, and emergency thoracotomy.",0.00,invasive emergency medical procedures
+22728,Emergency Medicine Physicians,Refer patients to specialists or other practitioners.,0.20,referral requires medical authority
+22729,Emergency Medicine Physicians,Select and prescribe medications to address patient needs.,0.05,prescribing requires legal authority
+22730,Emergency Medicine Physicians,"Select, request, perform, or interpret diagnostic procedures, such as laboratory tests, electrocardiograms, emergency ultrasounds, and radiographs.",0.25,performing diagnostics is physical
+22731,Emergency Medicine Physicians,Stabilize patients in critical condition.,0.00,physically stabilizing critical patient
+22732,Radiologists,Administer radioisotopes to clinical patients or research subjects.,0.00,physically administering radioisotopes
+22733,Radiologists,"Advise other physicians of the clinical indications, limitations, assessments, or risks of diagnostic and therapeutic applications of radioactive materials.",0.40,advisory needs professional medical authority
+22734,Radiologists,"Calculate, measure, or prepare radioisotope dosages.",0.30,dosage prep partly physical
+22735,Radiologists,Check and approve the quality of diagnostic images before patients are discharged.,0.35,approving quality needs medical authority
+22736,Radiologists,"Compare nuclear medicine procedures with other types of procedures, such as computed tomography, ultrasonography, nuclear magnetic resonance imaging, and angiography.",0.75,comparative analysis of procedures
+22737,Radiologists,"Direct nuclear medicine technologists or technicians regarding desired dosages, techniques, positions, and projections.",0.25,directing technicians requires authority
+22738,Radiologists,Establish and enforce radiation protection standards for patients and staff.,0.20,enforcing standards requires authority
+22739,Radiologists,Formulate plans and procedures for nuclear medicine departments.,0.55,formulating departmental plans administrative
+22740,Radiologists,Monitor handling of radioactive materials to ensure that established procedures are followed.,0.15,monitoring physical handling of materials
+22741,Radiologists,Prescribe radionuclides and dosages to be administered to individual patients.,0.05,prescribing requires legal authority
+22742,Radiologists,Review procedure requests and patients' medical histories to determine applicability of procedures and radioisotopes to be used.,0.45,reviewing histories to determine applicability
+22743,Radiologists,"Teach nuclear medicine, diagnostic radiology, or other specialties at graduate educational level.",0.40,teaching requires live interaction
+22744,Radiologists,Test dosage evaluation instruments and survey meters to ensure they are operating properly.,0.10,physically testing lab instruments
+22745,"Orthopedic Surgeons, Except Pediatric","Analyze patient's medical history, medication allergies, physical condition, and examination results to verify operation's necessity and to determine best procedure.",0.30,verifying operation needs medical authority
+22746,"Orthopedic Surgeons, Except Pediatric",Conduct research to develop and test surgical techniques that can improve operating procedures and outcomes related to musculoskeletal injuries and diseases.,0.25,surgical technique testing needs physical trials
+22747,"Orthopedic Surgeons, Except Pediatric","Diagnose bodily disorders and orthopedic conditions, and provide treatments, such as medicines and surgeries, in clinics, hospital wards, or operating rooms.",0.10,diagnosis and surgery need authority and body
+22748,"Orthopedic Surgeons, Except Pediatric",Diagnose or treat disorders of the musculoskeletal system.,0.10,diagnose or treat needs authority and body
+22749,"Orthopedic Surgeons, Except Pediatric","Direct and coordinate activities of nurses, assistants, specialists, residents, and other medical staff.",0.15,directing staff requires physical authority
+22750,"Orthopedic Surgeons, Except Pediatric","Examine instruments, equipment, and operating room to ensure sterility.",0.05,physical sterility inspection
+22751,"Orthopedic Surgeons, Except Pediatric",Examine patient to obtain information on medical condition and surgical risk.,0.10,physical patient examination
+22752,"Orthopedic Surgeons, Except Pediatric",Follow established surgical techniques during the operation.,0.00,physical surgical operation
+22753,"Orthopedic Surgeons, Except Pediatric","Manage surgery services, including planning, scheduling and coordination, determination of procedures, or procurement of supplies and equipment.",0.55,administrative management of services
+22754,"Orthopedic Surgeons, Except Pediatric","Operate on patient's musculoskeletal system to correct deformities, repair injuries, prevent and treat diseases, or improve or restore patient's functions.",0.00,physical surgical operation
+22755,"Orthopedic Surgeons, Except Pediatric",Order and interpret the results of laboratory tests and diagnostic imaging procedures.,0.35,ordering needs authority interpreting partly doable
+22756,"Orthopedic Surgeons, Except Pediatric",Prepare case histories.,0.75,preparing written case histories
+22757,"Orthopedic Surgeons, Except Pediatric","Prescribe preoperative and postoperative treatments and procedures, such as sedatives, diets, antibiotics, or preparation and treatment of the patient's operative area.",0.10,prescribing requires legal authority
+22758,"Orthopedic Surgeons, Except Pediatric",Provide consultation and surgical assistance to other physicians and surgeons.,0.10,physical surgical assistance
+22759,"Orthopedic Surgeons, Except Pediatric",Refer patient to medical specialist or other practitioners when necessary.,0.20,referral requires medical authority
+22760,Pediatric Surgeons,"Analyze patient's medical history, medication allergies, physical condition, and examination results to verify operation's necessity and to determine best procedure.",0.30,verifying operation needs medical authority
+22761,Pediatric Surgeons,Conduct research to develop and test surgical techniques that can improve operating procedures and outcomes.,0.25,surgical technique testing needs physical trials
+22762,Pediatric Surgeons,"Consult with patient's other medical care specialists, such as cardiologist and endocrinologist, to determine if surgery is necessary.",0.30,consulting specialists to decide on surgery
+22763,Pediatric Surgeons,"Describe preoperative and postoperative treatments and procedures, such as sedatives, diets, antibiotics, or preparation and treatment of the patient's operative area, to parents or guardians of the p",0.35,describing treatment to guardians needs authority
+22764,Pediatric Surgeons,"Direct and coordinate activities of nurses, assistants, specialists, residents, and other medical staff.",0.15,directing staff requires physical authority
+22765,Pediatric Surgeons,"Examine fetuses, infants, children, and adolescents, and diagnose health issues to determine need for intervention, such as surgery.",0.10,physical pediatric examination
+22766,Pediatric Surgeons,"Examine instruments, equipment, and operating room to ensure sterility.",0.05,physical sterility inspection
+22767,Pediatric Surgeons,Examine patient to obtain information on medical condition and surgical risk.,0.10,physical patient examination
+22768,Pediatric Surgeons,Follow established surgical techniques during the operation.,0.00,physical surgical operation
+22769,Pediatric Surgeons,"Inform parents and guardians of child's health problems and surgical procedures through various channels, such as in-person and telecommunication systems.",0.35,informing guardians needs medical authority
+22770,Pediatric Surgeons,Interpret results of preoperative tests and physical examinations.,0.40,interpreting test results analytical
+22771,Pediatric Surgeons,"Manage surgery services, including planning, scheduling and coordination, determination of procedures, or procurement of supplies and equipment.",0.55,administrative management of services
+22772,Pediatric Surgeons,"Monitor patient's recovery, making follow-up visits and using postoperative assessment techniques, such as blood and imaging tests.",0.15,monitoring recovery needs physical presence
+22773,Pediatric Surgeons,"Operate on fetuses, infants, children, and adolescents to correct deformities, repair injuries, prevent and treat diseases, or improve or restore patients' functions.",0.00,physical surgical operation
+22774,Pediatric Surgeons,"Perform transplantation operations, such as organ transplants, on fetuses, infants, children, and adolescents.",0.00,physical transplant operation
+22775,Pediatric Surgeons,Prepare case histories.,0.75,preparing written case histories
+22776,Pediatric Surgeons,Provide consultation and surgical assistance to other physicians and surgeons.,0.10,physical surgical assistance
+22777,Pediatric Surgeons,Refer patient to medical specialist or other practitioners when necessary.,0.20,referral requires medical authority
+22778,Histotechnologists,Compile and maintain records of preventive maintenance and instrument performance checks according to schedule and regulations.,0.75,maintaining maintenance records
+22779,Histotechnologists,"Compile materials for distribution to pathologists, such as surgical working drafts, requisitions, and slides.",0.50,compiling materials partly physical slides
+22780,Histotechnologists,"Cut sections of body tissues for microscopic examination, using microtomes.",0.00,physically cutting tissue sections
+22781,Histotechnologists,"Embed tissue specimens into paraffin wax blocks, or infiltrate tissue specimens with wax.",0.00,physically embedding tissue in wax
+22782,Histotechnologists,Examine slides under microscopes to ensure tissue preparation meets laboratory requirements.,0.10,physical microscope examination
+22783,Histotechnologists,"Identify tissue structures or cell components to be used in the diagnosis, prevention, or treatment of diseases.",0.25,identifying structures requires lab handling
+22784,Histotechnologists,"Operate computerized laboratory equipment to dehydrate, decalcify, or microincinerate tissue samples.",0.05,operating physical lab equipment
+22785,Histotechnologists,Perform electron microscopy or mass spectrometry to analyze specimens.,0.05,physical microscopy or spectrometry work
+22786,Histotechnologists,Perform procedures associated with histochemistry to prepare specimens for immunofluorescence or microscopy.,0.05,physical histochemistry procedures
+22787,Histotechnologists,Perform tests by following physician instructions.,0.05,physically performing lab tests
+22788,Histotechnologists,"Prepare or use prepared tissue specimens for teaching, research or diagnostic purposes.",0.10,physically preparing tissue specimens
+22789,Histotechnologists,"Prepare substances, such as reagents and dilution, and stains for histological specimens according to protocols.",0.05,physically preparing reagents and stains
+22790,Histotechnologists,"Resolve problems with laboratory equipment and instruments, such as microscopes, mass spectrometers, microtomes, immunostainers, tissue processors, embedding centers, and water baths.",0.10,physically resolving equipment problems
+22791,Histotechnologists,Stain tissue specimens with dyes or other chemicals to make cell details visible under microscopes.,0.00,physically staining tissue specimens

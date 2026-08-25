@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+3924,Broadcast Announcers and Radio Disc Jockeys,"Prepare and deliver news, sports, or weather reports, gathering and rewriting material so that it will convey required information and fit specific time slots.",0.30,writing ok but live delivery needs human presence
+3937,Broadcast Announcers and Radio Disc Jockeys,Record commercials for later broadcast.,0.20,commercial voice recording needs human talent
+3936,Broadcast Announcers and Radio Disc Jockeys,"Keep daily program logs to provide information on all elements aired during broadcast, such as musical selections and station promotions.",0.80,administrative logging task
+20888,Broadcast Announcers and Radio Disc Jockeys,Develop story lines for broadcasts.,0.85,creative writing task
+3927,Broadcast Announcers and Radio Disc Jockeys,"Select program content, in conjunction with producers and assistants, based on factors such as program specialties, audience tastes, or requests from the public.",0.40,content selection needs live producer input
+20889,Broadcast Announcers and Radio Disc Jockeys,Write and edit video and scripts for broadcasts.,0.90,pure scriptwriting and editing
+3930,Broadcast Announcers and Radio Disc Jockeys,"Interview show guests about their lives, their work, or topics of current interest.",0.30,live interview needs human rapport and presence
+3929,Broadcast Announcers and Radio Disc Jockeys,"Comment on music and other matters, such as weather or traffic conditions.",0.30,live on-air commentary needs human voice presence
+3933,Broadcast Announcers and Radio Disc Jockeys,Make promotional appearances at public or private events to represent their employers.,0.02,physical appearance at events
+3942,Broadcast Announcers and Radio Disc Jockeys,"Provide commentary and conduct interviews during sporting events, parades, conventions, or other events.",0.05,live on-site event coverage
+3932,Broadcast Announcers and Radio Disc Jockeys,"Host civic, charitable, or promotional events broadcast over television or radio.",0.05,physical hosting of live events
+3938,Broadcast Announcers and Radio Disc Jockeys,Locate guests to appear on talk or interview shows.,0.55,guest research doable but booking needs human negotiation
+3940,Broadcast Announcers and Radio Disc Jockeys,"Coordinate games, contests, or other on-air competitions, performing such duties as asking questions and awarding prizes.",0.10,live on-air hosting with physical prize handoff
+3941,Broadcast Announcers and Radio Disc Jockeys,Attend press conferences to gather information for broadcast.,0.15,attending press conferences needs physical presence
+20890,Broadcast Announcers and Radio Disc Jockeys,Maintain organization of the music library.,0.75,digital library organization task
+3931,Broadcast Announcers and Radio Disc Jockeys,Discuss various topics over the telephone with viewers or listeners.,0.30,live call-in show needs human host presence
+3944,Broadcast Announcers and Radio Disc Jockeys,"Moderate panels or discussion shows on topics such as current affairs, art, or education.",0.25,live panel moderation needs human presence
+3943,Broadcast Announcers and Radio Disc Jockeys,Give network cues permitting selected stations to receive programs.,0.60,technical broadcast cue triggering
+3939,Broadcast Announcers and Radio Disc Jockeys,Describe or demonstrate products that viewers may purchase through specific shows or in stores.,0.10,on-air product demo needs physical presence
+22623,"News Analysts, Reporters, and Journalists","Write commentaries, columns, or scripts, using computers.",0.90,pure writing task
+22624,"News Analysts, Reporters, and Journalists",Coordinate and serve as an anchor on news broadcast programs.,0.10,live anchor role needs on-air human presence
+22625,"News Analysts, Reporters, and Journalists","Examine news items of local, national, and international significance to determine topics to address, or obtain assignments from editorial staff members.",0.70,news research with some editorial coordination
+22626,"News Analysts, Reporters, and Journalists",Analyze and interpret news and information received from various sources to broadcast the information.,0.80,analysis and synthesis of text sources
+22627,"News Analysts, Reporters, and Journalists",Receive assignments or evaluate leads or tips to develop story ideas.,0.75,assignment evaluation is text based decision work
+22628,"News Analysts, Reporters, and Journalists",Research a story's background information to provide complete and accurate information.,0.85,background research task
+22629,"News Analysts, Reporters, and Journalists",Arrange interviews with people who can provide information about a story.,0.55,interview arranging is admin but needs human scheduling
+22630,"News Analysts, Reporters, and Journalists","Gather information and develop perspectives about news subjects through research, interviews, observation, and experience.",0.45,mix of research and live interviews and observation
+22631,"News Analysts, Reporters, and Journalists","Select material most pertinent to presentation, and organize this material into appropriate formats.",0.85,editorial selection and organization
+22632,"News Analysts, Reporters, and Journalists","Present news stories, and introduce in-depth videotaped segments or live transmissions from on-the-scene reporters.",0.10,live on-air presentation needs human presence
+22633,"News Analysts, Reporters, and Journalists",Establish and maintain relationships with individuals who are credible sources of information.,0.20,long term human trust relationship building
+22634,"News Analysts, Reporters, and Journalists","Report news stories for publication or broadcast, describing the background and details of events.",0.55,writing high but broadcast delivery needs presence
+22635,"News Analysts, Reporters, and Journalists",Revise work to meet editorial approval or to fit time or space requirements.,0.85,revision to editorial requirements
+22636,"News Analysts, Reporters, and Journalists",Review and evaluate notes taken about news events to isolate pertinent facts and details.,0.85,review and analysis of notes
+22637,"News Analysts, Reporters, and Journalists","Investigate breaking news developments, such as disasters, crimes, or human-interest stories.",0.35,breaking news investigation often needs on site presence
+22638,"News Analysts, Reporters, and Journalists","Review written, audio, or video copy, and correct errors in content, grammar, or punctuation, following prescribed editorial style and formatting guidelines.",0.90,proofreading and editorial correction
+22639,"News Analysts, Reporters, and Journalists","Report on specialized fields such as medicine, green technology, environmental issues, science, politics, sports, arts, consumer affairs, business, religion, crime, or education.",0.75,specialized research and reporting writing
+22640,"News Analysts, Reporters, and Journalists","Determine a published or broadcasted story's emphasis, length, and format, organizing material accordingly.",0.80,editorial format decisions from text
+22641,"News Analysts, Reporters, and Journalists","Transmit news stories or reporting information from remote locations, using equipment such as satellite phones, telephones, fax machines, or modems.",0.30,remote transmission via physical equipment
+22642,"News Analysts, Reporters, and Journalists","Check reference materials, such as books, news files, or public records, to obtain relevant facts.",0.85,fact checking against references
+22643,"News Analysts, Reporters, and Journalists",Discuss issues with editors to establish priorities or positions.,0.35,live discussion with editors for priorities
+22644,"News Analysts, Reporters, and Journalists",Photograph or videotape news events.,0.05,physical photography at events
+22645,"News Analysts, Reporters, and Journalists",Present live or recorded commentary via broadcast media.,0.25,live or recorded on air commentary needs human presence
+22646,"News Analysts, Reporters, and Journalists","Take pictures or video, and process them for inclusion in a story.",0.15,taking pictures needs physical presence
+22647,"News Analysts, Reporters, and Journalists",Conduct taped or filmed interviews or narratives.,0.25,filmed interviews need live human presence
+22648,"News Analysts, Reporters, and Journalists","Develop ideas or material for columns or commentaries by analyzing and interpreting news, current issues, or personal experiences.",0.80,idea development from analysis and writing
+22649,"News Analysts, Reporters, and Journalists","Communicate with readers, viewers, advertisers, or the general public via mail, email, or telephone.",0.65,communication via email and phone with public
+22650,"News Analysts, Reporters, and Journalists","Write online blog entries that address news developments or offer additional information, opinions, or commentary on news events.",0.90,blog writing task
+22651,"News Analysts, Reporters, and Journalists",Assign stories to other reporters or duties to production staff.,0.35,assigning work to human staff needs managerial authority
+22652,"News Analysts, Reporters, and Journalists","Write columns, editorials, commentaries, or reviews that interpret events or offer opinions.",0.85,opinion writing task
+1764,Public Relations Specialists,Respond to requests for information from the media or designate an appropriate spokesperson or information source.,0.55,media response drafting but spokesperson designation needs authority
+20555,Public Relations Specialists,"Plan or direct development or communication of programs to maintain favorable public or stockholder perceptions of an organization's accomplishments, agenda, or environmental responsibility.",0.45,strategic direction needs organizational authority
+23951,Public Relations Specialists,Post and update content on the company's Web site and social media outlets.,0.85,web and social media content posting
+20554,Public Relations Specialists,Write press releases or other media communications to promote clients.,0.90,press release writing
+1765,Public Relations Specialists,"Establish or maintain cooperative relationships with representatives of community, consumer, employee, or public interest groups.",0.20,long term relationship building with humans
+1770,Public Relations Specialists,Confer with other managers to identify trends or key group interests or concerns or to provide advice on business decisions.,0.30,live conferring with managers
+1772,Public Relations Specialists,Coach client representatives in effective communication with the public or with employees.,0.35,coaching needs live human interaction and trust
+1769,Public Relations Specialists,"Study the objectives, promotional policies, or needs of organizations to develop public relations strategies that will influence public opinion or promote ideas, products, or services.",0.75,strategy research and writing
+20557,Public Relations Specialists,"Prepare or edit organizational publications, such as employee newsletters or stockholders' reports, for internal or external audiences.",0.85,publication writing and editing
+1768,Public Relations Specialists,"Arrange public appearances, lectures, contests, or exhibits for clients to increase product or service awareness or to promote goodwill.",0.50,event arranging admin work with human coordination
+1775,Public Relations Specialists,"Plan or conduct market or public opinion research to test products or determine potential for product success, communicating results to client or management.",0.65,research design and analysis with client reporting
+19811,Public Relations Specialists,"Develop plans or materials to communicate organizational activities that are beneficial to the environment, public safety, or other important social issues.",0.75,communication material writing and planning
+1767,Public Relations Specialists,Confer with production or support personnel to produce or coordinate production of advertisements or promotions.,0.30,live coordination with production personnel
+1771,Public Relations Specialists,"Consult with advertising agencies or staff to arrange promotional campaigns in all types of media for products, organizations, or individuals.",0.30,live consultation with agency staff
+1773,Public Relations Specialists,Prepare or deliver speeches to further public relations objectives.,0.35,speech writing high but live delivery needs presence
+19809,Public Relations Specialists,Coordinate public responses to environmental management incidents or conflicts.,0.30,crisis response coordination needs real time human judgment
+19810,Public Relations Specialists,Develop marketing campaigns for environmental technologies or services.,0.70,marketing campaign content development
+1774,Public Relations Specialists,Purchase advertising space or time as required to promote client's product or agenda.,0.35,ad purchasing needs financial authority and contracts
+1777,Editors,"Read copy or proof to detect and correct errors in spelling, punctuation, and syntax.",0.95,pure proofreading task
+1780,Editors,"Verify facts, dates, and statistics, using standard reference sources.",0.85,fact verification against references
+1786,Editors,"Read, evaluate and edit manuscripts or other materials submitted for publication, and confer with authors regarding changes in content, style or organization, or publication.",0.55,editing high but conferring with authors needs human interaction
+1782,Editors,"Develop story or content ideas, considering reader or audience appeal.",0.80,content ideation task
+1776,Editors,"Prepare, rewrite and edit copy to improve readability, or supervise others who do this work.",0.65,editing high supervising humans lowers coverage
+1783,Editors,"Oversee publication production, including artwork, layout, computer typesetting, and printing, ensuring adherence to deadlines and budget requirements.",0.30,overseeing physical production and printing
+21000,Editors,"Write text, such as stories, articles, editorials, or newsletters.",0.90,pure writing task
+1789,Editors,Supervise and coordinate work of reporters and other editors.,0.25,supervising human staff needs managerial authority
+1784,Editors,Confer with management and editorial staff members regarding placement and emphasis of developing news stories.,0.30,live conferring with staff
+1779,Editors,"Plan the contents of publications according to the publication's style, editorial policy, and publishing requirements.",0.75,publication planning task
+1781,Editors,Review and approve proofs submitted by composing room prior to publication production.,0.40,proof approval carries accountability
+1785,Editors,"Assign topics, events and stories to individual writers or reporters for coverage.",0.30,assigning work to humans needs authority
+1788,Editors,"Meet frequently with artists, typesetters, layout personnel, marketing directors, and production managers to discuss projects and resolve problems.",0.20,frequent live meetings with staff
+1787,Editors,"Monitor news-gathering operations to ensure utilization of all news sources, such as press releases, telephone contacts, radio, television, wire services, and other reporters.",0.55,monitoring digital news sources
+1791,Editors,"Select local, state, national, and international news items received from wire services, based on assessment of items' significance and interest value.",0.80,news item curation task
+1778,Editors,"Allocate print space for story text, photos, and illustrations according to space parameters and copy significance, using knowledge of layout principles.",0.55,layout allocation can use digital tools
+1790,Editors,Make manuscript acceptance or revision recommendations to the publisher.,0.65,recommendation writing not final decision
+1793,Editors,"Direct the policies and departments of newspapers, magazines and other publishing establishments.",0.15,executive direction over departments and people
+1794,Editors,Arrange for copyright permissions.,0.45,permission requests admin but legal signoff needed
+1792,Editors,"Interview and hire writers and reporters or negotiate contracts, royalties, and payments for authors or freelancers.",0.20,hiring and contract negotiation needs legal authority
+1795,Editors,"Read material to determine index items and arrange them alphabetically or topically, indicating page or chapter location.",0.85,indexing task
+3966,Technical Writers,"Organize material and complete writing assignment according to set standards regarding order, clarity, conciseness, style, and terminology.",0.90,writing to standards task
+3967,Technical Writers,Maintain records and files of work and revisions.,0.85,record keeping task
+3968,Technical Writers,"Edit, standardize, or make changes to material prepared by other writers or establishment personnel.",0.85,editing task
+3971,Technical Writers,"Select photographs, drawings, sketches, diagrams, and charts to illustrate material.",0.75,selecting illustrative material
+3973,Technical Writers,Interview production and engineering personnel and read journals and other material to become familiar with product technologies and production methods.,0.45,interviewing personnel needs live human interaction
+20243,Technical Writers,Develop or maintain online help documentation.,0.90,documentation writing task
+3976,Technical Writers,Assist in laying out material for publication.,0.65,layout assistance using digital tools
+3972,Technical Writers,"Study drawings, specifications, mockups, and product samples to integrate and delineate technology, operating procedure, and production sequence and detail.",0.45,studying specs high but physical samples limit
+3975,Technical Writers,"Arrange for typing, duplication, and distribution of material.",0.55,arranging typing and distribution admin task
+3974,Technical Writers,"Observe production, developmental, and experimental activities to determine operating procedure and detail.",0.15,observing physical production activities
+3978,Technical Writers,"Review manufacturer's and trade catalogs, drawings and other data relative to operation, maintenance, and service of equipment.",0.85,reviewing manufacturer documents
+3977,Technical Writers,Analyze developments in specific field to determine need for revisions in previously published materials and development of new material.,0.80,analysis and revision writing
+3979,Technical Writers,Draw sketches to illustrate specified materials or assembly sequence.,0.65,sketch generation via digital tools
+3970,Technical Writers,"Review published materials and recommend revisions or changes in scope, format, content, and methods of reproduction and binding.",0.80,review and recommend revisions
+3969,Technical Writers,"Confer with customer representatives, vendors, plant executives, or publisher to establish technical specifications and to determine subject material to be developed for publication.",0.30,live conferring with stakeholders
+22656,Writers and Authors,"Develop advertising campaigns for a wide range of clients, working with an advertising agency's creative director and art director to determine the best way to present advertising information.",0.45,campaign development needs live collaboration with creatives
+22655,Writers and Authors,Vary language and tone of messages based on product and medium.,0.90,writing style adaptation task
+22654,Writers and Authors,Present drafts and ideas to clients.,0.30,live client presentation needs human presence
+22653,Writers and Authors,"Discuss with the client the product, advertising themes and methods, and any changes that should be made in advertising copy.",0.30,live client discussion
+22660,Writers and Authors,"Review advertising trends, consumer surveys, and other data regarding marketing of goods and services to determine the best way to promote products.",0.85,trend and data review task
+22657,Writers and Authors,"Write articles, bulletins, sales letters, speeches, and other related informative, marketing and promotional material.",0.90,writing task
+22658,Writers and Authors,Conduct research and interviews to determine which of a product's selling features should be promoted.,0.55,research high interviews need live interaction
+22659,Writers and Authors,"Invent names for products and write the slogans that appear on packaging, brochures and other promotional material.",0.85,creative naming and slogan writing
+22661,Writers and Authors,Collaborate with other writers on specific projects.,0.50,collaboration with human writers
+22662,Writers and Authors,"Conduct research to obtain factual information and authentic detail, using sources such as newspaper accounts, diaries, and interviews.",0.55,research high interviews need live interaction
+22663,Writers and Authors,"Consult with sales, media and marketing representatives to obtain information on product or service and discuss style and length of advertising written material.",0.30,live consultation with representatives
+22664,Writers and Authors,"Edit or rewrite existing written material as necessary, and submit written material for approval by supervisor, editor, or publisher.",0.75,editing and submission for human approval
+22665,Writers and Authors,Follow appropriate procedures to get copyrights for completed work.,0.45,copyright procedure admin but legal signoff needed
+22666,Writers and Authors,"Plan project arrangements or outlines, and organize material accordingly.",0.85,planning and outlining task
+22667,Writers and Authors,"Prepare works in appropriate format for publication, and send them to publishers or producers.",0.80,formatting and sending works
+22668,Writers and Authors,"Revise written material to meet personal standards and to satisfy needs of clients, publishers, directors, or producers.",0.80,revision writing task
+22669,Writers and Authors,"Work with staff to develop script, story, or advertising concepts.",0.45,collaborative concept development with staff
+22670,Writers and Authors,"Write advertising material for use by publication, broadcast, or internet media to promote the sale of goods and services.",0.90,advertising copywriting task
+22671,Writers and Authors,"Write fiction or nonfiction prose, such as short stories, novels, biographies, articles, descriptive or critical analyses, and essays.",0.90,creative prose writing task
+22672,Writers and Authors,"Write to customers in their terms and on their level so that the script, story, or advertisement message is more readily received.",0.85,tailored copywriting task
+11051,"Poets, Lyricists and Creative Writers","Write fiction or nonfiction prose, such as short stories, novels, biographies, articles, descriptive or critical analyses, and essays.",0.90,creative prose writing task
+11052,"Poets, Lyricists and Creative Writers","Develop factors such as themes, plots, characterizations, psychological analyses, historical environments, action, and dialogue to create material.",0.90,narrative development writing task
+11046,"Poets, Lyricists and Creative Writers","Revise written material to meet personal standards and to satisfy needs of clients, publishers, directors, or producers.",0.80,revision writing task
+11047,"Poets, Lyricists and Creative Writers","Choose subject matter and suitable form to express personal feelings and experiences or ideas, or to narrate stories or events.",0.80,creative writing task
+11049,"Poets, Lyricists and Creative Writers","Prepare works in appropriate format for publication, and send them to publishers or producers.",0.80,formatting and sending works
+11054,"Poets, Lyricists and Creative Writers","Conduct research to obtain factual information and authentic detail, using sources such as newspaper accounts, diaries, and interviews.",0.55,research high interviews need live interaction
+11053,"Poets, Lyricists and Creative Writers","Confer with clients, editors, publishers, or producers to discuss changes or revisions to written material.",0.30,live conferring with clients and publishers

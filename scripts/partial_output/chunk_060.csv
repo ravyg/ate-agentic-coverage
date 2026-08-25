@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+22127,Surveying and Mapping Technicians,Prepare cost estimates for mapping projects.,0.75,cost estimation from project specs and data
+22128,Surveying and Mapping Technicians,"Prepare topographic or contour maps of land surveyed, including site features and other relevant information, such as charts, drawings, and survey notes.",0.70,map drafting from provided survey data
+22129,Surveying and Mapping Technicians,"Record survey measurements or descriptive data, using notes, drawings, sketches, or inked tracings.",0.20,field recording requires on-site presence
+22130,Surveying and Mapping Technicians,"Search for section corners, property irons, or survey points.",0.05,physical on-site search for markers
+22131,Surveying and Mapping Technicians,"Set out and recover stakes, marks, or other monumentation.",0.05,physical stake setting and recovery
+22132,Surveying and Mapping Technicians,"Supervise or coordinate activities of workers engaged in surveying, plotting data, drafting maps, or producing blueprints, photostats, or photographs.",0.30,supervising field workers needs presence and authority
+5415,Animal Scientists,Study nutritional requirements of animals and nutritive values of animal feed materials.,0.85,literature research and data analysis
+20865,Animal Scientists,"Write up or orally communicate research findings to the scientific community, producers, and the public.",0.65,writing high but live communication needs presence
+5417,Animal Scientists,"Develop improved practices in feeding, housing, sanitation, or parasite and disease control of animals.",0.50,recommendations feasible but validation needs live animals
+5414,Animal Scientists,Advise producers about improved products and techniques that could enhance their animal production efforts.,0.70,advisory report writing from data
+5413,Animal Scientists,"Conduct research concerning animal nutrition, breeding, or management to improve products or processes.",0.35,requires physical experiments with live animals
+5416,Animal Scientists,"Study effects of management practices, processing methods, feed, or environmental conditions on quality and quantity of animal products, such as eggs and milk.",0.40,requires physical data collection from animals
+5418,Animal Scientists,Research and control animal selection and breeding practices to increase production efficiency and improve animal quality.,0.20,requires physical breeding control actions
+5419,Animal Scientists,"Determine genetic composition of animal populations and heritability of traits, using principles of genetics.",0.75,computational genetic analysis from data
+5420,Animal Scientists,Crossbreed animals with existing strains or cross strains to obtain new combinations of desirable characteristics.,0.05,physical animal breeding action
+7494,Food Scientists and Technologists,"Inspect food processing areas to ensure compliance with government regulations and standards for sanitation, safety, quality, and waste management.",0.10,on-site physical inspection
+7486,Food Scientists and Technologists,"Check raw ingredients for maturity or stability for processing, and finished products for safety, quality, and nutritional value.",0.20,requires physical ingredient and product testing
+7489,Food Scientists and Technologists,"Study methods to improve aspects of foods, such as chemical composition, flavor, color, texture, nutritional value, and convenience.",0.40,requires physical food testing and lab work
+7492,Food Scientists and Technologists,"Develop food standards and production specifications, safety and sanitary regulations, and waste management and water supply specifications.",0.75,standards drafting from regulatory research
+18612,Food Scientists and Technologists,Stay up to date on new regulations and current events regarding food science by reviewing scientific literature.,0.90,pure literature review via reading
+7490,Food Scientists and Technologists,Study the structure and composition of food or the changes foods undergo in storage and processing.,0.30,requires physical lab analysis of food
+7487,Food Scientists and Technologists,"Confer with process engineers, plant operators, flavor experts, and packaging and marketing specialists to resolve problems in product development.",0.40,cross-functional collaboration needs human interaction
+7485,Food Scientists and Technologists,"Test new products for flavor, texture, color, nutritional content, and adherence to government and industry standards.",0.10,requires physical sensory and lab testing
+18611,Food Scientists and Technologists,"Develop new food items for production, based on consumer feedback.",0.35,requires physical product prototyping
+7491,Food Scientists and Technologists,"Develop new or improved ways of preserving, processing, packaging, storing, and delivering foods, using knowledge of chemistry, microbiology, and other sciences.",0.35,requires physical experimentation with food
+7488,Food Scientists and Technologists,Evaluate food processing and storage operations and assist in the development of quality assurance programs for such operations.,0.40,mix of on-site evaluation and QA document work
+7493,Food Scientists and Technologists,Demonstrate products to clients.,0.10,requires physical in-person demonstration
+7495,Food Scientists and Technologists,"Seek substitutes for harmful or undesirable additives, such as nitrites.",0.50,literature research but validation needs lab testing
+9021,Soil and Plant Scientists,"Communicate research or project results to other professionals or the public or teach related courses, seminars, or workshops.",0.55,writing feasible but live teaching needs presence
+9024,Soil and Plant Scientists,Develop methods of conserving or managing soil that can be applied by farmers or forestry companies.,0.50,method development needs field validation
+9022,Soil and Plant Scientists,"Provide information or recommendations to farmers or other landowners regarding ways in which they can best use land, promote plant growth, or avoid or correct problems such as erosion.",0.70,advisory recommendations from data analysis
+9025,Soil and Plant Scientists,"Conduct experiments to develop new or improved varieties of field crops, focusing on characteristics such as yield, quality, disease resistance, nutritional value, or adaptation to specific soils or climates.",0.15,physical field crop breeding experiments
+9026,Soil and Plant Scientists,Investigate soil problems or poor water quality to determine sources and effects.,0.30,requires physical site sampling
+9023,Soil and Plant Scientists,Investigate responses of soils to specific management practices to determine the use capabilities of soils and the effects of alternative practices on soil productivity.,0.25,requires physical field experiments
+23903,Soil and Plant Scientists,Conduct experiments to investigate the underlying mechanisms of plant growth and response to the environment.,0.25,requires physical lab or field experiments
+9030,Soil and Plant Scientists,"Identify degraded or contaminated soils and develop plans to improve their chemical, biological, or physical characteristics.",0.35,requires physical soil sampling before planning
+9035,Soil and Plant Scientists,"Develop new or improved methods or products for controlling or eliminating weeds, crop diseases, or insect pests.",0.30,requires physical testing of new methods
+9034,Soil and Plant Scientists,Provide advice regarding the development of regulatory standards for land reclamation or soil conservation.,0.70,advisory policy analysis and drafting
+9027,Soil and Plant Scientists,"Study soil characteristics to classify soils on the basis of factors such as geographic location, landscape position, or soil properties.",0.40,requires physical soil sampling for classification
+9028,Soil and Plant Scientists,"Develop improved measurement techniques, soil conservation methods, soil sampling devices, or related technology.",0.20,requires physical device development and testing
+9036,Soil and Plant Scientists,"Conduct research to determine best methods of planting, spraying, cultivating, harvesting, storing, processing, or transporting horticultural products.",0.30,requires physical field research
+19751,Soil and Plant Scientists,"Develop environmentally safe methods or products for controlling or eliminating weeds, crop diseases, or pests.",0.30,requires physical testing of new methods
+19754,Soil and Plant Scientists,"Study ways to improve agricultural sustainability, such as the use of new methods of composting.",0.55,research feasible with some physical validation needed
+9037,Soil and Plant Scientists,Consult with engineers or other technical personnel working on construction projects about the effects of soil problems and possible solutions to these problems.,0.40,consultation requires interactive human discussion
+9033,Soil and Plant Scientists,Perform chemical analyses of the microorganism content of soils to determine microbial reactions or chemical mineralogical relationships to plant growth.,0.15,physical lab chemical analysis
+9038,Soil and Plant Scientists,Develop ways of altering soils to suit different types of plants.,0.25,requires physical soil treatment testing
+9029,Soil and Plant Scientists,"Conduct experiments investigating how soil forms, changes, or interacts with land-based ecosystems or living organisms.",0.20,requires physical field or lab experiments
+9031,Soil and Plant Scientists,"Survey undisturbed or disturbed lands for classification, inventory, mapping, environmental impact assessments, environmental protection planning, conservation planning, or reclamation planning.",0.25,on-site land survey required
+20198,Soil and Plant Scientists,Plan or supervise waste management programs for composting or farming.,0.40,planning feasible but supervision needs presence
+19753,Soil and Plant Scientists,"Research technical requirements or environmental impacts of urban green spaces, such as green roof installations.",0.80,research and literature synthesis
+9041,Soil and Plant Scientists,Conduct experiments regarding causes of bee diseases or factors affecting yields of nectar or pollen.,0.15,physical experiments with live bees
+9040,Soil and Plant Scientists,"Identify or classify species of insects or allied forms, such as mites or spiders.",0.40,specimen classification partly automatable via images
+9039,Soil and Plant Scientists,Study insect distribution or habitat and recommend methods to prevent importation or spread of injurious species.,0.40,field study plus recommendation writing
+20199,Soil and Plant Scientists,Plan or supervise land conservation or reclamation programs for industrial development projects.,0.40,planning feasible but supervision needs presence
+19750,Soil and Plant Scientists,Conduct research into the use of plant species as green fuels or in the production of green fuels.,0.50,research feasible with physical lab component
+12932,Biochemists and Biophysicists,Share research findings by writing scientific articles or by making presentations at scientific conferences.,0.65,writing high but conference presentation needs presence
+12948,Biochemists and Biophysicists,Teach or advise undergraduate or graduate students or supervise their research.,0.25,requires live human mentorship and supervision
+12944,Biochemists and Biophysicists,"Study physical principles of living cells or organisms and their electrical or mechanical energy, applying methods and knowledge of mathematics, physics, chemistry, or biology.",0.40,requires physical lab experiments
+12931,Biochemists and Biophysicists,Manage laboratory teams or monitor the quality of a team's work.,0.25,requires human management authority
+12930,Biochemists and Biophysicists,Develop new methods to study the mechanisms of biological processes.,0.50,conceptual design feasible but validation needs lab
+21168,Biochemists and Biophysicists,Write grant proposals to obtain funding for research.,0.85,grant proposal writing from research data
+12947,Biochemists and Biophysicists,"Design or perform experiments with equipment, such as lasers, accelerators, or mass spectrometers.",0.15,physical lab equipment operation
+12938,Biochemists and Biophysicists,Determine the three-dimensional structure of biological macromolecules.,0.60,largely computational structure determination
+12951,Biochemists and Biophysicists,Design or build laboratory equipment needed for special research projects.,0.30,building equipment requires physical fabrication
+12929,Biochemists and Biophysicists,"Prepare reports or recommendations, based upon research outcomes.",0.90,report writing from research data
+12936,Biochemists and Biophysicists,"Study spatial configurations of submicroscopic molecules, such as proteins, using x-rays or electron microscopes.",0.15,physical microscopy and x-ray operation
+12937,Biochemists and Biophysicists,"Study the chemistry of living processes, such as cell development, breathing and digestion, or living energy changes, such as growth, aging, or death.",0.30,requires physical lab research
+12935,Biochemists and Biophysicists,Study the mutations in organisms that lead to cancer or other diseases.,0.55,largely computational genomic analysis
+12940,Biochemists and Biophysicists,"Research the chemical effects of substances, such as drugs, serums, hormones, or food, on tissues or vital processes.",0.20,requires physical lab experiments on tissues
+12949,Biochemists and Biophysicists,"Research transformations of substances in cells, using atomic isotopes.",0.15,physical isotope lab work
+12933,Biochemists and Biophysicists,"Develop or execute tests to detect diseases, genetic disorders, or other abnormalities.",0.30,test execution requires physical lab work
+12934,Biochemists and Biophysicists,Develop or test new drugs or medications intended for commercial distribution.,0.10,requires physical trials and regulatory approval
+12946,Biochemists and Biophysicists,"Isolate, analyze, or synthesize vitamins, hormones, allergens, minerals, or enzymes and determine their effects on body functions.",0.15,physical lab isolation and synthesis
+12950,Biochemists and Biophysicists,Examine the molecular or chemical aspects of immune system functioning.,0.30,primarily physical lab examination
+12941,Biochemists and Biophysicists,Research how characteristics of plants or animals are carried through successive generations.,0.40,mix of computational and physical genetics work
+12939,Biochemists and Biophysicists,Prepare pharmaceutical compounds for commercial distribution.,0.05,physical manufacturing under regulation
+12942,Biochemists and Biophysicists,"Develop methods to process, store, or use foods, drugs, or chemical compounds.",0.30,requires physical method development
+12943,Biochemists and Biophysicists,"Investigate the nature, composition, or expression of genes or research how genetic engineering can impact these processes.",0.55,largely computational genetic research
+12945,Biochemists and Biophysicists,"Produce pharmaceutically or industrially useful proteins, using recombinant DNA technology.",0.10,physical lab protein production
+15212,Microbiologists,"Isolate and maintain cultures of bacteria or other microorganisms in prescribed or developed media, controlling moisture, aeration, temperature, and nutrition.",0.10,physical lab culture maintenance
+3676,Microbiologists,"Provide laboratory services for health departments, community environmental health programs, and physicians needing information for diagnosis and treatment.",0.20,physical lab service delivery
+15213,Microbiologists,"Monitor and perform tests on water, food, and the environment to detect harmful microorganisms or to obtain information about sources of pollution, contamination, or infection.",0.15,physical sampling and lab testing
+3675,Microbiologists,"Examine physiological, morphological, and cultural characteristics, using microscope, to identify and classify microorganisms in human, water, and food specimens.",0.20,physical microscope specimen examination
+3679,Microbiologists,Supervise biological technologists and technicians and other scientists.,0.25,requires human supervisory authority
+3683,Microbiologists,"Use a variety of specialized equipment, such as electron microscopes, gas and high-pressure liquid chromatographs, electrophoresis units, thermocyclers, fluorescence-activated cell sorters, and phosphorimagers.",0.05,physical specialized equipment operation
+3678,Microbiologists,"Investigate the relationship between organisms and disease, including the control of epidemics and the effects of antibiotics on microorganisms.",0.35,mix of physical lab work and data analysis
+3681,Microbiologists,"Prepare technical reports and recommendations, based upon research outcomes.",0.90,report writing from research outcomes
+3677,Microbiologists,"Observe action of microorganisms upon living tissues of plants, higher animals, and other microorganisms, and on dead organic matter.",0.15,physical lab observation
+3680,Microbiologists,"Study growth, structure, development, and general characteristics of bacteria and other microorganisms to understand their relationship to human, plant, and animal health.",0.30,primarily physical lab study
+3682,Microbiologists,"Study the structure and function of human, animal, and plant tissues, cells, pathogens, and toxins.",0.30,primarily physical lab study
+15214,Microbiologists,"Develop new products and procedures for sterilization, food and pharmaceutical supply preservation, or microbial contamination detection.",0.35,requires physical testing of new products
+3684,Microbiologists,"Conduct chemical analyses of substances such as acids, alcohols, and enzymes.",0.15,physical lab chemical analysis
+3685,Microbiologists,"Research use of bacteria and microorganisms to develop vitamins, antibiotics, amino acids, grain alcohol, sugars, and polymers.",0.25,physical lab research and development
+23957,Zoologists and Wildlife Biologists,"Develop, or make recommendations on, management systems and plans for wildlife populations and habitat, consulting with stakeholders and the public at large to explore options.",0.45,planning feasible but stakeholder consultation needs presence
+1493,Zoologists and Wildlife Biologists,Inventory or estimate plant and wildlife populations.,0.30,field inventory largely physical
+18615,Zoologists and Wildlife Biologists,"Inform and respond to public regarding wildlife and conservation issues, such as plant identification, hunting ordinances, and nuisance wildlife.",0.65,public info response feasible remotely
+1492,Zoologists and Wildlife Biologists,"Study animals in their natural habitats, assessing effects of environment and industry on animals, interpreting findings and recommending alternative operating conditions for industry.",0.30,field study of animals largely physical
+1496,Zoologists and Wildlife Biologists,"Disseminate information by writing reports and scientific papers or journal articles, and by making presentations and giving talks for schools, clubs, interest groups and park interpretive programs.",0.55,writing high but live talks need presence
+1497,Zoologists and Wildlife Biologists,"Study characteristics of animals, such as origin, interrelationships, classification, life histories, diseases, development, genetics, and distribution.",0.65,largely literature and data based research
+1498,Zoologists and Wildlife Biologists,"Perform administrative duties, such as fundraising, public relations, budgeting, and supervision of zoo staff.",0.35,mix of admin work and human relationship duties
+18616,Zoologists and Wildlife Biologists,"Check for, and ensure compliance with, environmental laws, and notify law enforcement when violations are identified.",0.30,requires on-site compliance checking
+1494,Zoologists and Wildlife Biologists,Analyze characteristics of animals to identify and classify them.,0.70,classification analysis from data
+23958,Zoologists and Wildlife Biologists,Conduct literature reviews.,0.95,pure literature review
+1499,Zoologists and Wildlife Biologists,Organize and conduct experimental studies with live animals in controlled or natural surroundings.,0.15,physical experiments with live animals
+1501,Zoologists and Wildlife Biologists,Coordinate preventive programs to control the outbreak of wildlife diseases.,0.30,requires physical coordination in the field
+1502,Zoologists and Wildlife Biologists,Prepare collections of preserved specimens or microscopic slides for species identification and study of development or disease.,0.10,physical specimen preparation
+1504,Zoologists and Wildlife Biologists,Collect and dissect animal specimens and examine specimens under microscope.,0.05,physical dissection and microscopy
+16786,Bioinformatics Scientists,Develop new software applications or customize existing applications to meet specific scientific project needs.,0.90,software development task
+16792,Bioinformatics Scientists,"Communicate research results through conference presentations, scientific publications, or project reports.",0.65,writing high but live presentation needs presence
+16790,Bioinformatics Scientists,Create novel computational approaches and analytical tools as required by research goals.,0.85,computational tool development
+16794,Bioinformatics Scientists,"Consult with researchers to analyze problems, recommend technology-based solutions, or determine computational strategies.",0.55,consultation with researchers needs human interaction
+16795,Bioinformatics Scientists,"Analyze large molecular datasets, such as raw microarray data, genomic sequence data, or proteomics data, for clinical or basic research purposes.",0.90,computational data analysis task
+16777,Bioinformatics Scientists,"Keep abreast of new biochemistries, instrumentation, or software by reading scientific literature and attending professional conferences.",0.70,literature review mostly with some conference attendance
+16787,Bioinformatics Scientists,Develop data models and databases.,0.90,database and data model design task
+16791,Bioinformatics Scientists,"Compile data for use in activities, such as gene expression profiling, genome annotation, or structural bioinformatics.",0.90,data compilation task
+16789,Bioinformatics Scientists,"Design and apply bioinformatics algorithms including unsupervised and supervised machine learning, dynamic programming, or graphic algorithms.",0.90,algorithm design and application task
+16793,Bioinformatics Scientists,"Manipulate publicly accessible, commercial, or proprietary genomic, proteomic, or post-genomic databases.",0.85,database manipulation task
+16785,Bioinformatics Scientists,"Direct the work of technicians and information technology staff applying bioinformatics tools or applications in areas such as proteomics, transcriptomics, metabolomics, or clinical bioinformatics.",0.25,requires human management authority
+16781,Bioinformatics Scientists,"Provide statistical and computational tools for biologically based activities, such as genetic analysis, measurement of gene expression, or gene function determination.",0.85,statistical and computational tool development
+16788,Bioinformatics Scientists,Create or modify web-based bioinformatics tools.,0.90,web tool development task
+16784,Bioinformatics Scientists,Improve user interfaces to bioinformatics software and databases.,0.85,UI development task
+16778,Bioinformatics Scientists,"Confer with departments, such as marketing, business development, or operations, to coordinate product development or improvement.",0.40,cross-department collaboration needs human interaction
+16776,Bioinformatics Scientists,Recommend new systems and processes to improve operations.,0.80,analysis and recommendation writing
+16783,Bioinformatics Scientists,Instruct others in the selection and use of bioinformatics tools.,0.55,training materials feasible but live instruction needs presence
+16779,Bioinformatics Scientists,Collaborate with software developers in the development and modification of commercial bioinformatics software.,0.60,collaborative software development with humans
+16780,Bioinformatics Scientists,Test new and updated bioinformatics tools and software.,0.85,software testing task
+16782,Bioinformatics Scientists,Prepare summary statistics of information regarding human genomes.,0.90,statistical summary task
+16807,Molecular and Cellular Biologists,Maintain accurate laboratory records and data.,0.80,record keeping and data management
+16813,Molecular and Cellular Biologists,"Design molecular or cellular laboratory experiments, oversee their execution, and interpret results.",0.40,oversight of physical experiment execution needs presence
+23904,Molecular and Cellular Biologists,Write grant applications to obtain funding.,0.85,grant application writing

@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+18552,Dental Assistants,Order and monitor dental supplies and equipment inventory.,0.75,supply ordering and inventory tracking via systems
+18553,Dental Assistants,"Fabricate and fit orthodontic appliances and materials for patients, such as retainers, wires, or bands.",0.02,physical fabrication and fitting of dental appliances
+18559,Bill and Account Collectors,Answer customer questions regarding problems with their accounts.,0.85,answer account questions via phone/chat with data access
+18560,Bill and Account Collectors,Contact insurance companies to check on status of claims payments and write appeal letters for denial on claims.,0.75,insurance calls and appeal letter drafting
+18561,"Bookkeeping, Accounting, and Auditing Clerks",Prepare and process payroll information.,0.85,payroll data preparation and processing
+18562,Payroll and Timekeeping Clerks,Process paperwork for new employees and enter employee information into the payroll system.,0.85,data entry into payroll system
+18563,Payroll and Timekeeping Clerks,"Keep track of leave time, such as vacation, personal, and sick leave, for employees.",0.85,leave time tracking and recordkeeping
+18564,Payroll and Timekeeping Clerks,Conduct verifications of employment.,0.75,employment verification via calls or forms
+18565,Customer Service Representatives,"Confer with customers by telephone or in person to provide information about products or services, take or enter orders, cancel accounts, or obtain details of complaints.",0.55,phone based mostly but bundles in person service
+18566,"Hotel, Motel, and Resort Desk Clerks","Perform bookkeeping activities, such as balancing accounts and conducting nightly audits.",0.85,bookkeeping and account balancing via software
+18567,"Hotel, Motel, and Resort Desk Clerks","Answer inquiries pertaining to hotel services, guest registration, and travel directions, or make recommendations regarding shopping, dining, or entertainment.",0.70,informational inquiries though guest registration needs presence
+18568,"Hotel, Motel, and Resort Desk Clerks","Clean and maintain lobby and common areas, such as restocking supplies and watering plants.",0.00,physical cleaning and restocking of lobby
+18569,"Hotel, Motel, and Resort Desk Clerks","Prepare for basic food service, such as setting up continental breakfast or coffee and tea supplies.",0.00,physical food service setup
+18570,"Hotel, Motel, and Resort Desk Clerks","Plan, schedule or supervise the work of other employees.",0.40,scheduling doable but supervising needs human presence
+18572,"Human Resources Assistants, Except Payroll and Timekeeping","Process, verify, and maintain personnel related documentation, including staffing, recruitment, training, grievances, performance evaluations, classifications, and employee leaves of absence.",0.80,personnel documentation processing and recordkeeping
+18573,Executive Secretaries and Executive Administrative Assistants,Answer phone calls and direct calls to appropriate parties or take messages.,0.80,answering and routing calls via phone system
+18574,Executive Secretaries and Executive Administrative Assistants,"Perform general office duties, such as ordering supplies, maintaining records management database systems, and performing basic bookkeeping work.",0.85,general office admin and recordkeeping
+18575,Executive Secretaries and Executive Administrative Assistants,"Prepare agendas and make arrangements, such as coordinating catering for luncheons, for committee, board, and other meetings.",0.75,agenda prep and coordination via email or calls
+18576,Executive Secretaries and Executive Administrative Assistants,"Coordinate and direct office services, such as records, departmental finances, budget preparation, personnel issues, and housekeeping, to aid executives.",0.55,office coordination mixes info work with directive authority
+18577,Executive Secretaries and Executive Administrative Assistants,Provide clerical support to other departments.,0.75,clerical support tasks are largely info work
+18578,Executive Secretaries and Executive Administrative Assistants,Process payroll information.,0.85,payroll information processing
+18579,Executive Secretaries and Executive Administrative Assistants,Supervise and train other clerical staff and arrange for employee training by scheduling training or organizing training material.,0.40,scheduling doable but supervising and training need presence
+18672,Audiologists,Counsel and instruct patients and their families in techniques to improve hearing and communication related to hearing loss.,0.35,counseling needs human rapport though instruction can be text based
+18673,Audiologists,Evaluate hearing and balance disorders to determine diagnoses and courses of treatment.,0.10,diagnosis requires licensed medical judgment and exam
+18674,Audiologists,Program and monitor cochlear implants to fit the needs of patients.,0.10,fitting cochlear implants needs physical presence
+18675,Audiologists,Participate in conferences or training to update or share knowledge of new hearing or balance disorder treatment methods or technologies.,0.30,conference participation is a professional presence activity
+18676,Audiologists,"Conduct or direct research on hearing or balance topics and report findings to help in the development of procedures, technology, or treatments.",0.55,research and reporting is agent capable but some requires trials
+18677,Audiologists,"Plan and conduct treatment programs for patients' hearing or balance problems, consulting with educators, physicians, nurses, psychologists, speech-language pathologists, and other health care personn",0.25,clinical treatment planning needs licensed medical judgment
+18678,Audiologists,"Administer hearing tests and examine patients to collect information on type and degree of impairment, using specialized instruments and electronic equipment.",0.05,physical hearing exam with instruments on patient
+18679,Audiologists,"Engage in marketing activities, such as developing marketing plans, to promote business for private practices.",0.75,marketing plan development and content creation
+18680,Audiologists,Recommend assistive devices according to patients' needs or nature of impairments.,0.35,device recommendation needs licensed clinical judgment
+18681,Audiologists,"Fit, dispense, and repair assistive devices, such as hearing aids.",0.03,physical fitting and repair of hearing aids
+18682,Audiologists,Advise educators or other medical staff on hearing or balance topics.,0.60,advisory information sharing largely text based
+18683,Audiologists,Provide information to the public on hearing or balance topics.,0.85,public information content creation
+18684,Audiologists,"Instruct patients, parents, teachers, or employers in communication strategies to maximize effective receptive communication.",0.40,instruction needs some rapport though content can be text based
+18685,Audiologists,Work with multidisciplinary teams to assess and rehabilitate recipients of implanted hearing devices through auditory training and counseling.,0.15,hands on rehabilitation and counseling with implant recipients
+18686,Audiologists,Monitor patients' progress and provide ongoing observation of hearing or balance status.,0.30,progress monitoring often needs physical observation
+18687,Audiologists,"Measure noise levels in workplaces and conduct hearing conservation programs in industry, military, schools, and communities.",0.10,onsite noise measurement and physical program conduct
+18688,Audiologists,"Refer patients to additional medical or educational services, if needed.",0.45,referral decision needs clinical judgment though routine
+18689,Audiologists,"Perform administrative tasks, such as managing office functions and finances.",0.80,office and finance administration
+18690,Audiologists,"Maintain patient records at all stages, including initial and subsequent evaluation and treatment activities.",0.80,patient record documentation and maintenance
+18691,Athletic Trainers,"Perform general administrative tasks, such as keeping records or writing reports.",0.85,administrative recordkeeping and report writing
+18692,Athletic Trainers,File athlete insurance claims and communicate with insurance providers.,0.75,insurance claim filing and communication
+18693,Athletic Trainers,Teach sports medicine courses to athletic training students.,0.35,teaching requires human presence and interaction
+18694,Home Health Aides,"Care for patients by changing bed linens, washing and ironing laundry, cleaning, or assisting with their personal care.",0.00,physical patient care and household tasks
+18695,Home Health Aides,"Administer prescribed oral medications, under the written direction of physician or as directed by home care nurse or aide, and ensure patients take their medicine.",0.00,physical medication administration to patients
+18696,Psychiatric Aides,Complete physical checks and monitor patients to detect unusual or harmful behavior and report observations to professional staff.,0.05,physical presence needed to monitor patients
+18697,Psychiatric Aides,"Record and maintain patient information, such as vital signs, eating habits, behavior, progress notes, treatments, or discharge plans.",0.35,recording is agent capable but data collection needs presence
+18698,Psychiatric Aides,"Complete administrative tasks, such as entering orders into computer, answering telephone calls, or maintaining medical or facility information.",0.75,administrative data entry and phone answering
+18699,Occupational Therapy Assistants,Communicate and collaborate with other healthcare professionals involved with the care of a patient.,0.55,professional communication mostly info exchange via records
+18700,Occupational Therapy Assistants,Attend continuing education classes.,0.15,attending continuing education requires human participation
+18701,Occupational Therapy Assistants,Attend care plan meetings to review patient progress and update care plans.,0.35,care plan updates possible but meeting attendance needs presence
+18702,Medical Equipment Preparers,Stock crash carts or other medical supplies.,0.00,physical stocking of medical carts
+18703,Medical Equipment Preparers,Maintain records of inventory or equipment usage and order medical instruments or supplies when inventory is low.,0.70,inventory recordkeeping and ordering via systems
+18704,Pharmacy Aides,"Receive, store, and inventory pharmaceutical supplies or medications, check for out-of-date medications, and notify pharmacist when inventory levels are low.",0.25,mostly physical receiving and storing of supplies
+18765,Cashiers,Assist customers by providing information and resolving their complaints.,0.80,customer service info and complaint resolution
+18766,Cashiers,"Maintain clean and orderly checkout areas, and complete other general cleaning duties, such as mopping floors and emptying trash cans.",0.00,physical cleaning of checkout areas
+18767,Cashiers,"Assist with duties in other areas of the store, such as monitoring fitting rooms or bagging and carrying out customers' items.",0.00,physical bagging and fitting room monitoring
+18768,Cashiers,Supervise others and provide on-the-job training.,0.20,supervising and training requires human presence
+18769,"Library Assistants, Clerical","Open and close library during specified hours and secure library equipment, such as computers and audio-visual equipment.",0.00,physical opening closing and securing of building
+18770,"Library Assistants, Clerical","Perform clerical activities, such as answering phones, sorting mail, filing, typing, word processing, and photocopying and mailing out material.",0.45,mix of physical mail sorting and digital clerical work
+18771,"Library Assistants, Clerical","Schedule, supervise, and train clerical workers, volunteers, student assistants, and other library employees.",0.25,supervising and training staff needs human presence
+18772,"Library Assistants, Clerical","Maintain library equipment, such as photocopiers, scanners, and computers, and instruct patrons in proper use of such equipment.",0.15,physical equipment maintenance and in person instruction
+18773,"Library Assistants, Clerical","Manage reserve materials by placing items on reserve for library patrons, checking items in and out of library, and removing out-of-date items.",0.30,mostly physical handling of reserve materials
+18774,"Library Assistants, Clerical","Lend, reserve, and collect books, periodicals, videotapes, and other materials at circulation desks and process materials for inter-library loans.",0.15,physical handling of materials at circulation desk
+18775,"Library Assistants, Clerical","Perform accounting and bookkeeping activities, such as invoicing, maintaining financial records, budgeting, and handling cash.",0.65,mostly agent capable except physical cash handling
+18776,"Library Assistants, Clerical","Repair books using mending tape, paste, and brushes or prepare books to be sent to a bindery for repair.",0.00,physical book repair
+18777,"Library Assistants, Clerical","Acquire books, pamphlets, periodicals, audio-visual materials, and other library supplies by checking prices, figuring costs, and preparing appropriate order forms and facilitating the ordering proces",0.80,price research and order form preparation
+18778,"Library Assistants, Clerical",Prepare library statistics reports.,0.90,statistics report preparation from data
+18779,"Library Assistants, Clerical",Design or maintain library web site and online catalogues.,0.85,web site and catalog design and maintenance
+18780,Legal Secretaries and Administrative Assistants,Prepare and distribute invoices to bill clients or pay account expenses.,0.85,invoice preparation and distribution via accounting systems
+18852,Human Resources Specialists,"Address employee relations issues, such as harassment allegations, work complaints, or other employee concerns.",0.20,sensitive employee relations issues need human judgment and trust
+18853,Human Resources Specialists,Analyze employment-related data and prepare required reports.,0.90,data analysis and report preparation
+18854,Human Resources Specialists,Conduct exit interviews and ensure that necessary employment termination paperwork is completed.,0.45,interview needs human rapport though paperwork is agent capable
+18855,Human Resources Specialists,Conduct reference or background checks on job applicants.,0.65,reference calls and background database checks
+18856,Human Resources Specialists,Confer with management to develop or implement personnel policies or procedures.,0.40,policy development needs collaborative human judgment
+18857,Human Resources Specialists,Contact job applicants to inform them of the status of their applications.,0.85,applicant status communication via email or calls
+18858,Human Resources Specialists,Develop or implement recruiting strategies to meet current or anticipated staffing needs.,0.60,strategy drafting is agent capable implementation less so
+18859,Human Resources Specialists,Hire employees and process hiring-related paperwork.,0.30,hiring decision needs human authority paperwork is agent capable
+18860,Human Resources Specialists,"Inform job applicants of details such as duties and responsibilities, compensation, benefits, schedules, working conditions, or promotion opportunities.",0.85,informational communication to applicants
+18861,Human Resources Specialists,"Interpret and explain human resources policies, procedures, laws, standards, or regulations.",0.85,policy interpretation from documents
+18862,Human Resources Specialists,"Interview job applicants to obtain information on work history, training, education, or job skills.",0.45,interviewing needs human rapport and judgment
+18863,Human Resources Specialists,"Maintain and update human resources documents, such as organizational charts, employee handbooks or directories, or performance evaluation forms.",0.85,HR document maintenance and updates
+18864,Human Resources Specialists,"Maintain current knowledge of Equal Employment Opportunity (EEO) and affirmative action guidelines and laws, such as the Americans with Disabilities Act (ADA).",0.80,staying current on regulations via reading and research
+18865,Human Resources Specialists,"Perform searches for qualified job candidates, using sources such as computer databases, networking, Internet recruiting resources, media advertisements, job fairs, recruiting firms, or employee refer",0.70,candidate database and internet searches mostly agent capable
+18866,Human Resources Specialists,"Prepare or maintain employment records related to events, such as hiring, termination, leaves, transfers, or promotions, using human resources management system software.",0.85,employment record data entry in HR systems
+18867,Human Resources Specialists,"Provide management with information or training related to interviewing, performance appraisals, counseling techniques, or documentation of performance issues.",0.55,can prepare materials but training delivery needs presence
+18868,Human Resources Specialists,Review employment applications and job orders to match applicants with job requirements.,0.85,matching applications to job requirements is data analysis
+18869,Human Resources Specialists,"Schedule or administer skill, intelligence, psychological, or drug tests for current or prospective employees.",0.35,scheduling agent capable but administering tests needs presence
+18870,Human Resources Specialists,Schedule or conduct new employee orientations.,0.45,scheduling agent capable but conducting orientation needs presence
+18871,Human Resources Specialists,"Select qualified job applicants or refer them to managers, making hiring recommendations when appropriate.",0.55,candidate screening analysis though final judgment is human
+18872,Human Resources Specialists,"Advise management on organizing, preparing, or implementing recruiting or retention programs.",0.65,advisory recommendations drafted from data
+18873,Human Resources Specialists,"Coordinate with outside staffing agencies to secure temporary employees, based on departmental needs.",0.70,coordination with agencies via email and calls
+18874,Human Resources Specialists,"Evaluate recruitment or selection criteria to ensure conformance to professional, statistical, or testing standards, recommending revisions, as needed.",0.75,analytical evaluation of selection criteria
+18875,Human Resources Specialists,Evaluate selection or testing techniques by conducting research or follow-up activities and conferring with management or supervisory personnel.,0.55,research is agent capable but conferring needs human interaction
+18876,Human Resources Specialists,"Review and evaluate applicant qualifications or eligibility for specified licensing, according to established guidelines and designated licensing codes.",0.75,rules based eligibility review against guidelines
+18877,Labor Relations Specialists,Advise management on matters related to the administration of contracts or employee discipline or grievance procedures.,0.55,advisory drafting based on policy and law documents
+18878,Labor Relations Specialists,"Call or meet with union, company, government, or other interested parties to discuss labor relations matters, such as contract negotiations or grievances.",0.30,meetings with parties need human presence and trust
+18879,Labor Relations Specialists,Draft contract proposals or counter-proposals for collective bargaining or other labor negotiations.,0.80,contract proposal drafting
+18880,Labor Relations Specialists,"Draft rules or regulations to govern collective bargaining activities in collaboration with company, government, or employee representatives.",0.65,drafting rules though collaboration needs human input
+18881,Labor Relations Specialists,"Identify alternatives to proposals of unions, employees, companies, or government agencies.",0.65,analytical identification of alternatives
+18882,Labor Relations Specialists,Interpret contractual agreements for employers and employees engaged in collective bargaining or other labor relations processes.,0.70,contract interpretation from text
+18883,Labor Relations Specialists,Investigate and evaluate union complaints or arguments to determine viability.,0.55,investigation and evaluation partly needs human interviews
+18884,Labor Relations Specialists,Mediate discussions between employer and employee representatives in attempt to reconcile differences.,0.15,mediation needs human trust and presence
+18885,Labor Relations Specialists,Monitor company or workforce adherence to labor agreements.,0.70,compliance monitoring via data review
+18886,Labor Relations Specialists,Negotiate collective bargaining agreements.,0.20,negotiation needs human trust and authority
+18887,Labor Relations Specialists,"Prepare and submit required governmental reports or forms related to labor relations matters, such as equal employment opportunity (EEO) forms, new hire forms, or minority compensation reports.",0.80,government report and form preparation and submission
+18888,Labor Relations Specialists,Prepare reports or presentations to communicate employee satisfaction or related data to management.,0.85,report and presentation preparation from data
+18889,Labor Relations Specialists,Present the position of the company or of labor during arbitration or other labor negotiations.,0.15,representing a party in negotiation needs human authority
+18890,Labor Relations Specialists,Propose resolutions for collective bargaining or other labor or contract negotiations.,0.55,resolution drafting though final proposal needs authority
+18891,Labor Relations Specialists,"Recommend collective bargaining strategies, goals, or objectives.",0.65,strategic recommendation drafting
+18892,Labor Relations Specialists,"Review and approve employee disciplinary actions, such as written reprimands, suspensions, or terminations.",0.20,approving disciplinary actions needs human accountability
+18893,Labor Relations Specialists,"Review employer practices or employee data to ensure compliance with contracts on matters such as wages, hours, or conditions of employment.",0.75,compliance review and analysis of data
+18894,Labor Relations Specialists,Schedule or coordinate the details of grievance hearings or other meetings.,0.80,scheduling and coordinating meeting logistics
+18895,Labor Relations Specialists,"Write letters related to labor relations activities, such as letters to amend collective bargaining agreements, letters of dispute or conciliation, or letters to seek clarification of contract terms.",0.85,letter drafting for labor relations matters
+18896,Labor Relations Specialists,Assess risk levels associated with collective bargaining strategies.,0.70,risk assessment analysis
+18897,Labor Relations Specialists,Assess the impact of union proposals on company or government operations.,0.70,impact assessment analysis
+18898,Labor Relations Specialists,Develop employee health and safety policies.,0.75,policy drafting based on research
+18899,Labor Relations Specialists,"Develop methods to monitor employee satisfaction with policies or working conditions, including grievance or complaint procedures.",0.70,designing monitoring methods
+18900,Labor Relations Specialists,"Prepare evidence for disciplinary hearings, including preparing witnesses to testify.",0.35,evidence prep partly agent capable but coaching witnesses needs presence
+18901,Labor Relations Specialists,Provide expert testimony in legal proceedings related to labor relations or labor contracts.,0.05,sworn legal testimony requires human authority and presence
+18902,Labor Relations Specialists,Research case law or outcomes of previous case hearings.,0.90,legal research on case law and precedent
+18903,Labor Relations Specialists,Select mediators or arbitrators for labor disputes or contract negotiations.,0.45,selection decision needs human trust though research is agent capable
+18904,Labor Relations Specialists,"Train managers or supervisors on topics related to labor relations, such as working conditions, safety, or equal opportunity practices.",0.35,training delivery typically needs human presence
+18905,Fundraisers,"Attend community events, meetings, or conferences to promote organizational goals or solicit donations or sponsorships.",0.10,physical attendance and in person rapport building
+18906,Fundraisers,"Contact corporate representatives, government officials, or community leaders to increase awareness of organizational causes, activities, or needs.",0.40,outreach communication though relationship building needs human trust
+18907,Fundraisers,Create or update donor databases.,0.90,database creation and updates
+18908,Fundraisers,"Design or produce materials such as posters, Web sites, or newsletters to promote, market, or advertise fundraising events.",0.85,marketing material design and content creation
+18909,Fundraisers,"Develop corporate fundraising programs, such as employer gift-matching.",0.65,program design drafting
+18910,Fundraisers,Develop fundraising activity plans that maximize participation or contributions and minimize costs.,0.70,fundraising plan development and analysis

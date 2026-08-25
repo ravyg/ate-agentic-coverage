@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+20927,Prepress Technicians and Workers,Generate prepress proofs in digital or other format to approximate the appearance of the final printed piece.,0.50,digital proof generation via prepress software
+20928,Prepress Technicians and Workers,Proofread and perform quality control of text and images.,0.75,text and image proofreading digital review
+10403,Prepress Technicians and Workers,"Enter, position, and alter text size, using computers, to make up and arrange pages so that printed materials can be produced.",0.75,page layout via computer software
+20929,Prepress Technicians and Workers,"Perform ""preflight"" check of required font, graphic, text and image files to ensure completeness prior to delivery to printer.",0.85,digital file completeness check
+10405,Prepress Technicians and Workers,Operate and maintain laser plate-making equipment that converts electronic data to plates without the use of film.,0.05,physical plate-making equipment operation
+10402,Prepress Technicians and Workers,"Enter, store, and retrieve information on computer-aided equipment.",0.85,data entry on computer equipment
+10404,Prepress Technicians and Workers,"Maintain, adjust, and clean equipment, and perform minor repairs.",0.00,physical equipment maintenance and repair
+10407,Prepress Technicians and Workers,"Operate presses to print proofs of plates, monitoring printing quality to ensure that it is adequate.",0.05,physical press operation and monitoring
+10425,Prepress Technicians and Workers,Select proper types of plates according to press run lengths.,0.60,selection decision from specs no physical action
+10412,Prepress Technicians and Workers,"Examine finished plates to detect flaws, verify conformity with master plates, and measure dot sizes and centers, using light boxes and microscopes.",0.05,physical plate examination with microscopes
+10410,Prepress Technicians and Workers,Examine unexposed photographic plates to detect flaws or foreign particles prior to printing.,0.05,physical plate examination for flaws
+10406,Prepress Technicians and Workers,Examine photographic images for obvious imperfections prior to plate making.,0.55,image inspection could use digital files
+10433,Prepress Technicians and Workers,"Scale copy for reductions and enlargements, using proportion wheels.",0.15,physical scaling with proportion wheel
+10427,Prepress Technicians and Workers,"Analyze originals to evaluate color density, gradation highlights, middle tones, and shadows, using densitometers and knowledge of light and color.",0.10,physical densitometer measurement of originals
+10428,Prepress Technicians and Workers,"Set scanners to specific color densities, sizes, screen rulings, and exposure adjustments, using scanner keyboards or computers.",0.30,physical scanner operation and setup
+19430,Printing Press Operators,"Start presses and pull proofs to check for ink coverage and density, alignment, and registration.",0.05,physical press start and proof pulling
+19423,Printing Press Operators,"Examine job orders to determine quantities to be printed, stock specifications, colors, or special printing instructions.",0.85,reading job orders is information work
+19417,Printing Press Operators,Adjust ink fountain flow rates.,0.00,physical ink fountain adjustment
+19431,Printing Press Operators,Verify that paper and ink meet the specifications for a given job.,0.15,physical verification of paper and ink
+19421,Printing Press Operators,Collect and inspect random samples during print runs to identify any necessary adjustments.,0.05,physical sample collection and inspection
+19424,Printing Press Operators,Feed paper through press cylinders and adjust feed and tension controls.,0.00,physical paper feeding through press
+19427,Printing Press Operators,"Monitor automated press operation systems and respond to fault, error, or alert messages.",0.25,monitoring digital but response often physical
+19426,Printing Press Operators,"Load presses with paper and make necessary adjustments, according to paper size.",0.00,physical press loading and adjustment
+19429,Printing Press Operators,Secure printing plates to printing units and adjust tolerances.,0.00,physical plate securing on press
+19419,Printing Press Operators,"Clean ink fountains, plates, or printing unit cylinders when press runs are completed.",0.00,physical equipment cleaning
+19418,Printing Press Operators,"Change press plates, blankets, or cylinders, as required.",0.00,physical plate and cylinder change
+19428,Printing Press Operators,Obtain or mix inks and fill ink fountains.,0.00,physical ink mixing and filling
+19425,Printing Press Operators,Input production job settings into workstation terminals that control automated printing systems.,0.80,digital terminal data entry
+19420,Printing Press Operators,"Clean or oil presses or make minor repairs, using hand tools.",0.00,physical cleaning and repair with hand tools
+19435,Printing Press Operators,Maintain time or production records.,0.85,digital record keeping
+19437,Printing Press Operators,"Monitor inventory levels on a regular basis, ordering or requesting additional supplies, as necessary.",0.75,inventory monitoring and ordering digital
+19436,Printing Press Operators,"Monitor environmental factors, such as humidity and temperature, that may impact equipment performance and make necessary adjustments.",0.30,monitoring digital but adjustment often physical
+19422,Printing Press Operators,"Download or scan files to be printed, using printing production software.",0.85,digital file download via software
+19416,Printing Press Operators,"Adjust digital files to alter print elements, such as fonts, graphics, or color separations.",0.85,digital file editing of print elements
+19433,Printing Press Operators,Direct or monitor work of press crews.,0.15,directing human crew needs presence
+19434,Printing Press Operators,Download completed jobs to archive media so that questions can be answered or jobs replicated.,0.85,digital archiving of files
+19432,Printing Press Operators,"Control workflow scheduling or job tracking, using computer database software.",0.85,digital workflow scheduling software
+19438,Printing Press Operators,"Set up or operate auxiliary equipment, such as cutting, folding, plate-making, drilling, or laminating machines.",0.00,physical auxiliary equipment operation
+19460,Print Binding and Finishing Workers,"Examine stitched, collated, bound, or unbound product samples for defects, such as imperfect bindings, ink spots, torn pages, loose pages, or loose or uncut threads.",0.10,physical product defect inspection
+19453,Print Binding and Finishing Workers,Read work orders to determine instructions and specifications for machine set-up.,0.85,reading work orders is information work
+19461,Print Binding and Finishing Workers,"Install or adjust bindery machine devices, such as knives, guides, rollers, rounding forms, creasing rams, or clamps, to accommodate sheets, signatures, or books of specified sizes.",0.00,physical bindery machine adjustment
+19459,Print Binding and Finishing Workers,"Trim edges of books to size, using cutting machines, book trimming machines, or hand cutters.",0.00,physical book trimming
+19458,Print Binding and Finishing Workers,"Stitch or glue endpapers, bindings, backings, or signatures, using sewing machines, glue machines, or glue and brushes.",0.00,physical stitching and gluing
+19450,Print Binding and Finishing Workers,Monitor machine operations to detect malfunctions or to determine whether adjustments are needed.,0.15,on-site machine monitoring
+19448,Print Binding and Finishing Workers,"Maintain records, such as daily production records, using specified forms.",0.85,digital production record keeping
+19462,Print Binding and Finishing Workers,"Lubricate, clean, or make minor repairs to machine parts to keep machines in working condition.",0.00,physical machine lubrication and repair
+19455,Print Binding and Finishing Workers,"Set up or operate bindery machines, such as coil binders, thermal or tape binders, plastic comb binders, or specialty binders.",0.00,physical bindery machine operation
+19457,Print Binding and Finishing Workers,"Set up or operate machines that perform binding operations, such as pressing, folding, or trimming.",0.00,physical binding machine operation
+19463,Print Binding and Finishing Workers,Prepare finished books for shipping by wrapping or packing books and stacking boxes on pallets.,0.00,physical packing and shipping prep
+19456,Print Binding and Finishing Workers,"Set up or operate glue machines by filling glue reservoirs, turning switches to activate heating elements, or adjusting glue flow or conveyor speed.",0.00,physical glue machine operation
+19464,Print Binding and Finishing Workers,"Train workers to set up, operate, and use automatic bindery machines.",0.20,hands-on training needs physical demonstration
+19447,Print Binding and Finishing Workers,Insert book bodies in devices that form back edges of books into convex shapes and produce grooves that facilitate cover attachment.,0.00,physical book body insertion
+19443,Print Binding and Finishing Workers,"Cut cover material to specified dimensions, fitting and gluing material to binder boards by hand or machine.",0.00,physical cutting and gluing cover material
+19442,Print Binding and Finishing Workers,"Cut binder boards to specified dimensions, using board shears, hand cutters, or cutting machines.",0.00,physical binder board cutting
+19440,Print Binding and Finishing Workers,"Bind new books, using hand tools such as bone folders, knives, hammers, or brass binding tools.",0.00,physical hand-tool bookbinding
+19451,Print Binding and Finishing Workers,"Perform highly skilled hand finishing binding operations, such as grooving or lettering.",0.00,physical skilled hand finishing
+19446,Print Binding and Finishing Workers,"Imprint or emboss lettering, designs, or numbers on book covers, using gold, silver, or colored foil, and stamping machines.",0.00,physical embossing and stamping
+19441,Print Binding and Finishing Workers,"Compress sewed or glued signatures, using hand presses or smashing machines.",0.00,physical signature compression
+19449,Print Binding and Finishing Workers,"Meet with clients, printers, or designers to discuss job requirements or binding plans.",0.55,client meeting could be conducted remotely
+19445,Print Binding and Finishing Workers,Form book bodies by folding and sewing printed sheets to form signatures and assembling signatures in numerical order.,0.00,physical folding and sewing signatures
+19444,Print Binding and Finishing Workers,Design original or special bindings for limited editions or other custom binding projects.,0.40,design ideation possible but not fabrication
+19452,Print Binding and Finishing Workers,"Punch holes in and fasten paper sheets, signatures, or other material, using hand or machine punches and staplers.",0.00,physical hole punching and fastening
+19454,Print Binding and Finishing Workers,"Repair, restore, or rebind old, rare, or damaged books, using hand tools.",0.00,physical hand-tool book repair
+12121,Laundry and Dry-Cleaning Workers,"Load articles into washers or dry-cleaning machines, or direct other workers to perform loading.",0.00,physical machine loading
+12118,Laundry and Dry-Cleaning Workers,"Start washers, dry cleaners, driers, or extractors, and turn valves or levers to regulate machine processes and the volume of soap, detergent, water, bleach, starch, and other additives.",0.00,physical machine start and regulation
+12125,Laundry and Dry-Cleaning Workers,"Operate extractors and driers, or direct their operation.",0.00,physical extractor and drier operation
+12124,Laundry and Dry-Cleaning Workers,"Remove items from washers or dry-cleaning machines, or direct other workers to do so.",0.00,physical item removal from machines
+12119,Laundry and Dry-Cleaning Workers,"Sort and count articles removed from dryers, and fold, wrap, or hang them.",0.00,physical sorting folding and hanging
+12123,Laundry and Dry-Cleaning Workers,"Clean machine filters, and lubricate equipment.",0.00,physical filter cleaning and lubrication
+12120,Laundry and Dry-Cleaning Workers,"Examine and sort into lots articles to be cleaned, according to color, fabric, dirt content, and cleaning technique required.",0.05,physical sorting inspection of articles
+12117,Laundry and Dry-Cleaning Workers,"Receive and mark articles for laundry or dry cleaning with identifying code numbers or names, using hand or machine markers.",0.00,physical marking of articles
+12136,Laundry and Dry-Cleaning Workers,Apply bleaching powders to spots and spray them with steam to remove stains from fabrics that do not respond to other cleaning solvents.,0.00,physical stain treatment application
+12127,Laundry and Dry-Cleaning Workers,"Determine spotting procedures and proper solvents, based on fabric and stain types.",0.35,diagnostic decision but needs physical assessment
+12128,Laundry and Dry-Cleaning Workers,"Spray steam, water, or air over spots to flush out chemicals, dry material, raise naps, or brighten colors.",0.00,physical spraying to flush spots
+12131,Laundry and Dry-Cleaning Workers,"Pre-soak, sterilize, scrub, spot-clean, and dry contaminated or stained articles, using neutralizer solutions and portable machines.",0.00,physical soaking and scrubbing
+12137,Laundry and Dry-Cleaning Workers,"Mix bleaching agents with hot water in vats, and soak material until it is bleached.",0.00,physical bleach mixing and soaking
+12122,Laundry and Dry-Cleaning Workers,"Mix and add detergents, dyes, bleaches, starches, and other solutions and chemicals to clean, color, dry, or stiffen articles.",0.00,physical chemical mixing
+12135,Laundry and Dry-Cleaning Workers,"Sprinkle chemical solvents over stains, and pat areas with brushes or sponges to remove stains.",0.00,physical solvent application
+12138,Laundry and Dry-Cleaning Workers,"Match sample colors, applying knowledge of bleaching agent and dye properties, and types, construction, conditions, and colors of articles.",0.30,color matching mostly hands-on with samples
+12126,Laundry and Dry-Cleaning Workers,"Inspect soiled articles to determine sources of stains, to locate color imperfections, and to identify items requiring special treatment.",0.05,physical stain inspection
+12133,Laundry and Dry-Cleaning Workers,"Operate machines that comb, dry and polish furs, clean, sterilize and fluff feathers and blankets, or roll and package towels.",0.00,physical machine operation
+12142,Laundry and Dry-Cleaning Workers,"Iron or press articles, fabrics, and furs, using hand irons or pressing machines.",0.00,physical ironing and pressing
+12143,Laundry and Dry-Cleaning Workers,"Hang curtains, drapes, blankets, pants, and other garments on stretch frames to dry.",0.00,physical hanging on frames
+12140,Laundry and Dry-Cleaning Workers,"Identify articles' fabrics and original dyes by sight and touch, or by testing samples with fire or chemical reagents.",0.05,physical fabric identification by touch and testing
+12147,Laundry and Dry-Cleaning Workers,Immerse articles in bleaching baths to strip colors.,0.00,physical bleaching bath immersion
+12134,Laundry and Dry-Cleaning Workers,"Spread soiled articles on work tables, and position stained portions over vacuum heads or on marble slabs.",0.00,physical spreading and positioning of articles
+14038,"Pressers, Textile, Garment, and Related Materials","Hang, fold, package, and tag finished articles for delivery to customers.",0.00,physical packaging for delivery
+14035,"Pressers, Textile, Garment, and Related Materials","Operate steam, hydraulic, or other pressing machines to remove wrinkles from garments and flatwork items, or to shape, form, or patch articles.",0.00,physical pressing machine operation
+14043,"Pressers, Textile, Garment, and Related Materials","Straighten, smooth, or shape materials to prepare them for pressing.",0.00,physical material straightening
+14037,"Pressers, Textile, Garment, and Related Materials","Remove finished pieces from pressing machines and hang or stack them for cooling, or forward them for additional processing.",0.00,physical removal and stacking
+14042,"Pressers, Textile, Garment, and Related Materials","Finish pleated garments, determining sizes of pleats from evidence of old pleats or from work orders, using machine presses or hand irons.",0.00,physical garment finishing
+14036,"Pressers, Textile, Garment, and Related Materials","Lower irons, rams, or pressing heads of machines into position over material to be pressed.",0.00,physical machine positioning
+21026,"Pressers, Textile, Garment, and Related Materials",Identify and treat spots on garments.,0.05,physical spot identification and treatment
+14051,"Pressers, Textile, Garment, and Related Materials","Shrink, stretch, or block articles by hand to conform to original measurements, using forms, blocks, and steam.",0.00,physical shrinking and blocking by hand
+14049,"Pressers, Textile, Garment, and Related Materials","Finish fancy garments such as evening gowns and costumes, using hand irons to produce high quality finishes.",0.00,physical hand ironing of garments
+14041,"Pressers, Textile, Garment, and Related Materials",Push and pull irons over surfaces of articles to smooth or shape them.,0.00,physical ironing motion
+14044,"Pressers, Textile, Garment, and Related Materials","Finish pants, jackets, shirts, skirts and other dry-cleaned and laundered articles, using hand irons.",0.00,physical garment finishing with irons
+14039,"Pressers, Textile, Garment, and Related Materials","Slide material back and forth over heated, metal, ball-shaped forms to smooth and press portions of garments that cannot be satisfactorily pressed with flat pressers or hand irons.",0.00,physical pressing over heated forms
+14040,"Pressers, Textile, Garment, and Related Materials","Select appropriate pressing machines, based on garment properties such as heat tolerance.",0.30,machine selection decision embedded in physical work
+14046,"Pressers, Textile, Garment, and Related Materials",Spray water over fabric to soften fibers when not using steam irons.,0.00,physical water spraying on fabric
+14045,"Pressers, Textile, Garment, and Related Materials","Position materials such as cloth garments, felt, or straw on tables, dies, or feeding mechanisms of pressing machines, or on ironing boards or work tables.",0.00,physical material positioning
+14047,"Pressers, Textile, Garment, and Related Materials",Moisten materials to soften and smooth them.,0.00,physical moistening of materials
+14052,"Pressers, Textile, Garment, and Related Materials","Clean and maintain pressing machines, using cleaning solutions and lubricants.",0.00,physical machine cleaning
+14057,"Pressers, Textile, Garment, and Related Materials",Press ties on small pressing machines.,0.00,physical tie pressing
+14053,"Pressers, Textile, Garment, and Related Materials",Block or shape knitted garments after cleaning.,0.00,physical garment blocking
+14050,"Pressers, Textile, Garment, and Related Materials","Activate and adjust machine controls to regulate temperature and pressure of rollers, ironing shoes, or plates, according to specifications.",0.10,physical machine control adjustment
+14056,"Pressers, Textile, Garment, and Related Materials",Use covering cloths to prevent equipment from damaging delicate fabrics.,0.00,physical fabric protection during pressing
+14059,"Pressers, Textile, Garment, and Related Materials","Examine and measure finished articles to verify conformance to standards, using measuring devices such as tape measures and micrometers.",0.05,physical measurement of finished articles
+14048,"Pressers, Textile, Garment, and Related Materials","Finish velvet garments by steaming them on bucks of hot-head presses or steam tables, and brushing pile (nap) with handbrushes.",0.00,physical velvet garment finishing
+14061,"Pressers, Textile, Garment, and Related Materials","Measure fabric to specifications, cut uneven edges with shears, fold material, and press it with an iron to form a heading.",0.00,physical fabric measuring and pressing
+14054,"Pressers, Textile, Garment, and Related Materials",Insert heated metal forms into ties and touch up rough places with hand irons.,0.00,physical tie form insertion
+14055,"Pressers, Textile, Garment, and Related Materials","Brush materials made of suede, leather, or felt to remove spots or to raise and smooth naps.",0.00,physical brushing of materials
+14060,"Pressers, Textile, Garment, and Related Materials","Sew ends of new material to leaders or to ends of material in pressing machines, using sewing machines.",0.00,physical sewing of machine leaders
+14058,"Pressers, Textile, Garment, and Related Materials","Select, install, and adjust machine components, including pressing forms, rollers, and guides, using hoists and hand tools.",0.00,physical machine component installation
+12149,Sewing Machine Operators,"Monitor machine operation to detect problems such as defective stitching, breaks in thread, or machine malfunctions.",0.10,on-site machine operation monitoring
+12151,Sewing Machine Operators,"Place spools of thread, cord, or other materials on spindles, insert bobbins, and thread ends through machine guides and components.",0.00,physical thread and bobbin setup
+12150,Sewing Machine Operators,"Position items under needles, using marks on machines, clamps, templates, or cloth as guides.",0.00,physical item positioning under needles
+12153,Sewing Machine Operators,Guide garments or garment parts under machine needles and presser feet to sew parts together.,0.00,physical garment guiding while sewing
+12166,Sewing Machine Operators,Remove holding devices and finished items from machines.,0.00,physical removal of finished items
+12152,Sewing Machine Operators,"Match cloth pieces in correct sequences prior to sewing them, and verify that dye lots and patterns match.",0.15,physical cloth matching and sequencing
+12160,Sewing Machine Operators,Fold or stretch edges or lengths of items while sewing to facilitate forming specified sections.,0.00,physical folding while sewing
+12159,Sewing Machine Operators,Cut excess material or thread from finished products.,0.00,physical cutting of excess material
+12157,Sewing Machine Operators,"Select supplies such as fasteners and thread, according to job requirements.",0.25,supply selection typically done on site
+12162,Sewing Machine Operators,"Examine and measure finished articles to verify conformance to standards, using rulers.",0.05,physical measurement with rulers
+12154,Sewing Machine Operators,"Start and operate or tend machines, such as single or double needle serging and flat-bed felling machines, to automatically join, reinforce, or decorate material or articles.",0.00,physical machine tending and operation
+12155,Sewing Machine Operators,Record quantities of materials processed.,0.85,digital record of quantities processed
+12163,Sewing Machine Operators,"Turn knobs, screws, and dials to adjust settings of machines, according to garment styles and equipment performance.",0.00,physical machine knob adjustment
+12169,Sewing Machine Operators,"Attach tape, trim, appliques, or elastic to specified garments or garment parts, according to item specifications.",0.00,physical attachment of trim and elastic
+12164,Sewing Machine Operators,Repair or alter items by adding replacement parts or missing stitches.,0.00,physical repair and alteration of items
+12161,Sewing Machine Operators,"Perform equipment maintenance tasks such as replacing needles, sanding rough areas of needles, or cleaning and oiling sewing machines.",0.00,physical equipment maintenance

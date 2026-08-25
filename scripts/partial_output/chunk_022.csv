@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+17425,Neurodiagnostic Technologists,"Conduct tests or studies such as electroencephalography (EEG), polysomnography (PSG), nerve conduction studies (NCS), electromyography (EMG), and intraoperative monitoring (IOM).",0.05,hands-on clinical testing requires physical presence
+17426,Neurodiagnostic Technologists,"Calibrate, troubleshoot, or repair equipment and correct malfunctions, as needed.",0.05,physical equipment repair
+17427,Neurodiagnostic Technologists,"Conduct tests to determine cerebral death, the absence of brain activity, or the probability of recovery from a coma.",0.03,physical testing plus high-stakes medical authority
+17428,Neurodiagnostic Technologists,"Measure visual, auditory, or somatosensory evoked potentials (EPs) to determine responses to stimuli.",0.05,hands-on physiological testing
+17429,Neurodiagnostic Technologists,"Indicate artifacts or interferences derived from sources outside of the brain, such as poor electrode contact or patient movement, on electroneurodiagnostic recordings.",0.50,signal artifact annotation is data analysis
+17430,Neurodiagnostic Technologists,Measure patients' body parts and mark locations where electrodes are to be placed.,0.03,physical measurement and marking
+17431,Neurodiagnostic Technologists,"Monitor patients during tests or surgeries, using electroencephalographs (EEG), evoked potential (EP) instruments, or video recording equipment.",0.05,real-time patient monitoring needs physical presence
+17432,Neurodiagnostic Technologists,"Set up, program, or record montages or electrical combinations when testing peripheral nerve, spinal cord, subcortical, or cortical responses.",0.10,mostly physical electrode setup
+17433,Neurodiagnostic Technologists,Adjust equipment to optimize viewing of the nervous system.,0.05,physical equipment adjustment
+17434,Neurodiagnostic Technologists,Collect patients' medical information needed to customize tests.,0.40,interview-based info gathering
+17435,Neurodiagnostic Technologists,Submit reports to physicians summarizing test results.,0.75,writing summary report from test data
+17436,Neurodiagnostic Technologists,"Assist in training technicians, medical students, residents, or other staff members.",0.25,hands-on clinical training needs physical presence
+17437,Neurodiagnostic Technologists,"Explain testing procedures to patients, answering questions or reassuring patients, as needed.",0.30,in-person reassurance and rapport needed
+17438,Neurodiagnostic Technologists,"Participate in research projects, conferences, or technical meetings.",0.25,conferences and meetings need physical presence
+17439,Hearing Aid Specialists,Select and administer tests to evaluate hearing or related disabilities.,0.10,hands-on hearing testing
+17440,Hearing Aid Specialists,"Administer basic hearing tests including air conduction, bone conduction, or speech audiometry tests.",0.05,physical audiometry testing
+17441,Hearing Aid Specialists,Train clients to use hearing aids or other augmentative communication devices.,0.15,hands-on device training with client
+17442,Hearing Aid Specialists,Create or modify impressions for earmolds and hearing aid shells.,0.02,manual earmold impression work
+17443,Hearing Aid Specialists,Maintain or repair hearing aids or other communication devices.,0.05,physical device repair
+17444,Hearing Aid Specialists,Demonstrate assistive listening devices (ALDs) to clients.,0.10,physical product demonstration
+17445,Hearing Aid Specialists,Diagnose and treat hearing or related disabilities under the direction of an audiologist.,0.10,diagnosis and treatment under supervision needs authority and physical exam
+17446,Hearing Aid Specialists,"Perform basic screening procedures, such as pure tone screening, otoacoustic screening, immittance screening, and screening of ear canal status using otoscope.",0.03,physical screening procedures
+17447,Hearing Aid Specialists,"Assist audiologists in performing aural procedures, such as real ear measurements, speech audiometry, auditory brainstem responses, electronystagmography, and cochlear implant mapping.",0.05,physical assist during procedures
+17448,Hearing Aid Specialists,"Read current literature, talk with colleagues, and participate in professional organizations or conferences to keep abreast of developments in audiology.",0.40,reading is text-based but conferences need presence
+17465,Midwives,Assist maternal patients to find physical positions that will facilitate childbirth.,0.02,physical positioning assistance during labor
+17466,Midwives,"Monitor maternal condition during labor by checking vital signs, monitoring uterine contractions, or performing physical examinations.",0.03,physical exam and vital sign checks
+17467,Midwives,"Provide comfort and relaxation measures for mothers in labor through interventions such as massage, breathing techniques, hydrotherapy, or music.",0.03,physical comfort measures like massage
+17468,Midwives,Set up or monitor the administration of oxygen or medications.,0.03,physical administration with medical authority
+17469,Midwives,"Assess birthing environments to ensure cleanliness, safety, and the availability of appropriate supplies.",0.05,physical on-site inspection
+17470,Midwives,Assess the status of post-date pregnancies to determine treatments and interventions.,0.08,requires physical exam and clinical authority
+17471,Midwives,Collect specimens for use in laboratory tests.,0.02,physical specimen collection
+17472,Midwives,"Conduct ongoing prenatal health assessments, tracking changes in physical and emotional health.",0.10,requires physical exam over time
+17473,Midwives,"Develop, implement, or evaluate individualized plans for midwifery care.",0.20,planning aided but implementation needs clinical authority
+17474,Midwives,Establish and follow emergency or contingency plans for mothers and newborns.,0.10,emergency execution needs physical presence and authority
+17475,Midwives,Estimate patients' due dates and re-evaluate as necessary based on examination results.,0.70,calculation from existing exam data
+17476,Midwives,"Evaluate patients' laboratory and medical records, requesting assistance from other practitioners when necessary.",0.70,records analysis with referral judgment
+17477,Midwives,Respond to breech birth presentations by applying methods such as exercises or external version.,0.02,physical manipulation for breech birth
+17478,Midwives,"Identify, monitor, or treat pregnancy-related problems such as hypertension, gestational diabetes, pre-term labor, or retarded fetal growth.",0.25,monitoring aided but treatment needs physical authority
+17479,Midwives,Identify tubal and ectopic pregnancies and refer patients for treatments.,0.25,diagnosis needs clinical authority though referral drafting helps
+17480,Midwives,Inform patients of how to prepare and supply birth sites.,0.65,mostly informational instructions to patient
+17481,Midwives,"Monitor fetal growth and well-being through heartbeat detection, body measurement, and palpation.",0.02,physical palpation and measurement
+17482,Midwives,"Maintain documentation of all patients' contacts, reviewing and updating records as necessary.",0.85,pure documentation and record keeping
+17483,Midwives,"Obtain complete health and medical histories from patients including medical, surgical, reproductive, or mental health histories.",0.45,interview for sensitive medical history
+17484,Midwives,Perform post-partum health assessments of mothers and babies at regular intervals.,0.03,physical postpartum exam
+17485,Midwives,"Provide information about the physical and emotional processes involved in the pregnancy, labor, birth, and postpartum periods.",0.75,informational education content
+17486,Midwives,"Provide necessary medical care for infants at birth, including emergency care such as resuscitation.",0.00,physical emergency medical care of newborn
+17487,Midwives,"Provide, or refer patients to other providers for, education or counseling on topics such as genetic testing, newborn care, contraception, or breastfeeding.",0.55,informational counseling with some referral
+17488,Midwives,Refer patients to specialists for procedures such as ultrasounds or biophysical profiles.,0.35,referral needs professional accountability
+17489,Midwives,Suture perineal lacerations.,0.00,physical suturing procedure
+17490,Midwives,"Test patients' hemoglobin, hematocrit, and blood glucose levels.",0.02,physical point-of-care lab testing
+17491,Midwives,Compile and evaluate clinical practice statistics.,0.90,pure statistical data analysis
+17492,Midwives,Complete birth certificates.,0.20,official certificate needs legal signing authority
+17493,Midwives,Counsel women regarding the nutritional requirements of pregnancy.,0.55,informational nutrition counseling
+17494,Midwives,Collaborate in research studies.,0.35,research collaboration includes physical coordination
+17495,Midwives,Incorporate research findings into practice as appropriate.,0.30,practice change needs clinical accountability
+17496,Midwives,Provide information about community health and social resources.,0.75,informational resource sharing
+17498,Midwives,Recommend the use of vitamin and mineral supplements to enhance the health of patients and children.,0.40,medical recommendation carries clinical authority concerns
+17499,Midwives,Treat patients' symptoms with alternative health care methods such as herbs or hydrotherapy.,0.03,physical alternative treatment methods
+17500,Genetic Counselors,Analyze genetic information to identify patients or families at risk for specific disorders or syndromes.,0.85,pure genetic data analysis
+17501,Genetic Counselors,"Explain diagnostic procedures such as chorionic villus sampling (CVS), ultrasound, fetal blood sampling, and amniocentesis.",0.75,informational explanation of procedures
+17502,Genetic Counselors,"Provide genetic counseling in specified areas of clinical genetics, such as obstetrics, pediatrics, oncology and neurology.",0.30,counseling needs rapport and clinical authority
+17503,Genetic Counselors,"Assess patients' psychological or emotional needs, such as those relating to stress, fear of test results, financial issues, and marital conflicts to make referral recommendations or assist patients i",0.20,psychological assessment needs human rapport
+17504,Genetic Counselors,"Provide counseling to patient and family members by providing information, education, or reassurance.",0.25,emotional counseling needs live presence
+17505,Genetic Counselors,"Determine or coordinate treatment plans by requesting laboratory services, reviewing genetics or counseling literature, and considering histories or diagnostic data.",0.55,coordination and literature review mostly info-based
+17506,Genetic Counselors,"Discuss testing options and the associated risks, benefits and limitations with patients and families to assist them in making informed decisions.",0.35,informed decision discussion needs trust and rapport
+17507,Genetic Counselors,Interpret laboratory results and communicate findings to patients or physicians.,0.65,data interpretation plus some rapport in delivery
+17508,Genetic Counselors,"Interview patients or review medical records to obtain comprehensive patient or family medical histories, and document findings.",0.45,interview plus record review weighted average
+17509,Genetic Counselors,"Provide patients with information about the inheritance of conditions such as cardiovascular disease, Alzheimer's disease, diabetes, and various forms of cancer.",0.75,informational content about inheritance
+17510,Genetic Counselors,Refer patients to specialists or community resources.,0.45,administrative referral with some judgment
+17511,Genetic Counselors,Write detailed consultation reports to provide information on complex genetic concepts to patients or referring physicians.,0.85,pure report writing task
+17512,Genetic Counselors,"Design and conduct genetics training programs for physicians, graduate students, other health professions or the general community.",0.35,designing doable but conducting training needs presence
+17513,Genetic Counselors,"Collect for, or share with, research projects patient data on specific genetic disorders or syndromes.",0.55,data sharing with privacy oversight concerns
+17514,Genetic Counselors,Engage in research activities related to the field of medical genetics or genetic counseling.,0.55,research activities mostly info-based
+17515,Genetic Counselors,"Evaluate or make recommendations for standards of care or clinical operations, ensuring compliance with applicable regulations, ethics, legislation, or policies.",0.55,policy analysis with compliance sign-off
+17516,Genetic Counselors,Identify funding sources and write grant proposals for eligible programs or services.,0.80,research and grant writing text task
+17517,Genetic Counselors,"Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments in genetics.",0.40,reading is easy but colleague talk needs presence
+17518,Genetic Counselors,Prepare or provide genetics-related educational materials to patients or medical personnel.,0.80,preparing educational materials text task
+17519,Endoscopy Technicians,"Clean, disinfect, or calibrate scopes or other endoscopic instruments according to manufacturer recommendations and facility standards.",0.02,physical cleaning and calibration
+17520,Endoscopy Technicians,Maintain inventories of endoscopic equipment and supplies.,0.35,inventory tracking mostly physical counting
+17521,Endoscopy Technicians,Perform safety checks to verify proper equipment functioning.,0.05,physical safety checks
+17522,Endoscopy Technicians,Prepare suites or rooms according to endoscopic procedure requirements.,0.02,physical room preparation
+17523,Endoscopy Technicians,Maintain or repair endoscopic equipment.,0.03,physical equipment repair
+17524,Endoscopy Technicians,Position or transport patients in accordance with instructions from medical personnel.,0.00,physical patient positioning and transport
+17525,Endoscopy Technicians,Assist physicians or registered nurses in the conduct of endoscopic procedures.,0.02,physical assist during procedure
+17526,Endoscopy Technicians,Attend in-service training to validate or refresh basic professional skills.,0.10,physical attendance at hands-on training
+17527,Endoscopy Technicians,"Collect specimens from patients, using standard medical procedures.",0.02,physical specimen collection
+17528,Endoscopy Technicians,Conduct in-service training sessions to disseminate information regarding equipment or instruments.,0.15,live in-person training delivery
+17529,Endoscopy Technicians,"Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments in endoscopy.",0.40,reading is text-based but conferences need presence
+17530,Endoscopy Technicians,"Place devices, such as blood pressure cuffs, pulse oximeter sensors, nasal cannulas, surgical cautery pads, and cardiac monitoring electrodes, on patients to monitor vital signs.",0.02,physical placement of monitoring devices
+17531,Speech-Language Pathology Assistants,"Assist speech-language pathologists in the conduct of client screenings or assessments of language, voice, fluency, articulation, or hearing.",0.10,hands-on assessment assistance with patients
+17532,Speech-Language Pathology Assistants,Implement treatment plans or protocols as directed by speech-language pathologists.,0.15,live therapy delivery needs physical presence
+17533,Speech-Language Pathology Assistants,Assist speech-language pathologists in the remediation or development of speech and language skills.,0.15,hands-on skill remediation with clients
+17534,Speech-Language Pathology Assistants,Collect and compile data to document clients' performance or assess program quality.,0.45,data compilation weighted against live data collection
+17535,Speech-Language Pathology Assistants,Document clients' progress toward meeting established treatment objectives.,0.70,documentation from session notes
+17536,Speech-Language Pathology Assistants,Test or maintain equipment to ensure correct performance.,0.10,physical equipment testing
+17537,Speech-Language Pathology Assistants,Assist speech-language pathologists in the conduct of speech-language research projects.,0.40,research assist mixes physical and analytical work
+17538,Speech-Language Pathology Assistants,"Conduct in-service training sessions, or family and community education programs.",0.15,live training sessions need presence
+17539,Speech-Language Pathology Assistants,"Perform support duties, such as preparing materials, keeping records, maintaining supplies, and scheduling activities.",0.45,mixed clerical and physical support duties
+17540,Speech-Language Pathology Assistants,"Prepare charts, graphs, or other visual displays to communicate clients' performance information.",0.85,pure chart and graph creation
+17541,Speech-Language Pathology Assistants,Select or prepare speech-language instructional materials.,0.75,content selection and preparation task
+17654,Solar Sales Representatives and Assessors,Generate solar energy customer leads to develop new accounts.,0.55,digital lead generation is largely info-based
+17655,Solar Sales Representatives and Assessors,"Prepare proposals, quotes, contracts, or presentations for potential solar customers.",0.75,drafting proposals and quotes text task
+17656,Solar Sales Representatives and Assessors,"Select solar energy products, systems, or services for customers based on electrical energy requirements, site conditions, price, or other factors.",0.65,analytical product selection from data
+17657,Solar Sales Representatives and Assessors,"Assess sites to determine suitability for solar equipment, using equipment such as tape measures, compasses, and computer software.",0.30,site assessment needs physical on-site measurement
+17658,Solar Sales Representatives and Assessors,"Calculate potential solar resources or solar array production for a particular site considering issues such as climate, shading, and roof orientation.",0.75,computational solar production estimate
+17659,Solar Sales Representatives and Assessors,Create customized energy management packages to satisfy customer needs.,0.65,package planning from customer data
+17660,Solar Sales Representatives and Assessors,Develop marketing or strategic plans for sales territories.,0.75,writing marketing and strategic plans
+17661,Solar Sales Representatives and Assessors,Gather information from prospective customers to identify their solar energy needs.,0.40,live customer interview for needs
+17662,Solar Sales Representatives and Assessors,"Prepare or review detailed design drawings, specifications, or lists related to solar installations.",0.60,technical drafting with some engineering review
+17663,Solar Sales Representatives and Assessors,"Provide customers with information, such as quotes, orders, sales, shipping, warranties, credit, funding options, incentives, or tax rebates.",0.70,informational customer service content
+17664,Solar Sales Representatives and Assessors,"Provide technical information about solar power, solar systems, equipment, and services to potential customers or dealers.",0.75,informational technical content delivery
+17665,Solar Sales Representatives and Assessors,Take quote requests or orders from dealers or customers.,0.65,order taking via digital systems
+17666,Solar Sales Representatives and Assessors,Demonstrate use of solar and related equipment to customers or dealers.,0.10,physical equipment demonstration
+17667,Patient Representatives,"Explain policies, procedures, or services to patients using medical or administrative knowledge.",0.65,informational policy explanation
+17668,Patient Representatives,"Coordinate communication between patients, family members, medical staff, administrative staff, or regulatory agencies.",0.45,communication coordination with accountability
+17669,Patient Representatives,Investigate and direct patient inquiries or complaints to appropriate medical staff members and follow up to ensure satisfactory resolution.,0.45,triage and follow-up with some accountability
+17670,Patient Representatives,Interview patients or their representatives to identify problems relating to care.,0.40,live interview needs human rapport
+17671,Patient Representatives,Refer patients to appropriate health care services or resources.,0.60,referral is mostly informational
+17672,Patient Representatives,Analyze patients' abilities to pay to determine charges on a sliding scale.,0.75,financial eligibility calculation
+17673,Patient Representatives,"Collect and report data on topics, such as patient encounters or inter-institutional problems, making recommendations for change when appropriate.",0.75,data collection and reporting
+17674,Patient Representatives,"Develop and distribute newsletters, brochures, or other printed materials to share information with patients or medical staff.",0.65,content creation and mostly digital distribution
+17675,Patient Representatives,Teach patients to use home health care equipment.,0.15,hands-on equipment teaching with patient
+17676,Patient Representatives,"Identify and share research, recommendations, or other information regarding legal liabilities, risk management, or quality of care.",0.75,research and writing on policy topics
+17677,Patient Representatives,"Read current literature, talk with colleagues, continue education, or participate in professional organizations or conferences to keep abreast of developments in the field.",0.40,reading easy but colleague talk needs presence
+17678,Patient Representatives,Maintain knowledge of community services and resources available to patients.,0.75,maintaining resource knowledge is info-based
+17679,Patient Representatives,"Provide consultation or training to volunteers or staff on topics, such as guest relations, patients' rights, or medical issues.",0.30,live training and consultation needs presence
+17680,Freight Forwarders,"Select shipment routes, based on nature of goods shipped, transit times, or security needs.",0.75,route selection is analytical planning
+17681,Freight Forwarders,Determine efficient and cost-effective methods of moving goods from one location to another.,0.75,cost optimization analysis
+17682,Freight Forwarders,"Reserve necessary space on ships, aircraft, trains, or trucks.",0.75,booking via systems is largely automatable
+17683,Freight Forwarders,Arrange delivery or storage of goods at destinations.,0.60,arranging delivery involves coordination calls

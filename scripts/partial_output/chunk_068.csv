@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+22310,Nuclear Technicians,"Monitor nuclear reactor equipment performance to identify operational inefficiencies, hazards, or needs for maintenance or repair.",0.20,on-site physical equipment monitoring
+22311,Nuclear Technicians,Test plant equipment to ensure it is operating properly.,0.10,physical equipment testing
+22312,Nuclear Technicians,Apply safety tags to equipment needing maintenance.,0.05,physical safety tagging on site
+22313,Nuclear Technicians,Follow policies and procedures for radiation workers to ensure personnel safety.,0.05,requires physical presence and personal compliance
+22314,Nuclear Technicians,"Modify, devise, or maintain nuclear equipment used in operations.",0.05,hands-on equipment modification
+22315,Nuclear Technicians,"Monitor instruments, gauges, or recording devices under direction of nuclear experimenters.",0.15,on-site instrument monitoring
+22316,Nuclear Technicians,"Perform testing, maintenance, repair, or upgrading of accelerator systems.",0.05,hands-on accelerator maintenance
+22318,Nuclear Technicians,Warn maintenance workers of radiation hazards and direct workers to vacate hazardous areas.,0.05,on-site safety authority and presence
+22319,Nuclear Technicians,"Calculate equipment operating factors, such as radiation times, dosages, temperatures, gamma intensities, or pressures, using standard formulas and conversion tables.",0.85,formulaic computation from provided data
+22320,Nuclear Technicians,"Measure the intensity and identify the types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments.",0.05,physical radiation measurement on site
+22321,Nuclear Technicians,"Communicate with accelerator maintenance personnel to ensure readiness of support systems, such as vacuum, water cooling, or radio frequency power sources.",0.30,communication plus physical readiness verification
+22323,Nuclear Technicians,"Identify and implement appropriate decontamination procedures, based on equipment and the size, nature, and type of contamination.",0.15,mostly physical implementation of procedures
+22324,Nuclear Technicians,"Decontaminate objects by cleaning them using soap or solvents or by abrading using brushes, buffing machines, or sandblasting machines.",0.00,physical decontamination work
+22326,Nuclear Technicians,"Collect air, water, gas or solid samples for testing to determine radioactivity levels or to ensure appropriate radioactive containment.",0.05,physical sample collection
+22327,Nuclear Technicians,"Determine or recommend radioactive decontamination procedures, according to the size and nature of equipment and the degree of contamination.",0.40,procedural recommendation needing physical inspection
+22328,Nuclear Technicians,Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy.,0.05,physical equipment setup and testing
+20539,Nuclear Monitoring Technicians,Brief workers on radiation levels in work areas.,0.30,live briefing best done with human presence
+7597,Nuclear Monitoring Technicians,Calculate safe radiation exposure times for personnel using plant contamination readings and prescribed safe levels of radiation.,0.90,formulaic calculation from provided data
+7599,Nuclear Monitoring Technicians,Monitor personnel to determine the amounts and intensities of radiation exposure.,0.10,requires physical monitoring of personnel
+7600,Nuclear Monitoring Technicians,Inform supervisors when individual exposures or area radiation levels approach maximum permissible limits.,0.65,automatable alerting from monitored data
+7598,Nuclear Monitoring Technicians,Provide initial response to abnormal events or to alarms from radiation monitoring equipment.,0.10,requires on-site physical response
+7602,Nuclear Monitoring Technicians,"Determine intensities and types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments.",0.05,physical instrument measurement on site
+7601,Nuclear Monitoring Technicians,Instruct personnel in radiation safety procedures and demonstrate use of protective clothing and equipment.,0.10,hands-on demonstration required
+7603,Nuclear Monitoring Technicians,"Collect samples of air, water, gases, or solids to determine radioactivity levels of contamination.",0.05,physical sample collection
+20540,Nuclear Monitoring Technicians,"Analyze samples, such as air or water samples, for contaminants or other elements.",0.15,requires physical lab analysis equipment
+7605,Nuclear Monitoring Technicians,"Determine or recommend radioactive decontamination procedures, according to the size and nature of equipment and the degree of contamination.",0.40,procedural recommendation needing physical inspection
+7604,Nuclear Monitoring Technicians,Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy.,0.05,physical equipment setup and testing
+7612,Nuclear Monitoring Technicians,"Prepare reports describing contamination tests, material or equipment decontaminated, or methods used in decontamination processes.",0.85,report writing from provided data
+20541,Nuclear Monitoring Technicians,"Place radioactive waste, such as sweepings or broken sample bottles, into containers for shipping or disposal.",0.00,physical waste handling
+7606,Nuclear Monitoring Technicians,"Decontaminate objects by cleaning with soap or solvents or by abrading with wire brushes, buffing wheels, or sandblasting machines.",0.00,physical decontamination work
+7610,Nuclear Monitoring Technicians,Enter data into computers to record characteristics of nuclear events or to locate coordinates of particles.,0.90,digital data entry task
+7608,Nuclear Monitoring Technicians,"Calibrate and maintain chemical instrumentation sensing elements and sampling system equipment, using calibration instruments and hand tools.",0.05,physical calibration with hand tools
+12963,Social Science Research Assistants,Design and create special programs for tasks such as statistical analysis and data entry and cleaning.,0.90,software and statistical coding task
+12953,Social Science Research Assistants,"Provide assistance with the preparation of project-related reports, manuscripts, and presentations.",0.85,writing and document preparation
+12957,Social Science Research Assistants,"Prepare tables, graphs, fact sheets, and written reports summarizing research results.",0.90,data summarization and writeup
+12955,Social Science Research Assistants,"Perform descriptive and multivariate statistical analyses of data, using computer software.",0.90,statistical analysis via software
+12956,Social Science Research Assistants,"Verify the accuracy and validity of data entered in databases, correcting any errors.",0.80,data validation and correction
+12959,Social Science Research Assistants,Develop and implement research quality control procedures.,0.55,procedure design though rollout needs people
+12952,Social Science Research Assistants,"Prepare, manipulate, and manage extensive databases.",0.85,database management task
+12962,Social Science Research Assistants,Perform data entry and other clerical work as required for project completion.,0.85,clerical data entry
+12960,Social Science Research Assistants,Conduct internet-based and library research.,0.90,research via browsing and reading
+12961,Social Science Research Assistants,Present research findings to groups of people.,0.35,live presentation to a group needs human presence
+12954,Social Science Research Assistants,Obtain informed consent of research subjects or their guardians.,0.15,requires human trust and legal accountability
+12967,Social Science Research Assistants,"Administer standardized tests to research subjects, or interview them to collect research data.",0.35,interviewing needs live human rapport
+12968,Social Science Research Assistants,Recruit and schedule research participants.,0.55,scheduling automatable though recruiting needs persuasion
+12966,Social Science Research Assistants,Screen potential subjects to determine their suitability as study participants.,0.60,screening via questionnaire data with some judgment
+12969,Social Science Research Assistants,"Track research participants, and perform any necessary follow-up tasks.",0.60,tracking is digital though follow-up may need contact
+12958,Social Science Research Assistants,Edit and submit protocols and other required research documentation.,0.75,document editing and submission
+12964,Social Science Research Assistants,Code data in preparation for computer entry.,0.85,data coding task
+12972,Social Science Research Assistants,Track laboratory supplies and expenses such as participant reimbursement.,0.55,tracking automatable though reimbursement needs approval
+12965,Social Science Research Assistants,Provide assistance in the design of survey instruments such as questionnaires.,0.85,survey design assistance
+12971,Social Science Research Assistants,Supervise the work of survey interviewers.,0.20,supervising human workers needs authority and presence
+12973,Social Science Research Assistants,Perform needs assessments or consult with clients to determine the types of research and information required.,0.55,consultative conversation doable via text
+12970,Social Science Research Assistants,Allocate and manage laboratory space and resources.,0.25,physical resource allocation decisions
+5566,Forest and Conservation Technicians,"Thin and space trees and control weeds and undergrowth, using manual tools and chemicals, or supervise workers performing these tasks.",0.05,physical outdoor labor or supervising crews on site
+5563,Forest and Conservation Technicians,"Train and lead forest and conservation workers in seasonal activities, such as planting tree seedlings, putting out forest fires, and maintaining recreational facilities.",0.05,on-site physical training and leadership
+5570,Forest and Conservation Technicians,"Provide information about, and enforce, regulations, such as those concerning environmental protection, resource utilization, fire safety, and accident prevention.",0.20,enforcement requires legal authority and presence
+5569,Forest and Conservation Technicians,Patrol park or forest areas to protect resources and prevent damage.,0.00,physical patrol
+21061,Forest and Conservation Technicians,Map forest tract data using digital mapping systems.,0.75,digital mapping from field data
+5571,Forest and Conservation Technicians,Keep records of the amount and condition of logs taken to mills.,0.55,record keeping though condition checks need inspection
+5567,Forest and Conservation Technicians,"Manage forest protection activities, including fire control, fire crew training, and coordination of fire detection and public education programs.",0.10,on-site fire management and crew training
+5564,Forest and Conservation Technicians,Monitor activities of logging companies and contractors.,0.10,on-site inspection of contractors
+5578,Forest and Conservation Technicians,"Perform reforestation or forest renewal, including nursery and silviculture operations, site preparation, seeding and tree planting programs, cone collection, and tree improvement.",0.00,physical field labor
+5576,Forest and Conservation Technicians,Plan and supervise construction of access routes and forest roads.,0.25,planning is digital but supervision is on-site
+5565,Forest and Conservation Technicians,"Select and mark trees for thinning or logging, drawing detailed plans that include access roads.",0.15,mostly on-site tree selection and marking
+5572,Forest and Conservation Technicians,"Supervise forest nursery operations, timber harvesting, land use activities such as livestock grazing, and disease or insect control programs.",0.05,on-site physical supervision
+5574,Forest and Conservation Technicians,Develop and maintain computer databases.,0.85,database development task
+5581,Forest and Conservation Technicians,"Inspect trees and collect samples of plants, seeds, foliage, bark, and roots to locate insect and disease damage.",0.05,physical inspection and sampling
+5575,Forest and Conservation Technicians,"Measure distances, clean sightlines, and record data to help survey crews.",0.05,physical field survey work
+5573,Forest and Conservation Technicians,"Issue fire permits, timber permits, and other forest use licenses.",0.30,permit issuance needs official authority
+5568,Forest and Conservation Technicians,"Survey, measure, and map access roads and forest areas such as burns, cut-over areas, experimental plots, and timber sales sections.",0.10,primarily physical field surveying
+5577,Forest and Conservation Technicians,"Provide forestry education and general information, advice, and recommendations to woodlot owners, community organizations, and the general public.",0.55,advice content is digital though outreach is often in-person
+5580,Forest and Conservation Technicians,"Provide technical support to forestry research programs in areas such as tree improvement, seed orchard operations, insect and disease surveys, or experimental forestry and forest engineering research.",0.25,mixed field and analytical work mostly physical
+5579,Forest and Conservation Technicians,"Conduct laboratory or field experiments with plants, animals, insects, diseases, and soils.",0.05,physical lab and field experiments
+1577,Forensic Science Technicians,"Collect evidence from crime scenes, storing it in conditions that preserve its integrity.",0.00,physical evidence collection with legal chain of custody
+18478,Forensic Science Technicians,"Keep records and prepare reports detailing findings, investigative methods, and laboratory techniques.",0.85,report writing from provided findings
+20399,Forensic Science Technicians,Use photographic or video equipment to document evidence or crime scenes.,0.05,on-site physical documentation
+1571,Forensic Science Technicians,Testify in court about investigative or analytical methods or findings.,0.00,sworn court testimony needs human legal standing
+18479,Forensic Science Technicians,Use chemicals or other substances to examine latent fingerprint evidence and compare developed prints to those of known persons in databases.,0.20,mostly physical lab chemical processing
+23965,Forensic Science Technicians,Measure and sketch crime scenes to document evidence.,0.05,on-site physical measurement
+1584,Forensic Science Technicians,"Visit morgues, examine scenes of crimes, or contact other sources to obtain evidence or information to be used in investigations.",0.05,physical site visits required
+18481,Forensic Science Technicians,Train new technicians or other personnel on forensic science techniques.,0.15,hands-on training with some content prep automatable
+1574,Forensic Science Technicians,Operate and maintain laboratory equipment and apparatus.,0.05,physical equipment operation
+1582,Forensic Science Technicians,Collect impressions of dust from surfaces to obtain and identify fingerprints.,0.05,physical evidence collection
+18482,Forensic Science Technicians,Examine and analyze blood stain patterns at crime scenes.,0.15,physical scene examination with some data analysis
+1583,Forensic Science Technicians,Analyze gunshot residue and bullet paths to determine how shootings occurred.,0.15,physical and lab evidence analysis
+1589,Forensic Science Technicians,"Confer with ballistics, fingerprinting, handwriting, documents, electronics, medical, chemical, or metallurgical experts concerning evidence and its interpretation.",0.55,collaborative consultation largely text-based
+1575,Forensic Science Technicians,"Prepare solutions, reagents, or sample formulations needed for laboratory work.",0.05,physical lab preparation
+23966,Forensic Science Technicians,"Examine footwear, tire tracks, or other types of impressions.",0.15,physical impression examination partly image-based
+23967,Forensic Science Technicians,"Examine physical evidence, such as hair, biological fluids, fiber, wood, or soil residues to obtain information about its source and composition.",0.10,physical lab evidence examination
+1580,Forensic Science Technicians,Reconstruct crime scenes to determine relationships among pieces of evidence.,0.45,analytical reconstruction needing on-site judgment
+20401,Forensic Science Technicians,Determine types of bullets and specific weapons used in shootings.,0.15,physical ballistics examination
+20400,Forensic Science Technicians,Review forensic analysts' reports for technical merit.,0.80,text-based technical review
+1573,Forensic Science Technicians,"Interpret laboratory findings or test results to identify and classify substances, materials, or other evidence collected at crime scenes.",0.70,data interpretation and classification
+1590,Forensic Science Technicians,"Compare objects, such as tools, with impression marks to determine whether a specific object is responsible for a specific mark.",0.20,physical or image-based comparison examination
+1578,Forensic Science Technicians,"Identify and quantify drugs or poisons found in biological fluids or tissues, in foods, or at crime scenes.",0.10,physical lab chemical analysis
+1587,Forensic Science Technicians,"Examine firearms to determine mechanical condition and legal status, performing restoration work on damaged firearms to obtain information, such as serial numbers.",0.05,physical firearm restoration work
+23969,Forensic Science Technicians,Analyze data from computers or other digital media sources for evidence related to criminal activity.,0.65,digital forensic data analysis
+16980,Quality Control Analysts,"Conduct routine and non-routine analyses of in-process materials, raw materials, environmental samples, finished goods, or stability samples.",0.15,physical lab sample analysis
+16974,Quality Control Analysts,"Interpret test results, compare them to established specifications and control limits, and make recommendations on appropriateness of data for release.",0.55,data interpretation though release needs signoff
+16978,Quality Control Analysts,"Calibrate, validate, or maintain laboratory equipment.",0.05,physical equipment calibration
+16961,Quality Control Analysts,Ensure that lab cleanliness and safety standards are maintained.,0.05,on-site physical safety enforcement
+16956,Quality Control Analysts,Perform visual inspections of finished products.,0.15,physical visual inspection of products
+16977,Quality Control Analysts,"Complete documentation needed to support testing procedures, including data capture forms, equipment logbooks, or inventory forms.",0.75,documentation and form completion
+16979,Quality Control Analysts,Compile laboratory test data and perform appropriate analyses.,0.80,data compilation and analysis
+16959,Quality Control Analysts,Identify and troubleshoot equipment problems.,0.15,physical equipment troubleshooting
+16964,Quality Control Analysts,"Write technical reports or documentation, such as deviation reports, testing protocols, and trend analyses.",0.85,technical report writing
+16973,Quality Control Analysts,Investigate or report questionable test results.,0.55,data-based investigation and reporting
+16972,Quality Control Analysts,"Monitor testing procedures to ensure that all tests are performed according to established item specifications, standard test methods, or protocols.",0.20,on-site procedural monitoring
+16975,Quality Control Analysts,Identify quality problems and recommend solutions.,0.55,analytical recommendation from quality data
+16971,Quality Control Analysts,Participate in out-of-specification and failure investigations and recommend corrective actions.,0.50,investigative analysis and recommendation
+16967,Quality Control Analysts,Receive and inspect raw materials.,0.05,physical receiving and inspection
+16955,Quality Control Analysts,Train other analysts to perform laboratory procedures and assays.,0.10,hands-on training required
+16966,Quality Control Analysts,Supply quality control data necessary for regulatory submissions.,0.65,data compilation though submission needs signoff
+16957,Quality Control Analysts,"Serve as a technical liaison between quality control and other departments, vendors, or contractors.",0.40,liaison role needing trust and coordination
+16965,Quality Control Analysts,Write or revise standard quality control operating procedures.,0.75,procedure writing task
+16958,Quality Control Analysts,Participate in internal assessments and audits as required.,0.35,audits mix document review and site presence
+16970,Quality Control Analysts,Perform validations or transfers of analytical methods in accordance with applicable policies or guidelines.,0.20,physical lab method validation
+16976,Quality Control Analysts,Evaluate analytical methods and procedures to determine how they might be improved.,0.65,analytical evaluation task
+16969,Quality Control Analysts,Prepare or review required method transfer documentation including technical transfer protocols or reports.,0.80,documentation preparation and review
+16968,Quality Control Analysts,Review data from contract laboratories to ensure accuracy and regulatory compliance.,0.75,data review for compliance
+16962,Quality Control Analysts,Develop and qualify new testing methods.,0.20,requires physical lab experimentation to qualify
+16963,Quality Control Analysts,Coordinate testing with contract laboratories and vendors.,0.60,coordination via communication
+16960,Quality Control Analysts,Evaluate new technologies and methods to make recommendations regarding their use.,0.70,research and recommendation task
+16999,Remote Sensing Technicians,"Collect geospatial data, using technologies such as aerial photography, light and radio wave detection systems, digital satellites, or thermal energy systems.",0.20,operating physical collection equipment and sensors
+16986,Remote Sensing Technicians,Verify integrity and accuracy of data contained in remote sensing image analysis systems.,0.80,data verification task
+16991,Remote Sensing Technicians,Integrate remotely sensed data with other geospatial data.,0.85,digital data integration task
+16996,Remote Sensing Technicians,"Consult with remote sensing scientists, surveyors, cartographers, or engineers to determine project needs.",0.55,consultative communication task
+16997,Remote Sensing Technicians,"Adjust remotely sensed images for optimum presentation by using software to select image displays, define image set categories, or choose processing routines.",0.85,digital image processing task
+16998,Remote Sensing Technicians,"Manipulate raw data to enhance interpretation, either on the ground or during remote sensing flights.",0.55,mostly digital manipulation with some in-flight work

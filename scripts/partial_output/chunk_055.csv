@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+16428,Automotive Engineers,Provide technical direction to other engineers or engineering support personnel.,0.30,directing people needs human authority and presence
+16429,Automotive Engineers,"Perform failure, variation, or root cause analyses.",0.80,analytical work from data and reports
+16434,Automotive Engineers,"Calibrate vehicle systems, including control algorithms or other software systems.",0.35,software calibration ok but physical vehicle calibration needs hardware access
+16437,Automotive Engineers,"Design or analyze automobile systems in areas such as aerodynamics, alternate fuels, ergonomics, hybrid power, brakes, transmissions, steering, calibration, safety, or diagnostics.",0.70,design and analysis via CAD and simulation
+16423,Automotive Engineers,Prepare or present technical or project status reports.,0.75,prepare high but present implies live human delivery
+16426,Automotive Engineers,Conduct research studies to develop new concepts in the field of automotive engineering.,0.55,research doable but validation needs physical experiments
+16422,Automotive Engineers,Establish production or quality control standards.,0.45,can draft standards but establishing needs organizational authority
+16436,Automotive Engineers,Alter or modify designs to obtain specified functional or operational performance.,0.70,design modification via CAD and simulation
+19638,Automotive Engineers,"Research or implement green automotive technologies involving alternative fuels, electric or hybrid cars, or lighter or more fuel-efficient vehicles.",0.45,research strong but implementation is physical
+16432,Automotive Engineers,"Develop calibration methodologies, test methodologies, or tools.",0.70,developing methodologies and tools is documentation and software work
+19633,Automotive Engineers,"Create design alternatives for vehicle components, such as camless or dual-clutch engines or alternative air-conditioning systems, to increase fuel efficiency.",0.75,CAD design of component alternatives
+16424,Automotive Engineers,Develop or implement operating methods or procedures.,0.50,develop procedures ok but implement needs physical action
+16431,Automotive Engineers,Develop engineering specifications or cost estimates for automotive design concepts.,0.80,engineering specs and cost estimates are analytical writing
+16433,Automotive Engineers,Conduct automotive design reviews.,0.65,design review of documents though often a live meeting
+19635,Automotive Engineers,"Design vehicles that use lighter materials, such as aluminum, magnesium alloy, or plastic, to improve fuel efficiency.",0.70,materials selection and CAD design work
+16425,Automotive Engineers,"Write, review, or maintain engineering documentation.",0.90,pure documentation writing and review
+19636,Automotive Engineers,Develop specifications for vehicles powered by alternative fuels or alternative power methods.,0.80,developing written specifications
+16435,Automotive Engineers,Build models for algorithm or control feature verification testing.,0.75,building simulation models is software work
+16427,Automotive Engineers,"Coordinate production activities with other functional units, such as procurement, maintenance, or quality control.",0.35,cross team coordination needs live human interaction and authority
+16439,Automotive Engineers,"Design control systems or algorithms for purposes such as automotive energy management, emissions management, or increased operational safety or performance.",0.80,algorithm and control system design is computational
+16430,Automotive Engineers,Develop or integrate control feature requirements.,0.75,developing requirement specs is documentation work
+19637,Automotive Engineers,"Research computerized automotive applications, such as telemetrics, intelligent transportation systems, artificial intelligence, or automatic control.",0.80,literature and technology research
+16421,Automotive Engineers,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new automotive technology or competitive products.",0.45,reading literature is doable but conferences and colleague talk need live presence
+19634,Automotive Engineers,"Design vehicles for increased recyclability or use of natural, renewable, or recycled materials in vehicle construction.",0.70,design work for recyclable materials
+3569,"Mining and Geological Engineers, Including Mining Safety Engineers","Prepare technical reports for use by mining, engineering, and management personnel.",0.85,technical report writing from data
+3561,"Mining and Geological Engineers, Including Mining Safety Engineers","Inspect mining areas for unsafe structures, equipment, and working conditions.",0.05,physical on-site inspection of mining areas
+3568,"Mining and Geological Engineers, Including Mining Safety Engineers","Select or develop mineral location, extraction, and production methods, based on factors such as safety, cost, and deposit characteristics.",0.55,analysis and recommendation of methods though safety accountability sits with human
+3562,"Mining and Geological Engineers, Including Mining Safety Engineers","Select locations and plan underground or surface mining operations, specifying processes, labor usage, and equipment that will result in safe, economical, and environmentally sound extraction of minerals and ores.",0.50,planning task but safety sign-off needs human accountability
+3565,"Mining and Geological Engineers, Including Mining Safety Engineers","Prepare schedules, reports, and estimates of the costs involved in developing and operating mines.",0.85,cost estimates and schedules are analytical writing
+3566,"Mining and Geological Engineers, Including Mining Safety Engineers",Monitor mine production rates to assess operational effectiveness.,0.65,production monitoring possible via remote data feeds
+18610,"Mining and Geological Engineers, Including Mining Safety Engineers","Supervise, train, and evaluate technicians, technologists, survey personnel, engineers, scientists or other mine personnel.",0.15,supervising and training personnel needs human presence and authority
+3563,"Mining and Geological Engineers, Including Mining Safety Engineers","Examine maps, deposits, drilling locations, or mines to determine the location, size, accessibility, contents, value, and potential profitability of mineral, oil, and gas deposits.",0.55,examining existing maps and data doable remotely but site examination is physical
+3567,"Mining and Geological Engineers, Including Mining Safety Engineers","Design, implement, and monitor the development of mines, facilities, systems, or equipment.",0.40,design portion feasible but implement and monitor physically is not
+3571,"Mining and Geological Engineers, Including Mining Safety Engineers","Test air to detect toxic gases and recommend measures to remove them, such as installation of ventilation shafts.",0.15,physical air testing on site
+3570,"Mining and Geological Engineers, Including Mining Safety Engineers","Implement and coordinate mine safety programs, including the design and maintenance of protective and rescue equipment and safety devices.",0.30,safety program design possible but implementation and coordination on site is not
+3574,"Mining and Geological Engineers, Including Mining Safety Engineers","Devise solutions to problems of land reclamation and water and air pollution, such as methods of storing excavated soil and returning exhausted mine sites to natural states.",0.65,devising remediation solutions is analytical planning
+3575,"Mining and Geological Engineers, Including Mining Safety Engineers","Lay out, direct, and supervise mine construction operations, such as the construction of shafts and tunnels.",0.10,on-site construction supervision needs physical presence
+3572,"Mining and Geological Engineers, Including Mining Safety Engineers","Design, develop, and implement computer applications for use in mining operations such as mine design, modeling, or mapping or for monitoring mine conditions.",0.85,software development for mining applications
+3573,"Mining and Geological Engineers, Including Mining Safety Engineers","Select or devise materials-handling methods and equipment to transport ore, waste materials, and mineral products efficiently and economically.",0.65,devising materials handling methods is analytical design
+3576,"Mining and Geological Engineers, Including Mining Safety Engineers","Evaluate data to develop new mining products, equipment, or processes.",0.80,data evaluation to inform new products or processes
+3578,"Mining and Geological Engineers, Including Mining Safety Engineers",Design mining and mineral treatment equipment and machinery in collaboration with other engineering specialists.,0.65,"equipment design work in CAD, collaboration adds human element"
+3577,"Mining and Geological Engineers, Including Mining Safety Engineers",Conduct or direct mining experiments to test or prove research findings.,0.30,conducting or directing experiments needs physical presence and authority
+5384,Nuclear Engineers,"Design or develop nuclear equipment, such as reactor cores, radiation shielding, or associated instrumentation or control mechanisms.",0.65,nuclear equipment design via computational and simulation work
+5380,Nuclear Engineers,"Monitor nuclear facility operations to identify any design, construction, or operation practices that violate safety regulations and laws or could jeopardize safe operations.",0.35,monitoring facility operations needs on-site presence and authority
+5385,Nuclear Engineers,Initiate corrective actions or order plant shutdowns in emergency situations.,0.05,emergency shutdown authority and responsibility rests with human
+5379,Nuclear Engineers,Examine accidents to obtain data for use in design of preventive measures.,0.55,examining accident data and reports
+5389,Nuclear Engineers,Direct operating or maintenance activities of nuclear power plants to ensure efficiency and conformity to safety standards.,0.10,directing physical plant operations on site
+5383,Nuclear Engineers,"Design or oversee construction or operation of nuclear reactors, power plants, or nuclear fuels reprocessing and reclamation systems.",0.30,design portion feasible but overseeing construction and operation is physical
+19642,Nuclear Engineers,Direct environmental compliance activities associated with nuclear plant operations or maintenance.,0.20,directing compliance activities needs authority and presence
+5387,Nuclear Engineers,Write operational instructions to be used in nuclear plant operation or nuclear fuel or waste handling and disposal.,0.65,"drafting operational instructions, though safety review needed"
+20956,Nuclear Engineers,"Prepare technical reports of findings or recommendations, based on synthesized analyses of test results.",0.85,technical report writing from test results
+19643,Nuclear Engineers,"Prepare environmental impact statements, reports, or presentations for regulatory or other agencies.",0.75,preparing reports though regulatory submission needs certified authority
+19641,Nuclear Engineers,"Develop or contribute to the development of plans to remediate or restore environments affected by nuclear radiation, such as waste disposal sites.",0.60,developing remediation plans is analytical planning
+5388,Nuclear Engineers,Conduct tests of nuclear fuel behavior and cycles or performance of nuclear machinery and equipment to optimize performance of existing plants.,0.15,physical testing of nuclear fuel and machinery
+19640,Nuclear Engineers,Design fuel cycle models or processes to reduce the quantity of radioactive waste generated from nuclear activities.,0.65,fuel cycle modeling is computational design
+20958,Nuclear Engineers,Consult with other scientists to determine parameters of experimentation or suitability of analytical models.,0.45,consultation with scientists needs live human interaction
+5386,Nuclear Engineers,"Recommend preventive measures to be taken in the handling of nuclear technology, based on data obtained from operations monitoring or from evaluation of test results.",0.70,data-based recommendation writing
+20959,Nuclear Engineers,"Discuss construction project proposals with interested parties, such as vendors, contractors, or nuclear facility review boards.",0.35,discussing proposals with stakeholders needs live negotiation
+5382,Nuclear Engineers,"Perform experiments that will provide information about acceptable methods of nuclear material usage, nuclear fuel reclamation, or waste disposal.",0.15,physical experiments on nuclear materials
+19639,Nuclear Engineers,"Conduct environmental studies on topics such as nuclear power generation, nuclear waste disposal, or nuclear weapon deployment.",0.50,environmental studies partly desk research partly field study
+20957,Nuclear Engineers,"Design or direct nuclear research projects to develop, test, modify, or discover new uses for theoretical models.",0.40,design portion feasible but directing research projects needs authority
+5381,Nuclear Engineers,Keep abreast of developments and changes in the nuclear field by reading technical journals or by independent study and research.,0.90,reading journals and independent research
+3582,Petroleum Engineers,Specify and supervise well modification and stimulation programs to maximize oil and gas recovery.,0.35,specifying programs feasible but supervising well work is physical
+3580,Petroleum Engineers,"Monitor production rates, and plan rework processes to improve production.",0.70,monitoring data and planning rework from records
+3586,Petroleum Engineers,Maintain records of drilling and production operations.,0.85,record keeping of drilling and production data
+3581,Petroleum Engineers,Analyze data to recommend placement of wells and supplementary processes to enhance production.,0.80,data analysis to recommend well placement
+3584,Petroleum Engineers,Assist engineering and other personnel to solve operating problems.,0.55,assisting personnel with problems often needs live on-site interaction
+3583,Petroleum Engineers,"Direct and monitor the completion and evaluation of wells, well testing, or well surveys.",0.25,directing and monitoring well operations needs authority and presence
+3585,Petroleum Engineers,"Develop plans for oil and gas field drilling, and for product recovery and treatment.",0.70,developing drilling and recovery plans
+3579,Petroleum Engineers,"Assess costs and estimate the production capabilities and economic value of oil and gas wells, to evaluate the economic viability of potential drilling sites.",0.85,cost and value analysis from data
+3587,Petroleum Engineers,"Confer with scientific, engineering, and technical personnel to resolve design, research, and testing problems.",0.45,conferring to resolve problems needs live human collaboration
+3591,Petroleum Engineers,Interpret drilling and testing information for personnel.,0.75,interpreting data for personnel is analysis and reporting
+3598,Petroleum Engineers,"Coordinate activities of workers engaged in research, planning, and development.",0.30,coordinating workers needs human authority and presence
+3588,Petroleum Engineers,Write technical reports for engineering and management personnel.,0.90,technical report writing
+3589,Petroleum Engineers,"Evaluate findings to develop, design, or test equipment or processes.",0.55,evaluating and designing feasible but physical testing is not
+3600,Petroleum Engineers,Test machinery and equipment to ensure that it is safe and conforms to performance specifications.,0.10,physical testing of machinery on site
+3590,Petroleum Engineers,Assign work to staff to obtain maximum utilization of personnel.,0.25,assigning work to staff needs managerial authority
+3596,Petroleum Engineers,"Simulate reservoir performance for different recovery techniques, using computer models.",0.85,computer-based reservoir simulation
+3592,Petroleum Engineers,Design and implement environmental controls on oil and gas operations.,0.40,environmental control design feasible but implementation is physical
+3594,Petroleum Engineers,"Supervise the removal of drilling equipment, the removal of any waste, and the safe return of land to structural stability when wells or pockets are exhausted.",0.10,on-site supervision of equipment removal
+3595,Petroleum Engineers,Inspect oil and gas wells to determine that installations are completed.,0.10,physical inspection of well installations
+3593,Petroleum Engineers,"Coordinate the installation, maintenance, and operation of mining and oil field equipment.",0.25,coordinating physical installation and maintenance needs on-site presence
+3597,Petroleum Engineers,"Take samples to assess the amount and quality of oil, the depth at which resources lie, and the equipment needed to properly extract them.",0.10,physical sampling on site
+3599,Petroleum Engineers,"Design or modify mining and oil field machinery and tools, applying engineering principles.",0.70,machinery design via CAD
+3601,Petroleum Engineers,Conduct engineering research experiments to improve or modify mining and oil machinery and operations.,0.35,engineering research experiments need physical presence
+20854,"Energy Engineers, Except Wind and Solar",Identify and recommend energy savings strategies to achieve more energy-efficient operation.,0.85,analysis and recommendation of savings strategies
+20855,"Energy Engineers, Except Wind and Solar",Conduct energy audits to evaluate energy use and to identify conservation and cost reduction measures.,0.50,audits mix data analysis with on-site data collection
+18156,"Energy Engineers, Except Wind and Solar",Monitor and analyze energy consumption.,0.80,energy consumption monitoring and analysis from data
+20856,"Energy Engineers, Except Wind and Solar","Monitor energy related design or construction issues, such as energy engineering, energy management, or sustainable design.",0.35,monitoring construction issues needs on-site presence
+18150,"Energy Engineers, Except Wind and Solar","Inspect or monitor energy systems, including heating, ventilating, and air conditioning (HVAC) or daylighting systems to determine energy use or potential energy savings.",0.40,inspecting systems physically though some monitoring via data possible
+20857,"Energy Engineers, Except Wind and Solar","Advise clients or colleagues on topics such as climate control systems, energy modeling, data logging, sustainable design, or energy auditing.",0.70,advisory work can be done via text and reports
+18159,"Energy Engineers, Except Wind and Solar","Analyze, interpret, or create graphical representations of energy data, using engineering software.",0.90,data analysis and visualization using software
+20858,"Energy Engineers, Except Wind and Solar",Verify energy bills and meter readings.,0.75,verifying digital bills and readings
+20859,"Energy Engineers, Except Wind and Solar","Collect data for energy conservation analyses, using jobsite observation, field inspections, or sub-metering.",0.15,field data collection is physical work
+18151,"Energy Engineers, Except Wind and Solar","Manage the development, design, or construction of energy conservation projects to ensure acceptability of budgets and time lines, conformance to federal and state laws, or adherence to approved specifications.",0.30,project management needs authority and coordination with people
+18148,"Energy Engineers, Except Wind and Solar","Perform energy modeling, measurement, verification, commissioning, or retro-commissioning.",0.45,modeling feasible but measurement and commissioning are physical
+20860,"Energy Engineers, Except Wind and Solar","Review architectural, mechanical, or electrical plans or specifications to evaluate energy efficiency.",0.85,reviewing plans and specifications is document analysis
+20861,"Energy Engineers, Except Wind and Solar",Prepare energy-related project reports or related documentation.,0.90,report and documentation writing
+18165,"Energy Engineers, Except Wind and Solar",Review or negotiate energy purchase agreements.,0.40,reviewing agreements feasible but negotiating needs live authority
+18166,"Energy Engineers, Except Wind and Solar",Train personnel or clients on topics such as energy management.,0.45,training personnel usually needs live human interaction
+20862,"Energy Engineers, Except Wind and Solar",Direct the implementation of energy management projects.,0.25,directing project implementation needs authority and presence
+20863,"Energy Engineers, Except Wind and Solar","Research renewable or alternative energy systems or technologies, such as solar thermal or photovoltaic energy.",0.85,technology research
+18157,"Energy Engineers, Except Wind and Solar",Promote awareness or use of alternative or renewable energy sources.,0.55,generating promotional content though true outreach needs human presence
+19648,"Energy Engineers, Except Wind and Solar",Write or install energy management routines for building automation systems.,0.55,writing routines is coding but installation is physical
+20864,"Energy Engineers, Except Wind and Solar",Recommend best fuel for specific sites or circumstances.,0.80,fuel recommendation from data analysis
+18149,"Energy Engineers, Except Wind and Solar",Consult with construction or renovation clients or other engineers on topics such as Leadership in Energy and Environmental Design (LEED) or Green Buildings.,0.50,consulting with clients needs live human interaction
+16467,Mechatronics Engineers,"Create mechanical design documents for parts, assemblies, or finished products.",0.80,CAD design documentation
+16482,Mechatronics Engineers,Design advanced precision equipment for accurate or controlled applications.,0.70,precision equipment design work
+16474,Mechatronics Engineers,Design engineering systems for the automation of industrial tasks.,0.70,automation system design
+16470,Mechatronics Engineers,Implement or test design solutions.,0.35,implementing and testing designs needs physical hardware work
+16468,Mechatronics Engineers,Maintain technical project files.,0.85,maintaining project files is documentation work
+23946,Mechatronics Engineers,Identify materials appropriate for mechatronic system designs.,0.80,materials research and analysis
+16471,Mechatronics Engineers,"Research, select, or apply sensors, communication technologies, or control devices for motion control, position sensing, pressure sensing, or electronic communication.",0.55,researching and selecting sensors feasible but applying them is physical
+16483,Mechatronics Engineers,"Apply mechatronic or automated solutions to the transfer of materials, components, or finished goods.",0.25,applying automated solutions is physical implementation
+16465,Mechatronics Engineers,Provide consultation or training on topics such as mechatronics or automated control.,0.50,consultation and training needs live human interaction
+16466,Mechatronics Engineers,Oversee the work of contractors in accordance with project requirements.,0.25,overseeing contractors needs on-site authority and presence
+16464,Mechatronics Engineers,Publish engineering reports documenting design details or qualification test results.,0.85,publishing engineering reports is writing work
+16479,Mechatronics Engineers,Upgrade the design of existing devices by adding mechatronic elements.,0.70,design upgrade work via CAD
+23947,Mechatronics Engineers,Create mechanical models to simulate mechatronic design concepts.,0.80,creating simulation models is software work
+16469,Mechatronics Engineers,Analyze existing development or manufacturing procedures and suggest improvements.,0.85,analysis and improvement recommendations
+23948,Mechatronics Engineers,"Determine the feasibility, costs, or performance benefits of new mechatronic equipment.",0.80,feasibility and cost analysis
+16480,Mechatronics Engineers,"Develop electronic, mechanical, or computerized processes to perform tasks in dangerous situations, such as underwater exploration or extraterrestrial mining.",0.65,developing processes is computational and planning work
+19655,Mechatronics Engineers,"Monitor or calibrate automated systems, industrial control systems, or system components to maximize efficiency of production.",0.45,monitoring via data feasible but physical calibration is not
+16476,Mechatronics Engineers,Create embedded software design programs.,0.85,embedded software coding
+16475,Mechatronics Engineers,Design advanced electronic control systems for mechanical systems.,0.75,electronic control system design
+19654,Mechatronics Engineers,"Design self-monitoring mechanical systems, such as gear systems that monitor loading or condition of systems to detect and prevent failures.",0.70,self-monitoring system design
+19653,Mechatronics Engineers,"Design or develop automated control systems for environmental applications, such as waste processing, air quality, or water quality systems.",0.70,automated control system design
+16473,Mechatronics Engineers,"Design, develop, or implement control circuits or algorithms for electromechanical or pneumatic devices or systems.",0.55,designing circuits feasible but implementing physically is not
+16481,Mechatronics Engineers,"Design mechatronics components for computer-controlled products, such as cameras, video recorders, automobiles, or airplanes.",0.75,mechatronics component design
+16503,Microsystems Engineers,"Create schematics and physical layouts of integrated microelectromechanical systems (MEMS) components or packaged assemblies consistent with process, functional, or package constraints.",0.80,CAD schematic and layout design

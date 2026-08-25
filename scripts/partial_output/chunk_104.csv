@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+13420,"Farmworkers, Farm, Ranch, and Aquacultural Animals",Shift animals between grazing areas to ensure that they have sufficient access to food.,0.02,requires physical presence with animals
+13430,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Protect herds from predators, using trained dogs.",0.02,physical herding and predator response
+13421,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Order food for animals, and arrange for its delivery.",0.75,ordering and arranging delivery is info work
+13422,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Perform duties related to livestock reproduction, such as breeding animals within appropriate timeframes, performing artificial inseminations, and helping with animal births.",0.03,physical hands-on animal husbandry
+13425,"Farmworkers, Farm, Ranch, and Aquacultural Animals",Patrol grazing lands on horseback or using all-terrain vehicles.,0.00,physical patrol on horseback or ATV
+13426,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Maintain growth, feeding, production, and cost records.",0.85,record keeping from provided data
+13427,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Groom, clip, trim, or castrate animals, dock ears and tails, or shear coats to collect hair.",0.02,physical grooming and animal handling
+13428,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Spray livestock with disinfectants and insecticides, or dip or bathe animals.",0.02,physical spraying and bathing of animals
+23403,Fishing and Hunting Workers,Steer vessels and operate navigational instruments.,0.05,must be physically aboard vessel
+23410,Fishing and Hunting Workers,Remove catches from fishing equipment and measure them to ensure compliance with legal size.,0.05,physical handling of catch on vessel
+23428,Fishing and Hunting Workers,"Direct fishing or hunting operations, and supervise crew members.",0.10,on-site supervision and physical presence
+23419,Fishing and Hunting Workers,Interpret weather and vessel conditions to determine appropriate responses.,0.30,some data interpretation but on-site presence needed
+23402,Fishing and Hunting Workers,"Travel on foot, by vehicle, or by equipment such as boats, snowmobiles, helicopters, snowshoes, or skis to reach hunting areas.",0.00,physical travel to remote areas
+23415,Fishing and Hunting Workers,"Select, bait, and set traps, and lay poison along trails, according to species, size, habits, and environs of birds or animals and reasons for trapping them.",0.00,physical trap and poison setting
+23408,Fishing and Hunting Workers,"Maintain engines, fishing gear, and other on-board equipment and perform minor repairs.",0.00,physical equipment maintenance
+23424,Fishing and Hunting Workers,"Connect accessories such as floats, weights, flags, lights, or markers to nets, lines, or traps.",0.00,physical rigging of gear
+23423,Fishing and Hunting Workers,"Wash decks, conveyors, knives, and other equipment, using brushes, detergents, and water.",0.00,physical cleaning task
+23427,Fishing and Hunting Workers,"Harvest marine life for human or animal consumption, using diving or dredging equipment, traps, barges, rods, reels, or tackle.",0.00,physical harvesting with equipment
+23429,Fishing and Hunting Workers,"Oversee the purchase of supplies, gear, and equipment.",0.70,procurement can be done remotely
+23426,Fishing and Hunting Workers,"Load and unload vessel equipment and supplies, by hand or using hoisting equipment.",0.00,physical loading of equipment
+23406,Fishing and Hunting Workers,"Scrape fat, blubber, or flesh from skin sides of pelts with knives or hand scrapers.",0.00,physical pelt processing
+23400,Fishing and Hunting Workers,"Patrol trap lines or nets to inspect settings, remove catch, and reset or relocate traps.",0.00,physical trap line patrol
+23411,Fishing and Hunting Workers,"Locate fish, using fish-finding equipment.",0.05,requires physical presence operating vessel equipment
+23421,Fishing and Hunting Workers,"Kill or stun trapped quarry, using clubs, poisons, guns, or drowning methods.",0.00,physical killing of quarry
+23405,Fishing and Hunting Workers,Maintain and repair trapping equipment.,0.00,physical equipment repair
+23401,Fishing and Hunting Workers,Obtain permission from landowners to hunt or trap on their land.,0.40,negotiation and communication with landowners
+23407,Fishing and Hunting Workers,"Put fishing equipment into the water and anchor or tow equipment, according to the fishing method used.",0.00,physical deployment of fishing gear
+23414,Fishing and Hunting Workers,"Compute positions and plot courses on charts to navigate vessels, using instruments such as compasses, sextants, and charts.",0.30,computational navigation but tied to physical instruments
+23409,Fishing and Hunting Workers,"Sort, pack, and store catch in holds with salt and ice.",0.00,physical sorting and storage of catch
+23412,Fishing and Hunting Workers,"Obtain required approvals for using poisons or traps, and notify persons in areas where traps and poison are set.",0.55,mostly communication and paperwork for approvals
+23413,Fishing and Hunting Workers,Track animals by checking for signs such as droppings or destruction of vegetation.,0.00,physical on-site tracking of signs
+23404,Fishing and Hunting Workers,"Skin quarry, using knives, and stretch pelts on frames to be cured.",0.00,physical skinning and pelt stretching
+23418,Fishing and Hunting Workers,Transport fish to processing plants or to buyers.,0.00,physical transport driving
+23416,Fishing and Hunting Workers,"Attach nets, slings, hooks, blades, or lifting devices to cables, booms, hoists, or dredges.",0.00,physical rigging of equipment
+23425,Fishing and Hunting Workers,Teach or guide individuals or groups unfamiliar with specific hunting methods or types of prey.,0.05,requires physical guiding presence in field
+23420,Fishing and Hunting Workers,Release quarry from traps or nets and transfer to cages.,0.00,physical release of quarry
+23417,Fishing and Hunting Workers,"Participate in animal damage control, wildlife management, disease control, and research activities.",0.10,largely physical field work
+7026,Forest and Conservation Workers,Check equipment to ensure that it is operating properly.,0.05,physical equipment inspection
+7028,Forest and Conservation Workers,Fight forest fires or perform prescribed burning tasks under the direction of fire suppression officers or forestry technicians.,0.00,physical firefighting requiring presence
+7029,Forest and Conservation Workers,"Perform fire protection or suppression duties, such as constructing fire breaks or disposing of brush.",0.00,physical fire suppression work
+7027,Forest and Conservation Workers,"Confer with other workers to discuss issues, such as safety, cutting heights, or work needs.",0.30,coordination discussion but tied to physical work decisions
+7035,Forest and Conservation Workers,Maintain tallies of trees examined and counted during tree marking or measuring efforts.,0.25,record keeping tied to on-site tree marking
+7041,Forest and Conservation Workers,"Explain or enforce regulations regarding camping, vehicle use, fires, use of buildings, or sanitation.",0.10,enforcement requires physical authority and presence
+7042,Forest and Conservation Workers,"Operate skidders, bulldozers, or other prime movers to pull a variety of scarification or site preparation equipment over areas to be regenerated.",0.00,physical heavy equipment operation
+7032,Forest and Conservation Workers,Spray or inject vegetation with insecticides to kill insects or to protect against disease or with herbicides to reduce competing vegetation.,0.00,physical spraying of chemicals
+7034,Forest and Conservation Workers,"Thin or space trees, using power thinning saws.",0.00,physical tree thinning with saws
+7031,Forest and Conservation Workers,"Identify diseased or undesirable trees and remove them, using power saws or hand saws.",0.05,physical tree removal with saws
+7030,Forest and Conservation Workers,"Select or cut trees according to markings or sizes, types, or grades.",0.00,physical tree cutting
+7038,Forest and Conservation Workers,"Prune or shear tree tops or limbs to control growth, increase density, or improve shape.",0.00,physical pruning
+7045,Forest and Conservation Workers,"Maintain campsites or recreational areas, replenishing firewood or other supplies and cleaning kitchens or restrooms.",0.00,physical campsite maintenance
+7037,Forest and Conservation Workers,"Erect signs or fences, using posthole diggers, shovels, or other hand tools.",0.00,physical construction of signs and fences
+7039,Forest and Conservation Workers,"Select tree seedlings, prepare the ground, or plant the trees in reforestation areas, using manual planting tools.",0.00,physical planting of seedlings
+7040,Forest and Conservation Workers,"Provide assistance to forest survey crews by clearing site-lines, holding measuring tools, or setting stakes.",0.00,physical field assistance
+20632,Forest and Conservation Workers,"Sort tree seedlings, discarding substandard seedlings, according to standard charts or verbal instructions.",0.02,physical sorting of seedlings
+13484,Fallers,"Stop saw engines, pull cutting bars from cuts, and run to safety as tree falls.",0.00,physical safety action while falling trees
+13485,Fallers,"Appraise trees for certain characteristics, such as twist, rot, and heavy limb growth, and gauge amount and direction of lean, to determine how to control the direction of a tree's fall with the least damage.",0.05,on-site expert physical assessment of trees
+13486,Fallers,"Saw back-cuts, leaving sufficient sound wood to control direction of fall.",0.00,physical sawing
+13487,Fallers,"Clear brush from work areas and escape routes, and cut saplings and other trees from direction of falls, using axes, chainsaws, or bulldozers.",0.00,physical brush clearing
+13488,Fallers,"Measure felled trees and cut them into specified log lengths, using chain saws and axes.",0.00,physical measuring and cutting logs
+13489,Fallers,Assess logs after cutting to ensure that the quality and length are correct.,0.05,on-site physical log inspection
+13490,Fallers,"Determine position, direction, and depth of cuts to be made, and placement of wedges or jacks.",0.05,on-site physical cutting judgment
+13491,Fallers,"Control the direction of a tree's fall by scoring cutting lines with axes, sawing undercuts along scored lines with chainsaws, knocking slabs from cuts with single-bit axes, and driving wedges.",0.00,physical tree felling control
+13492,Fallers,"Trim off the tops and limbs of trees, using chainsaws, delimbers, or axes.",0.00,physical trimming of trees
+13493,Fallers,"Select trees to be cut down, assessing factors such as site, terrain, and weather conditions before beginning work.",0.05,on-site physical site assessment
+13494,Fallers,"Maintain and repair chainsaws and other equipment, cleaning, oiling, and greasing equipment, and sharpening equipment properly.",0.00,physical equipment maintenance
+13495,Fallers,Insert jacks or drive wedges behind saws to prevent binding of saws and to start trees falling.,0.00,physical wedge insertion
+13496,Fallers,Tag unsafe trees with high-visibility ribbons.,0.00,physical tagging of trees
+13497,Fallers,Secure steel cables or chains to logs for dragging by tractors or for pulling by cable yarding systems.,0.00,physical cable securing
+13498,Fallers,"Load logs or wood onto trucks, trailers, or railroad cars, by hand or using loaders or winches.",0.00,physical log loading
+13499,Fallers,Mark logs for identification.,0.00,physical log marking
+13500,Fallers,"Work as a member of a team, rotating between chain saw operation and skidder operation.",0.00,physical equipment operation rotation
+13501,Fallers,"Place supporting limbs or poles under felled trees to avoid splitting undersides, and to prevent logs from rolling.",0.00,physical log support placement
+9802,Logging Equipment Operators,"Inspect equipment for safety prior to use, and perform necessary basic maintenance tasks.",0.02,physical equipment inspection and maintenance
+9807,Logging Equipment Operators,"Control hydraulic tractors equipped with tree clamps and booms to lift, swing, and bunch sheared trees.",0.00,physical tractor operation
+9806,Logging Equipment Operators,"Grade logs according to characteristics such as knot size and straightness, and according to established industry or company standards.",0.10,on-site physical log grading
+9803,Logging Equipment Operators,"Drive straight or articulated tractors equipped with accessories such as bulldozer blades, grapples, logging arches, cable winches, and crane booms to skid, load, unload, or stack logs, pull stumps, or clear brush.",0.00,physical tractor driving
+9804,Logging Equipment Operators,Drive crawler or wheeled tractors to drag or transport logs from felling sites to log landing areas for processing and loading.,0.00,physical log dragging
+9809,Logging Equipment Operators,Fill out required job or shift report forms.,0.60,form filling given provided data
+9805,Logging Equipment Operators,Drive tractors for building or repairing logging and skid roads.,0.00,physical road building
+9808,Logging Equipment Operators,"Drive and maneuver tractors and tree harvesters to shear the tops off of trees, cut and limb the trees, and cut the logs into desired lengths.",0.00,physical tree harvester operation
+9810,Logging Equipment Operators,"Calculate total board feet, cordage, or other wood measurement units, using conversion tables.",0.90,pure computation from measurements
+9811,Log Graders and Scalers,"Evaluate log characteristics and determine grades, using established criteria.",0.10,on-site physical log evaluation
+9812,Log Graders and Scalers,Record data about individual trees or load volumes into tally books or hand-held collection terminals.,0.30,data recording tied to physical measurement collection
+9814,Log Graders and Scalers,"Measure felled logs or loads of pulpwood to calculate volume, weight, dimensions, and marketable value, using measuring devices and conversion tables.",0.15,physical measuring plus computation
+9813,Log Graders and Scalers,"Paint identification marks of specified colors on logs to identify grades or species, using spray cans, or call out grades to log markers.",0.05,physical marking of logs
+9817,Log Graders and Scalers,"Jab logs with metal ends of scale sticks, and inspect logs to ascertain characteristics or defects such as water damage, splits, knots, broken ends, rotten areas, twists, and curves.",0.05,physical inspection with scale sticks
+9816,Log Graders and Scalers,"Identify logs of substandard or special grade so that they can be returned to shippers, regraded, recut, or transferred for other processing.",0.10,on-site physical grading judgment
+21015,Log Graders and Scalers,Arrange for hauling of logs to appropriate mill sites.,0.70,logistics arrangement via calls and scheduling
+9820,Log Graders and Scalers,"Weigh log trucks before and after unloading, and record load weights and supplier identities.",0.15,physical scale operation and recording
+9815,Log Graders and Scalers,"Measure log lengths and mark boles for bucking into logs, according to specifications.",0.05,physical measuring and marking
+9819,Log Graders and Scalers,Communicate with coworkers by signals to direct log movement.,0.00,physical hand signaling on-site
+9818,Log Graders and Scalers,"Drive to sawmills, wharfs, or skids to inspect logs or pulpwood.",0.00,physical driving and on-site inspection
+9821,Log Graders and Scalers,Saw felled trees into lengths.,0.00,physical sawing of trees
+20291,First-Line Supervisors of Construction Trades and Extraction Workers,"Inspect work progress, equipment, or construction sites to verify safety or to ensure that specifications are met.",0.10,on-site physical safety inspection
+11424,First-Line Supervisors of Construction Trades and Extraction Workers,"Read specifications, such as blueprints, to determine construction requirements or to plan procedures.",0.75,reading and planning from documents
+11426,First-Line Supervisors of Construction Trades and Extraction Workers,"Supervise, coordinate, or schedule the activities of construction or extractive workers.",0.35,supervision needs on-site presence and authority
+11432,First-Line Supervisors of Construction Trades and Extraction Workers,"Assign work to employees, based on material or worker requirements of specific jobs.",0.40,work assignment decisions need human authority
+11428,First-Line Supervisors of Construction Trades and Extraction Workers,Coordinate work activities with other construction project activities.,0.60,coordination largely communication work
+11425,First-Line Supervisors of Construction Trades and Extraction Workers,Estimate material or worker requirements to complete jobs.,0.80,analytical estimation from data
+11435,First-Line Supervisors of Construction Trades and Extraction Workers,"Analyze worker or production problems and recommend solutions, such as improving production methods or implementing motivational plans.",0.75,analytical problem solving
+11429,First-Line Supervisors of Construction Trades and Extraction Workers,Order or requisition materials or supplies.,0.75,procurement ordering via systems
+11434,First-Line Supervisors of Construction Trades and Extraction Workers,"Train workers in construction methods, operation of equipment, safety procedures, or company policies.",0.15,training requires physical hands-on demonstration
+11430,First-Line Supervisors of Construction Trades and Extraction Workers,"Locate, measure, and mark site locations or placement of structures or equipment, using measuring and marking equipment.",0.00,physical site measurement and marking
+11427,First-Line Supervisors of Construction Trades and Extraction Workers,"Confer with managerial or technical personnel, other departments, or contractors to resolve problems or to coordinate activities.",0.55,communication and coordination via calls
+11436,First-Line Supervisors of Construction Trades and Extraction Workers,Arrange for repairs of equipment or machinery.,0.70,arranging repairs via calls and scheduling
+11433,First-Line Supervisors of Construction Trades and Extraction Workers,"Provide assistance to workers engaged in construction or extraction activities, using hand tools or other equipment.",0.00,physical hands-on assistance
+11431,First-Line Supervisors of Construction Trades and Extraction Workers,"Record information, such as personnel, production, or operational data on specified forms or reports.",0.80,data entry and reporting from provided info
+11437,First-Line Supervisors of Construction Trades and Extraction Workers,"Suggest or initiate personnel actions, such as promotions, transfers, or hires.",0.30,personnel actions need human authority
+17725,Solar Energy Installation Managers,Plan and coordinate installations of photovoltaic (PV) solar and solar thermal systems to ensure conformance to codes.,0.65,planning and code compliance analysis
+17726,Solar Energy Installation Managers,"Supervise solar installers, technicians, and subcontractors for solar installation projects to ensure compliance with safety standards.",0.15,on-site supervision and safety accountability
+17735,Solar Energy Installation Managers,"Estimate materials, equipment, and personnel needed for residential or commercial solar installation projects.",0.80,analytical estimation of resources
+17738,Solar Energy Installation Managers,"Prepare solar installation project proposals, quotes, budgets, or schedules.",0.85,document preparation and analysis
+17732,Solar Energy Installation Managers,"Provide technical assistance to installers, technicians, or other solar professionals in areas such as solar electric systems, solar thermal systems, electrical systems, or mechanical systems.",0.50,remote technical assistance possible but often on-site
+17729,Solar Energy Installation Managers,Coordinate or schedule building inspections for solar installation projects.,0.75,scheduling coordination via calls
+17731,Solar Energy Installation Managers,Perform start-up of systems for testing or customer implementation.,0.05,physical system startup on-site
+17737,Solar Energy Installation Managers,"Identify means to reduce costs, minimize risks, or increase efficiency of solar installation projects.",0.80,analytical cost and risk assessment
+17728,Solar Energy Installation Managers,"Assess system performance or functionality at the system, subsystem, and component levels.",0.35,assessment often needs on-site testing
+17727,Solar Energy Installation Managers,Assess potential solar installation sites to determine feasibility and design requirements.,0.20,site feasibility assessment needs physical visit
+17730,Solar Energy Installation Managers,"Monitor work of contractors and subcontractors to ensure projects conform to plans, specifications, schedules, or budgets.",0.30,monitoring physical work needs presence
+17733,Solar Energy Installation Managers,"Visit customer sites to determine solar system needs, requirements, or specifications.",0.05,physical site visit required
+17739,Solar Energy Installation Managers,Purchase or rent equipment for solar energy system installation.,0.75,procurement of equipment
+17734,Solar Energy Installation Managers,"Develop and maintain system architecture, including all piping, instrumentation, or process flow diagrams.",0.75,technical documentation work
+17736,Solar Energy Installation Managers,"Evaluate subcontractors or subcontractor bids for quality, cost, and reliability.",0.70,analytical bid evaluation
+24011,Boilermakers,"Conduct pressure tests on vessels, such as boilers.",0.00,physical pressure testing
+11446,Boilermakers,"Study blueprints to determine locations, relationships, or dimensions of parts.",0.75,reading blueprints is info work
+11438,Boilermakers,"Examine boilers, pressure vessels, tanks, or vats to locate defects, such as leaks, weak spots, or defective sections, so that they can be repaired.",0.05,physical defect inspection
+11440,Boilermakers,"Inspect assembled vessels or individual components, such as tubes, fittings, valves, controls, or auxiliary mechanisms, to locate any defects.",0.05,physical inspection of components
+11444,Boilermakers,"Lay out plate, sheet steel, or other heavy metal and locate and mark bending and cutting lines, using protractors, compasses, and drawing instruments or templates.",0.00,physical layout marking
+11443,Boilermakers,"Bell, bead with power hammers, or weld pressure vessel tube ends to ensure leakproof joints.",0.00,physical welding work
+11450,Boilermakers,"Locate and mark reference points for columns or plates on boiler foundations, following blueprints and using straightedges, squares, transits, or measuring instruments.",0.00,physical marking on foundations

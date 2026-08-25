@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+21487,Security Management Specialists,Develop conceptual designs of security systems.,0.75,drafting conceptual designs from requirements
+21488,Security Management Specialists,Develop or review specifications for design or construction of security systems.,0.85,reviewing and drafting technical specifications
+21489,Security Management Specialists,"Engineer, install, maintain, or repair security systems, programmable logic controls, or other security-related electronic systems.",0.10,requires physical installation and repair
+21490,Security Management Specialists,"Inspect fire, intruder detection, or other security systems.",0.10,on-site physical inspection required
+21491,Security Management Specialists,"Inspect physical security design features, installations, or programs to ensure compliance with applicable standards or regulations.",0.15,physical on-site inspection required
+21492,Security Management Specialists,"Interview witnesses or suspects to identify persons responsible for security breaches or to establish losses, pursue prosecutions, or obtain restitution.",0.20,in-person interviewing and pursuit authority needed
+21493,Security Management Specialists,Monitor tapes or digital recordings to identify the source of losses.,0.85,video and digital recording analysis feasible remotely
+21494,Security Management Specialists,"Monitor the work of contractors in the design, construction, and startup phases of security systems.",0.15,requires on-site oversight of contractors
+21495,Security Management Specialists,Outline system security criteria for pre-bid meetings with clients and companies to ensure comprehensiveness and appropriateness for implementation.,0.65,drafting criteria though live meetings need human presence
+21496,Security Management Specialists,Perform risk analyses so that appropriate countermeasures can be developed.,0.85,analytical risk assessment from data
+21497,Security Management Specialists,Prepare documentation for case reports or court proceedings.,0.80,document drafting for cases or court
+21498,Security Management Specialists,"Prepare, maintain, or update security procedures, security system drawings, or related documentation.",0.85,document and drawing preparation
+21499,Security Management Specialists,Provide system design and integration recommendations.,0.80,design and integration recommendations from specs
+21500,Security Management Specialists,Recommend improvements in security systems or procedures.,0.80,analysis-based improvement recommendations
+21501,Security Management Specialists,Respond to emergency situations on an on-call basis.,0.05,requires physical emergency response
+21502,Security Management Specialists,"Review design drawings or technical documents for completeness, correctness, or appropriateness.",0.85,document and drawing review
+21503,Security Management Specialists,Test security measures for final acceptance and implement or provide procedures for ongoing monitoring and evaluation of the measures.,0.30,final acceptance testing needs physical presence
+21504,Security Management Specialists,Train personnel in security procedures or use of security equipment.,0.35,hands-on equipment training needs human presence
+21505,Accountants and Auditors,Prepare detailed reports on audit findings.,0.90,report writing from audit data
+21506,Accountants and Auditors,"Report to management about asset utilization and audit results, and recommend changes in operations and financial activities.",0.75,reporting drafting though live briefing needs human
+21507,Accountants and Auditors,"Collect and analyze data to detect deficient controls, duplicated effort, extravagance, fraud, or non-compliance with laws, regulations, and management policies.",0.85,data analysis to detect control deficiencies
+21508,Accountants and Auditors,"Inspect account books and accounting systems for efficiency, effectiveness, and use of accepted accounting procedures to record transactions.",0.80,records and system review
+21509,Accountants and Auditors,"Supervise auditing of establishments, and determine scope of investigation required.",0.35,supervisory authority and accountability required
+21510,Accountants and Auditors,Confer with company officials about financial and regulatory matters.,0.30,requires live conferring with officials
+21511,Accountants and Auditors,"Examine and evaluate financial and information systems, recommending controls to ensure system reliability and data integrity.",0.85,systems evaluation and control recommendations
+21512,Accountants and Auditors,"Inspect cash on hand, notes receivable and payable, negotiable securities, and canceled checks to confirm records are accurate.",0.35,physical verification of cash and instruments
+21513,Accountants and Auditors,Examine records and interview workers to ensure recording of transactions and compliance with laws and regulations.,0.45,record review plus interviews needing human presence
+21514,Accountants and Auditors,"Prepare, examine, or analyze accounting records, financial statements, or other financial reports to assess accuracy, completeness, and conformance to reporting and procedural standards.",0.90,financial statement analysis
+21515,Accountants and Auditors,Prepare adjusting journal entries.,0.90,routine bookkeeping entries
+21516,Accountants and Auditors,Review accounts for discrepancies and reconcile differences.,0.90,account reconciliation
+21517,Accountants and Auditors,Establish tables of accounts and assign entries to proper accounts.,0.90,chart of accounts setup
+21518,Accountants and Auditors,Examine inventory to verify journal and ledger entries.,0.30,physical inventory verification
+21519,Accountants and Auditors,"Analyze business operations, trends, costs, revenues, financial commitments, and obligations to project future revenues and expenses or to provide advice.",0.85,financial forecasting and analysis
+21520,Accountants and Auditors,Report to management regarding the finances of establishment.,0.75,financial reporting drafting
+21521,Accountants and Auditors,"Develop, implement, modify, and document recordkeeping and accounting systems, making use of current computer technology.",0.80,recordkeeping system development and documentation
+21522,Accountants and Auditors,"Evaluate taxpayer finances to determine tax liability, using knowledge of interest and discount rates, annuities, valuation of stocks and bonds, and amortization valuation of depletable assets.",0.85,tax liability computation
+21523,Accountants and Auditors,"Examine whether the organization's objectives are reflected in its management activities, and whether employees understand the objectives.",0.45,assessing employee understanding needs human interaction
+21524,Accountants and Auditors,"Audit payroll and personnel records to determine unemployment insurance premiums, workers' compensation coverage, liabilities, and compliance with tax laws.",0.85,payroll and personnel records audit
+21525,Accountants and Auditors,"Review taxpayer accounts, and conduct audits on-site, by correspondence, or by summoning taxpayer to office.",0.40,on-site audits need physical presence
+21526,Accountants and Auditors,"Compute taxes owed and prepare tax returns, ensuring compliance with payment, reporting, or other tax requirements.",0.90,tax computation and return preparation
+21527,Accountants and Auditors,"Advise clients in areas such as compensation, employee health care benefits, the design of accounting or data processing systems, or long-range tax or estate plans.",0.65,advisory content drafting
+21529,Accountants and Auditors,"Direct activities of personnel engaged in filing, recording, compiling, and transmitting financial records.",0.30,personnel supervision requires human authority
+21530,Accountants and Auditors,Conduct pre-implementation audits to determine if systems and programs under development will work as planned.,0.75,systems testing and review
+21531,Accountants and Auditors,"Develop, maintain, or analyze budgets, preparing periodic reports that compare budgeted costs to actual costs.",0.90,budget analysis and reporting
+21532,Accountants and Auditors,"Prepare, analyze, or verify annual reports, financial statements, and other records, using accepted accounting and statistical procedures to assess financial condition and facilitate financial plannin",0.90,financial statement preparation and verification
+21533,Accountants and Auditors,Process invoices for payment.,0.85,routine invoice processing
+21534,Accountants and Auditors,"Review data about material assets, net worth, liabilities, capital stock, surplus, income, or expenditures.",0.90,financial data review
+21535,Appraisers of Personal and Business Property,"Calculate the value of property based on comparisons to recent sales, estimated cost to reproduce, and anticipated property income streams.",0.85,valuation calculation from comparable data
+21536,Appraisers of Personal and Business Property,Create and maintain a database of completed appraisals.,0.90,database creation and maintenance
+21537,Appraisers of Personal and Business Property,"Determine the appropriate type of valuation to make, such as fair market, replacement, or liquidation, based on the needs of the property owner.",0.75,valuation method determination
+21538,Appraisers of Personal and Business Property,"Document physical characteristics of property such as measurements, quality, and design.",0.15,requires physical on-site measurement
+21539,Appraisers of Personal and Business Property,Forecast the value of property.,0.85,value forecasting from data
+21540,Appraisers of Personal and Business Property,Inspect personal or business property.,0.10,physical inspection required
+21541,Appraisers of Personal and Business Property,"Locate and record data on sales of comparable property using specialized software, internet searches, or personal records.",0.90,data research via software and internet
+21542,Appraisers of Personal and Business Property,Recommend loan amounts based on the value of property being used as collateral.,0.75,loan amount recommendation from valuation data
+21543,Appraisers of Personal and Business Property,Take photographs of property.,0.05,requires physical presence to photograph
+21544,Appraisers of Personal and Business Property,Testify in court as to the value of a piece of tangible property.,0.05,sworn court testimony requires human
+21545,Appraisers of Personal and Business Property,"Update appraisals when property has been improved, damaged, or has otherwise changed.",0.30,often requires physical reinspection
+21546,Appraisers of Personal and Business Property,Verify that property matches legal descriptions or certifications.,0.75,document and legal description verification
+21547,Appraisers of Personal and Business Property,"Write and submit appraisal reports for property, such as jewelry, art, antiques, collectibles, and equipment.",0.75,report writing from appraisal data
+21548,Appraisers of Personal and Business Property,Write descriptions of the property being appraised.,0.80,descriptive writing from property data
+21549,Appraisers and Assessors of Real Estate,"Compute final estimation of property values, taking into account such factors as depreciation, replacement costs, value comparisons of similar properties, and income potential.",0.85,valuation computation from factors
+21550,Appraisers and Assessors of Real Estate,"Prepare written reports that estimate property values, outline methods by which the estimations were made, and meet appraisal standards.",0.85,report writing to appraisal standards
+21551,Appraisers and Assessors of Real Estate,Inspect new construction and major improvements to existing structures to determine values.,0.10,physical construction inspection required
+21552,Appraisers and Assessors of Real Estate,Collect and analyze relevant data to identify real estate market trends.,0.90,market data collection and analysis
+21553,Appraisers and Assessors of Real Estate,"Prepare and maintain current data on each parcel assessed, including maps of boundaries, inventories of land and structures, property characteristics, and any applicable exemptions.",0.85,parcel data and map maintenance
+21554,Appraisers and Assessors of Real Estate,Explain assessed values to property owners and defend appealed assessments at public hearings.,0.20,requires live defense at public hearings
+21555,Appraisers and Assessors of Real Estate,Identify the ownership of each piece of taxable property.,0.85,ownership records research
+21556,Appraisers and Assessors of Real Estate,"Inspect properties, considering factors such as market value, location, and building or replacement costs to determine appraisal value.",0.15,physical property inspection required
+21558,Appraisers and Assessors of Real Estate,"Review information about transfers of property to ensure its accuracy, checking basic information on buyers, sellers, and sales prices and making corrections as necessary.",0.85,document accuracy review
+21559,Appraisers and Assessors of Real Estate,Explain real and personal property taxes to property owners.,0.65,explaining taxes can be done via text communication
+21560,Appraisers and Assessors of Real Estate,Conduct regular reviews of property within jurisdictions to determine changes in property due to construction or demolition.,0.35,often requires site visits despite imagery review
+21561,Appraisers and Assessors of Real Estate,Establish uniform and equitable systems for assessing all classes and kinds of property.,0.55,system design though requires official authority to establish
+21562,Appraisers and Assessors of Real Estate,Examine income records and operating costs of income properties.,0.85,financial records examination
+21563,Appraisers and Assessors of Real Estate,"Evaluate land and neighborhoods where properties are situated, considering locations and trends or impending changes that could influence future values.",0.55,evaluation partly needs on-site judgment
+21564,Appraisers and Assessors of Real Estate,Maintain familiarity with aspects of local real estate markets.,0.80,market research and monitoring
+21565,Appraisers and Assessors of Real Estate,"Search public records for transactions such as sales, leases, and assessments.",0.90,public records research
+21566,Appraisers and Assessors of Real Estate,Check building codes and zoning bylaws to determine any effects on the properties being appraised.,0.85,building code and zoning research
+21567,Appraisers and Assessors of Real Estate,Verify legal descriptions of properties by comparing them to county records.,0.85,record comparison verification
+21568,Appraisers and Assessors of Real Estate,"Interview persons familiar with properties and immediate surroundings, such as contractors, home owners, and realtors, to obtain pertinent information.",0.30,requires live interviewing
+21569,Appraisers and Assessors of Real Estate,"Photograph interiors and exteriors of properties to assist in estimating property value, substantiate findings, and complete appraisal reports.",0.05,requires physical presence to photograph
+21570,Appraisers and Assessors of Real Estate,Obtain county land values and sales information about nearby properties to aid in establishment of property values.,0.90,public data retrieval
+21571,Appraisers and Assessors of Real Estate,"Examine the type and location of nearby services, such as shopping centers, schools, parks, and other neighborhood features, to evaluate their impact on property values.",0.75,location impact analysis via maps and data
+21572,Appraisers and Assessors of Real Estate,"Estimate building replacement costs, using building valuation manuals and professional cost estimators.",0.85,cost estimation from valuation manuals
+21573,Appraisers and Assessors of Real Estate,Draw land diagrams to be used in appraisal reports to support findings.,0.65,diagram drawing from survey data
+21574,Appraisers and Assessors of Real Estate,Testify in court as to the value of a piece of real estate property.,0.05,sworn court testimony requires human
+21575,Appraisers and Assessors of Real Estate,Calculate tax bills for properties by multiplying assessed values by jurisdiction tax rates.,0.95,simple tax bill arithmetic
+21577,Appraisers and Assessors of Real Estate,"Analyze trends in sales prices, construction costs, and rents, to assess property values or determine the accuracy of assessments.",0.85,trend analysis of sales and costs
+21578,Appraisers and Assessors of Real Estate,"Determine taxability of properties, using methods such as field inspection, structural measurement, calculation, sales analysis, market trend studies, and income and expense analysis.",0.40,includes physical field inspection and measurement
+21579,Financial and Investment Analysts,"Advise clients on aspects of capitalization, such as amounts, sources, or timing.",0.65,advisory analysis drafting
+21580,Financial and Investment Analysts,Analyze financial or operational performance of companies facing financial difficulties to identify or recommend remedies.,0.85,financial performance analysis and recommendations
+21581,Financial and Investment Analysts,Assess companies as investments for clients by examining company facilities.,0.30,requires physical facility visits
+21582,Financial and Investment Analysts,"Collaborate on projects with other professionals, such as lawyers, accountants, or public relations experts.",0.40,collaboration requires human interaction and trust
+21583,Financial and Investment Analysts,Collaborate with investment bankers to attract new corporate clients.,0.20,client relationship building needs human trust
+21584,Financial and Investment Analysts,Conduct financial analyses related to investments in green construction or green retrofitting projects.,0.85,financial analysis of green investments
+21585,Financial and Investment Analysts,"Confer with clients to restructure debt, refinance debt, or raise new debt.",0.30,live negotiation with clients
+21586,Financial and Investment Analysts,Create client presentations of plan details.,0.85,presentation drafting
+21587,Financial and Investment Analysts,Determine the prices at which securities should be syndicated and offered to the public.,0.35,requires accountable pricing decision authority
+21588,Financial and Investment Analysts,Develop and maintain client relationships.,0.20,relationship building needs human trust
+21589,Financial and Investment Analysts,"Draw charts and graphs, using computer spreadsheets, to illustrate technical reports.",0.95,spreadsheet chart creation
+21590,Financial and Investment Analysts,Employ financial models to develop solutions to financial problems or to assess the financial or capital impact of transactions.,0.85,financial modeling
+21591,Financial and Investment Analysts,Evaluate and compare the relative quality of various securities in a given industry.,0.85,securities quality analysis
+21592,Financial and Investment Analysts,Evaluate capital needs of clients and assess market conditions to inform structuring of financial packages.,0.75,capital needs assessment
+21593,Financial and Investment Analysts,"Inform investment decisions by analyzing financial information to forecast business, industry, or economic conditions.",0.85,forecasting analysis from financial data
+21594,Financial and Investment Analysts,"Interpret data on price, yield, stability, future investment-risk trends, economic influences, and other factors affecting investment programs.",0.85,data interpretation for investment trends
+21595,Financial and Investment Analysts,"Monitor developments in the fields of industrial technology, business, finance, and economic theory.",0.85,continuous research monitoring
+21596,Financial and Investment Analysts,"Monitor fundamental economic, industrial, and corporate developments by analyzing information from financial publications and services, investment banking firms, government agencies, trade publication",0.85,information monitoring and analysis
+21597,Financial and Investment Analysts,Perform securities valuation or pricing.,0.85,valuation and pricing computation
+21598,Financial and Investment Analysts,Prepare all materials for transactions or execution of deals.,0.80,transaction document preparation
+21599,Financial and Investment Analysts,"Prepare plans of action for investment, using financial analyses.",0.80,investment plan drafting from analysis
+21600,Financial and Investment Analysts,"Present oral or written reports on general economic trends, individual corporations, and entire industries.",0.65,written reports high though live oral presenting needs human
+21601,Financial and Investment Analysts,Purchase investments for companies in accordance with company policy.,0.35,requires fiduciary accountability for company funds
+21602,Financial and Investment Analysts,"Recommend investments and investment timing to companies, investment firm staff, or the public.",0.80,investment recommendation drafting
+21603,Financial and Investment Analysts,"Specialize in green financial instruments, such as socially responsible mutual funds or exchange-traded funds (ETF) that are comprised of green companies.",0.75,research and knowledge specialization
+21604,Financial and Investment Analysts,"Supervise, train, or mentor junior team members.",0.25,supervision and mentoring need human relationship
+21605,Financial Risk Specialists,"Analyze areas of potential risk to the assets, earning capacity, or success of organizations.",0.85,organizational risk analysis
+21606,Financial Risk Specialists,Analyze new legislation to determine impact on risk exposure.,0.85,legislative impact analysis
+21607,Financial Risk Specialists,"Conduct statistical analyses to quantify risk, using statistical analysis software or econometric models.",0.90,statistical risk quantification
+21608,Financial Risk Specialists,Confer with traders to identify and communicate risks associated with specific trading strategies or positions.,0.35,live conferring with traders
+21609,Financial Risk Specialists,Consult financial literature to ensure use of the latest models or statistical techniques.,0.90,financial literature research
+21610,Financial Risk Specialists,Contribute to development of risk management systems.,0.80,risk system development contribution
+21611,Financial Risk Specialists,Determine potential environmental impacts of new products or processes on long-term growth and profitability.,0.75,environmental impact analysis
+21612,Financial Risk Specialists,Develop contingency plans to deal with emergencies.,0.80,contingency plan drafting
+21613,Financial Risk Specialists,Develop or implement risk-assessment models or methodologies.,0.85,risk-assessment model development
+21614,Financial Risk Specialists,Devise scenario analyses reflecting possible severe market events.,0.85,scenario analysis for market events
+21615,Financial Risk Specialists,Devise systems or processes to monitor validity of risk assessments.,0.80,monitoring system design
+21616,Financial Risk Specialists,"Document, and ensure communication of, key risks.",0.70,documentation though ensuring communication needs human
+21617,Financial Risk Specialists,"Draw charts and graphs, using computer spreadsheets, to illustrate technical reports.",0.95,spreadsheet chart creation
+21618,Financial Risk Specialists,Evaluate and compare the relative quality of various securities in a given industry.,0.85,securities quality analysis
+21619,Financial Risk Specialists,Evaluate the risks and benefits involved in implementing green building technologies.,0.80,risk-benefit analysis of green technologies

@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+10713,Automotive and Watercraft Service Attendants,Activate fuel pumps and fill fuel tanks of vehicles with gasoline or diesel fuel to specified levels.,0.02,physical fueling of vehicle
+10726,Automotive and Watercraft Service Attendants,Test and charge batteries.,0.05,hands-on physical battery testing
+10723,Automotive and Watercraft Service Attendants,"Maintain customer records and follow up periodically with telephone, mail, or personal reminders of services due.",0.75,record keeping plus routine reminders mostly info work
+10718,Automotive and Watercraft Service Attendants,Provide customers with information about local roads or highways.,0.55,informational but requires in-person counter presence
+23832,Aircraft Service Attendants,Apply de-icing fluid to aircraft from baskets lifted by truck-mounted cranes.,0.00,physical crane-lifted deicing application
+23833,Aircraft Service Attendants,"Change aircraft oil, coolant, or other fluids.",0.02,manual physical fluid change
+23834,Aircraft Service Attendants,"Clean aircraft interiors by picking up waste, wiping down windows, or vacuuming.",0.00,physical cabin cleaning
+23835,Aircraft Service Attendants,Climb ladders to reach aircraft surfaces to be cleaned.,0.00,physical climbing and cleaning
+23836,Aircraft Service Attendants,Complete forms describing tasks completed.,0.85,administrative form completion
+23837,Aircraft Service Attendants,De-grease aircraft exteriors.,0.00,physical degreasing task
+23838,Aircraft Service Attendants,Empty aircraft lavatory systems or refill them with sanitizer fluid.,0.00,physical lavatory servicing
+23839,Aircraft Service Attendants,"Guide aircraft to designated areas using hand signals, batons, or other methods.",0.00,physical on-site marshalling with hand signals
+23840,Aircraft Service Attendants,"Inspect aircraft components to locate cracks, breaks, leaks, or other problems.",0.05,physical hands-on aircraft inspection
+23841,Aircraft Service Attendants,Load baggage or cargo for crew or passengers.,0.00,physical baggage loading
+23842,Aircraft Service Attendants,Mix cleaning compounds or solutions.,0.00,physical mixing of chemicals
+23843,Aircraft Service Attendants,Polish aircraft exteriors.,0.00,physical polishing task
+23844,Aircraft Service Attendants,Radio to flight dispatchers or other personnel to discuss incoming or outgoing aircraft.,0.40,real-time radio coordination tied to physical ramp ops
+23845,Aircraft Service Attendants,Refill aircraft potable water tanks.,0.00,physical water tank refilling
+23846,Aircraft Service Attendants,Refuel aircraft using hoses connected to fuel trucks.,0.00,physical fuel hose connection
+23847,Aircraft Service Attendants,Remove exhaust stains from aircraft using cleaning fluids.,0.00,physical stain removal
+23848,Aircraft Service Attendants,"Tow aircraft to gates or hangars using tugs, tractors, or other vehicles.",0.00,physical vehicle towing
+23849,Aircraft Service Attendants,"Wash the aircraft exteriors using lifts, cranes, detergent, or other equipment.",0.00,physical exterior washing
+8643,Traffic Technicians,"Study traffic delays by noting times of delays, the numbers of vehicles affected, and vehicle speed through the delay area.",0.30,on-site traffic delay observation
+8630,Traffic Technicians,"Interact with the public to answer traffic-related questions, respond to complaints or requests, or discuss traffic control ordinances, plans, policies, or procedures.",0.50,public interaction mixing info with complaint handling
+8645,Traffic Technicians,"Prepare graphs, charts, diagrams, or other aids to illustrate observations or conclusions.",0.90,data visualization task
+8633,Traffic Technicians,"Analyze data related to traffic flow, accident rates, or proposed development to determine the most efficient methods to expedite traffic flow.",0.85,traffic data analysis
+8634,Traffic Technicians,"Prepare work orders for repair, maintenance, or changes in traffic systems.",0.85,administrative work order documentation
+8632,Traffic Technicians,"Plan, design, and improve components of traffic control systems to accommodate current or projected traffic and to increase usability and efficiency.",0.60,design and planning largely information based
+8647,Traffic Technicians,"Compute time settings for traffic signals or speed restrictions, using standard formulas.",0.95,formulaic computation
+8631,Traffic Technicians,"Prepare drawings of proposed signal installations or other control devices, using drafting instruments or computer-automated drafting equipment.",0.85,CAD drafting task
+8635,Traffic Technicians,"Study factors affecting traffic conditions, such as lighting or sign and marking visibility, to assess their effectiveness.",0.30,field assessment of physical sign and lighting conditions
+8640,Traffic Technicians,"Gather and compile data from hand count sheets, machine count tapes, or radar speed checks and code data for computer input.",0.80,data compilation and entry
+8642,Traffic Technicians,"Measure and record the speed of vehicular traffic, using electrical timing devices or radar equipment.",0.15,physical field speed measurement
+8637,Traffic Technicians,Lay out pavement markings for striping crews.,0.15,physical on-site pavement marking layout
+8639,Traffic Technicians,Provide technical supervision regarding traffic control devices to other traffic technicians or laborers.,0.20,supervisory role needing on-site authority
+8638,Traffic Technicians,"Operate counters and record data to assess the volume, type, and movement of vehicular or pedestrian traffic at specified times.",0.15,physical field data collection
+8641,Traffic Technicians,"Place and secure automatic counters, using power tools, and retrieve counters after counting periods end.",0.05,physical equipment placement with power tools
+8644,Traffic Technicians,"Review traffic control or barricade plans to issue permits for parades or other special events or for construction work that affects rights of way, providing assistance with plan preparation or revision, as necessary.",0.50,plan review is info work but permit issuance needs authority
+8650,Traffic Technicians,"Time stoplights or other delays, using stopwatches.",0.10,manual on-site stopwatch timing
+8649,Traffic Technicians,"Maintain or make minor adjustments or field repairs to equipment used in surveys, including the replacement of parts on traffic data gathering devices.",0.00,physical field equipment repair
+8636,Traffic Technicians,Visit development or work sites to determine projects' effect on traffic and the adequacy of traffic control and safety plans or to suggest traffic control measures.,0.20,requires physical site visit
+8646,Traffic Technicians,Establish procedures for street closures or for repair or construction projects.,0.60,procedural planning mostly information work
+20938,Traffic Technicians,"Provide traffic information, such as road conditions, to the public.",0.75,public info dissemination largely automatable
+8648,Traffic Technicians,Monitor street or utility projects for compliance to traffic control permit conditions.,0.20,on-site compliance monitoring
+8652,Traffic Technicians,Develop plans or long-range strategies for providing adequate parking space.,0.70,strategic planning based on data analysis
+23850,Transportation Inspectors,Prepare and submit reports after completion of freight shipments.,0.85,report writing task
+23851,Transportation Inspectors,Inspect shipments to ensure that freight is securely braced and blocked.,0.10,physical on-site cargo inspection
+23852,Transportation Inspectors,"Record details about freight conditions, handling of freight, and any problems encountered.",0.30,requires physical observation to record freight details
+23853,Transportation Inspectors,Advise crews in techniques of stowing dangerous and heavy cargo.,0.40,technical advisory role usually delivered on-site
+23854,Transportation Inspectors,Observe loading of freight to ensure that crews comply with procedures.,0.10,physical on-site loading observation
+23855,Transportation Inspectors,Recommend remedial procedures to correct any violations found during inspections.,0.70,advisory recommendation based on inspection data
+23856,Transportation Inspectors,"Inspect loaded cargo, cargo lashed to decks or in storage facilities, and cargo handling devices to determine compliance with health and safety regulations and need for maintenance.",0.10,physical cargo and equipment inspection
+23857,Transportation Inspectors,Notify workers of any special treatment required for shipments.,0.75,notification communication task
+23858,Transportation Inspectors,Direct crews to reload freight or to insert additional bracing or packing as necessary.,0.15,on-site directive requiring authority and presence
+23859,Transportation Inspectors,Check temperatures and humidities of shipping and storage areas to ensure that they are at appropriate levels to protect cargo.,0.45,environmental checks partly sensor-automatable partly manual
+23860,Transportation Inspectors,"Determine cargo transportation capabilities by reading documents that set forth cargo loading and securing procedures, capacities, and stability factors.",0.85,document analysis and capacity computation
+23861,Transportation Inspectors,Read draft markings to determine depths of vessels in water.,0.05,physical on-site reading of draft markings
+23864,Transportation Inspectors,Post warning signs on vehicles containing explosives or flammable or radioactive materials.,0.00,physical sign posting on vehicles
+23865,Transportation Inspectors,Measure heights and widths of loads to ensure they will pass over bridges or through tunnels on scheduled routes.,0.15,physical measurement of load dimensions
+23868,Transportation Inspectors,"Calculate gross and net tonnage, hold capacities, volumes of stored fuel and water, cargo weights, and vessel stability factors, using mathematical formulas.",0.95,formulaic tonnage and stability calculation
+23869,Transportation Inspectors,"Measure vessels' holds and depths of fuel and water in tanks, using sounding lines and tape measures.",0.05,physical measurement with sounding lines
+23870,Transportation Inspectors,Visually inspect cargo for damage upon arrival or discharge.,0.10,physical visual cargo inspection
+10728,Aviation Inspectors,"Inspect work of aircraft mechanics performing maintenance, modification, or repair and overhaul of aircraft and aircraft mechanical systems to ensure adherence to standards and procedures.",0.10,on-site inspection requiring licensed authority
+10734,Aviation Inspectors,Examine maintenance records and flight logs to determine if service and maintenance checks and overhauls were performed at prescribed intervals.,0.85,maintenance record and log review
+10733,Aviation Inspectors,"Inspect new, repaired, or modified aircraft to identify damage or defects and to assess airworthiness and conformance to standards, using checklists, hand tools, and test instruments.",0.05,physical hands-on aircraft inspection
+10741,Aviation Inspectors,Approve or deny issuance of certificates of airworthiness.,0.05,requires legal regulatory authority to certify
+10732,Aviation Inspectors,"Prepare and maintain detailed repair, inspection, investigation, and certification records and reports.",0.85,record keeping and report writing
+10731,Aviation Inspectors,"Examine landing gear, tires, and exteriors of fuselage, wings, and engines for evidence of damage or corrosion and the need for repairs.",0.05,physical hands-on aircraft inspection
+10735,Aviation Inspectors,"Recommend replacement, repair, or modification of aircraft equipment.",0.60,advisory recommendation based on inspection data
+10729,Aviation Inspectors,"Start aircraft and observe gauges, meters, and other instruments to detect evidence of malfunctions.",0.05,physical operation and on-site instrument observation
+10730,Aviation Inspectors,Examine aircraft access plates and doors for security.,0.05,physical hands-on inspection
+10736,Aviation Inspectors,"Recommend changes in rules, policies, standards, and regulations, based on knowledge of operating conditions, aircraft improvements, and other factors.",0.70,policy analysis and recommendation
+10738,Aviation Inspectors,Investigate air accidents and complaints to determine causes.,0.30,investigation needs on-site evidence gathering and authority
+10742,Aviation Inspectors,"Analyze training programs and conduct oral and written examinations to ensure the competency of persons operating, installing, and repairing aircraft equipment.",0.45,combines document analysis with live examination and authority
+10740,Aviation Inspectors,"Conduct flight test programs to test equipment, instruments, and systems under a variety of conditions, using both manual and automatic controls.",0.00,physical flight testing
+14569,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Inspect vehicles or other equipment for evidence of abuse, damage, or mechanical malfunction.",0.10,physical vehicle inspection
+14570,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Inspect vehicles or equipment to ensure compliance with rules, standards, or regulations.",0.10,physical compliance inspection
+14573,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Inspect repairs to transportation vehicles or equipment to ensure that repair work was performed properly.,0.10,physical repair inspection
+19929,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Identify modifications to engines, fuel systems, emissions control equipment, or other vehicle systems to determine the impact of modifications on inspection procedures or conclusions.",0.30,combines physical inspection with analysis
+19926,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Conduct remote inspections of motor vehicles, using handheld controllers and remotely directed vehicle inspection devices.",0.40,remote device but needs physical handheld controller operation
+14574,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Prepare reports on investigations or inspections and actions taken.,0.85,report writing based on provided data
+14575,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Issue notices and recommend corrective actions when infractions or problems are found.,0.35,issuing official notices requires regulatory authority
+19927,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Conduct visual inspections of emission control equipment and smoke emitted from gasoline or diesel vehicles.,0.10,physical visual emissions inspection
+14572,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Conduct vehicle or transportation equipment tests, using diagnostic equipment.",0.10,physical hands-on diagnostic testing
+14580,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Investigate incidents or violations, such as delays, accidents, and equipment failures.",0.30,investigation requires on-site work and authority
+14579,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Review commercial vehicle logs, shipping papers, or driver and equipment records to detect any problems or to ensure compliance with regulations.",0.85,document and log review
+19924,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Attach onboard diagnostics (OBD) scanner cables to vehicles to conduct emissions inspections.,0.02,physical cable attachment
+14576,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Investigate complaints regarding safety violations.,0.30,investigation requiring on-site work and authority
+14577,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Examine carrier operating rules, employee qualification guidelines, or carrier training and testing programs for compliance with regulations or safety standards.",0.80,compliance document review
+20841,Passenger Attendants,Secure passengers for transportation by buckling seatbelts or fastening wheelchairs with tie-down straps.,0.00,physical seatbelt or strap securing
+13172,Passenger Attendants,"Provide boarding assistance to elderly, sick, or injured people.",0.00,physical boarding assistance
+13174,Passenger Attendants,"Respond to passengers' questions, requests, or complaints.",0.55,customer interaction mostly informational
+13183,Passenger Attendants,Determine or facilitate seating arrangements.,0.50,seating logistics partly physical facilitation
+13182,Passenger Attendants,"Provide customers with information on routes, gates, prices, timetables, terminals, or concourses.",0.80,informational query answering
+13176,Passenger Attendants,Perform equipment safety checks prior to departure.,0.05,physical equipment safety check
+13179,Passenger Attendants,Greet passengers boarding transportation equipment and announce routes and stops.,0.05,requires physical presence to greet and announce
+13178,Passenger Attendants,Count and verify tickets and seat reservations and record numbers of passengers boarding and disembarking.,0.40,counting and verification partly automatable digitally
+13175,Passenger Attendants,Explain and demonstrate safety procedures and safety equipment use.,0.30,explaining is automatable but demonstration needs presence
+13173,Passenger Attendants,Open and close doors for passengers.,0.00,physical door opening
+13177,Passenger Attendants,Signal transportation operators to stop or to proceed.,0.00,physical on-site signaling
+13184,Passenger Attendants,Adjust window shades or seat cushions at the request of passengers.,0.00,physical adjustment of passenger seating
+10748,Conveyor Operators and Tenders,Inform supervisors of equipment malfunctions that need to be addressed.,0.70,communication task largely automatable given sensor data
+10750,Conveyor Operators and Tenders,"Observe conveyor operations and monitor lights, dials, and gauges to maintain specified operating levels and to detect equipment malfunctions.",0.50,monitoring task automatable with feeds but often on-site
+10747,Conveyor Operators and Tenders,"Record production data such as weights, types, quantities, and storage locations of materials, as well as equipment performance problems and downtime.",0.75,data recording task
+10757,Conveyor Operators and Tenders,"Load, unload, or adjust materials or products on conveyors by hand, by using lifts, hoists, and scoops, or by opening gates, chutes, or hoppers.",0.00,physical materials loading
+10755,Conveyor Operators and Tenders,"Stop equipment or machinery and clear jams, using poles, bars, and hand tools, or remove damaged materials from conveyors.",0.00,physical jam clearing
+10760,Conveyor Operators and Tenders,"Distribute materials, supplies, and equipment to work stations, using lifts and trucks.",0.00,physical materials distribution
+21030,Conveyor Operators and Tenders,"Observe packages moving along conveyors to identify packages, detect defective packaging, and perform quality control.",0.50,visual QC feasible via vision system but often manual
+10756,Conveyor Operators and Tenders,"Collect samples of materials or products, checking them to ensure conformance to specifications or sending them to laboratories for analysis.",0.05,physical sample collection
+10744,Conveyor Operators and Tenders,"Position deflector bars, gates, chutes, or spouts to divert flow of materials from one conveyor onto another conveyor.",0.00,physical adjustment of conveyor gates
+10753,Conveyor Operators and Tenders,"Repair or replace equipment components or parts such as blades, rolls, and pumps.",0.00,physical equipment repair
+10746,Conveyor Operators and Tenders,"Manipulate controls, levers, and valves to start pumps, auxiliary equipment, or conveyors, and to adjust equipment positions, speeds, timing, and material flows.",0.25,physical control manipulation some digital control possible
+10745,Conveyor Operators and Tenders,"Weigh or measure materials and products, using scales or other measuring instruments, or read scales on conveyors that continually weigh products, to verify specified tonnages and prevent overloads.",0.35,measurement task partly automatable via digital scales
+10752,Conveyor Operators and Tenders,"Read production and delivery schedules, and confer with supervisors, to determine sorting and transfer procedures, arrangement of packages on pallets, and destinations of loaded pallets.",0.70,planning and scheduling information work
+10764,Conveyor Operators and Tenders,Press console buttons to deflect packages to predetermined accumulators or reject lines.,0.30,physical console operation potentially software automatable
+10749,Conveyor Operators and Tenders,"Clean, sterilize, and maintain equipment, machinery, and work stations, using hand tools, shovels, brooms, chemicals, hoses, and lubricants.",0.00,physical cleaning and maintenance
+10759,Conveyor Operators and Tenders,"Affix identifying information to materials or products, using hand tools.",0.00,physical labeling with hand tools
+10761,Conveyor Operators and Tenders,"Move, assemble, and connect hoses or nozzles to material hoppers, storage tanks, conveyor sections or chutes, and pumps.",0.00,physical hose assembly
+10766,Conveyor Operators and Tenders,Thread strapping through strapping tools and secure battens with strapping to form protective pallets around extrusions.,0.00,physical strapping task
+10754,Conveyor Operators and Tenders,"Contact workers in work stations or other departments to request movement of materials, products, or machinery, or to notify them of incoming shipments and their estimated delivery times.",0.75,communication and notification task
+10765,Conveyor Operators and Tenders,"Join sections of conveyor frames at temporary working areas, and connect power units.",0.00,physical frame assembly
+10767,Crane and Tower Operators,Determine load weights and check them against lifting capacities to prevent overload.,0.70,computation based on provided load data
+10768,Crane and Tower Operators,"Move levers, depress foot pedals, or turn dials to operate cranes, cherry pickers, electromagnets, or other moving equipment for lifting, moving, or placing loads.",0.00,physical crane operation
+10771,Crane and Tower Operators,Inspect and adjust crane mechanisms or lifting accessories to prevent malfunctions or damage.,0.00,physical crane mechanism inspection and adjustment
+10769,Crane and Tower Operators,"Inspect cables or grappling devices for wear and install or replace cables, as needed.",0.00,physical cable inspection and replacement
+10772,Crane and Tower Operators,Direct helpers engaged in placing blocking or outrigging under cranes.,0.05,on-site directive requiring physical presence
+10770,Crane and Tower Operators,"Clean, lubricate, and maintain mechanisms such as cables, pulleys, or grappling devices, making repairs, as necessary.",0.00,physical cleaning lubrication and repair
+10773,Crane and Tower Operators,"Load or unload bundles from trucks, or move containers to storage bins, using moving equipment.",0.00,physical loading with moving equipment
+10775,Crane and Tower Operators,"Review daily work or delivery schedules to determine orders, sequences of deliveries, or special loading instructions.",0.80,schedule review and planning
+10777,Crane and Tower Operators,"Inspect bundle packaging for conformance to regulations or customer requirements, and remove and batch packaging tickets.",0.10,physical inspection and ticket handling

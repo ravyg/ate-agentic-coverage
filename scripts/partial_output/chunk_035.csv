@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+23339,Insurance Claims and Policy Processing Clerks,"Organize or work with detailed office or warehouse records, maintaining files for each policyholder, including policies that are to be reinstated or cancelled.",0.85,digital recordkeeping and file organization
+23913,Dietitians and Nutritionists,Evaluate laboratory tests in preparing nutrition recommendations.,0.75,lab data analysis for recommendations
+23914,Dietitians and Nutritionists,"Incorporate patient cultural, ethnic, or religious preferences and needs in the development of nutrition plans.",0.70,synthesizing patient preferences into nutrition plan
+23915,Dietitians and Nutritionists,"Record and evaluate patient and family health and food history, including symptoms, environmental toxic exposure, allergies, medication factors, and preventive health-care measures.",0.65,history taking and clinical evaluation
+23916,Dietitians and Nutritionists,"Develop recipes and menus to address special nutrition needs, such as low glycemic, low histamine, or gluten- or allergen-free.",0.90,recipe and menu generation from constraints
+23917,Dietitians and Nutritionists,"Plan, conduct, and evaluate nutrigenomic or nutrigenetic research.",0.35,research design ok but conducting needs physical lab work
+23918,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",Teach self-advocacy skills to clients.,0.30,in-person coaching and rapport building
+23919,Nurse Midwives,"Instruct student nurse midwives, medical students, or residents on the birthing process.",0.25,hands-on clinical instruction during births
+23920,Hospitalists,Direct or support quality improvement projects or safety programs.,0.45,requires organizational authority and stakeholder coordination
+23921,Dental Hygienists,Attend continuing education courses to maintain or update skills.,0.05,requires personal licensure attendance
+23922,Dietetic Technicians,"Observe and monitor patient food intake and body weight, and report changes, progress, and dietary problems to dietician.",0.15,requires physical patient observation
+23923,Dietetic Technicians,Attend interdisciplinary meetings with other health care professionals to discuss patient care.,0.20,requires live presence in clinical meetings
+23924,Pharmacy Technicians,Enter prescription information into computer databases.,0.95,pure data entry task
+23925,Athletic Trainers,Clean and sanitize athletic training rooms.,0.00,physical cleaning task
+23926,Midwives,Provide patients with contraceptive and family planning information.,0.55,info provision but needs clinical trust and personalization
+23927,Midwives,"Perform annual gynecologic exams, including pap smears and breast exams.",0.00,physical examination requires body
+23928,Massage Therapists,Maintain massage areas by restocking supplies or sanitizing equipment.,0.00,physical restocking and sanitizing
+23931,Models,Pose for artists and photographers.,0.00,requires physical body to pose
+23952,Speech-Language Pathologists,Supervise students or assistants.,0.30,requires human supervisory authority and presence
+23954,Payroll and Timekeeping Clerks,Prepare and file payroll tax returns.,0.80,digital tax prep and filing process
+23973,Orthodontists,Advise patients to comply with treatment plans.,0.40,needs clinical rapport and licensed advice authority
+23974,Magnetic Resonance Imaging Technologists,Review physicians' orders to confirm prescribed exams.,0.80,order review is information verification
+23975,Magnetic Resonance Imaging Technologists,"Comfort patients during exams, or request sedatives or other medication from physicians for patients with anxiety or claustrophobia.",0.10,requires physical presence to comfort patient
+23985,"Compensation, Benefits, and Job Analysis Specialists","Develop and administer compensation programs, such as merit or incentive pay.",0.55,design work high but administration needs organizational authority
+23992,Lawyers,Negotiate contractual agreements.,0.30,negotiation needs authority and live judgment
+23994,Paralegals and Legal Assistants,"Prepare, edit, or review legal documents, including legislation, briefs, pleadings, appeals, wills, contracts, and real estate closing statements.",0.80,legal document drafting and review is text work
+23996,Prosthodontists,Examine patients to diagnose oral health conditions and diseases.,0.10,physical exam and licensed diagnosis
+8823,Chief Executives,"Direct or coordinate an organization's financial or budget activities to fund operations, maximize investments, or increase efficiency.",0.35,requires executive authority and accountability
+8824,Chief Executives,"Confer with board members, organization officials, or staff members to discuss issues, coordinate activities, or resolve problems.",0.25,live interpersonal conferring with authority
+8827,Chief Executives,"Prepare budgets for approval, including those for funding or implementation of programs.",0.80,budget prep is analytical drafting
+8826,Chief Executives,"Direct, plan, or implement policies, objectives, or activities of organizations or businesses to ensure continuing operations, to maximize returns on investments, or to increase productivity.",0.30,executive direction requires organizational authority
+8834,Chief Executives,"Prepare or present reports concerning activities, expenses, budgets, government statutes or rulings, or other items affecting businesses or program services.",0.70,report prep is text work presenting may need live delivery
+8836,Chief Executives,Implement corrective action plans to solve organizational or departmental problems.,0.30,implementation requires organizational authority
+8825,Chief Executives,"Analyze operations to evaluate performance of a company or its staff in meeting objectives or to determine areas of potential cost reduction, program improvement, or policy change.",0.85,operations analysis is information work
+8828,Chief Executives,"Direct or coordinate activities of businesses or departments concerned with production, pricing, sales, or distribution of products.",0.30,requires managerial directive authority
+8832,Chief Executives,"Direct human resources activities, including the approval of human resource plans or activities, the selection of directors or other high-level staff, or establishment or organization of major departments.",0.20,hiring and hr approval authority is human only
+8831,Chief Executives,Appoint department heads or managers and assign or delegate responsibilities to them.,0.15,appointment requires organizational authority
+8843,Chief Executives,"Interpret and explain policies, rules, regulations, or laws to organizations, government or corporate officials, or individuals.",0.65,interpretation is analytical explaining may be interactive
+8830,Chief Executives,Review reports submitted by staff members to recommend approval or to suggest changes.,0.75,review and recommend is analytical
+8829,Chief Executives,"Negotiate or approve contracts or agreements with suppliers, distributors, federal or state agencies, or other organizational entities.",0.25,negotiation and approval require legal authority
+8835,Chief Executives,Establish departmental responsibilities and coordinate functions among departments and sites.,0.30,requires organizational authority
+8839,Chief Executives,"Deliver speeches, write articles, or present information at meetings or conventions to promote services, exchange ideas, or accomplish objectives.",0.35,delivering speeches needs physical presence and personal authority
+8840,Chief Executives,"Serve as liaisons between organizations, shareholders, and outside organizations.",0.25,requires personal representation and authority
+8837,Chief Executives,"Coordinate the development or implementation of budgetary control systems, recordkeeping systems, or other administrative control processes.",0.45,mix of design work and organizational coordination
+8833,Chief Executives,"Preside over, or serve on, boards of directors, management committees, or other governing boards.",0.05,requires fiduciary and physical board presence
+8849,Chief Executives,Attend and participate in meetings of municipal councils or council committees.,0.05,requires official presence at council meetings
+8850,Chief Executives,Organize or approve promotional campaigns.,0.45,organizing is doable approval needs authority
+8842,Chief Executives,Nominate citizens to boards or commissions.,0.10,requires official nomination authority
+8851,Chief Executives,"Conduct or direct investigations or hearings to resolve complaints or violations of laws, or testify at such hearings.",0.20,hearings and testimony require legal authority and presence
+8847,Chief Executives,Direct or coordinate activities of businesses involved with buying or selling investment products or financial services.,0.25,requires directive authority and possible licensure
+8853,Chief Executives,"Prepare bylaws approved by elected officials, and ensure that bylaws are enforced.",0.45,drafting is doable enforcement needs authority
+8844,Chief Executives,"Make presentations to legislative or other government committees regarding policies, programs, or budgets.",0.15,requires live presentation and personal standing
+20461,Chief Executives,"Review and analyze legislation, laws, or public policy and recommend changes to promote or support interests of the general population or special groups.",0.85,policy analysis and writing
+8838,Chief Executives,"Direct non-merchandising departments, such as advertising, purchasing, credit, or accounting.",0.25,requires managerial directive authority
+8845,Chief Executives,Refer major policy matters to elected representatives for final decisions.,0.40,referral requires institutional standing but is largely communication
+8848,Chief Executives,Direct or conduct studies or research on issues affecting areas of responsibility.,0.65,research conducting is analytical directing needs authority
+8846,Chief Executives,"Administer programs for selection of sites, construction of buildings, or provision of equipment or supplies.",0.30,site selection and administration need physical and authority involvement
+8852,Chief Executives,"Represent organizations or promote their objectives at official functions, or delegate representatives to do so.",0.10,requires personal physical representation
+15382,Chief Sustainability Officers,Monitor and evaluate effectiveness of sustainability programs.,0.80,program monitoring and evaluation is analytical
+15384,Chief Sustainability Officers,"Develop or execute strategies to address issues such as energy use, resource conservation, recycling, pollution reduction, waste elimination, transportation, education, and building design.",0.40,execution requires organizational and physical implementation
+15379,Chief Sustainability Officers,"Develop, or oversee the development of, sustainability evaluation or monitoring systems.",0.75,monitoring system design is largely technical work
+15372,Chief Sustainability Officers,Supervise employees or volunteers working on sustainability projects.,0.20,requires supervisory authority and presence
+15378,Chief Sustainability Officers,"Develop sustainability reports, presentations, or proposals for supplier, employee, academia, media, government, public interest, or other groups.",0.90,report and proposal writing
+15380,Chief Sustainability Officers,"Develop, or oversee the development of, marketing or outreach media for sustainability projects or events.",0.80,marketing media content development
+15368,Chief Sustainability Officers,Identify and evaluate pilot projects or programs to enhance the sustainability research agenda.,0.80,pilot project identification and evaluation via research
+15370,Chief Sustainability Officers,"Create and maintain sustainability program documents, such as schedules and budgets.",0.90,document creation and maintenance
+15375,Chief Sustainability Officers,Formulate or implement sustainability campaign or marketing strategies.,0.45,formulation is analytical implementation needs authority
+15376,Chief Sustainability Officers,"Research environmental sustainability issues, concerns, or stakeholder interests.",0.80,research and stakeholder analysis
+15383,Chief Sustainability Officers,Direct sustainability program operations to ensure compliance with environmental or governmental regulations.,0.30,requires directive authority over operations
+15377,Chief Sustainability Officers,"Evaluate and approve proposals for sustainability projects, considering factors such as cost effectiveness, technical feasibility, and integration with other initiatives.",0.55,evaluation is analytical but approval needs authority
+15381,Chief Sustainability Officers,Develop methodologies to assess the viability or success of sustainability initiatives.,0.85,methodology development is analytical
+15374,Chief Sustainability Officers,"Review sustainability program objectives, progress, or status to ensure compliance with policies, standards, regulations, or laws.",0.75,compliance review is analytical
+15373,Chief Sustainability Officers,Write and distribute financial or environmental impact reports.,0.90,report writing and digital distribution
+15371,Chief Sustainability Officers,"Write project proposals, grant applications, or other documents to pursue funding for environmental initiatives.",0.90,grant and proposal writing
+15367,Chief Sustainability Officers,"Identify educational, training, or other development opportunities for sustainability employees or volunteers.",0.80,identifying opportunities via research
+15369,Chief Sustainability Officers,Conduct risk assessments related to sustainability and the environment.,0.80,risk assessment is analytical
+20699,General and Operations Managers,"Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement.",0.85,financial and performance data analysis
+933,General and Operations Managers,"Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.",0.30,requires managerial directive authority
+20700,General and Operations Managers,Direct administrative activities directly related to making products or providing services.,0.30,requires directive authority over operations
+20701,General and Operations Managers,Prepare staff work schedules and assign specific duties.,0.75,scheduling is largely algorithmic admin work
+20703,General and Operations Managers,"Direct or coordinate financial or budget activities to fund operations, maximize investments, or increase efficiency.",0.35,requires financial directive authority
+20706,General and Operations Managers,"Plan or direct activities, such as sales promotions, that require coordination with other department managers.",0.45,planning is doable coordination needs live authority
+20705,General and Operations Managers,"Perform personnel functions, such as selection, training, or evaluation.",0.25,personnel decisions need human judgment and authority
+20704,General and Operations Managers,"Establish or implement departmental policies, goals, objectives, or procedures in conjunction with board members, organization officials, or staff members.",0.35,requires collaborative decision-making with authority
+20702,General and Operations Managers,Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits.,0.65,supplier monitoring is largely data tracking
+20708,General and Operations Managers,"Manage the movement of goods into and out of production facilities to ensure efficiency, effectiveness, or sustainability of operations.",0.35,involves physical logistics oversight
+20707,General and Operations Managers,"Set prices or credit terms for goods or services, based on forecasts of customer demand.",0.70,pricing analysis is data-driven
+944,General and Operations Managers,"Perform sales floor work, such as greeting or assisting customers, stocking shelves, or taking inventory.",0.05,physical retail floor work
+945,General and Operations Managers,"Develop or implement product-marketing strategies, including advertising campaigns or sales promotions.",0.55,strategy development is analytical implementation needs coordination
+947,General and Operations Managers,"Direct non-merchandising departments of businesses, such as advertising or purchasing.",0.30,requires directive authority
+19501,General and Operations Managers,"Implement or oversee environmental management or sustainability programs addressing issues such as recycling, conservation, or waste management.",0.30,implementation requires physical and organizational oversight
+949,General and Operations Managers,Plan store layouts or design displays.,0.75,layout and display design is digital planning
+948,General and Operations Managers,"Recommend locations for new facilities, or oversee the remodeling or renovating of current facilities.",0.40,recommendation is analytical oversight needs physical presence
+15267,Legislators,Analyze and understand the local and national implications of proposed legislation.,0.85,legislative impact analysis is information work
+15268,Legislators,"Appoint nominees to leadership posts, or approve such appointments.",0.05,requires official political authority
+15269,Legislators,Confer with colleagues to formulate positions and strategies pertaining to pending issues.,0.20,requires live interpersonal conferring
+15270,Legislators,"Debate the merits of proposals and bill amendments during floor sessions, following the appropriate rules of procedure.",0.05,requires official floor presence
+15271,Legislators,Develop expertise in subject matters related to committee assignments.,0.70,research support for expertise building
+15272,Legislators,"Hear testimony from constituents, representatives of interest groups, board and commission members, and others with an interest in bills or issues under consideration.",0.15,requires live presence to hear testimony
+15273,Legislators,"Keep abreast of the issues affecting constituents by making personal visits and phone calls, reading local newspapers, and viewing or listening to local broadcasts.",0.35,personal visits need presence media monitoring is doable
+15274,Legislators,Maintain knowledge of relevant national and international current events.,0.85,current events monitoring is research
+15275,Legislators,"Make decisions that balance the perspectives of private citizens, public officials, and party leaders.",0.10,requires official political decision authority
+15276,Legislators,"Negotiate with colleagues or members of other political parties in order to reconcile differing interests, and to create policies and agreements.",0.20,negotiation needs live political authority
+15277,Legislators,"Prepare drafts of amendments, government policies, laws, rules, regulations, budgets, programs and procedures.",0.85,legislative drafting is text work
+15278,Legislators,Read and review concerns of constituents or the general public and determine if governmental action is necessary.,0.65,review and assessment is largely analytical
+15279,Legislators,"Represent their parties in negotiations with political executives or members of other parties, and when speaking with the media.",0.10,requires official political representation
+15280,Legislators,"Review bills in committee, and make recommendations about their future.",0.55,committee review needs official participation but recommendation is analytical
+15281,Legislators,Seek federal funding for local projects and programs.,0.25,requires political relationship building
+15282,Legislators,"Serve on commissions, investigative panels, study groups, and committees in order to examine specialized areas and recommend action.",0.35,serving requires official presence analysis is doable
+15283,Legislators,"Vote on motions, amendments, and decisions on whether or not to report a bill out from committee to the assembly floor.",0.00,voting requires official political authority
+15284,Legislators,"Write, prepare, and deliver statements for the Congressional Record.",0.55,writing is doable delivery needs official presence
+15285,Legislators,"Alert constituents of government actions and programs by way of newsletters, personal appearances at town meetings, phone calls, and individual meetings.",0.35,newsletter writing doable but appearances need presence
+15286,Legislators,"Attend receptions, dinners, and conferences to meet people, exchange views and information, and develop working relationships.",0.05,requires physical attendance and relationship building
+15287,Legislators,"Conduct ""head counts"" to help predict the outcome of upcoming votes.",0.25,requires interpersonal political polling
+15288,Legislators,"Determine campaign strategies for media advertising, positions on issues, and public appearances.",0.55,strategy analysis is doable but final determination is personal
+15289,Legislators,Encourage and support party candidates for political office.,0.20,requires personal political advocacy
+15290,Legislators,"Establish personal offices in local districts or states, and manage office staff.",0.15,requires physical office setup and staff supervision
+15291,Legislators,"Evaluate the structure, efficiency, activities, and performance of government agencies.",0.80,agency evaluation is analytical
+15292,Legislators,"Organize and maintain campaign organizations and fundraisers, in order to raise money for election or re-election.",0.25,fundraising requires personal solicitation and accountability
+15293,Legislators,"Oversee expense allowances, ensuring that accounts are balanced at the end of each fiscal year.",0.75,expense oversight is largely reconciliation work
+15294,Legislators,Promote the industries and products of their electoral districts.,0.30,promotion requires public political representation
+15295,Legislators,"Represent their government at local, national, and international meetings and conferences.",0.05,requires official physical representation
+15296,Legislators,Speak to students to encourage and support the development of future political leaders.,0.15,requires live speaking engagement
+3224,Advertising and Promotions Managers,"Plan and prepare advertising and promotional material to increase sales of products or services, working with customers, company officials, sales departments, and advertising agencies.",0.65,content planning and prep with some human coordination
+3226,Advertising and Promotions Managers,"Inspect layouts and advertising copy, and edit scripts, audio, video, and other promotional material for adherence to specifications.",0.85,review and editing is content work
+3231,Advertising and Promotions Managers,"Confer with department heads or staff to discuss topics such as contracts, selection of advertising media, or product to be advertised.",0.25,requires live interpersonal conferring
+3242,Advertising and Promotions Managers,Coordinate with the media to disseminate advertising.,0.55,media coordination is largely digital communication
+3227,Advertising and Promotions Managers,"Coordinate activities of departments, such as sales, graphic arts, media, finance, and research.",0.35,cross-department coordination needs authority
+3238,Advertising and Promotions Managers,Plan and execute advertising policies and strategies for organizations.,0.45,planning is analytical execution needs organizational authority
+3237,Advertising and Promotions Managers,"Direct, motivate, and monitor the mobilization of a campaign team to advance campaign goals.",0.20,requires human leadership and motivation of team

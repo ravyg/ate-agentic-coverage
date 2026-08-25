@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+1629,Probation Officers and Correctional Treatment Specialists,Conduct prehearing and presentencing investigations and testify in court regarding offenders' backgrounds and recommended sentences and sentencing conditions.,0.25,investigation feasible but court testimony needs human presence
+1623,Probation Officers and Correctional Treatment Specialists,"Arrange for postrelease services, such as employment, housing, counseling, education, and social activities.",0.55,coordination work agent can research and contact providers
+1622,Probation Officers and Correctional Treatment Specialists,"Provide offenders or inmates with assistance in matters concerning detainers, sentences in other jurisdictions, writs, and applications for social assistance.",0.55,assistance with paperwork and info doable remotely
+1633,Probation Officers and Correctional Treatment Specialists,"Develop and prepare packets containing information about social service agencies, assistance organizations, and programs that might be useful for inmates or offenders.",0.90,pure info compilation task
+1619,Probation Officers and Correctional Treatment Specialists,"Develop rehabilitation programs for assigned offenders or inmates, establishing rules of conduct, goals, and objectives.",0.55,drafting plan but needs individualized judgment and interaction
+1630,Probation Officers and Correctional Treatment Specialists,Recommend appropriate penitentiary for initial placement of an offender.,0.65,research based recommendation report
+1627,Probation Officers and Correctional Treatment Specialists,Assess the suitability of penitentiary inmates for release under parole and statutory release programs and submit recommendations to parole boards.,0.45,assessment often needs interview and carries legal weight
+1632,Probation Officers and Correctional Treatment Specialists,Identify and approve work placements for offenders with community service sentences.,0.35,approval requires human authority and accountability
+21179,Social and Human Service Assistants,Assess clients' cognitive abilities and physical and emotional needs to determine appropriate interventions.,0.30,requires direct human observation and clinical judgment
+21180,Social and Human Service Assistants,Develop and implement behavioral management and care plans for clients.,0.35,develop plan agent capable but implementation needs human presence
+3754,Social and Human Service Assistants,Keep records or prepare reports for owner or management concerning visits with clients.,0.90,pure documentation and reporting
+3755,Social and Human Service Assistants,"Visit individuals in homes or attend group meetings to provide information on agency services, requirements, or procedures.",0.05,requires physical presence in homes or meetings
+3757,Social and Human Service Assistants,Submit reports and review reports or problems with superior.,0.75,reporting and communication with supervisor mostly text based
+3759,Social and Human Service Assistants,"Interview individuals or family members to compile information on social, educational, criminal, institutional, or drug history.",0.40,interviewing needs human rapport and trust
+3753,Social and Human Service Assistants,Provide information or refer individuals to public or private agencies or community services for assistance.,0.80,information and referral work
+3756,Social and Human Service Assistants,"Advise clients regarding food stamps, child care, food, money management, sanitation, or housekeeping.",0.80,advisory information work
+3758,Social and Human Service Assistants,Oversee day-to-day group activities of residents in institution.,0.05,requires physical supervision of residents
+3770,Social and Human Service Assistants,Assist in locating housing for displaced individuals.,0.70,housing research and contacting agencies
+3765,Social and Human Service Assistants,Consult with supervisor concerning programs for individual families.,0.55,consultation with supervisor mostly communication
+3764,Social and Human Service Assistants,Demonstrate use and care of equipment for tenant use.,0.05,requires physical demonstration of equipment
+3772,Social and Human Service Assistants,"Assist in planning food budgets, using charts or sample budgets.",0.85,budget planning is computation and info work
+3771,Social and Human Service Assistants,"Assist clients with preparation of forms, such as tax or rent forms.",0.80,form preparation assistance doable remotely
+3762,Social and Human Service Assistants,"Explain rules established by owner or management, such as sanitation or maintenance requirements or parking regulations.",0.80,explaining rules is communication of information
+3767,Social and Human Service Assistants,Observe clients' food selections and recommend alternate economical and nutritional food choices.,0.30,requires direct observation of client choices
+3763,Social and Human Service Assistants,Observe and discuss meal preparation and suggest alternate methods of food preparation.,0.20,requires physical observation of meal preparation
+3761,Social and Human Service Assistants,"Transport and accompany clients to shopping areas or to appointments, using automobile.",0.00,physical transportation requires a body
+3768,Social and Human Service Assistants,"Inform tenants of facilities, such as laundries or playgrounds.",0.85,informing tenants is communication of information
+19031,Community Health Workers,"Maintain updated client records with plans, notes, appropriate forms, or related information.",0.90,pure record keeping
+19017,Community Health Workers,"Advise clients or community groups on issues related to improving general health, such as diet or exercise.",0.80,health advisory information work
+19028,Community Health Workers,"Identify or contact members of high-risk or otherwise targeted groups, such as members of minority populations, low-income populations, or pregnant women.",0.65,identify via data research contact via calls or messages
+19026,Community Health Workers,"Contact clients in person, by phone, or in writing to ensure they have completed required or recommended actions.",0.65,contact via phone or writing feasible in person portion not
+19027,Community Health Workers,"Distribute flyers, brochures, or other informational or educational documents to inform members of a targeted community.",0.30,distribution of physical materials needs presence
+19036,Community Health Workers,Refer community members to needed health services.,0.80,referral is information work
+19024,Community Health Workers,Attend community meetings or health fairs to understand community issues or build relationships with community members.,0.05,requires physical attendance at meetings
+19033,Community Health Workers,"Perform basic diagnostic procedures, such as blood pressure screening, breast cancer screening, or communicable disease screening.",0.00,physical clinical screening requires a body
+19016,Community Health Workers,"Advise clients or community groups on issues related to diagnostic screenings, such as breast cancer screening, pap smears, glaucoma tests, or diabetes screenings.",0.80,advisory information work
+19018,Community Health Workers,"Advise clients or community groups on issues related to risk or prevention of conditions, such as lead poisoning, human immunodeficiency virus (HIV), prenatal substance abuse, or domestic violence.",0.75,advisory information on sensitive topics
+19015,Community Health Workers,Administer immunizations or other basic preventive treatments.,0.00,administering immunizations is a physical medical act
+19029,Community Health Workers,Identify the particular health care needs of individuals in a community or target area.,0.80,needs assessment via data analysis
+19020,Community Health Workers,"Advise clients or community groups on issues related to self-care, such as diabetes management.",0.80,advisory information work
+19025,Community Health Workers,"Conduct home visits for pregnant women, newborn infants, or other high-risk individuals to monitor their progress or assess their needs.",0.05,home visits require physical presence
+19043,Community Health Workers,Transport or accompany clients to scheduled health appointments or referral sites.,0.00,physical transport requires a body
+19023,Community Health Workers,Advocate for individual or community health needs with government agencies or health service providers.,0.60,advocacy via letters calls and emails
+19042,Community Health Workers,"Report incidences of child or elder abuse, neglect, or threats of harm to authorities, as required.",0.35,mandated reporting carries legal accountability
+19038,Community Health Workers,"Teach classes or otherwise disseminate medical or dental health information to school groups, community groups, or targeted families or individuals, in a manner consistent with cultural norms.",0.35,teaching classes requires physical presence
+19019,Community Health Workers,"Advise clients or community groups on issues related to sanitation or hygiene, such as flossing or hand washing.",0.80,advisory information work
+19040,Community Health Workers,Collect information from individuals to compile vital statistics about the general health of community members.,0.65,data collection via surveys or forms
+19039,Community Health Workers,"Assist families to apply for social services, including Medicaid or Women, Infants, and Children (WIC).",0.75,application assistance doable remotely
+19021,Community Health Workers,"Advise clients or community groups on issues related to social or intellectual development, such as education, childcare, or problem solving.",0.80,advisory information work
+19034,Community Health Workers,"Provide basic health services, such as first aid.",0.00,first aid is a physical service
+19030,Community Health Workers,"Interpret, translate, or provide cultural mediation related to health services or information for community members.",0.70,translation and mediation mostly text based
+19032,Community Health Workers,"Monitor nutrition of children, elderly, or other high-risk groups.",0.35,monitoring requires direct observation
+19022,Community Health Workers,Advise clients or community groups to ensure parental understanding of the importance of childhood immunizations and how to access immunization services.,0.80,advisory information work
+19041,Community Health Workers,"Develop plans or formal contracts for individuals, families, or community groups to improve overall health.",0.75,drafting health plans and contracts
+19035,Community Health Workers,Provide feedback to health service providers regarding improving service accessibility or acceptability.,0.75,feedback is informational communication
+10934,Clergy,Pray and promote spirituality.,0.10,prayer and spiritual practice is inherently human
+10936,Clergy,Prepare and deliver sermons or other talks.,0.30,drafting sermon feasible delivery needs human presence
+10935,Clergy,"Read from sacred texts, such as the Bible, Torah, or Koran.",0.05,reading scripture in service requires human presence
+10937,Clergy,Organize and lead regular religious services.,0.20,organizing feasible leading service needs human presence
+10939,Clergy,Instruct people who seek conversion to a particular faith.,0.30,instruction possible but conversion process needs pastoral authority
+10938,Clergy,"Share information about religious issues by writing articles, giving speeches, or teaching.",0.55,writing articles feasible speeches need presence
+10940,Clergy,"Counsel individuals or groups concerning their spiritual, emotional, or personal needs.",0.15,spiritual counseling needs human trust and presence
+10943,Clergy,Administer religious rites or ordinances.,0.00,administering rites needs ordained human presence
+10950,Clergy,Prepare people for participation in religious ceremonies.,0.30,preparation involves personal guidance needing human interaction
+10941,Clergy,"Visit people in homes, hospitals, or prisons to provide them with comfort and support.",0.05,comfort visits require physical presence
+10942,Clergy,"Train leaders of church, community, or youth groups.",0.35,training materials feasible but delivery needs human interaction
+20748,Clergy,Plan or lead religious education programs.,0.35,planning feasible leading programs needs human presence
+10944,Clergy,"Study and interpret religious laws, doctrines, or traditions.",0.85,research and interpretation is text based work
+10947,Clergy,Respond to requests for assistance during emergencies or crises.,0.10,crisis response needs human presence and comfort
+10945,Clergy,"Conduct special ceremonies, such as weddings, funerals, or confirmations.",0.00,ceremonies require ordained human presence
+10948,Clergy,Devise ways in which congregational membership can be expanded.,0.80,strategy brainstorming is info work
+10949,Clergy,Collaborate with committees or individuals to address financial or administrative issues pertaining to congregations.,0.45,collaboration on finances needs human interaction and trust
+10952,Clergy,"Refer people to community support services, psychologists, or doctors.",0.75,referral is information work
+20749,Clergy,"Organize or engage in interfaith, community, civic, educational, or recreational activities sponsored by or related to religious programs.",0.35,engaging in activities requires physical presence
+10951,Clergy,"Perform administrative duties, such as overseeing building management, ordering supplies, contracting for services or repairs, or supervising the work of staff members or volunteers.",0.45,mix of admin tasks and human staff supervision
+10953,Clergy,Participate in fundraising activities to support congregational activities or facilities.,0.45,fundraising often needs in person donor relations
+12977,"Directors, Religious Activities and Education",Develop or direct study courses or religious education programs within congregations.,0.45,develop is info work direct requires leading humans
+12975,"Directors, Religious Activities and Education",Identify and recruit potential volunteer workers.,0.45,identifying candidates feasible recruiting needs persuasion
+12978,"Directors, Religious Activities and Education",Select appropriate curricula or class structures for educational programs.,0.80,curriculum research and selection
+12983,"Directors, Religious Activities and Education","Schedule special events, such as camps, conferences, meetings, seminars, or retreats.",0.75,scheduling and logistics coordination
+12980,"Directors, Religious Activities and Education","Counsel individuals regarding interpersonal, health, financial, or religious problems.",0.15,personal counseling needs human trust
+12982,"Directors, Religious Activities and Education",Collaborate with other ministry members to establish goals and objectives for religious education programs or to develop ways to encourage program participation.,0.45,collaboration typically needs human interaction
+12976,"Directors, Religious Activities and Education",Train and supervise religious education instructional staff.,0.30,training materials feasible supervision needs human presence
+12979,"Directors, Religious Activities and Education","Implement program plans by ordering needed materials, scheduling speakers, reserving space, or handling other administrative details.",0.75,logistics and ordering via calls and emails
+12981,"Directors, Religious Activities and Education",Analyze member participation or changes in congregational emphasis to determine needs for religious education.,0.85,data analysis task
+12986,"Directors, Religious Activities and Education",Analyze revenue and program cost data to determine budget priorities.,0.85,financial data analysis task
+12987,"Directors, Religious Activities and Education","Attend workshops, seminars, or conferences to obtain program ideas, information, or resources.",0.25,attending events requires physical presence
+12991,"Directors, Religious Activities and Education",Visit congregational members' homes or arrange for pastoral visits to provide information or resources regarding religious education programs.,0.25,home visits require physical presence
+12985,"Directors, Religious Activities and Education","Publicize programs through sources, such as newsletters, bulletins, or mailings.",0.80,content creation and digital distribution
+12984,"Directors, Religious Activities and Education","Confer with clergy members, congregational officials, or congregational organizations to encourage support of or participation in religious education activities.",0.45,conferring to persuade needs human relationship
+20750,"Directors, Religious Activities and Education",Plan fundraising activities for the church.,0.75,fundraising planning is info work
+12988,"Directors, Religious Activities and Education","Locate and distribute resources, such as periodicals or curricula, to enhance the effectiveness of educational programs.",0.80,resource research and digital distribution
+12989,"Directors, Religious Activities and Education","Participate in denominational activities aimed at goals, such as promoting interfaith understanding or providing aid to new or small congregations.",0.25,participation requires human presence
+12992,"Directors, Religious Activities and Education","Interpret religious education activities to the public through speaking, leading discussions, or writing articles for local or national publications.",0.55,writing feasible speaking and discussion needs presence
+12990,"Directors, Religious Activities and Education",Plan or conduct conferences dealing with the interpretation of religious ideas or convictions.,0.35,planning feasible conducting needs human presence
+5662,"Business Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as financial accounting, principles of marketing, and operations management.",0.35,preparation feasible live lecture delivery needs presence
+5663,"Business Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",0.85,grading written work is text analysis
+5667,"Business Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.15,live classroom facilitation needs human presence
+5665,"Business Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,course material preparation is text work
+5670,"Business Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional organizations and conferences.",0.50,reading literature feasible networking needs human presence
+5668,"Business Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, and course materials and methods of instruction.",0.85,curriculum planning is info work
+5666,"Business Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.85,record keeping is data work
+5681,"Business Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.55,research and writing feasible publishing needs human authorship
+5664,"Business Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",0.55,compiling and grading feasible proctoring needs presence
+5669,"Business Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.25,office hours need live human availability
+5673,"Business Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,0.35,collegial collaboration needs human interaction
+5671,"Business Teachers, Postsecondary",Advise students on academic and vocational curricula and career issues.,0.55,advising feasible via chat but needs personalized trust
+20058,"Business Teachers, Postsecondary",Develop and maintain course Web sites.,0.90,website development is technical text work
+5674,"Business Teachers, Postsecondary","Collaborate with members of the business community to improve programs, to develop new programs, and to provide student access to learning opportunities, such as internships.",0.35,relationship building with business community needs presence
+5676,"Business Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",0.15,committee service requires institutional human role
+5672,"Business Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",0.80,material research and selection
+5678,"Business Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,0.90,bibliography compilation is research work
+5677,"Business Teachers, Postsecondary",Participate in campus and community events.,0.05,campus events require physical presence
+21108,"Business Teachers, Postsecondary",Mentor new faculty.,0.20,mentoring needs human relationship and trust
+5679,"Business Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",0.10,department head role needs formal human authority
+5675,"Business Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",0.40,some admin work but recruitment events need presence
+5682,"Business Teachers, Postsecondary",Act as advisers to student organizations.,0.25,advising student orgs needs ongoing human presence
+5680,"Business Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",0.40,supervision needs human accountability though review feasible
+5683,"Business Teachers, Postsecondary",Provide professional consulting services to government or industry.,0.55,analysis and advice feasible formal consulting needs human credential
+5684,"Business Teachers, Postsecondary",Write grant proposals to procure external research funding.,0.85,grant writing is text work
+5688,"Computer Science Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",0.90,course material preparation is text work
+5689,"Computer Science Teachers, Postsecondary","Compile, administer, and grade examinations or assign this work to others.",0.55,compiling and grading feasible proctoring needs presence
+5687,"Computer Science Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as programming, data structures, and software design.",0.35,preparation feasible live lecture delivery needs presence
+5685,"Computer Science Teachers, Postsecondary","Evaluate and grade students' class work, laboratory work, assignments, and papers.",0.85,grading written and code work is text analysis
+5686,"Computer Science Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",0.85,record keeping is data work
+5690,"Computer Science Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",0.50,reading literature feasible networking needs human presence
+5692,"Computer Science Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, and course materials and methods of instruction.",0.85,curriculum planning is info work
+5694,"Computer Science Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,0.25,office hours need live human availability
+5696,"Computer Science Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,0.55,advising feasible via chat but needs personalized trust
+5691,"Computer Science Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",0.15,live classroom facilitation needs human presence

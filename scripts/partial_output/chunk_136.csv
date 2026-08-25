@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+12612,Adhesive Bonding Machine Operators and Tenders,Measure and mix ingredients to prepare glue.,0.00,physical measuring and mixing of glue
+14368,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",Add specified amounts of chemicals to equipment at required times to maintain solution levels and concentrations.,0.00,physical chemical dosing at equipment
+14372,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Observe machine operations, gauges, or thermometers, and adjust controls to maintain specified conditions.",0.00,physical gauge observation and control adjustment
+14373,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Set controls to regulate temperature and length of cycles, and start conveyors, pumps, agitators, and machines.",0.00,physical control setting and machine startup
+14369,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Drain, clean, and refill machines or tanks at designated intervals, using cleaning solutions or water.",0.00,physical draining and cleaning of tanks
+14367,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Operate or tend machines to wash and remove impurities from items such as barrels or kegs, glass products, tin plate surfaces, dried fruit, pulp, animal stock, coal, manufactured articles, plastic, or rubber.",0.00,physical machine operation to wash items
+14375,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Record gauge readings, materials used, processing times, or test results in production logs.",0.05,requires physical gauge reading before logging
+14374,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",Examine and inspect machines to detect malfunctions.,0.00,physical inspection of machines
+14370,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Measure, weigh, or mix cleaning solutions, using measuring tanks, calibrated rods or suction tubes.",0.00,physical measuring and mixing of solutions
+14371,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Draw samples for laboratory analysis, or test solutions for conformance to specifications, such as acidity or specific gravity.",0.00,physical sample collection and testing
+14376,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Adjust, clean, and lubricate mechanical parts of machines, using hand tools and grease guns.",0.00,physical maintenance with hand tools
+14377,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Load machines with objects to be processed and unload them after cleaning, placing them on conveyors or racks.",0.00,physical loading and unloading of machines
+8544,Cooling and Freezing Equipment Operators and Tenders,"Record temperatures, amounts of materials processed, or test results on report forms.",0.05,requires physical reading before recording
+8543,Cooling and Freezing Equipment Operators and Tenders,"Monitor pressure gauges, ammeters, flowmeters, thermometers, or products, and adjust controls to maintain specified conditions, such as feed rate, product consistency, temperature, air pressure, and machine speed.",0.00,physical gauge monitoring and control adjustment
+8545,Cooling and Freezing Equipment Operators and Tenders,"Read dials and gauges on panel control boards to ascertain temperatures, alkalinities, and densities of mixtures, and turn valves to obtain specified mixtures.",0.00,physical dial reading and valve turning
+8547,Cooling and Freezing Equipment Operators and Tenders,"Start machinery, such as pumps, feeders, or conveyors, and turn valves to heat, admit, or transfer products, refrigerants, or mixes.",0.00,physical machinery startup and valve turning
+8546,Cooling and Freezing Equipment Operators and Tenders,"Correct machinery malfunctions by performing actions such as removing jams, and inform supervisors of malfunctions as necessary.",0.05,mostly physical jam removal on site
+8548,Cooling and Freezing Equipment Operators and Tenders,"Assemble equipment, and attach pipes, fittings, or valves, using hand tools.",0.00,physical assembly with hand tools
+8553,Cooling and Freezing Equipment Operators and Tenders,"Measure or weigh specified amounts of ingredients or materials, and load them into tanks, vats, hoppers, or other equipment.",0.00,physical measuring and loading of ingredients
+8542,Cooling and Freezing Equipment Operators and Tenders,Adjust machine or freezer speed and air intake to obtain desired consistency and amount of product.,0.00,physical machine and airflow adjustment
+8550,Cooling and Freezing Equipment Operators and Tenders,Weigh packages and adjust freezer air valves or switches on filler heads to obtain specified amounts of product in each container.,0.00,physical weighing and valve adjustment
+8557,Cooling and Freezing Equipment Operators and Tenders,"Inspect and flush lines with solutions or steam, and spray equipment with sterilizing solutions.",0.00,physical flushing and spraying of equipment
+8554,Cooling and Freezing Equipment Operators and Tenders,"Load and position wrapping paper, sticks, bags, or cartons into dispensing machines.",0.00,physical loading of packaging materials
+8559,Cooling and Freezing Equipment Operators and Tenders,"Sample and test product characteristics such as specific gravity, acidity, and sugar content, using hydrometers, pH meters, or refractometers.",0.00,physical sampling and testing of product
+8552,Cooling and Freezing Equipment Operators and Tenders,"Start agitators to blend contents, or start beater, scraper, and expeller blades to mix contents with air and prevent sticking.",0.00,physical activation of mixing equipment
+8555,Cooling and Freezing Equipment Operators and Tenders,"Insert forming fixtures, and start machines that cut frozen products into measured portions or specified shapes.",0.00,physical fixture insertion and machine operation
+8556,Cooling and Freezing Equipment Operators and Tenders,"Place or position containers into equipment, and remove containers after completion of cooling or freezing processes.",0.00,physical placement of containers
+8549,Cooling and Freezing Equipment Operators and Tenders,"Scrape, dislodge, or break excess frost, ice, or frozen product from equipment to prevent accumulation, using hands and hand tools.",0.00,physical scraping of frost by hand
+8560,Cooling and Freezing Equipment Operators and Tenders,Activate mechanical rakes to regulate flow of ice from storage bins to vats.,0.00,physical activation of mechanical rakes
+8551,Cooling and Freezing Equipment Operators and Tenders,Stir material with spoons or paddles to mix ingredients or allow even cooling and prevent coagulation.,0.00,physical stirring by hand
+14395,Etchers and Engravers,"Inspect etched work for depth of etching, uniformity, and defects, using calibrated microscopes, gauges, fingers, or magnifying lenses.",0.00,physical and tactile inspection of etched work
+14386,Etchers and Engravers,"Examine sketches, diagrams, samples, blueprints, or photographs to decide how designs are to be etched, cut, or engraved onto workpieces.",0.65,visual analysis of references to decide design approach
+14385,Etchers and Engravers,Clean and polish engraved areas.,0.00,physical cleaning and polishing
+14396,Etchers and Engravers,"Prepare workpieces for etching or engraving by cutting, sanding, cleaning, polishing, or treating them with wax, acid resist, lime, etching powder, or light-sensitive enamel.",0.00,physical workpiece preparation
+14379,Etchers and Engravers,"Engrave and print patterns, designs, etchings, trademarks, or lettering onto flat or curved surfaces of a wide variety of metal, glass, plastic, or paper items, using hand tools or hand-held power tools.",0.00,physical engraving using hand or power tools
+14388,Etchers and Engravers,"Prepare etching chemicals according to formulas, diluting acid with water to obtain solutions of specified concentration.",0.00,physical chemical preparation
+21027,Etchers and Engravers,Use computer software to design patterns for engraving.,0.85,digital design work using software
+14409,Etchers and Engravers,"Expose workpieces to acid to develop etch patterns such as designs, lettering, or figures.",0.00,physical acid exposure process
+14378,Etchers and Engravers,"Adjust depths and sizes of cuts by adjusting heights of worktables, or by adjusting machine-arm gauges.",0.00,physical machine adjustment
+14383,Etchers and Engravers,"Measure and compute dimensions of lettering, designs, or patterns to be engraved.",0.35,mixes physical measuring with digital computation
+14394,Etchers and Engravers,"Neutralize workpieces to remove acid, wax, or enamel, using water, solvents, brushes, or specialized machines.",0.00,physical chemical removal from workpieces
+14382,Etchers and Engravers,"Examine engraving for quality of cut, burrs, rough spots, and irregular or incomplete engraving.",0.05,mostly physical and tactile inspection
+14399,Etchers and Engravers,"Transfer image to workpiece, using contact printer, pantograph stylus, silkscreen printing device, or stamp pad.",0.00,physical image transfer onto workpiece
+14392,Etchers and Engravers,"Set reduction scales to attain specified sizes of reproduction on workpieces, and set pantograph controls for required heights, depths, and widths of cuts.",0.00,physical machine control setting
+14398,Etchers and Engravers,"Print proofs or examine designs to verify accuracy of engraving, and rework engraving as required.",0.05,mostly physical printing and rework
+14380,Etchers and Engravers,"Position and clamp workpieces, plates, or rollers in holding fixtures.",0.00,physical clamping of workpieces
+14404,Etchers and Engravers,"Remove wax or tape from etched glassware by using a stylus or knife, or by immersing ware in hot water.",0.00,physical wax removal from glassware
+14401,Etchers and Engravers,"Guide stylus over template, causing cutting tool to duplicate design or letters on workpiece.",0.00,physical stylus guidance over template
+14384,Etchers and Engravers,Start machines and lower cutting tools to beginning points on patterns.,0.00,physical machine start and tool positioning
+14381,Etchers and Engravers,"Determine machine settings, and move bars or levers to reproduce designs on rollers or plates.",0.15,setting decision plus physical lever movement
+14402,Etchers and Engravers,Remove completed workpieces and place them in trays.,0.00,physical removal and placement of parts
+14397,Etchers and Engravers,Insert cutting tools or bits into machines and secure them with wrenches.,0.00,physical tool insertion and securing
+14391,Etchers and Engravers,"Sandblast exposed areas of glass to cut designs in surfaces, using spray guns.",0.00,physical sandblasting of glass
+14400,Etchers and Engravers,"Sketch, trace, or scribe layout lines and designs on workpieces, plates, dies, or rollers, using compasses, scribers, gravers, or pencils.",0.00,physical layout scribing on workpieces
+14407,Etchers and Engravers,Fill etched characters with opaque paste to improve readability.,0.00,physical paste filling of etched characters
+14408,Etchers and Engravers,Brush or wipe acid over engraving to darken or highlight inscriptions.,0.00,physical acid application to engraving
+23666,"Molders, Shapers, and Casters, Except Metal and Plastic",Read work orders or examine parts to determine parts or sections of products to be produced.,0.25,reading work orders is digital but examining parts is physical
+23667,"Molders, Shapers, and Casters, Except Metal and Plastic","Trim or remove excess material, using scrapers, knives, or band saws.",0.00,physical trimming with hand tools
+23668,"Molders, Shapers, and Casters, Except Metal and Plastic",Brush or spray mold surfaces with parting agents or insert paper into molds to ensure smoothness and prevent sticking or seepage.,0.00,physical spraying of mold surfaces
+23669,"Molders, Shapers, and Casters, Except Metal and Plastic","Engrave or stamp identifying symbols, letters, or numbers on products.",0.00,physical engraving or stamping of products
+23670,"Molders, Shapers, and Casters, Except Metal and Plastic","Assemble, insert, and adjust wires, tubes, cores, fittings, rods, or patterns into molds, using hand tools and depth gauges.",0.00,physical assembly into molds
+23671,"Molders, Shapers, and Casters, Except Metal and Plastic","Clean, finish, and lubricate molds and mold parts.",0.00,physical cleaning and lubrication of molds
+23672,"Molders, Shapers, and Casters, Except Metal and Plastic",Separate models or patterns from molds and examine products for accuracy.,0.00,physical separation and inspection of products
+23673,"Molders, Shapers, and Casters, Except Metal and Plastic",Set the proper operating temperature for each casting.,0.10,temperature decision plus physical dial setting
+23674,"Molders, Shapers, and Casters, Except Metal and Plastic","Load or stack filled molds in ovens, dryers, or curing boxes, or on storage racks or carts.",0.00,physical loading of molds
+23675,"Molders, Shapers, and Casters, Except Metal and Plastic","Align and assemble parts to produce completed products, using gauges and hand tools.",0.00,physical assembly of parts
+23676,"Molders, Shapers, and Casters, Except Metal and Plastic","Operate and adjust controls of heating equipment to melt material or to cure, dry, or bake filled molds.",0.00,physical operation of heating equipment
+23677,"Molders, Shapers, and Casters, Except Metal and Plastic",Select sizes and types of molds according to instructions.,0.30,rule based mold selection decision
+23678,"Molders, Shapers, and Casters, Except Metal and Plastic","Patch broken edges or fractures, using clay or plaster.",0.00,physical patching with clay or plaster
+23679,"Molders, Shapers, and Casters, Except Metal and Plastic",Withdraw cores or other loose mold members after castings solidify.,0.00,physical withdrawal of mold cores
+23680,"Molders, Shapers, and Casters, Except Metal and Plastic","Repair mold defects, such as cracks or broken edges, using patterns, mold boxes, or hand tools.",0.00,physical repair of mold defects
+23681,"Molders, Shapers, and Casters, Except Metal and Plastic","Measure and cut products to specified dimensions, using measuring and cutting instruments.",0.00,physical measuring and cutting
+23682,"Molders, Shapers, and Casters, Except Metal and Plastic","Smooth surfaces of molds, using scraping tools or sandpaper.",0.00,physical smoothing of mold surfaces
+23683,"Molders, Shapers, and Casters, Except Metal and Plastic","Measure ingredients and mix molding, casting material, or sealing compounds to prescribed consistencies, according to formulas.",0.00,physical measuring and mixing of materials
+23684,"Molders, Shapers, and Casters, Except Metal and Plastic",Remove excess materials and level and smooth wet mold mixtures.,0.00,physical removal and leveling of wet mixtures
+23687,"Molders, Shapers, and Casters, Except Metal and Plastic","Verify dimensions of products, using measuring instruments, such as calipers, vernier gauges, or protractors.",0.00,physical dimension verification with instruments
+23688,"Molders, Shapers, and Casters, Except Metal and Plastic","Bore holes or cut grates, risers, or pouring spouts in molds, using power tools.",0.00,physical boring and cutting of molds
+23690,"Molders, Shapers, and Casters, Except Metal and Plastic",Tap or tilt molds to ensure uniform distribution of materials.,0.00,physical tapping and tilting of molds
+23691,"Molders, Shapers, and Casters, Except Metal and Plastic","Construct or form molds for use in casting clay or plaster objects, using plaster, fiberglass, rubber, casting machines, patterns, or flasks.",0.00,physical construction of molds
+23692,"Molders, Shapers, and Casters, Except Metal and Plastic","Pour, pack, spread, or press plaster, concrete, or other materials into or around models or molds.",0.00,physical pouring and pressing of materials
+12615,"Stone Cutters and Carvers, Manufacturing","Verify depths and dimensions of cuts or carvings to ensure adherence to specifications, blueprints, or models, using measuring instruments.",0.00,physical measurement of carvings
+12621,"Stone Cutters and Carvers, Manufacturing",Move fingers over surfaces of carvings to ensure smoothness of finish.,0.00,physical tactile inspection of surfaces
+12619,"Stone Cutters and Carvers, Manufacturing","Shape, trim, or touch up roughed-out designs with appropriate tools to finish carvings.",0.00,physical shaping and finishing of carvings
+12616,"Stone Cutters and Carvers, Manufacturing","Lay out designs or dimensions from sketches or blueprints on stone surfaces, freehand or by transferring them from tracing paper, using scribes or chalk and measuring instruments.",0.00,physical layout of designs on stone
+12624,"Stone Cutters and Carvers, Manufacturing","Cut, shape, and finish rough blocks of building or monumental stone, according to diagrams or patterns.",0.00,physical cutting and shaping of stone
+12618,"Stone Cutters and Carvers, Manufacturing","Drill holes and cut or carve moldings and grooves in stone, according to diagrams and patterns.",0.00,physical drilling and carving of stone
+12620,"Stone Cutters and Carvers, Manufacturing","Select chisels, pneumatic or surfacing tools, or sandblasting nozzles, and determine sequence of use.",0.20,tool selection and sequencing decision
+12617,"Stone Cutters and Carvers, Manufacturing","Study artistic objects or graphic materials, such as models, sketches, or blueprints, to plan carving or cutting techniques.",0.60,visual study and planning of carving technique
+12614,"Stone Cutters and Carvers, Manufacturing","Carve designs or figures in full or bas relief on stone, employing knowledge of stone carving techniques and sense of artistry to produce carvings consistent with designers' plans.",0.00,physical artistic stone carving
+12622,"Stone Cutters and Carvers, Manufacturing","Carve rough designs freehand or by chipping along marks on stone, using mallets and chisels or pneumatic tools.",0.00,physical carving with mallets and chisels
+12623,"Stone Cutters and Carvers, Manufacturing","Guide nozzles over stone, following stencil outlines, or chip along marks to create designs or to work surfaces down to specified finishes.",0.00,physical nozzle guidance over stone
+12625,"Stone Cutters and Carvers, Manufacturing","Smooth surfaces of carvings, using rubbing stones.",0.00,physical smoothing of carvings
+12628,"Stone Cutters and Carvers, Manufacturing","Load sandblasting equipment with abrasives, attach nozzles to hoses, and turn valves to admit compressed air and activate jets.",0.00,physical loading of sandblasting equipment
+12629,"Stone Cutters and Carvers, Manufacturing","Dress stone surfaces, using bushhammers.",0.00,physical dressing of stone surfaces
+12626,"Stone Cutters and Carvers, Manufacturing","Remove or add stencils during blasting to create differing cut depths, intricate designs, or rough, pitted finishes.",0.00,physical stencil handling during blasting
+12627,"Stone Cutters and Carvers, Manufacturing",Copy drawings on rough clay or plaster models.,0.00,physical copying of drawings onto models
+12632,"Glass Blowers, Molders, Benders, and Finishers","Heat glass to pliable stage, using gas flames or ovens and rotating glass to heat it uniformly.",0.00,physical heating and rotating of glass
+12630,"Glass Blowers, Molders, Benders, and Finishers","Inspect, weigh, and measure products to verify conformance to specifications, using instruments such as micrometers, calipers, magnifiers, or rulers.",0.00,physical inspection and measurement of products
+12631,"Glass Blowers, Molders, Benders, and Finishers","Record manufacturing information, such as quantities, sizes, or types of goods produced.",0.05,requires physical observation before recording
+12646,"Glass Blowers, Molders, Benders, and Finishers","Place glass into dies or molds of presses and control presses to form products, such as glassware components or optical blanks.",0.00,physical placement and pressing of glass
+12644,"Glass Blowers, Molders, Benders, and Finishers",Spray or swab molds with oil solutions to prevent adhesion of glass.,0.00,physical spraying of molds
+12633,"Glass Blowers, Molders, Benders, and Finishers","Blow tubing into specified shapes to prevent glass from collapsing, using compressed air or own breath, or blow and rotate gathers in molds or on boards to obtain final shapes.",0.00,physical glass blowing requiring human body
+12638,"Glass Blowers, Molders, Benders, and Finishers",Determine types and quantities of glass required to fabricate products.,0.55,planning decision on material quantities
+12634,"Glass Blowers, Molders, Benders, and Finishers","Set up and adjust machine press stroke lengths and pressures and regulate oven temperatures, according to glass types to be processed.",0.00,physical machine setup and adjustment
+12635,"Glass Blowers, Molders, Benders, and Finishers","Shape, bend, or join sections of glass, using paddles, pressing and flattening hand tools, or cork.",0.00,physical shaping of glass with tools
+12647,"Glass Blowers, Molders, Benders, and Finishers","Design and create glass objects, using blowpipes and artisans' hand tools and equipment.",0.00,physical artisan glassblowing
+12649,"Glass Blowers, Molders, Benders, and Finishers","Operate and maintain finishing machines to grind, drill, sand, bevel, decorate, wash, or polish glass or glass products.",0.00,physical operation of finishing machines
+12648,"Glass Blowers, Molders, Benders, and Finishers",Repair broken scrolls by replacing them with new sections of tubing.,0.00,physical repair of scrolls
+12637,"Glass Blowers, Molders, Benders, and Finishers","Develop sketches of glass products into blueprint specifications, applying knowledge of glass technology and glass blowing.",0.55,digital blueprint drafting from sketches
+12640,"Glass Blowers, Molders, Benders, and Finishers",Superimpose bent tubing on asbestos patterns to ensure accuracy.,0.00,physical alignment of tubing on patterns
+12645,"Glass Blowers, Molders, Benders, and Finishers","Cut lengths of tubing to specified sizes, using files or cutting wheels.",0.00,physical cutting of tubing
+12639,"Glass Blowers, Molders, Benders, and Finishers",Place rubber hoses on ends of tubing and charge tubing with gas.,0.00,physical hose placement and gas charging
+21210,"Potters, Manufacturing",Operate gas or electric kilns to fire pottery pieces.,0.00,physical operation of kilns
+21211,"Potters, Manufacturing","Mix and apply glazes to pottery pieces, using tools, such as spray guns.",0.00,physical mixing and spraying of glazes
+15118,"Potters, Manufacturing","Raise and shape clay into wares, such as vases and pitchers, on revolving wheels, using hands, fingers, and thumbs.",0.00,physical hand shaping of clay on wheel
+15115,"Potters, Manufacturing",Adjust wheel speeds according to the feel of the clay as pieces enlarge and walls become thinner.,0.00,physical tactile wheel speed adjustment
+15117,"Potters, Manufacturing","Position balls of clay in centers of potters' wheels, and start motors or pump treadles with feet to revolve wheels.",0.00,physical positioning of clay on wheel
+15122,"Potters, Manufacturing",Move pieces from wheels so that they can dry.,0.00,physical moving of pieces
+15119,"Potters, Manufacturing","Prepare work for sale or exhibition, and maintain relationships with retail, pottery, art, and resource networks that can facilitate sale or exhibition of work.",0.30,relationship maintenance plus physical work preparation
+21212,"Potters, Manufacturing",Attach handles to pottery pieces.,0.00,physical attachment of handles
+15114,"Potters, Manufacturing","Press thumbs into centers of revolving clay to form hollows, and press on the inside and outside of emerging clay cylinders with hands and fingers, gradually raising and shaping clay to desired forms and sizes.",0.00,physical hand shaping of clay
+21213,"Potters, Manufacturing",Pack and ship pottery to stores or galleries for retail sale.,0.00,physical packing and shipping
+15120,"Potters, Manufacturing","Smooth surfaces of finished pieces, using rubber scrapers and wet sponges.",0.00,physical surface smoothing
+15123,"Potters, Manufacturing",Pull wires through bases of articles and wheels to separate finished pieces.,0.00,physical wire pulling to separate pieces
+21214,"Potters, Manufacturing",Design spaces to display pottery for sale.,0.55,design planning task for display space
+15127,"Potters, Manufacturing","Verify accuracy of shapes and sizes of objects, using calipers and templates.",0.00,physical accuracy verification with instruments
+15124,"Potters, Manufacturing","Examine finished ware for defects and measure dimensions, using rule and thickness gauge.",0.00,physical inspection and measurement of ware
+15126,"Potters, Manufacturing","Maintain supplies of tools, equipment, and materials, and order additional supplies as needed.",0.50,inventory tracking and digital ordering of supplies
+15131,"Potters, Manufacturing",Operate pug mills to blend and extrude clay.,0.00,physical operation of pug mills
+15125,"Potters, Manufacturing",Perform test-fires of pottery to determine how to achieve specific colors and textures.,0.00,physical test firing of pottery

@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+19337,Nursing Assistants,"Set up treating or testing equipment, such as oxygen tents, portable radiograph (x-ray) equipment, or overhead irrigation bottles, as directed by a physician or nurse.",0.05,physical setup of clinical equipment on site
+19338,Nursing Assistants,"Stock or issue medical supplies, such as dressing packs or treatment trays.",0.10,physical stocking of medical supplies
+19339,Nursing Assistants,"Supply, collect, or empty bedpans.",0.00,purely physical bedside care task
+19340,Nursing Assistants,"Transport patients to treatment units, testing units, operating rooms, or other areas, using wheelchairs, stretchers, or moveable beds.",0.00,physically transporting patients
+19341,Nursing Assistants,Turn or reposition bedridden patients.,0.00,physically repositioning patients
+19342,Nursing Assistants,"Undress, wash, and dress patients who are unable to do so for themselves.",0.00,physically undressing washing dressing patients
+19343,Nursing Assistants,"Wash, groom, shave, or drape patients to prepare them for surgery, treatment, or examination.",0.00,physically prepping patients for surgery
+19344,Nursing Assistants,"Exercise patients who are comatose, paralyzed, or have restricted mobility.",0.00,physically exercising immobile patients
+19345,Nursing Assistants,Explain medical instructions to patients or family members.,0.40,benefits from in-person reassurance with patients or family
+19346,Nursing Assistants,"Lift or assist others to lift patients to move them on or off beds, examination tables, surgical tables, or stretchers.",0.00,physically lifting patients
+19347,Nursing Assistants,"Provide information, such as directions, visiting hours, or patient status information to visitors or callers.",0.70,mostly information provision to callers or visitors
+19348,Nursing Assistants,"Transport specimens, laboratory items, or pharmacy items, ensuring proper documentation and delivery to authorized personnel.",0.05,physical transport of specimens with chain of custody
+19349,Orderlies,"Answer patient call signals, signal lights, bells, or intercom systems to determine patients' needs.",0.05,requires physical presence to respond to patient needs
+19350,Orderlies,Carry messages or documents between departments.,0.05,physically carrying items between departments
+19351,Orderlies,"Change soiled linens, such as bed linens, drapes, or cubicle curtains.",0.00,physically changing soiled linens
+19352,Orderlies,"Clean and sanitize patient rooms, bathrooms, examination rooms, or other patient areas.",0.00,physically cleaning patient rooms
+19353,Orderlies,"Clean equipment, such as wheelchairs, hospital beds, or portable medical equipment, documenting needed repairs or maintenance.",0.05,mostly physical cleaning of equipment
+19354,Orderlies,"Collect and transport infectious or hazardous waste in closed containers for sterilization or disposal, in accordance with applicable law, standards, or policies.",0.00,physically handling hazardous waste
+19355,Orderlies,Collect soiled linen or trash.,0.00,physically collecting linen or trash
+19356,Orderlies,"Disinfect or sterilize equipment or supplies, using germicides or sterilizing equipment.",0.00,physically disinfecting equipment
+19357,Orderlies,"Lift or assist others to lift patients to move them on or off beds, examination tables, surgical tables, or stretchers.",0.00,physically lifting patients
+19358,Orderlies,Position or hold patients in position for surgical preparation.,0.00,physically positioning patients for surgery
+19359,Orderlies,"Respond to emergency situations, such as emergency medical calls, security calls, or fire alarms.",0.00,requires physical presence for emergency response
+19360,Orderlies,Restrain patients to prevent violence or injury or to assist physicians or nurses to administer treatments.,0.00,physically restraining patients
+19361,Orderlies,Serve or collect food trays.,0.00,physically serving food trays
+19362,Orderlies,"Stock or issue medical supplies, such as dressing packs or treatment trays.",0.10,physical stocking of medical supplies
+19363,Orderlies,"Stock utility rooms, nonmedical storage rooms, or cleaning carts with supplies.",0.05,physically stocking supply rooms
+19365,Orderlies,Transport bodies to the morgue.,0.00,physically transporting bodies
+19366,Orderlies,"Transport patients to treatment units, testing units, operating rooms, or other areas, using wheelchairs, stretchers, or moveable beds.",0.00,physically transporting patients
+19367,Orderlies,Transport portable medical equipment or medical supplies between rooms or departments.,0.00,physically transporting equipment
+19368,Orderlies,"Transport specimens, laboratory items, or pharmacy items, ensuring proper documentation and delivery to authorized personnel.",0.05,physical transport of specimens with documentation
+19369,Orderlies,"Turn or reposition bedridden patients, alone or with assistance, to prevent bedsores.",0.00,physically repositioning patients
+19370,Orderlies,"Provide physical support to patients to assist them to perform daily living activities, such as getting out of bed, bathing, dressing, using the toilet, standing, walking, or exercising.",0.00,physical assistance with daily living activities
+19371,Orderlies,"Separate collected materials for disposal, recycling, or reuse, in accordance with environmental policies.",0.05,physically sorting waste materials
+19373,Phlebotomists,"Collect fluid or tissue samples, using appropriate collection procedures.",0.00,physical licensed sample collection from patient body
+19374,Phlebotomists,"Dispose of blood or other biohazard fluids or tissue, in accordance with applicable laws, standards, or policies.",0.05,physically disposing of biohazard waste
+19375,Phlebotomists,"Dispose of contaminated sharps, in accordance with applicable laws, standards, and policies.",0.05,physically disposing of sharps
+19376,Phlebotomists,Document route of specimens from collection to laboratory analysis and diagnosis.,0.85,documentation and record tracking task
+19377,Phlebotomists,"Draw blood from arteries, using arterial collection techniques.",0.00,physical licensed arterial blood draw
+19378,Phlebotomists,"Draw blood from capillaries by dermal puncture, such as heel or finger stick methods.",0.00,physical licensed capillary blood draw
+19379,Phlebotomists,"Draw blood from veins by vacuum tube, syringe, or butterfly venipuncture methods.",0.00,physical licensed venipuncture
+19380,Phlebotomists,Explain fluid or tissue collection procedures to patients.,0.35,in-person patient explanation before a physical procedure
+19381,Phlebotomists,Match laboratory requisition forms to specimen tubes.,0.20,requires physically matching forms to specimen tubes
+19382,Phlebotomists,"Organize or clean blood-drawing trays, ensuring that all instruments are sterile and all needles, syringes, or related items are of first-time use.",0.00,physically organizing and sterilizing trays
+19383,Phlebotomists,"Administer subcutaneous or intramuscular injects, in accordance with licensing restrictions.",0.00,physical licensed injection administration
+19384,Phlebotomists,"Calibrate or maintain machines, such as those used for plasma collection.",0.05,physical calibration and maintenance of machines
+19385,Phlebotomists,"Collect specimens at specific time intervals for tests, such as those assessing therapeutic drug levels.",0.00,physical specimen collection at timed intervals
+19386,Phlebotomists,Conduct hemoglobin tests to ensure donor iron levels are normal.,0.05,physical administration of hemoglobin test
+19387,Phlebotomists,"Conduct standards tests, such as blood alcohol, blood culture, oral glucose tolerance, glucose screening, blood smears, or peak and trough drug levels tests.",0.05,physical administration of lab tests
+19388,Phlebotomists,"Determine donor suitability, according to interview results, vital signs, and medical history.",0.30,mixes in-person interview and vitals with data review
+19389,Phlebotomists,"Enter patient, specimen, insurance, or billing information into computer.",0.85,computer data entry task
+19390,Phlebotomists,"Monitor blood or plasma donors during and after procedures to ensure health, safety, and comfort.",0.05,requires physical presence to monitor donor safety
+19392,Phlebotomists,Process blood or other fluid samples for further analysis by other medical professionals.,0.05,physical sample processing
+19393,Phlebotomists,Provide sample analysis results to physicians to assist diagnosis.,0.75,communicating results is mostly information transfer
+19394,Phlebotomists,Serve refreshments to donors to ensure absorption of sugar into their systems.,0.00,physically serving refreshments
+19395,Phlebotomists,Train other medical personnel in phlebotomy or laboratory techniques.,0.15,hands-on clinical skill training needs physical demonstration
+19396,Phlebotomists,Transport specimens or fluid samples from collection sites to laboratories.,0.00,physically transporting specimens
+19547,"Wholesale and Retail Buyers, Except Farm Products",Analyze environmental aspects of competing merchandise when making buying decisions.,0.85,research and analysis of merchandise attributes
+19548,"Wholesale and Retail Buyers, Except Farm Products",Compare transportation options to determine the most energy-efficient options.,0.85,analytical comparison of transportation options
+19549,"Wholesale and Retail Buyers, Except Farm Products",Develop strategies to advertise green products or merchandise to consumers.,0.80,drafting marketing strategy content
+19550,"Wholesale and Retail Buyers, Except Farm Products","Identify opportunities to buy green commodities, such as alternative energy, water, or carbon-neutral products for resale to consumers.",0.80,research task identifying opportunities not committing funds
+19551,"Wholesale and Retail Buyers, Except Farm Products",Monitor consumer preferences or environmental trends to determine the best way to introduce new green products.,0.85,market and trend research and analysis
+19552,Regulatory Affairs Specialists,"Determine regulations or procedures related to the management, collection, reuse, recovery, or recycling of packaging waste.",0.85,regulatory research task
+19553,Regulatory Affairs Specialists,"Determine requirements applying to treatment, storage, shipment, or disposal of potentially hazardous production-related waste.",0.85,regulatory research task
+19554,Regulatory Affairs Specialists,"Determine the legal implications of the production, supply, or use of ozone-depleting substances or equipment containing such substances.",0.80,legal research and analysis task
+19557,Regulatory Affairs Specialists,"Specialize in regulatory issues related to agriculture, such as the cultivation of green biotechnology crops or the post-market regulation of genetically altered crops.",0.80,regulatory research and analysis expertise
+19558,Training and Development Specialists,"Develop or implement training programs related to efficiency, recycling, or other issues with environmental impacts.",0.55,developing content is high but live delivery needs a human
+19559,Training and Development Specialists,"Evaluate modes of training delivery, such as in-person or virtual, to optimize training effectiveness, training costs, or environmental impacts.",0.80,comparative analysis of training delivery modes
+19570,Personal Financial Advisors,"Inform clients about tax benefits, government rebates, or other financial benefits of alternative-fuel vehicle purchases or energy-efficient home construction, improvements, or remodeling.",0.65,informational communication to clients
+19571,Personal Financial Advisors,"Recommend environmentally responsible investments, such as cleantech, alternative energy, or conservation technologies, companies, or funds.",0.35,financial advice carries fiduciary and licensing responsibility
+19572,Financial Quantitative Analysts,Analyze pricing or risks of carbon trading products.,0.85,quantitative pricing and risk analysis
+19573,Financial Quantitative Analysts,"Assess the potential impact of climate change on business financial issues, such as damage repairs, insurance costs, or potential disruptions of daily activities.",0.85,financial impact analysis
+19574,Financial Quantitative Analysts,"Develop methods of assessing or measuring corporate performance in terms of environmental, social, and governance (ESG) issues.",0.85,developing analytical assessment methods
+19575,Financial Quantitative Analysts,Develop solutions to help clients hedge carbon exposure or risk.,0.80,quantitative modeling and solution development
+19576,Financial Quantitative Analysts,"Develop tools to assess green technologies or green financial products, such as green hedge funds or social responsibility investment funds.",0.80,building analytical tools
+19807,"Arbitrators, Mediators, and Conciliators",Specialize in the negotiation and resolution of environmental conflicts involving issues such as natural resource allocation or regional development planning.,0.20,dispute resolution needs human authority and rapport
+19825,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Inform customers about issues related to responsible use and disposal of products, such as waste reduction or product or byproduct recycling or disposal.",0.55,customer communication within a sales relationship
+19826,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Present information to customers about the energy efficiency or environmental impact of scientific or technical products.,0.55,presenting information within a sales relationship
+19828,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Sell technical and scientific products that are environmentally sound or designed for environmental remediation.,0.35,closing a sale needs human trust and negotiation
+19829,Freight Forwarders,Analyze shipping routes to determine how to minimize environmental impact.,0.85,route analysis task
+19830,Freight Forwarders,"Arrange for transport, using a variety of modes, such as rail, short sea shipping, air, or roadways, to minimize carbon emissions or other environmental impacts.",0.70,arranging transport bookings via systems with some human coordination
+19831,Freight Forwarders,Consider environmental sustainability factors when determining merchandise packing methods.,0.80,analytical decision on packing methods
+19832,Freight Forwarders,Recommend shipping solutions to minimize cost or environmental impacts.,0.85,analytical recommendation task
+19833,Freight Forwarders,Review the environmental records of freight carriers to inform shipping decisions.,0.85,research review of carrier records
+19834,"Shipping, Receiving, and Inventory Clerks",Compare shipping routes or methods to determine which have the least environmental impact.,0.85,comparative analysis of shipping routes
+19995,Logistics Engineers,"Evaluate the use of inventory tracking technology, Web-based warehousing software, or intelligent conveyor systems to maximize plant or distribution center efficiency.",0.85,technology evaluation and analysis
+19996,Logistics Engineers,"Develop logistic metrics, internal analysis tools, or key performance indicators for business units.",0.85,developing metrics and analysis tools
+19997,Logistics Engineers,Identify cost-reduction or process-improvement logistic opportunities.,0.85,analysis to identify opportunities
+19998,Logistics Engineers,"Evaluate the use of technologies, such as global positioning systems (GPS), radio-frequency identification (RFID), route navigation software, or satellite linkup systems, to improve transportation eff",0.85,technology evaluation and analysis
+19999,Logistics Engineers,Prepare logistic strategies or conceptual designs for production facilities.,0.80,drafting logistics strategy and design documents
+20000,Logistics Engineers,Design comprehensive supply chains that minimize environmental impacts or costs.,0.75,complex supply chain design still information based
+20001,Logistics Engineers,"Develop or document reverse logistics management processes to ensure maximal efficiency of product recycling, reuse, or final disposal.",0.80,documenting process design
+20002,Logistics Engineers,"Conduct environmental audits for logistics activities, such as storage, distribution, or transportation.",0.60,audit mixes document review with possible site inspection
+20003,Logistics Engineers,"Create models or scenarios to predict the impact of changing circumstances, such as fuel costs, road pricing, energy taxes, or carbon emissions legislation.",0.85,predictive modeling task
+20004,Logistics Engineers,"Review global, national, or regional transportation or logistics reports for ways to improve efficiency or minimize the environmental impact of logistics activities.",0.85,research review of reports
+20005,Logistics Engineers,Determine requirements for compliance with environmental certification standards.,0.85,regulatory research task
+20006,Logistics Engineers,Provide logistical facility or capacity planning analyses for distribution or transportation functions.,0.85,planning analysis task
+20007,Logistics Engineers,Develop or document procedures to minimize or mitigate carbon output resulting from the movement of materials or products.,0.80,documenting mitigation procedures
+20008,Logistics Engineers,"Assess the environmental impact or energy efficiency of logistics activities, using carbon mitigation software.",0.85,software based analysis task
+20009,Logistics Analysts,"Remotely monitor the flow of vehicles or inventory, using Web-based logistics information systems to track vehicles or containers.",0.85,remote monitoring via software systems
+20010,Logistics Analysts,"Reorganize shipping schedules to consolidate loads, maximize vehicle usage, or limit the movement of empty vehicles or containers.",0.80,computational scheduling optimization
+20011,Logistics Analysts,"Route or reroute drivers in real time with remote route navigation software, satellite linkup systems, or global positioning systems (GPS) to improve operational efficiencies.",0.75,software based routing with some human driver coordination
+20012,Logistics Analysts,Arrange for sale or lease of excess storage or transport capacity to minimize losses or inefficiencies associated with empty space.,0.35,arranging sale or lease is a binding business transaction
+20013,Logistics Analysts,Compare locations or environmental policies of carriers or suppliers to make transportation decisions with lower environmental impact.,0.85,comparative research and analysis
+20014,Logistics Analysts,Enter carbon-output or environmental-impact data into spreadsheets or environmental management or auditing software programs.,0.85,data entry into spreadsheets or software
+20016,"Tax Examiners and Collectors, and Revenue Agents",Answer questions from taxpayers and assist them in completing tax forms.,0.65,answering routine questions but some cases need human judgment
+20057,"Judges, Magistrate Judges, and Magistrates",Provide information regarding the judicial system or other legal issues through the media and public speeches.,0.10,public speaking as an official representative of the judiciary
+20120,Family Medicine Physicians,"Train residents, medical students, and other health care professionals.",0.20,hands-on clinical teaching needs physical professional presence
+20121,Family Medicine Physicians,"Prepare government or organizational reports which include birth, death, and disease statistics, workforce evaluations, or medical status of individuals.",0.80,drafting statistical reports from records
+20122,Podiatrists,"Treat bone, muscle, and joint disorders affecting the feet and ankles.",0.00,physical licensed medical treatment
+20141,New Accounts Clerks,Process loan applications.,0.65,clerical processing but approvals need human authority
+20165,Music Therapists,Apply current technology to music therapy practices.,0.20,delivered within live hands-on therapy sessions
+20166,Music Therapists,Collaborate with others to design or implement interdisciplinary treatment programs.,0.45,collaborative planning mixed with live implementation
+20167,Music Therapists,Participate in continuing education.,0.05,continuing education is a human credentialing requirement
+20181,Coroners,"Direct activities of workers conducting autopsies, performing pathological and toxicological analyses, and preparing documents for permanent records.",0.15,directing staff and legal authority over death investigations
+20182,Personal Financial Advisors,"Recommend to clients strategies in cash management, insurance coverage, investment planning, or other areas to help them achieve their financial goals.",0.35,financial advice carries fiduciary and licensing responsibility
+20183,Personal Financial Advisors,"Review clients' accounts and plans regularly to determine whether life changes, economic changes, environmental concerns, or financial performance indicate a need for plan reassessment.",0.70,largely analytical account review
+20184,Personal Financial Advisors,"Manage client portfolios, keeping client plans up-to-date.",0.35,portfolio management carries fiduciary trading responsibility
+20185,Personal Financial Advisors,Recruit and maintain client bases.,0.20,recruiting clients needs interpersonal trust building
+20186,Personal Financial Advisors,Explain to clients the personal financial advisor's responsibilities and the types of services to be provided.,0.55,routine explanation but part of establishing client trust
+20187,Personal Financial Advisors,Investigate available investment opportunities to determine compatibility with client financial plans.,0.80,investment research and analysis
+20188,Personal Financial Advisors,Monitor financial market trends to ensure that client plans are responsive.,0.85,market trend monitoring and analysis
+20189,Personal Financial Advisors,"Recommend financial products, such as stocks, bonds, mutual funds, or insurance.",0.35,financial product recommendations carry fiduciary responsibility
+20190,Financial Examiners,Provide regulatory compliance training to employees.,0.45,training content prep high but live delivery needs a human
+20238,"Arbitrators, Mediators, and Conciliators","Apply relevant laws, regulations, policies, or precedents to reach conclusions.",0.30,legal conclusions carry binding arbitral authority
+20239,"Arbitrators, Mediators, and Conciliators",Conduct hearings to obtain information or evidence relative to disposition of claims.,0.15,conducting official hearings needs human presence and authority
+20240,"Arbitrators, Mediators, and Conciliators","Determine extent of liability according to evidence, laws, or administrative or judicial precedents.",0.25,liability determination carries binding authority
+20244,Oral and Maxillofacial Surgeons,"Perform minor cosmetic procedures, such as chin and cheekbone enhancements.",0.00,physical licensed surgical procedure
+20245,Oral and Maxillofacial Surgeons,"Perform minor facial rejuvenation procedures, including the use of Botox and laser technology.",0.00,physical licensed medical procedure
+20246,Prosthodontists,"Replace missing teeth and associated oral structures with permanent fixtures, such as implant-supported prostheses, crowns and bridges, or removable fixtures, such as dentures.",0.00,physical licensed dental procedure

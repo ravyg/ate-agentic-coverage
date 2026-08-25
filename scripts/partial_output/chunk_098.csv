@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+9607,Landscaping and Groundskeeping Workers,"Haul or spread topsoil, or spread straw over seeded soil to hold soil in place.",0.00,physical hauling and spreading outdoors
+9614,Landscaping and Groundskeeping Workers,Build forms and mix and pour cement to form garden borders.,0.00,physical construction of garden borders
+11228,"Pesticide Handlers, Sprayers, and Applicators, Vegetation","Mix pesticides, herbicides, or fungicides for application to trees, shrubs, lawns, or botanical crops.",0.00,physical mixing and handling chemicals
+11227,"Pesticide Handlers, Sprayers, and Applicators, Vegetation","Fill sprayer tanks with water and chemicals, according to formulas.",0.00,physical filling of sprayer tanks
+11230,"Pesticide Handlers, Sprayers, and Applicators, Vegetation","Lift, push, and swing nozzles, hoses, and tubes to direct spray over designated areas.",0.00,physical lifting swinging nozzles and hoses
+20762,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",Identify lawn or plant diseases to determine the appropriate course of treatment.,0.15,needs on-site visual inspection of plants
+11229,"Pesticide Handlers, Sprayers, and Applicators, Vegetation","Cover areas to specified depths with pesticides, applying knowledge of weather conditions, droplet sizes, elevation-to-distance ratios, and obstructions.",0.00,physical pesticide application on site
+11231,"Pesticide Handlers, Sprayers, and Applicators, Vegetation","Start motors and engage machinery, such as sprayer agitators or pumps or portable spray equipment.",0.00,physical starting and engaging machinery
+11232,"Pesticide Handlers, Sprayers, and Applicators, Vegetation","Connect hoses and nozzles selected according to terrain, distribution pattern requirements, types of infestations, and velocities.",0.00,physical connecting hoses and nozzles
+11233,"Pesticide Handlers, Sprayers, and Applicators, Vegetation","Clean or service machinery to ensure operating efficiency, using water, gasoline, lubricants, or hand tools.",0.00,physical cleaning and servicing machinery
+11234,"Pesticide Handlers, Sprayers, and Applicators, Vegetation","Provide driving instructions to truck drivers to ensure complete coverage of designated areas, using hand and horn signals.",0.00,on-site physical hand and horn signals
+11235,"Pesticide Handlers, Sprayers, and Applicators, Vegetation","Plant grass with seed spreaders, and operate straw blowers to cover seeded areas with mixtures of asphalt and straw.",0.00,physical seeding and spraying equipment operation
+13120,Tree Trimmers and Pruners,"Operate shredding and chipping equipment, and feed limbs and brush into the machines.",0.00,physical feeding of chipping equipment
+13113,Tree Trimmers and Pruners,"Operate boom trucks, loaders, stump chippers, brush chippers, tractors, power saws, trucks, sprayers, and other equipment and tools.",0.00,physical operation of trucks and equipment
+13116,Tree Trimmers and Pruners,"Cut away dead and excess branches from trees, or clear branches around power lines, using climbing equipment or buckets of extended truck booms, or chainsaws, hooks, handsaws, shears, and clippers.",0.00,physical tree cutting with climbing gear
+13115,Tree Trimmers and Pruners,"Clean, sharpen, and lubricate tools and equipment.",0.00,physical cleaning of tools
+13119,Tree Trimmers and Pruners,"Hoist tools and equipment to tree trimmers, and lower branches with ropes or block and tackle.",0.00,physical hoisting and lowering with ropes
+13114,Tree Trimmers and Pruners,"Climb trees, using climbing hooks and belts, or climb ladders to gain access to work areas.",0.00,physical tree and ladder climbing
+13112,Tree Trimmers and Pruners,Supervise others engaged in tree trimming work and train lower-level employees.,0.10,on-site supervision of physical crew work
+13117,Tree Trimmers and Pruners,"Trim, top, and reshape trees to achieve attractive shapes or to remove low-hanging branches.",0.00,physical tree trimming and shaping
+13121,Tree Trimmers and Pruners,Load debris and refuse onto trucks and haul it away for disposal.,0.00,physical loading and hauling debris
+13122,Tree Trimmers and Pruners,Inspect trees to determine if they have diseases or pest problems.,0.15,needs on-site tree inspection
+13125,Tree Trimmers and Pruners,"Provide information to the public regarding trees, such as advice on tree care.",0.85,pure information and advice giving
+13128,Tree Trimmers and Pruners,"Trim jagged stumps, using saws or pruning shears.",0.00,physical stump trimming with tools
+13126,Tree Trimmers and Pruners,"Clear sites, streets, and grounds of woody and herbaceous materials, such as tree stumps and fallen trees and limbs.",0.00,physical clearing of sites and grounds
+13124,Tree Trimmers and Pruners,"Collect debris and refuse from tree trimming and removal operations into piles, using shovels, rakes, or other tools.",0.00,physical debris collection
+13123,Tree Trimmers and Pruners,"Cable, brace, tie, bolt, stake, and guy trees and branches to provide support.",0.00,physical bracing and staking of trees
+13131,Tree Trimmers and Pruners,"Plan and develop budgets for tree work, and estimate the monetary value of trees.",0.75,analytical budgeting and valuation work
+13118,Tree Trimmers and Pruners,"Prune, cut down, fertilize, and spray trees as directed by tree surgeons.",0.00,physical pruning and spraying of trees
+13127,Tree Trimmers and Pruners,"Remove broken limbs from wires, using hooked extension poles.",0.00,physical removal of limbs from wires
+13132,Tree Trimmers and Pruners,"Water, root-feed, and fertilize trees.",0.00,physical watering and fertilizing
+13135,Tree Trimmers and Pruners,Scrape decayed matter from cavities in trees and fill holes with cement to promote healing and to prevent further deterioration.,0.00,physical scraping and cement filling
+13130,Tree Trimmers and Pruners,"Spray trees to treat diseased or unhealthy trees, including mixing chemicals and calibrating spray equipment.",0.00,physical spraying and equipment calibration
+13133,Tree Trimmers and Pruners,Apply tar or other protective substances to cut surfaces or seal surfaces and to protect them from fungi and insects.,0.00,physical application of tar to surfaces
+13129,Tree Trimmers and Pruners,"Transplant and remove trees and shrubs, and prepare trees for moving.",0.00,physical transplanting and moving trees
+13136,Tree Trimmers and Pruners,"Split logs or wooden blocks into bolts, pickets, posts, or stakes, using hand tools such as ax wedges, sledgehammers, and mallets.",0.00,physical splitting of logs with hand tools
+23127,First-Line Supervisors of Gambling Services Workers,"Monitor game operations to ensure that house rules are followed, that tribal, state, and federal regulations are adhered to, and that employees provide prompt and courteous service.",0.10,on-site monitoring of casino floor
+23129,First-Line Supervisors of Gambling Services Workers,"Observe gamblers' behavior for signs of cheating, such as marking, switching, or counting cards, and notify security staff of suspected cheating.",0.10,on-site observation of gambler behavior
+23133,First-Line Supervisors of Gambling Services Workers,Perform paperwork required for monetary transactions.,0.55,mostly administrative paperwork and records
+23128,First-Line Supervisors of Gambling Services Workers,Respond to and resolve patrons' complaints.,0.25,needs in-person presence and authority
+23132,First-Line Supervisors of Gambling Services Workers,Greet customers and ask about the quality of service they are receiving.,0.05,requires physical presence to greet customers
+23130,First-Line Supervisors of Gambling Services Workers,"Perform minor repairs or make adjustments to slot machines, resolving problems such as machine tilts and coin jams.",0.00,physical repair of slot machines
+23135,First-Line Supervisors of Gambling Services Workers,Maintain familiarity with the games at a facility and with strategies or tricks used by cheaters at such games.,0.75,knowledge and research task on game strategies
+23131,First-Line Supervisors of Gambling Services Workers,Monitor payment of hand-delivered jackpots to ensure promptness.,0.05,physical presence to monitor jackpot payment
+23134,First-Line Supervisors of Gambling Services Workers,"Explain and interpret house rules, such as game rules or betting limits, for patrons.",0.35,in-person explanation of rules to patrons
+23140,First-Line Supervisors of Gambling Services Workers,Establish and maintain banks and table limits for each game.,0.35,financial decision requiring on-site authority
+23136,First-Line Supervisors of Gambling Services Workers,Reset slot machines after payoffs.,0.00,physical resetting of slot machines
+23137,First-Line Supervisors of Gambling Services Workers,Answer patrons' questions about gaming machine functions and payouts.,0.40,in-person question answering on casino floor
+23138,First-Line Supervisors of Gambling Services Workers,Record the specifics of malfunctioning machines and document malfunctions needing repair.,0.30,needs physical inspection then can document
+23147,First-Line Supervisors of Gambling Services Workers,"Monitor patrons for signs of compulsive gambling, offering assistance if necessary.",0.10,on-site observation and human care needed
+23152,First-Line Supervisors of Gambling Services Workers,"Supervise the distribution of complimentary meals, hotel rooms, discounts, or other items given to players, based on length of play and amount bet.",0.35,oversight of physical comp distribution
+23139,First-Line Supervisors of Gambling Services Workers,Report customer-related incidents occurring in gaming areas to supervisors.,0.25,needs on-site observation before reporting
+23141,First-Line Supervisors of Gambling Services Workers,"Attach ""out of order"" signs to malfunctioning machines, and notify technicians when machines need to be repaired or removed.",0.05,physical signage and on-site notification
+23142,First-Line Supervisors of Gambling Services Workers,"Enforce safety rules, and report or remove safety hazards as well as guests who are underage, intoxicated, disruptive, or cheating.",0.05,physical enforcement and authority needed
+23143,First-Line Supervisors of Gambling Services Workers,"Exchange currency for customers, converting currency into requested combinations of bills and coins.",0.05,physical cash handling with authority
+23146,First-Line Supervisors of Gambling Services Workers,Evaluate workers' performance and prepare written performance evaluations.,0.55,can draft evaluations but needs human judgment
+23144,First-Line Supervisors of Gambling Services Workers,Monitor stations and games and move dealers from game to game to ensure adequate staffing.,0.10,on-site staffing management
+23145,First-Line Supervisors of Gambling Services Workers,Clean and maintain slot machines and surrounding areas.,0.00,physical cleaning of machines and area
+23149,First-Line Supervisors of Gambling Services Workers,Monitor functioning of slot machine coin dispensers and fill coin hoppers when necessary.,0.00,physical monitoring and filling of hoppers
+23148,First-Line Supervisors of Gambling Services Workers,"Record, issue receipts for, and pay off bets.",0.10,physical cash handling with financial authority
+23150,First-Line Supervisors of Gambling Services Workers,Determine how many gaming tables to open each day and schedule staff accordingly.,0.55,data-driven scheduling recommendation task
+23151,First-Line Supervisors of Gambling Services Workers,Direct workers compiling summary sheets for each race or event to record amounts wagered and amounts to be paid to winners.,0.20,on-site direction of workers
+23154,First-Line Supervisors of Gambling Services Workers,"Establish policies on types of gambling offered, odds, or extension of credit.",0.25,high-level policy requiring business authority
+23153,First-Line Supervisors of Gambling Services Workers,"Review operational expenses, budget estimates, betting accounts, or collection reports for accuracy.",0.80,financial and accounting review from records
+23155,First-Line Supervisors of Gambling Services Workers,Interview and hire workers.,0.20,requires human judgment and hiring authority
+23156,First-Line Supervisors of Gambling Services Workers,"Train, supervise, schedule, and evaluate workers.",0.20,in-person training and supervision
+23157,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",Analyze and record personnel or operational data and write related activity reports.,0.85,pure data analysis and report writing
+23158,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",Apply customer feedback to service improvement efforts.,0.55,can analyze feedback but decisions need humans
+23159,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services","Assign work schedules, following work requirements, to ensure quality and timely delivery of service.",0.75,scheduling task from requirements data
+23160,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",Collaborate with staff members to plan or develop programs of events or schedules of activities.,0.35,collaborative planning needing human interaction
+23161,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",Direct or coordinate the activities of entertainment and recreation related workers.,0.15,on-site coordination of workers
+23162,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",Furnish customers with information on events or activities.,0.75,information sharing about events
+23163,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",Inform workers about interests or special needs of specific groups.,0.55,communication of information to workers
+23164,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",Inspect work areas or operating equipment to ensure conformance to established standards in areas such as cleanliness or maintenance.,0.10,physical inspection of work areas
+23165,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",Meet with managers or other supervisors to stay informed of changes affecting workers or operations.,0.15,requires live meeting presence
+23166,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",Observe and evaluate workers' appearance and performance to ensure quality service and compliance with specifications.,0.15,on-site observation of worker performance
+23167,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",Participate in continuing education to stay abreast of industry trends and developments.,0.60,can research industry trends independently
+23168,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services","Plan, direct, or supervise recreational and entertainment activities led by staff, such as sports, aquatics, games, or performing arts.",0.15,on-site supervision of activities
+23169,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",Provide staff with assistance in performing difficult or complicated duties.,0.15,physical assistance with duties on site
+23170,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",Recruit and hire staff members.,0.20,requires human judgment and hiring authority
+23171,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services","Requisition supplies and equipment necessary for workers to facilitate recreational or entertainment activities, such as safety harnesses, flash lights, or first aid kits.",0.70,administrative ordering of supplies
+23172,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",Resolve customer complaints regarding worker performance or services rendered.,0.30,interpersonal complaint resolution
+23173,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",Serve as a point of contact between managerial staff and leaders of recreational or entertainment activities.,0.40,liaison communication role
+23174,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",Take disciplinary action to address performance problems.,0.10,requires managerial authority to discipline
+23175,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",Train workers in proper operational procedures and functions and explain company policies.,0.35,can prep materials but in-person training needed
+13140,First-Line Supervisors of Personal Service Workers,Train workers in proper operational procedures and functions and explain company policies.,0.35,can prep materials but in-person training needed
+13142,First-Line Supervisors of Personal Service Workers,Meet with managers or other supervisors to stay informed of changes affecting operations.,0.15,requires live meeting presence
+13138,First-Line Supervisors of Personal Service Workers,"Assign work schedules, following work requirements, to ensure quality and timely delivery of service.",0.75,scheduling task from requirements data
+13151,First-Line Supervisors of Personal Service Workers,Recruit and hire staff members.,0.20,requires human judgment and hiring authority
+13145,First-Line Supervisors of Personal Service Workers,Resolve customer complaints regarding worker performance or services rendered.,0.30,interpersonal complaint resolution
+13150,First-Line Supervisors of Personal Service Workers,Take disciplinary action to address performance problems.,0.10,requires managerial authority to discipline
+13139,First-Line Supervisors of Personal Service Workers,Inspect work areas or operating equipment to ensure conformance to established standards in areas such as cleanliness or maintenance.,0.10,physical inspection of work areas
+23179,First-Line Supervisors of Personal Service Workers,Investigate employee complaints and resolve problems following management rules and regulations.,0.20,requires management authority to resolve
+13141,First-Line Supervisors of Personal Service Workers,Observe and evaluate workers' appearance and performance to ensure quality service and compliance with specifications.,0.15,on-site observation of worker performance
+23177,First-Line Supervisors of Personal Service Workers,"Direct or coordinate the activities of workers, such as hotel staff or hair stylists.",0.15,on-site coordination of workers
+13152,First-Line Supervisors of Personal Service Workers,Participate in continuing education to stay abreast of industry trends and developments.,0.60,can research industry trends independently
+23178,First-Line Supervisors of Personal Service Workers,"Inform management about problems, such as employee disputes.",0.35,can draft but needs judgment on disputes
+23176,First-Line Supervisors of Personal Service Workers,Arrange worker breaks to ensure services are adequately staffed throughout each shift.,0.65,scheduling task to ensure staffing
+20763,First-Line Supervisors of Personal Service Workers,Apply customer feedback to service improvement efforts.,0.55,can analyze feedback but decisions need humans
+13143,First-Line Supervisors of Personal Service Workers,Inform workers about interests or special needs of specific groups.,0.55,communication of information to workers
+13146,First-Line Supervisors of Personal Service Workers,"Requisition necessary supplies, equipment, or services.",0.70,administrative ordering of supplies
+13154,First-Line Supervisors of Personal Service Workers,"Direct marketing, advertising, or other customer recruitment efforts.",0.60,can draft marketing content and campaigns
+7989,Animal Trainers,Cue or signal animals during performances.,0.00,physical live performance interaction
+7993,Animal Trainers,Talk to or interact with animals to familiarize them to human voices or contact.,0.00,physical presence with animals required
+20593,Animal Trainers,"Conduct training programs to develop or maintain desired animal behaviors for competition, entertainment, obedience, security, riding, or related purposes.",0.00,physical hands-on animal training
+7992,Animal Trainers,"Feed or exercise animals or provide other general care, such as cleaning or maintaining holding or performance areas.",0.00,physical feeding and care of animals
+7988,Animal Trainers,Observe animals' physical conditions to detect illness or unhealthy conditions requiring medical care.,0.05,requires physical presence to observe animals
+7991,Animal Trainers,"Evaluate animals to determine their temperaments, abilities, or aptitude for training.",0.05,requires physical presence to evaluate animals
+7990,Animal Trainers,Administer prescribed medications to animals.,0.00,physical administration of medication
+7995,Animal Trainers,"Keep records documenting animal health, diet, or behavior.",0.80,pure recordkeeping task
+20594,Animal Trainers,Evaluate animals for trainability and ability to perform.,0.05,requires physical presence to evaluate animals
+7996,Animal Trainers,Advise animal owners regarding the purchase of specific animals.,0.65,information and advice giving task
+7998,Animal Trainers,"Train horses or other equines for riding, harness, show, racing, or other work, using knowledge of breed characteristics, training methods, performance standards, and the peculiarities of each animal.",0.00,physical hands-on horse training
+7999,Animal Trainers,"Use oral, spur, rein, or hand commands to condition horses to carry riders or to pull horse-drawn equipment.",0.00,physical commands to control horses
+8002,Animal Trainers,"Retrain horses to break bad habits, such as kicking, bolting, or resisting bridling or grooming.",0.00,physical hands-on retraining of horses
+8001,Animal Trainers,Train dogs in human assistance or property protection duties.,0.00,physical hands-on dog training
+8004,Animal Trainers,Organize or conduct animal shows.,0.30,mix of planning and physical presence needed
+5072,Animal Caretakers,Feed and water animals according to schedules and feeding instructions.,0.00,physical feeding of animals
+5077,Animal Caretakers,"Provide treatment to sick or injured animals, or contact veterinarians to secure treatment.",0.10,physical treatment though can contact vet
+5075,Animal Caretakers,"Examine and observe animals to detect signs of illness, disease, or injury.",0.05,requires physical presence to examine animals
+5082,Animal Caretakers,"Mix food, liquid formulas, medications, or food supplements according to instructions, prescriptions, and knowledge of animal species.",0.00,physical mixing of food and medications
+20132,Animal Caretakers,"Do facility laundry and clean, organize, maintain, and disinfect animal quarters, such as pens and stables, and equipment, such as saddles and bridles.",0.00,physical cleaning of facility and equipment
+5080,Animal Caretakers,Exercise animals to maintain their physical and mental health.,0.00,physical exercising of animals
+5078,Animal Caretakers,"Collect and record animal information, such as weight, size, physical condition, treatments received, medications given, and food intake.",0.20,requires physical observation before recording
+5076,Animal Caretakers,"Respond to questions from patrons, and provide information about animals, such as behavior, habitat, breeding habits, or facility activities.",0.55,information giving typically at physical site
+5074,Animal Caretakers,Answer telephones and schedule appointments.,0.85,pure administrative scheduling task
+21150,Animal Caretakers,Advise pet owners on how to care for their pets' health.,0.65,information and advice giving task
+5079,Animal Caretakers,"Perform animal grooming duties, such as washing, brushing, clipping, and trimming coats, cutting nails, and cleaning ears.",0.00,physical grooming of animals
+5085,Animal Caretakers,Observe and caution children petting and feeding animals in designated areas to ensure the safety of humans and animals.,0.00,physical presence needed to supervise safety
+5083,Animal Caretakers,Clean and disinfect surgical equipment.,0.00,physical cleaning of surgical equipment

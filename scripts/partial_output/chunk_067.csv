@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+18288,Precision Agriculture Technicians,"Recommend best crop varieties or seeding rates for specific field areas, based on analysis of geospatial data.",0.85,geospatial data analysis and recommendation
+20876,Precision Agriculture Technicians,"Prepare reports in graphical or tabular form, summarizing field productivity or profitability.",0.95,pure report generation from data
+19803,Precision Agriculture Technicians,Provide advice on the development or application of better boom-spray technology to limit the overapplication of chemicals and to reduce the migration of chemicals beyond the fields being treated.,0.75,technical advisory writeup on equipment
+18278,Precision Agriculture Technicians,"Program farm equipment, such as variable-rate planting equipment or pesticide sprayers, based on input from crop scouting and analysis of field condition variability.",0.40,computing settings high but loading onto physical equipment needed
+19802,Precision Agriculture Technicians,"Participate in efforts to advance precision agriculture technology, such as developing advanced weed identification or automated spot spraying systems.",0.30,R&D involving physical hardware systems
+18293,Precision Agriculture Technicians,"Analyze remote sensing imagery to identify relationships between soil quality, crop canopy densities, light reflectance, and weather history.",0.90,pure remote sensing data analysis
+19800,Precision Agriculture Technicians,Advise farmers on upgrading Global Positioning System (GPS) equipment to take advantage of newly installed advanced satellite technology.,0.65,advisory communication to farmers
+18290,Precision Agriculture Technicians,"Contact equipment manufacturers for technical assistance, as needed.",0.65,text based outreach to manufacturers
+18287,Precision Agriculture Technicians,Identify areas in need of pesticide treatment by analyzing geospatial data to determine insect movement and damage patterns.,0.90,geospatial data analysis
+7582,Food Science Technicians,Taste or smell foods or beverages to ensure that flavors meet specifications or to select samples with specific characteristics.,0.00,requires physical taste and smell senses
+7585,Food Science Technicians,"Measure, test, or weigh bottles, cans, or other containers to ensure that hardness, strength, or dimensions meet specifications.",0.05,physical measurement of containers
+20394,Food Science Technicians,Maintain records of testing results or other documents as required by state or other governing agencies.,0.90,pure record keeping
+20395,Food Science Technicians,Monitor and control temperature of products.,0.20,monitoring and physical control of equipment
+7581,Food Science Technicians,Analyze test results to classify products or compare results with standard tables.,0.90,pure data analysis and classification
+7579,Food Science Technicians,"Record or compile test results or prepare graphs, charts, or reports.",0.95,pure report and chart compilation
+20396,Food Science Technicians,"Perform regular maintenance of laboratory equipment by inspecting, calibrating, cleaning, or sterilizing.",0.00,physical equipment maintenance
+7583,Food Science Technicians,"Examine chemical or biological samples to identify cell structures or to locate bacteria or extraneous material, using a microscope.",0.05,physical microscope examination
+7576,Food Science Technicians,"Conduct standardized tests on food, beverages, additives, or preservatives to ensure compliance with standards and regulations regarding factors such as color, texture, or nutrients.",0.05,physical laboratory testing
+20397,Food Science Technicians,Train newly hired laboratory personnel.,0.20,hands on in person training of staff
+7577,Food Science Technicians,"Provide assistance to food scientists or technologists in research and development, production technology, or quality control.",0.30,broad mix of physical lab and info support
+22261,Food Science Technicians,Supervise other food science technicians.,0.15,supervisory authority over staff
+7578,Food Science Technicians,"Compute moisture or salt content, percentages of ingredients, formulas, or other product factors, using mathematical and chemical procedures.",0.30,computation bundled with physical chemical procedures
+7587,Food Science Technicians,Order supplies needed to maintain inventories in laboratories or in storage facilities of food or beverage processing plants.,0.80,digital procurement of supplies
+20398,Food Science Technicians,Prepare or incubate slides with cell cultures.,0.00,physical slide preparation
+7584,Food Science Technicians,"Mix, blend, or cultivate ingredients to make reagents or to manufacture food or beverage products.",0.00,physical manufacturing and mixing
+3741,Biological Technicians,"Conduct research, or assist in the conduct of research, including the collection of information and samples, such as blood, water, soil, plants and animals.",0.10,physical sample collection in field
+3740,Biological Technicians,"Use computers, computer-interfaced equipment, robotics or high-technology industrial applications to perform work duties.",0.25,use of physical robotics and equipment
+3749,Biological Technicians,"Monitor and observe experiments, recording production and test data for evaluation by research personnel.",0.35,monitoring experiments needs physical observation
+3747,Biological Technicians,Analyze experimental data and interpret results to write reports and summaries of findings.,0.90,pure data analysis and report writing
+3743,Biological Technicians,"Provide technical support and services for scientists and engineers working in fields such as agriculture, environmental science, resource management, biology, and health sciences.",0.30,broad technical support mixing physical and info work
+3737,Biological Technicians,Keep detailed logs of all work-related activities.,0.85,digital logging of activities
+20981,Biological Technicians,Input data into databases.,0.95,pure digital data entry
+3739,Biological Technicians,"Isolate, identify and prepare specimens for examination.",0.05,physical specimen preparation
+3742,Biological Technicians,"Set up, adjust, calibrate, clean, maintain, and troubleshoot laboratory and field equipment.",0.00,physical equipment setup and maintenance
+3744,Biological Technicians,"Clean, maintain and prepare supplies and work areas.",0.00,physical cleaning of work areas
+3738,Biological Technicians,Monitor laboratory work to ensure compliance with set standards.,0.30,monitoring lab work needs physical presence
+20982,Biological Technicians,Place orders for laboratory equipment and supplies.,0.80,digital ordering of supplies
+3745,Biological Technicians,"Participate in the research, development, or manufacturing of medicinal and pharmaceutical preparations.",0.10,physical pharmaceutical manufacturing
+3752,Biological Technicians,Feed livestock or laboratory animals.,0.00,physical feeding of animals
+3746,Biological Technicians,"Conduct standardized biological, microbiological or biochemical tests and laboratory analyses to evaluate the quantity or quality of physical or chemical substances in food or other products.",0.05,physical laboratory testing
+3750,Biological Technicians,Examine animals and specimens to detect the presence of disease or other problems.,0.05,physical examination of animals
+3748,Biological Technicians,Measure or weigh compounds and solutions for use in testing or animal feed.,0.00,physical weighing of compounds
+1537,Chemical Technicians,"Conduct chemical or physical laboratory tests to assist scientists in making qualitative or quantitative analyses of solids, liquids, or gaseous materials.",0.05,physical laboratory testing
+1541,Chemical Technicians,"Maintain, clean, or sterilize laboratory instruments or equipment.",0.00,physical equipment maintenance
+1535,Chemical Technicians,Monitor product quality to ensure compliance with standards and specifications.,0.40,quality monitoring mixes data review and physical inspection
+1536,Chemical Technicians,"Set up and conduct chemical experiments, tests, and analyses, using techniques such as chromatography, spectroscopy, physical or chemical separation techniques, or microscopy.",0.05,physical laboratory experimentation
+1540,Chemical Technicians,"Prepare chemical solutions for products or processes, following standardized formulas, or create experimental formulas.",0.10,physical chemical solution preparation
+1538,Chemical Technicians,Compile and interpret results of tests and analyses.,0.90,pure data compilation and interpretation
+18477,Chemical Technicians,"Provide and maintain a safe work environment by participating in safety programs, committees, or teams and by conducting laboratory or plant safety audits.",0.15,physical safety audits and committee presence
+1539,Chemical Technicians,Provide technical support or assistance to chemists or engineers.,0.40,technical support mixing info and physical tasks
+1544,Chemical Technicians,"Develop or conduct programs of sampling and analysis to maintain quality standards of raw materials, chemical intermediates, or products.",0.35,program design is info heavy but sampling is physical
+20538,Chemical Technicians,Train new employees on topics such as the proper operation of laboratory equipment.,0.20,hands on equipment training
+1542,Chemical Technicians,Write technical reports or prepare graphs or charts to document experimental results.,0.95,pure technical report writing
+1543,Chemical Technicians,Order and inventory materials to maintain supplies.,0.45,digital ordering plus physical inventory counting
+1546,Chemical Technicians,"Operate experimental pilot plants, assisting with experimental design.",0.15,physical pilot plant operation
+1545,Chemical Technicians,Direct or monitor other workers producing chemical products.,0.15,supervisory direction of workers
+1548,Chemical Technicians,Design or fabricate experimental apparatus to develop new products or processes.,0.30,design digital but fabrication physical
+1547,Chemical Technicians,Develop new chemical engineering processes or production techniques.,0.35,process development needs physical experimentation
+1550,"Environmental Science and Protection Technicians, Including Health","Collect samples of gases, soils, water, industrial wastewater, or asbestos products to conduct tests on pollutant levels or identify sources of pollution.",0.05,physical field sample collection
+20869,"Environmental Science and Protection Technicians, Including Health","Investigate hazardous conditions or spills or outbreaks of disease or food poisoning, collecting samples for analysis.",0.10,physical field investigation and sample collection
+1549,"Environmental Science and Protection Technicians, Including Health","Record test data and prepare reports, summaries, or charts that interpret test results.",0.95,pure data recording and reporting
+1556,"Environmental Science and Protection Technicians, Including Health",Prepare samples or photomicrographs for testing and analysis.,0.05,physical sample preparation
+1560,"Environmental Science and Protection Technicians, Including Health",Discuss test results and analyses with customers.,0.55,discussion of results with customers
+1565,"Environmental Science and Protection Technicians, Including Health","Inspect workplaces to ensure the absence of health and safety hazards, such as high noise levels, radiation, or potential lighting hazards.",0.10,physical workplace inspection
+1566,"Environmental Science and Protection Technicians, Including Health","Weigh, analyze, or measure collected sample particles, such as lead, coal dust, or rock, to determine concentration of pollutants.",0.10,physical sample measurement
+1553,"Environmental Science and Protection Technicians, Including Health",Calibrate microscopes or test instruments.,0.00,physical instrument calibration
+1552,"Environmental Science and Protection Technicians, Including Health","Provide information or technical or program assistance to government representatives, employers, or the general public on the issues of public health, environmental protection, or workplace safety.",0.65,informational assistance and communication
+1561,"Environmental Science and Protection Technicians, Including Health","Maintain files, such as hazardous waste databases, chemical usage data, personnel exposure information, or diagrams showing equipment locations.",0.90,pure digital file and database maintenance
+1563,"Environmental Science and Protection Technicians, Including Health","Set up equipment or stations to monitor and collect pollutants from sites, such as smoke stacks, manufacturing plants, or mechanical equipment.",0.05,physical equipment setup at sites
+1570,"Environmental Science and Protection Technicians, Including Health",Develop or implement programs for monitoring of environmental pollution or radiation.,0.40,program design is info work but implementation is physical
+19799,"Environmental Science and Protection Technicians, Including Health",Monitor emission control devices to ensure they are operating properly and comply with state and federal regulations.,0.30,compliance monitoring needs physical inspection
+1554,"Environmental Science and Protection Technicians, Including Health",Make recommendations to control or eliminate unsafe conditions at workplaces or public facilities.,0.60,advisory recommendations from inspection data
+1557,"Environmental Science and Protection Technicians, Including Health","Calculate amount of pollutant in samples or compute air pollution or gas flow in industrial processes, using chemical and mathematical formulas.",0.75,computation from formulas and lab data
+20871,"Environmental Science and Protection Technicians, Including Health",Develop testing procedures.,0.75,designing testing procedures is info work
+1562,"Environmental Science and Protection Technicians, Including Health",Perform statistical analysis of environmental data.,0.95,pure statistical analysis
+19798,"Environmental Science and Protection Technicians, Including Health",Develop or implement site recycling or hazardous waste stream programs.,0.35,program design info but implementation physical
+20870,"Environmental Science and Protection Technicians, Including Health",Direct activities of workers in laboratory.,0.15,directing lab workers requires presence
+19797,"Environmental Science and Protection Technicians, Including Health","Analyze potential environmental impacts of production process changes, and recommend steps to mitigate negative impacts.",0.85,analysis and advisory writeup
+1558,"Environmental Science and Protection Technicians, Including Health",Initiate procedures to close down or fine establishments violating environmental or health regulations.,0.05,requires legal regulatory enforcement authority
+1555,"Environmental Science and Protection Technicians, Including Health",Inspect sanitary conditions at public facilities.,0.10,physical facility inspection
+1559,"Environmental Science and Protection Technicians, Including Health",Determine amounts and kinds of chemicals to use in destroying harmful organisms or removing impurities from purification systems.,0.65,computational determination of chemical amounts
+1567,"Environmental Science and Protection Technicians, Including Health","Examine and analyze material for presence and concentration of contaminants, such as asbestos, using variety of microscopes.",0.05,physical microscope material analysis
+1564,"Environmental Science and Protection Technicians, Including Health","Distribute permits, closure plans, or cleanup plans.",0.75,digital distribution of already approved documents
+22262,"Geological Technicians, Except Hydrologic Technicians","Test and analyze samples to determine their content and characteristics, using laboratory apparatus or testing equipment.",0.05,physical laboratory sample testing
+22263,"Geological Technicians, Except Hydrologic Technicians",Collect or prepare solid or fluid samples for analysis.,0.05,physical sample collection and preparation
+22264,"Geological Technicians, Except Hydrologic Technicians","Compile, log, or record testing or operational data for review and further analysis.",0.90,pure data compilation and logging
+22265,"Geological Technicians, Except Hydrologic Technicians","Prepare notes, sketches, geological maps, or cross-sections.",0.60,map preparation from data though some field sketching
+22266,"Geological Technicians, Except Hydrologic Technicians","Participate in geological, geophysical, geochemical, hydrographic, or oceanographic surveys, prospecting field trips, exploratory drilling, well logging, or underground mine survey programs.",0.05,physical field survey participation
+22267,"Geological Technicians, Except Hydrologic Technicians","Prepare or review professional, technical, or other reports regarding sampling, testing, or recommendations of data analysis.",0.90,pure report writing and review
+22268,"Geological Technicians, Except Hydrologic Technicians","Adjust or repair testing, electrical, or mechanical equipment or devices.",0.00,physical equipment repair
+22269,"Geological Technicians, Except Hydrologic Technicians",Read and study reports in order to compile information and data for geological and geophysical prospecting.,0.90,pure information compilation from reports
+22270,"Geological Technicians, Except Hydrologic Technicians","Interview individuals, and research public databases in order to obtain information.",0.50,interviews plus database research
+22271,"Geological Technicians, Except Hydrologic Technicians","Plot information from aerial photographs, well logs, section descriptions, or other databases.",0.80,digital data plotting from records
+22272,"Geological Technicians, Except Hydrologic Technicians","Assemble, maintain, or distribute information for library or record systems.",0.85,digital information management
+22273,"Geological Technicians, Except Hydrologic Technicians",Operate or adjust equipment or apparatus used to obtain geological data.,0.05,physical equipment operation
+22274,"Geological Technicians, Except Hydrologic Technicians",Plan and direct activities of workers who operate equipment to collect data.,0.30,planning is info work but directing workers needs presence
+22275,"Geological Technicians, Except Hydrologic Technicians",Set up or direct set-up of instruments used to collect geological data.,0.10,physical instrument setup
+22276,"Geological Technicians, Except Hydrologic Technicians",Record readings in order to compile data used in prospecting for oil or gas.,0.20,physical readings collection
+22277,"Geological Technicians, Except Hydrologic Technicians","Create photographic recordings of information, using equipment.",0.10,physical photographic equipment operation
+22278,"Geological Technicians, Except Hydrologic Technicians","Measure geological characteristics used in prospecting for oil or gas, using measuring instruments.",0.05,physical geological measurement
+22279,"Geological Technicians, Except Hydrologic Technicians",Participate in the evaluation of possible mining locations.,0.55,mining location evaluation from geological data
+22280,"Geological Technicians, Except Hydrologic Technicians",Assess the environmental impacts of development projects on subsurface materials.,0.75,environmental impact analysis and writeup
+22281,"Geological Technicians, Except Hydrologic Technicians","Evaluate and interpret core samples and cuttings, and other geological data used in prospecting for oil or gas.",0.35,sample handling mixed with data interpretation
+22282,"Geological Technicians, Except Hydrologic Technicians","Supervise well exploration, drilling activities, or well completions.",0.05,on site supervision of drilling operations
+22283,"Geological Technicians, Except Hydrologic Technicians","Inspect engines for wear or defective parts, using equipment or measuring devices.",0.05,physical engine inspection
+22285,"Geological Technicians, Except Hydrologic Technicians",Collaborate with hydrogeologists to evaluate groundwater or well circulation.,0.55,collaborative data evaluation with hydrogeologists
+22286,"Geological Technicians, Except Hydrologic Technicians","Apply new technologies, such as improved seismic imaging techniques, to locate untapped oil or natural gas deposits.",0.65,seismic imaging data processing
+22287,"Geological Technicians, Except Hydrologic Technicians","Collect data on underground areas, such as reservoirs, that could be used in carbon sequestration operations.",0.25,field data collection on reservoirs
+22288,"Geological Technicians, Except Hydrologic Technicians",Collect geological data from potential geothermal energy plant sites.,0.15,field data collection at geothermal sites
+22289,"Geological Technicians, Except Hydrologic Technicians","Compile data used to address environmental issues, such as the suitability of potential landfill sites.",0.85,pure data compilation for site suitability
+22290,"Geological Technicians, Except Hydrologic Technicians",Conduct geophysical surveys of potential sites for wind farms or solar installations to determine their suitability.,0.15,physical geophysical field survey
+22291,"Geological Technicians, Except Hydrologic Technicians",Evaluate and interpret seismic data with the aid of computers.,0.90,computer aided seismic data interpretation
+22292,Hydrologic Technicians,"Analyze ecological data about the impact of pollution, erosion, floods, and other environmental problems on bodies of water.",0.90,pure ecological data analysis
+22293,Hydrologic Technicians,"Answer technical questions from hydrologists, policymakers, or other customers developing water conservation plans.",0.70,answering technical questions from data
+22294,Hydrologic Technicians,"Apply research findings to minimize the environmental impacts of pollution, waterborne diseases, erosion, or sedimentation.",0.65,applying research findings advisory work
+22295,Hydrologic Technicians,Assist in designing programs to ensure the proper sealing of abandoned wells.,0.60,program design assistance is info work
+22296,Hydrologic Technicians,"Collect water and soil samples to test for physical, chemical, or biological properties, such as pH, oxygen level, temperature, and pollution.",0.05,physical field sample collection
+22297,Hydrologic Technicians,Develop computer models for hydrologic predictions.,0.90,pure computer model development
+22298,Hydrologic Technicians,"Estimate the costs and benefits of municipal projects, such as hydroelectric power plants, irrigation systems, and wastewater treatment facilities.",0.85,cost benefit analysis and estimation
+22299,Hydrologic Technicians,"Investigate complaints or conflicts related to the alteration of public waters by gathering information, recommending alternatives, or preparing legal documents.",0.45,investigation with interviews and document drafting
+22300,Hydrologic Technicians,"Investigate the properties, origins, or activities of glaciers, ice, snow, or permafrost.",0.25,field investigation of ice and glaciers
+22301,Hydrologic Technicians,"Locate and deliver information or data as requested by customers, such as contractors, government entities, and members of the public.",0.85,pure information lookup and delivery
+22302,Hydrologic Technicians,"Measure the properties of bodies of water, such as water levels, volume, and flow.",0.10,physical field measurement of water bodies
+22303,Hydrologic Technicians,Perform quality control checks on data to be used by hydrologists.,0.90,pure data quality control checks
+22304,Hydrologic Technicians,"Prepare, install, maintain, or repair equipment used for hydrologic study, such as water level recorders, stream flow gauges, and water analyzers.",0.00,physical equipment installation and repair
+22305,Hydrologic Technicians,Provide real time data to emergency management and weather service personnel during flood events.,0.50,real time data provision during emergencies
+22306,Hydrologic Technicians,"Write groundwater contamination reports on known, suspected, or potential hazardous waste sites.",0.85,report writing from contamination data
+22307,Hydrologic Technicians,"Write materials for research publications, such as maps, tables, and reports, to disseminate findings.",0.90,pure writing for publications
+22308,Nuclear Technicians,Follow nuclear equipment operational policies and procedures that ensure environmental safety.,0.05,physical nuclear equipment operation under licensure
+22309,Nuclear Technicians,Conduct surveillance testing to determine safety of nuclear equipment.,0.05,physical safety testing of nuclear equipment

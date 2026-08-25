@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+20775,Parts Salespersons,"Fill customer orders from stock, and place orders when requested items are out of stock.",0.15,physical retrieval from stock
+20776,Parts Salespersons,"Assist customers, such as responding to customer complaints and updating them about back-ordered parts.",0.55,customer communication about parts status
+20777,Parts Salespersons,"Locate and label parts, and maintain inventory of stock.",0.10,physical locating and labeling
+20778,Parts Salespersons,Pick up and deliver parts.,0.02,physical delivery of parts
+20779,Parts Salespersons,Maintain and clean work and inventory areas.,0.00,physical cleaning work
+20780,Parts Salespersons,Manage shipments by researching shipping methods or costs and tracking packages.,0.90,research shipping costs and track packages
+20785,Procurement Clerks,Train and supervise subordinates and other staff.,0.15,in person supervision and training
+20786,Procurement Clerks,Approve and pay bills.,0.35,bill payment needs approval authority
+20843,Government Property Inspectors and Investigators,"Inspect government property, such as construction sites or public housing, to ensure compliance with contract specifications or legal requirements.",0.05,on site inspection of property
+20844,Government Property Inspectors and Investigators,Investigate alleged license or permit violations.,0.25,investigation mixes research and site visits
+20845,Government Property Inspectors and Investigators,Investigate applications for special licenses or permits.,0.55,mostly document based application review
+20846,Cost Estimators,Collect historical cost data to estimate costs for current or future products.,0.90,data collection and cost analysis
+20847,Logisticians,Perform managerial duties such as hiring and training employees and overseeing facility needs or requirements.,0.10,hiring and facility management need human presence
+20877,Lawyers,"Prepare, draft, and review legal documents, such as wills, deeds, patent applications, mortgages, leases, and contracts.",0.75,drafting legal documents but lawyer liability remains
+20893,Recreational Therapists,Develop discharge plans for patients.,0.35,clinical planning needs licensed judgment
+20900,Travel Agents,"Record and maintain information on clients, vendors, and travel packages.",0.90,pure record keeping
+20901,Payroll and Timekeeping Clerks,Balance cash and payroll accounts.,0.85,account reconciliation
+20902,Payroll and Timekeeping Clerks,Train employees on organizations' timekeeping systems.,0.40,live training of staff
+20903,Couriers and Messengers,"Deliver and pick up medical records, lab specimens, and medications to and from hospitals and other medical facilities.",0.00,physical delivery to hospitals
+20904,"Meter Readers, Utilities",Perform preventative maintenance or minor repairs on meters.,0.00,physical repair of meters
+20905,Postal Service Clerks,Order retail items and other supplies for office use.,0.85,ordering supplies online
+20906,Postal Service Mail Carriers,Scan labels on letters or parcels to confirm receipt.,0.05,physical scanning of parcels
+20907,Proofreaders and Copy Markers,Consult with authors and editors regarding manuscript changes and suggestions.,0.55,editorial correspondence and discussion
+20908,Proofreaders and Copy Markers,"Archive documents, conduct research, and read copy, using the internet and various computer programs.",0.90,research and archiving using computer tools
+20909,Proofreaders and Copy Markers,"Write original content, such as headlines, cutlines, captions, and cover copy.",0.90,original text writing
+20910,Proofreaders and Copy Markers,"Typeset and measure dimensions, spacing, and positioning of page elements, such as copy and illustrations, to verify conformance to specifications, using printer's ruler or layout software.",0.55,layout verification partly digital partly physical
+21013,"Human Resources Assistants, Except Payroll and Timekeeping",Prepare and set up for new employee orientations.,0.40,orientation prep mixes materials and room setup
+21014,Word Processors and Typists,"Manage schedules and set dates, times, and locations for meetings and appointments.",0.80,scheduling meetings across calendars
+21045,Insurance Underwriters,"Examine documents to determine degree of risk from factors such as applicant health, financial standing and value, and condition of property.",0.75,document based risk analysis
+21062,Paralegals and Legal Assistants,"Investigate facts and law of cases and search pertinent sources, such as public records and internet sources, to determine causes of action and to prepare cases.",0.85,legal and public record research
+21072,Cashiers,Help customers find the location of products.,0.10,in store physical wayfinding
+21073,Cashiers,Answer incoming phone calls.,0.75,phone based customer support
+21074,Cashiers,"Stock shelves, sort and reshelve returned items, and mark prices on items and shelves.",0.00,physical shelf stocking
+21075,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",Persuade customers to purchase merchandise or services.,0.25,in person persuasion and rapport
+21076,Tellers,Answer telephones and assist customers with their questions.,0.75,phone based customer assistance
+21077,"Library Assistants, Clerical","Plan or participate in library events and programs, such as story time with children.",0.15,in person library event participation
+21078,Legal Secretaries and Administrative Assistants,"Prepare, proofread, or process legal documents, such as summonses, subpoenas, complaints, appeals, motions, or pretrial agreements.",0.80,legal document drafting and proofreading
+21079,Legal Secretaries and Administrative Assistants,Make travel arrangements for attorneys.,0.85,booking travel arrangements
+21094,Regulatory Affairs Specialists,"Identify relevant guidance documents, international standards, or consensus standards.",0.90,research of standards documents
+21095,Regulatory Affairs Specialists,"Provide pre-, ongoing, and post-inspection follow-up assistance to governmental inspectors.",0.50,coordination support around inspections
+21096,Regulatory Affairs Specialists,Recommend adjudication of product complaints.,0.75,recommendation based on complaint review
+21097,Human Resources Specialists,Administer employee benefit plans.,0.55,benefit plan administration mixes admin and employee interaction
+21152,Gambling Change Persons and Booth Cashiers,"Exchange money, credit, tickets, or casino chips and make change for customers.",0.00,physical cash handling
+21153,Gambling Change Persons and Booth Cashiers,Check identifications to verify age of players.,0.08,physical id verification
+21154,Gambling Change Persons and Booth Cashiers,Clean casino areas.,0.00,physical cleaning
+21155,Real Estate Sales Agents,Contact previous clients for prospecting of referral business.,0.55,client outreach communication
+21163,"Agents and Business Managers of Artists, Performers, and Athletes","Send samples of clients' work and other promotional material to potential employers to obtain auditions, sponsorships, or endorsement deals.",0.70,sending promotional materials
+21164,Credit Analysts,Contact customers to collect payments on delinquent accounts.,0.40,collections calls need human negotiation
+21165,Tax Preparers,Schedule appointments with clients.,0.80,appointment scheduling
+21181,"Administrative Law Judges, Adjudicators, and Hearing Officers",Schedule hearings.,0.75,hearing scheduling
+21182,"Judges, Magistrate Judges, and Magistrates",Issue arrest warrants.,0.03,requires judicial authority
+21187,"Pediatricians, General",Teach residents or medical students about pediatric topics.,0.35,live teaching of students
+21188,Clinical Nurse Specialists,Provide coaching and mentoring to other caregivers to help facilitate their professional growth and development.,0.30,mentoring requires human rapport
+21189,Hearing Aid Specialists,Counsel patients and families on communication strategies and the effects of hearing loss.,0.15,emotional counseling of patients and families
+21190,Ophthalmic Medical Technologists,"Perform ophthalmic triage, in the office or by phone, to assess severity of patients' conditions.",0.20,clinical triage judgment and liability
+21191,Ophthalmic Medical Technologists,"Educate patients on ophthalmic medical procedures, conditions of the eye, and appropriate use of medications.",0.55,patient education on medical topics
+21192,Physical Therapist Assistants,"Document patient information, such as notes on their progress.",0.65,documentation of patient progress
+21193,Physical Therapist Assistants,"Instruct patients in proper body mechanics and in ways to improve functional mobility, such as aquatic exercise.",0.10,hands on physical instruction
+21194,Physical Therapist Assistants,Perform therapeutic wound care.,0.00,hands on wound care
+21195,Veterinary Assistants and Laboratory Animal Caretakers,Place orders to restock inventory of hospital or laboratory supplies.,0.85,ordering supplies
+21417,"Claims Adjusters, Examiners, and Investigators",Examine claims forms and other records to determine insurance coverage.,0.80,document based coverage determination
+21418,"Claims Adjusters, Examiners, and Investigators",Analyze information gathered by investigation and report findings and recommendations.,0.85,analysis and report writing
+21419,"Claims Adjusters, Examiners, and Investigators","Review police reports, medical treatment records, medical bills, or physical property damage to determine the extent of liability.",0.65,mostly document review some physical damage assessment
+21420,"Claims Adjusters, Examiners, and Investigators",Investigate and assess damage to property and create or review property damage estimates.,0.35,damage assessment often needs site visit
+21421,"Claims Adjusters, Examiners, and Investigators",Interview or correspond with agents and claimants to correct errors or omissions and to investigate questionable claims.,0.55,correspondence to investigate claims
+21422,"Claims Adjusters, Examiners, and Investigators","Interview or correspond with claimants, witnesses, police, physicians, or other relevant parties to determine claim settlement, denial, or review.",0.45,correspondence but settlement decision needs authority
+21423,"Claims Adjusters, Examiners, and Investigators","Investigate, evaluate, and settle claims, applying technical knowledge and human relations skills to effect fair and prompt disposal of cases and to contribute to a reduced loss ratio.",0.35,settling claims needs judgment and accountability
+21424,"Claims Adjusters, Examiners, and Investigators",Adjust reserves or provide reserve recommendations to ensure that reserve activities are consistent with corporate policies.,0.55,reserve analysis and recommendation
+21425,"Claims Adjusters, Examiners, and Investigators","Resolve complex, severe exposure claims, using high service oriented file handling.",0.30,complex claim resolution needs human judgment
+21426,"Claims Adjusters, Examiners, and Investigators",Pay and process claims within designated authority level.,0.40,payment within authority level needs accountability
+21427,"Claims Adjusters, Examiners, and Investigators","Examine claims investigated by insurance adjusters, further investigating questionable claims to determine whether to authorize payments.",0.35,authorizing payments needs accountability
+21428,"Claims Adjusters, Examiners, and Investigators",Verify and analyze data used in settling claims to ensure that claims are valid and that settlements are made according to company practices and procedures.,0.75,data verification and analysis
+21429,"Claims Adjusters, Examiners, and Investigators","Enter claim payments, reserves and new claims on computer system, inputting concise yet sufficient file documentation.",0.90,data entry into claims system
+21430,"Claims Adjusters, Examiners, and Investigators",Refer questionable claims to investigator or claims adjuster for investigation or settlement.,0.80,routing claims to investigators
+21431,"Claims Adjusters, Examiners, and Investigators",Collect evidence to support contested claims in court.,0.55,evidence research for court
+21432,"Claims Adjusters, Examiners, and Investigators",Confer with legal counsel on claims requiring litigation.,0.40,consulting legal counsel on litigation
+21433,"Claims Adjusters, Examiners, and Investigators","Contact or interview claimants, doctors, medical specialists, or employers to get additional information.",0.55,interview correspondence for information gathering
+21434,"Claims Adjusters, Examiners, and Investigators","Maintain claim files, such as records of settled claims and an inventory of claims requiring detailed analysis.",0.85,record keeping of claim files
+21435,"Claims Adjusters, Examiners, and Investigators",Present cases and participate in their discussion at claim committee meetings.,0.35,live presentation at committee meetings
+21436,"Claims Adjusters, Examiners, and Investigators",Supervise claims adjusters to ensure that adjusters have followed proper methods.,0.20,supervisory authority over adjusters
+21437,"Claims Adjusters, Examiners, and Investigators",Conduct detailed bill reviews to implement sound litigation management and expense control.,0.75,bill review and audit work
+21438,"Claims Adjusters, Examiners, and Investigators",Examine titles to property to determine validity and act as company agent in transactions with property owners.,0.35,title research plus acting as legal agent
+21439,"Claims Adjusters, Examiners, and Investigators","Report overpayments, underpayments, and other irregularities.",0.80,reporting irregularities from analysis
+21440,"Claims Adjusters, Examiners, and Investigators",Communicate with reinsurance brokers to obtain information necessary for processing claims.,0.65,broker communication for claims info
+21441,"Claims Adjusters, Examiners, and Investigators",Prepare reports to be submitted to company's data processing department.,0.85,report preparation
+21442,"Claims Adjusters, Examiners, and Investigators",Obtain credit information from banks and other credit services.,0.65,obtaining credit info via requests
+21443,"Claims Adjusters, Examiners, and Investigators",Attend mediations or trials.,0.05,attending trials needs legal presence
+21444,"Claims Adjusters, Examiners, and Investigators",Communicate with former associates to verify employment record or to obtain background information regarding persons or businesses applying for credit.,0.55,verification calls and correspondence
+21445,"Claims Adjusters, Examiners, and Investigators",Negotiate claim settlements or recommend litigation when settlement cannot be negotiated.,0.30,negotiating settlements
+21446,Compliance Officers,Warn violators of infractions or penalties.,0.20,warning violators needs enforcement authority
+21447,Compliance Officers,"Evaluate applications, records, or documents to gather information about eligibility or liability issues.",0.75,document evaluation for eligibility
+21448,Compliance Officers,"Advise licensees or other individuals or groups concerning licensing, permit, or passport regulations.",0.70,advisory research on regulations
+21449,Compliance Officers,"Prepare reports of activities, evaluations, recommendations, or decisions.",0.85,report writing
+21450,Compliance Officers,Report law or regulation violations to appropriate boards or agencies.,0.70,reporting violations to agencies
+21451,Compliance Officers,"Confer with or interview officials, technical or professional specialists, or applicants to obtain information or to clarify facts relevant to licensing decisions.",0.50,interviews to clarify licensing facts
+21452,Compliance Officers,Issue licenses to individuals meeting standards.,0.15,issuing licenses needs regulatory authority
+21453,Compliance Officers,Collect fees for licenses.,0.70,fee collection via payment systems
+21454,Compliance Officers,"Administer oral, written, road, or flight tests to license applicants.",0.20,administering road or flight tests needs physical presence
+21455,Compliance Officers,Visit establishments to verify that valid licenses or permits are displayed and that licensing standards are being upheld.,0.05,on site establishment visits
+21456,Compliance Officers,Score tests and observe equipment operation and control to rate ability of applicants.,0.20,observing physical equipment operation
+21457,Compliance Officers,Prepare correspondence to inform concerned parties of licensing decisions or appeals processes.,0.85,correspondence drafting
+21458,Compliance Officers,Identify compliance issues that require follow-up or investigation.,0.75,compliance issue analysis
+21459,Compliance Officers,"Keep informed regarding pending industry changes, trends, or best practices.",0.85,research on industry trends
+21460,Compliance Officers,Provide assistance to internal or external auditors in compliance reviews.,0.75,supporting auditors with documents and correspondence
+21461,Compliance Officers,"Verify that all firm and regulatory policies and procedures have been documented, implemented, and communicated.",0.70,policy verification and documentation review
+21462,Project Management Specialists,Assign duties or responsibilities to project personnel.,0.30,assigning duties needs managerial authority
+21463,Project Management Specialists,Communicate with key stakeholders to determine project requirements and objectives.,0.50,stakeholder communication to gather requirements
+21464,Project Management Specialists,Confer with project personnel to identify and resolve problems.,0.45,conferring with personnel to resolve problems
+21465,Project Management Specialists,Create project status presentations for delivery to customers or project personnel.,0.65,creating status presentations
+21466,Project Management Specialists,"Develop or update project plans including information such as objectives, technologies, schedules, funding, and staffing.",0.75,project plan document development
+21467,Project Management Specialists,"Identify project needs such as resources, staff, or finances by reviewing project objectives and schedules.",0.80,analysis of resource needs
+21468,Project Management Specialists,"Identify, review, or select vendors or consultants to meet project needs.",0.60,vendor research and selection
+21469,Project Management Specialists,Monitor costs incurred by project staff to identify budget issues.,0.80,cost monitoring and analysis
+21470,Project Management Specialists,Monitor project milestones and deliverables.,0.80,milestone tracking
+21471,Project Management Specialists,Monitor the performance of project team members to provide performance feedback.,0.35,performance feedback needs human interaction
+21472,Project Management Specialists,Negotiate with project stakeholders or suppliers to obtain resources or materials.,0.35,negotiating with stakeholders or suppliers
+21473,Project Management Specialists,"Plan, schedule, or coordinate project activities to meet deadlines.",0.75,scheduling and coordinating activities
+21474,Project Management Specialists,"Prepare and submit budget estimates, progress reports, or cost tracking reports.",0.85,budget and progress report preparation
+21475,Project Management Specialists,Produce and distribute project documents.,0.85,document production and distribution
+21476,Project Management Specialists,"Propose, review, or approve modifications to project plans.",0.55,plan review but approval needs authority
+21477,Project Management Specialists,Recruit or hire project personnel.,0.25,hiring needs human judgment and authority
+21478,Project Management Specialists,"Report project status, such as budget, resources, technical issues, or customer satisfaction, to managers.",0.85,status reporting to managers
+21479,Project Management Specialists,Request and review project updates to ensure deadlines are met.,0.80,reviewing updates against deadlines
+21480,Project Management Specialists,Schedule or facilitate project meetings.,0.65,scheduling plus live meeting facilitation
+21481,Project Management Specialists,"Submit project deliverables to clients, ensuring adherence to quality standards.",0.75,deliverable submission and quality check
+21482,Security Management Specialists,Assess the nature and level of physical security threats so that the scope of the problem can be determined.,0.25,physical security threat assessment
+21483,Security Management Specialists,Budget and schedule security design work.,0.75,budgeting and scheduling design work
+21484,Security Management Specialists,Conduct security audits to identify potential vulnerabilities related to physical security or staff safety.,0.25,physical security audit needs site presence
+21485,Security Management Specialists,"Design security policies, programs, or practices to ensure adequate security relating to alarm response, access card use, and other security needs.",0.75,security policy design writing
+21486,Security Management Specialists,"Design, implement, or establish requirements for security systems, video surveillance, motion detection, or closed-circuit television systems to ensure proper installation and operation.",0.45,design work mixed with physical installation

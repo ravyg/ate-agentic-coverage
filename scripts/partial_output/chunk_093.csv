@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+7950,Parking Enforcement Workers,"Provide assistance to motorists needing help with problems, such as flat tires, keys locked in cars, or dead batteries.",0.02,physical roadside assistance
+7956,Parking Enforcement Workers,Assign and review the work of subordinates.,0.20,supervisory review requires management authority
+23051,Police and Sheriff's Patrol Officers,"Identify, pursue, and arrest suspects and perpetrators of criminal acts.",0.02,physical arrest requires body and authority
+23052,Police and Sheriff's Patrol Officers,"Provide for public safety by maintaining order, responding to emergencies, protecting people and property, enforcing motor vehicle and criminal laws, and promoting good community relations.",0.02,on-site public safety enforcement
+23053,Police and Sheriff's Patrol Officers,Record facts to prepare reports that document incidents and activities.,0.55,report writing from field notes
+23054,Police and Sheriff's Patrol Officers,Render aid to accident survivors and other persons requiring first aid for physical injuries.,0.00,physical first aid to injured persons
+23056,Police and Sheriff's Patrol Officers,Review facts of incidents to determine if criminal act or statute violations were involved.,0.55,legal analysis of incident facts
+23055,Police and Sheriff's Patrol Officers,Investigate illegal or suspicious activities.,0.05,on-site investigation of suspicious activity
+23057,Police and Sheriff's Patrol Officers,"Monitor, note, report, and investigate suspicious persons and situations, safety hazards, and unusual or illegal activity in patrol area.",0.02,physical patrol monitoring
+23058,Police and Sheriff's Patrol Officers,Testify in court to present evidence or act as witness in traffic and criminal cases.,0.00,sworn courtroom testimony
+23061,Police and Sheriff's Patrol Officers,Relay complaint and emergency-request information to appropriate agency dispatchers.,0.55,relay info between dispatch systems
+23060,Police and Sheriff's Patrol Officers,Monitor traffic to ensure motorists observe traffic regulations and exhibit safe driving procedures.,0.03,on-site traffic enforcement
+23059,Police and Sheriff's Patrol Officers,"Drive vehicles or patrol specific areas to detect law violators, issue citations, and make arrests.",0.00,physical patrol and arrest with legal authority
+23065,Police and Sheriff's Patrol Officers,"Execute arrest warrants, locating and taking persons into custody.",0.00,physical apprehension under legal authority
+23072,Police and Sheriff's Patrol Officers,"Patrol and guard courthouses, grand jury rooms, or assigned areas to provide security, enforce laws, maintain order, and arrest violators.",0.00,physical security patrol and arrest
+23063,Police and Sheriff's Patrol Officers,Photograph or draw diagrams of crime or accident scenes and interview principals and eyewitnesses.,0.10,on-site scene documentation and interviews
+23064,Police and Sheriff's Patrol Officers,Evaluate complaint and emergency-request information to determine response requirements.,0.35,triage judgment for emergency response
+23066,Police and Sheriff's Patrol Officers,"Patrol specific area on foot, horseback, or motorized conveyance, responding promptly to calls for assistance.",0.00,physical patrol responding to calls
+23067,Police and Sheriff's Patrol Officers,Investigate traffic accidents and other accidents to determine causes and to determine if a crime has been committed.,0.10,on-site accident investigation
+23062,Police and Sheriff's Patrol Officers,Verify that the proper legal charges have been made against law offenders.,0.30,legal verification of charges needs authority
+23073,Police and Sheriff's Patrol Officers,"Transport or escort prisoners and defendants en route to courtrooms, prisons or jails, attorneys' offices, or medical facilities.",0.00,physical custodial transport
+23068,Police and Sheriff's Patrol Officers,Direct traffic flow and reroute traffic in case of emergencies.,0.00,physical on-site traffic direction
+23071,Police and Sheriff's Patrol Officers,"Question individuals entering secured areas to determine their business, directing and rerouting individuals as necessary.",0.03,on-site interpersonal screening
+23069,Police and Sheriff's Patrol Officers,Notify patrol units to take violators into custody or to provide needed assistance or medical aid.,0.55,dispatch communication task
+23079,Police and Sheriff's Patrol Officers,Place people in protective custody.,0.00,physical custody with legal authority
+23070,Police and Sheriff's Patrol Officers,"Serve statements of claims, subpoenas, summonses, jury summonses, orders to pay alimony, and other court orders.",0.02,personal legal service of documents
+23074,Police and Sheriff's Patrol Officers,Inform citizens of community services and recommend options to facilitate longer-term problem resolution.,0.40,informational but needs community trust
+23075,Police and Sheriff's Patrol Officers,"Locate and confiscate real or personal property, as directed by court order.",0.00,physical seizure under court order
+23076,Police and Sheriff's Patrol Officers,Provide road information to assist motorists.,0.75,informational directions assistance
+23080,Police and Sheriff's Patrol Officers,Conduct community programs for all ages concerning topics such as drugs and violence.,0.10,in-person community facilitation
+23077,Police and Sheriff's Patrol Officers,"Process prisoners, and prepare and maintain records of prisoner bookings and prisoner status during booking and pre-trial process.",0.20,physical booking plus record keeping
+23078,Police and Sheriff's Patrol Officers,"Supervise law enforcement staff, such as jail staff, officers, and deputy sheriffs.",0.10,on-site supervisory authority over staff
+9450,Customs and Border Protection Officers,"Examine immigration applications, visas, and passports and interview persons to determine eligibility for admission, residence, and travel in the U.S.",0.25,document review plus legal eligibility decision
+9451,Customs and Border Protection Officers,"Detain persons found to be in violation of customs or immigration laws and arrange for legal action, such as deportation.",0.00,physical detention with legal authority
+9454,Customs and Border Protection Officers,"Inspect cargo, baggage, and personal articles entering or leaving U.S. for compliance with revenue laws and U.S. customs regulations.",0.03,physical inspection of cargo and baggage
+9452,Customs and Border Protection Officers,"Locate and seize contraband, undeclared merchandise, and vehicles, aircraft, or boats that contain such merchandise.",0.00,physical seizure with legal authority
+9453,Customs and Border Protection Officers,"Interpret and explain laws and regulations to travelers, prospective immigrants, shippers, and manufacturers.",0.65,explaining regulations is informational
+9456,Customs and Border Protection Officers,Institute civil and criminal prosecutions and cooperate with other law enforcement agencies in the investigation and prosecution of those in violation of immigration or customs laws.,0.05,prosecutorial legal authority required
+9457,Customs and Border Protection Officers,Testify regarding decisions at immigration appeals or in federal court.,0.00,sworn testimony in person
+9455,Customs and Border Protection Officers,"Record and report job-related activities, findings, transactions, violations, discrepancies, and decisions.",0.65,documentation of activities and findings
+9458,Customs and Border Protection Officers,Determine duty and taxes to be paid on goods.,0.85,rules-based duty and tax computation
+9459,Customs and Border Protection Officers,"Collect samples of merchandise for examination, appraisal, or testing.",0.05,physical sample collection
+9460,Customs and Border Protection Officers,Investigate applications for duty refunds and petition for remission or mitigation of penalties when warranted.,0.40,investigative analysis but needs authority to grant relief
+9478,Transit and Railroad Police,Prepare reports documenting investigation activities and results.,0.55,report writing from investigation results
+21002,Transit and Railroad Police,"Monitor transit areas and conduct security checks to protect railroad properties, patrons, and employees.",0.02,physical patrol and security checks
+9477,Transit and Railroad Police,Apprehend or remove trespassers or thieves from railroad property or coordinate with law enforcement agencies in apprehensions and removals.,0.00,physical apprehension of trespassers
+9480,Transit and Railroad Police,"Direct security activities at derailments, fires, floods, or strikes involving railroad property.",0.05,on-site emergency security coordination
+9475,Transit and Railroad Police,"Patrol railroad yards, cars, stations, or other facilities to protect company property or shipments and to maintain order.",0.02,physical patrol of rail property
+9479,Transit and Railroad Police,"Investigate or direct investigations of freight theft, suspicious damage or loss of passengers' valuables, or other crimes on railroad property.",0.10,on-site investigation of theft and crime
+9476,Transit and Railroad Police,Examine credentials of unauthorized persons attempting to enter secured areas.,0.15,physical credential checks at secured areas
+21003,Transit and Railroad Police,Enforce traffic laws regarding the transit system and reprimand individuals who violate them.,0.03,physical traffic enforcement on transit
+21004,Transit and Railroad Police,Provide training to the public or law enforcement personnel in railroad safety or security.,0.30,training delivery needs human presence
+9484,Transit and Railroad Police,"Plan or implement special safety or preventive programs, such as fire or accident prevention.",0.30,planning aided but implementation is physical
+9481,Transit and Railroad Police,Direct or coordinate the daily activities or training of security staff.,0.10,on-site supervision of security staff
+9482,Transit and Railroad Police,"Interview neighbors, associates, or former employers of job applicants to verify personal references or to obtain work history data.",0.40,interpersonal reference interviews
+7968,Animal Control Workers,"Write reports of activities, and maintain files of impoundments and dispositions of animals.",0.65,report writing and record maintenance
+7958,Animal Control Workers,"Investigate reports of animal attacks or animal cruelty, interviewing witnesses, collecting evidence, and writing reports.",0.15,on-site investigation and witness interviews
+7960,Animal Control Workers,"Examine animals for injuries or malnutrition, and arrange for any necessary medical treatment.",0.03,physical examination of animals
+7967,Animal Control Workers,Contact animal owners to inform them that their pets are at animal holding facilities.,0.75,routine notification calls
+7966,Animal Control Workers,"Educate the public about animal welfare, and animal control laws and regulations.",0.55,public education content mostly informational
+7961,Animal Control Workers,Remove captured animals from animal-control service vehicles and place animals in shelter cages or other enclosures.,0.00,physical handling of animals
+7970,Animal Control Workers,Answer inquiries from the public concerning animal control operations.,0.85,answering public inquiries is informational
+7959,Animal Control Workers,"Capture and remove stray, uncontrolled, or abused animals from undesirable conditions, using nets, nooses, or tranquilizer darts as necessary.",0.00,physical capture of animals
+7965,Animal Control Workers,"Prepare for prosecutions related to animal treatment, and give evidence in court.",0.20,evidence prep aided but testimony needs human
+7963,Animal Control Workers,"Supply animals with food, water, and personal care.",0.00,physical animal care
+7969,Animal Control Workers,"Issue warnings or citations in connection with animal-related offenses, or contact police to report violations and request arrests.",0.10,citation and arrest authority needed
+7962,Animal Control Workers,"Euthanize rabid, unclaimed, or severely injured animals.",0.00,physical euthanasia requires licensed hand
+7964,Animal Control Workers,Clean facilities and equipment such as dog pens and animal control trucks.,0.00,physical cleaning of facilities
+7972,Animal Control Workers,Organize the adoption of unclaimed animals.,0.45,adoption coordination with interpersonal matching
+7971,Animal Control Workers,"Examine animal licenses, and inspect establishments housing animals for compliance with laws.",0.10,on-site license and facility inspection
+7973,Animal Control Workers,"Train police officers in dog handling and training techniques for tracking, crowd control, and narcotics and bomb detection.",0.00,hands-on physical training of officers and dogs
+13095,Private Detectives and Investigators,Write reports or case summaries to document investigations.,0.65,case report writing from investigation
+13099,Private Detectives and Investigators,Conduct private investigations on a paid basis.,0.10,investigation largely physical and interpersonal
+13096,Private Detectives and Investigators,"Search computer databases, credit reports, public records, tax or legal filings, or other resources to locate persons or to compile information for investigations.",0.90,database and records research
+20758,Private Detectives and Investigators,"Conduct personal background investigations, such as pre-employment checks, to obtain information about an individual's character, financial status, or personal history.",0.70,background research via records and databases
+13106,Private Detectives and Investigators,Expose fraudulent insurance claims or stolen funds.,0.40,fraud analysis mixed with field investigation
+13097,Private Detectives and Investigators,"Obtain and analyze information on suspects, crimes, or disturbances to solve cases, to identify criminal activity, or to gather information for court cases.",0.30,obtaining info is physical analyzing is high
+13100,Private Detectives and Investigators,Testify at hearings or court trials to present evidence.,0.00,sworn courtroom testimony
+13101,Private Detectives and Investigators,"Question persons to obtain evidence for cases of divorce, child custody, or missing persons or information about individuals' character or financial status.",0.25,interpersonal questioning for evidence
+13102,Private Detectives and Investigators,"Observe and document activities of individuals to detect unlawful acts or to obtain evidence for cases, using binoculars and still or video cameras.",0.10,on-site physical surveillance
+13107,Private Detectives and Investigators,"Confer with establishment officials, security departments, police, or postal officials to identify problems, provide information, or receive instructions.",0.40,in-person coordination with officials
+13105,Private Detectives and Investigators,"Investigate companies' financial standings, or locate funds stolen by embezzlers, using accounting skills.",0.60,financial document and accounting analysis
+13104,Private Detectives and Investigators,"Perform undercover operations, such as evaluating the performance or honesty of employees by posing as customers or employees.",0.00,physical undercover presence
+13103,Private Detectives and Investigators,Alert appropriate personnel to suspects' locations.,0.70,alerting personnel is a communication task
+13109,Private Detectives and Investigators,"Count cash and review transactions, sales checks, or register tapes to verify amounts or to identify shortages.",0.45,cash counting is physical review of records is high
+4409,Gambling Surveillance Officers and Gambling Investigators,Monitor establishment activities to ensure adherence to all state gaming regulations and company policies and procedures.,0.30,on-site monitoring and compliance judgment
+4407,Gambling Surveillance Officers and Gambling Investigators,"Observe casino or casino hotel operations for irregular activities, such as cheating or theft by employees or patrons, using audio and video equipment and one-way mirrors.",0.55,video and audio surveillance review
+4408,Gambling Surveillance Officers and Gambling Investigators,"Report all violations and suspicious behaviors to supervisors, verbally or in writing.",0.65,reporting violations to supervisors
+21145,Gambling Surveillance Officers and Gambling Investigators,Develop and maintain log of surveillance observations.,0.70,surveillance log documentation
+21146,Gambling Surveillance Officers and Gambling Investigators,Inspect and monitor audio or video surveillance equipment to ensure it is working appropriately.,0.35,equipment inspection partly physical
+21147,Gambling Surveillance Officers and Gambling Investigators,Review video surveillance footage.,0.65,video footage review is data analysis
+4410,Gambling Surveillance Officers and Gambling Investigators,Act as oversight or security agents for management or customers.,0.10,on-site security presence
+4411,Gambling Surveillance Officers and Gambling Investigators,Supervise or train surveillance observers.,0.15,on-site supervision and training
+20894,Security Guards,Lock doors and gates of entrances and exits to secure buildings.,0.00,physical locking of doors
+2131,Security Guards,"Patrol industrial or commercial premises to prevent and detect signs of intrusion and ensure security of doors, windows, and gates.",0.02,physical patrol of premises
+20895,Security Guards,Respond to medical emergencies by administering basic first aid or by obtaining assistance from paramedics.,0.00,physical first aid response
+2132,Security Guards,Answer alarms and investigate disturbances.,0.02,on-site alarm response
+2136,Security Guards,"Circulate among visitors, patrons, or employees to preserve order and protect property.",0.00,physical presence among visitors
+2133,Security Guards,"Monitor and authorize entrance and departure of employees, visitors, and other persons to guard against theft and maintain security of premises.",0.20,physical monitoring of entrances
+2134,Security Guards,"Write reports of daily activities and irregularities, such as equipment or property damage, theft, presence of unauthorized persons, or unusual occurrences.",0.65,activity report writing
+2138,Security Guards,"Warn persons of rule infractions or violations, and apprehend or evict violators from premises, using force when necessary.",0.00,physical apprehension using force
+2137,Security Guards,"Answer telephone calls to take messages, answer questions, and provide information during non-business hours or when switchboard is closed.",0.85,answering calls is informational
+2135,Security Guards,"Call police or fire departments in cases of emergency, such as fire or presence of unauthorized persons.",0.55,simple emergency call communication
+2139,Security Guards,Operate detecting devices to screen individuals and prevent passage of prohibited articles into restricted areas.,0.05,physical screening with detection devices
+2141,Security Guards,"Inspect and adjust security systems, equipment, or machinery to ensure operational use and to detect evidence of tampering.",0.10,physical inspection and adjustment of equipment
+2140,Security Guards,Escort or drive motor vehicle to transport individuals to specified locations or to provide personal protection.,0.00,physical driving and protection
+2143,Security Guards,"Monitor and adjust controls that regulate building systems, such as air conditioning, furnace, or boiler.",0.55,remote monitoring of building system controls
+11117,Crossing Guards and Flaggers,"Direct or escort pedestrians across streets, stopping traffic, as necessary.",0.00,physical presence to stop traffic
+11118,Crossing Guards and Flaggers,Guide or control vehicular or pedestrian traffic at such places as street and railroad crossings and construction sites.,0.00,physical traffic and pedestrian control
+11116,Crossing Guards and Flaggers,Monitor traffic flow to locate safe gaps through which pedestrians can cross streets.,0.02,on-site real-time traffic judgment
+11119,Crossing Guards and Flaggers,Communicate traffic and crossing rules and other information to students and adults.,0.25,in-person communication to students and adults
+11122,Crossing Guards and Flaggers,"Direct traffic movement or warn of hazards, using signs, flags, lanterns, and hand signals.",0.00,physical hand signals and signage
+11120,Crossing Guards and Flaggers,Report unsafe behavior of children to school officials.,0.60,reporting to school officials
+11121,Crossing Guards and Flaggers,"Record license numbers of vehicles disregarding traffic signals, and report infractions to appropriate authorities.",0.35,on-site vehicle recording though partly automatable
+11125,Crossing Guards and Flaggers,Distribute traffic control signs and markers at designated points.,0.00,physical placement of signs
+11124,Crossing Guards and Flaggers,Stop speeding vehicles to warn drivers of traffic laws.,0.00,physical stopping of vehicles
+11123,Crossing Guards and Flaggers,Learn the location and purpose of street traffic signs within assigned patrol areas.,0.55,learning local sign locations is informational
+11126,Crossing Guards and Flaggers,Discuss traffic routing plans and control-point locations with superiors.,0.30,in-person discussion with superiors
+11127,Crossing Guards and Flaggers,Inform drivers of detour routes through construction sites.,0.15,on-site driver guidance
+5041,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Patrol or monitor recreational areas, such as trails, slopes, or swimming areas, on foot, in vehicles, or from towers.",0.00,physical patrol of recreational areas
+5039,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Rescue distressed persons, using rescue techniques and equipment.",0.00,physical rescue of persons
+5040,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Contact emergency medical personnel in case of serious injury.,0.70,contacting emergency personnel is communication
+5042,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Examine injured persons and administer first aid or cardiopulmonary resuscitation, if necessary, using training and medical supplies and equipment.",0.00,physical first aid and CPR
+5044,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Warn recreational participants of inclement weather, unsafe areas, or illegal conduct.",0.30,in-person warnings to participants
+20129,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Maintain quality of pool water by testing chemical levels.,0.10,physical water chemical testing
+5045,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Complete and maintain records of weather and beach conditions, emergency medical treatments performed, and other relevant incident information.",0.65,record keeping of conditions and incidents
+5043,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Instruct participants in skiing, swimming, or other recreational activities and provide safety precaution information.",0.10,hands-on physical instruction
+5046,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Inspect recreational equipment, such as rope tows, T-bars, J-bars, or chair lifts, for safety hazards and damage or wear.",0.00,physical equipment inspection
+5048,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Inspect recreational facilities for cleanliness.,0.00,physical facility inspection
+5049,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Observe activities in assigned areas, using binoculars, to detect hazards, disturbances, or safety infractions.",0.02,on-site observation for hazards

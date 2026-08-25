@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+8354,Motorcycle Mechanics,"Connect test panels to engines and measure generator output, ignition timing, or other engine performance indicators.",0.05,physical hands-on engine diagnostic testing
+8355,Motorcycle Mechanics,"Listen to engines, examine vehicle frames, or confer with customers to determine nature and extent of malfunction or damage.",0.05,physical inspection and in-person customer talk
+8359,Motorcycle Mechanics,"Repair or replace other parts, such as headlights, horns, handlebar controls, gasoline or oil tanks, starters, or mufflers.",0.00,physical parts repair or replacement
+8360,Motorcycle Mechanics,"Disassemble subassembly units and examine condition, movement, or alignment of parts, visually or using gauges.",0.00,physical disassembly and inspection of parts
+8352,Motorcycle Mechanics,"Repair or adjust motorcycle subassemblies, such as forks, transmissions, brakes, or drive chains, according to specifications.",0.00,physical repair of motorcycle subassemblies
+20652,Motorcycle Mechanics,Reassemble frames and reinstall engines after repairs.,0.00,physical reassembly of frames and engines
+8358,Motorcycle Mechanics,"Remove cylinder heads and grind valves to scrape off carbon and replace defective valves, pistons, cylinders, or rings, using hand and power tools.",0.00,physical machining and parts replacement
+23934,Motorcycle Mechanics,Install motorcycle accessories.,0.00,physical accessory installation
+8356,Motorcycle Mechanics,Reassemble and test subassembly units.,0.00,physical reassembly and bench testing
+20653,Motorcycle Mechanics,Hammer out dents and bends in frames and weld tears and breaks.,0.00,physical frame repair and welding
+13777,Outdoor Power Equipment and Other Small Engine Mechanics,"Record repairs made, time spent, and parts used.",0.85,clerical data entry of repair records
+13780,Outdoor Power Equipment and Other Small Engine Mechanics,"Test and inspect engines to determine malfunctions, to locate missing and broken parts, and to verify repairs, using diagnostic instruments.",0.05,physical engine testing with instruments
+13784,Outdoor Power Equipment and Other Small Engine Mechanics,"Dismantle engines, using hand tools, and examine parts for defects.",0.00,physical engine disassembly
+13774,Outdoor Power Equipment and Other Small Engine Mechanics,"Repair and maintain gasoline engines used to power equipment such as portable saws, lawn mowers, generators, and compressors.",0.00,physical engine repair and maintenance
+13775,Outdoor Power Equipment and Other Small Engine Mechanics,"Adjust points, valves, carburetors, distributors, and spark plug gaps, using feeler gauges.",0.00,physical mechanical adjustment
+13781,Outdoor Power Equipment and Other Small Engine Mechanics,"Repair or replace defective parts such as magnetos, water pumps, gears, pistons, and carburetors, using hand tools.",0.00,physical parts repair or replacement
+13778,Outdoor Power Equipment and Other Small Engine Mechanics,"Perform routine maintenance such as cleaning and oiling parts, honing cylinders, and tuning ignition systems.",0.00,physical hands-on maintenance
+13776,Outdoor Power Equipment and Other Small Engine Mechanics,Reassemble engines after repair or maintenance work is complete.,0.00,physical engine reassembly
+13785,Outdoor Power Equipment and Other Small Engine Mechanics,Replace motors.,0.00,physical motor replacement
+13779,Outdoor Power Equipment and Other Small Engine Mechanics,"Obtain problem descriptions from customers, and prepare cost estimates for repairs.",0.50,remote intake conversation and estimate drafting
+13783,Outdoor Power Equipment and Other Small Engine Mechanics,Show customers how to maintain equipment.,0.30,demonstration implies in-person presence
+13787,Outdoor Power Equipment and Other Small Engine Mechanics,"Remove engines from equipment, and position and bolt engines to repair stands.",0.00,physical removal and mounting of engines
+13782,Outdoor Power Equipment and Other Small Engine Mechanics,Sell parts and equipment.,0.30,retail sales typically in-person
+13786,Outdoor Power Equipment and Other Small Engine Mechanics,"Grind, ream, rebore, and re-tap parts to obtain specified clearances, using grinders, lathes, taps, reamers, boring machines, and micrometers.",0.00,physical machining with shop tools
+20915,Bicycle Repairers,Install and adjust brakes and brake pads.,0.00,physical brake installation
+20916,Bicycle Repairers,Help customers select bicycles that fit their body sizes and intended bicycle uses.,0.15,requires physical fitting and in-person consult
+5187,Bicycle Repairers,Align wheels.,0.00,physical wheel alignment
+5185,Bicycle Repairers,Assemble new bicycles.,0.00,physical bicycle assembly
+20917,Bicycle Repairers,Sell bicycles and accessories.,0.30,retail sales typically in-person
+5186,Bicycle Repairers,"Install, repair, and replace equipment or accessories, such as handlebars, stands, lights, and seats.",0.00,physical installation of accessories
+20918,Bicycle Repairers,Install new tires and tubes.,0.00,physical tire mounting
+5184,Bicycle Repairers,Install and adjust speed and gear mechanisms.,0.00,physical gear mechanism adjustment
+20919,Bicycle Repairers,Clean and lubricate bicycle parts.,0.00,physical cleaning and lubrication
+20920,Bicycle Repairers,Order bicycle parts.,0.85,routine parts ordering via software
+5188,Bicycle Repairers,"Disassemble axles to repair, adjust, and replace defective parts, using hand tools.",0.00,physical axle disassembly and repair
+20921,Bicycle Repairers,Build wheels by cutting and threading new spokes.,0.00,physical wheel building
+5189,Bicycle Repairers,"Shape replacement parts, using bench grinders.",0.00,physical grinding of parts
+5190,Bicycle Repairers,"Repair holes in tire tubes, using scrapers and patches.",0.00,physical tube patching
+20804,Recreational Vehicle Service Technicians,Diagnose and repair furnace or air conditioning systems.,0.00,physical HVAC diagnosis and repair
+10010,Recreational Vehicle Service Technicians,"Connect electrical systems to outside power sources, and activate switches to test the operation of appliances or light fixtures.",0.00,physical electrical connection and testing
+10004,Recreational Vehicle Service Technicians,Examine or test operation of parts or systems to ensure completeness of repairs.,0.00,physical operational testing of repairs
+10005,Recreational Vehicle Service Technicians,"Repair plumbing or propane gas lines, using caulking compounds and plastic or copper pipe.",0.00,physical plumbing repair
+10006,Recreational Vehicle Service Technicians,"Inspect recreational vehicles to diagnose problems and perform necessary adjustment, repair, or overhaul.",0.00,physical vehicle inspection and repair
+10007,Recreational Vehicle Service Technicians,"Locate and repair frayed wiring, broken connections, or incorrect wiring, using ohmmeters, soldering irons, tape, or hand tools.",0.00,physical wiring diagnosis and repair
+10008,Recreational Vehicle Service Technicians,"Confer with customers, read work orders, or examine vehicles needing repair to determine the nature and extent of damage.",0.20,mostly physical vehicle examination with some customer talk
+10014,Recreational Vehicle Service Technicians,"Repair leaks with caulking compound or replace pipes, using pipe wrenches.",0.00,physical pipe repair
+20803,Recreational Vehicle Service Technicians,"Inspect, repair, or replace brake systems.",0.00,physical brake system work
+10011,Recreational Vehicle Service Technicians,"Connect water hoses to inlet pipes of plumbing systems, and test operation of toilets or sinks.",0.00,physical plumbing connection and testing
+10009,Recreational Vehicle Service Technicians,"List parts needed, estimate costs, and plan work procedures, using parts lists, technical manuals, or diagrams.",0.75,parts listing and cost estimation from technical docs
+10012,Recreational Vehicle Service Technicians,"Remove damaged exterior panels, and repair and replace structural frame members.",0.00,physical panel and frame repair
+10016,Recreational Vehicle Service Technicians,"Reset hardware, using chisels, mallets, and screwdrivers.",0.00,physical hardware resetting
+10013,Recreational Vehicle Service Technicians,"Open and close doors, windows, or drawers to test their operation, trimming edges to fit, as necessary.",0.00,physical fit testing and trimming
+20802,Recreational Vehicle Service Technicians,Explain proper operation of vehicle systems to customers.,0.55,explanation deliverable but often expected in-person
+10015,Recreational Vehicle Service Technicians,"Refinish wood surfaces on cabinets, doors, moldings, or floors, using power sanders, putty, spray equipment, brushes, paints, or varnishes.",0.00,physical wood refinishing
+10017,Recreational Vehicle Service Technicians,"Seal open sides of modular units to prepare them for shipment, using polyethylene sheets, nails, and hammers.",0.00,physical sealing for shipment
+8364,Tire Repairers and Changers,"Raise vehicles, using hydraulic jacks.",0.00,physical vehicle jacking
+8365,Tire Repairers and Changers,Remount wheels onto vehicles.,0.00,physical wheel mounting
+20654,Tire Repairers and Changers,"Unbolt and remove wheels from vehicles, using lug wrenches or other hand or power tools.",0.00,physical wheel removal
+8363,Tire Repairers and Changers,Place wheels on balancing machines to determine counterweights required to balance wheels.,0.00,physical wheel balancing
+20655,Tire Repairers and Changers,Identify tire size and ply and inflate tires accordingly.,0.00,physical tire inflation
+8369,Tire Repairers and Changers,Replace valve stems and remove puncturing objects.,0.00,physical valve stem replacement
+8370,Tire Repairers and Changers,Hammer required counterweights onto rims of wheels.,0.00,physical counterweight installation
+8368,Tire Repairers and Changers,Reassemble tires onto wheels.,0.00,physical tire reassembly
+8373,Tire Repairers and Changers,"Seal punctures in tubeless tires by inserting adhesive material and expanding rubber plugs into punctures, using hand tools.",0.00,physical tubeless tire puncture sealing
+8372,Tire Repairers and Changers,"Inspect tire casings for defects, such as holes or tears.",0.00,physical tire casing inspection
+8366,Tire Repairers and Changers,Locate punctures in tubeless tires by visual inspection or by immersing inflated tires in water baths and observing air bubbles.,0.00,physical puncture location testing
+8374,Tire Repairers and Changers,"Glue tire patches over ruptures in tire casings, using rubber cement.",0.00,physical tire patch gluing
+20656,Tire Repairers and Changers,"Assist mechanics and perform various mechanical duties, such as changing oil or checking and replacing batteries.",0.00,physical mechanical assistance work
+8371,Tire Repairers and Changers,"Rotate tires to different positions on vehicles, using hand tools.",0.00,physical tire rotation
+20657,Tire Repairers and Changers,Clean and tidy up the shop.,0.00,physical shop cleaning
+8385,Tire Repairers and Changers,"Buff defective areas of inner tubes, using scrapers.",0.00,physical inner tube buffing
+8383,Tire Repairers and Changers,Order replacements for tires or tubes.,0.85,routine parts ordering via software
+8376,Tire Repairers and Changers,"Separate tubed tires from wheels, using rubber mallets and metal bars or mechanical tire changers.",0.00,physical tire separation from wheel
+8378,Tire Repairers and Changers,Inflate inner tubes and immerse them in water to locate leaks.,0.00,physical leak testing
+8379,Tire Repairers and Changers,Clean sides of whitewall tires.,0.00,physical tire cleaning
+8382,Tire Repairers and Changers,"Prepare rims and wheel drums for reassembly by scraping, grinding, or sandblasting.",0.00,physical rim preparation
+8380,Tire Repairers and Changers,Apply rubber cement to buffed tire casings prior to vulcanization process.,0.00,physical rubber cement application
+8377,Tire Repairers and Changers,"Patch tubes with adhesive rubber patches or seal rubber patches to tubes, using hot vulcanizing plates.",0.00,physical tube patching with vulcanizing
+8381,Tire Repairers and Changers,Drive automobile or service trucks to industrial sites to provide services or respond to emergency calls.,0.00,physical driving to job sites
+8388,Mechanical Door Repairers,Wind large springs with upward motion of arm.,0.00,physical spring winding
+8387,Mechanical Door Repairers,"Adjust doors to open or close with the correct amount of effort, or make simple adjustments to electric openers.",0.00,physical door adjustment
+8394,Mechanical Door Repairers,"Carry springs to tops of doors, using ladders or scaffolding, and attach springs to tracks to install spring systems.",0.00,physical spring installation with ladders
+8393,Mechanical Door Repairers,"Repair or replace worn or broken door parts, using hand tools.",0.00,physical door parts repair
+8391,Mechanical Door Repairers,"Complete required paperwork, such as work orders, according to services performed or required.",0.85,clerical paperwork completion
+8392,Mechanical Door Repairers,"Fasten angle iron back-hangers to ceilings and tracks, using fasteners or welding equipment.",0.00,physical fastening and welding
+8390,Mechanical Door Repairers,Collect payment upon job completion.,0.40,in-person payment collection though invoicing could be automated
+8397,Mechanical Door Repairers,"Install door frames, rails, steel rolling curtains, electronic-eye mechanisms, or electric door openers and closers, using power tools, hand tools, and electronic test equipment.",0.00,physical door installation
+8389,Mechanical Door Repairers,"Inspect job sites, assessing headroom, side room, or other conditions to determine appropriateness of door for a given location.",0.05,requires on-site physical assessment
+8399,Mechanical Door Repairers,"Assemble and fasten tracks to structures or bucks, using impact wrenches or welding equipment.",0.00,physical track assembly and fastening
+8395,Mechanical Door Repairers,Set doors into place or stack hardware sections into openings after rail or track installation.,0.00,physical door and hardware placement
+8403,Mechanical Door Repairers,"Operate lifts, winches, or chain falls to move heavy curtain doors.",0.00,physical operation of lifts and winches
+8396,Mechanical Door Repairers,"Remove or disassemble defective automatic mechanical door closers, using hand tools.",0.00,physical disassembly of door closers
+8409,Mechanical Door Repairers,"Fabricate replacements for worn or broken parts, using welders, lathes, drill presses, or shaping or milling machines.",0.00,physical fabrication with machine shop tools
+20805,Mechanical Door Repairers,"Prepare doors for hardware installation, such as drilling holes to install locks.",0.00,physical drilling for hardware
+8400,Mechanical Door Repairers,"Run low voltage wiring on ceiling surfaces, using insulated staples.",0.00,physical wiring installation
+8401,Mechanical Door Repairers,Cut door stops or angle irons to fit openings.,0.00,physical cutting to fit
+8402,Mechanical Door Repairers,Study blueprints and schematic diagrams to determine appropriate methods of installing or repairing automated door openers.,0.70,blueprint and diagram analysis is information work
+8408,Mechanical Door Repairers,"Install dock seals, bumpers, or shelters.",0.00,physical dock equipment installation
+8404,Mechanical Door Repairers,"Order replacement springs, sections, or slats.",0.85,routine parts ordering via software
+8407,Mechanical Door Repairers,"Lubricate door closer oil chambers, and pack spindles with leather washers.",0.00,physical lubrication and packing
+8406,Mechanical Door Repairers,"Set in and secure floor treadles for door-activating mechanisms, and connect power packs and electrical panelboards to treadles.",0.00,physical floor treadle installation
+8411,Mechanical Door Repairers,"Cover treadles with carpeting or other floor covering materials, and test systems by operating treadles.",0.00,physical covering and operational testing
+8405,Mechanical Door Repairers,"Bore or cut holes in flooring as required for installation, using hand or power tools.",0.00,physical flooring cuts
+8410,Mechanical Door Repairers,"Clean door closer parts, using caustic soda, rotary brushes, or grinding wheels.",0.00,physical cleaning of closer parts
+11780,"Control and Valve Installers and Repairers, Except Mechanical Door","Record maintenance information, including test results, material usage, and repairs made.",0.85,clerical record keeping of maintenance data
+11779,"Control and Valve Installers and Repairers, Except Mechanical Door","Disassemble and repair mechanical control devices or valves, such as regulators, thermostats, or hydrants, using power tools, hand tools, and cutting torches.",0.00,physical disassembly and repair of valves
+11782,"Control and Valve Installers and Repairers, Except Mechanical Door","Lubricate wearing surfaces of mechanical parts, using oils or other lubricants.",0.00,physical lubrication of parts
+21024,"Control and Valve Installers and Repairers, Except Mechanical Door","Calibrate instrumentation, such as meters, gauges, and regulators, for pressure, temperature, flow, and level.",0.00,physical on-site instrument calibration
+11794,"Control and Valve Installers and Repairers, Except Mechanical Door","Install, inspect and test electric meters, relays, and power sources to detect causes of malfunctions and inaccuracies, using hand tools and testing equipment.",0.00,physical installation and testing of meters
+11783,"Control and Valve Installers and Repairers, Except Mechanical Door","Test valves and regulators for leaks and accurate temperature and pressure settings, using precision testing equipment.",0.00,physical leak and pressure testing
+11777,"Control and Valve Installers and Repairers, Except Mechanical Door","Record meter readings and installation data on meter cards, work orders, or field service orders, or enter data into hand-held computers.",0.30,combines on-site meter reading with data entry
+11774,"Control and Valve Installers and Repairers, Except Mechanical Door",Turn meters on or off to establish or close service.,0.00,physical meter operation
+11785,"Control and Valve Installers and Repairers, Except Mechanical Door","Shut off service and notify repair crews when major repairs are required, such as the replacement of underground pipes or wiring.",0.15,mostly physical shutoff with easy notification part
+11784,"Control and Valve Installers and Repairers, Except Mechanical Door","Install regulators and related equipment such as gas meters, odorization units, and gas pressure telemetering equipment.",0.00,physical regulator installation
+11804,"Control and Valve Installers and Repairers, Except Mechanical Door","Cut seats to receive new orifices, tap inspection ports, and perform other repairs to salvage usable materials, using hand tools and machine tools.",0.00,physical machining of salvaged parts
+11775,"Control and Valve Installers and Repairers, Except Mechanical Door",Turn valves to allow measured amounts of air or gas to pass through meters at specified flow rates.,0.00,physical valve operation
+11776,"Control and Valve Installers and Repairers, Except Mechanical Door",Report hazardous field situations and damaged or missing meters.,0.20,requires on-site presence to detect hazards
+11797,"Control and Valve Installers and Repairers, Except Mechanical Door",Vary air pressure flowing into regulators and turn handles to assess functioning of valves and pistons.,0.00,physical regulator pressure testing
+11786,"Control and Valve Installers and Repairers, Except Mechanical Door","Examine valves or mechanical control device parts for defects, dents, or loose attachments, and mark malfunctioning areas of defective units.",0.00,physical examination of valve parts
+11796,"Control and Valve Installers and Repairers, Except Mechanical Door","Mount and install meters and other electric equipment such as time clocks, transformers, and circuit breakers, using electricians' hand tools.",0.00,physical mounting of electric equipment
+11778,"Control and Valve Installers and Repairers, Except Mechanical Door","Connect regulators to test stands, and turn screw adjustments until gauges indicate that inlet and outlet pressures meet specifications.",0.00,physical test stand adjustment
+11793,"Control and Valve Installers and Repairers, Except Mechanical Door",Investigate instances of illegal tapping into service lines.,0.05,requires on-site field investigation
+11795,"Control and Valve Installers and Repairers, Except Mechanical Door",Trace and tag meters or house lines.,0.00,physical tracing and tagging of lines
+11802,"Control and Valve Installers and Repairers, Except Mechanical Door","Repair electric meters and components, such as transformers and relays, and replace metering devices, dial glasses, and faulty or incorrect wiring, using hand tools.",0.00,physical repair of electric meters
+11792,"Control and Valve Installers and Repairers, Except Mechanical Door","Replace defective parts, such as bellows, range springs, and toggle switches, and reassemble units according to blueprints, using cam presses and hand tools.",0.00,physical parts replacement and reassembly
+11799,"Control and Valve Installers and Repairers, Except Mechanical Door","Measure tolerances of assembled and salvageable parts for conformance to standards or specifications, using gauges, micrometers, and calipers.",0.00,physical precision measurement of parts
+11801,"Control and Valve Installers and Repairers, Except Mechanical Door","Clean internal compartments and moving parts, using rags and cleaning compounds.",0.00,physical cleaning of compartments
+11788,"Control and Valve Installers and Repairers, Except Mechanical Door","Dismantle meters, and replace or adjust defective parts such as cases, shafts, gears, disks, and recording mechanisms, using soldering irons and hand tools.",0.00,physical meter dismantling and repair
+11781,"Control and Valve Installers and Repairers, Except Mechanical Door","Disconnect or remove defective or unauthorized meters, using hand tools.",0.00,physical meter removal
+11787,"Control and Valve Installers and Repairers, Except Mechanical Door","Attach air hoses to meter inlets, plug outlets, and observe gauges for pressure losses to test internal seams for leaks.",0.00,physical leak testing with air hoses

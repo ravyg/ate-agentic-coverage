@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+66,"Wholesale and Retail Buyers, Except Farm Products","Monitor and analyze sales records, trends, or economic conditions to anticipate consumer buying patterns, company sales, and needed inventory.",0.85,analyzing sales data and trends
+68,"Wholesale and Retail Buyers, Except Farm Products",Authorize payment of invoices or return of merchandise.,0.35,authorization requires accountable human
+72,"Wholesale and Retail Buyers, Except Farm Products",Consult with store or merchandise managers about budgets or goods to be purchased.,0.40,requires live consultation with managers
+76,"Wholesale and Retail Buyers, Except Farm Products",Train or supervise sales or clerical staff.,0.25,supervising staff needs human presence
+77,"Wholesale and Retail Buyers, Except Farm Products","Provide clerks with information to print on price tags, such as price, mark-ups or mark-downs, manufacturer number, season code, or style number.",0.90,pure information relay task
+78,"Wholesale and Retail Buyers, Except Farm Products","Determine which products should be featured in advertising, the advertising medium to be used, or when the ads should be run.",0.75,analytical and creative marketing decisions
+79,"Wholesale and Retail Buyers, Except Farm Products",Monitor competitors' sales activities by following their advertisements in newspapers or other media.,0.85,research and monitoring media
+80,Cost Estimators,"Analyze blueprints and other documentation to prepare time, cost, materials, and labor estimates.",0.80,analyzing documents to build estimates
+81,Cost Estimators,"Assess cost effectiveness of products, projects or services, tracking actual costs relative to bids as the project develops.",0.80,tracking and analyzing cost data
+82,Cost Estimators,"Consult with clients, vendors, personnel in other departments, or construction foremen to discuss and formulate estimates and resolve issues.",0.40,live consultation to resolve issues
+83,Cost Estimators,"Confer with engineers, architects, owners, contractors, and subcontractors on changes and adjustments to cost estimates.",0.40,live conferring with stakeholders
+84,Cost Estimators,"Prepare estimates used by management for purposes such as planning, organizing, and scheduling work.",0.85,preparing estimates from data
+85,Cost Estimators,Prepare estimates for use in selecting vendors or subcontractors.,0.85,preparing estimates from data
+86,Cost Estimators,Review material and labor requirements to decide whether it is more cost-effective to produce or purchase components.,0.80,analytical cost-benefit review
+87,Cost Estimators,Prepare cost and expenditure statements and other necessary documentation at regular intervals for the duration of the project.,0.90,routine documentation preparation
+88,Cost Estimators,"Prepare and maintain a directory of suppliers, contractors and subcontractors.",0.90,maintaining a data directory
+89,Cost Estimators,Set up cost monitoring and reporting systems and procedures.,0.80,designing monitoring systems and reports
+90,Cost Estimators,"Establish and maintain tendering process, and conduct negotiations.",0.35,negotiation needs human rapport
+91,Cost Estimators,Conduct special studies to develop and establish standard hour and related cost data or to reduce cost.,0.80,analytical research and data studies
+92,Cost Estimators,"Visit site and record information about access, drainage and topography, and availability of utility services.",0.05,requires physical site visit
+93,Training and Development Specialists,"Keep up with developments in area of expertise by reading current journals, books, or magazine articles.",0.90,reading and research task
+94,Training and Development Specialists,"Present information with a variety of instructional techniques or formats, such as role playing, simulations, team exercises, group discussions, videos, or lectures.",0.30,live facilitation of role play and discussion
+95,Training and Development Specialists,"Schedule classes based on availability of classrooms, equipment, or instructors.",0.80,scheduling based on availability data
+97,Training and Development Specialists,Offer specific training programs to help workers maintain or improve job skills.,0.45,mix of program design and live delivery
+98,Training and Development Specialists,"Monitor, evaluate, or record training activities or program effectiveness.",0.65,mostly data-driven monitoring and evaluation
+99,Training and Development Specialists,Attend meetings or seminars to obtain information for use in training programs or to inform management of training program status.,0.35,attending live meetings needs presence
+100,Training and Development Specialists,Coordinate recruitment and placement of training program participants.,0.55,coordination mixed with interpersonal recruiting
+101,Training and Development Specialists,"Evaluate training materials prepared by instructors, such as outlines, text, or handouts.",0.90,reviewing text materials
+102,Training and Development Specialists,Develop alternative training methods if expected improvements are not seen.,0.80,analytical program redesign
+103,Training and Development Specialists,"Assess training needs through surveys, interviews with employees, focus groups, or consultation with managers, instructors, or customer representatives.",0.50,mix of survey analysis and live interviews
+105,Training and Development Specialists,Select and assign instructors to conduct training.,0.65,administrative assignment decision
+106,Training and Development Specialists,Devise programs to develop executive potential among employees in lower-level positions.,0.75,designing development programs
+108,Training and Development Specialists,"Negotiate contracts with clients for desired training outcomes, fees, or expenses.",0.35,negotiation needs human rapport
+111,Training and Development Specialists,"Refer trainees to employer relations representatives, to locations offering job placement assistance, or to appropriate social services agencies, if warranted.",0.75,referral and information routing
+314,Dietitians and Nutritionists,"Assess nutritional needs, diet restrictions, and current health plans to develop and implement dietary-care plans and provide nutritional counseling.",0.30,clinical judgment and personal counseling
+315,Dietitians and Nutritionists,Consult with physicians and health care personnel to determine nutritional needs and diet restrictions of patient or client.,0.35,live consultation with clinicians
+316,Dietitians and Nutritionists,"Advise patients and their families on nutritional principles, dietary plans, diet modifications, and food selection and preparation.",0.35,advising requires clinical trust and interaction
+317,Dietitians and Nutritionists,"Counsel individuals and groups on basic rules of good nutrition, healthy eating habits, and nutrition monitoring to improve their quality of life.",0.40,informational counseling on nutrition
+318,Dietitians and Nutritionists,"Monitor food service operations to ensure conformance to nutritional, safety, sanitation and quality standards.",0.15,requires on-site inspection
+319,Dietitians and Nutritionists,Coordinate recipe development and standardization and develop new menus for independent food service operations.,0.75,creative menu and recipe development
+320,Dietitians and Nutritionists,Develop policies for food service or nutritional programs to assist in health promotion and disease control.,0.80,policy writing and analysis
+321,Dietitians and Nutritionists,Inspect meals served for conformance to prescribed diets and standards of palatability and appearance.,0.15,requires physical inspection of meals
+322,Dietitians and Nutritionists,"Develop curriculum and prepare manuals, visual aids, course outlines, and other materials used in teaching.",0.85,curriculum and materials writing
+323,Dietitians and Nutritionists,"Prepare and administer budgets for food, equipment, and supplies.",0.55,budget prep doable administering less so
+324,Dietitians and Nutritionists,Purchase food in accordance with health and safety codes.,0.45,purchasing mixed with compliance judgment
+325,Dietitians and Nutritionists,"Select, train, and supervise workers who plan, prepare, and serve meals.",0.15,supervising staff needs physical presence
+326,Dietitians and Nutritionists,Manage quantity food service departments or clinical and community nutrition services.,0.15,management of physical operations
+327,Dietitians and Nutritionists,Coordinate diet counseling services.,0.55,administrative coordination task
+328,Dietitians and Nutritionists,"Advise food service managers and organizations on sanitation, safety procedures, menu development, budgeting, and planning to assist with establishment, operation, and evaluation of food service facil",0.65,advisory recommendations from analysis
+329,Dietitians and Nutritionists,"Organize, develop, analyze, test, and prepare special meals, such as low-fat, low-cholesterol, or chemical-free meals.",0.35,recipe design doable but cooking is physical
+330,Dietitians and Nutritionists,"Plan, conduct, and evaluate dietary, nutritional, and epidemiological research.",0.70,research planning and evaluation
+331,Dietitians and Nutritionists,"Plan and conduct training programs in dietetics, nutrition, and institutional management and administration for medical students, health-care personnel, and the general public.",0.35,live training delivery needed
+332,Dietitians and Nutritionists,"Make recommendations regarding public policy, such as nutrition labeling, food fortification, or nutrition standards for school programs.",0.85,policy analysis and writing
+333,Dietitians and Nutritionists,Write research reports and other publications to document and communicate research findings.,0.95,pure writing task
+334,Dietitians and Nutritionists,Plan and prepare grant proposals to request program funding.,0.90,grant proposal writing
+335,Dietitians and Nutritionists,Test new food products and equipment.,0.10,physical product testing
+336,Dietitians and Nutritionists,"Confer with design, building, and equipment personnel to plan for construction and remodeling of food service units.",0.35,live conferring with personnel
+337,Optometrists,"Examine eyes, using observation, instruments, and pharmaceutical agents, to determine visual acuity and perception, focus, and coordination and to diagnose diseases and other abnormalities, such as gl",0.05,physical exam and licensed diagnosis
+338,Optometrists,Analyze test results and develop a treatment plan.,0.20,clinical judgment needs licensed authority
+339,Optometrists,"Prescribe, supply, fit and adjust eyeglasses, contact lenses, and other vision aids.",0.05,physical fitting and prescribing authority
+340,Optometrists,Prescribe medications to treat eye diseases if state laws permit.,0.10,prescribing medication needs licensure
+341,Optometrists,"Educate and counsel patients on contact lens care, visual hygiene, lighting arrangements, and safety factors.",0.45,patient counseling with clinical trust
+342,Optometrists,Consult with and refer patients to ophthalmologist or other health care practitioner if additional medical treatment is determined necessary.,0.35,clinical referral judgment
+343,Optometrists,Remove foreign bodies from the eye.,0.00,physical medical procedure
+344,Optometrists,"Provide patients undergoing eye surgeries, such as cataract and laser vision correction, with pre- and post-operative care.",0.05,hands-on clinical care
+345,Optometrists,Prescribe therapeutic procedures to correct or conserve vision.,0.10,prescribing needs licensed authority
+346,Optometrists,Provide vision therapy and low-vision rehabilitation.,0.10,hands-on therapy delivery
+347,Occupational Therapists,Complete and maintain necessary records.,0.90,routine record keeping
+348,Occupational Therapists,Evaluate patients' progress and prepare reports that detail progress.,0.55,progress evaluation from clinical data
+349,Occupational Therapists,Test and evaluate patients' physical and mental abilities and analyze medical data to determine realistic rehabilitation goals for patients.,0.25,physical testing of patients
+350,Occupational Therapists,Select activities that will help individuals learn work and life-management skills within limits of their mental or physical capabilities.,0.55,planning activities from assessment data
+351,Occupational Therapists,"Plan, organize, and conduct occupational therapy programs in hospital, institutional, or community settings to help rehabilitate persons with disabilities because of illness, injury or psychological o",0.20,conducting therapy needs physical presence
+352,Occupational Therapists,"Recommend changes in patients' work or living environments, consistent with their needs and capabilities.",0.65,analytical recommendation task
+353,Occupational Therapists,Consult with rehabilitation team to select activity programs or coordinate occupational therapy with other therapeutic activities.,0.40,live consultation with care team
+354,Occupational Therapists,"Help clients improve decision making, abstract reasoning, memory, sequencing, coordination, and perceptual skills, using computer programs.",0.55,facilitating computer-based cognitive exercises
+355,Occupational Therapists,"Develop and participate in health promotion programs, group activities, or discussions to promote client health, facilitate social adjustment, alleviate stress, and prevent physical or mental disabili",0.35,developing doable participation needs presence
+356,Occupational Therapists,Provide training and supervision in therapy techniques and objectives for students or nurses and other medical staff.,0.30,live supervision and training
+357,Occupational Therapists,"Design and create, or requisition, special supplies and equipment, such as splints, braces, and computer-aided adaptive equipment.",0.35,design doable but creation is physical
+358,Occupational Therapists,Plan and implement programs and social activities to help patients learn work or school skills and adjust to handicaps.,0.30,implementing social activities needs presence
+359,Occupational Therapists,"Lay out materials such as puzzles, scissors and eating utensils for use in therapy, and clean and repair these tools after therapy sessions.",0.00,purely physical task
+360,Occupational Therapists,Advise on health risks in the workplace or on health-related transition to retirement.,0.75,advisory informational content
+361,Occupational Therapists,Conduct research in occupational therapy.,0.55,research mixed with clinical fieldwork
+362,Occupational Therapists,Provide patients with assistance in locating or holding jobs.,0.55,job search assistance with some advocacy
+363,Physical Therapists,"Plan, prepare, or carry out individually designed programs of physical treatment to maintain, improve, or restore physical functioning, alleviate pain, or prevent physical dysfunction in patients.",0.15,hands-on physical treatment delivery
+364,Physical Therapists,"Perform and document an initial exam, evaluating data to identify problems and determine a diagnosis prior to intervention.",0.15,physical exam needed
+365,Physical Therapists,Evaluate effects of treatment at various stages and adjust treatments to achieve maximum benefit.,0.25,clinical adjustment needs physical assessment
+366,Physical Therapists,"Administer manual exercises, massage, or traction to help relieve pain, increase patient strength, or decrease or prevent deformity or crippling.",0.00,manual hands-on treatment
+367,Physical Therapists,Instruct patient and family in treatment procedures to be continued at home.,0.55,instructional communication task
+368,Physical Therapists,"Confer with the patient, medical practitioners, or appropriate others to plan, implement, or assess the intervention program.",0.35,live conferring with patient and staff
+369,Physical Therapists,Review physician's referral and patient's medical records to help determine diagnosis and physical therapy treatment required.,0.45,record review with clinical accountability
+370,Physical Therapists,"Record prognosis, treatment, response, and progress in patient's chart or enter information into computer.",0.85,routine documentation task
+371,Physical Therapists,Obtain patients' informed consent to proposed interventions.,0.15,consent requires accountable human presence
+372,Physical Therapists,Discharge patient from physical therapy when goals or projected outcomes have been attained and provide for appropriate follow-up care or referrals.,0.35,clinical discharge decision and accountability
+373,Physical Therapists,"Test and measure patient's strength, motor development and function, sensory perception, functional capacity, or respiratory or circulatory efficiency and record data.",0.15,physical testing of patients
+374,Physical Therapists,"Identify and document goals, anticipated progress, and plans for reevaluation.",0.70,documentation and planning task
+375,Physical Therapists,"Provide information to the patient about the proposed intervention, its material risks and expected benefits, and any reasonable alternatives.",0.55,informational communication to patient
+377,Physical Therapists,"Direct, supervise, assess, and communicate with supportive personnel.",0.25,supervising personnel needs presence
+378,Physical Therapists,"Administer treatment involving application of physical agents, using equipment, moist packs, ultraviolet or infrared lamps, or ultrasound machines.",0.00,hands-on physical treatment
+379,Physical Therapists,Teach physical therapy students or those in other health professions.,0.35,live teaching delivery
+380,Physical Therapists,"Evaluate, fit, or adjust prosthetic or orthotic devices or recommend modification to orthotist.",0.20,physical fitting with some analysis
+381,Physical Therapists,"Provide educational information about physical therapy or physical therapists, injury prevention, ergonomics, or ways to promote health.",0.85,educational content creation
+382,Physical Therapists,Refer clients to community resources or services.,0.80,informational referral task
+383,Physical Therapists,Conduct or support research and apply research findings to practice.,0.60,research support and literature analysis
+384,Physical Therapists,Participate in community or community agency activities or help to formulate public policy.,0.40,policy writing mixed with community presence
+385,Physical Therapists,"Construct, maintain, or repair medical supportive devices.",0.05,physical construction and repair
+386,Physical Therapists,Direct group rehabilitation activities.,0.20,live group facilitation
+387,Recreational Therapists,"Observe, analyze, and record patients' participation, reactions, and progress during treatment sessions, modifying treatment programs as needed.",0.35,observation and analysis mixed with presence
+388,Recreational Therapists,"Develop treatment plan to meet needs of patient, based on needs assessment, patient interests, and objectives of therapy.",0.55,treatment planning from assessment data
+389,Recreational Therapists,"Encourage clients with special needs and circumstances to acquire new skills and get involved in health-promoting leisure activities, such as sports, games, arts and crafts, and gardening.",0.20,live motivational engagement
+390,Recreational Therapists,Counsel and encourage patients to develop leisure activities.,0.25,counseling needs live rapport
+391,Recreational Therapists,Confer with members of treatment team to plan and evaluate therapy programs.,0.40,live conferring with treatment team
+392,Recreational Therapists,Conduct therapy sessions to improve patients' mental and physical well-being.,0.15,conducting sessions needs physical presence
+393,Recreational Therapists,"Instruct patient in activities and techniques, such as sports, dance, music, art, or relaxation techniques, designed to meet their specific physical or psychological needs.",0.15,live physical instruction
+394,Recreational Therapists,"Obtain information from medical records, medical staff, family members and the patients, themselves, to assess patients' capabilities, needs and interests.",0.45,mix of record review and live interviews
+395,Recreational Therapists,"Plan, organize, direct, and participate in treatment programs and activities to facilitate patients' rehabilitation, help them integrate into the community, and prevent further medical problems.",0.25,directing and participating needs presence
+396,Recreational Therapists,Prepare and submit reports and charts to treatment team to reflect patients' reactions and evidence of progress or regression.,0.80,reporting and documentation task
+397,Respiratory Therapists,"Set up and operate devices, such as mechanical ventilators, therapeutic gas administration apparatus, environmental control systems, or aerosol generators, following specified parameters of treatment.",0.05,physical equipment operation on patients
+398,Respiratory Therapists,"Provide emergency care, such as artificial respiration, external cardiac massage, or assistance with cardiopulmonary resuscitation.",0.00,physical emergency medical care
+399,Respiratory Therapists,"Determine requirements for treatment, such as type, method and duration of therapy, precautions to be taken, or medication and dosages, compatible with physicians' orders.",0.30,clinical determination needs licensed authority
+400,Respiratory Therapists,"Monitor patient's physiological responses to therapy, such as vital signs, arterial blood gases, or blood chemistry changes, and consult with physician if adverse reactions occur.",0.35,monitoring mixed with physical presence
+401,Respiratory Therapists,"Read prescription, measure arterial blood gases, and review patient information to assess patient condition.",0.30,mix of review and physical measurement
+403,Respiratory Therapists,Enforce safety rules and ensure careful adherence to physicians' orders.,0.20,enforcement requires authority and presence
+404,Respiratory Therapists,Maintain charts that contain patients' pertinent identification and therapy information.,0.85,routine chart maintenance
+405,Respiratory Therapists,"Inspect, clean, test, and maintain respiratory therapy equipment to ensure equipment is functioning safely and efficiently, ordering repairs when necessary.",0.10,physical equipment maintenance
+406,Respiratory Therapists,"Educate patients and their families about their conditions and teach appropriate disease management techniques, such as breathing exercises or the use of medications or respiratory equipment.",0.55,patient education content task
+407,Respiratory Therapists,Explain treatment procedures to patients to gain cooperation and allay fears.,0.35,live reassurance and communication
+408,Respiratory Therapists,Relay blood analysis results to a physician.,0.75,simple information relay
+409,Respiratory Therapists,Perform pulmonary function and adjust equipment to obtain optimum results in therapy.,0.10,hands-on physical therapy task
+410,Respiratory Therapists,Perform bronchopulmonary drainage and assist or instruct patients in performance of breathing exercises.,0.10,physical procedure and instruction
+411,Respiratory Therapists,Demonstrate respiratory care procedures to trainees or other healthcare personnel.,0.15,live physical demonstration

@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+11791,"Control and Valve Installers and Repairers, Except Mechanical Door","Make adjustments to meter components, such as setscrews or timing mechanisms, so that they conform to specifications.",0.05,physical hands-on adjustment of meter parts
+11800,"Control and Valve Installers and Repairers, Except Mechanical Door","Repair leaks in valve seats or bellows of automotive heater thermostats, using soft solder, flux, and acetylene torches.",0.03,physical soldering repair with torches
+11810,"Control and Valve Installers and Repairers, Except Mechanical Door","Splice and connect cables from meters or current transformers to pull boxes or switchboards, using hand tools.",0.03,physical cable splicing on site
+11789,"Control and Valve Installers and Repairers, Except Mechanical Door",Advise customers on proper installation of valves or regulators and related equipment.,0.55,advisory conversation could be handled remotely
+11811,"Control and Valve Installers and Repairers, Except Mechanical Door","Clean plant growth, scale, paint, soil, or rust from meter housings, using wire brushes, scrapers, buffers, sandblasters, or cleaning compounds.",0.02,physical cleaning of housings
+11790,"Control and Valve Installers and Repairers, Except Mechanical Door","Connect hoses from provers to meter inlets and outlets, and raise prover bells until prover gauges register zero.",0.02,physical hose connection and calibration
+23552,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Test electrical circuits or components for continuity, using electrical test equipment.",0.03,hands-on electrical testing with equipment
+23557,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Comply with all applicable standards, policies, or procedures, such as safety procedures or the maintenance of a clean work area.",0.05,on-site safety and cleanliness compliance
+23558,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Study blueprints, design specifications, or manufacturers' recommendations to ascertain the configuration of heating or cooling equipment components and to ensure the proper installation of components.",0.65,reading and interpreting blueprints is information work
+23554,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",Discuss heating or cooling system malfunctions with users to isolate problems or to verify that repairs corrected malfunctions.,0.55,diagnostic conversation could be done remotely
+23555,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Connect heating or air conditioning equipment to fuel, water, or refrigerant source to form complete circuit.",0.02,physical connection to fuel or refrigerant lines
+23565,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",Adjust system controls to settings recommended by manufacturer to balance system.,0.05,physical adjustment of system controls on site
+23568,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Recommend, develop, or perform preventive or general maintenance procedures, such as cleaning, power-washing, or vacuuming equipment, oiling parts, or changing filters.",0.20,can recommend procedure but physical upkeep needed
+23562,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",Inspect and test systems to verify system compliance with plans and specifications or to detect and locate malfunctions.,0.08,on-site physical inspection and testing
+23553,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Repair or replace defective equipment, components, or wiring.",0.02,physical repair or replacement of hardware
+23579,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",Install or repair self-contained ground source heat pumps or hybrid ground or air source heat pumps to minimize carbon-based energy consumption and reduce carbon emissions.,0.02,physical installation of heat pump equipment
+23556,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Install, connect, or adjust thermostats, humidistats, or timers.",0.03,physical installation of thermostat hardware
+23559,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Install auxiliary components to heating or cooling equipment, such as expansion or discharge valves, air ducts, pipes, blowers, dampers, flues, or stokers.",0.02,physical installation of ductwork and components
+23560,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",Braze or solder parts to repair defective joints and leaks.,0.02,physical brazing and soldering
+23561,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Lay out and connect electrical wiring between controls and equipment, according to wiring diagrams, using electrician's hand tools.",0.02,physical wiring with hand tools
+23564,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",Perform mechanical overhauls and refrigerant reclaiming.,0.02,physical mechanical overhaul work
+23566,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Install expansion and control valves, using acetylene torches and wrenches.",0.02,physical valve installation with torches
+23571,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Measure, cut, thread, or bend pipe or tubing, using pipe fitter's tools.",0.02,physical pipe cutting and bending
+23570,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Mount compressor, condenser, and other components in specified locations on frames, using hand tools and acetylene welding equipment.",0.02,physical mounting of components
+23567,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Install dehumidifiers or related equipment for spaces that require cool, dry air to operate efficiently, such as computer rooms.",0.02,physical dehumidifier installation
+23563,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Record and report time, materials, faults, deficiencies, or other unusual occurrences on work orders.",0.80,text based record keeping on work orders
+23572,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",Keep records of repairs and replacements made and causes of malfunctions.,0.80,text based repair record keeping
+23569,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Cut or drill holes in floors, walls, or roof to install equipment, using power saws or drills.",0.00,physical cutting and drilling
+23574,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Estimate, order, pick up, deliver, and install materials and supplies needed to maintain equipment in good working condition.",0.20,ordering can be automated but pickup and install are physical
+23575,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Schedule work with customers and initiate work orders, house requisitions, and orders from stock.",0.75,scheduling and order initiation is information work
+23576,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",Supervise and instruct assistants.,0.15,in person supervision and authority over assistants
+23577,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Lay out reference points for installation of structural and functional components, using measuring instruments.",0.03,physical layout with measuring instruments
+23578,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Lift and align components into position, using hoist or block and tackle.",0.00,physical lifting with hoist
+23573,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Install or repair air purification systems, such as specialized filters or ultraviolet (UV) light purification systems.",0.02,physical installation of filtration systems
+23580,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Repair or service heating, ventilating, and air conditioning (HVAC) systems to improve efficiency, such as by changing filters, cleaning ducts, and refilling non-toxic refrigerants.",0.02,physical HVAC servicing
+23581,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Test pipes, lines, components, and connections for leaks.",0.05,physical leak testing on site
+13789,Home Appliance Repairers,"Bill customers for repair work, and collect payment.",0.75,billing and payment collection can be automated
+13799,Home Appliance Repairers,Observe and examine appliances during operation to detect specific malfunctions such as loose parts or leaking fluid.,0.10,physical observation of appliance operation
+13793,Home Appliance Repairers,Talk to customers or refer to work orders to establish the nature of appliance malfunctions.,0.55,conversational diagnosis could be handled remotely
+13801,Home Appliance Repairers,"Refer to schematic drawings, product manuals, and troubleshooting guides to diagnose and repair problems.",0.30,diagnosis from manuals is information work but repair is physical
+13790,Home Appliance Repairers,"Trace electrical circuits, following diagrams, and conduct tests with circuit testers and other equipment to locate shorts and grounds.",0.05,hands-on electrical tracing and testing
+13792,Home Appliance Repairers,"Replace worn and defective parts such as switches, bearings, transmissions, belts, gears, circuit boards, or defective wiring.",0.02,physical parts replacement
+13796,Home Appliance Repairers,"Provide repair cost estimates, and recommend whether appliance repair or replacement is a better choice.",0.65,cost estimate and recommendation is analytical work
+13788,Home Appliance Repairers,Disassemble appliances so that problems can be diagnosed and repairs can be made.,0.02,physical disassembly of appliances
+13810,Home Appliance Repairers,Respond to emergency calls for problems such as gas leaks.,0.05,physical emergency response needed
+13791,Home Appliance Repairers,"Service and repair domestic electrical or gas appliances, such as clothes washers, refrigerators, stoves, and dryers.",0.02,physical appliance repair
+13794,Home Appliance Repairers,"Reassemble units after repairs are made, making adjustments and cleaning and lubricating parts as needed.",0.02,physical reassembly and lubrication
+13795,Home Appliance Repairers,Record maintenance and repair work performed on appliances.,0.80,text based maintenance record keeping
+13814,Home Appliance Repairers,"Test and examine gas pipelines and equipment to locate leaks and faulty connections, and to determine the pressure and flow of gas.",0.05,physical gas pipeline testing
+13813,Home Appliance Repairers,"Light and adjust pilot lights on gas stoves, and examine valves and burners for gas leakage and specified flame.",0.02,physical pilot light adjustment safety critical
+13802,Home Appliance Repairers,"Instruct customers regarding operation and care of appliances, and provide information such as emergency service numbers.",0.65,customer instruction can be delivered as text or voice
+13812,Home Appliance Repairers,Contact supervisors or offices to receive repair assignments.,0.55,coordination communication could be automated
+13797,Home Appliance Repairers,"Maintain stocks of parts used in on-site installation, maintenance, and repair of appliances.",0.20,physical stocking though tracking could be automated
+13806,Home Appliance Repairers,"Level refrigerators, adjust doors, and connect water lines to water pipes for ice makers and water dispensers, using hand tools.",0.02,physical leveling and hose connection
+13800,Home Appliance Repairers,"Observe and test operation of appliances following installation, and make any initial installation adjustments that are necessary.",0.03,physical observation and adjustment post install
+13807,Home Appliance Repairers,"Set appliance thermostats, and check to ensure that they are functioning properly.",0.10,physical thermostat setting and check
+13811,Home Appliance Repairers,"Install appliances such as refrigerators, washing machines, and stoves.",0.00,physical appliance installation
+13808,Home Appliance Repairers,"Level washing machines and connect hoses to water pipes, using hand tools.",0.00,physical leveling and hose connection
+13798,Home Appliance Repairers,Clean and reinstall parts.,0.02,physical cleaning and reinstalling parts
+13804,Home Appliance Repairers,"Clean, lubricate, and touch up minor defects on newly installed or repaired appliances.",0.02,physical cleaning and touch up work
+13805,Home Appliance Repairers,"Conserve, recover, and recycle refrigerants used in cooling systems.",0.02,physical certified refrigerant handling
+13809,Home Appliance Repairers,Install gas pipes and water lines to connect appliances to existing gas lines or plumbing.,0.00,physical licensed gas and water line installation
+13816,Home Appliance Repairers,"Take measurements to determine if appliances will fit in installation locations, performing minor carpentry work when necessary to ensure proper installation.",0.02,physical measuring and carpentry on site
+13815,Home Appliance Repairers,"Measure, cut, and thread pipe, and connect it to feeder lines and equipment or appliances, using rules and hand tools.",0.02,physical pipe measuring and connecting
+13803,Home Appliance Repairers,Assemble new or reconditioned appliances.,0.02,physical appliance assembly
+11815,Industrial Machinery Mechanics,Repair or maintain the operating condition of industrial production or processing machinery or equipment.,0.02,physical machinery repair
+11814,Industrial Machinery Mechanics,Repair or replace broken or malfunctioning components of machinery or equipment.,0.02,physical component replacement
+11820,Industrial Machinery Mechanics,"Clean, lubricate, or adjust parts, equipment, or machinery.",0.02,physical cleaning lubrication and adjustment
+11813,Industrial Machinery Mechanics,Disassemble machinery or equipment to remove parts and make repairs.,0.02,physical disassembly for repair
+11817,Industrial Machinery Mechanics,"Reassemble equipment after completion of inspections, testing, or repairs.",0.02,physical reassembly of equipment
+11816,Industrial Machinery Mechanics,"Examine parts for defects, such as breakage or excessive wear.",0.08,physical examination of parts for wear
+11822,Industrial Machinery Mechanics,Record repairs and maintenance performed.,0.80,text based repair record keeping
+11819,Industrial Machinery Mechanics,Operate newly repaired machinery or equipment to verify the adequacy of repairs.,0.03,physical operation to verify repairs
+11824,Industrial Machinery Mechanics,"Record parts or materials used and order or requisition new parts or materials, as necessary.",0.70,recording and ordering parts is information work
+11818,Industrial Machinery Mechanics,"Observe and test the operation of machinery or equipment to diagnose malfunctions, using voltmeters or other testing devices.",0.05,hands-on testing with meters on site
+11821,Industrial Machinery Mechanics,"Analyze test results, machine error messages, or information obtained from operators to diagnose equipment problems.",0.80,pure analysis of test results and error messages
+11823,Industrial Machinery Mechanics,Study blueprints or manufacturers' manuals to determine correct installation or operation of machinery.,0.65,reading blueprints and manuals is information work
+11825,Industrial Machinery Mechanics,"Cut and weld metal to repair broken metal parts, fabricate new parts, or assemble new equipment.",0.00,physical cutting and welding
+11827,Industrial Machinery Mechanics,Enter codes and instructions to program computer-controlled machinery.,0.70,programming machinery via code is information work
+11826,Industrial Machinery Mechanics,Demonstrate equipment functions and features to machine operators.,0.10,in person demonstration to operators
+23935,Industrial Machinery Mechanics,Assign schedules to work crews.,0.70,scheduling work crews is information work
+11833,"Maintenance Workers, Machinery","Dismantle machines and remove parts for repair, using hand tools, chain falls, jacks, cranes, or hoists.",0.00,physical dismantling with cranes and hoists
+11828,"Maintenance Workers, Machinery",Reassemble machines after the completion of repair or maintenance work.,0.02,physical reassembly of machines
+11834,"Maintenance Workers, Machinery","Record production, repair, and machine maintenance information.",0.80,text based production and maintenance records
+11831,"Maintenance Workers, Machinery","Lubricate or apply adhesives or other materials to machines, machine parts, or other equipment according to specified procedures.",0.02,physical lubrication of machines
+11832,"Maintenance Workers, Machinery","Install, replace, or change machine parts and attachments, according to production specifications.",0.02,physical installation of machine parts
+11836,"Maintenance Workers, Machinery","Set up and operate machines, and adjust controls to regulate operations.",0.03,physical machine setup and operation
+11837,"Maintenance Workers, Machinery","Collaborate with other workers to repair or move machines, machine parts, or equipment.",0.03,physical collaborative repair work
+11835,"Maintenance Workers, Machinery",Read work orders and specifications to determine machines and equipment requiring repair or maintenance.,0.75,reading work orders to determine needs is information work
+11830,"Maintenance Workers, Machinery","Inspect or test damaged machine parts, and mark defective areas or advise supervisors of repair needs.",0.15,physical inspection though advising is information work
+11829,"Maintenance Workers, Machinery",Start machines and observe mechanical operation to determine efficiency and to detect problems.,0.05,on-site observation of running machines
+11839,"Maintenance Workers, Machinery","Transport machine parts, tools, equipment, and other material between work areas and storage, using cranes, hoists, or dollies.",0.00,physical transport of parts
+11840,"Maintenance Workers, Machinery",Collect and discard worn machine parts and other refuse to maintain machinery and work areas.,0.00,physical collection and disposal of parts
+11838,"Maintenance Workers, Machinery","Inventory and requisition machine parts, equipment, and other supplies so that stock can be maintained and replenished.",0.55,inventory tracking and ordering is largely information work
+11843,"Maintenance Workers, Machinery","Remove hardened material from machines or machine parts, using abrasives, power and hand tools, jackhammers, sledgehammers, or other equipment.",0.00,physical removal of hardened material
+11845,"Maintenance Workers, Machinery","Replace, empty, or replenish machine and equipment containers such as gas tanks or boxes.",0.00,physical replenishing of containers
+11841,"Maintenance Workers, Machinery","Clean machines and machine parts, using cleaning solvents, cloths, air guns, hoses, vacuums, or other equipment.",0.00,physical cleaning of machines
+11842,"Maintenance Workers, Machinery","Replace or repair metal, wood, leather, glass, or other lining in machines, or in equipment compartments or containers.",0.00,physical relining of equipment
+11844,"Maintenance Workers, Machinery","Measure, mix, prepare, and test chemical solutions used to clean or repair machinery and equipment.",0.02,physical mixing of chemical solutions
+3041,Millwrights,"Replace defective parts of machine, or adjust clearances and alignment of moving parts.",0.02,physical part replacement and alignment
+21083,Millwrights,"Align machines or equipment, using hoists, jacks, hand tools, squares, rules, micrometers, lasers, or plumb bobs.",0.02,physical alignment with hoists and tools
+3048,Millwrights,"Insert shims, adjust tension on nuts and bolts, or position parts, using hand tools and measuring instruments, to set specified clearances between moving and stationary parts.",0.02,physical shim insertion and adjustment
+3047,Millwrights,"Signal crane operator to lower basic assembly units to bedplate, and align unit to centerline.",0.02,on-site crane coordination and alignment
+18785,Millwrights,"Conduct preventative maintenance and repair, and lubricate machines and equipment.",0.02,physical preventative maintenance and lubrication
+3045,Millwrights,"Assemble and install equipment, using hand tools and power tools.",0.00,physical equipment assembly and installation
+3051,Millwrights,"Assemble machines, and bolt, weld, rivet, or otherwise fasten them to foundation or other structures, using hand tools and power tools.",0.00,physical assembly welding and fastening
+3049,Millwrights,"Move machinery and equipment, using hoists, dollies, rollers, and trucks.",0.00,physical movement of heavy machinery
+3054,Millwrights,"Level bedplate and establish centerline, using straightedge, levels, and transit.",0.02,physical leveling with survey tools
+3055,Millwrights,"Dismantle machines, using hammers, wrenches, crowbars, and other hand tools.",0.00,physical dismantling with hand tools
+3053,Millwrights,"Bolt parts, such as side and deck plates, jaw plates, and journals, to basic assembly unit.",0.00,physical bolting of parts
+3052,Millwrights,"Lay out mounting holes, using measuring instruments, and drill holes with power drill.",0.00,physical layout and drilling
+3050,Millwrights,"Attach moving parts and subassemblies to basic assembly unit, using hand tools and power tools.",0.00,physical attachment of parts
+18786,Millwrights,"Weld, repair, and fabricate equipment or machinery.",0.00,physical welding and fabrication
+3056,Millwrights,"Shrink-fit bushings, sleeves, rings, liners, gears, and wheels to specified items, using portable gas heating equipment.",0.00,physical shrink fitting with heating equipment
+18788,Millwrights,"Troubleshoot equipment, electrical components, hydraulics, or other mechanical systems.",0.10,troubleshooting requires hands-on equipment access
+3057,Millwrights,"Dismantle machinery and equipment for shipment to installation site, performing installation and maintenance work as part of team.",0.00,physical dismantling and installation as team
+3043,Millwrights,"Connect power unit to machines or steam piping to equipment, and test unit to evaluate its mechanical operation.",0.02,physical connection and mechanical testing
+3046,Millwrights,"Position steel beams to support bedplates of machines and equipment, using blueprints and schematic drawings to determine work procedures.",0.03,physical positioning of steel beams
+18787,Millwrights,"Fabricate and dismantle parts, equipment, and machines, using a cutting torch or other cutting equipment.",0.00,physical fabrication with cutting torch
+3058,Millwrights,"Construct foundation for machines, using hand tools and building materials such as wood, cement, and steel.",0.00,physical construction of foundations
+3060,Millwrights,"Operate engine lathe to grind, file, and turn machine parts to dimensional specifications.",0.00,physical lathe operation
+3059,Millwrights,"Install robot and modify its program, using teach pendant.",0.05,physical robot install though programming part is digital
+13819,"Refractory Materials Repairers, Except Brickmasons","Reline or repair ladles and pouring spouts with refractory clay, using trowels.",0.00,physical relining with refractory clay
+13820,"Refractory Materials Repairers, Except Brickmasons","Chip slag from linings of ladles or remove linings when beyond repair, using hammers and chisels.",0.00,physical chipping of slag
+13821,"Refractory Materials Repairers, Except Brickmasons","Mix specified amounts of sand, clay, mortar powder, and water to form refractory clay or mortar, using shovels or mixing machines.",0.00,physical mixing of refractory materials
+13822,"Refractory Materials Repairers, Except Brickmasons","Measure furnace walls to determine dimensions and cut required number of sheets from plastic block, using saws.",0.00,physical measuring and cutting sheets
+13824,"Refractory Materials Repairers, Except Brickmasons","Dry and bake new linings by placing inverted linings over burners, building fires in ladles, or by using blowtorches.",0.00,physical baking of linings with fire
+13825,"Refractory Materials Repairers, Except Brickmasons","Remove worn or damaged plastic block refractory linings of furnaces, using hand tools.",0.00,physical removal of furnace linings
+13827,"Refractory Materials Repairers, Except Brickmasons","Climb scaffolding, carrying hoses, and spray surfaces of cupolas with refractory mixtures, using spray equipment.",0.00,physical work on scaffolding with sprayers
+13829,"Refractory Materials Repairers, Except Brickmasons","Spread mortar on stopper heads and rods, using trowels, and slide brick sleeves over rods to form refractory jackets.",0.00,physical mortar spreading and sleeve installation

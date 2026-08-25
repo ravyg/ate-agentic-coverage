@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+2717,Public Safety Telecommunicators,Read and effectively interpret small-scale maps and information from a computer screen to determine locations and provide directions.,0.75,digital map reading and interpretation
+2718,Public Safety Telecommunicators,"Answer routine inquiries, and refer calls not requiring dispatches to appropriate departments and agencies.",0.75,routine call handling and routing
+2719,Public Safety Telecommunicators,Provide emergency medical instructions to callers.,0.20,life-critical caller guidance needs human authority
+2720,Public Safety Telecommunicators,"Monitor alarm systems to detect emergencies, such as fires and illegal entry into establishments.",0.90,digital monitoring of alarm feeds
+2721,Public Safety Telecommunicators,"Test and adjust communication and alarm systems, and report malfunctions to maintenance units.",0.30,adjusting communication and alarm hardware is physical
+2722,Public Safety Telecommunicators,Operate and maintain mobile dispatch vehicles and equipment.,0.05,physical vehicle operation and maintenance
+2723,"Dispatchers, Except Police, Fire, and Ambulance","Schedule or dispatch workers, work crews, equipment, or service vehicles to appropriate locations, according to customer requests, specifications, or needs, using radios or telephones.",0.75,scheduling and dispatch via digital communications
+2724,"Dispatchers, Except Police, Fire, and Ambulance",Arrange for necessary repairs to restore service and schedules.,0.65,coordination task arranging repairs
+2725,"Dispatchers, Except Police, Fire, and Ambulance","Relay work orders, messages, or information to or from work crews, supervisors, or field inspectors, using telephones or two-way radios.",0.75,message relay via digital channels
+2726,"Dispatchers, Except Police, Fire, and Ambulance","Confer with customers or supervising personnel to address questions, problems, or requests for service or equipment.",0.55,conversational customer and personnel coordination
+2727,"Dispatchers, Except Police, Fire, and Ambulance",Prepare daily work and run schedules.,0.90,schedule preparation task
+2728,"Dispatchers, Except Police, Fire, and Ambulance",Receive or prepare work orders.,0.90,work order document preparation
+2729,"Dispatchers, Except Police, Fire, and Ambulance",Oversee all communications within specifically assigned territories.,0.55,broad communications oversight role
+2730,"Dispatchers, Except Police, Fire, and Ambulance",Monitor personnel or equipment locations and utilization to coordinate service and schedules.,0.85,digital tracking and coordination
+2731,"Dispatchers, Except Police, Fire, and Ambulance","Record and maintain files or records of customer requests, work or services performed, charges, expenses, inventory, or other dispatch information.",0.90,record keeping task
+2732,"Dispatchers, Except Police, Fire, and Ambulance","Determine types or amounts of equipment, vehicles, materials, or personnel required, according to work orders or specifications.",0.85,analytical resource planning task
+2733,"Dispatchers, Except Police, Fire, and Ambulance","Advise personnel about traffic problems, such as construction areas, accidents, congestion, weather conditions, or other hazards.",0.80,info relay from traffic and hazard data
+2735,"Dispatchers, Except Police, Fire, and Ambulance",Order supplies or equipment and issue them to personnel.,0.45,ordering automatable but physical issuance needs a human
+2770,Executive Secretaries and Executive Administrative Assistants,Manage and maintain executives' schedules.,0.85,calendar management task
+2771,Executive Secretaries and Executive Administrative Assistants,"Prepare invoices, reports, memos, letters, financial statements, and other documents, using word processing, spreadsheet, database, or presentation software.",0.90,document generation task
+2772,Executive Secretaries and Executive Administrative Assistants,"Read and analyze incoming memos, submissions, and reports to determine their significance and plan their distribution.",0.85,reading and triage analysis
+2773,Executive Secretaries and Executive Administrative Assistants,"Open, sort, and distribute incoming correspondence, including faxes and email.",0.65,mostly digital sorting some physical mail handling
+2774,Executive Secretaries and Executive Administrative Assistants,"File and retrieve corporate documents, records, and reports.",0.60,digital filing feasible physical filing needs presence
+2775,Executive Secretaries and Executive Administrative Assistants,Greet visitors and determine whether they should be given access to specific individuals.,0.10,requires physical presence to greet visitors
+2776,Executive Secretaries and Executive Administrative Assistants,Prepare responses to correspondence containing routine inquiries.,0.90,routine correspondence drafting
+2779,Executive Secretaries and Executive Administrative Assistants,Make travel arrangements for executives.,0.75,travel booking via digital tools
+2780,Executive Secretaries and Executive Administrative Assistants,"Conduct research, compile data, and prepare papers for consideration and presentation by executives, committees, and boards of directors.",0.85,research and report preparation task
+2781,Executive Secretaries and Executive Administrative Assistants,"Compile, transcribe, and distribute minutes of meetings.",0.85,transcription and distribution of minutes
+2782,Executive Secretaries and Executive Administrative Assistants,Attend meetings to record minutes.,0.50,meeting presence often physical though virtual possible
+2784,Executive Secretaries and Executive Administrative Assistants,"Meet with individuals, special interest groups, and others on behalf of executives, committees, and boards of directors.",0.30,representing organization needs human trust and authority
+2785,Executive Secretaries and Executive Administrative Assistants,Set up and oversee administrative policies and procedures for offices or organizations.,0.55,policy design feasible but oversight needs authority
+2787,Executive Secretaries and Executive Administrative Assistants,"Review operating practices and procedures to determine whether improvements can be made in areas such as workflow, reporting procedures, or expenditures.",0.85,analytical process review task
+2788,Executive Secretaries and Executive Administrative Assistants,Interpret administrative and operating policies and procedures for employees.,0.85,policy interpretation and explanation task
+2790,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Answer telephones and give information to callers, take messages, or transfer calls to appropriate individuals.",0.70,phone answering automatable via voice agent
+2791,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Greet visitors or callers and handle their inquiries or direct them to the appropriate persons according to their needs.,0.30,in-person greeting needs physical presence
+2793,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Locate and attach appropriate files to incoming correspondence requiring replies.,0.85,digital file retrieval and attachment
+2794,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Open, read, route, and distribute incoming mail or other materials and answer routine letters.",0.55,mixed physical and digital mail handling
+2795,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Complete forms in accordance with company procedures.,0.90,form completion task
+2796,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Make copies of correspondence or other printed material.,0.05,physical photocopying task
+2797,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Review work done by others to check for correct spelling and grammar, ensure that company format policies are followed, and recommend revisions.",0.95,text proofreading and review task
+2799,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Learn to operate new office technologies as they are developed and implemented.,0.55,adapting to new tools feasible for digital ones only
+2800,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Maintain scheduling and event calendars.,0.90,calendar maintenance task
+2801,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Schedule and confirm appointments for clients, customers, or supervisors.",0.85,appointment scheduling task
+2802,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Manage projects or contribute to committee or team work.,0.55,project coordination with partial autonomy
+2803,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Mail newsletters, promotional material, or other information.",0.45,physical mailing versus digital distribution mixed
+2804,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Order and dispense supplies.,0.40,ordering automatable dispensing needs physical presence
+2805,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Conduct searches to find needed information, using such sources as the Internet.",0.95,web research task
+2806,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Provide services to customers, such as order placement or account information.",0.80,customer service via digital systems
+2808,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Prepare and mail checks.,0.30,check signing needs authority and physical mailing
+2809,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Establish work procedures or schedules and keep track of the daily work of clerical staff.,0.55,supervisory coordination task
+2812,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Arrange conference, meeting, or travel reservations for office personnel.",0.80,reservation booking via digital tools
+2813,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Operate electronic mail systems and coordinate the flow of information, internally or with other organizations.",0.90,digital email system coordination
+2814,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Supervise other clerical staff and provide training and orientation to new staff.,0.30,supervisory role needs human authority and rapport
+2815,Desktop Publishers,Check preliminary and final proofs for errors and make necessary corrections.,0.90,digital proofreading task
+2816,Desktop Publishers,"Operate desktop publishing software and equipment to design, lay out, and produce camera-ready copy.",0.85,digital layout and design task
+2817,Desktop Publishers,"View monitors for visual representation of work in progress and for instructions and feedback throughout process, making modifications as necessary.",0.80,iterative digital design review
+2818,Desktop Publishers,"Enter text into computer keyboard and select the size and style of type, column width, and appropriate spacing for printed materials.",0.90,digital typesetting task
+2819,Desktop Publishers,"Store copies of publications on paper, magnetic tape, film, or diskette.",0.15,physical media storage task
+2820,Desktop Publishers,"Position text and art elements from a variety of databases in a visually appealing way to design print or web pages, using knowledge of type styles and size and layout patterns.",0.85,digital design layout task
+2821,Desktop Publishers,"Enter digitized data into electronic prepress system computer memory, using scanner, camera, keyboard, or mouse.",0.40,requires physical scanner or camera operation
+2822,Desktop Publishers,"Edit graphics and photos, using pixel or bitmap editing, airbrushing, masking, or image retouching.",0.85,digital image editing task
+2823,Desktop Publishers,"Import text and art elements, such as electronic clip art or electronic files from photographs that have been scanned or produced with a digital camera, using computer software.",0.85,digital file import task
+2824,Desktop Publishers,"Prepare sample layouts for approval, using computer software.",0.85,digital layout preparation task
+2825,Desktop Publishers,Study layout or other design instructions to determine work to be done and sequence of operations.,0.85,planning and instruction comprehension task
+2826,Desktop Publishers,Load floppy disks or tapes containing information into system.,0.10,physical media loading task
+2827,Desktop Publishers,"Convert various types of files for printing or for the Internet, using computer software.",0.95,file conversion task
+2828,Desktop Publishers,"Enter data, such as coordinates of images and color specifications, into system to retouch and make color corrections.",0.85,digital data entry and correction
+2829,Desktop Publishers,Select number of colors and determine color separations.,0.80,color separation design decision
+2830,Desktop Publishers,"Transmit, deliver, or mail publication master to printer for production into film and plates.",0.45,mixed digital transmission and physical delivery
+2831,Desktop Publishers,"Collaborate with graphic artists, editors and writers to produce master copies according to design specifications.",0.65,digital collaboration on design work
+2832,Desktop Publishers,"Create special effects such as vignettes, mosaics, and image combining, and add elements such as sound and animation to electronic publications.",0.85,digital special effects and multimedia creation
+3351,"Compensation, Benefits, and Job Analysis Specialists","Evaluate job positions, determining classification, exempt or non-exempt status, and salary.",0.80,job classification analysis task
+3352,"Compensation, Benefits, and Job Analysis Specialists","Ensure company compliance with federal and state laws, including reporting requirements.",0.55,compliance monitoring but accountability needs human
+3353,"Compensation, Benefits, and Job Analysis Specialists","Advise managers and employees on state and federal employment regulations, collective agreements, benefit and compensation policies, personnel procedures, and classification programs.",0.65,advisory information task with liability considerations
+3354,"Compensation, Benefits, and Job Analysis Specialists","Plan, develop, evaluate, improve, and communicate methods and techniques for selecting, promoting, compensating, evaluating, and training workers.",0.75,HR methodology design task
+3355,"Compensation, Benefits, and Job Analysis Specialists",Provide advice on the resolution of classification and salary complaints.,0.55,advisory dispute resolution task
+3356,"Compensation, Benefits, and Job Analysis Specialists","Prepare occupational classifications, job descriptions, and salary scales.",0.85,document and data preparation task
+3357,"Compensation, Benefits, and Job Analysis Specialists",Assist in preparing and maintaining personnel records and handbooks.,0.85,documentation maintenance task
+3358,"Compensation, Benefits, and Job Analysis Specialists","Prepare reports, such as organization and flow charts and career path reports, to summarize job analysis and evaluation and compensation analysis information.",0.85,report and chart generation task
+3359,"Compensation, Benefits, and Job Analysis Specialists","Administer employee insurance, pension, and savings plans, working with insurance brokers and plan carriers.",0.55,plan administration involves fiduciary coordination
+3360,"Compensation, Benefits, and Job Analysis Specialists","Negotiate collective agreements on behalf of employers or workers, and mediate labor disputes and grievances.",0.25,negotiation and mediation needs human trust and authority
+3361,"Compensation, Benefits, and Job Analysis Specialists","Develop, implement, administer, and evaluate personnel and labor relations programs, including performance appraisal, affirmative action, and employment equity programs.",0.55,program design feasible administration needs authority
+3362,"Compensation, Benefits, and Job Analysis Specialists",Perform multifactor data and cost analyses that may be used in areas such as support of collective bargaining agreements.,0.85,data and cost analysis task
+3363,"Compensation, Benefits, and Job Analysis Specialists","Research employee benefit and health and safety practices, and recommend changes or modifications to existing policies.",0.85,research and policy recommendation task
+3364,"Compensation, Benefits, and Job Analysis Specialists","Analyze organizational, occupational, and industrial data to facilitate organizational functions and provide technical information to business, industry, and government.",0.85,data analysis and technical info task
+3365,"Compensation, Benefits, and Job Analysis Specialists",Advise staff of individuals' qualifications.,0.80,qualifications info relay task
+3366,"Compensation, Benefits, and Job Analysis Specialists",Assess need for and develop job analysis instruments and materials.,0.80,instrument design task
+3368,"Compensation, Benefits, and Job Analysis Specialists","Research job and worker requirements, structural and functional relationships among jobs and occupations, and occupational trends.",0.90,occupational research task
+3369,"Compensation, Benefits, and Job Analysis Specialists",Plan and develop curricula and materials for training programs and conduct training.,0.55,curriculum design feasible live training delivery limits
+3370,"Compensation, Benefits, and Job Analysis Specialists","Observe, interview, and survey employees and conduct focus group meetings to collect job, organizational, and occupational information.",0.55,interviewing and observation needs human rapport
+3371,"Compensation, Benefits, and Job Analysis Specialists","Consult with, or serve as, technical liaison between business, industry, government, and union officials.",0.35,liaison role needs human trust and representation
+3372,"Compensation, Benefits, and Job Analysis Specialists","Prepare research results for publication in form of journals, books, manuals, and film.",0.85,research writing and publication prep task
+3394,Budget Analysts,Analyze monthly department budgeting and accounting reports to maintain expenditure controls.,0.85,budget data analysis task
+3395,Budget Analysts,Direct the preparation of regular and special budget reports.,0.80,budget report preparation and direction
+3396,Budget Analysts,Consult with managers to ensure that budget adjustments are made in accordance with program changes.,0.55,consultative coordination with managers
+3397,Budget Analysts,"Match appropriations for specific programs with appropriations for broader programs, including items for emergency funds.",0.80,appropriations matching analysis task
+3398,Budget Analysts,"Provide advice and technical assistance with cost analysis, fiscal allocation, and budget preparation.",0.80,technical advisory task
+3399,Budget Analysts,Summarize budgets and submit recommendations for the approval or disapproval of funds requests.,0.80,budget summarization and recommendation task
+3400,Budget Analysts,Seek new ways to improve efficiency and increase profits.,0.75,efficiency improvement analysis task
+3401,Budget Analysts,Review operating budgets to analyze trends affecting budget needs.,0.85,budget trend analysis task
+3402,Budget Analysts,"Examine budget estimates for completeness, accuracy, and conformance with procedures and regulations.",0.85,budget estimate review task
+3403,Budget Analysts,"Perform cost-benefit analyses to compare operating programs, review financial requests, or explore alternative financing methods.",0.85,cost benefit analysis task
+3404,Budget Analysts,Interpret budget directives and establish policies for carrying out directives.,0.65,directive interpretation policy setting needs authority
+3405,Budget Analysts,Compile and analyze accounting records and other data to determine the financial resources required to implement a program.,0.85,financial data analysis task
+3406,Budget Analysts,"Testify before examining and fund-granting authorities, clarifying and promoting the proposed budgets.",0.15,live testimony needs human presence and authority
+3407,Loan Officers,"Approve loans within specified limits, and refer loan applications outside those limits to management for approval.",0.25,loan approval requires financial authority
+3408,Loan Officers,Meet with applicants to obtain information for loan applications and to answer questions about the process.,0.55,applicant interview moderate complexity
+3409,Loan Officers,"Analyze applicants' financial status, credit, and property evaluations to determine feasibility of granting loans.",0.85,financial analysis task
+3410,Loan Officers,"Explain to customers the different types of loans and credit options that are available, as well as the terms of those services.",0.85,loan product explanation task
+3411,Loan Officers,"Obtain and compile copies of loan applicants' credit histories, corporate financial statements, and other financial information.",0.80,financial data gathering task
+3412,Loan Officers,Review and update credit and loan files.,0.85,file review and update task
+3413,Loan Officers,Review loan agreements to ensure that they are complete and accurate according to policy.,0.85,document review task
+3414,Loan Officers,Compute payment schedules.,0.95,payment schedule computation
+3415,Loan Officers,Stay abreast of new types of loans and other financial services and products to better meet customers' needs.,0.90,continuous research task
+3416,Loan Officers,Submit applications to credit analysts for verification and recommendation.,0.85,application submission workflow task
+3417,Loan Officers,Handle customer complaints and take appropriate action to resolve them.,0.50,complaint handling may need authority to resolve
+3418,Loan Officers,Work with clients to identify their financial goals and to find ways of reaching those goals.,0.50,financial goal consultation moderate complexity
+3421,Loan Officers,"Market bank products to individuals and firms, promoting bank services that may meet customers' needs.",0.65,marketing and promotion task
+3422,Loan Officers,Supervise loan personnel.,0.25,supervisory role needs human authority
+3423,Loan Officers,"Set credit policies, credit lines, procedures and standards in conjunction with senior managers.",0.35,policy setting requires organizational authority
+3425,Loan Officers,Analyze potential loan markets and develop referral networks to locate prospects for loans.,0.55,market analysis plus relationship building
+3426,Loan Officers,"Prepare reports to send to customers whose accounts are delinquent, and forward irreconcilable accounts for collector action.",0.80,delinquency report preparation and forwarding
+3773,Lawyers,"Advise clients concerning business transactions, claim liability, advisability of prosecuting or defending lawsuits, or legal rights and obligations.",0.15,legal advice requires licensed authority
+3774,Lawyers,"Interpret laws, rulings and regulations for individuals and businesses.",0.35,legal interpretation typically needs licensed authority
+3775,Lawyers,"Analyze the probable outcomes of cases, using knowledge of legal precedents.",0.55,legal research and case analysis task
+3776,Lawyers,Present and summarize cases to judges and juries.,0.05,requires licensed courtroom representation
+3777,Lawyers,Evaluate findings and develop strategies and arguments in preparation for presentation of cases.,0.55,strategy prep is analytical writing task
+3778,Lawyers,Gather evidence to formulate defense or to initiate legal actions by such means as interviewing clients and witnesses to ascertain the facts of a case.,0.35,evidence gathering needs interviewing and legal standing
+3779,Lawyers,Represent clients in court or before government agencies.,0.05,requires licensed representation and physical presence
+3780,Lawyers,Examine legal data to determine advisability of defending or prosecuting lawsuit.,0.55,legal data analysis task

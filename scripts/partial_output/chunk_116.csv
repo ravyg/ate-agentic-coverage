@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+8334,Automotive Glass Installers and Repairers,"Install new foam dams on pinchwelds, if required.",0.05,physical installation on vehicle
+8330,Automotive Glass Installers and Repairers,Install rubber channeling strips around edges of glass or frames to weatherproof windows or to prevent rattling.,0.05,physical installation of parts
+8331,Automotive Glass Installers and Repairers,Hold cut or uneven edges of glass against automated abrasive belts to shape or smooth edges.,0.02,manual physical shaping of glass
+8332,Automotive Glass Installers and Repairers,Cut flat safety glass according to specified patterns or perform precision pattern making and glass cutting to custom fit replacement windows.,0.05,physical glass cutting
+23523,Automotive Service Technicians and Mechanics,Inspect vehicles for damage and record findings so that necessary repairs can be made.,0.10,physical inspection of vehicle
+23522,Automotive Service Technicians and Mechanics,"Test drive vehicles and test components and systems, using equipment such as infrared engine analyzers, compression gauges, and computerized diagnostic devices.",0.02,physical test driving
+23524,Automotive Service Technicians and Mechanics,Test and adjust repaired systems to meet manufacturers' performance specifications.,0.05,physical adjustment of systems
+23525,Automotive Service Technicians and Mechanics,"Repair, reline, replace, and adjust brakes.",0.03,physical brake repair
+23527,Automotive Service Technicians and Mechanics,Review work orders and discuss work with supervisors.,0.45,reviewing orders and discussing with supervisors
+23526,Automotive Service Technicians and Mechanics,Estimate costs of vehicle repair.,0.55,cost estimation from repair data
+23529,Automotive Service Technicians and Mechanics,Confer with customers to obtain descriptions of vehicle problems and to discuss work to be performed and future repair requirements.,0.55,remote conversation with customer possible
+23530,Automotive Service Technicians and Mechanics,Align vehicles' front ends.,0.02,physical front end alignment
+23537,Automotive Service Technicians and Mechanics,"Align wheels, axles, frames, torsion bars, and steering mechanisms of automobiles, using special alignment equipment and wheel-balancing machines.",0.02,physical alignment work
+23532,Automotive Service Technicians and Mechanics,"Tear down, repair, and rebuild faulty assemblies, such as power systems, steering systems, and linkages.",0.02,physical teardown and rebuild
+23533,Automotive Service Technicians and Mechanics,"Perform routine and scheduled maintenance services, such as oil changes, lubrications, and tune-ups.",0.02,hands-on routine maintenance
+23535,Automotive Service Technicians and Mechanics,"Plan work procedures, using charts, technical manuals, and experience.",0.55,planning work procedures from manuals
+23534,Automotive Service Technicians and Mechanics,"Follow checklists to ensure all important parts are examined, including belts, hoses, steering systems, spark plugs, brake and fuel systems, wheel bearings, and other potentially troublesome areas.",0.05,physical checklist inspection
+23536,Automotive Service Technicians and Mechanics,Maintain cleanliness of work area.,0.00,physical cleaning of workspace
+23542,Automotive Service Technicians and Mechanics,"Change spark plugs, fuel filters, air filters, and batteries in hybrid electric vehicles.",0.02,physical parts replacement
+23540,Automotive Service Technicians and Mechanics,"Repair and service air conditioning, heating, engine cooling, and electrical systems.",0.03,physical repair of vehicle systems
+23541,Automotive Service Technicians and Mechanics,"Disassemble units and inspect parts for wear, using micrometers, calipers, and gauges.",0.03,physical disassembly and measurement
+23531,Automotive Service Technicians and Mechanics,Test electronic computer components in automobiles to ensure proper operation.,0.10,requires physical connection to test equipment
+23543,Automotive Service Technicians and Mechanics,"Overhaul or replace carburetors, blowers, generators, distributors, starters, and pumps.",0.02,physical overhaul of components
+23544,Automotive Service Technicians and Mechanics,"Repair or replace parts such as pistons, rods, gears, valves, and bearings.",0.02,physical parts replacement
+23545,Automotive Service Technicians and Mechanics,"Rewire ignition systems, lights, and instrument panels.",0.02,physical rewiring
+23528,Automotive Service Technicians and Mechanics,"Troubleshoot fuel, ignition, and emissions control systems, using electronic testing equipment.",0.15,diagnostic reasoning possible but needs physical equipment hookup
+23538,Automotive Service Technicians and Mechanics,Tune automobile engines to ensure proper and efficient functioning.,0.03,physical engine tuning
+23539,Automotive Service Technicians and Mechanics,"Repair, replace, or adjust defective fuel injectors, carburetor parts, and gasoline filters.",0.02,physical parts adjustment
+23546,Automotive Service Technicians and Mechanics,"Install, adjust, or repair hydraulic or electromagnetic automatic lift mechanisms used to raise and lower automobile windows, seats, and tops.",0.02,physical mechanism installation
+23548,Automotive Service Technicians and Mechanics,"Conduct visual inspections of compressed natural gas fuel systems to identify cracks, gouges, abrasions, discoloration, broken fibers, loose brackets, damaged gaskets, or other problems.",0.08,mostly on site visual inspection
+23547,Automotive Service Technicians and Mechanics,"Rebuild parts, such as crankshafts and cylinder blocks.",0.02,physical part rebuilding
+23549,Automotive Service Technicians and Mechanics,"Diagnose and replace or repair engine management systems or related sensors for flexible fuel vehicles (FFVs) with ignition timing, fuel rate, alcohol concentration, or air-to-fuel ratio malfunctions.",0.10,diagnosis partly analytical but repair is physical
+23550,Automotive Service Technicians and Mechanics,Repair or rebuild transmissions.,0.02,physical transmission rebuild
+23551,Automotive Service Technicians and Mechanics,"Retrofit vehicle fuel systems with aftermarket products, such as vapor transfer devices, evaporation control devices, swirlers, lean burn devices, and friction reduction devices, to enhance combustion and fuel efficiency.",0.03,physical retrofit installation
+2981,Bus and Truck Mechanics and Diesel Engine Specialists,"Use handtools, such as screwdrivers, pliers, wrenches, pressure gauges, or precision instruments, as well as power tools, such as pneumatic wrenches, lathes, welding equipment, or jacks and hoists.",0.02,physical tool use
+2982,Bus and Truck Mechanics and Diesel Engine Specialists,"Inspect brake systems, steering mechanisms, wheel bearings, and other important parts to ensure that they are in proper operating condition.",0.05,physical inspection of vehicle systems
+2985,Bus and Truck Mechanics and Diesel Engine Specialists,"Raise trucks, buses, and heavy parts or equipment using hydraulic jacks or hoists.",0.02,physical lifting of vehicles
+2984,Bus and Truck Mechanics and Diesel Engine Specialists,"Adjust and reline brakes, align wheels, tighten bolts and screws, and reassemble equipment.",0.02,physical brake and wheel work
+2991,Bus and Truck Mechanics and Diesel Engine Specialists,"Attach test instruments to equipment, and read dials and gauges to diagnose malfunctions.",0.10,physical instrument attachment though reading data analyzable
+2983,Bus and Truck Mechanics and Diesel Engine Specialists,"Perform routine maintenance such as changing oil, checking batteries, and lubricating equipment and machinery.",0.02,hands-on maintenance
+2988,Bus and Truck Mechanics and Diesel Engine Specialists,"Examine and adjust protective guards, loose bolts, and specified safety devices.",0.03,physical inspection and adjustment
+2987,Bus and Truck Mechanics and Diesel Engine Specialists,"Inspect, test, and listen to defective equipment to diagnose malfunctions, using test instruments such as handheld computers, motor analyzers, chassis charts, or pressure gauges.",0.05,physical inspection and listening
+2992,Bus and Truck Mechanics and Diesel Engine Specialists,"Rewire ignition systems, lights, and instrument panels.",0.02,physical rewiring
+2986,Bus and Truck Mechanics and Diesel Engine Specialists,Test drive trucks and buses to diagnose malfunctions or to ensure that they are working properly.,0.02,physical test driving
+18582,Bus and Truck Mechanics and Diesel Engine Specialists,Diagnose and repair vehicle heating and cooling systems.,0.05,physical repair of vehicle systems
+2995,Bus and Truck Mechanics and Diesel Engine Specialists,"Inspect, repair, and maintain automotive and mechanical equipment and machinery, such as pumps and compressors.",0.03,physical equipment repair
+2989,Bus and Truck Mechanics and Diesel Engine Specialists,Inspect and verify dimensions and clearances of parts to ensure conformance to factory specifications.,0.05,physical measurement of parts
+2996,Bus and Truck Mechanics and Diesel Engine Specialists,"Disassemble and overhaul internal combustion engines, pumps, generators, transmissions, clutches, and differential units.",0.02,physical disassembly of engines
+19886,Bus and Truck Mechanics and Diesel Engine Specialists,Adjust or repair computer controlled exhaust emissions devices.,0.05,physical adjustment of emissions devices
+2997,Bus and Truck Mechanics and Diesel Engine Specialists,Rebuild gas or diesel engines.,0.02,physical engine rebuild
+2990,Bus and Truck Mechanics and Diesel Engine Specialists,"Specialize in repairing and maintaining parts of the engine, such as fuel injection systems.",0.02,physical fuel system repair
+2993,Bus and Truck Mechanics and Diesel Engine Specialists,"Recondition and replace parts, pistons, bearings, gears, and valves.",0.02,physical parts reconditioning
+20453,Bus and Truck Mechanics and Diesel Engine Specialists,Install or repair accessories.,0.03,physical accessory installation
+20454,Bus and Truck Mechanics and Diesel Engine Specialists,"Repair or adjust seats, doors, or windows.",0.03,physical seat door window repair
+23955,Bus and Truck Mechanics and Diesel Engine Specialists,"Dismount, mount, and repair or replace tires.",0.02,physical tire mounting
+2998,Bus and Truck Mechanics and Diesel Engine Specialists,Align front ends and suspension systems.,0.02,physical suspension alignment
+19888,Bus and Truck Mechanics and Diesel Engine Specialists,"Maintain or repair vehicles with alternative fuel systems, including biodiesel, hybrid, or compressed natural gas vehicles.",0.02,physical vehicle repair
+19889,Bus and Truck Mechanics and Diesel Engine Specialists,Measure vehicle emissions to determine whether they are within acceptable limits.,0.08,physical measurement with emissions equipment
+19887,Bus and Truck Mechanics and Diesel Engine Specialists,Follow green operational practices involving conservation of water or energy or reduction of solid waste.,0.10,physical workplace practices
+2999,Bus and Truck Mechanics and Diesel Engine Specialists,Operate valve-grinding machines to grind and reset valves.,0.02,physical machine operation
+13749,Farm Equipment Mechanics and Service Technicians,"Reassemble machines and equipment following repair, testing operation and making adjustments, as necessary.",0.02,physical reassembly and testing
+13750,Farm Equipment Mechanics and Service Technicians,"Maintain, repair, and overhaul farm machinery and vehicles, such as tractors, harvesters, and irrigation systems.",0.02,physical machinery repair
+13751,Farm Equipment Mechanics and Service Technicians,"Examine and listen to equipment, read inspection reports, and confer with customers to locate and diagnose malfunctions.",0.15,mostly physical examination some conferring with customers
+13748,Farm Equipment Mechanics and Service Technicians,Record details of repairs made and parts used.,0.75,documentation of repairs and parts
+13752,Farm Equipment Mechanics and Service Technicians,"Dismantle defective machines for repair, using hand tools.",0.02,physical dismantling
+13755,Farm Equipment Mechanics and Service Technicians,Clean and lubricate parts.,0.02,physical cleaning and lubrication
+13754,Farm Equipment Mechanics and Service Technicians,"Repair or replace defective parts, using hand tools, milling and woodworking machines, lathes, welding equipment, grinders, or saws.",0.02,physical parts replacement
+13753,Farm Equipment Mechanics and Service Technicians,"Test and replace electrical components and wiring, using test meters, soldering equipment, and hand tools.",0.03,physical electrical testing
+13756,Farm Equipment Mechanics and Service Technicians,Tune or overhaul engines.,0.02,physical engine tuning
+13757,Farm Equipment Mechanics and Service Technicians,Drive trucks to haul tools and equipment for on-site repair of large machinery.,0.00,physical driving and on-site presence
+13758,Farm Equipment Mechanics and Service Technicians,"Fabricate new metal parts, using drill presses, engine lathes, and other machine tools.",0.02,physical metal fabrication
+13761,Farm Equipment Mechanics and Service Technicians,Repair bent or torn sheet metal.,0.02,physical sheet metal repair
+13759,Farm Equipment Mechanics and Service Technicians,"Calculate bills according to record of repairs made, labor time, and parts used.",0.85,billing calculation from records
+13760,Farm Equipment Mechanics and Service Technicians,"Install and repair agricultural irrigation, plumbing, and sprinkler systems.",0.02,physical irrigation plumbing installation
+3001,"Mobile Heavy Equipment Mechanics, Except Engines",Repair and replace damaged or worn parts.,0.02,physical parts repair
+3000,"Mobile Heavy Equipment Mechanics, Except Engines",Test mechanical products and equipment after repair or assembly to ensure proper performance and compliance with manufacturers' specifications.,0.05,physical equipment testing
+3002,"Mobile Heavy Equipment Mechanics, Except Engines",Operate and inspect machines or heavy equipment to diagnose defects.,0.05,physical equipment operation and inspection
+3008,"Mobile Heavy Equipment Mechanics, Except Engines","Read and understand operating manuals, blueprints, and technical drawings.",0.85,reading manuals and technical drawings
+3004,"Mobile Heavy Equipment Mechanics, Except Engines",Dismantle and reassemble heavy equipment using hoists and hand tools.,0.02,physical dismantling with hoists
+3009,"Mobile Heavy Equipment Mechanics, Except Engines",Overhaul and test machines or equipment to ensure operating efficiency.,0.03,physical machine overhaul
+3014,"Mobile Heavy Equipment Mechanics, Except Engines","Adjust, maintain, and repair or replace subassemblies, such as transmissions and crawler heads, using hand tools, jacks, and cranes.",0.02,physical subassembly repair
+18583,"Mobile Heavy Equipment Mechanics, Except Engines","Repair, rewire, and troubleshoot electrical systems.",0.03,physical electrical troubleshooting
+3003,"Mobile Heavy Equipment Mechanics, Except Engines","Diagnose faults or malfunctions to determine required repairs, using engine diagnostic equipment such as computerized test equipment and calibration devices.",0.12,diagnostic reasoning but needs physical equipment hookup
+3006,"Mobile Heavy Equipment Mechanics, Except Engines","Examine parts for damage or excessive wear, using micrometers and gauges.",0.05,physical measurement of parts wear
+3012,"Mobile Heavy Equipment Mechanics, Except Engines","Weld or solder broken parts and structural members, using electric or gas welders and soldering tools.",0.01,physical welding and soldering
+18584,"Mobile Heavy Equipment Mechanics, Except Engines","Research, order, and maintain parts inventory for services and repairs.",0.75,parts research ordering and inventory tracking
+3011,"Mobile Heavy Equipment Mechanics, Except Engines","Fit bearings to adjust, repair, or overhaul mobile mechanical, hydraulic, and pneumatic equipment.",0.02,physical bearing fitting
+3007,"Mobile Heavy Equipment Mechanics, Except Engines","Schedule maintenance for industrial machines and equipment, and keep equipment service records.",0.80,scheduling and recordkeeping
+3005,"Mobile Heavy Equipment Mechanics, Except Engines","Clean, lubricate, and perform other routine maintenance work on equipment and vehicles.",0.02,physical cleaning and lubrication
+3010,"Mobile Heavy Equipment Mechanics, Except Engines","Assemble gear systems, and align frames and gears.",0.02,physical gear assembly
+3013,"Mobile Heavy Equipment Mechanics, Except Engines",Clean parts by spraying them with grease solvent or immersing them in tanks of solvent.,0.01,physical solvent cleaning
+3015,"Mobile Heavy Equipment Mechanics, Except Engines","Adjust and maintain industrial machinery, using control and regulating devices.",0.10,physical machinery adjustment
+3016,"Mobile Heavy Equipment Mechanics, Except Engines",Fabricate needed parts or items from sheet metal.,0.02,physical sheet metal fabrication
+3017,"Mobile Heavy Equipment Mechanics, Except Engines",Direct workers who are assembling or disassembling equipment or cleaning parts.,0.25,directing on site workers lacks physical authority
+9986,Rail Car Repairers,"Record conditions of cars, and repair and maintenance work performed or to be performed.",0.75,recordkeeping of car conditions and work
+9988,Rail Car Repairers,"Inspect components such as bearings, seals, gaskets, wheels, and coupler assemblies to determine if repairs are needed.",0.05,physical component inspection
+9984,Rail Car Repairers,"Repair or replace defective or worn parts such as bearings, pistons, and gears, using hand tools, torque wrenches, power tools, and welding equipment.",0.02,physical parts repair
+9989,Rail Car Repairers,Inspect the interior and exterior of rail cars coming into rail yards to identify defects and to determine the extent of wear and damage.,0.05,physical inspection of rail cars
+9987,Rail Car Repairers,"Remove locomotives, car mechanical units, or other components, using pneumatic hoists and jacks, pinch bars, hand tools, and cutting torches.",0.02,physical removal with hoists and jacks
+9985,Rail Car Repairers,Test units for operability before and after repairs.,0.05,physical operability testing
+9990,Rail Car Repairers,Adjust repaired or replaced units as needed to ensure proper operation.,0.03,physical adjustment of units
+9992,Rail Car Repairers,"Repair, fabricate, and install steel or wood fittings, using blueprints, shop sketches, and instruction manuals.",0.02,physical fitting installation
+9991,Rail Car Repairers,"Perform scheduled maintenance, and clean units and components.",0.02,physical maintenance and cleaning
+10000,Rail Car Repairers,"Examine car roofs for wear and damage, and repair defective sections, using roofing material, cement, nails, and waterproof paint.",0.02,physical roof repair
+10001,Rail Car Repairers,"Paint car exteriors, interiors, and fixtures.",0.02,physical painting
+9993,Rail Car Repairers,Repair and maintain electrical and electronic controls for propulsion and braking systems.,0.03,physical electrical control repair
+9994,Rail Car Repairers,"Disassemble units such as water pumps, control valves, and compressors so that repairs can be made.",0.02,physical unit disassembly
+9995,Rail Car Repairers,"Measure diameters of axle wheel seats, using micrometers, and mark dimensions on axles so that wheels can be bored to specified dimensions.",0.03,physical measurement with micrometers
+9998,Rail Car Repairers,Test electrical systems of cars by operating systems and using testing equipment such as ammeters.,0.05,physical electrical system testing
+9997,Rail Car Repairers,"Replace defective wiring and insulation, and tighten electrical connections, using hand tools.",0.02,physical wiring replacement
+9999,Rail Car Repairers,"Install and repair interior flooring, fixtures, walls, plumbing, steps, and platforms.",0.02,physical interior installation
+10003,Rail Car Repairers,"Repair window sash frames, attach weather stripping and channels to frames, and replace window glass, using hand tools.",0.02,physical window frame repair
+9996,Rail Car Repairers,"Align car sides for installation of car ends and crossties, using width gauges, turnbuckles, and wrenches.",0.02,physical car side alignment
+10002,Rail Car Repairers,Repair car upholstery.,0.02,physical upholstery repair
+13764,Motorboat Mechanics and Service Technicians,"Start motors and monitor performance for signs of malfunctioning, such as smoke, excessive vibration, or misfiring.",0.05,physical motor monitoring
+13765,Motorboat Mechanics and Service Technicians,Document inspection and test results and work performed or to be performed.,0.75,documentation of inspection and test results
+13763,Motorboat Mechanics and Service Technicians,"Mount motors to boats, and operate boats at various speeds on waterways to conduct operational tests.",0.02,physical motor mounting and boat operation
+13770,Motorboat Mechanics and Service Technicians,"Repair engine mechanical equipment, such as power tilts, bilge pumps, or power take-offs.",0.02,physical engine equipment repair
+20801,Motorboat Mechanics and Service Technicians,"Perform routine engine maintenance on motorboats, such as changing oil and filters.",0.02,physical routine maintenance
+13766,Motorboat Mechanics and Service Technicians,"Replace parts, such as gears, magneto points, piston rings, or spark plugs, and reassemble engines.",0.02,physical parts replacement
+13767,Motorboat Mechanics and Service Technicians,Idle motors and observe thermometers to determine the effectiveness of cooling systems.,0.05,physical monitoring of cooling system
+13771,Motorboat Mechanics and Service Technicians,Inspect and repair or adjust propellers or propeller shafts.,0.02,physical propeller repair
+13769,Motorboat Mechanics and Service Technicians,"Adjust carburetor mixtures, electrical point settings, or timing while motors are running in water-filled test tanks.",0.03,physical carburetor adjustment
+13768,Motorboat Mechanics and Service Technicians,"Set starter locks and align and repair steering or throttle controls, using gauges, screwdrivers, or wrenches.",0.02,physical steering control repair
+13762,Motorboat Mechanics and Service Technicians,"Disassemble and inspect motors to locate defective parts, using mechanic's hand tools and gauges.",0.03,physical motor disassembly
+13773,Motorboat Mechanics and Service Technicians,"Adjust generators and replace faulty wiring, using hand tools and soldering irons.",0.02,physical wiring and soldering
+13772,Motorboat Mechanics and Service Technicians,"Repair or rework parts, using machine tools such as lathes, mills, drills, or grinders.",0.02,physical machine tool rework
+20651,Motorcycle Mechanics,"Mount, balance, change, or check condition or pressure of tires.",0.02,physical tire mounting
+8353,Motorcycle Mechanics,"Replace defective parts, using hand tools, arbor presses, flexible power presses, or power tools.",0.02,physical parts replacement
+8357,Motorcycle Mechanics,"Dismantle engines and repair or replace defective parts, such as magnetos, carburetors, or generators.",0.02,physical engine dismantling

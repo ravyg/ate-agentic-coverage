@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+13830,"Refractory Materials Repairers, Except Brickmasons","Dump and tamp clay in molds, using tamping tools.",0.00,physical manual work forming clay
+13832,"Refractory Materials Repairers, Except Brickmasons","Transfer clay structures to curing ovens, melting tanks, and drawing kilns, using forklifts.",0.00,physical transfer using forklift
+8412,Electrical Power-Line Installers and Repairers,"Adhere to safety practices and procedures, such as checking equipment regularly and erecting barriers around work areas.",0.05,on-site safety inspection and physical barriers
+8418,Electrical Power-Line Installers and Repairers,Drive vehicles equipped with tools and materials to job sites.,0.00,physical driving to job site
+8413,Electrical Power-Line Installers and Repairers,Open switches or attach grounding devices to remove electrical hazards from disturbed or fallen lines or to facilitate repairs.,0.00,physical work on live electrical hazards
+8414,Electrical Power-Line Installers and Repairers,Climb poles or use truck-mounted buckets to access equipment.,0.00,physical climbing to access equipment
+8416,Electrical Power-Line Installers and Repairers,"Install, maintain, and repair electrical distribution and transmission systems, including conduits, cables, wires, and related equipment, such as transformers, circuit breakers, and switches.",0.00,physical installation and repair of lines
+8420,Electrical Power-Line Installers and Repairers,"Inspect and test power lines and auxiliary equipment to locate and identify problems, using reading and testing instruments.",0.05,on-site physical inspection with instruments
+8419,Electrical Power-Line Installers and Repairers,Coordinate work assignment preparation and completion with other workers.,0.35,agent can assist coordination but crew presence needed
+8423,Electrical Power-Line Installers and Repairers,Replace or straighten damaged poles.,0.00,physical pole replacement
+8421,Electrical Power-Line Installers and Repairers,"String wire conductors and cables between poles, towers, trenches, pylons, and buildings, setting lines in place and using winches to adjust tension.",0.00,physical stringing of cables
+8425,Electrical Power-Line Installers and Repairers,"Attach cross-arms, insulators, and auxiliary equipment to poles prior to installing them.",0.00,physical attachment of hardware to poles
+8427,Electrical Power-Line Installers and Repairers,"Dig holes, using augers, and set poles, using cranes and power equipment.",0.00,physical digging and pole setting
+8426,Electrical Power-Line Installers and Repairers,"Travel in trucks, helicopters, and airplanes to inspect lines for freedom from obstruction and adequacy of insulation.",0.00,physical travel and visual inspection on site
+8417,Electrical Power-Line Installers and Repairers,"Identify defective sectionalizing devices, circuit breakers, fuses, voltage regulators, transformers, switches, relays, or wiring, using wiring diagrams and electrical-testing instruments.",0.05,physical testing with instruments on site
+8424,Electrical Power-Line Installers and Repairers,Install watt-hour meters and connect service drops between power lines and consumers' facilities.,0.00,physical meter installation
+8422,Electrical Power-Line Installers and Repairers,"Test conductors, according to electrical diagrams and specifications, to identify corresponding conductors and to prevent incorrect connections.",0.05,physical conductor testing on site
+8415,Electrical Power-Line Installers and Repairers,Place insulating or fireproofing materials over conductors and joints.,0.00,physical application of insulating materials
+8429,Electrical Power-Line Installers and Repairers,"Splice or solder cables together or to overhead transmission lines, customer service lines, or street light lines, using hand tools, epoxies, or specialized equipment.",0.00,physical splicing and soldering
+8428,Electrical Power-Line Installers and Repairers,Trim trees that could be hazardous to the functioning of cables or wires.,0.00,physical tree trimming
+8432,Electrical Power-Line Installers and Repairers,Pull up cable by hand from large reels mounted on trucks.,0.00,physical manual cable pulling
+8433,Electrical Power-Line Installers and Repairers,"Lay underground cable directly in trenches, or string it through conduit running through the trenches.",0.00,physical trenching and cable laying
+8434,Electrical Power-Line Installers and Repairers,"Cut trenches for laying underground cables, using trenchers and cable plows.",0.00,physical trench cutting
+8430,Electrical Power-Line Installers and Repairers,Cut and peel lead sheathing and insulation from defective or newly installed cables and conduits prior to splicing.,0.00,physical cutting of cable sheathing
+8431,Electrical Power-Line Installers and Repairers,"Clean, tin, and splice corresponding conductors by twisting ends together or by joining ends with metal clamps and soldering connections.",0.00,physical cleaning and splicing
+11850,Telecommunications Line Installers and Repairers,"Set up service for customers, installing, connecting, testing, or adjusting equipment.",0.00,physical on-site installation for customer
+11846,Telecommunications Line Installers and Repairers,"Travel to customers' premises to install, maintain, or repair audio and visual electronic reception equipment or accessories.",0.00,physical travel to install and repair equipment
+11849,Telecommunications Line Installers and Repairers,"Measure signal strength at utility poles, using electronic test equipment.",0.05,physical on-site signal measurement
+11847,Telecommunications Line Installers and Repairers,"Inspect or test lines or cables, recording and analyzing test results, to assess transmission characteristics and locate faults or malfunctions.",0.10,mostly physical testing with some data analysis
+11848,Telecommunications Line Installers and Repairers,"Splice cables, using hand tools, epoxy, or mechanical equipment.",0.00,physical cable splicing
+11852,Telecommunications Line Installers and Repairers,"Access specific areas to string lines, or install terminal boxes, auxiliary equipment, or appliances, using bucket trucks, climbing poles or ladders, or entering tunnels, trenches, or crawl spaces.",0.00,physical access via climbing to install
+11857,Telecommunications Line Installers and Repairers,Clean or maintain tools or test equipment.,0.00,physical tool cleaning and maintenance
+11853,Telecommunications Line Installers and Repairers,"String cables between structures and lines from poles, towers, or trenches, and pull lines to proper tension.",0.00,physical cable stringing and tensioning
+20806,Telecommunications Line Installers and Repairers,Pull up cable by hand from large reels mounted on trucks.,0.00,physical manual cable pulling
+11855,Telecommunications Line Installers and Repairers,"Lay underground cable directly in trenches, or string it through conduits running through trenches.",0.00,physical trenching and cable laying
+20807,Telecommunications Line Installers and Repairers,Pull cable through ducts by hand or with winches.,0.00,physical cable pulling through ducts
+11861,Telecommunications Line Installers and Repairers,Dig trenches for underground wires or cables.,0.00,physical trench digging
+11858,Telecommunications Line Installers and Repairers,"Explain cable service to subscribers after installation, and collect any installation fees due.",0.15,explaining doable but fee collection needs physical presence
+11851,Telecommunications Line Installers and Repairers,"Place insulation over conductors, or seal splices with moisture-proof covering.",0.00,physical insulation placement
+11859,Telecommunications Line Installers and Repairers,Compute impedance of wires from poles to houses to determine additional resistance needed for reducing signals to desired levels.,0.75,pure computation of wire impedance
+11854,Telecommunications Line Installers and Repairers,Install equipment such as amplifiers or repeaters to maintain the strength of communications transmissions.,0.00,physical equipment installation
+11860,Telecommunications Line Installers and Repairers,"Use a variety of construction equipment to complete installations, such as digger derricks, trenchers, or cable plows.",0.00,physical construction equipment operation
+11863,Telecommunications Line Installers and Repairers,"Fill and tamp holes, using cement, earth, and tamping devices.",0.00,physical hole filling and tamping
+11862,Telecommunications Line Installers and Repairers,"Dig holes for power poles, using power augers or shovels, set poles in place with cranes, and hoist poles upright, using winches.",0.00,physical hole digging and pole setting
+8437,Camera and Photographic Equipment Repairers,"Adjust cameras, photographic mechanisms, or equipment such as range and view finders, shutters, light meters, or lens systems, using hand tools.",0.00,physical camera adjustment with hand tools
+8436,Camera and Photographic Equipment Repairers,"Disassemble equipment to gain access to defect, using hand tools.",0.00,physical disassembly of equipment
+8440,Camera and Photographic Equipment Repairers,"Test equipment performance, focus of lens system, diaphragm alignment, lens mounts, or film transport, using precision gauges.",0.00,physical testing with precision gauges
+8438,Camera and Photographic Equipment Repairers,"Clean and lubricate cameras and polish camera lenses, using cleaning materials and work aids.",0.00,physical cleaning and polishing
+8442,Camera and Photographic Equipment Repairers,Requisition parts or materials.,0.75,administrative parts requisition
+8435,Camera and Photographic Equipment Repairers,"Calibrate and verify accuracy of light meters, shutter diaphragm operation, or lens carriers, using timing instruments.",0.00,physical calibration with instruments
+8441,Camera and Photographic Equipment Repairers,"Examine cameras, equipment, processed film, or laboratory reports to diagnose malfunction, using work aids and specifications.",0.10,mostly physical examination with minor analysis
+8443,Camera and Photographic Equipment Repairers,"Read and interpret engineering drawings, diagrams, instructions, or specifications to determine needed repairs, fabrication method, and operation sequence.",0.55,reading and interpreting technical drawings
+8439,Camera and Photographic Equipment Repairers,"Measure parts to verify specified dimensions or settings, such as camera shutter speed or light meter reading accuracy, using measuring instruments.",0.00,physical measurement with instruments
+8444,Camera and Photographic Equipment Repairers,"Fabricate or modify defective electronic, electrical, or mechanical components, using bench lathe, milling machine, shaper, grinder, or precision hand tools, according to specifications.",0.00,physical machining and fabrication
+20808,Camera and Photographic Equipment Repairers,"Install electrical assemblies and wiring in aircraft camera housings and memory cards or film in cameras, following blueprints and using hand tools and soldering equipment.",0.00,physical wiring installation
+8445,Camera and Photographic Equipment Repairers,"Assemble aircraft cameras, still or motion picture cameras, photographic equipment, or frames, using diagrams, blueprints, bench machines, hand tools, or power tools.",0.00,physical assembly of camera equipment
+8447,Camera and Photographic Equipment Repairers,Record test data and document fabrication techniques on reports.,0.70,documentation of test data and reports
+8448,Camera and Photographic Equipment Repairers,"Lay out reference points and dimensions on parts or metal stock to be machined, using precision measuring instruments.",0.00,physical layout on stock using instruments
+8449,Camera and Photographic Equipment Repairers,"Recommend design changes or upgrades of microfilming, film-developing, or photographic equipment.",0.55,analytical recommendation for equipment upgrades
+3066,Medical Equipment Repairers,"Test or calibrate components or equipment, following manufacturers' manuals and troubleshooting techniques, using hand tools, power tools, or measuring devices.",0.00,physical calibration and testing
+3065,Medical Equipment Repairers,"Perform preventive maintenance or service, such as cleaning, lubricating, or adjusting equipment.",0.00,physical preventive maintenance
+23980,Medical Equipment Repairers,"Inspect, test, or troubleshoot malfunctioning medical or related equipment, following manufacturers' specifications and using test and analysis instruments.",0.05,physical troubleshooting with test instruments
+3064,Medical Equipment Repairers,"Keep records of maintenance, repair, and required updates of equipment.",0.65,record keeping given input data
+3063,Medical Equipment Repairers,"Disassemble malfunctioning equipment and remove, repair, or replace defective parts, such as motors, clutches, or transformers.",0.00,physical disassembly and part replacement
+3062,Medical Equipment Repairers,Examine medical equipment or facility's structural environment and check for proper use of equipment to protect patients and staff from electrical or mechanical hazards and to ensure compliance with safety regulations.,0.00,physical safety inspection on site
+23981,Medical Equipment Repairers,Install medical equipment.,0.00,physical equipment installation
+3071,Medical Equipment Repairers,"Test, evaluate, and classify excess or in-use medical equipment and determine serviceability, condition, and disposition, in accordance with regulations.",0.10,mostly physical testing with classification judgment
+3069,Medical Equipment Repairers,"Plan and carry out work assignments, using blueprints, schematic drawings, technical manuals, wiring diagrams, or liquid or air flow sheets, following prescribed regulations, directives, or other instructions as required.",0.15,planning aided but execution is physical
+3068,Medical Equipment Repairers,Study technical manuals or attend training sessions provided by equipment manufacturers to maintain current knowledge.,0.55,studying technical manuals is text comprehension
+3067,Medical Equipment Repairers,Explain or demonstrate correct operation or preventive maintenance of medical equipment to personnel.,0.20,demonstration needs presence explanation partly doable
+3072,Medical Equipment Repairers,"Research catalogs or repair part lists to locate sources for repair parts, requisitioning parts and recording their receipt.",0.70,catalog research and parts requisition
+3077,Medical Equipment Repairers,"Repair shop equipment, metal furniture, or hospital equipment, including welding broken parts or replacing missing parts, or bring item into local shop for major repairs.",0.00,physical repair and welding
+3070,Medical Equipment Repairers,"Solder loose connections, using soldering iron.",0.00,physical soldering
+3075,Medical Equipment Repairers,"Compute power and space requirements for installing medical, dental, or related equipment and install units to manufacturers' specifications.",0.30,computation doable but installation is physical
+3073,Medical Equipment Repairers,"Evaluate technical specifications to identify equipment or systems best suited for intended use and possible purchase, based on specifications, user needs, or technical requirements.",0.70,evaluating technical specifications is analytical
+3074,Medical Equipment Repairers,Contribute expertise to develop medical maintenance standard operating procedures.,0.65,drafting SOP documentation with domain expertise
+3079,Medical Equipment Repairers,"Fabricate, dress down, or substitute parts or major new items to modify equipment to meet unique operational or research needs, working from job orders, sketches, modification orders, samples, or discussions with operating officials.",0.00,physical fabrication of parts
+3076,Medical Equipment Repairers,Supervise or advise subordinate personnel.,0.15,supervisory authority over personnel
+3078,Medical Equipment Repairers,"Make computations relating to load requirements of wiring or equipment, using algebraic expressions and standard formulas.",0.90,pure algebraic computation
+11866,Musical Instrument Repairers and Tuners,"Adjust string tensions to tune instruments, using hand tools and electronic tuning devices.",0.00,physical tuning with hand tools
+11871,Musical Instrument Repairers and Tuners,Compare instrument pitches with tuning tool pitches to tune instruments.,0.05,requires physical tuning action
+11865,Musical Instrument Repairers and Tuners,Play instruments to evaluate their sound quality and to locate any defects.,0.00,physical instrument playing to evaluate sound
+11867,Musical Instrument Repairers and Tuners,Disassemble instruments and parts for repair and adjustment.,0.00,physical disassembly for repair
+11873,Musical Instrument Repairers and Tuners,"Repair or replace musical instrument parts and components, such as strings, bridges, felts, and keys, using hand and power tools.",0.00,physical part repair and replacement
+11870,Musical Instrument Repairers and Tuners,"Reassemble instruments following repair, using hand tools and power tools and glue, hair, yarn, resin, or clamps, and lubricate instruments as necessary.",0.00,physical reassembly of instruments
+11868,Musical Instrument Repairers and Tuners,"Inspect instruments to locate defects, and to determine their value or the level of restoration required.",0.10,physical inspection with some valuation judgment
+11875,Musical Instrument Repairers and Tuners,"Shape old parts and replacement parts to improve tone or intonation, using hand tools, lathes, or soldering irons.",0.00,physical shaping of parts
+11872,Musical Instrument Repairers and Tuners,"String instruments, and adjust trusses and bridges of instruments to obtain specified string tensions and heights.",0.00,physical stringing and adjustment
+11869,Musical Instrument Repairers and Tuners,"Repair cracks in wood or metal instruments, using pinning wire, lathes, fillers, clamps, or soldering irons.",0.00,physical crack repair
+11874,Musical Instrument Repairers and Tuners,"Polish instruments, using rags and polishing compounds, buffing wheels, or burnishing tools.",0.00,physical polishing
+11877,Musical Instrument Repairers and Tuners,Mix and measure glue that will be used for instrument repair.,0.00,physical mixing of glue
+11878,Musical Instrument Repairers and Tuners,Align pads and keys on reed or wind instruments.,0.00,physical alignment of pads and keys
+11880,Musical Instrument Repairers and Tuners,Solder posts and parts to hold them in their proper places.,0.00,physical soldering
+11881,Musical Instrument Repairers and Tuners,"Remove dents and burrs from metal instruments, using mallets and burnishing tools.",0.00,physical dent removal
+11879,Musical Instrument Repairers and Tuners,"Adjust felt hammers on pianos to increase tonal mellowness or brilliance, using sanding paddles, lacquer, or needles.",0.00,physical hammer adjustment
+11891,Musical Instrument Repairers and Tuners,"Remove irregularities from tuning pins, strings, and hammers of pianos, using wood blocks or filing tools.",0.00,physical filing of tuning pins
+11896,Musical Instrument Repairers and Tuners,"Strike wood, fiberglass, or metal bars of instruments, and use tuned blocks, stroboscopes, or electronic tuners to evaluate tones made by instruments.",0.00,physical striking and tone evaluation
+11876,Musical Instrument Repairers and Tuners,"Make wood replacement parts, using woodworking machines and hand tools.",0.00,physical woodworking fabrication
+11884,Musical Instrument Repairers and Tuners,"Refinish instruments to protect and decorate them, using hand tools, buffing tools, and varnish.",0.00,physical refinishing
+11898,Musical Instrument Repairers and Tuners,Assemble and install new pipe organs and pianos in buildings.,0.00,physical assembly and installation on site
+11885,Musical Instrument Repairers and Tuners,Deliver pianos to purchasers or to locations of their use.,0.00,physical delivery of pianos
+11882,Musical Instrument Repairers and Tuners,Wash metal instruments in lacquer-stripping and cyanide solutions to remove lacquer and tarnish.,0.00,physical washing with chemical solutions
+11887,Musical Instrument Repairers and Tuners,Refinish and polish piano cabinets or cases to prepare them for sale.,0.00,physical refinishing and polishing
+14977,Watch and Clock Repairers,"Clean, rinse, and dry timepiece parts, using solutions and ultrasonic or mechanical watch-cleaning machines.",0.00,physical cleaning of timepiece parts
+14984,Watch and Clock Repairers,"Adjust timing regulators, using truing calipers, watch-rate recorders, and tweezers.",0.00,physical adjustment with precision tools
+14979,Watch and Clock Repairers,"Reassemble timepieces, replacing glass faces and batteries, before returning them to customers.",0.00,physical reassembly of timepieces
+14978,Watch and Clock Repairers,"Disassemble timepieces and inspect them for defective, worn, misaligned, or rusty parts, using loupes.",0.00,physical disassembly and inspection
+14975,Watch and Clock Repairers,Oil moving parts of timepieces.,0.00,physical oiling of parts
+14982,Watch and Clock Repairers,Estimate repair costs and timepiece values.,0.35,estimation aided by knowledge but needs physical assessment
+14976,Watch and Clock Repairers,"Repair or replace broken, damaged, or worn parts on timepieces, using lathes, drill presses, and hand tools.",0.00,physical repair using lathes and tools
+14980,Watch and Clock Repairers,"Test timepiece accuracy and performance, using meters and other electronic instruments.",0.00,physical testing with instruments
+14983,Watch and Clock Repairers,"Perform regular adjustment and maintenance on timepieces, watch cases, and watch bands.",0.00,physical adjustment and maintenance
+21084,Watch and Clock Repairers,"Order supplies, including replacement parts, for timing instruments.",0.80,administrative supply ordering
+14986,Watch and Clock Repairers,Gather information from customers about a timepiece's problems and its service history.,0.60,customer interview doable via chat
+14987,Watch and Clock Repairers,Test and replace batteries and other electronic components.,0.00,physical testing and battery replacement
+14985,Watch and Clock Repairers,"Record quantities and types of timepieces repaired, serial and model numbers of items, work performed, and charges for repairs.",0.75,record keeping of repair data
+14988,Watch and Clock Repairers,"Demagnetize mechanisms, using demagnetizing machines.",0.00,physical demagnetizing with machines
+14981,Watch and Clock Repairers,"Fabricate parts for watches and clocks, using small lathes and other machines.",0.00,physical fabrication with lathes
+20671,"Maintenance and Repair Workers, General","Perform routine maintenance, such as inspecting drives, motors, or belts, checking fluid levels, replacing filters, or doing other preventive maintenance actions.",0.00,physical routine maintenance inspection
+3024,"Maintenance and Repair Workers, General","Inspect, operate, or test machinery or equipment to diagnose machine malfunctions.",0.00,physical inspection and testing of machinery
+3030,"Maintenance and Repair Workers, General","Adjust functional parts of devices or control instruments, using hand tools, levels, plumb bobs, or straightedges.",0.00,physical adjustment with hand tools
+20672,"Maintenance and Repair Workers, General","Repair machines, equipment, or structures, using tools such as hammers, hoists, saws, drills, wrenches, or equipment such as precision measuring instruments or electrical or electronic testing devices.",0.00,physical repair using tools
+20674,"Maintenance and Repair Workers, General","Order parts, supplies, or equipment from catalogs or suppliers.",0.80,administrative parts ordering
+3023,"Maintenance and Repair Workers, General","Diagnose mechanical problems and determine how to correct them, checking blueprints, repair manuals, or parts catalogs, as necessary.",0.20,diagnosis mostly requires physical inspection
+20679,"Maintenance and Repair Workers, General","Design new equipment to aid in the repair or maintenance of machines, mechanical equipment, or building structures.",0.55,conceptual design work
+3022,"Maintenance and Repair Workers, General","Assemble, install, or repair wiring, electrical or electronic components, pipe systems, plumbing, machinery, or equipment.",0.00,physical assembly and installation
+3026,"Maintenance and Repair Workers, General","Clean or lubricate shafts, bearings, gears, or other parts of machinery.",0.00,physical cleaning and lubrication
+20678,"Maintenance and Repair Workers, General","Estimate costs to repair machinery, equipment, or building structures.",0.50,cost estimation from repair information
+3033,"Maintenance and Repair Workers, General",Align and balance new equipment after installation.,0.00,physical alignment of equipment
+3025,"Maintenance and Repair Workers, General",Record type and cost of maintenance or repair work.,0.75,record keeping of maintenance costs

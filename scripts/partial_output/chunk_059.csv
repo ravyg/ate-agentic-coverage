@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+22059,Nanotechnology Engineering Technologists and Technicians,"Process nanoparticles or nanostructures, using technologies such as ultraviolet radiation, microwave energy, or catalysis.",0.05,physical nanoparticle processing
+22064,Nanotechnology Engineering Technologists and Technicians,"Assemble components, using techniques such as interference fitting, solvent bonding, adhesive bonding, heat sealing, or ultrasonic welding.",0.03,physical component assembly
+22066,Nanotechnology Engineering Technologists and Technicians,Analyze the life cycle of nanomaterials or nano-enabled products to determine environmental impact.,0.75,desk research and analysis
+22072,Mechanical Engineering Technologists and Technicians,Assemble or disassemble complex mechanical systems.,0.03,physical assembly and disassembly
+22082,Mechanical Engineering Technologists and Technicians,"Interpret engineering sketches, specifications, or drawings.",0.75,can interpret drawings from images
+1485,Mechanical Engineering Technologists and Technicians,Calculate required capacities for equipment of proposed system to obtain specified performance and submit data to engineering personnel for approval.,0.85,calculation and data prep task
+1476,Mechanical Engineering Technologists and Technicians,"Review project instructions and blueprints to ascertain test specifications, procedures, and objectives, and test nature of technical problems such as redesign.",0.70,review of documents and specs
+22086,Mechanical Engineering Technologists and Technicians,"Provide technical support to other employees regarding mechanical design, fabrication, testing, or documentation.",0.55,mixed remote support and hands-on issues
+22087,Mechanical Engineering Technologists and Technicians,"Test machines, components, materials, or products to determine characteristics such as performance, strength, or response to stress.",0.10,physical hands-on testing
+1475,Mechanical Engineering Technologists and Technicians,"Draft detail drawing or sketch for drafting room completion or to request parts fabrication by machine, sheet or wood shops.",0.75,CAD drafting task
+1482,Mechanical Engineering Technologists and Technicians,"Analyze test results in relation to design or rated specifications and test objectives, and modify or adjust equipment to meet specifications.",0.35,analysis feasible but equipment adjustment is physical
+1486,Mechanical Engineering Technologists and Technicians,"Record test procedures and results, numerical and graphical data, and recommendations for changes in product or test methods.",0.85,documentation of provided data
+22085,Mechanical Engineering Technologists and Technicians,"Prepare specifications, designs, or sketches for machines, components, or systems related to the generation, transmission, or use of mechanical or fluid energy.",0.70,digital design and sketching
+1487,Mechanical Engineering Technologists and Technicians,"Read dials and meters to determine amperage, voltage, electrical output and input at specific operating temperature to analyze parts performance.",0.15,requires physically reading meters
+22077,Mechanical Engineering Technologists and Technicians,"Design molds, tools, dies, jigs, or fixtures for use in manufacturing processes.",0.70,CAD design of tooling
+1477,Mechanical Engineering Technologists and Technicians,"Review project instructions and specifications to identify, modify and plan requirements fabrication, assembly and testing.",0.70,review and planning task
+22078,Mechanical Engineering Technologists and Technicians,"Design specialized or customized equipment, machines, or structures.",0.70,digital design work
+22075,Mechanical Engineering Technologists and Technicians,"Conduct failure analyses, document results, and recommend corrective actions.",0.65,analysis and report writing from data
+1480,Mechanical Engineering Technologists and Technicians,Set up and conduct tests of complete units and components under operational conditions to investigate proposals for improving equipment performance.,0.10,physical test setup and operation
+22073,Mechanical Engineering Technologists and Technicians,"Assist engineers to design, develop, test, or manufacture industrial machinery, consumer products, or other equipment.",0.30,mostly hands-on engineering assistance
+22084,Mechanical Engineering Technologists and Technicians,"Prepare layouts of machinery, tools, plants, or equipment.",0.70,digital layout drafting
+22083,Mechanical Engineering Technologists and Technicians,"Prepare equipment inspection schedules, reliability schedules, work plans, or other records.",0.85,administrative scheduling and records
+1489,Mechanical Engineering Technologists and Technicians,Set up prototype and test apparatus and operate test controlling equipment to observe and record prototype test results.,0.10,physical apparatus setup
+1483,Mechanical Engineering Technologists and Technicians,Evaluate tool drawing designs by measuring drawing dimensions and comparing with original specifications for form and function using engineering skills.,0.70,digital drawing dimension review
+22070,Mechanical Engineering Technologists and Technicians,"Analyze energy requirements and distribution systems to maximize the use of intermittent or inflexible renewable energy sources, such as wind or nuclear.",0.75,analytical energy systems study
+1474,Mechanical Engineering Technologists and Technicians,Prepare parts sketches and write work orders and purchase requests to be furnished by outside contractors.,0.75,drafting and writing purchase requests
+1488,Mechanical Engineering Technologists and Technicians,"Estimate cost factors including labor and material for purchased and fabricated parts and costs for assembly, testing, or installing.",0.85,cost estimation from data
+22074,Mechanical Engineering Technologists and Technicians,Assist mechanical engineers in product testing through activities such as setting up instrumentation for automobile crash tests.,0.10,physical instrumentation setup
+22076,Mechanical Engineering Technologists and Technicians,Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs.,0.90,statistical data analysis
+22071,Mechanical Engineering Technologists and Technicians,"Analyze or estimate production costs, such as labor, equipment, and plant space.",0.85,cost analysis from records
+22079,Mechanical Engineering Technologists and Technicians,"Devise, fabricate, or assemble new or modified mechanical components for products such as industrial machinery or equipment, and measuring instruments.",0.10,physical fabrication and assembly
+22080,Mechanical Engineering Technologists and Technicians,"Discuss changes in design, method of manufacture and assembly, or drafting techniques and procedures with staff and coordinate corrections.",0.55,coordination and discussion with staff
+23944,Mechanical Engineering Technologists and Technicians,"Monitor, inspect, or test mechanical equipment.",0.15,mostly on-site equipment inspection
+16606,Automotive Engineering Technicians,"Document test results, using cameras, spreadsheets, documents, or other tools.",0.45,documentation but often needs on-site capture
+16599,Automotive Engineering Technicians,"Set up mechanical, hydraulic, or electric test equipment in accordance with engineering specifications, standards, or test procedures.",0.08,physical test equipment setup
+16602,Automotive Engineering Technicians,"Read and interpret blueprints, schematics, work specifications, drawings, or charts.",0.80,document and drawing interpretation
+16605,Automotive Engineering Technicians,Inspect or test parts to determine nature or cause of defects or malfunctions.,0.15,physical inspection of parts
+16601,Automotive Engineering Technicians,"Monitor computer-controlled test equipment, according to written or verbal instructions.",0.35,monitoring often needs on-site presence
+16608,Automotive Engineering Technicians,"Analyze test data for automotive systems, subsystems, or component parts.",0.90,data analysis of test results
+16604,Automotive Engineering Technicians,"Install equipment, such as instrumentation, test equipment, engines, or aftermarket products, to ensure proper interfaces.",0.05,physical equipment installation
+16611,Automotive Engineering Technicians,"Perform or execute manual or automated tests of automotive system or component performance, efficiency, or durability.",0.15,physical or manual test execution
+16603,Automotive Engineering Technicians,Maintain test equipment in operational condition by performing routine maintenance or making minor repairs or adjustments as needed.,0.05,physical maintenance and repair
+19696,Automotive Engineering Technicians,"Analyze performance of vehicles or components that have been redesigned to increase fuel efficiency, such as camless or dual-clutch engines or alternative types of air-conditioning systems.",0.80,analysis of vehicle performance data
+19697,Automotive Engineering Technicians,"Improve fuel efficiency by testing vehicles or components that use lighter materials, such as aluminum, magnesium alloy, or plastic.",0.15,physical vehicle testing
+16607,Automotive Engineering Technicians,Fabricate new or modify existing prototype components or fixtures.,0.05,physical fabrication of prototypes
+16598,Automotive Engineering Technicians,"Order new test equipment, supplies, or replacement parts.",0.65,can place orders via procurement systems
+16610,Automotive Engineering Technicians,"Recommend product or component design improvements, based on test data or observations.",0.85,written recommendation from data
+16600,Automotive Engineering Technicians,"Recommend tests or testing conditions in accordance with designs, customer requirements, or industry standards to ensure test validity.",0.85,written testing recommendations
+19699,Automotive Engineering Technicians,"Test performance of vehicles that use alternative fuels, such as alcohol blends, natural gas, liquefied petroleum gas, biodiesel, nano diesel, or alternative power methods, such as solar energy or hydrogen fuel cells.",0.10,physical vehicle fuel testing
+19698,Automotive Engineering Technicians,"Participate in research or testing of computerized automotive applications, such as telemetrics, intelligent transportation systems, artificial intelligence, or automatic control.",0.45,partly software research partly physical testing
+16597,Automotive Engineering Technicians,Build instrumentation or laboratory test equipment for special purposes.,0.05,physical equipment building
+22088,Calibration Technologists and Technicians,Analyze test data to identify defects or determine calibration requirements.,0.85,test data analysis
+22089,Calibration Technologists and Technicians,"Attend conferences, workshops, or other training sessions to learn about new tools or methods.",0.30,requires attendance and human engagement
+22090,Calibration Technologists and Technicians,"Calibrate devices by comparing measurements of pressure, temperature, humidity, or other environmental conditions to known standards.",0.10,physical calibration measurement
+22091,Calibration Technologists and Technicians,"Conduct calibration tests to determine performance or reliability of mechanical, structural, or electromechanical equipment.",0.10,physical calibration testing
+22092,Calibration Technologists and Technicians,"Develop new calibration methods or techniques based on measurement science, analyses, or calibration requirements.",0.65,mostly desk-based methods development
+22093,Calibration Technologists and Technicians,Disassemble and reassemble equipment for inspection.,0.03,physical disassembly for inspection
+22094,Calibration Technologists and Technicians,"Draw plans for developing jigs, fixtures, instruments, or other devices.",0.70,digital plan drafting
+22095,Calibration Technologists and Technicians,Maintain or repair measurement devices or equipment used for calibration testing.,0.05,physical repair of devices
+22096,Calibration Technologists and Technicians,"Operate metalworking machines to fabricate housings, jigs, fittings, or fixtures.",0.02,physical machine operation
+22097,Calibration Technologists and Technicians,Order replacement parts for malfunctioning equipment.,0.70,ordering parts via procurement systems
+22098,Calibration Technologists and Technicians,Plan sequences of calibration tests according to equipment specifications and scientific principles.,0.80,planning task from specifications
+22099,Calibration Technologists and Technicians,"Read blueprints, schematics, diagrams, or technical orders.",0.80,document and diagram reading
+22100,Calibration Technologists and Technicians,Verify part dimensions or clearances using precision measuring instruments to ensure conformance to specifications.,0.08,physical precision measurement
+22101,Calibration Technologists and Technicians,Visually inspect equipment to detect surface defects.,0.15,physical visual inspection
+22102,Calibration Technologists and Technicians,Write and submit reports about the results of calibration tests.,0.90,report writing from test data
+16626,Non-Destructive Testing Specialists,"Interpret the results of all methods of non-destructive testing (NDT), such as acoustic emission, electromagnetic, leak, liquid penetrant, magnetic particle, neutron radiographic, radiographic, thermal or infrared, ultrasonic, vibration analysis, and visual testing.",0.75,interpretation of provided test results
+16620,Non-Destructive Testing Specialists,"Interpret or evaluate test results in accordance with applicable codes, standards, specifications, or procedures.",0.80,evaluation against standards
+16622,Non-Destructive Testing Specialists,"Identify defects in solid materials, using ultrasonic testing techniques.",0.10,physical ultrasonic testing
+16618,Non-Destructive Testing Specialists,Make radiographic images to detect flaws in objects while leaving objects intact.,0.08,physical radiographic imaging
+16625,Non-Destructive Testing Specialists,Prepare reports on non-destructive testing results.,0.90,report writing from test data
+16623,Non-Destructive Testing Specialists,"Select, calibrate, or operate equipment used in the non-destructive testing of products or materials.",0.10,physical equipment operation
+16619,Non-Destructive Testing Specialists,"Visually examine materials, structures, or components for signs of corrosion, metal fatigue, cracks, or other flaws, using tools and equipment such as endoscopes, closed-circuit television systems, and fiber optics.",0.12,on-site physical visual examination
+16627,Non-Destructive Testing Specialists,"Examine structures or vehicles such as aircraft, trains, nuclear reactors, bridges, dams, and pipelines, using non-destructive testing techniques.",0.08,on-site structural inspection
+16616,Non-Destructive Testing Specialists,"Document non-destructive testing methods, processes, or results.",0.88,documentation of testing results
+16613,Non-Destructive Testing Specialists,"Produce images of objects on film, using radiographic techniques.",0.08,physical radiographic operation
+16612,Non-Destructive Testing Specialists,Supervise or direct the work of non-destructive testing trainees or staff.,0.15,supervision of human staff
+16624,Non-Destructive Testing Specialists,"Conduct liquid penetrant tests to locate surface cracks by coating objects with fluorescent dyes, cleaning excess penetrant, and applying developer.",0.03,physical dye penetrant testing
+16617,Non-Destructive Testing Specialists,"Map the presence of imperfections within objects, using sonic measurements.",0.15,physical sonic measurement collection
+16615,Non-Destructive Testing Specialists,"Develop or use new non-destructive testing methods, such as acoustic emission testing, leak testing, and thermal or infrared testing.",0.30,mix of conceptual and physical development
+16621,Non-Destructive Testing Specialists,"Identify defects in concrete or other building materials, using thermal or infrared testing.",0.10,on-site thermal inspection
+16614,Non-Destructive Testing Specialists,"Evaluate material properties, using radio astronomy, voltage and amperage measurement, or rheometric flow measurement.",0.10,physical property measurement
+20384,Photonics Technicians,Compute or record photonic test data.,0.85,computing and recording provided data
+16710,Photonics Technicians,"Maintain clean working environments, according to clean room standards.",0.02,physical cleanroom maintenance
+16732,Photonics Technicians,"Adjust or maintain equipment, such as lasers, laser systems, microscopes, oscilloscopes, pulse generators, power meters, beam analyzers, or energy measurement devices.",0.05,physical equipment maintenance
+20385,Photonics Technicians,"Document procedures, such as calibration of optical or fiber optic equipment.",0.85,documentation of procedures
+16726,Photonics Technicians,"Set up or operate assembly or processing equipment, such as lasers, cameras, die bonders, wire bonders, dispensers, reflow ovens, soldering irons, die shears, wire pull testers, temperature or humidity chambers, or optical spectrum analyzers.",0.05,physical equipment operation
+16715,Photonics Technicians,Assist scientists or engineers in the conduct of photonic experiments.,0.10,physical lab assistance
+16714,Photonics Technicians,"Test or perform failure analysis for optomechanical or optoelectrical products, according to test plans.",0.30,physical testing with some analysis
+16721,Photonics Technicians,"Assist engineers in the development of new products, fixtures, tools, or processes.",0.40,mixed design assistance and hands-on work
+20386,Photonics Technicians,Recommend optical or optic equipment design or material changes to reduce costs or processing times.,0.80,written design recommendations
+16725,Photonics Technicians,"Set up or operate prototype or test apparatus, such as control consoles, collimators, recording equipment, or cables.",0.05,physical apparatus operation
+16709,Photonics Technicians,Monitor inventory levels and order supplies as necessary.,0.75,inventory monitoring and automated ordering
+16731,Photonics Technicians,"Assemble fiber optical, optoelectronic, or free-space optics components, subcomponents, assemblies, or subassemblies.",0.03,physical component assembly
+20387,Photonics Technicians,Optimize photonic process parameters by making prototype or production devices.,0.15,physical prototype fabrication
+16723,Photonics Technicians,"Splice fibers, using fusion splicing or other techniques.",0.03,physical fiber splicing
+16730,Photonics Technicians,"Build prototype optomechanical devices for use in equipment such as aerial cameras, gun sights, or telescopes.",0.03,physical device building
+16724,Photonics Technicians,"Terminate, cure, polish, or test fiber cables with mechanical connectors.",0.03,physical cable termination
+16716,Photonics Technicians,"Perform diagnostic analyses of processing steps, using analytical or metrological tools, such as microscopy, profilometry, or ellipsometry devices.",0.25,physical instrument operation with analysis
+16722,Photonics Technicians,Assemble or adjust parts or related electrical units of prototypes to prepare for testing.,0.05,physical assembly of prototype parts
+16727,Photonics Technicians,"Repair or calibrate products, such as surgical lasers.",0.05,physical repair of devices
+16719,Photonics Technicians,"Design, build, or modify fixtures used to assemble parts.",0.30,mixed digital design and physical build
+19731,Photonics Technicians,"Assemble components of energy-efficient optical communications systems involving photonic switches, optical backplanes, or optoelectronic interfaces.",0.03,physical component assembly
+16720,Photonics Technicians,"Lay out cutting lines for machining, using drafting tools.",0.30,physical layout marking for machining
+16718,Photonics Technicians,"Mix, pour, or use processing chemicals or gases according to safety standards or established operating procedures.",0.03,physical chemical handling
+16729,Photonics Technicians,"Fabricate devices, such as optoelectronic or semiconductor devices.",0.03,physical device fabrication
+22103,Surveying and Mapping Technicians,"Position and hold the vertical rods, or targets, that theodolite operators use for sighting to measure angles, distances, and elevations.",0.02,on-site physical field work
+22104,Surveying and Mapping Technicians,"Check all layers of maps to ensure accuracy, identifying and marking errors and making corrections.",0.85,digital map accuracy checking
+22105,Surveying and Mapping Technicians,Design or develop information databases that include geographic or topographic data.,0.85,database design work
+22106,Surveying and Mapping Technicians,"Monitor mapping work or the updating of maps to ensure accuracy, inclusion of new or changed information, or compliance with rules and regulations.",0.80,digital map review and monitoring
+22107,Surveying and Mapping Technicians,"Produce or update overlay maps to show information boundaries, water locations, or topographic features on various base maps or at different scales.",0.80,GIS map production work
+22108,Surveying and Mapping Technicians,"Determine scales, line sizes, or colors to be used for hard copies of computerized maps, using plotters.",0.75,digital scale determination and automated plotting
+22109,Surveying and Mapping Technicians,"Compile information necessary to stake projects for construction, using engineering plans.",0.80,compiling engineering plan information
+22110,Surveying and Mapping Technicians,Identify and compile database information to create requested maps.,0.85,database compilation for maps
+22111,Surveying and Mapping Technicians,"Operate and manage land-information computer systems, performing tasks such as storing data, making inquiries, and producing plots and reports.",0.85,computer system operation and reporting
+22112,Surveying and Mapping Technicians,Compare survey computations with applicable standards to determine adequacy of data.,0.85,computation comparison against standards
+22113,Surveying and Mapping Technicians,"Analyze aerial photographs to detect and interpret significant military, industrial, resource, or topographical data.",0.75,image analysis of aerial photographs
+22114,Surveying and Mapping Technicians,"Research and combine existing property information to describe property boundaries in relation to adjacent properties, taking into account parcel splits, combinations, or land boundary adjustments.",0.80,research and writing on property records
+22115,Surveying and Mapping Technicians,"Calculate latitudes, longitudes, angles, areas, or other information for mapmaking, using survey field notes or reference tables.",0.90,geometric calculation from notes
+22116,Surveying and Mapping Technicians,"Compare topographical features or contour lines with images from aerial photographs, old maps, or other reference materials to verify the accuracy of their identification.",0.75,image comparison analysis
+22117,Surveying and Mapping Technicians,Trace contours or topographic details to generate maps that denote specific land or property locations or geographic attributes.,0.75,digital GIS tracing work
+22118,Surveying and Mapping Technicians,Provide assistance in the development of methods and procedures for conducting field surveys.,0.75,writing survey methods and procedures
+22119,Surveying and Mapping Technicians,"Trim, align, and join prints to form photographic mosaics, maintaining scaled distances between reference points.",0.55,digital image compositing possible
+22120,Surveying and Mapping Technicians,"Answer questions and provide information to the public or to staff members regarding assessment maps, surveys, boundaries, easements, property ownership, roads, zoning, or similar matters.",0.80,answering questions via communication
+22121,Surveying and Mapping Technicians,Complete detailed source and method notes describing the location of routine or complex land parcels.,0.85,writing detailed location notes
+22122,Surveying and Mapping Technicians,"Adjust and operate surveying instruments such as prisms, theodolites, electronic distance measuring equipment, or electronic data collectors.",0.05,physical field instrument operation
+22123,Surveying and Mapping Technicians,"Collect information needed to carry out new surveys, using source maps, previous survey data, photographs, computer records, or other relevant information.",0.80,compiling survey information from records
+22124,Surveying and Mapping Technicians,"Conduct surveys to ascertain the locations of natural features and man-made structures on the Earth's surface, underground, and underwater, using electronic distance-measuring equipment, such as GPS, and other surveying instruments.",0.05,on-site physical survey work
+22125,Surveying and Mapping Technicians,"Enter Global Positioning System (GPS) data, legal deeds, field notes, or land survey reports into geographic information system (GIS) workstations so that information can be transformed into graphic land descriptions, such as maps and drawings.",0.90,entering data into GIS systems
+22126,Surveying and Mapping Technicians,"Perform calculations to determine earth curvature corrections, atmospheric impacts on measurements, traverse closures or adjustments, azimuths, level runs, or placement of markers.",0.75,geodetic calculation task

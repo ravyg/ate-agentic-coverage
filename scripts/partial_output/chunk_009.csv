@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+4203,"Opticians, Dispensing",Prepare work orders and instructions for grinding lenses and fabricating eyeglasses.,0.85,drafting work orders from prescription data is pure documentation
+4204,"Opticians, Dispensing","Assist clients in selecting frames according to style and color, and ensure that frames are coordinated with facial and eye measurements and optical prescriptions.",0.15,in-person frame fitting to face and prescription
+4205,"Opticians, Dispensing","Maintain records of customer prescriptions, work orders, and payments.",0.85,record keeping of prescriptions work orders payments
+4206,"Opticians, Dispensing","Perform administrative duties, such as tracking inventory and sales, submitting patient insurance information, and performing simple bookkeeping.",0.80,admin bookkeeping inventory and insurance submission
+4207,"Opticians, Dispensing","Recommend specific lenses, lens coatings, and frames to suit client needs.",0.35,recommendation needs in-person client consultation
+4208,"Opticians, Dispensing","Sell goods such as contact lenses, spectacles, sunglasses, and goods related to eyes, in general.",0.20,in-person retail sales of eyewear
+4209,"Opticians, Dispensing","Heat, shape, or bend plastic or metal frames to adjust eyeglasses to fit clients, using pliers and hands.",0.00,manual shaping of frames by hand
+4210,"Opticians, Dispensing",Evaluate prescriptions in conjunction with clients' vocational and avocational visual requirements.,0.30,needs client interview and professional judgment
+4211,"Opticians, Dispensing",Instruct clients in how to wear and care for eyeglasses.,0.35,mostly needs in-person demonstration
+4212,"Opticians, Dispensing","Determine clients' current lens prescriptions, when necessary, using lensometers or lens analyzers and clients' eyeglasses.",0.00,physical operation of lensometer on client eyewear
+4213,"Opticians, Dispensing","Show customers how to insert, remove, and care for their contact lenses.",0.05,physical demonstration of contact lens handling
+4214,"Opticians, Dispensing",Repair damaged frames.,0.00,physical repair of frames
+4215,"Opticians, Dispensing","Obtain a customer's previous record, or verify a prescription with the examining optometrist or ophthalmologist.",0.65,record retrieval and verification largely administrative
+4216,"Opticians, Dispensing",Arrange and maintain displays of optical merchandise.,0.00,physical arrangement of store displays
+4217,"Opticians, Dispensing",Fabricate lenses to meet prescription specifications.,0.00,physical lens fabrication
+4218,"Opticians, Dispensing","Grind lens edges, or apply coatings to lenses.",0.00,physical grinding and coating of lenses
+4219,"Opticians, Dispensing","Assemble eyeglasses by cutting and edging lenses, and fitting the lenses into frames.",0.00,physical assembly of eyeglasses
+4220,"Opticians, Dispensing",Supervise the training of student opticians.,0.10,hands-on in-person supervision of trainees
+4221,Athletic Trainers,Conduct an initial assessment of an athlete's injury or illness to provide emergency or continued care and to determine whether they should be referred to physicians for definitive diagnosis and treat,0.05,requires physical exam and clinical responsibility
+4222,Athletic Trainers,"Care for athletic injuries, using physical therapy equipment, techniques, or medication.",0.00,hands-on physical therapy care
+4223,Athletic Trainers,Evaluate athletes' readiness to play and provide participation clearances when necessary and warranted.,0.05,physical assessment and professional clearance authority
+4224,Athletic Trainers,"Apply protective or injury preventive devices, such as tape, bandages, or braces, to body parts, such as ankles, fingers, or wrists.",0.00,physical application of tape braces bandages
+4225,Athletic Trainers,Assess and report the progress of recovering athletes to coaches or physicians.,0.20,assessment needs physical presence reporting is easy
+4226,Athletic Trainers,Collaborate with physicians to develop and implement comprehensive rehabilitation programs for athletic injuries.,0.30,can help draft rehab plan but needs physician collaboration
+4227,Athletic Trainers,Advise athletes on the proper use of equipment.,0.30,advice best delivered with in-person demonstration
+4228,Athletic Trainers,Plan or implement comprehensive athletic injury or illness prevention programs.,0.35,planning is documentable but implementation needs presence
+4229,Athletic Trainers,Develop training programs or routines designed to improve athletic performance.,0.60,training program design is largely informational work
+4230,Athletic Trainers,Travel with athletic teams to be available at sporting events.,0.00,physical travel and on-site presence at events
+4231,Athletic Trainers,"Instruct coaches, athletes, parents, medical personnel, or community members in the care and prevention of athletic injuries.",0.35,instruction mostly needs live in-person teaching
+4232,Athletic Trainers,Inspect playing fields to locate any items that could injure players.,0.00,physical inspection of playing field
+4233,Athletic Trainers,Conduct research or provide instruction on subject matter related to athletic training or sports medicine.,0.55,research synthesis is strong but live instruction needs presence
+4234,Athletic Trainers,"Recommend special diets to improve athletes' health, increase their stamina, or alter their weight.",0.65,diet recommendations are largely informational
+4235,Athletic Trainers,"Massage body parts to relieve soreness, strains, or bruises.",0.00,physical massage therapy
+4236,Athletic Trainers,Confer with coaches to select protective equipment.,0.35,requires live conferring with coaches
+4237,Athletic Trainers,Accompany injured athletes to hospitals.,0.00,physical accompaniment to hospital
+4238,Athletic Trainers,"Perform team support duties, such as running errands, maintaining equipment, or stocking supplies.",0.00,physical errands and equipment upkeep
+4239,Athletic Trainers,Lead stretching exercises for team members prior to games or practices.,0.00,physical in-person leading of exercises
+4240,Home Health Aides,"Maintain records of patient care, condition, progress, or problems to report and discuss observations with supervisor or case manager.",0.65,documentation and reporting assuming observations are provided
+4241,Home Health Aides,"Provide patients with help moving in and out of beds, baths, wheelchairs, or automobiles and with dressing and grooming.",0.00,physical assistance moving and dressing patients
+4242,Home Health Aides,"Provide patients and families with emotional support and instruction in areas such as caring for infants, preparing healthy meals, living independently, or adapting to disability or illness.",0.20,emotional support requires human presence and trust
+4244,Home Health Aides,"Entertain, converse with, or read aloud to patients to keep them mentally healthy and alert.",0.20,companionship value comes from human physical presence
+4245,Home Health Aides,"Plan, purchase, prepare, or serve meals to patients or other family members, according to prescribed diets.",0.15,mostly physical shopping cooking and serving
+4246,Home Health Aides,Direct patients in simple prescribed exercises or in the use of braces or artificial limbs.,0.10,physical presence needed to safely direct exercises
+4247,Home Health Aides,"Check patients' pulse, temperature, and respiration.",0.00,physical vital sign checks
+4248,Home Health Aides,Change dressings.,0.00,physical wound dressing change
+4249,Home Health Aides,"Perform a variety of duties as requested by client, such as obtaining household supplies or running errands.",0.00,physical errands and household tasks
+4250,Home Health Aides,"Accompany clients to doctors' offices or on other trips outside the home, providing transportation, assistance, and companionship.",0.00,physical transportation and accompaniment
+4252,Home Health Aides,Care for children with disabilities or who have sick parents or parents with disabilities.,0.00,hands-on physical caregiving for children
+4253,Home Health Aides,"Massage patients or apply preparations or treatments, such as liniment, alcohol rubs, or heat-lamp stimulation.",0.00,physical massage and treatment application
+4254,Occupational Therapy Assistants,"Observe and record patients' progress, attitudes, and behavior and maintain this information in client records.",0.20,observation requires physical presence with patient
+4255,Occupational Therapy Assistants,Maintain and promote a positive attitude toward clients and their treatment programs.,0.10,in-person rapport and disposition with clients
+4256,Occupational Therapy Assistants,"Monitor patients' performance in therapy activities, providing encouragement.",0.10,physical presence and interpersonal encouragement
+4257,Occupational Therapy Assistants,Select therapy activities to fit patients' needs and capabilities.,0.40,can suggest activities from data but needs clinical judgment
+4258,Occupational Therapy Assistants,"Instruct, or assist in instructing, patients and families in home programs, basic living skills, or the care and use of adaptive equipment.",0.25,mostly hands-on in-person instruction
+4259,Occupational Therapy Assistants,"Evaluate the daily living skills or capacities of clients with physical, developmental, or mental health disabilities.",0.10,requires physical clinical evaluation of client
+4260,Occupational Therapy Assistants,Aid patients in dressing and grooming themselves.,0.00,physical assistance with dressing and grooming
+4261,Occupational Therapy Assistants,"Implement, or assist occupational therapists with implementing, treatment plans designed to help clients function independently.",0.05,hands-on physical implementation of treatment
+4262,Occupational Therapy Assistants,"Report to supervisors, verbally or in writing, on patients' progress, attitudes, and behavior.",0.60,reporting is easy assuming progress data is provided
+4263,Occupational Therapy Assistants,Alter treatment programs to obtain better results if treatment is not having the intended effect.,0.40,can suggest adjustments but authority to alter is clinical
+4264,Occupational Therapy Assistants,"Work under the direction of occupational therapists to plan, implement, or administer educational, vocational, or recreational programs that restore or enhance performance in individuals with function",0.30,planning portion feasible implementation is physical
+4265,Occupational Therapy Assistants,"Design, fabricate, or repair assistive devices or make adaptive changes to equipment or environments.",0.25,design portion feasible fabrication and repair is physical
+4266,Occupational Therapy Assistants,"Assemble, clean, or maintain equipment or materials for patient use.",0.00,physical equipment cleaning and maintenance
+4267,Occupational Therapy Assistants,Teach patients how to deal constructively with their emotions.,0.15,emotional counseling needs human rapport
+4268,Occupational Therapy Assistants,"Perform clerical duties, such as scheduling appointments, collecting data, or documenting health insurance billings.",0.85,clerical scheduling and billing documentation
+4269,Occupational Therapy Assistants,Transport patients to and from the occupational therapy work area.,0.00,physical transport of patients
+4270,Occupational Therapy Assistants,"Demonstrate therapy techniques, such as manual or creative arts or games.",0.05,physical demonstration of therapy techniques
+4271,Occupational Therapy Assistants,Order any needed educational or treatment supplies.,0.80,ordering supplies is administrative procurement work
+4272,Occupational Therapy Assistants,Assist educational specialists or clinical psychologists in administering situational or diagnostic tests to measure client's abilities or progress.,0.25,test administration mostly needs physical presence
+4273,Physical Therapist Aides,Clean and organize work area and disinfect equipment after treatment.,0.00,physical cleaning of work area and equipment
+4274,Physical Therapist Aides,Observe patients during treatment to compile and evaluate data on patients' responses and progress and report to physical therapist.,0.15,requires physical presence during treatment to observe
+4275,Physical Therapist Aides,"Instruct, motivate, safeguard, or assist patients practicing exercises or functional activities, under direction of medical staff.",0.05,physical presence needed to safeguard and assist patients
+4276,Physical Therapist Aides,Secure patients into or onto therapy equipment.,0.00,physical securing of patients to equipment
+4277,Physical Therapist Aides,"Transport patients to and from treatment areas, using wheelchairs or providing standing support.",0.00,physical transport of patients
+4278,Physical Therapist Aides,"Confer with physical therapy staff or others to discuss and evaluate patient information for planning, modifying, or coordinating treatment.",0.35,can contribute analysis but coordination is a live discussion
+4279,Physical Therapist Aides,Record treatment given and equipment used.,0.80,documentation of treatment given assuming data provided
+4280,Physical Therapist Aides,"Perform clerical duties, such as taking inventory, ordering supplies, answering telephone, taking messages, or filling out forms.",0.70,mostly clerical inventory and forms work
+4281,Physical Therapist Aides,"Maintain equipment or furniture to keep it in good working condition, including performing the assembly or disassembly of equipment or accessories.",0.00,physical equipment assembly and maintenance
+4282,Physical Therapist Aides,"Administer active or passive manual therapeutic exercises, therapeutic massage, or heat, light, sound, water, or electrical modality treatments, such as ultrasound.",0.00,physical administration of therapeutic treatments
+4283,Physical Therapist Aides,"Change linens, such as bed sheets and pillow cases.",0.00,physical changing of linens
+4284,Physical Therapist Aides,Arrange treatment supplies to keep them in order.,0.00,physical arrangement of supplies
+4285,Physical Therapist Aides,"Assist patients to dress, undress, or put on and remove supportive devices, such as braces, splints, or slings.",0.00,physical assistance dressing and fitting devices
+4286,Physical Therapist Aides,"Measure patient's range-of-joint motion, body parts, or vital signs to determine effects of treatments or for patient evaluations.",0.00,physical measurement of patient joints and vitals
+4287,Physical Therapist Aides,"Train patients to use orthopedic braces, prostheses, or supportive devices.",0.05,physical hands-on training with devices
+4288,Physical Therapist Aides,"Fit patients for orthopedic braces, prostheses, or supportive devices, adjusting fit as needed.",0.00,physical fitting and adjustment of devices
+4289,Physical Therapist Aides,"Participate in patient care tasks, such as assisting with passing food trays, feeding residents, or bathing residents on bed rest.",0.00,hands-on physical patient care tasks
+4290,Physical Therapist Aides,"Administer traction to relieve neck or back pain, using intermittent or static traction equipment.",0.00,physical administration of traction equipment
+4291,Medical Equipment Preparers,"Organize and assemble routine or specialty surgical instrument trays or other sterilized supplies, filling special requests as needed.",0.00,physical assembly of sterilized surgical trays
+4292,Medical Equipment Preparers,Clean instruments to prepare them for sterilization.,0.00,physical cleaning of instruments
+4293,Medical Equipment Preparers,"Operate and maintain steam autoclaves, keeping records of loads completed, items in loads, and maintenance procedures performed.",0.10,mostly physical equipment operation minor recordkeeping
+4294,Medical Equipment Preparers,Record sterilizer test results.,0.15,requires reading physical test results on site
+4295,Medical Equipment Preparers,"Disinfect and sterilize equipment, such as respirators, hospital beds, or oxygen or dialysis equipment, using sterilizers, aerators, or washers.",0.00,physical sterilization of equipment
+4296,Medical Equipment Preparers,Start equipment and observe gauges and equipment operation to detect malfunctions and to ensure equipment is operating to prescribed standards.,0.00,physical observation of equipment gauges on site
+4297,Medical Equipment Preparers,"Examine equipment to detect leaks, worn or loose parts, or other indications of disrepair.",0.00,physical inspection of equipment for defects
+4298,Medical Equipment Preparers,Report defective equipment to appropriate supervisors or staff.,0.75,reporting a known defect is simple communication
+4299,Medical Equipment Preparers,Check sterile supplies to ensure that they are not outdated.,0.25,typically requires physically checking supply dates
+4301,Medical Equipment Preparers,Attend hospital in-service programs related to areas of work specialization.,0.05,requires physical in-person attendance at training
+4302,Medical Equipment Preparers,Purge wastes from equipment by connecting equipment to water sources and flushing water through systems.,0.00,physical connection of equipment to water sources
+4303,Medical Equipment Preparers,Deliver equipment to specified hospital locations or to patients' residences.,0.00,physical delivery of equipment
+4304,Medical Equipment Preparers,"Assist hospital staff with patient care duties, such as providing transportation or setting up traction.",0.00,physical patient care assistance tasks
+4306,Veterinary Assistants and Laboratory Animal Caretakers,Monitor animals recovering from surgery and notify veterinarians of any unusual changes or symptoms.,0.05,requires physical monitoring of recovering animals
+4307,Veterinary Assistants and Laboratory Animal Caretakers,Administer anesthetics during surgery and monitor the effects on animals.,0.00,physical anesthesia administration and monitoring
+4308,Veterinary Assistants and Laboratory Animal Caretakers,"Clean, maintain, and sterilize instruments or equipment.",0.00,physical cleaning and sterilizing of instruments
+4309,Veterinary Assistants and Laboratory Animal Caretakers,"Administer medication, immunizations, or blood plasma to animals as prescribed by veterinarians.",0.00,physical administration of medication to animals
+4310,Veterinary Assistants and Laboratory Animal Caretakers,Provide emergency first aid to sick or injured animals.,0.00,physical emergency first aid
+4311,Veterinary Assistants and Laboratory Animal Caretakers,"Clean and maintain kennels, animal holding areas, examination or operating rooms, or animal loading or unloading facilities to control the spread of disease.",0.00,physical cleaning of kennels and facilities
+4312,Veterinary Assistants and Laboratory Animal Caretakers,Hold or restrain animals during veterinary procedures.,0.00,physical restraint of animals
+4313,Veterinary Assistants and Laboratory Animal Caretakers,"Perform routine laboratory tests or diagnostic tests, such as taking or developing x-rays.",0.00,physical operation of lab and imaging equipment
+4314,Veterinary Assistants and Laboratory Animal Caretakers,Fill medication prescriptions.,0.05,physical handling of medication dispensing
+4315,Veterinary Assistants and Laboratory Animal Caretakers,"Collect laboratory specimens, such as blood, urine, or feces, for testing.",0.00,physical collection of specimens
+4316,Veterinary Assistants and Laboratory Animal Caretakers,Examine animals to detect behavioral changes or clinical symptoms that could indicate illness or injury.,0.00,physical examination of animals
+4317,Veterinary Assistants and Laboratory Animal Caretakers,Assist veterinarians in examining animals to determine the nature of illnesses or injuries.,0.00,physical assistance examining animals
+4318,Veterinary Assistants and Laboratory Animal Caretakers,Prepare surgical equipment and pass instruments or materials to veterinarians during surgical procedures.,0.00,physical handling of surgical instruments
+4319,Veterinary Assistants and Laboratory Animal Caretakers,"Perform enemas, catheterizations, ear flushes, intravenous feedings, or gavages.",0.00,physical medical procedures on animals
+4320,Veterinary Assistants and Laboratory Animal Caretakers,"Prepare feed for animals according to specific instructions, such as diet lists or schedules.",0.00,physical preparation of animal feed
+4321,Veterinary Assistants and Laboratory Animal Caretakers,Exercise animals or provide them with companionship.,0.00,physical exercise and companionship with animals
+4322,Veterinary Assistants and Laboratory Animal Caretakers,"Record information relating to animal genealogy, feeding schedules, appearance, behavior, or breeding.",0.65,record keeping of animal information
+4323,Veterinary Assistants and Laboratory Animal Caretakers,"Educate or advise clients on animal health care, nutrition, or behavior problems.",0.55,informational advice though in-person trust helps
+4324,Veterinary Assistants and Laboratory Animal Caretakers,"Perform hygiene-related duties, such as clipping animals' claws or cleaning and polishing teeth.",0.00,physical grooming and dental care tasks
+4325,Veterinary Assistants and Laboratory Animal Caretakers,Prepare examination or treatment rooms by stocking them with appropriate supplies.,0.00,physical stocking of exam rooms
+4326,Veterinary Assistants and Laboratory Animal Caretakers,Provide assistance with euthanasia of animals or disposal of corpses.,0.00,physical presence for euthanasia assistance and disposal
+4327,Veterinary Assistants and Laboratory Animal Caretakers,"Perform office reception duties, such as scheduling appointments or helping customers.",0.55,scheduling is easy some customer help is in-person
+4328,Veterinary Assistants and Laboratory Animal Caretakers,"Dust, spray, or bathe animals to control insect pests.",0.00,physical pest control on animals
+4329,Veterinary Assistants and Laboratory Animal Caretakers,"Write reports, maintain research information, or perform clerical duties.",0.80,report writing and clerical work from data
+4330,Veterinary Assistants and Laboratory Animal Caretakers,"Perform accounting duties, such as bookkeeping, billing customers for services, or maintaining inventories.",0.85,bookkeeping billing and inventory administration
+4332,Veterinary Assistants and Laboratory Animal Caretakers,Sell pet food or supplies to customers.,0.30,primarily in-person retail sales
+4333,Veterinary Assistants and Laboratory Animal Caretakers,"Groom, trim, or clip animals' coats.",0.00,physical grooming of animal coats
+4579,Advertising Sales Agents,Prepare and deliver sales presentations to new and existing customers to sell new advertising programs and to protect and increase existing advertising.,0.35,prep work is easy but live sales delivery needs human rapport
+4580,Advertising Sales Agents,Explain to customers how specific types of advertising will help promote their products or services in the most effective way possible.,0.45,can explain via content but persuasion benefits from human
+4581,Advertising Sales Agents,Maintain assigned account bases while developing new accounts.,0.25,relationship-based account management and sales
+4582,Advertising Sales Agents,Process all correspondence and paperwork related to accounts.,0.85,correspondence and paperwork is administrative work

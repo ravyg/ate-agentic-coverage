@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+18835,Funeral Home Managers,"Monitor funeral service operations to ensure that they comply with applicable policies, regulations, and laws.",0.30,monitoring physical operations needs presence
+18833,Funeral Home Managers,"Direct and supervise work of embalmers, funeral attendants, death certificate clerks, cosmetologists, or other staff.",0.15,directing hands-on staff needs on-site presence
+18846,Funeral Home Managers,"Complete and maintain records, such as state-required documents, tracking documents, or product inventories.",0.70,record keeping though some filings need certified signer
+18843,Funeral Home Managers,"Sell funeral services, products, or merchandise to clients.",0.15,in-person sales to grieving clients needs trust
+18838,Funeral Home Managers,Plan and implement changes to service offerings to meet community needs or increase funeral home revenues.,0.40,planning doable but implementation needs presence
+18840,Funeral Home Managers,"Respond to customer complaints, legal inquiries, payment negotiations, or other post-service matters.",0.35,customer negotiation and legal inquiries need human
+18836,Funeral Home Managers,Negotiate contracts for prearranged funeral services.,0.25,contract negotiation with grieving families needs trust
+18848,Funeral Home Managers,"Explain goals, policies, or procedures to staff members.",0.55,explaining policies could be written but often live
+18851,Funeral Home Managers,Schedule work hours for funeral home or contract employees.,0.80,staff scheduling is pure logistics
+18845,Funeral Home Managers,Set prices or credit terms for funeral products or services.,0.55,pricing decision needs business authority
+18841,Funeral Home Managers,"Review financial statements, sales or activity reports, or other performance data to identify opportunities for cost reductions or service improvements.",0.85,financial data analysis and reporting
+18850,Funeral Home Managers,Interview and hire new employees.,0.25,hiring interviews need human rapport and authority
+18849,Funeral Home Managers,Identify skill development needs for funeral home staff.,0.65,assessing skill gaps from data and observation
+18834,Funeral Home Managers,"Direct or monitor administrative, support, repair, or maintenance services for funeral homes.",0.30,directing physical maintenance and repair work
+18844,Funeral Home Managers,"Set marketing, sales, or other financial goals for funeral service establishments and monitor progress toward these goals.",0.70,goal setting and progress monitoring from data
+18830,Funeral Home Managers,Attend or make presentations at community events to promote funeral home services or build community relationships.,0.05,requires physical presence at community events
+18847,Funeral Home Managers,"Evaluate the performance of vendors, contract employees, or other service providers to ensure quality and cost-efficiency.",0.65,vendor performance evaluation from data
+18831,Funeral Home Managers,Conduct market research and analyze industry trends.,0.90,pure market research and trend analysis
+18839,Funeral Home Managers,Plan and implement sales promotions or other marketing strategies and activities for funeral home operations.,0.45,planning promotions but execution needs presence
+15558,Fitness and Wellness Coordinators,"Maintain wellness- and fitness-related schedules, records, or reports.",0.90,pure schedule and record keeping
+15562,Fitness and Wellness Coordinators,Develop or coordinate fitness and wellness programs or services.,0.55,program development mixed with physical coordination
+15552,Fitness and Wellness Coordinators,"Recommend or approve new program or service offerings to promote wellness and fitness, produce revenues, or minimize costs.",0.55,recommending offerings but approval needs authority
+15557,Fitness and Wellness Coordinators,"Manage or oversee fitness or recreation facilities, ensuring safe and clean facilities and equipment.",0.15,requires physical facility inspection
+15561,Fitness and Wellness Coordinators,"Supervise fitness or wellness specialists, such as fitness instructors, nutritionists, or health educators.",0.20,supervising staff needs on-site presence
+15544,Fitness and Wellness Coordinators,"Track attendance, participation, or performance data related to wellness events.",0.90,pure attendance and performance data tracking
+15559,Fitness and Wellness Coordinators,Conduct or facilitate training sessions or seminars for wellness and fitness staff.,0.35,facilitating live training sessions needs presence
+15546,Fitness and Wellness Coordinators,Maintain or arrange for maintenance of fitness equipment or facilities.,0.55,arranging maintenance is coordination but repair is physical
+15553,Fitness and Wellness Coordinators,"Prepare or implement budgets and strategic, operational, purchasing, or maintenance plans.",0.55,budget preparation high but implementation needs presence
+23945,Fitness and Wellness Coordinators,Evaluate fitness and wellness programs to determine their effectiveness.,0.80,evaluating program effectiveness from data
+15560,Fitness and Wellness Coordinators,"Develop fitness or wellness classes, such as yoga, aerobics, strength training, or aquatics, ensuring a diversity of class offerings.",0.65,designing class offerings and schedules
+15556,Fitness and Wellness Coordinators,"Demonstrate proper operation of fitness equipment, such as resistance machines, cardio machines, free weights, or fitness assessment devices.",0.05,physical demonstration of equipment
+15548,Fitness and Wellness Coordinators,"Conduct needs assessments or surveys to determine interest in, or satisfaction with, wellness and fitness programs, events, or services.",0.75,survey design and analysis of responses
+15549,Fitness and Wellness Coordinators,"Teach fitness classes to improve strength, flexibility, cardiovascular conditioning, or general fitness of participants.",0.05,physical teaching of fitness classes
+15547,Fitness and Wellness Coordinators,Develop marketing campaigns to promote a healthy lifestyle or participation in fitness or wellness programs.,0.80,marketing campaign content and strategy work
+15550,Fitness and Wellness Coordinators,"Select or supervise contractors, such as event hosts or health, fitness, and wellness practitioners.",0.35,supervising contractors needs on-site presence
+20316,Fitness and Wellness Coordinators,Track cost-containment strategies and programs to evaluate effectiveness.,0.80,cost tracking and effectiveness analysis
+15545,Fitness and Wellness Coordinators,Provide individual support or counseling in general wellness or nutrition.,0.40,individual counseling needs human rapport and trust
+20317,Fitness and Wellness Coordinators,"Use computer skills and software to manage Web sites or databases, publish newsletters, or provide webinars.",0.80,website and database management is pure digital work
+15551,Fitness and Wellness Coordinators,"Respond to customer, public, or media requests for information about wellness programs or services.",0.75,responding to information requests via text
+20315,Fitness and Wellness Coordinators,"Organize and oversee fitness or wellness programs, such as information presentations, blood drives, or training in first aid or cardiopulmonary resuscitation (CPR).",0.30,overseeing live physical events needs presence
+15555,Fitness and Wellness Coordinators,Organize and oversee events such as organized runs or walks.,0.30,overseeing physical run or walk events needs presence
+15554,Fitness and Wellness Coordinators,"Organize and oversee health screenings or other preventive measures, such as mammography, blood pressure, or cholesterol screenings or flu vaccinations.",0.25,overseeing medical screenings needs presence and licensure
+20314,Fitness and Wellness Coordinators,Interpret insurance data or Health Reimbursement Account (HRA) data to develop programs that address specific needs of target populations.,0.80,interpreting insurance and HRA data
+17612,Spa Managers,Respond to customer inquiries or complaints.,0.75,responding to inquiries and complaints via text
+17619,Spa Managers,Schedule guest appointments.,0.90,appointment scheduling is pure logistics
+17617,Spa Managers,Maintain client databases.,0.92,maintaining client database records
+17605,Spa Managers,Coordinate facility schedules to maximize usage and efficiency.,0.85,scheduling optimization from data
+17610,Spa Managers,"Perform accounting duties, such as recording daily cash flow, preparing bank deposits, or generating financial statements.",0.65,accounting mostly info work but deposits are physical
+17609,Spa Managers,"Monitor operations to ensure compliance with applicable health, safety, or hygiene standards.",0.20,monitoring hygiene compliance needs on-site inspection
+17601,Spa Managers,Plan or direct spa services and programs.,0.45,planning spa programs but directing needs presence
+17615,Spa Managers,Develop or implement marketing strategies.,0.65,developing marketing strategy content
+17620,Spa Managers,"Sell products, services, or memberships.",0.20,in-person sales needs interpersonal trust
+17611,Spa Managers,"Recruit, interview, or hire employees.",0.25,hiring interviews need human rapport and authority
+17603,Spa Managers,Assess employee performance and suggest ways to improve work.,0.55,assessing performance from data but delivery is interpersonal
+17608,Spa Managers,Inventory products and order new supplies.,0.55,ordering supplies is info work but counting is physical
+17607,Spa Managers,Establish spa budgets and financial goals.,0.75,budget and financial goal analysis
+17600,Spa Managers,"Inform staff of job responsibilities, performance expectations, client service standards, or corporate policies and guidelines.",0.60,informing staff of policies via written communication
+17602,Spa Managers,"Train staff in the use or sale of products, programs, or activities.",0.30,hands-on product training needs presence
+17618,Spa Managers,Participate in continuing education classes to maintain current knowledge of industry.,0.10,personal continuing education credentialing for the human
+17616,Spa Managers,Direct facility maintenance or repair.,0.25,directing physical facility repair
+17614,Spa Managers,"Verify staff credentials, such as educational and certification requirements.",0.70,verifying credentials via records and databases
+17613,Spa Managers,Schedule staff or supervise scheduling.,0.85,staff scheduling is pure logistics
+17604,Spa Managers,Check spa equipment to ensure proper functioning.,0.10,physical inspection of equipment
+17606,Spa Managers,Develop staff service or retail goals and guide staff in goal achievement.,0.45,developing goals easy but guiding staff is ongoing interpersonal
+18026,Regulatory Affairs Managers,Develop regulatory strategies and implementation plans for the preparation and submission of new products.,0.75,drafting regulatory strategy and submission plans
+18037,Regulatory Affairs Managers,"Review all regulatory agency submission materials to ensure timeliness, accuracy, comprehensiveness, or compliance with regulatory standards.",0.85,reviewing submission materials for accuracy
+18022,Regulatory Affairs Managers,"Direct the preparation and submission of regulatory agency applications, reports, or correspondence.",0.65,directing prep and submission though signatory needed
+18029,Regulatory Affairs Managers,Investigate product complaints and prepare documentation and submissions to appropriate regulatory agencies as necessary.,0.70,investigating and documenting complaints
+18035,Regulatory Affairs Managers,Provide responses to regulatory agencies regarding product information or issues.,0.55,responding to agencies but accountable signer needed
+18036,Regulatory Affairs Managers,Represent organizations before domestic or international regulatory agencies on major policy matters or decisions regarding company products.,0.10,representing organization needs legal authority and presence
+18024,Regulatory Affairs Managers,"Provide regulatory guidance to departments or development project teams regarding design, development, evaluation, or marketing of products.",0.75,providing regulatory guidance to teams
+18031,Regulatory Affairs Managers,"Manage activities such as audits, regulatory agency inspections, or product recalls.",0.25,managing on-site audits and inspections needs presence
+18025,Regulatory Affairs Managers,Communicate regulatory information to multiple departments and ensure that information is interpreted correctly.,0.65,communicating regulatory info across departments
+18030,Regulatory Affairs Managers,"Maintain current knowledge of relevant regulations, including proposed and final rules.",0.85,researching and tracking regulatory changes
+18023,Regulatory Affairs Managers,Formulate or implement regulatory affairs policies and procedures to ensure that regulatory compliance is maintained or enhanced.,0.55,formulating policy high but implementation needs authority
+21087,Regulatory Affairs Managers,Direct documentation efforts to ensure compliance with domestic and international regulations and standards.,0.65,directing documentation compliance efforts
+18038,Regulatory Affairs Managers,Review materials such as marketing literature or user manuals to ensure that regulatory agency requirements are met.,0.85,reviewing marketing materials for compliance
+18034,Regulatory Affairs Managers,Participate in the development or implementation of clinical trial protocols.,0.55,protocol drafting high but trial implementation needs humans
+18028,Regulatory Affairs Managers,Implement or monitor complaint processing systems to ensure effective and timely resolution of all complaint investigations.,0.65,monitoring complaint processing systems
+18043,Regulatory Affairs Managers,Establish procedures or systems for publishing document submissions in hardcopy or electronic formats.,0.75,establishing document publishing procedures
+18027,Regulatory Affairs Managers,Establish regulatory priorities or budgets and allocate resources and workloads.,0.55,budget and priority allocation needs business authority
+18039,Regulatory Affairs Managers,Train staff in regulatory policies or procedures.,0.45,training staff needs live interpersonal delivery
+18042,Regulatory Affairs Managers,Develop and maintain standard operating procedures or local working practices.,0.80,writing standard operating procedures
+18040,Regulatory Affairs Managers,Contribute to the development or implementation of business unit strategic and operating plans.,0.60,contributing to strategic plan drafting
+19531,Regulatory Affairs Managers,Monitor regulatory affairs activities to ensure their alignment with corporate sustainability or green initiatives.,0.70,monitoring alignment with sustainability initiatives
+18041,Regulatory Affairs Managers,Coordinate internal discoveries and depositions with legal department staff.,0.30,coordinating legal depositions needs human presence
+18032,Regulatory Affairs Managers,Monitor emerging trends regarding industry regulations to determine potential impacts on organizational processes.,0.85,monitoring and analyzing regulatory trends
+19529,Regulatory Affairs Managers,Develop relationships with state or federal environmental regulatory agencies to learn about and analyze the potential impacts of proposed environmental policy regulations.,0.25,developing agency relationships needs human representative
+19532,Regulatory Affairs Managers,Monitor regulatory affairs trends related to environmental issues.,0.85,monitoring environmental regulatory trends
+19530,Regulatory Affairs Managers,"Evaluate regulatory affairs aspects that are specifically green, such as the use of toxic substances in packaging, carbon footprinting issues, or green policy implementation.",0.75,evaluating green regulatory aspects from data
+18044,Regulatory Affairs Managers,Evaluate new software publishing systems and confer with regulatory agencies concerning news or updates on electronic publishing of submissions.,0.50,evaluating systems but conferring with agencies needs authority
+15645,Compliance Managers,Report violations of compliance or regulatory standards to duly authorized enforcement agencies as appropriate or required.,0.35,reporting violations needs authorized human accountability
+15650,Compliance Managers,Identify compliance issues that require follow-up or investigation.,0.75,identifying compliance issues from data review
+21088,Compliance Managers,"Discuss emerging compliance issues to ensure that management and employees are informed about compliance reporting systems, policies, and practices.",0.50,discussing compliance issues is interpersonal communication
+15653,Compliance Managers,File appropriate compliance reports with regulatory agencies.,0.45,filing reports needs accountable signatory
+15638,Compliance Managers,"Maintain documentation of compliance activities, such as complaints received or investigation outcomes.",0.85,maintaining compliance documentation
+15639,Compliance Managers,Consult with corporate attorneys as necessary to address difficult legal compliance issues.,0.40,consulting attorneys on judgment calls
+15656,Compliance Managers,Conduct or direct the internal investigation of compliance issues.,0.45,investigations involve interviews and human judgment
+15644,Compliance Managers,"Provide employee training on compliance related topics, policies, or procedures.",0.50,training materials high but live delivery needs presence
+15637,Compliance Managers,"Serve as a confidential point of contact for employees to communicate with management, seek clarification on issues or dilemmas, or report irregularities.",0.20,confidential point of contact needs human trust
+21089,Compliance Managers,"Verify that all regulatory policies and procedures have been documented, implemented, and communicated.",0.70,verifying policy documentation and communication
+15652,Compliance Managers,Disseminate written policies and procedures related to compliance activities.,0.85,disseminating written policies
+15647,Compliance Managers,Prepare management reports regarding compliance operations and progress.,0.90,preparing management reports from data
+15655,Compliance Managers,Conduct periodic internal reviews or audits to ensure that compliance procedures are followed.,0.55,audits mix document review with site visits
+21090,Compliance Managers,"Keep informed regarding pending industry changes, trends, or best practices.",0.85,researching industry trends and best practices
+15649,Compliance Managers,Monitor compliance systems to ensure their effectiveness.,0.75,monitoring compliance system data
+21091,Compliance Managers,Direct the development or implementation of policies and procedures related to compliance throughout an organization.,0.45,directing org-wide policy implementation needs authority
+15642,Compliance Managers,Advise internal management or business partners on the implementation or operation of compliance programs.,0.70,advising management on compliance programs
+15654,Compliance Managers,"Design or implement improvements in communication, monitoring, or enforcement of compliance standards.",0.55,designing improvements high but enforcement needs authority
+15646,Compliance Managers,Provide assistance to internal or external auditors in compliance reviews.,0.65,assisting auditors with documentation
+15641,Compliance Managers,Collaborate with human resources departments to ensure the implementation of consistent disciplinary action strategies in cases of compliance standard violations.,0.35,collaborating on disciplinary decisions needs human judgment
+21092,Compliance Managers,"Develop risk management strategies based on assessment of product, compliance, or operational risks.",0.75,developing risk strategies from assessment data
+19533,Compliance Managers,Advise technical professionals on the development or use of environmental compliance or reporting tools.,0.75,advising on compliance tools
+19534,Compliance Managers,Conduct environmental audits to ensure adherence to environmental standards.,0.30,environmental audits need on-site inspection
+19537,Compliance Managers,Evaluate testing procedures to meet the specifications of environmental monitoring programs.,0.70,evaluating testing procedure documentation
+19538,Compliance Managers,Review or modify policies or operating guidelines to comply with changes to environmental standards or regulations.,0.85,reviewing and revising policy documents
+15643,Compliance Managers,Review communications such as securities sales advertising to ensure there are no violations of standards or regulations.,0.85,reviewing marketing communications for compliance
+21093,Compliance Managers,"Oversee internal reporting systems, such as corporate compliance hotlines.",0.55,overseeing reporting systems needs ongoing accountability
+15636,Compliance Managers,Verify that software technology is in place to adequately provide oversight and monitoring in all required areas.,0.70,verifying software oversight systems in place
+19536,Compliance Managers,"Direct environmental programs, such as air or water compliance, aboveground or underground storage tanks, spill prevention or control, hazardous waste or materials management, solid waste recycling, medical waste management, indoor air quality, integrated pest management, employee training, or disaster preparedness.",0.20,directing physical on-site environmental programs
+15800,Loss Prevention Managers,Coordinate or conduct internal investigations of problems such as employee theft and violations of corporate loss prevention policies.,0.40,internal investigations involve interviews and judgment
+15807,Loss Prevention Managers,"Administer systems and programs to reduce loss, maintain inventory control, or increase safety.",0.55,administering loss prevention systems and programs
+15781,Loss Prevention Managers,Review loss prevention exception reports and cash discrepancies to ensure adherence to guidelines.,0.85,reviewing exception reports and cash discrepancies
+15791,Loss Prevention Managers,"Train loss prevention staff, retail managers, or store employees on loss control and prevention measures.",0.45,training staff needs live interpersonal delivery
+15786,Loss Prevention Managers,Investigate or interview individuals suspected of shoplifting or internal theft.,0.10,interviewing theft suspects needs human authority and presence
+15783,Loss Prevention Managers,"Provide recommendations and solutions in crisis situations such as workplace violence, protests, and demonstrations.",0.30,crisis response needs real-time human presence and judgment
+15806,Loss Prevention Managers,Identify potential for loss and develop strategies to eliminate it.,0.75,identifying loss patterns and developing strategies
+15795,Loss Prevention Managers,Hire or supervise loss prevention staff.,0.20,hiring and supervising staff needs human presence
+15804,Loss Prevention Managers,"Advise retail managers on compliance with applicable codes, laws, regulations, or standards.",0.75,advising managers on regulatory compliance
+15799,Loss Prevention Managers,"Develop and maintain partnerships with federal, state, or local law enforcement agencies or members of the retail loss prevention community.",0.20,building law enforcement partnerships needs human representative

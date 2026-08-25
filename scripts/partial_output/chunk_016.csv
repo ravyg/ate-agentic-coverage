@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+11314,"Meter Readers, Utilities","Report to service departments any problems, such as meter irregularities, damaged equipment, or impediments to meter access, including dogs.",0.15,requires physical presence to observe meter issues
+11315,"Meter Readers, Utilities","Answer customers' questions about services and charges, or direct them to customer service centers.",0.75,customer support communication
+11316,"Meter Readers, Utilities",Update client address and meter location information.,0.90,database record update
+11317,"Meter Readers, Utilities",Leave messages to arrange different times to read meters in cases in which meters are not accessible.,0.75,scheduling communication
+11318,"Meter Readers, Utilities",Connect and disconnect utility services at specific locations.,0.05,physical on-site utility work
+11320,"Meter Readers, Utilities",Report lost or broken keys.,0.90,simple reporting task
+11321,Postal Service Clerks,"Keep money drawers in order, and record and balance daily transactions.",0.35,involves physical cash handling
+11322,Postal Service Clerks,"Weigh letters and parcels, compute mailing costs based on type, weight, and destination, and affix correct postage.",0.15,requires physical weighing and affixing postage
+11323,Postal Service Clerks,Obtain signatures from recipients of registered or special delivery mail.,0.05,requires physical presence for signature
+11324,Postal Service Clerks,"Register, certify, and insure letters and parcels.",0.20,physical mail handling with paperwork
+11325,Postal Service Clerks,"Sell and collect payment for products such as stamps, prepaid mail envelopes, and money orders.",0.10,in-person retail transaction
+11326,Postal Service Clerks,Check mail to ensure correct postage and that packages and letters are in proper condition for mailing.,0.10,physical inspection required
+11327,Postal Service Clerks,"Answer questions regarding mail regulations and procedures, postage rates, and post office boxes.",0.90,informational Q&A
+11328,Postal Service Clerks,"Complete forms regarding changes of address, or theft or loss of mail, or for special services such as registered or priority mail.",0.65,form completion largely digital
+11329,Postal Service Clerks,Provide assistance to the public in complying with federal regulations of Postal Service and other federal agencies.,0.55,informational assistance often in-person
+11330,Postal Service Clerks,"Sort incoming and outgoing mail, according to type and destination, by hand or by operating electronic mail-sorting and scanning devices.",0.10,physical mail sorting
+11331,Postal Service Clerks,Cash money orders.,0.10,in-person cash transaction
+11332,Postal Service Clerks,Rent post office boxes to customers.,0.15,in-person transaction with verification
+11333,Postal Service Clerks,"Put undelivered parcels away, retrieve them when customers come to claim them, and complete any related documentation.",0.15,physical parcel handling
+11334,Postal Service Clerks,"Provide customers with assistance in filing claims for mail theft, or lost or damaged mail.",0.70,guided claims filing assistance
+11335,Postal Service Clerks,"Respond to complaints regarding mail theft, delivery problems, and lost or damaged mail, filling out forms and making appropriate referrals for investigation.",0.70,complaint intake and referral mostly informational
+11336,Postal Service Clerks,"Receive letters and parcels, and place mail into bags.",0.05,physical handling of mail
+11337,Postal Service Clerks,Feed mail into postage canceling devices or hand stamp mail to cancel postage.,0.05,physical machine operation
+11338,Postal Service Clerks,Transport mail from one work station to another.,0.02,physical transport no body
+11341,Postal Service Mail Carriers,"Obtain signed receipts for registered, certified, and insured mail, collect associated charges, and complete any necessary paperwork.",0.05,requires physical presence on delivery route
+11342,Postal Service Mail Carriers,"Sort mail for delivery, arranging it in delivery sequence.",0.15,mostly physical sorting
+11343,Postal Service Mail Carriers,"Deliver mail to residences and business establishments along specified routes by walking or driving, using a combination of satchels, carts, cars, and small trucks.",0.00,physical delivery no body
+11344,Postal Service Mail Carriers,"Return to the post office with mail collected from homes, businesses, and public mailboxes.",0.00,physical route no body
+11345,Postal Service Mail Carriers,Turn in money and receipts collected along mail routes.,0.02,physical cash handoff
+11346,Postal Service Mail Carriers,Sign for cash-on-delivery and registered mail before leaving the post office.,0.03,requires physical presence and signature
+11347,Postal Service Mail Carriers,Record address changes and redirect mail for those addresses.,0.90,database record update
+11348,Postal Service Mail Carriers,Hold mail for customers who are away from delivery locations.,0.10,physical handling along route
+11349,Postal Service Mail Carriers,Bundle mail in preparation for delivery or transportation to relay boxes.,0.03,physical bundling
+11350,Postal Service Mail Carriers,Leave notices telling patrons where to collect mail that could not be delivered.,0.05,physical notice at a location
+11351,Postal Service Mail Carriers,Meet schedules for the collection and return of mail.,0.02,physical route schedule adherence no body
+11352,Postal Service Mail Carriers,Return incorrectly addressed mail to senders.,0.10,physical mail handling
+11353,Postal Service Mail Carriers,Maintain accurate records of deliveries.,0.90,pure recordkeeping
+11354,Postal Service Mail Carriers,Answer customers' questions about postal services and regulations.,0.90,informational Q&A
+11355,Postal Service Mail Carriers,Provide customers with change of address cards and other forms.,0.30,mostly physical form handoff
+11356,Postal Service Mail Carriers,"Report any unusual circumstances concerning mail delivery, including the condition of street letter boxes.",0.15,requires physical observation to report
+11357,Postal Service Mail Carriers,"Register, certify, and insure parcels and letters.",0.20,physical mail handling with paperwork
+11358,Postal Service Mail Carriers,Travel to post offices to pick up the mail for routes or pick up mail from postal relay boxes.,0.00,physical travel no body
+11360,Postal Service Mail Carriers,Complete forms that notify publishers of address changes.,0.85,form completion informational
+11361,Postal Service Mail Carriers,Sell stamps and money orders.,0.10,in-person retail transaction
+11362,"Production, Planning, and Expediting Clerks","Examine documents, materials, or products and monitor work processes to assess completeness, accuracy, and conformance to standards and specifications.",0.35,mix of document review and physical process monitoring
+11363,"Production, Planning, and Expediting Clerks","Review documents, such as production schedules, work orders, or staffing tables, to determine personnel or materials requirements or material priorities.",0.85,document analysis
+11364,"Production, Planning, and Expediting Clerks",Confer with department supervisors or other personnel to assess progress and discuss needed changes.,0.40,live discussion and coordination with humans
+11365,"Production, Planning, and Expediting Clerks","Revise production schedules when required due to design changes, labor or material shortages, backlogs, or other interruptions, collaborating with management, marketing, sales, production, or engineer",0.55,scheduling computation with human collaboration
+11366,"Production, Planning, and Expediting Clerks","Confer with establishment personnel, vendors, or customers to coordinate production or shipping activities and to resolve complaints or eliminate delays.",0.45,coordination and negotiation with external parties
+11367,"Production, Planning, and Expediting Clerks","Record production data, including volume produced, consumption of raw materials, or quality control measures.",0.75,data recording mostly clerical
+11368,"Production, Planning, and Expediting Clerks",Requisition and maintain inventories of materials or supplies necessary to meet production demands.,0.65,inventory management largely digital
+11369,"Production, Planning, and Expediting Clerks","Calculate figures, such as required amounts of labor or materials, manufacturing costs, or wages, using pricing schedules, adding machines, calculators, or computers.",0.95,pure calculation
+11370,"Production, Planning, and Expediting Clerks",Distribute production schedules or work orders to departments.,0.85,distributing schedules digitally
+11371,"Production, Planning, and Expediting Clerks","Compile information, such as production rates and progress, materials inventories, materials used, or customer information, so that status reports can be completed.",0.90,compiling info for reports
+11372,"Production, Planning, and Expediting Clerks","Arrange for delivery, assembly, or distribution of supplies or parts to expedite flow of materials and meet production schedules.",0.55,logistics coordination
+11373,"Production, Planning, and Expediting Clerks",Contact suppliers to verify shipment details.,0.65,supplier communication
+11374,"Production, Planning, and Expediting Clerks","Maintain files, such as maintenance records, bills of lading, or cost reports.",0.90,file maintenance
+11375,"Production, Planning, and Expediting Clerks","Plan production commitments or timetables for business units, specific programs, or jobs, using sales forecasts.",0.75,planning from forecasts
+11376,"Production, Planning, and Expediting Clerks","Establish and prepare product construction directions and locations and information on required tools, materials, equipment, numbers of workers needed, and cost projections.",0.70,planning documentation
+11377,"Production, Planning, and Expediting Clerks","Compile and prepare documentation related to production sequences, transportation, personnel schedules, or purchase, maintenance, or repair orders.",0.85,documentation compilation
+11378,"Production, Planning, and Expediting Clerks","Provide documentation and information to account for delays, difficulties, or changes to cost estimates.",0.85,reporting documentation
+11379,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Collect or prepare measurement, weight, or identification labels and attach them to products.",0.10,physical labeling
+11380,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Document quantity, quality, type, weight, test result data, and value of materials or products to maintain shipping, receiving, and production records and files.",0.35,recordkeeping requiring physical observation
+11381,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Compare product labels, tags, or tickets, shipping manifests, purchase orders, and bills of lading to verify accuracy of shipment contents, quality specifications, or weights.",0.35,document comparison against physical shipment
+11382,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Count or estimate quantities of materials, parts, or products received or shipped.",0.15,physical counting
+11383,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Weigh or measure materials, equipment, or products to maintain relevant records, using volume meters, scales, rules, or calipers.",0.10,physical measurement
+11384,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Communicate with customers and vendors to exchange information regarding products, materials, and services.",0.80,communication task
+11386,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",Collect product samples and prepare them for laboratory analysis or testing.,0.05,physical sample collection
+11387,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",Unload or unpack incoming shipments.,0.02,physical labor
+11388,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",Operate scalehouse computers to obtain weight information about incoming shipments such as those from waste haulers.,0.30,computer operation on-site with physical component
+11389,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Fill orders for products and samples, following order tickets, and forward or mail items.",0.10,physical order fulfillment
+11390,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Sort products or materials into predetermined sequences or groupings for display, packing, shipping, or storage.",0.05,physical sorting
+11391,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Signal or instruct other workers to weigh, move, or check products.",0.55,instructing workers communication based
+11393,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",Store samples of finished products in labeled cartons and record their location.,0.10,physical storage
+11394,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Remove from stock products or loads not meeting quality standards, and notify supervisors or appropriate departments of discrepancies or shortages.",0.15,physical removal with partial digital notification
+11395,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Maintain, monitor, and clean work areas, such as recycling collection sites, drop boxes, counters and windows, and areas around scale houses.",0.02,physical cleaning
+11397,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Examine products or materials, parts, subassemblies, and packaging for damage, defects, or shortages, using specification sheets, gauges, and standards charts.",0.10,physical inspection with gauges
+11398,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Transport materials, products, or samples to processing, shipping, or storage areas, manually or using conveyors, pumps, or hand trucks.",0.02,physical transport
+11400,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",Inspect products and examination records to determine the number of defects per worker and the reasons for examiners' rejections.,0.55,record analysis with some physical inspection
+11401,Data Entry Keyers,"Read source documents such as canceled checks, sales reports, or bills, and enter data in specific data fields or onto tapes or disks for subsequent entry, using keyboards or scanners.",0.90,data entry from documents
+11402,Data Entry Keyers,"Compile, sort, and verify the accuracy of data before it is entered.",0.90,data verification task
+11403,Data Entry Keyers,"Compare data with source documents, or re-enter data in verification format to detect errors.",0.90,data verification task
+11404,Data Entry Keyers,Store completed documents in appropriate locations.,0.40,document filing may be physical
+11405,Data Entry Keyers,"Locate and correct data entry errors, or report them to supervisors.",0.90,error correction and reporting
+11406,Data Entry Keyers,Maintain logs of activities and completed work.,0.90,activity log maintenance
+11407,Data Entry Keyers,Select materials needed to complete work assignments.,0.30,may involve physical material selection
+11408,Data Entry Keyers,"Load machines with required input or output media, such as paper, cards, disks, tape, or Braille media.",0.05,physical machine loading
+11409,Data Entry Keyers,"Resolve garbled or indecipherable messages, using cryptographic procedures and equipment.",0.80,cryptographic decoding computational
+12865,"Agents and Business Managers of Artists, Performers, and Athletes","Collect fees, commissions, or other payments, according to contract terms.",0.30,financial collection requiring fiduciary authority
+12866,"Agents and Business Managers of Artists, Performers, and Athletes","Confer with clients to develop strategies for their careers, and to explain actions taken on their behalf.",0.40,requires live client rapport and strategy discussion
+12867,"Agents and Business Managers of Artists, Performers, and Athletes","Develop contacts with individuals and organizations, and apply effective strategies and techniques to ensure their clients' success.",0.25,relationship-based networking
+12868,"Agents and Business Managers of Artists, Performers, and Athletes",Schedule promotional or performance engagements for clients.,0.75,scheduling engagements
+12869,"Agents and Business Managers of Artists, Performers, and Athletes","Negotiate with managers, promoters, union officials, and other persons regarding clients' contractual rights and obligations.",0.30,contract negotiation
+12870,"Agents and Business Managers of Artists, Performers, and Athletes",Keep informed of industry trends and deals.,0.85,industry research
+12871,"Agents and Business Managers of Artists, Performers, and Athletes","Manage business and financial affairs for clients, such as arranging travel and lodging, selling tickets, and directing marketing and advertising activities.",0.50,logistics and financial management mix
+12872,"Agents and Business Managers of Artists, Performers, and Athletes",Conduct auditions or interviews to evaluate potential clients.,0.35,human judgment evaluation of talent
+12873,"Agents and Business Managers of Artists, Performers, and Athletes",Arrange meetings concerning issues involving their clients.,0.80,meeting scheduling
+12874,"Agents and Business Managers of Artists, Performers, and Athletes",Prepare periodic accounting statements for clients.,0.85,accounting statement preparation
+12875,"Agents and Business Managers of Artists, Performers, and Athletes","Advise clients on financial and legal matters, such as investments and taxes.",0.35,requires licensed financial and legal advisory authority
+12876,"Agents and Business Managers of Artists, Performers, and Athletes","Obtain information about or inspect performance facilities, equipment, and accommodations to ensure that they meet specifications.",0.15,physical facility inspection
+12877,"Agents and Business Managers of Artists, Performers, and Athletes","Hire trainers or coaches to advise clients on performance matters, such as training techniques or performance presentations.",0.25,hiring requires human judgment and authority
+12878,"Buyers and Purchasing Agents, Farm Products","Purchase, for further processing or for resale, farm products, such as milk, grains, or Christmas trees.",0.25,purchasing requires financial authority and negotiation
+12879,"Buyers and Purchasing Agents, Farm Products",Negotiate contracts with farmers for the production or purchase of farm products.,0.30,contract negotiation with farmers
+12880,"Buyers and Purchasing Agents, Farm Products",Arrange for processing or resale of purchased products.,0.55,logistics coordination
+12881,"Buyers and Purchasing Agents, Farm Products",Arrange for transportation or storage of purchased products.,0.60,transportation and storage arrangement
+12882,"Buyers and Purchasing Agents, Farm Products",Review orders to determine product types and quantities required to meet demand.,0.85,order review analysis
+12883,"Buyers and Purchasing Agents, Farm Products","Maintain records of business transactions and product inventories, reporting data to companies or government agencies as necessary.",0.85,recordkeeping and reporting
+12884,"Buyers and Purchasing Agents, Farm Products","Examine or test crops or products to estimate their value, determine their grade, or locate any evidence of disease or insect damage.",0.10,physical crop inspection
+12885,"Buyers and Purchasing Agents, Farm Products","Coordinate or direct activities of workers engaged in cutting, transporting, storing, or milling products and maintaining records.",0.20,directing on-site physical workers
+12886,"Buyers and Purchasing Agents, Farm Products",Calculate applicable government grain quotas.,0.90,regulatory calculation
+12887,"Buyers and Purchasing Agents, Farm Products","Sell supplies, such as seed, feed, fertilizers, or insecticides, arranging for loans or financing as necessary.",0.30,sales with financing arrangement needs authority
+12888,"Buyers and Purchasing Agents, Farm Products","Estimate land production possibilities, surveying property and studying factors such as crop rotation history, soil fertility, or irrigation facilities.",0.30,requires physical property survey
+12889,"Buyers and Purchasing Agents, Farm Products",Advise farm groups or growers on land preparation or livestock care techniques that will maximize the quantity and quality of production.,0.65,advisory based on agricultural knowledge
+12890,Government Property Inspectors and Investigators,"Prepare correspondence, reports of inspections or investigations, or recommendations for action.",0.90,report writing
+12891,Government Property Inspectors and Investigators,"Examine records, reports, or other documents to establish facts or detect discrepancies.",0.90,document analysis
+12892,Government Property Inspectors and Investigators,Monitor investigations of suspected offenders to ensure that they are conducted in accordance with constitutional requirements.,0.15,requires legal oversight authority
+12893,Government Property Inspectors and Investigators,"Collect, identify, evaluate, or preserve case evidence.",0.10,physical evidence collection with legal chain of custody
+12894,Government Property Inspectors and Investigators,Inspect manufactured or processed products to ensure compliance with contract specifications or legal requirements.,0.20,physical product inspection
+12895,Government Property Inspectors and Investigators,Coordinate with or assist law enforcement agencies in matters of mutual concern.,0.40,coordination with law enforcement needing authority
+12896,Government Property Inspectors and Investigators,Testify in court or at administrative proceedings concerning investigation findings.,0.03,requires sworn testimony under legal authority
+12898,Government Property Inspectors and Investigators,Inspect government-owned equipment or materials in the possession of private contractors to ensure compliance with contracts or regulations or to prevent misuse.,0.15,physical equipment inspection
+12899,Government Property Inspectors and Investigators,Recommend legal or administrative action to protect government property.,0.70,drafting recommendations informational
+12900,Government Property Inspectors and Investigators,"Submit samples of products to government laboratories for testing, as required.",0.20,physical sample submission logistics
+12904,Personal Financial Advisors,Analyze financial information obtained from clients to determine strategies for meeting clients' financial objectives.,0.75,financial analysis advisory context
+12905,Personal Financial Advisors,Answer clients' questions about the purposes and details of financial plans and strategies.,0.70,financial Q&A communication
+12907,Personal Financial Advisors,"Interview clients to determine their current income, expenses, insurance coverage, tax status, financial objectives, risk tolerance, or other information needed to develop a financial plan.",0.45,client interview matches anchor
+12909,Personal Financial Advisors,"Implement financial planning recommendations, or refer clients to someone who can assist them with plan implementation.",0.25,requires licensed authority to implement financial actions
+12913,Personal Financial Advisors,"Prepare or interpret for clients information, such as investment performance reports, financial document summaries, or income projections.",0.85,report preparation and interpretation
+12914,Personal Financial Advisors,"Guide clients in the gathering of information, such as bank account records, income tax returns, life and disability insurance records, pension plans, or wills.",0.65,guidance for information gathering
+12915,Personal Financial Advisors,Contact clients periodically to determine any changes in their financial status.,0.65,periodic client contact communication

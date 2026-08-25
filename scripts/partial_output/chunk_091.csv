@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+22930,First-Line Supervisors of Firefighting and Prevention Workers,"Direct investigation of cases of suspected arson, hazards, and false alarms and submit reports outlining findings.",0.30,arson investigation needs on-site presence and authority
+22931,First-Line Supervisors of Firefighting and Prevention Workers,Recommend equipment modifications or new equipment purchases.,0.80,equipment research and recommendation from specs
+22932,First-Line Supervisors of Firefighting and Prevention Workers,"Supervise and participate in the inspection of properties to ensure that they are in compliance with applicable fire codes, ordinances, laws, regulations, and standards.",0.15,on-site property inspection required
+22933,First-Line Supervisors of Firefighting and Prevention Workers,"Inspect and test new and existing fire protection systems, fire detection systems, and fire safety equipment to ensure that they are operating properly.",0.08,hands-on testing of physical systems
+22934,First-Line Supervisors of Firefighting and Prevention Workers,Study and interpret fire safety codes to establish procedures for issuing permits to handle hazardous or flammable substances.,0.85,code interpretation and procedure drafting
+22935,First-Line Supervisors of Firefighting and Prevention Workers,"Analyze burn conditions and results, and prepare postburn reports.",0.70,data analysis and report writing from burn data
+22936,First-Line Supervisors of Firefighting and Prevention Workers,"Evaluate size, location, and condition of fires.",0.05,requires on-site assessment during active fire
+22937,First-Line Supervisors of Firefighting and Prevention Workers,Maintain knowledge of fire laws and fire prevention techniques and tactics.,0.80,ongoing research and knowledge retention
+22938,First-Line Supervisors of Firefighting and Prevention Workers,"Plan, direct, and supervise prescribed burn projects.",0.20,on-site direction of physical burn operations
+22939,First-Line Supervisors of Firefighting and Prevention Workers,Recruit or hire firefighting personnel.,0.30,hiring decisions need human judgment and authority
+22947,First-Line Supervisors of Security Workers,"Investigate disturbances on the premises, such as security alarms, altercations, and suspicious activity.",0.05,requires physical on-site investigation
+22953,First-Line Supervisors of Security Workers,"Patrol the premises to prevent or detect intrusion, protect property, or preserve order.",0.00,physical patrolling with no body
+22949,First-Line Supervisors of Security Workers,"Monitor and authorize entry of employees, visitors, or other persons.",0.05,physical presence needed to authorize entry
+22957,First-Line Supervisors of Security Workers,Secure entrances and exits by locking doors and gates.,0.00,physical locking of doors and gates
+22960,First-Line Supervisors of Security Workers,Write reports documenting observations made while on patrol.,0.15,report writing tied to physical patrol observations
+22951,First-Line Supervisors of Security Workers,"Monitor the behavior of security employees to ensure adherence to quality standards, deadlines, or procedures.",0.25,monitoring staff behavior needs human presence
+22940,First-Line Supervisors of Security Workers,"Advise employees in handling problems or resolving complaints from customers, tenants, detainees, or other persons.",0.55,advice can be given via text though live rapport helps
+22954,First-Line Supervisors of Security Workers,"Recruit, interview, and hire security personnel.",0.30,hiring interviews need human judgment and authority
+22942,First-Line Supervisors of Security Workers,Assign security personnel to posts or patrols.,0.65,scheduling and assignment is mostly information work
+22943,First-Line Supervisors of Security Workers,"Call police or fire departments in cases of emergency, such as fire, bomb threats, and presence of unauthorized persons.",0.15,requires physical presence to witness emergency
+22941,First-Line Supervisors of Security Workers,"Apprehend or evict trespassers, rule violators, or other security threats from the premises.",0.00,physical apprehension of trespassers
+22956,First-Line Supervisors of Security Workers,"Screen individuals and belongings to prevent passage of prohibited materials using walkthrough detectors, wands, or bag searches.",0.00,physical screening of people and belongings
+22950,First-Line Supervisors of Security Workers,Monitor closed-circuit television cameras.,0.65,remote video review feasible though action needs human
+22946,First-Line Supervisors of Security Workers,Inspect and adjust security equipment to ensure it is operational or to detect evidence of tampering.,0.05,hands-on inspection and adjustment of equipment
+22958,First-Line Supervisors of Security Workers,"Train security personnel on protective procedures, first aid, fire safety, and other duties.",0.35,materials can be prepared but hands-on training needs presence
+22945,First-Line Supervisors of Security Workers,Explain company policies and procedures to staff using oral or written communication.,0.80,policy communication via written or generated text
+22944,First-Line Supervisors of Security Workers,"Develop and document security procedures, policies, or standards.",0.90,policy drafting is pure information work
+22955,First-Line Supervisors of Security Workers,"Schedule training or drills for emergencies, such as fires, bombs, and other threats.",0.75,scheduling and coordination task
+22948,First-Line Supervisors of Security Workers,"Log items distributed to persons, such as keys and key cards.",0.40,logging is info work but item handoff needs physical presence
+22959,First-Line Supervisors of Security Workers,Write and present department budgets to upper management or other stakeholders.,0.55,budget drafting feasible but live presentation needs human
+22952,First-Line Supervisors of Security Workers,"Order materials or supplies, such as keys, uniforms, and badges.",0.85,procurement ordering via digital systems
+22961,Firefighters,"Rescue survivors from burning buildings, accident sites, and water hazards.",0.00,physical rescue with no body
+22962,Firefighters,Dress with equipment such as fire-resistant clothing and breathing apparatus.,0.00,physical donning of protective equipment
+22963,Firefighters,"Assess fires and situations and report conditions to superiors to receive instructions, using two-way radios.",0.05,requires on-site assessment of active fire
+22964,Firefighters,"Move toward the source of a fire, using knowledge of types of fires, construction design, building materials, and physical layout of properties.",0.00,physical movement toward fire
+22965,Firefighters,"Respond to fire alarms and other calls for assistance, such as automobile and industrial accidents.",0.00,physical emergency response
+22966,Firefighters,"Create openings in buildings for ventilation or entrance, using axes, chisels, crowbars, electric saws, or core cutters.",0.00,physical forced entry with tools
+22967,Firefighters,Drive and operate fire fighting vehicles and equipment.,0.00,physical vehicle operation
+22968,Firefighters,Inspect fire sites after flames have been extinguished to ensure that there is no further danger.,0.05,on-site inspection of extinguished fire site
+22969,Firefighters,"Position and climb ladders to gain access to upper levels of buildings, or to rescue individuals from burning structures.",0.00,physical ladder climbing and rescue
+22970,Firefighters,"Select and attach hose nozzles, depending on fire type, and direct streams of water or chemicals onto fires.",0.00,physical hose operation
+22988,Firefighters,Operate pumps connected to high-pressure hoses.,0.00,physical pump operation
+22971,Firefighters,"Maintain contact with fire dispatchers at all times to notify them of the need for additional firefighters and supplies, or to detail any difficulties encountered.",0.05,communication tied to on-site physical operations
+22972,Firefighters,Collaborate with other firefighters as a member of a firefighting crew.,0.00,physical teamwork on fireground
+22973,Firefighters,Patrol burned areas after fires to locate and eliminate hot spots that may restart fires.,0.00,physical patrol of burned areas
+22974,Firefighters,"Collaborate with police to respond to accidents, disasters, and arson investigation calls.",0.05,on-site coordination during active response
+22975,Firefighters,Participate in fire drills and demonstrations of fire fighting techniques.,0.00,physical participation in drills
+22977,Firefighters,Prepare written reports that detail specifics of fire incidents.,0.75,report writing from incident data
+22976,Firefighters,"Maintain knowledge of current firefighting practices by participating in drills and by attending seminars, conventions, and conferences.",0.15,mostly hands-on drills and physical training
+22978,Firefighters,Participate in physical training activities to maintain a high level of physical fitness.,0.00,physical fitness training
+22979,Firefighters,"Protect property from water and smoke, using waterproof salvage covers, smoke ejectors, and deodorants.",0.00,physical salvage operations
+22980,Firefighters,Inform and educate the public on fire prevention.,0.55,educational content creation though in-person common
+22981,Firefighters,"Salvage property by removing broken glass, pumping out water, and ventilating buildings to remove smoke.",0.00,physical salvage and cleanup work
+22982,Firefighters,"Orient self in relation to fire, using compass and map, and collect supplies and equipment dropped by parachute.",0.00,physical field navigation and supply collection
+22983,Firefighters,Clean and maintain fire stations and fire fighting equipment and apparatus.,0.00,physical cleaning and maintenance
+22984,Firefighters,"Inspect buildings for fire hazards and compliance with fire prevention ordinances, testing and checking smoke alarms and fire suppression equipment as necessary.",0.05,on-site building inspection
+22985,Firefighters,"Take action to contain any hazardous chemicals that could catch fire, leak, or spill.",0.00,physical hazmat containment
+22986,Firefighters,"Extinguish flames and embers to suppress fires, using shovels or engine- or hand-driven water or chemical pumps.",0.00,physical fire suppression
+22987,Firefighters,Administer first aid and cardiopulmonary resuscitation to injured persons or provide emergency medical care such as basic or advanced life support.,0.00,physical medical care requiring body and licensure
+22989,Firefighters,Search to locate fire survivors.,0.00,physical search for survivors
+22990,Firefighters,Train new employees to control and suppress fires.,0.10,hands-on physical firefighting training
+22991,Fire Inspectors and Investigators,"Prepare and maintain reports of investigation results, and records of convicted arsonists and arson suspects.",0.85,recordkeeping and report writing
+22992,Fire Inspectors and Investigators,"Testify in court cases involving fires, suspected arson, and false alarms.",0.05,sworn courtroom testimony by accountable human
+22993,Fire Inspectors and Investigators,"Package collected pieces of evidence in securely closed containers, such as bags, crates, or boxes, to protect them.",0.00,physical handling and packaging of evidence
+22994,Fire Inspectors and Investigators,Conduct inspections and acceptance testing of newly installed fire protection systems.,0.05,hands-on testing of installed systems
+22995,Fire Inspectors and Investigators,Analyze evidence and other information to determine probable cause of fire or explosion.,0.55,evidence analysis feasible though expert judgment often needed
+22996,Fire Inspectors and Investigators,Photograph damage and evidence related to causes of fires or explosions to document investigation findings.,0.05,on-site photography of physical evidence
+22998,Fire Inspectors and Investigators,"Inspect buildings to locate hazardous conditions and fire code violations, such as accumulations of combustible material, electrical wiring problems, and inadequate or non-functional fire exits.",0.05,on-site inspection for code violations
+22997,Fire Inspectors and Investigators,"Examine fire sites and collect evidence such as glass, metal fragments, charred wood, and accelerant residue for use in determining the cause of a fire.",0.00,physical evidence collection at fire scene
+22999,Fire Inspectors and Investigators,Instruct children about the dangers of fire.,0.30,in-person instruction of children
+23000,Fire Inspectors and Investigators,Conduct fire code compliance follow-ups to ensure that corrective actions have been taken in cases where violations were found.,0.20,typically requires on-site verification of corrections
+23001,Fire Inspectors and Investigators,"Inspect properties that store, handle, and use hazardous materials to ensure compliance with laws, codes, and regulations, and issue hazardous materials permits to facilities found in compliance.",0.10,physical inspection and legal permit authority
+23002,Fire Inspectors and Investigators,"Write detailed reports of fire inspections performed, fire code violations observed, and corrective recommendations offered.",0.75,inspection report writing from findings
+23003,Fire Inspectors and Investigators,"Identify corrective actions necessary to bring properties into compliance with applicable fire codes, laws, regulations, and standards, and explain these measures to property owners or their representatives.",0.50,analysis feasible though explaining to owners often needs live interaction
+23004,Fire Inspectors and Investigators,Develop or review fire exit plans.,0.80,exit plan review and design from documents
+23005,Fire Inspectors and Investigators,"Inspect and test fire protection or fire detection systems to verify that such systems are installed in accordance with appropriate laws, codes, ordinances, regulations, and standards.",0.05,hands-on testing of fire protection systems
+23006,Fire Inspectors and Investigators,"Coordinate efforts with other organizations, such as law enforcement agencies.",0.60,coordination communication with other agencies
+23007,Fire Inspectors and Investigators,"Attend training classes to maintain current knowledge of fire prevention, safety, and firefighting procedures.",0.60,equivalent knowledge gain via research materials
+23008,Fire Inspectors and Investigators,Review blueprints and plans for new or remodeled buildings to ensure the structures meet fire safety codes.,0.85,blueprint and plan review for code compliance
+23009,Fire Inspectors and Investigators,Teach fire investigation techniques to other firefighter personnel.,0.35,materials can be prepared but in-person teaching typical
+23010,Fire Inspectors and Investigators,Conduct fire exit drills to monitor and evaluate evacuation procedures.,0.05,on-site drill monitoring and evaluation
+23011,Fire Inspectors and Investigators,Teach public education programs on fire safety and prevention.,0.30,in-person public education typical
+23012,Fire Inspectors and Investigators,"Recommend changes to fire prevention, inspection, and fire code endorsement procedures.",0.85,procedure recommendation is pure analysis and writing
+23013,Fire Inspectors and Investigators,"Subpoena and interview witnesses, property owners, and building occupants to obtain information and sworn testimony.",0.10,requires legal authority to subpoena and interview
+23014,Fire Inspectors and Investigators,Conduct internal investigation to determine negligence and violation of laws and regulations by fire department employees.,0.30,internal investigation needs accountable human judgment
+23015,Fire Inspectors and Investigators,"Test sites and materials to establish facts, such as burn patterns and flash points of materials, using test equipment.",0.05,hands-on lab testing of materials
+23016,Fire Inspectors and Investigators,Dust evidence or portions of fire scenes for latent fingerprints.,0.00,physical fingerprint dusting
+23017,Fire Inspectors and Investigators,"Arrange for the replacement of defective fire fighting equipment and for repair of fire alarm and sprinkler systems, making minor repairs such as servicing fire extinguishers when feasible.",0.55,arranging repairs is doable though hands-on repair is not
+23018,Fire Inspectors and Investigators,Issue permits for public assemblies.,0.25,issuing official permits needs legal authority
+23019,Fire Inspectors and Investigators,"Supervise staff, training them, planning their work, and evaluating their performance.",0.30,people management needs human judgment and accountability
+23020,Fire Inspectors and Investigators,"Develop and coordinate fire prevention programs, such as false alarm billing, fire inspection reporting, and hazardous materials management.",0.75,program design and coordination mostly information work
+11102,Forest Fire Inspectors and Prevention Specialists,"Relay messages about emergencies, accidents, locations of crew and personnel, and fire hazard conditions.",0.30,communication task tied to field presence
+21143,Forest Fire Inspectors and Prevention Specialists,Conduct wildland firefighting training.,0.10,hands-on wildland firefighting training
+11104,Forest Fire Inspectors and Prevention Specialists,"Estimate sizes and characteristics of fires, and report findings to base camps by radio or telephone.",0.05,requires on-site fire observation
+11103,Forest Fire Inspectors and Prevention Specialists,Direct crews working on firelines during forest fires.,0.05,on-site direction of firefighting crews
+11107,Forest Fire Inspectors and Prevention Specialists,"Locate forest fires on area maps, using azimuth sighters and known landmarks.",0.10,field work with sighting instruments
+11106,Forest Fire Inspectors and Prevention Specialists,"Extinguish smaller fires with portable extinguishers, shovels, and axes.",0.00,physical fire extinguishing
+11112,Forest Fire Inspectors and Prevention Specialists,"Patrol assigned areas, looking for forest fires, hazardous conditions, and weather phenomena.",0.00,physical patrol of assigned areas
+11113,Forest Fire Inspectors and Prevention Specialists,"Compile and report meteorological data, such as temperature, relative humidity, wind direction and velocity, and types of cloud formations.",0.75,meteorological data compilation via sensors and APIs
+11109,Forest Fire Inspectors and Prevention Specialists,"Examine and inventory firefighting equipment, such as axes, fire hoses, shovels, pumps, buckets, and fire extinguishers, to determine amount and condition.",0.20,physical inventory and condition inspection
+21144,Forest Fire Inspectors and Prevention Specialists,Educate the public about fire safety and prevention.,0.35,educational content feasible though in-person common
+11110,Forest Fire Inspectors and Prevention Specialists,"Direct maintenance and repair of firefighting equipment, or requisition new equipment.",0.65,coordination and requisition are mostly information work
+11108,Forest Fire Inspectors and Prevention Specialists,Maintain records and logbooks.,0.85,records and logbook maintenance
+11105,Forest Fire Inspectors and Prevention Specialists,"Administer regulations regarding sanitation, fire prevention, violation corrections, and related forest regulations.",0.30,regulatory enforcement needs human authority
+11111,Forest Fire Inspectors and Prevention Specialists,Restrict public access and recreational use of forest lands during critical fire seasons.,0.15,requires legal authority and physical enforcement
+11114,Forest Fire Inspectors and Prevention Specialists,Inspect camp sites to ensure that campers are in compliance with forest use regulations.,0.05,on-site campsite inspection
+11115,Forest Fire Inspectors and Prevention Specialists,"Inspect forest tracts and logging areas for fire hazards such as accumulated wastes or mishandling of combustibles, and recommend appropriate fire prevention measures.",0.15,mostly on-site hazard inspection
+20123,Bailiffs,"Screen persons entering courthouse using magnetometers, x-ray machines, and other devices to collect and retain unauthorized firearms and other contraband.",0.00,physical security screening with devices
+20127,Bailiffs,Escort prisoners to and from courthouse and maintain custody of prisoners during court proceedings.,0.00,physical escort and custody of prisoners
+2091,Bailiffs,Maintain order in courtroom during trial and guard jury from outside contact.,0.00,physical courtroom presence and authority
+20124,Bailiffs,Provide security by patrolling interior and exterior of courthouse and escorting judges and other court employees.,0.00,physical patrol and escort duties
+2092,Bailiffs,Guard lodging of sequestered jury.,0.00,physical guarding of sequestered jury
+2094,Bailiffs,Enforce courtroom rules of behavior and warn persons not to smoke or disturb court procedure.,0.00,physical presence and authority to enforce rules
+21197,Bailiffs,Arrest persons in court when arrest warrants have been issued.,0.00,physical arrest requiring legal authority
+2095,Bailiffs,Report need for police or medical assistance to sheriff's office.,0.05,requires physical presence to observe need for help
+20125,Bailiffs,"Check courtroom for security and cleanliness and assure availability of sundry supplies, such as notepads, for use by judge, jurors, and attorneys.",0.10,physical courtroom check and supply upkeep
+2098,Bailiffs,Stop people from entering courtroom while judge charges jury.,0.00,physical control of courtroom access
+20126,Bailiffs,"Screen, control, and handle evidence and exhibits during court proceedings.",0.05,physical handling of evidence with chain of custody
+21198,Bailiffs,"Provide assistance to the public, such as directions to court offices.",0.45,info assistance automatable though typically in-person
+2097,Bailiffs,Announce entrance of judge.,0.05,in-person courtroom announcement
+20128,Bailiffs,Maintain court docket.,0.85,docket maintenance is pure recordkeeping
+2093,Bailiffs,Provide jury escort to restaurant and other areas outside of courtroom to prevent jury contact with public.,0.00,physical jury escort and protection
+15252,Correctional Officers and Jailers,Conduct head counts to ensure that each prisoner is present.,0.00,physical headcount of prisoners
+15254,Correctional Officers and Jailers,"Inspect conditions of locks, window bars, grills, doors, and gates at correctional facilities to ensure security and help prevent escapes.",0.05,physical inspection of security fixtures
+15253,Correctional Officers and Jailers,"Monitor conduct of prisoners in housing unit, or during work or recreational activities, according to established policies, regulations, and procedures, to prevent escape or violence.",0.15,monitoring via camera possible but intervention needs presence
+15256,Correctional Officers and Jailers,"Search prisoners and vehicles and conduct shakedowns of cells for valuables and contraband, such as weapons or drugs.",0.00,physical searches and shakedowns
+2102,Correctional Officers and Jailers,Guard facility entrances to screen visitors.,0.00,physical entrance guarding
+15255,Correctional Officers and Jailers,"Record information, such as prisoner identification, charges, and incidents of inmate disturbance, keeping daily logs of prisoner activities.",0.85,recordkeeping and daily log entries
+2104,Correctional Officers and Jailers,Inspect mail for the presence of contraband.,0.10,physical inspection of mail items
+2117,Correctional Officers and Jailers,Maintain records of prisoners' identification and charges.,0.85,recordkeeping of prisoner identification

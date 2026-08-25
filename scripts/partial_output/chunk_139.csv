@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+10634,Airfield Operations Specialists,Check military flight plans with civilian agencies.,0.65,cross-checking flight plan data between systems
+9639,Flight Attendants,"Verify that first aid kits and other emergency equipment, including fire extinguishers and oxygen bottles, are in working order.",0.05,physical inspection of onboard equipment
+9637,Flight Attendants,"Announce and demonstrate safety and emergency procedures, such as the use of oxygen masks, seat belts, and life jackets.",0.00,physical presence and demonstration required
+23942,Flight Attendants,Monitor passenger behavior to identify threats to the safety of the crew and other passengers.,0.05,requires physical presence to observe passengers
+9638,Flight Attendants,Walk aisles of planes to verify that passengers have complied with federal regulations prior to takeoffs and landings.,0.00,physical walk-through and enforcement
+9636,Flight Attendants,"Direct and assist passengers in emergency procedures, such as evacuating a plane following an emergency landing.",0.00,physical presence to direct evacuation
+9642,Flight Attendants,"Prepare passengers and aircraft for landing, following procedures.",0.05,physical cabin preparation tasks
+9640,Flight Attendants,Administer first aid to passengers in distress.,0.00,hands-on medical care no body
+9643,Flight Attendants,"Determine special assistance needs of passengers, such as small children, the elderly, or persons with disabilities.",0.15,mostly needs in-person interaction to assess needs
+9641,Flight Attendants,"Attend preflight briefings concerning weather, altitudes, routes, emergency procedures, crew coordination, lengths of flights, food and beverage services offered, and numbers of passengers.",0.15,requires physical presence at crew briefing
+9645,Flight Attendants,"Reassure passengers when situations, such as turbulence, are encountered.",0.05,in-person emotional reassurance needed
+9644,Flight Attendants,"Check to ensure that food, beverages, blankets, reading material, emergency equipment, and other supplies are aboard and are in adequate supply.",0.05,physical supply check
+9656,Flight Attendants,"Prepare reports showing places of departure and destination, passenger ticket numbers, meal and beverage inventories, the conditions of cabin equipment, and any problems encountered by passengers.",0.60,compiling a report from collected flight data
+9646,Flight Attendants,Announce flight delays and descent preparations.,0.05,physical PA announcement onboard
+9651,Flight Attendants,Greet passengers boarding aircraft and direct them to assigned seats.,0.00,physical greeting and seating direction
+9649,Flight Attendants,Assist passengers entering or disembarking the aircraft.,0.00,physical assistance boarding or deplaning
+9652,Flight Attendants,"Conduct periodic trips through the cabin to ensure passenger comfort and to distribute reading material, headphones, pillows, playing cards, and blankets.",0.00,physical cabin walkthrough distributing items
+9650,Flight Attendants,"Inspect and clean cabins, checking for any problems and making sure that cabins are in order.",0.00,physical cabin cleaning and inspection
+9654,Flight Attendants,Operate audio and video systems.,0.10,physical operation of onboard systems
+9648,Flight Attendants,"Answer passengers' questions about flights, aircraft, weather, travel routes and services, arrival times, or schedules.",0.20,info task but delivered via in-person presence
+9657,Flight Attendants,Collect money for meals and beverages.,0.05,physical cash handling onboard
+9658,Flight Attendants,Heat and serve prepared foods.,0.00,physical food handling
+9647,Flight Attendants,Inspect passenger tickets to verify information and to obtain destination information.,0.20,ticket check requires physical presence onboard
+9655,Flight Attendants,"Assist passengers in placing carry-on luggage in overhead, garment, or under-seat storage.",0.00,physical luggage handling
+9653,Flight Attendants,"Take inventory of headsets, alcoholic beverages, and money collected.",0.10,physical inventory counting onboard
+9659,Flight Attendants,Sell alcoholic beverages to passengers.,0.00,physical sale plus age verification authority
+8607,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Remove and replace soiled linens or equipment to maintain sanitary conditions.,0.00,physical cleaning task
+8606,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Drive ambulances or assist ambulance drivers in transporting sick, injured, or convalescent persons.",0.00,physical driving no body
+8612,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Report facts concerning accidents or emergencies to hospital personnel or law enforcement officials.,0.30,reporting text task but needs firsthand field presence
+8608,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Place patients on stretchers, and load stretchers into ambulances, usually with assistance from other attendants.",0.00,physical patient handling
+8609,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Accompany and assist emergency medical technicians on calls.,0.00,physical presence on emergency calls
+8611,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Replace supplies and disposable items on ambulances.,0.00,physical restocking of supplies
+21028,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Perform minor maintenance on emergency medical services vehicles, such as ambulances.",0.00,physical vehicle maintenance
+21029,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Clean and wash rigs, ambulances, or equipment.",0.00,physical cleaning of vehicles
+8610,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Earn and maintain appropriate certifications.,0.00,requires human licensure and certification
+8613,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Administer first aid, such as bandaging, splinting, or administering oxygen.",0.00,hands-on medical first aid no body
+8614,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Restrain or shackle violent patients.,0.00,physical restraint requiring authority and body
+3158,Driver/Sales Workers,"Drive trucks to deliver such items as food, medical supplies, or newspapers.",0.00,physical driving to deliver goods
+3156,Driver/Sales Workers,Inform regular customers of new products or services and price changes.,0.70,customer communication via calls or messages
+3161,Driver/Sales Workers,Record sales or delivery information on daily sales or delivery record.,0.85,data entry of sales and delivery records
+3155,Driver/Sales Workers,Listen to and resolve customers' complaints regarding products or services.,0.50,customer service dialogue with limited resolution authority
+3154,Driver/Sales Workers,"Collect money from customers, make change, and record transactions on customer receipts.",0.05,physical cash handling with customers
+3164,Driver/Sales Workers,Maintain trucks and food-dispensing equipment and clean inside of machines that dispense food or beverages.,0.00,physical equipment maintenance and cleaning
+3163,Driver/Sales Workers,Arrange merchandise and sales promotion displays or issue sales promotion materials to customers.,0.05,physical display arrangement
+3159,Driver/Sales Workers,"Collect coins from vending machines, refill machines, and remove aged merchandise.",0.00,physical coin collection and restocking
+3157,Driver/Sales Workers,Write customer orders and sales contracts according to company guidelines.,0.60,drafting orders and contracts from guidelines
+3162,Driver/Sales Workers,"Review lists of dealers, customers, or station drops and load trucks.",0.30,reviewing lists is doable but loading trucks is physical
+3165,Driver/Sales Workers,"Sell food specialties, such as sandwiches and beverages, to office workers and patrons of sports events.",0.00,physical in-person food sales
+20693,Heavy and Tractor-Trailer Truck Drivers,Check all load-related documentation for completeness and accuracy.,0.75,document review for completeness and accuracy
+20692,Heavy and Tractor-Trailer Truck Drivers,Inspect loads to ensure that cargo is secure.,0.05,physical cargo inspection
+10636,Heavy and Tractor-Trailer Truck Drivers,"Check vehicles to ensure that mechanical, safety, and emergency equipment is in good working order.",0.05,physical vehicle inspection
+10651,Heavy and Tractor-Trailer Truck Drivers,Crank trailer landing gear up or down to safely secure vehicles.,0.00,physical crank operation
+10638,Heavy and Tractor-Trailer Truck Drivers,Obtain receipts or signatures for delivered goods and collect payment for services when required.,0.05,physical presence to obtain signatures and payment
+10637,Heavy and Tractor-Trailer Truck Drivers,"Maintain logs of working hours or of vehicle service or repair status, following applicable state and federal regulations.",0.30,log maintenance but underlying data needs a driver present
+10643,Heavy and Tractor-Trailer Truck Drivers,Read bills of lading to determine assignment details.,0.85,reading and extracting info from shipping documents
+10644,Heavy and Tractor-Trailer Truck Drivers,"Report vehicle defects, accidents, traffic violations, or damage to the vehicles.",0.30,reporting task but requires firsthand observation
+10653,Heavy and Tractor-Trailer Truck Drivers,"Perform basic vehicle maintenance tasks, such as adding oil, fuel, or radiator fluid, performing minor repairs, or washing trucks.",0.00,physical vehicle maintenance
+10646,Heavy and Tractor-Trailer Truck Drivers,"Couple or uncouple trailers by changing trailer jack positions, connecting or disconnecting air or electrical lines, or manipulating fifth-wheel locks.",0.00,physical coupling of trailer components
+10640,Heavy and Tractor-Trailer Truck Drivers,"Maneuver trucks into loading or unloading positions, following signals from loading crew and checking that vehicle and loading equipment are properly positioned.",0.00,physical driving maneuvers
+10647,Heavy and Tractor-Trailer Truck Drivers,"Collect delivery instructions from appropriate sources, verifying instructions and routes.",0.70,gathering and verifying delivery instructions digitally
+10641,Heavy and Tractor-Trailer Truck Drivers,"Drive trucks with capacities greater than 13 tons, including tractor-trailer combinations, to transport and deliver products, livestock, or other materials.",0.05,physical driving of heavy trucks
+10645,Heavy and Tractor-Trailer Truck Drivers,Read and interpret maps to determine vehicle routes.,0.90,map reading and route planning is pure info work
+10650,Heavy and Tractor-Trailer Truck Drivers,Check conditions of trailers after contents have been unloaded to ensure that there has been no damage.,0.05,physical trailer condition inspection
+20695,Heavy and Tractor-Trailer Truck Drivers,"Operate equipment, such as truck cab computers, CB radios, phones, or global positioning systems (GPS) equipment to exchange necessary information with bases, supervisors, or other drivers.",0.40,communication via equipment but requires physical driving context
+20694,Heavy and Tractor-Trailer Truck Drivers,Drive trucks to weigh stations before and after loading and along routes in compliance with state regulations.,0.00,physical driving to weigh stations
+20696,Heavy and Tractor-Trailer Truck Drivers,"Load or unload trucks or help others with loading or unloading, using special loading-related equipment or other equipment as necessary.",0.00,physical loading and unloading
+19923,Heavy and Tractor-Trailer Truck Drivers,"Plan or adjust routes based on changing conditions, using computer equipment, global positioning systems (GPS) equipment, or other navigation devices, to minimize fuel consumption and carbon emissions.",0.90,route optimization using digital navigation data
+10662,Heavy and Tractor-Trailer Truck Drivers,"Perform emergency roadside repairs, such as changing tires or installing light bulbs, tire chains, or spark plugs.",0.00,physical roadside repairs
+10656,Heavy and Tractor-Trailer Truck Drivers,Remove debris from loaded trailers.,0.00,physical debris removal
+10642,Heavy and Tractor-Trailer Truck Drivers,"Secure cargo for transport, using ropes, blocks, chain, binders, or covers.",0.00,physical cargo securing
+10635,Heavy and Tractor-Trailer Truck Drivers,Follow appropriate safety procedures for transporting dangerous goods.,0.15,mostly physical handling procedures for dangerous goods
+10655,Heavy and Tractor-Trailer Truck Drivers,Inventory and inspect goods to be moved to determine quantities and conditions.,0.15,physical inventory and inspection of goods
+10658,Heavy and Tractor-Trailer Truck Drivers,"Follow special cargo-related procedures, such as checking refrigeration systems for frozen foods or providing food or water for livestock.",0.05,physical cargo handling procedures
+10660,Heavy and Tractor-Trailer Truck Drivers,"Install or remove special equipment, such as tire chains, grader blades, plow blades, or sanders.",0.00,physical equipment installation
+20697,Heavy and Tractor-Trailer Truck Drivers,"Wrap and secure goods using pads, packing paper, containers, or straps.",0.00,physical wrapping and securing of goods
+19922,Heavy and Tractor-Trailer Truck Drivers,"Operate idle reduction systems or auxiliary power systems to generate power from alternative sources, such as fuel cells, to reduce idling time, to heat or cool truck cabins, or to provide power for other equipment.",0.05,physical operation of onboard truck systems
+10659,Heavy and Tractor-Trailer Truck Drivers,Give directions to laborers who are packing goods and moving them onto trailers.,0.20,directing laborers needs on-site coordination
+8615,Light Truck Drivers,Obey traffic laws and follow established traffic and transportation procedures.,0.00,physical driving behavior no body
+8617,Light Truck Drivers,Report any mechanical problems encountered with vehicles.,0.25,reporting problems but needs physical observation
+8620,Light Truck Drivers,Verify the contents of inventory loads against shipping papers.,0.60,verifying inventory against shipping papers is info work
+8616,Light Truck Drivers,"Inspect and maintain vehicle supplies and equipment, such as gas, oil, water, tires, lights, or brakes, to ensure that vehicles are in proper working condition.",0.05,physical vehicle inspection and maintenance
+8623,Light Truck Drivers,Read maps and follow written or verbal geographic directions.,0.10,navigation while physically driving
+8619,Light Truck Drivers,"Load and unload trucks, vans, or automobiles.",0.00,physical loading and unloading
+8618,Light Truck Drivers,Present bills and receipts and collect payments for goods delivered or loaded.,0.05,physical presence to collect payment
+8622,Light Truck Drivers,"Maintain records, such as vehicle logs, records of cargo, or billing statements, in accordance with regulations.",0.80,record keeping from logs and billing data
+8626,Light Truck Drivers,"Drive vehicles with capacities under three tons to transport materials to and from specified destinations, such as railroad stations, plants, residences, offices, or within industrial yards.",0.00,physical driving to transport materials
+8621,Light Truck Drivers,Turn in receipts and money received from deliveries.,0.05,physical handoff of receipts and money
+8628,Light Truck Drivers,"Use and maintain the tools or equipment found on commercial vehicles, such as weighing or measuring devices.",0.05,physical tool use and maintenance
+8624,Light Truck Drivers,"Report delays, accidents, or other traffic and transportation situations to bases or other vehicles, using telephones or mobile two-way radios.",0.20,reporting tied to physical driving context
+8629,Light Truck Drivers,"Perform emergency repairs, such as changing tires or installing light bulbs, fuses, tire chains, or spark plugs.",0.00,physical emergency repairs
+23716,"Bus Drivers, School",Comply with traffic regulations to operate vehicles in a safe and courteous manner.,0.00,physical driving no body
+23719,"Bus Drivers, School",Follow safety rules as students board and exit buses or cross streets near bus stops.,0.00,physical presence supervising children
+23715,"Bus Drivers, School","Check the condition of a vehicle's tires, brakes, windshield wipers, lights, oil, fuel, water, and safety equipment to ensure that everything is in working order.",0.05,physical vehicle inspection
+23729,"Bus Drivers, School",Report any bus malfunctions or needed repairs.,0.20,reporting malfunctions requires physical observation
+23724,"Bus Drivers, School","Pick up and drop off students at regularly scheduled neighborhood locations, following strict time schedules.",0.00,physical driving and presence with students
+23717,"Bus Drivers, School","Drive gasoline, diesel, or electrically powered multi-passenger vehicles to transport students between neighborhoods, schools, and school activities.",0.00,physical driving of school bus
+23722,"Bus Drivers, School",Maintain order among students during trips to ensure safety.,0.00,physical presence supervising student safety
+23725,"Bus Drivers, School","Prepare and submit reports that may include the number of students or trips, hours worked, mileage, or fuel consumption.",0.75,compiling reports from trip and usage data
+23721,"Bus Drivers, School",Maintain knowledge of first-aid procedures.,0.85,knowledge of first aid procedures is accessible info
+23727,"Bus Drivers, School",Record bus routes.,0.85,recording route data is info work
+23730,"Bus Drivers, School","Report delays, accidents, or other traffic and transportation situations, using telephones or mobile two-way radios.",0.20,reporting tied to physical driving context
+23720,"Bus Drivers, School",Keep bus interiors clean for students.,0.00,physical cleaning task
+23726,"Bus Drivers, School",Read maps and follow written and verbal geographic directions.,0.10,navigation while physically driving
+23728,"Bus Drivers, School","Regulate heating, lighting, and ventilation systems for student comfort.",0.15,mostly physical control of onboard comfort systems
+23731,"Bus Drivers, School",Report delinquent student behaviors to school administration.,0.20,reporting requires physical observation of students
+23718,"Bus Drivers, School",Escort small children across roads and highways.,0.00,physical escorting of children requires a body
+23723,"Bus Drivers, School",Make minor repairs to vehicles.,0.00,physical vehicle repairs
+18794,"Bus Drivers, Transit and Intercity","Drive vehicles over specified routes or to specified destinations according to time schedules, complying with traffic regulations to ensure that passengers have a smooth and safe ride.",0.00,physical driving no body
+3146,"Bus Drivers, Transit and Intercity",Park vehicles at loading areas so that passengers can board.,0.00,physical vehicle parking and positioning
+3144,"Bus Drivers, Transit and Intercity","Inspect vehicles and check gas, oil, and water levels prior to departure.",0.05,physical vehicle inspection
+21085,"Bus Drivers, Transit and Intercity",Announce stops to passengers.,0.50,announcements are often automatable via onboard systems
+18795,"Bus Drivers, Transit and Intercity","Assist passengers, such as elderly or individuals with disabilities, on and off bus, ensure they are seated properly, help carry baggage, and answer questions about bus schedules or routes.",0.05,physical assistance to passengers
+18798,"Bus Drivers, Transit and Intercity",Collect tickets or cash fares from passengers.,0.10,physical fare collection
+18796,"Bus Drivers, Transit and Intercity",Handle passenger emergencies or disruptions.,0.05,physical presence and authority to handle emergencies
+3148,"Bus Drivers, Transit and Intercity",Report delays or accidents.,0.30,reporting tied to physical driving context
+3149,"Bus Drivers, Transit and Intercity",Advise passengers to be seated and orderly while on vehicles.,0.15,in-person crowd management on vehicle
+3150,"Bus Drivers, Transit and Intercity","Regulate heating, lighting, and ventilating systems for passenger comfort.",0.15,physical control of onboard comfort systems
+18797,"Bus Drivers, Transit and Intercity","Record information, such as cash receipts and ticket fares, and maintain log book.",0.60,recording fare and receipt data is info work
+18799,"Bus Drivers, Transit and Intercity",Maintain cleanliness of bus or motor coach.,0.00,physical cleaning task
+21086,"Bus Drivers, Transit and Intercity",Read maps to plan bus routes.,0.85,route planning from maps is pure info work
+3151,"Bus Drivers, Transit and Intercity",Load and unload baggage in baggage compartments.,0.00,physical baggage handling
+23756,Shuttle Drivers and Chauffeurs,"Test vehicle equipment, such as lights, brakes, horns, or windshield wipers, to ensure proper operation.",0.05,physical equipment testing
+23733,Shuttle Drivers and Chauffeurs,"Check the condition of a vehicle's tires, brakes, windshield wipers, lights, oil, fuel, water, and safety equipment to ensure that everything is in working order.",0.05,physical vehicle inspection
+23737,Shuttle Drivers and Chauffeurs,Comply with traffic regulations to operate vehicles in a safe and courteous manner.,0.00,physical driving no body
+23739,Shuttle Drivers and Chauffeurs,"Follow relevant safety regulations and state laws governing vehicle operation, and ensure that passengers follow safety regulations.",0.05,physical presence and enforcement of safety rules
+23742,Shuttle Drivers and Chauffeurs,"Operate vehicles with specialized equipment, such as wheelchair lifts, to transport and secure passengers with special needs.",0.00,physical operation of lift and passenger care
+23754,Shuttle Drivers and Chauffeurs,Report any vehicle malfunctions or needed repairs.,0.20,reporting tied to physical driving context
+23745,Shuttle Drivers and Chauffeurs,"Perform routine vehicle maintenance, such as regulating tire pressure and adding gasoline, oil, and water.",0.00,physical routine maintenance
+23746,Shuttle Drivers and Chauffeurs,"Pick up and drop off passengers at regularly scheduled neighborhood locations, following strict time schedules.",0.00,physical driving and passenger pickup
+23738,Shuttle Drivers and Chauffeurs,"Drive shuttle busses, limousines, company cars, or privately owned vehicles to transport passengers.",0.00,physical driving of shuttle vehicles

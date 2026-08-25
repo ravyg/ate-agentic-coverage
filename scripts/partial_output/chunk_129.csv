@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+14166,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders","Thread yarn, thread, and fabric through guides, needles, and rollers of machines for weaving, knitting, or other processing.",0.00,physical threading of machine
+14163,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",Remove defects in cloth by cutting and pulling out filling.,0.00,physical cutting and pulling defects
+14167,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders","Examine looms to determine causes of loom stoppage, such as warp filling, harness breaks, or mechanical defects.",0.02,physical inspection of loom on site
+14164,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",Inspect products to ensure that specifications are met and to determine if machines need adjustment.,0.02,physical inspection of product
+14168,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",Notify supervisors or repair staff of mechanical malfunctions.,0.10,requires physical detection then notify
+14170,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders","Start machines, monitor operations, and make adjustments as needed.",0.00,physical machine operation
+14174,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",Stop machines when specified amounts of product have been produced.,0.00,physical button press on site
+14171,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",Inspect machinery to determine whether repairs are needed.,0.02,physical inspection of machinery
+14173,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders","Confer with co-workers to obtain information about orders, processes, or problems.",0.20,in person conversation with coworkers
+14176,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",Operate machines for test runs to verify adjustments and to obtain product samples.,0.00,physical machine test run
+14178,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",Program electronic equipment.,0.85,pure programming task
+14169,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders","Set up, or set up and operate textile machines that perform textile processing and manufacturing operations such as winding, twisting, knitting, weaving, bonding, or stretching.",0.00,physical machine setup and operation
+14181,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders","Install, level, and align machine components such as gears, chains, guides, dies, cutters, or needles to set up machinery for operation.",0.00,physical installation of components
+14172,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",Record information about work completed and machine settings.,0.70,data entry of work and settings
+14179,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders","Study guides, loom patterns, samples, charts, or specification sheets, or confer with supervisors or engineering staff to determine setup requirements.",0.55,studying specs plus confer with staff
+14180,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders","Repair or replace worn or defective needles and other components, using hand tools.",0.00,physical repair with hand tools
+14175,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders","Clean, oil, and lubricate machines, using air hoses, cleaning solutions, rags, oil cans, or grease guns.",0.00,physical cleaning and lubrication
+14182,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders","Adjust machine heating mechanisms, tensions, and speeds to produce specified products.",0.00,physical machine adjustment
+14183,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Notify supervisors or mechanics of equipment malfunctions.,0.10,requires physical detection then notify
+14190,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","Thread yarn, thread, or fabric through guides, needles, and rollers of machines.",0.00,physical threading of machine
+14184,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","Start machines, monitor operation, and make adjustments as needed.",0.00,physical machine operation
+14192,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Inspect machinery to determine whether repairs are needed.,0.02,physical inspection of machinery
+14195,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Record production data such as numbers and types of bobbins wound.,0.70,data entry of production numbers
+14188,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Replace depleted supply packages with full packages.,0.00,physical replacement of supply packages
+14196,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Stop machines when specified amount of products has been produced.,0.00,physical button press on site
+14186,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Inspect products to verify that they meet specifications and to determine whether machine adjustment is needed.,0.02,physical inspection of product
+14187,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","Tend machines that twist together two or more strands of yarn or insert additional twists into single strands of yarn to increase strength, smoothness, or uniformity of yarn.",0.00,physical machine tending
+14189,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","Observe operations to detect defects, malfunctions, or supply shortages.",0.02,physical observation of operations
+14191,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Operate machines for test runs to verify adjustments and to obtain product samples.,0.00,physical machine test run
+14202,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","Observe bobbins as they are winding and cut threads to remove loaded bobbins, using knives.",0.00,physical bobbin handling with knives
+14201,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","Unwind lengths of yarn, thread, or twine from spools and wind onto bobbins.",0.00,physical winding of yarn
+14203,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Adjust machine settings such as speed or tension to produce products that meet specifications.,0.00,physical machine adjustment
+14197,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","Study guides, samples, charts, and specification sheets, or confer with supervisors or engineering staff to determine setup requirements.",0.55,studying specs plus confer with staff
+14200,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Tend spinning frames that draw out and twist roving or sliver into yarn.,0.00,physical machine tending
+14205,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Remove spindles from machines and bobbins from spindles.,0.00,physical removal of spindles
+14199,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","Install, level, and align machine components such as gears, chains, guides, dies, cutters, or needles to set up machinery for operation.",0.00,physical installation of components
+14193,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Place bobbins on spindles and insert spindles into bobbin-winding machines.,0.00,physical placement of bobbins
+14185,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","Tend machines with multiple winding units that wind thread onto shuttle bobbins for use on sewing machines or other kinds of bobbins for sole-stitching, knitting, or weaving machinery.",0.00,physical machine tending
+14206,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","Repair or replace worn or defective parts or components, using hand tools.",0.00,physical repair with hand tools
+14198,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","Measure bobbins periodically, using gauges, and turn screws to adjust tension if bobbins are not of specified size.",0.00,physical measuring and screw adjustment
+14204,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","Clean, oil, and lubricate machines, using air hoses, cleaning solutions, rags, oilcans, and grease guns.",0.00,physical cleaning and lubrication
+14208,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers","Set up, operate, or tend machines that extrude and form filaments from synthetic materials such as rayon, fiberglass, or liquid polymers.",0.00,physical machine setup and operation
+14214,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",Press buttons to stop machines when processes are complete or when malfunctions are detected.,0.00,physical button press on site
+14213,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers","Notify other workers of defects, and direct them to adjust extruding and forming machines.",0.15,in person notification and directing workers
+14216,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers","Observe machine operations, control boards, and gauges to detect malfunctions such as clogged bushings and defective binder applicators.",0.02,physical observation of machine gauges
+14209,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers","Load materials into extruding and forming machines, using hand tools, and adjust feed mechanisms to set feed rates.",0.00,physical loading of materials
+14211,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",Move controls to activate and adjust extruding and forming machines.,0.00,physical control operation
+14212,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",Record details of machine malfunctions.,0.70,data entry of malfunction details
+14220,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers","Clean and maintain extruding and forming machines, using hand tools.",0.00,physical cleaning with hand tools
+14215,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers","Observe flow of finish across finish rollers, and turn valves to adjust flow to specifications.",0.00,physical observation and valve adjustment
+14219,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers","Remove polymer deposits from spinnerettes and equipment, using silicone spray, brass chisels, and bronze-wool pads.",0.00,physical removal of polymer deposits
+14218,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",Press metering-pump buttons and turn valves to stop flow of polymers.,0.00,physical button press and valve turn
+14224,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers","Record operational data on tags, and attach tags to machines.",0.10,physical tag attachment to machines
+14210,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",Start metering pumps and observe operation of machines and equipment to ensure continuous flow of filaments extruded through spinnerettes and to detect processing defects.,0.00,physical pump operation and observation
+14207,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers","Remove excess, entangled, or completed filaments from machines, using hand tools.",0.00,physical removal of filaments
+14227,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",Wipe finish rollers with cloths and wash finish trays with water when necessary.,0.00,physical wiping and washing
+14225,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",Lower pans inside cabinets to catch molten filaments until flow of polymer through packs has stopped.,0.00,physical handling of molten filaments
+14217,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers","Open cabinet doors to cut multifilament threadlines away from guides, using scissors.",0.00,physical cutting with scissors on site
+12200,Fabric and Apparel Patternmakers,"Create a master pattern for each size within a range of garment sizes, using charts, drafting instruments, computers, or grading devices.",0.65,digital pattern drafting on computer
+20930,Fabric and Apparel Patternmakers,Input specifications into computers to assist with pattern design and pattern cutting.,0.80,data entry into CAD system
+12198,Fabric and Apparel Patternmakers,"Draw details on outlined parts to indicate where parts are to be joined, as well as the positions of pleats, pockets, buttonholes, and other features, using computers or drafting instruments.",0.70,CAD drafting of pattern details
+20931,Fabric and Apparel Patternmakers,Make adjustments to patterns after fittings.,0.35,needs physical fitting feedback to adjust
+12206,Fabric and Apparel Patternmakers,"Compute dimensions of patterns according to sizes, considering stretching of material.",0.85,computation of pattern dimensions
+12205,Fabric and Apparel Patternmakers,"Mark samples and finished patterns with information, such as garment size, section, style, identification, and sewing instructions.",0.30,physical marking of samples
+12201,Fabric and Apparel Patternmakers,"Draw outlines of pattern parts by adapting or copying existing patterns, or by drafting new patterns.",0.65,CAD drafting of pattern outlines
+12197,Fabric and Apparel Patternmakers,Test patterns by making and fitting sample garments.,0.05,physical sewing and fitting of samples
+12203,Fabric and Apparel Patternmakers,"Position and cut out master or sample patterns, using scissors and knives, or print out copies of patterns, using computers.",0.25,physical cutting or digital printing of patterns
+12202,Fabric and Apparel Patternmakers,Create a paper pattern from which to mass-produce a design concept.,0.40,physical and digital pattern creation
+12204,Fabric and Apparel Patternmakers,"Discuss design specifications with designers, and convert their original models of garments into patterns of separate parts that can be laid out on a length of fabric.",0.35,in person design discussion and conversion
+12207,Fabric and Apparel Patternmakers,"Examine sketches, sample articles, and design specifications to determine quantities, shapes, and sizes of pattern parts, and to determine the amount of material or fabric required to make a product.",0.55,analysis of sketches and specs for quantities
+12199,Fabric and Apparel Patternmakers,"Determine the best layout of pattern pieces to minimize waste of material, and mark fabric accordingly.",0.35,layout optimization plus physical marking
+20932,Fabric and Apparel Patternmakers,Create design specifications to provide instructions on garment sewing and assembly.,0.75,documentation of design specifications
+12208,Fabric and Apparel Patternmakers,"Trace outlines of paper onto cardboard patterns, and cut patterns into parts to make templates.",0.05,physical tracing and cutting of cardboard
+12209,Fabric and Apparel Patternmakers,"Trace outlines of specified patterns onto material, and cut fabric, using scissors.",0.03,physical tracing and cutting of fabric
+14228,Upholsterers,"Fit, install, and secure material on frames, using hand tools, power tools, glue, cement, or staples.",0.00,physical fitting and securing of material
+14236,Upholsterers,"Measure and cut new covering materials, using patterns and measuring and cutting instruments, following sketches and design specifications.",0.02,physical measuring and cutting of material
+14229,Upholsterers,"Build furniture up with loose fiber stuffing, cotton, felt, or foam padding to form smooth, rounded surfaces.",0.00,physical stuffing and padding of furniture
+14235,Upholsterers,"Make, restore, or create custom upholstered furniture, using hand tools and knowledge of fabrics and upholstery methods.",0.00,physical furniture upholstery work
+14233,Upholsterers,"Read work orders, and apply knowledge and experience with materials to determine types and amounts of materials required to cover workpieces.",0.45,analysis of work orders for materials
+14230,Upholsterers,"Examine furniture frames, upholstery, springs, and webbing to locate defects.",0.03,physical inspection of furniture frames
+14245,Upholsterers,"Adjust or replace webbing, padding, or springs, and secure them in place.",0.00,physical replacement of webbing and springs
+14243,Upholsterers,"Sew rips or tears in material, or create tufting, using needles and thread.",0.00,physical sewing and tufting
+14232,Upholsterers,"Remove covering, webbing, padding, or defective springs from workpieces, using hand tools such as hammers and tack pullers.",0.00,physical removal of covering with hand tools
+14231,Upholsterers,"Attach fasteners, grommets, buttons, buckles, ornamental trim, and other accessories to covers or frames, using hand tools.",0.00,physical attachment of fasteners
+14239,Upholsterers,Repair furniture frames and refinish exposed wood.,0.00,physical repair and refinishing
+14242,Upholsterers,"Interweave and fasten strips of webbing to the backs and undersides of furniture, using small hand tools and fasteners.",0.00,physical interweaving of webbing
+14234,Upholsterers,"Draw cutting lines on material following patterns, templates, sketches, or blueprints, using chalk, pencils, paint, or other methods.",0.05,physical drawing of cutting lines
+14246,Upholsterers,"Stretch webbing and fabric, using webbing stretchers.",0.00,physical stretching of webbing
+14240,Upholsterers,Operate sewing machines or sew upholstery by hand to seam cushions and join various sections of covering material.,0.00,physical sewing operation
+14247,Upholsterers,"Design upholstery cover patterns and cutting plans, based on sketches, customer descriptions, or blueprints.",0.45,design work partly digital partly physical judgment
+14237,Upholsterers,Maintain records of time required to perform each job.,0.80,data entry of job time records
+14238,Upholsterers,"Discuss upholstery fabrics, colors, and styles with customers, and provide cost estimates.",0.35,in person customer discussion and estimate
+14241,Upholsterers,Pick up and deliver furniture.,0.00,physical pickup and delivery
+14244,Upholsterers,Attach bindings or apply solutions to edges of cut material to prevent raveling.,0.00,physical application of bindings
+14249,Upholsterers,Collaborate with interior designers to decorate rooms and coordinate furnishing fabrics.,0.35,collaborative in person design coordination
+14248,Upholsterers,"Make, repair, or replace automobile upholstery and convertible and vinyl tops, using knowledge of fabric and upholstery methods.",0.00,physical automobile upholstery work
+12211,Cabinetmakers and Bench Carpenters,Verify dimensions or check the quality or fit of pieces to ensure adherence to specifications.,0.05,physical verification of piece dimensions
+12210,Cabinetmakers and Bench Carpenters,"Produce or assemble components of articles, such as store fixtures, office equipment, cabinets, or high-grade furniture.",0.00,physical assembly of furniture components
+12213,Cabinetmakers and Bench Carpenters,"Measure and mark dimensions of parts on paper or lumber stock prior to cutting, following blueprints, to ensure a tight fit and quality product.",0.05,physical measuring and marking of lumber
+12212,Cabinetmakers and Bench Carpenters,"Set up or operate machines, including power saws, jointers, mortisers, tenoners, molders, or shapers, to cut, mold, or shape woodstock or wood substitutes.",0.00,physical machine operation for cutting wood
+12216,Cabinetmakers and Bench Carpenters,"Establish the specifications of articles to be constructed or repaired, or plan the methods or operations for shaping or assembling parts, based on blueprints, drawings, diagrams, or oral or written instructions.",0.55,planning specifications from blueprints
+12215,Cabinetmakers and Bench Carpenters,"Attach parts or subassemblies together to form completed units, using glue, dowels, nails, screws, or clamps.",0.00,physical attachment of parts
+12214,Cabinetmakers and Bench Carpenters,Reinforce joints with nails or other fasteners to prepare articles for finishing.,0.00,physical reinforcement with nails
+12224,Cabinetmakers and Bench Carpenters,"Install hardware, such as hinges, handles, catches, or drawer pulls, using hand tools.",0.00,physical hardware installation
+12219,Cabinetmakers and Bench Carpenters,"Trim, sand, or scrape surfaces or joints to prepare articles for finishing.",0.00,physical trimming and sanding
+12218,Cabinetmakers and Bench Carpenters,"Match materials for color, grain, or texture, giving attention to knots or other features of the wood.",0.05,physical visual matching of materials
+12217,Cabinetmakers and Bench Carpenters,"Cut timber to the right size, and shape and trim parts of joints to ensure a snug fit, using hand tools, such as planes, chisels, or wood files.",0.00,physical cutting and shaping of timber
+12223,Cabinetmakers and Bench Carpenters,Perform final touch-ups with sandpaper or steel wool.,0.00,physical sanding touch ups
+12220,Cabinetmakers and Bench Carpenters,"Bore holes for insertion of screws or dowels, by hand or using boring machines.",0.00,physical boring of holes
+12226,Cabinetmakers and Bench Carpenters,"Repair or alter wooden furniture, cabinetry, fixtures, paneling, or other pieces.",0.00,physical repair of furniture
+12222,Cabinetmakers and Bench Carpenters,"Estimate the amounts, types, or costs of needed materials.",0.65,estimation of material costs and amounts
+12229,Cabinetmakers and Bench Carpenters,"Dip, brush, or spray assembled articles with protective or decorative finishes, such as stain, varnish, paint, or lacquer.",0.00,physical application of finishes
+20822,Cabinetmakers and Bench Carpenters,Draw up detailed specifications and discuss projects with customers.,0.40,in person specification discussion with customers
+12228,Cabinetmakers and Bench Carpenters,"Design furniture, using computer-aided drawing programs.",0.70,CAD furniture design work
+12227,Cabinetmakers and Bench Carpenters,"Apply Masonite, formica, or vinyl surfacing materials.",0.00,physical application of surfacing materials
+12221,Cabinetmakers and Bench Carpenters,Program computers to operate machinery.,0.80,programming of machinery
+14251,Furniture Finishers,"Brush, spray, or hand-rub finishing ingredients, such as paint, oil, stain, or wax, onto and into wood grain and apply lacquer or other sealers.",0.00,physical application of finish to wood
+14254,Furniture Finishers,"Fill and smooth cracks or depressions, remove marks and imperfections, and repair broken parts, using plastic or wood putty, glue, nails, or screws.",0.00,physical filling and repair of surfaces
+14252,Furniture Finishers,"Smooth, shape, and touch up surfaces to prepare them for finishing, using sandpaper, pumice stones, steel wool, chisels, sanders, or grinders.",0.00,physical smoothing of surfaces
+14263,Furniture Finishers,"Remove accessories prior to finishing, and mask areas that should not be exposed to finishing processes or substances.",0.00,physical removal and masking of accessories
+14259,Furniture Finishers,"Remove old finishes and damaged or deteriorated parts, using hand tools, stripping tools, sandpaper, steel wool, abrasives, solvents, or dip baths.",0.00,physical removal of old finishes
+14264,Furniture Finishers,Treat warped or stained surfaces to restore original contours and colors.,0.00,physical treatment of warped surfaces
+14253,Furniture Finishers,"Select appropriate finishing ingredients such as paint, stain, lacquer, shellac, or varnish, depending on factors such as wood hardness and surface type.",0.40,selection decision based on material properties
+14250,Furniture Finishers,Mix finish ingredients to obtain desired colors or shades.,0.00,physical mixing of finish ingredients
+14267,Furniture Finishers,"Remove excess solvent, using cloths soaked in paint thinner.",0.00,physical wiping of solvent
+14256,Furniture Finishers,"Examine furniture to determine the extent of damage or deterioration, and to decide on the best method for repair or restoration.",0.10,physical inspection and repair decision
+14255,Furniture Finishers,"Distress surfaces with woodworking tools or abrasives before staining to create an antique appearance, or rub surfaces to bring out highlights and shadings.",0.00,physical distressing of surfaces
+14268,Furniture Finishers,"Stencil, gild, emboss, mark, or paint designs or borders to reproduce the original appearance of restored pieces, or to decorate new pieces.",0.00,physical stencil and painting work
+14261,Furniture Finishers,"Disassemble items to prepare them for finishing, using hand tools.",0.00,physical disassembly with hand tools
+14265,Furniture Finishers,Confer with customers to determine furniture colors or finishes.,0.30,in person customer color discussion

@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+9345,Photographers,"Use traditional or digital cameras, along with a variety of equipment, such as tripods, filters, and flash attachments.",0.00,physical camera and equipment operation
+9352,Photographers,"Manipulate and enhance scanned or digital images to create desired effects, using computers and specialized software.",0.75,digital image editing with software
+9343,Photographers,"Take pictures of individuals, families, and small groups, either in studio or on location.",0.00,requires physical presence with subjects
+9357,Photographers,"Enhance, retouch, and resize photographs and negatives, using airbrushing and other techniques.",0.70,digital retouching and resizing of photos
+9349,Photographers,Test equipment prior to use to ensure that it is in good working order.,0.00,physical equipment testing
+9351,Photographers,"Estimate or measure light levels, distances, and numbers of exposures needed, using measuring devices and formulas.",0.05,on-site physical light measurement
+9354,Photographers,"Perform general office duties, such as scheduling appointments, keeping books, and ordering supplies.",0.75,office admin scheduling and bookkeeping
+9350,Photographers,Review sets of photographs to select the best work.,0.55,subjective aesthetic photo selection
+9358,Photographers,"Set up, mount, or install photographic equipment and cameras.",0.00,physical equipment setup
+9355,Photographers,"Determine project goals, locations, and equipment needs by studying assignments and consulting with clients or advertising staff.",0.35,requires live client consultation and judgment
+9353,Photographers,Perform maintenance tasks necessary to keep equipment working properly.,0.00,physical equipment maintenance
+9356,Photographers,"Select and assemble equipment and required background properties, according to subjects, materials, and conditions.",0.05,physical selection and assembly of gear
+9361,Photographers,Direct activities of workers setting up photographic equipment.,0.10,directing on-site workers physically
+9363,Photographers,Engage in research to develop new photographic procedures and materials.,0.30,mix of literature research and physical trials
+9368,Photographers,"Mount, frame, laminate, or lacquer finished photographs.",0.00,physical mounting and framing craft
+20561,Photographers,Send film to photofinishing laboratories for processing.,0.15,physical film handling and shipping
+9366,Photographers,Develop visual aids and charts for use in lectures or to present evidence in court.,0.85,creating visual aids and charts digitally
+9365,Photographers,Load and unload film.,0.00,physical film loading
+20560,Photographers,Write photograph captions.,0.90,pure text writing task
+9364,Photographers,Set up photographic exhibitions for the purpose of displaying and selling work.,0.05,physical exhibition setup and sales
+9360,Photographers,"Produce computer-readable, digital images from film, using flatbed scanners and photofinishing laboratories.",0.10,physical scanning of film required
+9362,Photographers,"Employ a variety of specialized photographic materials and techniques, including infrared and ultraviolet films, macro photography, photogrammetry and sensitometry.",0.05,physical specialized photographic technique
+9367,Photographers,License the use of photographs through stock photo agencies.,0.55,digital submission but licensing needs human authority
+20559,Photographers,"Develop and print exposed film, using chemicals, touch-up tools, and developing and printing equipment.",0.00,physical darkroom chemical process
+4031,"Camera Operators, Television, Video, and Film","Compose and frame each shot, applying the technical aspects of light, lenses, film, filters, and camera settings to achieve the effects sought by directors.",0.00,physical camera operation on set
+4030,"Camera Operators, Television, Video, and Film","Operate television or motion picture cameras to record scenes for television broadcasts, advertising, or motion pictures.",0.00,physical camera operation
+4035,"Camera Operators, Television, Video, and Film","Adjust positions and controls of cameras, printers, and related equipment to change focus, exposure, and lighting.",0.00,physical adjustment of camera equipment
+4037,"Camera Operators, Television, Video, and Film","Confer with directors, sound and lighting technicians, electricians, and other crew members to discuss assignments and determine filming sequences, desired effects, camera movements, and lighting requirements.",0.15,live on-set crew coordination needed
+4032,"Camera Operators, Television, Video, and Film","Operate zoom lenses, changing images according to specifications and rehearsal instructions.",0.00,physical lens operation
+4038,"Camera Operators, Television, Video, and Film",Observe sets or locations for potential problems and to determine filming and lighting requirements.,0.00,requires physical presence at location
+18664,"Camera Operators, Television, Video, and Film",Set up and perform live shots for broadcast.,0.00,physical live broadcast setup
+4033,"Camera Operators, Television, Video, and Film","Use cameras in any of several different camera mounts, such as stationary, track-mounted, or crane-mounted.",0.00,physical camera mount operation
+18666,"Camera Operators, Television, Video, and Film","Test, clean, maintain, and repair broadcast equipment, including testing microphones, to ensure proper working condition.",0.00,physical equipment repair and maintenance
+18663,"Camera Operators, Television, Video, and Film","Edit video for broadcast productions, including non-linear editing.",0.80,digital non-linear video editing
+4039,"Camera Operators, Television, Video, and Film","Instruct camera operators regarding camera setups, angles, distances, movement, and variables and cues for starting and stopping filming.",0.15,live on-site instruction of operators
+18665,"Camera Operators, Television, Video, and Film","Assemble studio sets and select and arrange cameras, film stock, audio, or lighting equipment to be used during filming.",0.05,physical set and equipment assembly
+4046,"Camera Operators, Television, Video, and Film","Read and analyze work orders and specifications to determine locations of subject material, work procedures, sequences of operations, and machine setups.",0.75,reading and analyzing written specifications
+4044,"Camera Operators, Television, Video, and Film","View films to resolve problems of exposure control, subject and camera movement, changes in subject distance, and related variables.",0.55,video review requires domain judgment
+18669,"Camera Operators, Television, Video, and Film",Direct studio productions.,0.10,live on-site production authority
+4043,"Camera Operators, Television, Video, and Film","Set up cameras, optical printers, and related equipment to produce photographs and special effects.",0.00,physical equipment setup
+4042,"Camera Operators, Television, Video, and Film","Read charts and compute ratios to determine variables such as lighting, shutter angles, filter factors, and camera distances.",0.90,pure computation from charts
+18668,"Camera Operators, Television, Video, and Film",Set up and operate electric news gathering (ENG) microwave vehicles to gather and edit raw footage on location to send to television affiliates for broadcast.,0.00,physical vehicle setup and on-location work
+18671,"Camera Operators, Television, Video, and Film",Write new scripts for broadcasts.,0.90,pure text script writing
+18670,"Camera Operators, Television, Video, and Film",Design graphics for studio productions.,0.75,digital graphic design task
+18667,"Camera Operators, Television, Video, and Film",Stay current with new technologies in the field by reading trade magazines.,0.90,reading trade publications for research
+4057,Film and Video Editors,Organize and string together raw footage into a continuous whole according to scripts or the instructions of directors and producers.,0.65,digital footage assembly per script
+4052,Film and Video Editors,"Edit films and videotapes to insert music, dialogue, and sound effects, to arrange films into sequences, and to correct errors, using editing equipment.",0.65,digital video and audio editing
+4053,Film and Video Editors,Select and combine the most effective shots of each scene to form a logical and smoothly running story.,0.55,creative shot selection judgment
+4060,Film and Video Editors,Review footage sequence by sequence to become familiar with it before assembling it into a final product.,0.75,reviewing footage content
+4061,Film and Video Editors,"Set up and operate computer editing systems, electronic titling systems, video switching equipment, and digital video effects units to produce a final product.",0.65,operating editing software systems
+4066,Film and Video Editors,Trim film segments to specified lengths and reassemble segments in sequences that present stories with maximum effect.,0.60,trimming and reassembling footage
+4050,Film and Video Editors,"Cut shot sequences to different angles at specific points in scenes, making each individual cut as fluid and seamless as possible.",0.55,creative seamless cut editing
+4058,Film and Video Editors,Review assembled films or edited videotapes on screens or monitors to determine if corrections are necessary.,0.70,reviewing assembled video for corrections
+4056,Film and Video Editors,Verify key numbers and time codes on materials.,0.90,verifying data on materials
+4064,Film and Video Editors,"Manipulate plot, score, sound, and graphics to make the parts into a continuous whole, working closely with people in audio, visual, music, optical, or special effects departments.",0.45,collaborative creative work with other departments
+4059,Film and Video Editors,Program computerized graphic effects.,0.85,programming graphic effects
+4051,Film and Video Editors,Study scripts to become familiar with production concepts and requirements.,0.90,reading and analyzing scripts
+4065,Film and Video Editors,"Supervise and coordinate activities of workers engaged in film editing, assembling, and recording activities.",0.10,supervising human workers
+4055,Film and Video Editors,Determine the specific audio and visual effects and music necessary to complete films.,0.55,creative decision on effects and music
+4054,Film and Video Editors,Mark frames where a particular shot or piece of sound is to begin or end.,0.70,technical frame marking in footage
+4062,Film and Video Editors,Record needed sounds or obtain them from sound effects libraries.,0.35,mix of live sound recording and library sourcing
+4069,Film and Video Editors,Conduct film screenings for directors and members of production staffs.,0.10,requires physical presence at screenings
+4071,Film and Video Editors,Discuss the sound requirements of pictures with sound effects editors.,0.30,live discussion with sound editors
+4068,Film and Video Editors,Piece sounds together to develop film soundtracks.,0.65,digital audio soundtrack assembly
+4063,Film and Video Editors,Confer with producers and directors concerning layout or editing approaches needed to increase dramatic or entertainment value of productions.,0.30,live creative consultation with producers
+4067,Film and Video Editors,Develop post-production models for films.,0.60,planning post-production models
+4070,Film and Video Editors,Collaborate with music editors to select appropriate passages of music and develop production scores.,0.35,collaborative selection with music editors
+9428,First-Line Supervisors of Correctional Officers,"Take, receive, or check periodic inmate counts.",0.00,physical inmate headcount at facility
+9429,First-Line Supervisors of Correctional Officers,"Maintain order, discipline, and security within assigned areas in accordance with relevant rules, regulations, policies, and laws.",0.00,physical presence for security and discipline
+9431,First-Line Supervisors of Correctional Officers,"Maintain knowledge of, comply with, and enforce all institutional policies, rules, procedures, and regulations.",0.20,enforcement requires physical authority
+9430,First-Line Supervisors of Correctional Officers,"Respond to emergencies, such as escapes.",0.00,physical emergency response
+9432,First-Line Supervisors of Correctional Officers,"Supervise and direct the work of correctional officers to ensure the safe custody, discipline, and welfare of inmates.",0.00,physical supervision of officers and inmates
+9434,First-Line Supervisors of Correctional Officers,Supervise or perform searches of inmates or their quarters to locate contraband items.,0.00,physical search of inmates and quarters
+9435,First-Line Supervisors of Correctional Officers,"Monitor behavior of subordinates to ensure alert, courteous, and professional behavior toward inmates, parolees, fellow employees, visitors, and the public.",0.10,physical observation of subordinate behavior
+9433,First-Line Supervisors of Correctional Officers,"Restrain, secure, or control offenders, using chemical agents, firearms, or other weapons of force as necessary.",0.00,physical use of force
+9440,First-Line Supervisors of Correctional Officers,Carry injured offenders or employees to safety and provide emergency first aid when necessary.,0.00,physical rescue and first aid
+9436,First-Line Supervisors of Correctional Officers,"Complete administrative paperwork or supervise the preparation or maintenance of records, forms, or reports.",0.75,office paperwork and recordkeeping
+9439,First-Line Supervisors of Correctional Officers,"Supervise activities, such as searches, shakedowns, riot control, or institutional tours.",0.00,physical supervision of facility operations
+9438,First-Line Supervisors of Correctional Officers,Conduct roll calls of correctional officers.,0.05,physical presence for roll call
+9437,First-Line Supervisors of Correctional Officers,Instruct employees or provide on-the-job training.,0.25,hands-on job training of employees
+9444,First-Line Supervisors of Correctional Officers,Resolve problems between inmates.,0.05,in-person mediation and authority needed
+9443,First-Line Supervisors of Correctional Officers,Set up employee work schedules.,0.80,scheduling task
+9448,First-Line Supervisors of Correctional Officers,Examine incoming or outgoing mail to ensure conformance with regulations.,0.15,physical mail examination
+9447,First-Line Supervisors of Correctional Officers,"Transfer or transport offenders on foot or by driving vehicles, such as trailers, vans, or buses.",0.00,physical transport of offenders
+20255,First-Line Supervisors of Correctional Officers,Review offender information to identify issues that require special attention.,0.75,reviewing records to flag issues
+9442,First-Line Supervisors of Correctional Officers,Develop work or security procedures.,0.55,drafting procedures needs domain judgment
+9449,First-Line Supervisors of Correctional Officers,Convey correctional officers' or inmates' complaints to superiors.,0.35,relaying complaints needs human accountability
+9441,First-Line Supervisors of Correctional Officers,"Supervise or provide security for offenders performing tasks, such as construction, maintenance, laundry, food service, or other industrial or agricultural operations.",0.00,physical supervision of offender labor
+21196,First-Line Supervisors of Correctional Officers,Conduct evaluations of employees' performance.,0.40,performance evaluation needs human authority
+9446,First-Line Supervisors of Correctional Officers,"Rate behavior of inmates, promoting acceptable attitudes and behaviors to those with low ratings.",0.10,in-person behavioral counseling
+566,First-Line Supervisors of Police and Detectives,"Supervise and coordinate the investigation of criminal cases, offering guidance and expertise to investigators, and ensuring that procedures are conducted in accordance with laws and regulations.",0.25,supervisory authority and judgment needed
+574,First-Line Supervisors of Police and Detectives,Prepare work schedules and assign duties to subordinates.,0.75,scheduling and duty assignment task
+571,First-Line Supervisors of Police and Detectives,"Direct collection, preparation, and handling of evidence and personal property of prisoners.",0.10,chain of custody requires human authority
+567,First-Line Supervisors of Police and Detectives,Investigate and resolve personnel problems within organization and charges of misconduct against staff.,0.20,HR investigation needs human judgment
+564,First-Line Supervisors of Police and Detectives,Explain police operations to subordinates to assist them in performing their job duties.,0.35,training explanation partly hands-on
+569,First-Line Supervisors of Police and Detectives,"Maintain logs, prepare reports, and direct the preparation, handling, and maintenance of departmental records.",0.75,recordkeeping and report preparation
+565,First-Line Supervisors of Police and Detectives,"Inform personnel of changes in regulations and policies, implications of new or amended laws, and new techniques of police work.",0.70,distributing policy information in writing
+568,First-Line Supervisors of Police and Detectives,Train staff in proper police work procedures.,0.25,hands-on training of staff
+575,First-Line Supervisors of Police and Detectives,Discipline staff for violation of department rules and regulations.,0.05,disciplinary authority needs accountability
+570,First-Line Supervisors of Police and Detectives,"Monitor and evaluate the job performance of subordinates, and authorize promotions and transfers.",0.15,authorizing promotions needs human authority
+577,First-Line Supervisors of Police and Detectives,Review contents of written orders to ensure adherence to legal requirements.,0.70,reviewing documents for legal compliance
+573,First-Line Supervisors of Police and Detectives,Conduct raids and order detention of witnesses and suspects for questioning.,0.00,physical raid and legal authority needed
+576,First-Line Supervisors of Police and Detectives,"Cooperate with court personnel and officials from other law enforcement agencies and testify in court, as necessary.",0.02,sworn courtroom testimony
+581,First-Line Supervisors of Police and Detectives,"Meet with civic, educational, and community groups to develop community programs and events, and to discuss law enforcement subjects.",0.15,live community engagement needed
+578,First-Line Supervisors of Police and Detectives,"Inspect facilities, supplies, vehicles, and equipment to ensure conformance to standards.",0.05,physical inspection of facilities
+582,First-Line Supervisors of Police and Detectives,Direct release or transfer of prisoners.,0.03,legal authority over prisoner release
+580,First-Line Supervisors of Police and Detectives,Requisition and issue equipment and supplies.,0.40,ordering supplies but physical issuance needed
+572,First-Line Supervisors of Police and Detectives,"Develop, implement, and revise departmental policies and procedures.",0.50,policy drafting needs implementation authority
+579,First-Line Supervisors of Police and Detectives,Prepare news releases and respond to police correspondence.,0.85,writing news releases and correspondence
+583,First-Line Supervisors of Police and Detectives,Prepare budgets and manage expenditures of department funds.,0.50,budget drafting needs fiduciary authority
+22910,First-Line Supervisors of Firefighting and Prevention Workers,Assign firefighters to jobs at strategic locations to facilitate rescue of persons and maximize application of extinguishing agents.,0.05,real-time tactical on-site decisions
+22911,First-Line Supervisors of Firefighting and Prevention Workers,"Provide emergency medical services as required, and perform light to heavy rescue functions at emergencies.",0.00,physical emergency medical response
+22912,First-Line Supervisors of Firefighting and Prevention Workers,"Assess nature and extent of fire, condition of building, danger to adjacent buildings, and water supply status to determine crew or company requirements.",0.05,on-site physical fire assessment
+22913,First-Line Supervisors of Firefighting and Prevention Workers,"Communicate fire details to superiors, subordinates, or interagency dispatch centers, using two-way radios.",0.10,live radio communication during emergencies
+22914,First-Line Supervisors of Firefighting and Prevention Workers,"Serve as a working leader of an engine, hand, helicopter, or prescribed fire crew of three or more firefighters.",0.00,physical crew leadership on site
+22915,First-Line Supervisors of Firefighting and Prevention Workers,"Instruct and drill fire department personnel in assigned duties, including firefighting, medical care, hazardous materials response, fire prevention, and related subjects.",0.20,hands-on drilling of personnel
+22916,First-Line Supervisors of Firefighting and Prevention Workers,"Maintain fire suppression equipment in good condition, checking equipment periodically to ensure that it is ready for use.",0.00,physical equipment maintenance
+22917,First-Line Supervisors of Firefighting and Prevention Workers,Evaluate the performance of assigned firefighting personnel.,0.35,performance evaluation needs human observation
+22918,First-Line Supervisors of Firefighting and Prevention Workers,"Direct the training of firefighters, assigning of instructors to training classes, and providing of supervisors with reports on training progress and status.",0.40,training coordination partly hands-on
+22919,First-Line Supervisors of Firefighting and Prevention Workers,"Perform maintenance and minor repairs on firefighting equipment, including vehicles, and write and submit proposals to modify, replace, and repair equipment.",0.20,mostly physical equipment repair
+22920,First-Line Supervisors of Firefighting and Prevention Workers,Schedule employee work assignments and set work priorities.,0.80,scheduling task
+22921,First-Line Supervisors of Firefighting and Prevention Workers,Monitor fire suppression expenditures to ensure that they are necessary and reasonable.,0.70,financial expenditure monitoring and analysis
+22922,First-Line Supervisors of Firefighting and Prevention Workers,Participate in creating fire safety guidelines and evacuation schemes for nonresidential buildings.,0.65,drafting safety guidelines and plans
+22923,First-Line Supervisors of Firefighting and Prevention Workers,Maintain required maps and records.,0.75,maintaining maps and records
+22924,First-Line Supervisors of Firefighting and Prevention Workers,Drive crew carriers to transport firefighters to fire sites.,0.00,physical vehicle driving
+22925,First-Line Supervisors of Firefighting and Prevention Workers,"Inspect stations, uniforms, equipment, or recreation areas to ensure compliance with safety standards, taking corrective action as necessary.",0.05,physical inspection of stations and equipment
+22926,First-Line Supervisors of Firefighting and Prevention Workers,Evaluate fire station procedures to ensure efficiency and enforcement of departmental regulations.,0.55,procedure evaluation via document review
+22927,First-Line Supervisors of Firefighting and Prevention Workers,"Direct firefighters in station maintenance duties, and participate in these duties.",0.00,physical station maintenance work
+22928,First-Line Supervisors of Firefighting and Prevention Workers,"Recommend personnel actions related to disciplinary procedures, performance, leaves of absence, and grievances.",0.45,HR recommendations need human accountability
+22929,First-Line Supervisors of Firefighting and Prevention Workers,"Perform administrative duties, such as compiling and maintaining records, completing forms, preparing reports, or composing correspondence.",0.85,office admin recordkeeping and reports

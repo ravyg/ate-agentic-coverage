@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+19760,"Geoscientists, Except Hydrologists and Geographers",Collaborate with medical or health researchers to address health problems related to geological materials or processes.,0.55,collaborative research needs human counterparts
+19762,"Geoscientists, Except Hydrologists and Geographers",Determine ways to mitigate the negative consequences of mineral dust dispersion.,0.85,research and analysis to propose mitigation
+19766,"Geoscientists, Except Hydrologists and Geographers",Identify possible sites for carbon sequestration projects.,0.80,data analysis based site identification
+19764,"Geoscientists, Except Hydrologists and Geographers",Develop ways to capture or use gases burned off as waste during oil production processes.,0.75,research and design work desk-based
+19769,"Geoscientists, Except Hydrologists and Geographers",Research geomechanical or geochemical processes to be used in carbon sequestration projects.,0.85,pure research and literature review
+3716,"Geoscientists, Except Hydrologists and Geographers",Develop applied software for the analysis and interpretation of geological data.,0.90,software development task
+19761,"Geoscientists, Except Hydrologists and Geographers",Determine methods to incorporate geomethane or methane hydrates into global energy production or evaluate the potential environmental impacts of such incorporation.,0.80,research and impact analysis
+18618,Hydrologists,"Prepare written and oral reports describing research results, using illustrations, maps, appendices, and other information.",0.80,report writing and illustration prep
+9104,Hydrologists,Design and conduct scientific hydrogeological investigations to ensure that accurate and appropriate information is available for use in water resource management decisions.,0.35,field investigation needs physical presence
+9108,Hydrologists,"Measure and graph phenomena such as lake levels, stream flows, and changes in water volumes.",0.30,physical field measurement of phenomena
+9116,Hydrologists,Conduct research and communicate information to promote the conservation and preservation of water resources.,0.75,research and written communication
+9102,Hydrologists,"Coordinate and supervise the work of professional and technical staff, including research assistants, technologists, and technicians.",0.25,supervisory authority over staff
+9105,Hydrologists,"Study public water supply issues, including flood and drought risks, water quality, wastewater, and impacts on wetland habitats.",0.80,desk-based research and study
+9107,Hydrologists,"Apply research findings to help minimize the environmental impacts of pollution, waterborne diseases, erosion, and sedimentation.",0.55,applying findings needs implementation authority
+9100,Hydrologists,"Study and document quantities, distribution, disposition, and development of underground and surface waters.",0.75,study and document from data
+9112,Hydrologists,"Install, maintain, and calibrate instruments such as those that monitor water levels, rainfall, and sediments.",0.05,physical instrument installation and calibration
+18617,Hydrologists,Develop computer models for hydrologic predictions.,0.90,computer modeling task
+9115,Hydrologists,"Study and analyze the physical aspects of the earth in terms of hydrological components, including atmosphere, hydrosphere, and interior structure.",0.80,analytical earth science research
+9119,Hydrologists,"Evaluate research data in terms of its impact on issues such as soil and water conservation, flood control planning, and water supply forecasting.",0.80,data evaluation and analysis
+9106,Hydrologists,Collect and analyze water samples as part of field investigations or to validate data from automatic monitors.,0.30,field sample collection is physical
+9103,Hydrologists,Prepare hydrogeologic evaluations of known or suspected hazardous waste sites and land treatment and feedlot facilities.,0.65,evaluation report from existing data
+9113,Hydrologists,"Evaluate data and provide recommendations regarding the feasibility of municipal projects, such as hydroelectric power plants, irrigation systems, flood warning systems, and waste treatment facilities.",0.75,data evaluation and recommendations
+9111,Hydrologists,Develop or modify methods for conducting hydrologic studies.,0.80,methodology research and development
+9118,Hydrologists,"Review applications for site plans and permits and recommend approval, denial, modification, or further investigative action.",0.75,review and recommend not final authority
+9120,Hydrologists,"Monitor the work of well contractors, exploratory borers, and engineers and enforce rules regarding their activities.",0.15,on-site monitoring and enforcement authority
+9110,Hydrologists,"Answer questions and provide technical assistance and information to contractors or the public regarding issues such as well drilling, code requirements, hydrology, and geology.",0.85,answering questions is pure info work
+9123,Hydrologists,"Investigate properties, origins, and activities of glaciers, ice, snow, and permafrost.",0.45,glacier investigation often needs fieldwork
+9114,Hydrologists,Conduct short- and long-term climate assessments and study storm occurrences.,0.80,climate data assessment desk-based
+9121,Hydrologists,Administer programs designed to ensure the proper sealing of abandoned wells.,0.25,program administration needs regulatory authority
+9109,Hydrologists,"Investigate complaints or conflicts related to the alteration of public waters, gathering information, recommending alternatives, informing participants of progress, and preparing draft orders.",0.50,mix of investigation communication and drafting
+9117,Hydrologists,"Design civil works associated with hydrographic activities and supervise their construction, installation, and maintenance.",0.35,design ok but supervising construction is physical
+9122,Hydrologists,Compile and evaluate hydrologic information to prepare navigational charts and maps and to predict atmospheric conditions.,0.85,compiling and evaluating hydrologic data
+18270,Remote Sensing Scientists and Technologists,Manage or analyze data obtained from remote sensing systems to obtain meaningful results.,0.90,pure data analysis task
+18256,Remote Sensing Scientists and Technologists,"Analyze data acquired from aircraft, satellites, or ground-based platforms, using statistical analysis software, image analysis software, or Geographic Information Systems (GIS).",0.90,statistical and image data analysis
+18258,Remote Sensing Scientists and Technologists,Integrate other geospatial data sources into projects.,0.85,geospatial data integration is software work
+18260,Remote Sensing Scientists and Technologists,Organize and maintain geospatial data and associated documentation.,0.85,data organization and documentation
+18265,Remote Sensing Scientists and Technologists,Compile and format image data to increase its usefulness.,0.85,image data compilation and formatting
+18259,Remote Sensing Scientists and Technologists,Prepare or deliver reports or presentations of geospatial project information.,0.75,report prep high live delivery moderate
+18267,Remote Sensing Scientists and Technologists,"Discuss project goals, equipment requirements, or methodologies with colleagues or team members.",0.50,live discussion with human colleagues
+18261,Remote Sensing Scientists and Technologists,Process aerial or satellite imagery to create products such as land cover maps.,0.90,imagery processing to create map products
+18262,Remote Sensing Scientists and Technologists,"Design or implement strategies for collection, analysis, or display of geographic data.",0.80,strategy design for geographic data
+18257,Remote Sensing Scientists and Technologists,Develop or build databases for remote sensing or related geospatial project information.,0.90,database development is software work
+18264,Remote Sensing Scientists and Technologists,"Collect supporting data, such as climatic or field survey data, to corroborate remote sensing data analyses.",0.45,field survey data collection is physical
+18271,Remote Sensing Scientists and Technologists,Monitor quality of remote sensing data collection operations to determine if procedural or equipment changes are necessary.,0.65,quality monitoring from operational data
+18277,Remote Sensing Scientists and Technologists,Train technicians in the use of remote sensing technology.,0.40,hands-on technician training needs presence
+18276,Remote Sensing Scientists and Technologists,Set up or maintain remote sensing data collection systems.,0.25,physical setup of sensing hardware
+18263,Remote Sensing Scientists and Technologists,"Direct all activity associated with implementation, operation, or enhancement of remote sensing hardware or software.",0.30,directing hardware ops needs authority presence
+18273,Remote Sensing Scientists and Technologists,Attend meetings or seminars or read current literature to maintain knowledge of developments in the field of remote sensing.,0.55,reading literature high attending meetings needs presence
+18266,Remote Sensing Scientists and Technologists,Conduct research into the application or enhancement of remote sensing technology.,0.75,research into remote sensing techniques
+18275,Remote Sensing Scientists and Technologists,Recommend new remote sensing hardware or software acquisitions.,0.80,research based recommendation task
+19774,Remote Sensing Scientists and Technologists,Use remote sensing data for forest or carbon tracking activities to assess the impact of environmental change.,0.85,remote sensing data analysis
+18268,Remote Sensing Scientists and Technologists,"Develop automated routines to correct for the presence of image distorting artifacts, such as ground vegetation.",0.90,automated software routine development
+18269,Remote Sensing Scientists and Technologists,Develop new analytical techniques or sensor systems.,0.55,analytical techniques high sensor hardware low
+18274,Remote Sensing Scientists and Technologists,Participate in fieldwork.,0.05,fieldwork requires physical presence
+19773,Remote Sensing Scientists and Technologists,"Apply remote sensing data or techniques, such as surface water modeling or dust cloud detection, to address environmental issues.",0.85,applying remote sensing data analysis
+18272,Remote Sensing Scientists and Technologists,Direct installation or testing of new remote sensing hardware or software.,0.30,directing hardware installation needs authority presence
+7536,Economists,"Study economic and statistical data in area of specialization, such as finance, labor, or agriculture.",0.90,pure economic data study
+7538,Economists,"Compile, analyze, and report data to explain economic phenomena and forecast market trends, applying mathematical models and statistical techniques.",0.90,data compilation modeling and forecasting
+20052,Economists,"Study the socioeconomic impacts of new public policies, such as proposed legislation, taxes, services, and regulations.",0.90,policy impact research and analysis
+21106,Economists,Explain economic impact of policies to the public.,0.75,explanatory writing mostly desk-based
+23988,Economists,Review documents written by others.,0.90,pure document review task
+7537,Economists,"Provide advice and consultation on economic relationships to businesses, public and private agencies, and other employers.",0.75,advisory consultation via written analysis
+7539,Economists,"Formulate recommendations, policies, or plans to solve economic problems or to interpret markets.",0.85,policy formulation and analysis
+7542,Economists,Supervise research projects and students' study projects.,0.25,supervisory authority over researchers
+20053,Economists,"Conduct research on economic issues, and disseminate research findings through technical reports or scientific articles in journals.",0.80,research and technical writing
+7540,Economists,"Develop economic guidelines and standards, and prepare points of view used in forecasting trends and formulating economic policy.",0.80,guideline development and forecasting
+7544,Economists,"Teach theories, principles, and methods of economics.",0.40,live classroom teaching needs human presence
+7541,Economists,"Testify at regulatory or legislative hearings concerning the estimated effects of changes in legislation or public policy, and present recommendations based on cost-benefit analyses.",0.10,sworn testimony needs legal authority presence
+20051,Economists,"Provide litigation support, such as writing reports for expert testimony or testifying as an expert witness.",0.35,report writing high testimony needs authority
+7543,Economists,"Forecast production and consumption of renewable resources and supply, consumption, and depletion of non-renewable resources.",0.85,resource forecasting analysis
+16902,Environmental Economists,Write technical documents or academic articles to communicate study results or economic forecasts.,0.90,pure technical writing task
+16915,Environmental Economists,"Conduct research on economic and environmental topics, such as alternative fuel use, public and private land use, soil conservation, air and water pollution control, and endangered species protection.",0.85,desk-based economic environmental research
+16910,Environmental Economists,Collect and analyze data to compare the environmental implications of economic policy or practice alternatives.,0.85,data analysis of policy alternatives
+19985,Environmental Economists,"Assess the costs and benefits of various activities, policies, or regulations that affect the environment or natural resource stocks.",0.85,cost benefit analysis task
+16897,Environmental Economists,"Prepare and deliver presentations to communicate economic and environmental study results, to present policy recommendations, or to raise awareness of environmental consequences.",0.70,prep high live delivery moderate
+19984,Environmental Economists,Develop programs or policy recommendations to achieve environmental goals in cost-effective ways.,0.80,policy recommendation development
+16909,Environmental Economists,"Develop economic models, forecasts, or scenarios to predict future economic and environmental outcomes.",0.90,economic modeling and forecasting
+16901,Environmental Economists,Demonstrate or promote the economic benefits of sound environmental regulations.,0.65,promotion and advocacy communication
+16914,Environmental Economists,Conduct research to study the relationships among environmental problems and patterns of economic production and consumption.,0.85,research on economic environmental relationships
+16913,Environmental Economists,"Perform complex, dynamic, and integrated mathematical modeling of ecological, environmental, or economic systems.",0.90,complex mathematical modeling
+16903,Environmental Economists,"Write social, legal, or economic impact statements to inform decision makers for natural resource policies, standards, or programs.",0.85,impact statement writing
+21177,Environmental Economists,Teach courses in environmental economics.,0.40,live course teaching needs presence
+19986,Environmental Economists,Develop programs or policy recommendations to promote sustainability and sustainable development.,0.80,sustainability policy recommendation
+16906,Environmental Economists,"Develop systems for collecting, analyzing, and interpreting environmental and economic data.",0.85,data system development software work
+16904,Environmental Economists,Write research proposals and grant applications to obtain private or public funding for environmental and economic studies.,0.85,grant proposal writing
+16905,Environmental Economists,Examine the exhaustibility of natural resources or the long-term costs of environmental rehabilitation.,0.85,resource exhaustibility research
+16898,Environmental Economists,Monitor or analyze market and environmental trends.,0.85,market and trend analysis
+16908,Environmental Economists,"Develop environmental research project plans, including information on budgets, goals, deliverables, timelines, and resource requirements.",0.80,project plan writing and budgeting
+16900,Environmental Economists,Identify and recommend environmentally friendly business practices.,0.85,research based recommendation task
+16899,Environmental Economists,Interpret indicators to ascertain the overall health of an environment.,0.85,environmental indicator interpretation
+7550,Survey Researchers,"Conduct surveys and collect data, using methods such as interviews, questionnaires, focus groups, market analysis surveys, public opinion polls, literature reviews, and file reviews.",0.45,mix of desk research and live interviews
+7545,Survey Researchers,"Prepare and present summaries and analyses of survey data, including tables, graphs, and fact sheets that describe survey techniques and results.",0.75,summary prep high live presentation moderate
+7546,Survey Researchers,"Consult with clients to identify survey needs and specific requirements, such as special samples.",0.45,live client consultation needs rapport
+7555,Survey Researchers,"Determine and specify details of survey projects, including sources of information, procedures to be used, and the design of survey instruments and materials.",0.80,survey design and specification
+7556,Survey Researchers,"Support, plan, and coordinate operations for single or multiple surveys.",0.55,operational coordination needs human execution
+7553,Survey Researchers,"Monitor and evaluate survey progress and performance, using sample disposition reports and response rate calculations.",0.85,monitoring survey metrics analysis
+7551,Survey Researchers,"Collaborate with other researchers in the planning, implementation, and evaluation of surveys.",0.55,collaboration needs human counterparts
+7549,Survey Researchers,Conduct research to gather information about survey topics.,0.85,background research on topics
+7552,Survey Researchers,"Direct and review the work of staff members, including survey support staff and interviewers who gather survey data.",0.25,directing and reviewing staff needs authority
+7557,Survey Researchers,Direct updates and changes in survey implementation and methods.,0.40,directing implementation changes needs authority
+7554,Survey Researchers,"Produce documentation of the questionnaire development process, data collection methods, sampling designs, and decisions related to sample statistical weighting.",0.85,documentation writing task
+21107,Survey Researchers,Write proposals to win new projects.,0.75,proposal writing task
+7548,Survey Researchers,"Review, classify, and record survey data in preparation for computer analysis.",0.90,data review and classification
+7547,Survey Researchers,"Analyze data from surveys, old records, or case studies, using statistical software.",0.90,statistical data analysis
+7559,Survey Researchers,Write training manuals to be used by survey interviewers.,0.90,training manual writing
+7558,Survey Researchers,Hire and train recruiters and data collectors.,0.15,hiring needs legal HR authority
+20230,Industrial-Organizational Psychologists,Provide advice on best practices and implementation for selection.,0.80,advisory best practices task
+7560,Industrial-Organizational Psychologists,Develop and implement employee selection or placement programs.,0.55,develop high implement needs org authority
+7572,Industrial-Organizational Psychologists,"Analyze data, using statistical methods and applications, to evaluate the outcomes and effectiveness of workplace programs.",0.90,statistical program evaluation analysis
+7568,Industrial-Organizational Psychologists,"Develop interview techniques, rating scales, and psychological tests used to assess skills, abilities, and interests for the purpose of employee selection, placement, or promotion.",0.80,instrument and test design task
+7562,Industrial-Organizational Psychologists,"Observe and interview workers to obtain information about the physical, mental, and educational requirements of jobs, as well as information about aspects such as job satisfaction.",0.45,live worker interviews need rapport
+7571,Industrial-Organizational Psychologists,Facilitate organizational development and change.,0.35,change facilitation needs human leadership
+7561,Industrial-Organizational Psychologists,"Analyze job requirements and content to establish criteria for classification, selection, training, and other related personnel functions.",0.80,job requirement analysis task
+7564,Industrial-Organizational Psychologists,"Advise management concerning personnel, managerial, and marketing policies and practices and their potential effects on organizational effectiveness and efficiency.",0.75,advisory analysis for management
+20222,Industrial-Organizational Psychologists,Conduct presentations on research findings for clients or at research meetings.,0.55,live presentation delivery to audience
+20229,Industrial-Organizational Psychologists,Coach senior executives and managers on leadership and performance.,0.30,executive coaching needs human trust
+20225,Industrial-Organizational Psychologists,"Conduct individual assessments, including interpreting measures and providing feedback for selection, placement, or promotion.",0.65,assessment analysis and feedback prep
+20228,Industrial-Organizational Psychologists,"Train clients to administer human resources functions, including testing, selection, and performance management.",0.40,hands-on client training needs presence
+7569,Industrial-Organizational Psychologists,Assess employee performance.,0.55,performance assessment mixes data and judgment
+7565,Industrial-Organizational Psychologists,Identify training and development needs.,0.75,needs assessment analytical task
+7567,Industrial-Organizational Psychologists,"Formulate and implement training programs, applying principles of learning and individual differences.",0.55,formulate high implement delivery needs presence
+7570,Industrial-Organizational Psychologists,"Study organizational effectiveness, productivity, and efficiency, including the nature of workplace supervision and leadership.",0.80,organizational effectiveness research
+20223,Industrial-Organizational Psychologists,Provide expert testimony in employment lawsuits.,0.08,sworn expert testimony needs legal authority
+7566,Industrial-Organizational Psychologists,"Conduct research studies of physical work environments, organizational structures, communication systems, group interactions, morale, or motivation to assess organizational functioning.",0.65,research study with some field observation
+20227,Industrial-Organizational Psychologists,"Develop new business by contacting potential clients, making sales presentations, and writing proposals.",0.40,sales and client relationship building
+7563,Industrial-Organizational Psychologists,Write reports on research findings and implications to contribute to general knowledge or to suggest potential changes in organizational functioning.,0.90,research report writing
+20226,Industrial-Organizational Psychologists,"Write articles, white papers, or reports to share research findings and educate others.",0.90,article and report writing
+20224,Industrial-Organizational Psychologists,Review research literature to remain current on psychological science issues.,0.90,literature review reading task
+7573,Industrial-Organizational Psychologists,Counsel workers about job and career-related issues.,0.30,career counseling needs human rapport
+7575,Industrial-Organizational Psychologists,Participate in mediation and dispute resolution.,0.20,mediation needs human trust and authority

@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+21835,Data Scientists,"Read scientific articles, conference papers, or other sources of research to identify emerging analytic trends and technologies.",0.90,reading and synthesizing research literature
+21836,Data Scientists,Recommend data-driven solutions to key stakeholders.,0.85,written recommendation from analysis
+21837,Data Scientists,"Test, validate, and reformulate models to ensure accurate prediction of outcomes of interest.",0.85,model testing and validation coding work
+21838,Data Scientists,Write new functions or applications in programming languages to conduct analyses.,0.90,pure programming task
+16150,Business Intelligence Analysts,"Generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders.",0.90,report generation from data
+16139,Business Intelligence Analysts,"Maintain or update business intelligence tools, databases, dashboards, systems, or methods.",0.80,digital tool and dashboard maintenance
+16140,Business Intelligence Analysts,Manage timely flow of business intelligence information to users.,0.70,ongoing coordination of info flow to users
+16134,Business Intelligence Analysts,"Provide technical support for existing reports, dashboards, or other tools.",0.75,remote technical support
+16141,Business Intelligence Analysts,Identify and analyze industry or geographic trends with business strategy implications.,0.85,trend analysis and writeup
+16142,Business Intelligence Analysts,"Document specifications for business intelligence or information technology reports, dashboards, or other outputs.",0.90,writing technical specification docs
+16144,Business Intelligence Analysts,"Create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs.",0.85,designing and building digital bi systems
+16146,Business Intelligence Analysts,"Collect business intelligence data from available industry reports, public information, field reports, or purchased sources.",0.80,collecting data from reports and public sources
+16143,Business Intelligence Analysts,"Disseminate information regarding tools, reports, or metadata enhancements.",0.85,disseminating info via writing and messaging
+16145,Business Intelligence Analysts,Conduct or coordinate tests to ensure that intelligence is consistent with defined needs.,0.80,coordinating and running data tests
+16149,Business Intelligence Analysts,Synthesize current business intelligence or trend data to support recommendations for action.,0.85,synthesizing data into recommendations
+16148,Business Intelligence Analysts,"Analyze competitive market strategies through analysis of related product, market, or share trends.",0.85,market trend analysis
+16136,Business Intelligence Analysts,"Identify or monitor current and potential customers, using business intelligence tools.",0.80,monitoring customers via bi tools
+16138,Business Intelligence Analysts,"Communicate with customers, competitors, suppliers, professional organizations, or others to stay abreast of industry or business trends.",0.55,ongoing external relationship communication
+16135,Business Intelligence Analysts,"Maintain library of model documents, templates, or other reusable knowledge assets.",0.85,maintaining document library
+16137,Business Intelligence Analysts,Create or review technical design documentation to ensure the accurate development of reporting solutions.,0.85,writing and reviewing technical design docs
+16147,Business Intelligence Analysts,Analyze technology trends to identify markets for future product development or to improve sales of existing products.,0.85,technology trend analysis
+16281,Clinical Data Managers,"Design and validate clinical databases, including designing or testing logic checks.",0.85,database design and logic testing
+16284,Clinical Data Managers,"Process clinical data, including receipt, entry, verification, or filing of information.",0.80,digital data entry and verification
+16280,Clinical Data Managers,"Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.",0.85,generating data queries from validation checks
+16285,Clinical Data Managers,"Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.",0.80,writing data management plans
+16279,Clinical Data Managers,Monitor work productivity or quality to ensure compliance with standard operating procedures.,0.55,monitoring staff compliance needs oversight
+16268,Clinical Data Managers,Prepare appropriate formatting to data sets as requested.,0.90,data formatting task
+16286,Clinical Data Managers,"Design forms for receiving, processing, or tracking data.",0.85,designing digital data forms
+16277,Clinical Data Managers,"Prepare data analysis listings and activity, performance, or progress reports.",0.85,writing analysis listings and reports
+16282,Clinical Data Managers,"Confer with end users to define or implement clinical system requirements such as data release formats, delivery schedules, and testing protocols.",0.50,conferring with end users to gather requirements
+16278,Clinical Data Managers,"Perform quality control audits to ensure accuracy, completeness, or proper usage of clinical systems and data.",0.80,digital quality control audits
+16283,Clinical Data Managers,Analyze clinical data using appropriate statistical tools.,0.90,statistical analysis of data
+16269,Clinical Data Managers,"Evaluate processes and technologies, and suggest revisions to increase productivity and efficiency.",0.80,evaluating processes and suggesting revisions
+16270,Clinical Data Managers,Develop technical specifications for data management programming and communicate needs to information technology staff.,0.75,writing specs and communicating with it staff
+16273,Clinical Data Managers,"Write work instruction manuals, data capture guidelines, or standard operating procedures.",0.90,writing procedure manuals
+16274,Clinical Data Managers,"Track the flow of work forms, including in-house data flow or electronic forms transfer.",0.80,tracking digital form flow
+16276,Clinical Data Managers,Supervise the work of data management project staff.,0.15,supervising human staff requires authority
+16272,Clinical Data Managers,"Contribute to the compilation, organization, and production of protocols, clinical study reports, regulatory submissions, or other controlled documentation.",0.80,compiling regulatory documentation
+16266,Clinical Data Managers,Read technical literature and participate in continuing education or professional associations to maintain awareness of current database technology and best practices.,0.55,reading literature but also live professional participation
+16275,Clinical Data Managers,Train staff on technical procedures or software program usage.,0.45,live staff training needs presence
+16271,Clinical Data Managers,Develop or select specific software programs for various research scenarios.,0.80,selecting or developing software for research
+16267,Clinical Data Managers,"Provide support and information to functional areas such as marketing, clinical monitoring, and medical affairs.",0.75,internal support and information sharing
+17709,Bioinformatics Technicians,"Analyze or manipulate bioinformatics data using software packages, statistical applications, or data mining techniques.",0.90,data analysis using software tools
+17715,Bioinformatics Technicians,"Extend existing software programs, web-based interactive tools, or database queries as sequence management and analysis needs evolve.",0.85,extending software and database tools
+17716,Bioinformatics Technicians,Maintain awareness of new and emerging computational methods and technologies.,0.85,reading and tracking emerging methods
+17721,Bioinformatics Technicians,Conduct quality analyses of data inputs and resulting analyses or predictions.,0.85,quality analysis of data and predictions
+17707,Bioinformatics Technicians,"Enter or retrieve information from structural databases, protein sequence motif databases, mutation databases, genomic databases or gene expression databases.",0.90,digital database entry and retrieval
+17706,Bioinformatics Technicians,"Develop or maintain applications that process biologically based data into searchable databases for purposes of analysis, calculation, or presentation.",0.85,developing data processing applications
+17710,Bioinformatics Technicians,"Confer with researchers, clinicians, or information technology staff to determine data needs and programming requirements and to provide assistance with database-related research activities.",0.55,conferring with researchers to define needs
+17717,Bioinformatics Technicians,Participate in the preparation of reports or scientific publications.,0.85,contributing to report and publication writing
+17720,Bioinformatics Technicians,Write computer programs or scripts to be used in querying databases.,0.90,writing database query scripts
+17714,Bioinformatics Technicians,"Document all database changes, modifications, or problems.",0.90,documenting database changes
+17711,Bioinformatics Technicians,Create data management or error-checking procedures and user manuals.,0.85,writing procedures and user manuals
+17713,Bioinformatics Technicians,Develop or apply data mining and machine learning algorithms.,0.90,developing ml and data mining algorithms
+17712,Bioinformatics Technicians,Design or implement web-based tools for querying large-scale biological databases.,0.85,designing web-based database tools
+17708,Bioinformatics Technicians,"Monitor database performance and perform any necessary maintenance, upgrades, or repairs.",0.75,remote database monitoring and maintenance
+17722,Bioinformatics Technicians,Confer with database users about project timelines and changes.,0.55,conferring with users about timelines
+17724,Bioinformatics Technicians,"Perform routine system administrative functions, such as troubleshooting, back-ups, or upgrades.",0.75,remote system admin functions
+17723,Bioinformatics Technicians,Package bioinformatics data for submission to public repositories.,0.85,packaging data for repository submission
+17719,Bioinformatics Technicians,Train bioinformatics staff or researchers in the use of databases.,0.45,live training of staff needs presence
+17718,Bioinformatics Technicians,Test new or updated software or tools and provide feedback to developers.,0.85,testing software and giving feedback
+20483,"Architects, Except Landscape and Naval",Develop final construction plans that include aesthetic representations of the structure or details for its construction.,0.65,developing construction plans and drawings
+20479,"Architects, Except Landscape and Naval","Prepare scale drawings or architectural designs, using computer-aided design or other tools.",0.65,cad design drawing work
+130,"Architects, Except Landscape and Naval","Prepare information regarding design, structure specifications, materials, color, equipment, estimated costs, or construction time.",0.80,writing design and cost information
+131,"Architects, Except Landscape and Naval",Consult with clients to determine functional or spatial requirements of structures.,0.45,consulting clients to gather requirements
+20481,"Architects, Except Landscape and Naval",Meet with clients to review or discuss architectural drawings.,0.40,meeting clients to review drawings
+20485,"Architects, Except Landscape and Naval","Monitor the work of specialists, such as electrical engineers, mechanical engineers, interior designers, or sound specialists to ensure optimal form or function of designs or final structures.",0.40,monitoring specialists requires oversight authority
+136,"Architects, Except Landscape and Naval",Integrate engineering elements into unified architectural designs.,0.65,integrating engineering elements into designs
+20486,"Architects, Except Landscape and Naval",Plan layouts of structural architectural projects.,0.65,planning structural layouts
+20484,"Architects, Except Landscape and Naval",Conduct periodic on-site observations of construction work to monitor compliance with plans.,0.05,on-site construction observation
+134,"Architects, Except Landscape and Naval",Prepare contract documents for building contractors.,0.75,preparing contract documents
+19596,"Architects, Except Landscape and Naval","Plan or design structures such as residences, office buildings, theatres, factories, or other structural properties in accordance with environmental, safety, or other regulations.",0.60,designing structures per regulations
+20480,"Architects, Except Landscape and Naval",Direct activities of technicians engaged in preparing drawings or specification documents.,0.35,directing technician staff
+138,"Architects, Except Landscape and Naval",Administer construction contracts.,0.35,administering contracts needs authority
+20488,"Architects, Except Landscape and Naval","Create three-dimensional or interactive representations of designs, using computer-assisted design software.",0.70,3d cad design representations
+139,"Architects, Except Landscape and Naval",Represent clients in obtaining bids or awarding construction contracts.,0.20,representing clients needs legal authority
+20482,"Architects, Except Landscape and Naval","Develop marketing materials, proposals, or presentations to generate new work opportunities.",0.85,writing marketing materials and proposals
+19595,"Architects, Except Landscape and Naval","Perform predesign services, such as feasibility or environmental impact studies.",0.70,feasibility and impact study research
+19593,"Architects, Except Landscape and Naval","Design structures that incorporate environmentally friendly building practices or concepts, such as Leadership in Energy and Environmental Design (LEED) standards.",0.65,designing per green building standards
+19592,"Architects, Except Landscape and Naval",Design or plan construction of green building projects to minimize adverse environmental impact or conserve energy.,0.65,designing green building projects
+19594,"Architects, Except Landscape and Naval",Gather information related to projects' environmental sustainability or operational efficiency.,0.80,gathering sustainability information
+20487,"Architects, Except Landscape and Naval",Inspect proposed building sites to determine suitability for construction.,0.10,physical site inspection
+19591,"Architects, Except Landscape and Naval","Design environmentally sound structural upgrades to existing buildings, such as natural lighting systems, green roofs, or rainwater collection systems.",0.65,designing environmental structural upgrades
+19590,"Architects, Except Landscape and Naval",Calculate potential energy savings by comparing estimated energy consumption of proposed design to baseline standards.,0.85,calculating energy savings
+140,"Architects, Except Landscape and Naval","Prepare operating and maintenance manuals, studies, or reports.",0.85,writing operating manuals and reports
+20369,Landscape Architects,"Confer with clients, engineering personnel, or architects on landscape projects.",0.45,conferring with clients on projects
+20371,Landscape Architects,"Analyze data on conditions such as site location, drainage, or structure location for environmental reports or landscaping plans.",0.75,analyzing site condition data
+20373,Landscape Architects,"Inspect landscape work to ensure compliance with specifications, evaluate quality of materials or work, or advise clients or construction personnel.",0.10,physical inspection of landscape work
+20370,Landscape Architects,"Prepare site plans, specifications, or cost estimates for land development.",0.70,preparing site plans and cost estimates
+20375,Landscape Architects,Integrate existing land features or landscaping into designs.,0.65,integrating land features into designs
+19597,Landscape Architects,Collaborate with architects or related professionals on whole building design to maximize the aesthetic features of structures or surrounding land and to improve energy efficiency.,0.60,collaborating on building design
+18470,Landscape Architects,Prepare graphic representations or drawings of proposed plans or designs.,0.70,preparing graphic design drawings
+20378,Landscape Architects,"Inspect proposed sites to identify structural elements of land areas or other important site information, such as soil condition, existing landscaping, or the proximity of water management facilities.",0.10,physical site inspection
+20380,Landscape Architects,"Collaborate with estimators to cost projects, create project plans, or coordinate bids from landscaping contractors.",0.45,collaborating with estimators and contractors
+19598,Landscape Architects,Create landscapes that minimize water consumption such as by incorporating drought-resistant grasses or indigenous plants.,0.65,designing water-efficient landscapes
+20379,Landscape Architects,Develop planting plans to help clients garden productively or to achieve particular aesthetic effects.,0.70,developing planting plans
+20376,Landscape Architects,Manage the work of subcontractors to ensure quality control.,0.20,managing subcontractor work on site
+20374,Landscape Architects,"Present project plans or designs to public stakeholders, such as government agencies or community groups.",0.30,presenting to public stakeholders
+20372,Landscape Architects,"Develop marketing materials, proposals, or presentations to generate new work opportunities.",0.85,writing marketing materials
+20381,Landscape Architects,"Prepare conceptual drawings, graphics, or other visual representations of land areas to show predicted growth or development of land areas over time.",0.70,preparing conceptual design drawings
+19600,Landscape Architects,"Identify and select appropriate sustainable materials for use in landscape designs, such as recycled wood or recycled concrete boards for structural elements or recycled tires for playground bedding.",0.75,selecting sustainable materials
+20377,Landscape Architects,"Research latest products, technology, or design trends to stay current in the field.",0.85,researching design trends
+19599,Landscape Architects,Design and integrate rainwater harvesting or gray and reclaimed water systems to conserve water into building or land designs.,0.65,designing water conservation systems
+20382,Landscape Architects,Provide follow-up consultations for clients to ensure landscape designs are maturing or developing as planned.,0.35,client follow-up consultations
+3517,Cartographers and Photogrammetrists,"Compile data required for map preparation, including aerial photographs, survey notes, records, reports, and original maps.",0.80,compiling map preparation data
+3522,Cartographers and Photogrammetrists,"Delineate aerial photographic detail, such as control points, hydrography, topography, and cultural features, using precision stereoplotting apparatus or drafting instruments.",0.65,delineating photographic detail with tools
+3524,Cartographers and Photogrammetrists,"Prepare and alter trace maps, charts, tables, detailed drawings, and three-dimensional optical models of terrain using stereoscopic plotting and computer graphics equipment.",0.65,digital terrain mapping and modeling
+3526,Cartographers and Photogrammetrists,"Study legal records to establish boundaries of local, national, and international properties.",0.75,researching legal property records
+3518,Cartographers and Photogrammetrists,Inspect final compositions to ensure completeness and accuracy.,0.80,digital quality inspection of maps
+3516,Cartographers and Photogrammetrists,"Revise existing maps and charts, making all necessary corrections and adjustments.",0.80,revising digital maps and charts
+3514,Cartographers and Photogrammetrists,"Identify, scale, and orient geodetic points, elevations, and other planimetric or topographic features, applying standard mathematical formulas.",0.80,geodetic calculations from formulas
+3515,Cartographers and Photogrammetrists,"Collect information about specific features of the Earth, using aerial photography and other digital remote sensing techniques.",0.50,aerial data collection needs equipment operation
+3520,Cartographers and Photogrammetrists,"Examine and analyze data from ground surveys, reports, aerial photographs, and satellite images to prepare topographic maps, aerial-photograph mosaics, and related charts.",0.75,analyzing survey data to prepare maps
+3523,Cartographers and Photogrammetrists,Build and update digital databases.,0.90,building and updating digital databases
+3519,Cartographers and Photogrammetrists,"Determine map content and layout, as well as production specifications such as scale, size, projection, and colors, and direct production to ensure that specifications are followed.",0.65,determining map specs and directing production
+3525,Cartographers and Photogrammetrists,Determine guidelines that specify which source material is acceptable for use.,0.80,determining source material guidelines
+3521,Cartographers and Photogrammetrists,Select aerial photographic and remote sensing techniques and plotting equipment needed to meet required standards of accuracy.,0.75,selecting techniques and equipment specs
+3527,Cartographers and Photogrammetrists,"Travel over photographed areas to observe, identify, record, and verify all relevant features.",0.05,physical travel to verify site features
+3530,Surveyors,"Direct or conduct surveys to establish legal boundaries for properties, based on legal deeds and titles.",0.15,conducting legal boundary surveys needs authority
+3528,Surveyors,"Prepare and maintain sketches, maps, reports, and legal descriptions of surveys to describe, certify, and assume liability for work performed.",0.10,certifying survey work needs licensure
+3534,Surveyors,"Write descriptions of property boundary surveys for use in deeds, leases, or other legal documents.",0.70,writing legal boundary descriptions
+3529,Surveyors,"Verify the accuracy of survey data, including measurements and calculations conducted at survey sites.",0.55,verifying survey data partly on-site
+3536,Surveyors,"Search legal records, survey records, and land titles to obtain information about property boundaries in areas to be surveyed.",0.80,researching legal and land records
+3531,Surveyors,"Record the results of surveys, including the shape, contour, location, elevation, and dimensions of land or land features.",0.75,recording survey results data
+3533,Surveyors,"Prepare, or supervise preparation of, all data, charts, plots, maps, records, and documents related to surveys.",0.65,preparing survey documents and supervising
+3543,Surveyors,"Compute geodetic measurements and interpret survey data to determine positions, shapes, and elevations of geomorphic and topographic features.",0.85,computing geodetic measurements
+3532,Surveyors,"Calculate heights, depths, relative positions, property lines, and other characteristics of terrain.",0.85,calculating terrain characteristics
+3535,Surveyors,"Plan and conduct ground surveys designed to establish baselines, elevations, and other geodetic measurements.",0.15,conducting ground surveys on site
+3539,Surveyors,"Establish fixed points for use in making maps, using geodetic and engineering instruments.",0.10,establishing fixed points with instruments on site
+3540,Surveyors,"Determine longitudes and latitudes of important features and boundaries in survey areas, using theodolites, transits, levels, and satellite-based global positioning systems (GPS).",0.10,determining coordinates with field instruments

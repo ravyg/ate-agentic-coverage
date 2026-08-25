@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+16110,Database Architects,"Design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.",0.85,database application design task
+21653,Database Architects,"Develop methods for integrating different products so they work properly together, such as customizing commercial databases to fit specific needs.",0.80,technical integration and customization work
+16112,Database Architects,Create and enforce database development standards.,0.65,can draft standards but enforcement needs authority
+16105,Database Architects,"Document and communicate database schemas, using accepted notations.",0.90,schema documentation task
+21652,Database Architects,"Develop data model describing data elements and their use, following procedures and using pen, template or computer software.",0.90,data modeling documentation task
+21659,Database Architects,Work as part of a project team to coordinate database development and determine project scope and limitations.,0.45,team coordination and scope decisions with humans
+21655,Database Architects,Identify and evaluate industry trends in database systems to serve as a source of information and advice for upper management.,0.80,research and trend analysis for advisory report
+16100,Database Architects,"Set up database clusters, backup, or recovery processes.",0.75,remote database system configuration
+16111,Database Architects,"Demonstrate database technical functionality, such as performance, security and reliability.",0.55,demonstration involves live presentation to stakeholders
+16107,Database Architects,Develop load-balancing processes to eliminate down time for backup processes.,0.80,technical process design task
+16102,Database Architects,Plan and install upgrades of database management system software to enhance database performance.,0.75,software upgrade planning and remote installation
+16101,Database Architects,"Identify, evaluate and recommend hardware or software technologies to achieve desired database performance.",0.85,research and recommendation task
+21657,Database Architects,"Test programs or databases, correct errors, and make necessary modifications.",0.85,testing and debugging code
+16104,Database Architects,Identify and correct deviations from database development standards.,0.80,standards compliance review and correction
+21656,Database Architects,Review project requests describing database user needs to estimate time and cost required to accomplish project.,0.80,estimation from project requests
+21660,Database Architects,"Write and code logical and physical database descriptions, and specify identifiers of database to management system or direct others in coding descriptions.",0.85,coding and documentation task
+16106,Database Architects,"Develop or maintain archived procedures, procedural codes, or queries for applications.",0.90,code and query maintenance
+16099,Database Architects,Provide technical support to junior staff or clients.,0.70,technical support via communication
+21654,Database Architects,"Establish and calculate optimum values for database parameters, using manuals and calculators.",0.90,parameter calculation task
+21658,Database Architects,Train users and answer questions.,0.50,user training requires live interaction
+16132,Data Warehousing Specialists,"Develop data warehouse process models, including sourcing, loading, transformation, and extraction.",0.90,data warehouse process design task
+16121,Data Warehousing Specialists,"Verify the structure, accuracy, or quality of warehouse data.",0.90,data quality verification task
+16124,Data Warehousing Specialists,"Map data between source systems, data warehouses, and data marts.",0.90,data mapping task
+16126,Data Warehousing Specialists,"Develop and implement data extraction procedures from other systems, such as administration, billing, or claims.",0.85,data extraction procedure development
+16128,Data Warehousing Specialists,Design and implement warehouse database structures.,0.85,database structure design task
+16127,Data Warehousing Specialists,"Develop or maintain standards, such as organization, structure, or nomenclature, for the design of data warehouse elements, such as data architectures, models, tools, and databases.",0.85,standards documentation task
+16118,Data Warehousing Specialists,Provide or coordinate troubleshooting support for data warehouses.,0.75,troubleshooting support coordination
+16120,Data Warehousing Specialists,"Write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",0.90,coding task
+16133,Data Warehousing Specialists,"Design, implement, or operate comprehensive data warehouse systems to balance optimization of data access with batch loading and resource utilization factors, according to customer requirements.",0.85,data warehouse system design and implementation
+16123,Data Warehousing Specialists,"Perform system analysis, data analysis or programming, using a variety of computer languages and procedures.",0.90,analysis and programming task
+16129,Data Warehousing Specialists,"Create supporting documentation, such as metadata and diagrams of entity relationships, business processes, and process flow.",0.90,documentation task
+16131,Data Warehousing Specialists,Create or implement metadata processes and frameworks.,0.85,metadata framework implementation
+16117,Data Warehousing Specialists,"Review designs, codes, test plans, or documentation to ensure quality.",0.90,quality review of technical artifacts
+16130,Data Warehousing Specialists,"Create plans, test files, and scripts for data warehouse testing, ranging from unit to integration testing.",0.90,test planning and scripting task
+16122,Data Warehousing Specialists,"Select methods, techniques, or criteria for data warehousing evaluative procedures.",0.85,methodology selection task
+16125,Data Warehousing Specialists,"Implement business rules via stored procedures, middleware, or other technologies.",0.90,business rule implementation coding
+16119,Data Warehousing Specialists,Prepare functional or technical documentation for data warehouses.,0.90,documentation task
+16116,Data Warehousing Specialists,Test software systems or applications for software enhancements or new products.,0.85,software testing task
+1318,Network and Computer Systems Administrators,"Maintain and administer computer networks and related computing environments, including computer hardware, systems software, applications software, and all configurations.",0.55,network admin mixes remote config and physical hardware work
+1317,Network and Computer Systems Administrators,Perform data backups and disaster recovery operations.,0.75,remote backup and recovery operations
+15205,Network and Computer Systems Administrators,"Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",0.45,includes physical component replacement
+15206,Network and Computer Systems Administrators,"Configure, monitor, and maintain email applications or virus protection software.",0.85,software configuration and monitoring
+1320,Network and Computer Systems Administrators,Operate master consoles to monitor the performance of computer systems and networks and to coordinate computer network access and use.,0.75,remote monitoring operations
+1325,Network and Computer Systems Administrators,Monitor network performance to determine whether adjustments are needed and where changes will be needed in the future.,0.85,network performance analysis
+1319,Network and Computer Systems Administrators,"Plan, coordinate, and implement network security measures to protect data, software, and hardware.",0.75,security planning and implementation
+1329,Network and Computer Systems Administrators,Analyze equipment performance records to determine the need for repair or replacement.,0.85,equipment performance analysis
+1324,Network and Computer Systems Administrators,Confer with network users about solutions to existing system problems.,0.65,user consultation via communication
+1323,Network and Computer Systems Administrators,"Recommend changes to improve systems and network configurations, and determine hardware or software requirements related to such changes.",0.85,recommendation based on analysis
+1322,Network and Computer Systems Administrators,"Design, configure, and test computer hardware, networking software and operating system software.",0.55,hardware design component requires physical work
+1321,Network and Computer Systems Administrators,"Perform routine network startup and shutdown procedures, and maintain control records.",0.75,routine procedures potentially automatable remotely
+1327,Network and Computer Systems Administrators,"Load computer tapes and disks, and install software and printer paper or forms.",0.05,physical loading of media and paper
+1326,Network and Computer Systems Administrators,Train people in computer system use.,0.45,in-person training requires live interaction
+1330,Network and Computer Systems Administrators,"Maintain logs related to network functions, as well as maintenance and repair records.",0.85,log and record maintenance
+1328,Network and Computer Systems Administrators,"Gather data pertaining to customer needs, and use the information to identify, predict, interpret, and evaluate system and network requirements.",0.70,requirements gathering and analysis
+1333,Network and Computer Systems Administrators,Coordinate with vendors and with company personnel to facilitate purchases.,0.35,vendor coordination and purchasing needs authority
+15208,Network and Computer Systems Administrators,"Implement and provide technical support for voice services and equipment, such as private branch exchange, voice mail system, and telecom system.",0.55,mix of remote config and physical equipment support
+1332,Network and Computer Systems Administrators,Maintain an inventory of parts for emergency repairs.,0.30,physical inventory management
+15207,Network and Computer Systems Administrators,"Research new technologies by attending seminars, reading trade articles, or taking classes, and implement or recommend the implementation of new technologies.",0.65,research and recommendation with some presence needed
+1273,Computer Programmers,"Write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",0.90,coding task
+1267,Computer Programmers,Correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,0.90,debugging task
+1272,Computer Programmers,"Perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.",0.85,program maintenance coding
+1270,Computer Programmers,"Write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",0.90,coding task
+1271,Computer Programmers,"Consult with managerial, engineering, and technical personnel to clarify program intent, identify problems, and suggest changes.",0.55,requires consultation with stakeholders
+1268,Computer Programmers,Conduct trial runs of programs and software applications to be sure they will produce the desired information and that the instructions are correct.,0.90,program testing task
+1276,Computer Programmers,"Prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language.",0.90,coding and diagram documentation
+1269,Computer Programmers,"Compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",0.90,code documentation task
+1278,Computer Programmers,Consult with and assist computer operators or system analysts to define and resolve problems in running computer programs.,0.55,consultation and troubleshooting with others
+1277,Computer Programmers,Perform systems analysis and programming tasks to maintain and control the use of computer systems software as a systems programmer.,0.90,systems analysis and programming
+1274,Computer Programmers,Write or contribute to instructions or manuals to guide end users.,0.90,manual writing task
+1275,Computer Programmers,"Investigate whether networks, workstations, the central processing unit of the system, or peripheral equipment are responding to a program's instructions.",0.80,technical diagnostic investigation
+1279,Computer Programmers,"Assign, coordinate, and review work and activities of programming personnel.",0.25,personnel management requires human authority
+1281,Computer Programmers,Train subordinates in programming and program coding.,0.40,training requires live interaction and mentorship
+21049,Computer Programmers,Develop Web sites.,0.90,web development coding task
+21050,Computer Programmers,Train users on the use and function of computer programs.,0.50,user training requires interaction
+1280,Computer Programmers,Collaborate with computer manufacturers and other users to develop new programming methods.,0.55,collaborative development work with external parties
+21662,Software Developers,Analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,0.85,requirements analysis task
+21669,Software Developers,"Develop or direct software system testing or validation procedures, programming, or documentation.",0.90,test procedure development
+21664,Software Developers,"Confer with systems analysts, engineers, programmers and others to design systems and to obtain information on project limitations and capabilities, performance requirements and interfaces.",0.55,requires conferring with team members
+21670,Software Developers,"Modify existing software to correct errors, adapt it to new hardware, or upgrade interfaces and improve performance.",0.90,software modification coding task
+21673,Software Developers,"Prepare reports or correspondence concerning project specifications, activities, or status.",0.90,status report writing
+21661,Software Developers,"Analyze information to determine, recommend, and plan installation of a new system or modification of an existing system.",0.85,system analysis and recommendation
+21676,Software Developers,"Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",0.90,data manipulation task
+21667,Software Developers,"Design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcomes and consequences of design.",0.90,software design using analysis and modeling
+21668,Software Developers,Determine system performance standards.,0.80,standards determination task
+21665,Software Developers,"Consult with customers or other departments on project status, proposals, or technical issues, such as software system design or maintenance.",0.50,customer consultation requiring live interaction
+21663,Software Developers,Confer with data processing or project managers to obtain information on limitations or capabilities for data processing projects.,0.50,conferring with managers requires live interaction
+21671,Software Developers,Monitor functioning of equipment to ensure system operates in conformance with specifications.,0.75,remote equipment monitoring task
+21666,Software Developers,Coordinate installation of software system.,0.65,coordination of software installation
+21678,Software Developers,"Supervise the work of programmers, technologists and technicians and other engineering and scientific personnel.",0.25,supervisory authority over personnel
+21677,Software Developers,"Supervise and assign work to programmers, designers, technologists, technicians, or other engineering or scientific personnel.",0.25,supervisory work assignment requires authority
+21672,Software Developers,"Obtain and evaluate information on factors such as reporting formats required, costs, or security needs to determine hardware configuration.",0.80,analysis to determine hardware configuration
+21679,Software Developers,Train users to use new or modified equipment.,0.40,training on physical equipment use
+14642,Software Quality Assurance Analysts and Testers,"Identify, analyze, and document problems with program function, output, online screen, or content.",0.90,QA analysis and documentation
+14641,Software Quality Assurance Analysts and Testers,"Document software defects, using a bug tracking system, and report defects to software developers.",0.90,defect documentation task
+14640,Software Quality Assurance Analysts and Testers,"Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.",0.90,test program development
+14638,Software Quality Assurance Analysts and Testers,"Design test plans, scenarios, scripts, or procedures.",0.90,test planning task
+14648,Software Quality Assurance Analysts and Testers,Document test procedures to ensure replicability and compliance with standards.,0.90,test procedure documentation
+14653,Software Quality Assurance Analysts and Testers,Provide feedback and recommendations to developers on software usability and functionality.,0.85,feedback and recommendations task
+14652,Software Quality Assurance Analysts and Testers,"Install, maintain, or use software testing programs.",0.85,software testing tool usage
+14639,Software Quality Assurance Analysts and Testers,Test system modifications to prepare for implementation.,0.90,system modification testing
+14644,Software Quality Assurance Analysts and Testers,Create or maintain databases of known test defects.,0.90,defect database maintenance
+14649,Software Quality Assurance Analysts and Testers,"Develop or specify standards, methods, or procedures to determine product quality or release readiness.",0.80,standards specification task
+14643,Software Quality Assurance Analysts and Testers,Monitor bug resolution efforts and track successes.,0.85,bug tracking and monitoring
+14650,Software Quality Assurance Analysts and Testers,Update automated test scripts to ensure currency.,0.90,test script maintenance
+14646,Software Quality Assurance Analysts and Testers,"Participate in product design reviews to provide input on functional requirements, product designs, schedules, or potential problems.",0.55,participation in design review meetings
+14645,Software Quality Assurance Analysts and Testers,Plan test schedules or strategies in accordance with project scope or delivery dates.,0.85,test schedule planning
+14654,Software Quality Assurance Analysts and Testers,Monitor program performance to ensure efficient and problem-free operations.,0.85,performance monitoring task
+14655,Software Quality Assurance Analysts and Testers,"Conduct software compatibility tests with programs, hardware, operating systems, or network environments.",0.85,compatibility testing task
+14651,Software Quality Assurance Analysts and Testers,Investigate customer problems referred by technical support.,0.70,customer problem investigation
+14647,Software Quality Assurance Analysts and Testers,"Review software documentation to ensure technical accuracy, compliance, or completeness, or to mitigate risks.",0.90,documentation review task
+14658,Software Quality Assurance Analysts and Testers,"Identify program deviance from standards, and suggest modifications to ensure compliance.",0.85,compliance deviation identification
+14661,Software Quality Assurance Analysts and Testers,"Perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",0.90,debugging via log review
+14659,Software Quality Assurance Analysts and Testers,Design or develop automated testing tools.,0.90,automated testing tool development
+14656,Software Quality Assurance Analysts and Testers,Install and configure recreations of software production environments to allow testing of software performance.,0.85,test environment configuration
+14657,Software Quality Assurance Analysts and Testers,Collaborate with field staff or customers to evaluate or diagnose problems and recommend possible solutions.,0.55,collaboration with field staff or customers
+14660,Software Quality Assurance Analysts and Testers,Coordinate user or third-party testing.,0.55,coordination of human testers
+14662,Software Quality Assurance Analysts and Testers,Visit beta testing sites to evaluate software performance.,0.10,requires physical site visit
+14664,Software Quality Assurance Analysts and Testers,Conduct historical analyses of test results.,0.90,historical data analysis
+14663,Software Quality Assurance Analysts and Testers,Evaluate or recommend software for testing or bug tracking.,0.85,software evaluation and recommendation
+21680,Software Quality Assurance Analysts and Testers,"Modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",0.90,software modification task
+21681,Software Quality Assurance Analysts and Testers,"Recommend purchase of equipment to control dust, temperature, or humidity in area of system installation.",0.45,facility equipment recommendation may need site assessment
+21682,Software Quality Assurance Analysts and Testers,"Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",0.90,data manipulation task
+14707,Web Developers,Write supporting code for Web applications or Web sites.,0.90,coding task
+14694,Web Developers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",0.90,website design and build task
+14698,Web Developers,Back up files from Web sites to local directories for instant recovery in case of problems.,0.85,website backup task
+14711,Web Developers,"Select programming languages, design tools, or applications.",0.85,tool selection task
+14700,Web Developers,"Evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.",0.90,code evaluation task
+14704,Web Developers,Develop databases that support Web applications and Web sites.,0.90,database development task
+14710,Web Developers,"Perform Web site tests according to planned schedules, or after any Web site or product revision.",0.90,website testing task
+14695,Web Developers,Perform or direct Web site updates.,0.85,website update task

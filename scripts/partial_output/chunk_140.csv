@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+23748,Shuttle Drivers and Chauffeurs,"Prepare and submit reports that may include the number of passengers or trips, hours worked, mileage driven fuel consumed, or fares received.",0.85,report compilation from trip data
+23741,Shuttle Drivers and Chauffeurs,Notify dispatchers or company mechanics of vehicle problems.,0.15,requires physical presence to detect vehicle issues
+23749,Shuttle Drivers and Chauffeurs,"Provide passengers with assistance entering and exiting vehicles, and help them with any luggage.",0.00,physical passenger assistance
+23735,Shuttle Drivers and Chauffeurs,"Communicate with dispatchers by radio, telephone, or computer to exchange information and receive requests for passenger service.",0.35,dispatch coordination tied to driving role
+23747,Shuttle Drivers and Chauffeurs,"Pick up or meet passengers according to requests, appointments, or schedules.",0.00,physical pickup driving
+23732,Shuttle Drivers and Chauffeurs,Arrange to pick up particular customers or groups on a regular schedule.,0.75,scheduling arrangement admin work
+23755,Shuttle Drivers and Chauffeurs,"Report delays, accidents, or other traffic and transportation situations, using telephones or mobile two-way radios.",0.10,requires on-road observation of conditions
+23736,Shuttle Drivers and Chauffeurs,Complete accident reports when necessary.,0.70,report writing from incident facts
+23751,Shuttle Drivers and Chauffeurs,Read maps and follow written and verbal geographic directions.,0.10,navigation tied to physical driving
+23740,Shuttle Drivers and Chauffeurs,Maintain knowledge of first-aid procedures.,0.05,knowledge for physical emergency response
+23753,Shuttle Drivers and Chauffeurs,"Regulate heating, lighting, and ventilation systems for passenger comfort.",0.05,requires physical presence in vehicle
+23752,Shuttle Drivers and Chauffeurs,Record vehicle routes.,0.75,route logging from data
+23757,Shuttle Drivers and Chauffeurs,"Vacuum and clean interiors, and wash and polish exteriors of automobiles.",0.00,physical cleaning
+23750,Shuttle Drivers and Chauffeurs,"Provide passengers with information or advice about the local area, points of interest, hotels, or restaurants.",0.55,information delivery typically in person
+23734,Shuttle Drivers and Chauffeurs,"Collect fares or vouchers from passengers, and make change or issue receipts as necessary.",0.05,physical cash handling
+23744,Shuttle Drivers and Chauffeurs,"Perform minor vehicle repairs, such as cleaning spark plugs, or take vehicles to mechanics for servicing.",0.00,physical repair or transport
+23743,Shuttle Drivers and Chauffeurs,"Perform errands for customers or employers, such as delivering or picking up mail and packages.",0.00,physical delivery errands
+23758,Taxi Drivers,"Collect fares or vouchers from passengers, and make change or issue receipts as necessary.",0.05,physical cash handling
+23759,Taxi Drivers,"Communicate with dispatchers by radio, telephone, or computer to exchange information and receive requests for passenger service.",0.35,dispatch coordination tied to driving role
+23760,Taxi Drivers,Complete accident reports when necessary.,0.70,report writing from incident facts
+23761,Taxi Drivers,"Determine fares based on trip distances and times, using taximeters and fee schedules, and announce fares to passengers.",0.45,fare calc automatable but announcing needs in-vehicle presence
+23762,Taxi Drivers,Drive taxicabs or privately owned vehicles to transport passengers.,0.00,core physical driving
+23763,Taxi Drivers,"Follow relevant safety regulations and state laws governing vehicle operation, and ensure that passengers follow safety regulations.",0.05,physical enforcement while driving
+23764,Taxi Drivers,Notify dispatchers or company mechanics of vehicle problems.,0.15,requires physical presence to detect vehicle issues
+23765,Taxi Drivers,"Perform minor vehicle repairs, such as cleaning spark plugs, or take vehicles to mechanics for servicing.",0.00,physical repair or transport
+23766,Taxi Drivers,"Perform routine vehicle maintenance, such as regulating tire pressure and adding gasoline, oil, and water.",0.00,physical vehicle maintenance
+23767,Taxi Drivers,"Pick up passengers at prearranged locations, at taxi stands, or by cruising streets in high-traffic areas.",0.00,physical pickup driving
+23768,Taxi Drivers,"Provide passengers with assistance entering and exiting vehicles, and help them with any luggage.",0.00,physical passenger assistance
+23769,Taxi Drivers,"Provide passengers with information or advice about the local area, points of interest, hotels, or restaurants.",0.55,information delivery typically in person
+23770,Taxi Drivers,Report to taxicab services or garages to receive vehicle assignments.,0.00,requires physical presence at garage
+23771,Taxi Drivers,"Test vehicle equipment, such as lights, brakes, horns, or windshield wipers, to ensure proper operation.",0.00,physical equipment testing
+23772,Taxi Drivers,"Turn the taximeter on when passengers enter the cab, and turn it off when they reach the final destination.",0.00,physical action in vehicle
+23773,Taxi Drivers,Vacuum and clean interiors and wash and polish exteriors of automobiles.,0.00,physical cleaning
+12752,Locomotive Engineers,"Interpret train orders, signals, or railroad rules and regulations that govern the operation of locomotives.",0.15,real time interpretation while operating from cab
+12754,Locomotive Engineers,"Confer with conductors or traffic control center personnel via radiophones to issue or receive information concerning stops, delays, or oncoming trains.",0.30,real time radio coordination
+12753,Locomotive Engineers,"Receive starting signals from conductors and use controls such as throttles or air brakes to drive electric, diesel-electric, steam, or gas turbine-electric locomotives.",0.00,physical operation of controls
+12750,Locomotive Engineers,"Monitor gauges or meters that measure speed, amperage, battery charge, or air pressure in brake lines or in main reservoirs.",0.05,requires physical presence in cab to monitor
+12751,Locomotive Engineers,Observe tracks to detect obstructions.,0.05,requires physical presence to observe tracks
+12758,Locomotive Engineers,Call out train signals to assistants to verify meanings.,0.05,physical vocal signal verification in cab
+12755,Locomotive Engineers,Operate locomotives to transport freight or passengers between stations or to assemble or disassemble trains within rail yards.,0.00,physical operation of locomotive
+12757,Locomotive Engineers,Check to ensure that brake examination tests are conducted at shunting stations.,0.10,verification requires physical presence at yard
+12756,Locomotive Engineers,"Respond to emergency conditions or breakdowns, following applicable safety procedures and rules.",0.00,physical emergency response
+12759,Locomotive Engineers,"Inspect locomotives to verify adequate fuel, sand, water, or other supplies before each run or to check for mechanical problems.",0.00,physical inspection before run
+12762,Locomotive Engineers,Inspect locomotives after runs to detect damaged or defective equipment.,0.00,physical inspection after run
+12760,Locomotive Engineers,"Prepare reports regarding any problems encountered, such as accidents, signaling problems, unscheduled stops, or delays.",0.75,report writing from incident data
+12761,Locomotive Engineers,"Check to ensure that documentation, such as procedure manuals or logbooks, are in the driver's cab and available for staff use.",0.05,physical check in cab
+12764,Locomotive Engineers,Monitor train loading procedures to ensure that freight or rolling stock are loaded or unloaded without damage.,0.05,on site monitoring of loading
+10667,"Rail Yard Engineers, Dinkey Operators, and Hostlers","Observe and respond to wayside and cab signals, including color light signals, position signals, torpedoes, flags, and hot box detectors.",0.00,requires physical presence to observe signals
+10669,"Rail Yard Engineers, Dinkey Operators, and Hostlers",Inspect engines before and after use to ensure proper operation.,0.00,physical inspection of engines
+10670,"Rail Yard Engineers, Dinkey Operators, and Hostlers",Apply and release hand brakes.,0.00,physical brake action
+10666,"Rail Yard Engineers, Dinkey Operators, and Hostlers","Signal crew members for movement of engines or trains, using lanterns, hand signals, radios, or telephones.",0.10,mostly physical signaling with hand tools
+10665,"Rail Yard Engineers, Dinkey Operators, and Hostlers",Confer with conductors and other workers via radiotelephones or computers to exchange switching information.,0.30,real time radio coordination
+10675,"Rail Yard Engineers, Dinkey Operators, and Hostlers",Inspect track for defects such as broken rails and switch malfunctions.,0.00,physical track inspection
+10673,"Rail Yard Engineers, Dinkey Operators, and Hostlers","Observe water levels and oil, air, and steam pressure gauges to ensure proper operation of equipment.",0.00,requires physical presence to observe gauges
+10679,"Rail Yard Engineers, Dinkey Operators, and Hostlers",Couple and uncouple air hoses and electrical connections between cars.,0.00,physical coupling of hoses and connections
+10668,"Rail Yard Engineers, Dinkey Operators, and Hostlers","Drive engines within railroad yards or other establishments to couple, uncouple, or switch railroad cars.",0.00,physical driving of yard engines
+10672,"Rail Yard Engineers, Dinkey Operators, and Hostlers","Inspect the condition of stationary trains, rolling stock, and equipment.",0.00,physical inspection of rolling stock
+10671,"Rail Yard Engineers, Dinkey Operators, and Hostlers","Read switching instructions and daily car schedules to determine work to be performed, or receive orders from yard conductors.",0.15,reading instructions tied to physical yard work
+10678,"Rail Yard Engineers, Dinkey Operators, and Hostlers","Receive, relay, and act upon instructions and inquiries from train operations and customer service center personnel.",0.25,relay communication but acting needs physical presence
+10674,"Rail Yard Engineers, Dinkey Operators, and Hostlers",Spot cars for loading and unloading at customer locations.,0.00,physical spotting of cars
+10677,"Rail Yard Engineers, Dinkey Operators, and Hostlers","Operate track switches, derails, automatic switches, and retarders to change routing of train or cars.",0.00,physical operation of switches
+10680,"Rail Yard Engineers, Dinkey Operators, and Hostlers","Report arrival and departure times, train delays, work order completion, and time on duty.",0.80,reporting from operational data
+10685,"Rail Yard Engineers, Dinkey Operators, and Hostlers",Perform routine repair and maintenance duties.,0.00,physical repair and maintenance
+10683,"Rail Yard Engineers, Dinkey Operators, and Hostlers","Drive locomotives to and from various stations in roundhouses to have locomotives cleaned, serviced, repaired, or supplied.",0.00,physical driving to roundhouse
+10681,"Rail Yard Engineers, Dinkey Operators, and Hostlers",Pull knuckles to open them for coupling.,0.00,physical coupling action
+10682,"Rail Yard Engineers, Dinkey Operators, and Hostlers","Provide assistance in aligning drawbars, using available equipment to lift, pull, or push on the drawbars.",0.00,physical drawbar alignment
+10676,"Rail Yard Engineers, Dinkey Operators, and Hostlers",Ride on moving cars by holding onto grab irons and standing on ladder steps.,0.00,physical riding on moving cars
+10684,"Rail Yard Engineers, Dinkey Operators, and Hostlers","Record numbers of cars available, numbers of cars sent to repair stations, and types of service needed.",0.80,record keeping from operational data
+10687,"Rail Yard Engineers, Dinkey Operators, and Hostlers",Operate flatcars equipped with derricks or railcars to transport personnel or equipment.,0.00,physical operation of flatcars
+10688,"Rail Yard Engineers, Dinkey Operators, and Hostlers",Provide assistance in the installation or repair of rails and ties.,0.00,physical installation and repair
+23774,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",Observe train signals along routes and verify their meanings for engineers.,0.00,requires physical presence to observe signals
+23775,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers","Signal locomotive engineers to start or stop trains when coupling or uncoupling cars, using hand signals, lanterns, or radio communication.",0.10,mostly physical signaling with some radio
+23776,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",Pull or push track switches to reroute cars.,0.00,physical switch operation
+23777,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",Observe signals from other crew members so that work activities can be coordinated.,0.00,requires physical presence to observe crew signals
+23778,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",Monitor trains as they go around curves to detect dragging equipment and smoking journal boxes.,0.00,requires physical presence to monitor train
+23779,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers","Inspect couplings, air hoses, journal boxes, and handbrakes to ensure that they are securely fastened and functioning properly.",0.00,physical inspection of couplings and brakes
+23780,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",Observe tracks from left sides of locomotives to detect obstructions on tracks.,0.00,requires physical presence to observe tracks
+23781,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",Operate locomotives in emergency situations.,0.00,physical emergency operation
+23782,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",Raise levers to couple and uncouple cars for makeup and breakup of trains.,0.00,physical coupling lever action
+23783,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",Climb ladders to tops of cars to set brakes.,0.00,physical climbing to set brakes
+23784,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",Receive oral or written instructions from yardmasters or yard conductors indicating track assignments and cars to be switched.,0.15,instructions tied to physical yard work
+23785,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",Inspect locomotives to detect damaged or worn parts.,0.00,physical inspection of locomotives
+23786,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",Signal other workers to set brakes and to throw track switches when switching cars from trains to way stations.,0.00,physical signaling to workers
+23787,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers","Check to see that trains are equipped with supplies such as fuel, water, and sand.",0.00,physical supply check
+23788,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers","Monitor oil, temperature, and pressure gauges on dashboards to determine if engines are operating safely and efficiently.",0.00,requires physical presence to monitor gauges
+23789,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers","Set flares, flags, lanterns, or torpedoes in front and at rear of trains during emergency stops to warn oncoming trains.",0.00,physical placement of warning devices
+23790,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers","Inspect tracks, cars, and engines for defects and to determine service needs, sending engines and cars for repairs as necessary.",0.05,mostly physical inspection with minor admin component
+23791,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",Start diesel engines to warm engines before runs.,0.00,physical engine start
+23792,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers","Make minor repairs to couplings, air hoses, and journal boxes, using hand tools.",0.00,physical hand tool repair
+23793,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers","Connect air hoses to cars, using wrenches.",0.00,physical hose connection
+23794,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers","Operate and drive locomotives, diesel switch engines, dinkey engines, flatcars, and railcars in train yards and at industrial sites.",0.00,physical operation of locomotives
+23795,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",Refuel and lubricate engines.,0.00,physical refueling and lubrication
+23796,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers","Ride atop cars that have been shunted, and turn handwheels to control speeds or stop cars at specified positions.",0.00,physical riding and handwheel control
+23798,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers","Record numbers of cars available, numbers of cars sent to repair stations, and types of service needed.",0.80,record keeping from operational data
+23799,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",Provide passengers with assistance entering and exiting trains.,0.00,physical passenger assistance
+23801,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",Conduct brake tests to determine the condition of brakes on trains.,0.00,physical brake testing
+10690,Railroad Conductors and Yardmasters,"Signal engineers to begin train runs, stop trains, or change speed, using telecommunications equipment or hand signals.",0.10,mostly physical or hand signaling with some telecom
+10699,Railroad Conductors and Yardmasters,"Confer with engineers regarding train routes, timetables, and cargoes, and to discuss alternative routes when there are rail defects or obstructions.",0.25,coordination discussion requiring human judgment
+10691,Railroad Conductors and Yardmasters,Receive information regarding train or rail problems from dispatchers or from electronic monitoring devices.,0.70,receiving electronic or dispatcher info is pure info work
+10697,Railroad Conductors and Yardmasters,"Receive instructions from dispatchers regarding trains' routes, timetables, and cargoes.",0.65,receiving instructions is pure info work
+10692,Railroad Conductors and Yardmasters,"Direct and instruct workers engaged in yard activities, such as switching tracks, coupling and uncoupling cars, and routing inbound and outbound traffic.",0.15,supervisory direction requires physical presence and authority
+10694,Railroad Conductors and Yardmasters,Operate controls to activate track switches and traffic signals.,0.00,physical operation of switch controls
+10693,Railroad Conductors and Yardmasters,"Keep records of the contents and destination of each train car, and make sure that cars are added or removed at proper points on routes.",0.35,recordkeeping mixed with physical verification
+10700,Railroad Conductors and Yardmasters,Arrange for the removal of defective cars from trains at stations or stops.,0.35,arranging removal requires physical execution by others
+10696,Railroad Conductors and Yardmasters,"Direct engineers to move cars to fit planned train configurations, combining or separating cars to make up or break up trains.",0.20,directing physical crew work
+10701,Railroad Conductors and Yardmasters,Inspect each car periodically during runs.,0.00,physical inspection during runs
+10698,Railroad Conductors and Yardmasters,"Review schedules, switching orders, way bills, and shipping records to obtain cargo loading and unloading information and to plan work.",0.80,document review and work planning is pure info work
+10704,Railroad Conductors and Yardmasters,Confirm routes and destination information for freight cars.,0.70,verification against records
+10710,Railroad Conductors and Yardmasters,Verify accuracy of timekeeping instruments with engineers to ensure trains depart on time.,0.20,coordination requiring physical presence
+10703,Railroad Conductors and Yardmasters,"Document and prepare reports of accidents, unscheduled stops, or delays.",0.75,report writing from incident data
+10695,Railroad Conductors and Yardmasters,Instruct workers to set warning signals in front and at rear of trains during emergency stops.,0.10,instructing on site crew during emergency
+10702,Railroad Conductors and Yardmasters,Observe yard traffic to determine tracks available to accommodate inbound and outbound traffic.,0.20,yard observation could use sensor feed but mostly on site
+10706,Railroad Conductors and Yardmasters,Supervise workers in the inspection and maintenance of mechanical equipment to ensure efficient and safe train operation.,0.10,supervisory oversight of physical work
+10705,Railroad Conductors and Yardmasters,"Supervise and coordinate crew activities to transport freight and passengers and to provide boarding, porter, maid, and meal services to passengers.",0.05,physical supervision and service accountability
+10707,Railroad Conductors and Yardmasters,"Record departure and arrival times, messages, tickets and revenue collected, and passenger accommodations and destinations.",0.80,record keeping from operational data
+10708,Railroad Conductors and Yardmasters,"Inspect freight cars for compliance with sealing procedures, and record car numbers and seal numbers.",0.15,physical inspection required though recording could be automated
+12767,Subway and Streetcar Operators,Monitor lights indicating obstructions or other trains ahead and watch for car and truck traffic at crossings to stay alert to potential hazards.,0.00,requires physical presence to monitor signals and traffic
+12765,Subway and Streetcar Operators,Operate controls to open and close transit vehicle doors.,0.00,physical door control
+12766,Subway and Streetcar Operators,"Drive and control rail-guided public transportation, such as subways, elevated trains, and electric-powered streetcars, trams, or trolleys, to transport passengers.",0.00,physical driving of transit vehicle
+12770,Subway and Streetcar Operators,"Report delays, mechanical problems, and emergencies to supervisors or dispatchers, using radios.",0.15,requires physical presence to detect problems
+12769,Subway and Streetcar Operators,Regulate vehicle speed and the time spent at each stop to maintain schedules.,0.00,physical speed control to maintain schedule
+12771,Subway and Streetcar Operators,"Make announcements to passengers, such as notifications of upcoming stops or schedule delays.",0.80,automated announcements are pure info broadcast
+12768,Subway and Streetcar Operators,Direct emergency evacuation procedures.,0.05,requires physical presence and safety accountability
+12772,Subway and Streetcar Operators,"Complete reports, including shift summaries and incident or accident reports.",0.75,report writing from shift data
+12773,Subway and Streetcar Operators,"Greet passengers, provide information, and answer questions concerning fares, schedules, transfers, and routings.",0.55,information Q&A typically delivered in person
+12774,Subway and Streetcar Operators,Attend meetings on driver and passenger safety to learn ways in which job performance might be affected.,0.05,requires physical attendance and human accountability
+14482,Sailors and Marine Oilers,"Tie barges together into tow units for tugboats to handle, inspecting barges periodically during voyages and disconnecting them when destinations are reached.",0.00,physical mooring and inspection of barges
+14479,Sailors and Marine Oilers,Attach hoses and operate pumps to transfer substances to and from liquid cargo tanks.,0.00,physical hose and pump operation
+14461,Sailors and Marine Oilers,"Handle lines to moor vessels to wharfs, to tie up vessels to other vessels, or to rig towing lines.",0.00,physical line handling to moor vessels
+14475,Sailors and Marine Oilers,Read pressure and temperature gauges or displays and record data in engineering logs.,0.10,requires physical presence to read gauges though recording is easy

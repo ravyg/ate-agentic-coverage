@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+716,Retail Salespersons,"Estimate quantity and cost of merchandise required, such as paint or floor covering.",0.85,estimation from specs and pricing data
+717,Retail Salespersons,Rent merchandise to customers.,0.20,requires physical handoff of merchandise
+718,Insurance Sales Agents,"Call on policyholders to deliver and explain policy, to analyze insurance program and suggest additions or changes, or to change beneficiaries.",0.50,client explanation and program changes need rapport
+719,Insurance Sales Agents,Calculate premiums and establish payment method.,0.90,premium calculation and payment setup is procedural
+720,Insurance Sales Agents,"Customize insurance programs to suit individual customers, often covering a variety of risks.",0.85,analytical customization based on client data
+721,Insurance Sales Agents,"Sell various types of insurance policies to businesses and individuals on behalf of insurance companies, including automobile, fire, life, property, medical and dental insurance, or specialized polici",0.35,licensed sales requires authority and rapport
+722,Insurance Sales Agents,"Interview prospective clients to obtain data about their financial resources and needs, the physical condition of the person or property to be insured, and to discuss any existing coverage.",0.45,live client interview to gather personal data
+723,Insurance Sales Agents,Seek out new clients and develop clientele by networking to find new customers and generate lists of prospective clients.,0.30,networking requires human relationship building
+724,Insurance Sales Agents,"Explain features, advantages, and disadvantages of various policies to promote sale of insurance plans.",0.75,"informational explanation, automatable via chat"
+725,Insurance Sales Agents,Contact underwriter and submit forms to obtain binder coverage.,0.80,administrative submission of forms to underwriter
+726,Insurance Sales Agents,"Ensure that policy requirements are fulfilled, including any necessary medical examinations and the completion of appropriate forms.",0.35,includes coordinating physical medical exam
+727,Insurance Sales Agents,Confer with clients to obtain and provide information when claims are made on a policy.,0.65,client communication mostly info exchange
+728,Insurance Sales Agents,"Perform administrative tasks, such as maintaining records and handling policy renewals.",0.90,routine administrative record keeping
+729,Insurance Sales Agents,Select company that offers type of coverage requested by client to underwrite policy.,0.75,analytical selection with decision support
+730,Insurance Sales Agents,Monitor insurance claims to ensure they are settled equitably for both the client and the insurer.,0.50,fiduciary judgment balancing both parties
+731,Insurance Sales Agents,Develop marketing strategies to compete with other individuals or companies who sell insurance.,0.85,strategic analysis and content creation
+732,Insurance Sales Agents,"Attend meetings, seminars, and programs to learn about new products and services, learn new skills, and receive technical assistance in developing new accounts.",0.20,requires attending in-person events
+733,Insurance Sales Agents,"Inspect property, examining its general condition, type of construction, age, and other characteristics, to decide if it is a good insurance risk.",0.10,physical on-site property inspection
+734,Insurance Sales Agents,Install bookkeeping systems and resolve system problems.,0.75,software setup and troubleshooting
+735,Insurance Sales Agents,Plan and oversee incorporation of insurance program into bookkeeping system of company.,0.75,planning and systems integration info work
+736,Insurance Sales Agents,Explain necessary bookkeeping requirements for customer to implement and provide group insurance program.,0.75,explanatory communication task
+737,Travel Agents,Collect payment for transportation and accommodations from customer.,0.75,payment processing largely digital
+738,Travel Agents,"Converse with customer to determine destination, mode of transportation, travel dates, financial considerations, and accommodations required.",0.65,transactional conversation via chat or phone
+739,Travel Agents,"Compute cost of travel and accommodations, using calculator, computer, carrier tariff books, and hotel rate books, or quote package tour's costs.",0.90,computational cost lookup task
+740,Travel Agents,"Book transportation and hotel reservations, using computer or telephone.",0.80,digital booking via computer systems
+741,Travel Agents,"Plan, describe, arrange, and sell itinerary tour packages and promotional travel incentives offered by various travel carriers.",0.80,planning and sales content creation
+742,Travel Agents,"Provide customer with brochures and publications containing travel information, such as local customs, points of interest, or foreign country regulations.",0.90,information delivery task
+743,Travel Agents,"Print or request transportation carrier tickets, using computer printer system or system link to travel carrier.",0.80,mostly digital ticket issuance
+744,Receptionists and Information Clerks,"Operate telephone switchboard to answer, screen, or forward calls, providing information, taking messages, or scheduling appointments.",0.75,phone handling automatable via voice AI
+745,Receptionists and Information Clerks,Receive payment and record receipts for services.,0.55,may involve in-person cash handling
+746,Receptionists and Information Clerks,"Perform administrative support tasks, such as proofreading, transcribing handwritten information, or operating calculators or computers to work with pay records, invoices, balance sheets, or other doc",0.90,administrative and clerical information work
+747,Receptionists and Information Clerks,"Greet persons entering establishment, determine nature and purpose of visit, and direct or escort them to specific destinations.",0.05,requires physical presence to greet and escort
+748,Receptionists and Information Clerks,Hear and resolve complaints from customers or the public.,0.55,customer service communication needing authority
+749,Receptionists and Information Clerks,File and maintain records.,0.90,record filing and maintenance
+750,Receptionists and Information Clerks,"Transmit information or documents to customers, using computer, mail, or facsimile machine.",0.80,mostly digital transmission of documents
+751,Receptionists and Information Clerks,Schedule appointments and maintain and update appointment calendars.,0.85,calendar scheduling task
+752,Receptionists and Information Clerks,Analyze data to determine answers to questions from customers or members of the public.,0.85,data analysis to answer questions
+753,Receptionists and Information Clerks,"Provide information about establishment, such as location of departments or offices, employees within the organization, or services provided.",0.85,informational lookup and communication
+754,Receptionists and Information Clerks,Keep a current record of staff members' whereabouts and availability.,0.55,requires real time tracking of physical presence
+755,Receptionists and Information Clerks,"Collect, sort, distribute, or prepare mail, messages, or courier deliveries.",0.15,physical mail handling and delivery
+756,Receptionists and Information Clerks,"Calculate and quote rates for tours, stocks, insurance policies, or other products or services.",0.90,rate calculation and quoting
+757,Receptionists and Information Clerks,Take orders for merchandise or materials and send them to the proper departments to be filled.,0.85,order intake and routing info task
+758,Receptionists and Information Clerks,"Process and prepare memos, correspondence, travel vouchers, or other documents.",0.90,document preparation and writing
+759,Receptionists and Information Clerks,Schedule space or equipment for special programs and prepare lists of participants.,0.85,scheduling and list preparation
+760,Receptionists and Information Clerks,Enroll individuals to participate in programs and notify them of their acceptance.,0.85,enrollment processing and notification
+762,Receptionists and Information Clerks,"Perform duties, such as taking care of plants or straightening magazines to maintain lobby or reception area.",0.00,physical tidying task
+764,Legal Secretaries and Administrative Assistants,"Mail, fax, or arrange for delivery of legal correspondence to clients, witnesses, and court officials.",0.75,"coordination task, mostly digital arrangement"
+765,Legal Secretaries and Administrative Assistants,Receive and place telephone calls.,0.65,phone calls automatable via voice AI
+766,Legal Secretaries and Administrative Assistants,Schedule and make appointments.,0.85,appointment scheduling task
+767,Legal Secretaries and Administrative Assistants,"Make photocopies of correspondence, documents, and other printed matter.",0.05,physical photocopying task
+768,Legal Secretaries and Administrative Assistants,"Organize and maintain law libraries, documents, and case files.",0.65,"digital document organization, some physical library work"
+769,Legal Secretaries and Administrative Assistants,"Assist attorneys in collecting information such as employment, medical, and other records.",0.75,information gathering and record requests
+770,Legal Secretaries and Administrative Assistants,"Attend legal meetings, such as client interviews, hearings, or depositions, and take notes.",0.15,requires physical attendance at legal proceedings
+771,Legal Secretaries and Administrative Assistants,Draft and type office memos.,0.95,drafting text task
+772,Legal Secretaries and Administrative Assistants,Review legal publications and perform database searches to identify laws and court decisions relevant to pending cases.,0.90,legal research task
+773,Legal Secretaries and Administrative Assistants,Submit articles and information from searches to attorneys for review and approval for use.,0.85,submission of research materials for review
+774,Legal Secretaries and Administrative Assistants,"Complete various forms, such as accident reports, trial and courtroom requests, and applications for clients.",0.85,form completion task
+775,Medical Secretaries and Administrative Assistants,"Schedule and confirm patient diagnostic appointments, surgeries, or medical consultations.",0.85,appointment scheduling task
+776,Medical Secretaries and Administrative Assistants,"Compile and record medical charts, reports, or correspondence, using typewriter or personal computer.",0.90,documentation and record compiling
+777,Medical Secretaries and Administrative Assistants,Answer telephones and direct calls to appropriate staff.,0.70,phone call routing automatable via voice AI
+778,Medical Secretaries and Administrative Assistants,"Receive and route messages or documents, such as laboratory results, to appropriate staff.",0.85,message and document routing
+779,Medical Secretaries and Administrative Assistants,"Greet visitors, ascertain purpose of visit, and direct them to appropriate staff.",0.10,requires physical presence to greet visitors
+780,Medical Secretaries and Administrative Assistants,"Interview patients to complete documents, case histories, or forms, such as intake or insurance forms.",0.55,intake interview partly automatable via digital forms
+781,Medical Secretaries and Administrative Assistants,"Maintain medical records, technical library, or correspondence files.",0.90,digital record maintenance
+782,Medical Secretaries and Administrative Assistants,"Operate office equipment, such as voice mail messaging systems, and use word processing, spreadsheet, or other software applications to prepare reports, invoices, financial statements, letters, case h",0.80,mostly software based document preparation
+783,Medical Secretaries and Administrative Assistants,"Transmit correspondence or medical records by mail, e-mail, or fax.",0.75,mostly digital transmission channels
+784,Medical Secretaries and Administrative Assistants,"Perform various clerical or administrative functions, such as ordering and maintaining an inventory of supplies.",0.65,digital ordering with physical inventory check
+786,Medical Secretaries and Administrative Assistants,Transcribe recorded messages or practitioners' diagnoses or recommendations into patients' medical records.,0.90,transcription task agent excels
+787,Medical Secretaries and Administrative Assistants,"Perform bookkeeping duties, such as credits or collections, preparing and sending financial statements or bills, and keeping financial records.",0.85,bookkeeping and financial record task
+788,Medical Secretaries and Administrative Assistants,Complete insurance or other claim forms.,0.90,form completion task
+789,Medical Secretaries and Administrative Assistants,"Prepare correspondence or assist physicians or medical scientists with preparation of reports, speeches, articles, or conference proceedings.",0.90,writing and drafting assistance
+790,Word Processors and Typists,"Check completed work for spelling, grammar, punctuation, and format.",0.95,proofreading task agent excels
+791,Word Processors and Typists,"Perform other clerical duties, such as answering telephone, sorting and distributing mail, running errands or sending faxes.",0.35,bundles phone work with physical mail and errands
+792,Word Processors and Typists,"Gather, register, and arrange the material to be typed, following instructions.",0.85,material organization task
+793,Word Processors and Typists,"Type correspondence, reports, text and other written material from rough drafts, corrected copies, voice recordings, dictation, or previous versions, using a computer, word processor, or typewriter.",0.95,typing and transcription agent excels
+794,Word Processors and Typists,"File and store completed documents on computer hard drive or disk, or maintain a computer filing system to store, retrieve, update, and delete documents.",0.95,digital file management task
+795,Word Processors and Typists,Print and make copies of work.,0.20,physical printing and copying task
+796,Word Processors and Typists,Keep records of work performed.,0.90,record keeping task
+797,Word Processors and Typists,"Compute and verify totals on report forms, requisitions, or bills, using adding machine or calculator.",0.95,computation and verification task
+798,Word Processors and Typists,Collate pages of reports and other documents.,0.25,physical assembly of printed pages
+799,Word Processors and Typists,"Electronically sort and compile text and numerical data, retrieving, updating, and merging documents as required.",0.95,electronic data compilation task
+800,Word Processors and Typists,"Reformat documents, moving paragraphs or columns.",0.95,document reformatting task
+801,Word Processors and Typists,"Search for specific sets of stored, typed characters to make changes.",0.95,text search and edit task
+802,Word Processors and Typists,"Adjust settings for format, page layout, line spacing, and other style requirements.",0.95,document formatting task
+803,Word Processors and Typists,"Address envelopes or prepare envelope labels, using typewriter or computer.",0.70,mostly digital label generation task
+804,Word Processors and Typists,"Operate and resupply printers and computers, changing print wheels or fluid cartridges, adding paper, and loading blank tapes, cards, or disks into equipment.",0.00,physical equipment maintenance task
+805,Word Processors and Typists,Transmit work electronically to other locations.,0.95,electronic transmission task
+806,Word Processors and Typists,"Work with technical material, preparing statistical reports, planning and typing statistical tables, and combining and rearranging material from different sources.",0.90,statistical report preparation task
+807,Word Processors and Typists,"Use data entry devices, such as optical scanners, to input data into computers for revision or editing.",0.35,requires physical operation of scanning hardware
+825,"Office Clerks, General","Collect, count, and disburse money, do basic bookkeeping, and complete banking transactions.",0.40,physical cash handling combined with digital bookkeeping
+826,"Office Clerks, General","Communicate with customers, employees, and other individuals to answer questions, disseminate or explain information, take orders, and address complaints.",0.75,communication and info task via chat
+827,"Office Clerks, General","Answer telephones, direct calls, and take messages.",0.70,phone handling automatable via voice AI
+828,"Office Clerks, General","Compile, copy, sort, and file records of office activities, business transactions, and other activities.",0.90,record compiling and filing task
+829,"Office Clerks, General","Complete and mail bills, contracts, policies, invoices, or checks.",0.65,"document completion digital, mailing may be physical"
+830,"Office Clerks, General","Operate office machines, such as photocopiers and scanners, facsimile machines, voice mail systems, and personal computers.",0.25,mostly physical office machine operation
+831,"Office Clerks, General","Compute, record, and proofread data and other information, such as records or reports.",0.90,computation and proofreading task
+832,"Office Clerks, General","Maintain and update filing, inventory, mailing, and database systems, either manually or using a computer.",0.60,mix of digital database and physical filing work
+833,"Office Clerks, General","Open, sort, and route incoming mail, answer correspondence, and prepare outgoing mail.",0.35,bundles physical mail handling with correspondence
+834,"Office Clerks, General","Review files, records, and other documents to obtain information to respond to requests.",0.85,information retrieval task
+835,"Office Clerks, General",Deliver messages and run errands.,0.05,physical delivery and errands task
+836,"Office Clerks, General","Inventory and order materials, supplies, and services.",0.45,physical inventory counting combined with digital ordering
+837,"Office Clerks, General","Complete work schedules, manage calendars, and arrange appointments.",0.85,scheduling task
+838,"Office Clerks, General","Process and prepare documents, such as business or government forms and expense reports.",0.90,document preparation task
+839,"Office Clerks, General",Monitor and direct the work of lower-level clerks.,0.20,requires human supervisory authority over staff
+840,"Office Clerks, General","Type, format, proofread, and edit correspondence and other documents, from notes or dictating machines, using computers or typewriters.",0.95,typing and editing task
+841,"Office Clerks, General","Count, weigh, measure, or organize materials.",0.10,physical counting and measuring task
+842,"Office Clerks, General","Train other staff members to perform work activities, such as using computer applications.",0.30,requires live human training interaction
+843,"Office Clerks, General","Prepare meeting agendas, attend meetings, and record and transcribe minutes.",0.55,meeting attendance though note taking assistable
+844,"Office Clerks, General","Troubleshoot problems involving office equipment, such as computer hardware and software.",0.40,software troubleshooting but hardware needs physical action
+1142,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",Purchase the highest quality merchandise at the lowest possible price and in correct amounts.,0.50,research feasible but purchase commitment needs authority
+1143,"Purchasing Agents, Except Wholesale, Retail, and Farm Products","Prepare purchase orders, solicit bid proposals, and review requisitions for goods and services.",0.85,document preparation task
+1144,"Purchasing Agents, Except Wholesale, Retail, and Farm Products","Research and evaluate suppliers, based on price, quality, selection, service, support, availability, reliability, production and distribution capabilities, and the supplier's reputation and history.",0.90,research and evaluation task
+1145,"Purchasing Agents, Except Wholesale, Retail, and Farm Products","Analyze price proposals, financial reports, and other data and information to determine reasonable prices.",0.90,financial analysis task
+1146,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",Monitor and follow applicable laws and regulations.,0.65,regulatory monitoring and compliance tracking
+1147,"Purchasing Agents, Except Wholesale, Retail, and Farm Products","Negotiate, renegotiate, and administer contracts with suppliers, vendors, and other representatives.",0.35,negotiation requires human relationship and authority
+1148,"Purchasing Agents, Except Wholesale, Retail, and Farm Products","Monitor shipments to ensure that goods come in on time, and resolve problems related to undelivered goods.",0.60,shipment tracking and problem resolution via communication
+1149,"Purchasing Agents, Except Wholesale, Retail, and Farm Products","Confer with staff, users, and vendors to discuss defective or unacceptable goods or services and determine corrective action.",0.50,conferring and deciding corrective action needs judgment
+1150,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",Evaluate and monitor contract performance to ensure compliance with contractual obligations and to determine need for changes.,0.70,contract performance analysis task
+1151,"Purchasing Agents, Except Wholesale, Retail, and Farm Products","Maintain and review computerized or manual records of purchased items, costs, deliveries, product performance, and inventories.",0.85,record maintenance and review task
+1152,"Purchasing Agents, Except Wholesale, Retail, and Farm Products","Review catalogs, industry periodicals, directories, trade journals, and Internet sites and consult with other department personnel to locate necessary goods and services.",0.80,research task with some personnel consultation
+1153,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",Study sales records and inventory levels of current stock to develop strategic purchasing programs that facilitate employee access to supplies.,0.85,data analysis and strategy development
+1154,"Purchasing Agents, Except Wholesale, Retail, and Farm Products","Interview vendors and visit suppliers' plants and distribution centers to examine and learn about products, services, and prices.",0.25,requires physical site visits to supplier plants
+1155,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",Arrange the payment of duty and freight charges.,0.80,payment arrangement administrative task
+1156,"Purchasing Agents, Except Wholesale, Retail, and Farm Products","Hire, train, or supervise purchasing clerks, buyers, and expediters.",0.10,requires human hiring and supervisory authority
+1157,"Purchasing Agents, Except Wholesale, Retail, and Farm Products","Write and review product specifications, maintaining a working technical knowledge of the goods or services to be purchased.",0.85,specification writing task
+1158,"Purchasing Agents, Except Wholesale, Retail, and Farm Products","Monitor changes affecting supply and demand, tracking market conditions, price trends, or futures markets.",0.90,market monitoring and analysis task
+1159,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",Formulate policies and procedures for bid proposals and procurement of goods and services.,0.75,policy drafting task needing organizational adoption
+1160,"Purchasing Agents, Except Wholesale, Retail, and Farm Products","Attend meetings, trade shows, conferences, conventions, and seminars to network with people in other purchasing departments.",0.15,requires in-person attendance and networking
+1209,"Meeting, Convention, and Event Planners","Consult with customers to determine objectives and requirements for events, such as meetings, conferences, and conventions.",0.50,client consultation requiring rapport
+1210,"Meeting, Convention, and Event Planners","Monitor event activities to ensure compliance with applicable regulations and laws, satisfaction of participants, and resolution of any problems that arise.",0.15,requires physical on-site presence during event

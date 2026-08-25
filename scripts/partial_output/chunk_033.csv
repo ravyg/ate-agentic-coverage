@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+22792,Histotechnologists,Supervise histology laboratory activities.,0.15,on-site supervision of lab staff and operations
+22793,Histotechnologists,Teach students or other staff.,0.20,hands-on lab teaching needs physical presence
+22794,Histology Technicians,"Archive diagnostic material, such as histologic slides and blocks.",0.10,mostly physical handling of physical slides
+22795,Histology Technicians,"Cut sections of body tissues for microscopic examination, using microtomes.",0.00,physical manual cutting of tissue with microtome
+22796,Histology Technicians,"Embed tissue specimens into paraffin wax blocks, or infiltrate tissue specimens with wax.",0.00,physical wax embedding of specimens
+22797,Histology Technicians,Freeze tissue specimens.,0.00,physical freezing of tissue specimens
+22798,Histology Technicians,"Maintain laboratory equipment, such as microscopes, mass spectrometers, microtomes, immunostainers, tissue processors, embedding centers, and water baths.",0.00,physical maintenance of lab equipment
+22799,Histology Technicians,Mount tissue specimens on glass slides.,0.00,physical mounting of specimens on slides
+22800,Histology Technicians,"Operate computerized laboratory equipment to dehydrate, decalcify, or microincinerate tissue samples.",0.05,physical loading and operation of lab equipment
+22801,Histology Technicians,Stain tissue specimens with dyes or other chemicals to make cell details visible under microscopes.,0.00,physical staining of tissue with chemicals
+22802,Radiologic Technologists and Technicians,"Review and evaluate developed x-rays, video tape, or computer-generated information to determine if images are satisfactory for diagnostic purposes.",0.55,image quality review is largely analytical
+22803,Radiologic Technologists and Technicians,Operate or oversee operation of radiologic or magnetic imaging equipment to produce images of the body for diagnostic purposes.,0.05,physical operation of imaging equipment on patient
+22804,Radiologic Technologists and Technicians,Position patient on examining table and set up and adjust equipment to obtain optimum view of specific body area as requested by physician.,0.00,physically positioning patient on table
+22805,Radiologic Technologists and Technicians,Process exposed radiographs using film processors or computer generated methods.,0.15,mix of physical film handling and digital processing
+22806,Radiologic Technologists and Technicians,Use radiation safety measures and protection devices to comply with government regulations and to ensure safety of patients and staff.,0.05,physical safety devices and on-site protocols
+22807,Radiologic Technologists and Technicians,"Position imaging equipment and adjust controls to set exposure time and distance, according to specification of examination.",0.10,physical equipment positioning with some control settings
+22808,Radiologic Technologists and Technicians,Explain procedures and observe patients to ensure safety and comfort during scan.,0.05,requires physical presence to explain and observe patient
+22809,Radiologic Technologists and Technicians,Determine patients' x-ray needs by reading requests or instructions from physicians.,0.70,reading and interpreting written physician requests
+22810,Radiologic Technologists and Technicians,"Key commands and data into computer to document and specify scan sequences, adjust transmitters and receivers, or photograph certain images.",0.30,data entry tied to live physical scanning process
+22811,Radiologic Technologists and Technicians,Take thorough and accurate patient medical histories.,0.40,patient interview needs human rapport and presence
+22812,Radiologic Technologists and Technicians,"Make exposures necessary for the requested procedures, rejecting and repeating work that does not meet established standards.",0.05,physical operation of x-ray exposures
+22813,Radiologic Technologists and Technicians,"Set up examination rooms, ensuring that all necessary equipment is ready.",0.00,physically setting up examination room equipment
+22814,Radiologic Technologists and Technicians,Operate digital picture archiving communications systems.,0.70,operating digital archiving software system
+22815,Radiologic Technologists and Technicians,Transport patients to or from exam rooms.,0.00,physically transporting patients
+22816,Radiologic Technologists and Technicians,"Monitor patients' conditions and reactions, reporting abnormal signs to physician.",0.05,requires physical presence to monitor patient
+22817,Radiologic Technologists and Technicians,Provide assistance to physicians or other technologists in the performance of more complex procedures.,0.05,physical hands-on assistance during procedures
+22818,Radiologic Technologists and Technicians,"Operate mobile x-ray equipment in operating room, emergency room, or at patient's bedside.",0.00,physical operation of mobile x-ray equipment
+22819,Radiologic Technologists and Technicians,"Record, process, and maintain patient data or treatment records and prepare reports.",0.80,data recording and report preparation
+22820,Radiologic Technologists and Technicians,"Perform procedures, such as linear tomography, mammography, sonograms, joint and cyst aspirations, routine contrast studies, routine fluoroscopy, or examinations of the head, trunk, or extremities und",0.00,hands-on physical medical imaging procedures
+22821,Radiologic Technologists and Technicians,Provide assistance in dressing or changing seriously ill or injured patients or patients with disabilities.,0.00,physical assistance dressing patients
+22822,Radiologic Technologists and Technicians,"Complete quality control activities, monitor equipment operation, and report malfunctioning equipment to supervisor.",0.15,mix of physical equipment monitoring and reporting
+22823,Radiologic Technologists and Technicians,Maintain a current file of examination protocols.,0.85,maintaining a documented protocol file
+22824,Radiologic Technologists and Technicians,"Perform general administrative tasks, such as answering phones, scheduling patient appointments, or pulling and filing films.",0.45,mix of digital scheduling and physical film handling
+22825,Radiologic Technologists and Technicians,Assist with on-the-job training of new employees or students or provide input to supervisors regarding training performance.,0.25,hands-on training assistance needs presence
+22826,Radiologic Technologists and Technicians,"Prepare contrast material, radiopharmaceuticals, or anesthetic or antispasmodic drugs under the direction of a radiologist.",0.00,physical preparation of drugs under direction
+22827,Radiologic Technologists and Technicians,Operate fluoroscope to aid physician to view and guide wire or catheter through blood vessels to area of interest.,0.00,physical operation of fluoroscope during procedure
+22828,Radiologic Technologists and Technicians,Assign duties to radiologic staff to maintain patient flows and achieve production goals.,0.35,staff scheduling decisions with supervisory authority
+22829,Radiologic Technologists and Technicians,Coordinate work with clerical personnel or other technologists and technicians.,0.30,real-time coordination with on-site personnel
+22830,Radiologic Technologists and Technicians,"Perform supervisory duties, such as developing departmental operating budget, coordinating purchases of supplies or equipment, or preparing work schedules.",0.55,budget and schedule drafting is largely analytical
+22831,Radiologic Technologists and Technicians,"Provide students or other technicians and technologists with suggestions of additional views, alternate positioning, or improved techniques to ensure the images produced are of the highest quality.",0.30,live in-context technique feedback needs presence
+22832,Medical Dosimetrists,Advise oncology team members on use of beam modifying or immobilization devices in radiation treatment plans.,0.45,advisory input within live clinical team consultation
+22833,Medical Dosimetrists,"Calculate, or verify calculations of, prescribed radiation doses.",0.45,dose calculation but clinical accountability required
+22834,Medical Dosimetrists,"Calculate the delivery of radiation treatment, such as the amount or extent of radiation per session, based on the prescribed course of radiation therapy.",0.45,treatment dose calculation with clinical accountability
+22835,Medical Dosimetrists,"Conduct radiation oncology-related research, such as improving computer treatment planning systems or developing new treatment devices.",0.55,research and analysis with some physical device work
+22836,Medical Dosimetrists,"Create and transfer reference images and localization markers for treatment delivery, using image-guided radiation therapy.",0.55,digital image and marker preparation for treatment
+22837,Medical Dosimetrists,"Design the arrangement of radiation fields to reduce exposure to critical patient structures, such as organs, using computers, manuals, and guides.",0.60,computational optimization of radiation field arrangement
+22838,Medical Dosimetrists,Develop radiation treatment plans in consultation with members of the radiation oncology team.,0.45,plan development within team consultation and accountability
+22839,Medical Dosimetrists,"Develop requirements for the use of patient immobilization devices and positioning aides, such as molds or casts, as part of treatment plans to ensure accurate delivery of radiation and comfort of pat",0.35,device requirement design tied to physical fitting
+22840,Medical Dosimetrists,"Develop treatment plans, and calculate doses for brachytherapy procedures.",0.40,treatment planning and dosing with clinical accountability
+22841,Medical Dosimetrists,"Educate patients regarding treatment plans, physiological reactions to treatment, or post-treatment care.",0.25,patient education needs human rapport and presence
+22842,Medical Dosimetrists,"Fabricate beam modifying devices, such as compensators, shields, and wedge filters.",0.00,physical fabrication of beam modifying devices
+22843,Medical Dosimetrists,"Fabricate patient immobilization devices, such as molds or casts, for radiation delivery.",0.00,physical fabrication of immobilization devices
+22844,Medical Dosimetrists,"Identify and outline bodily structures, using imaging procedures, such as x-ray, magnetic resonance imaging, computed tomography, or positron emission tomography.",0.65,image segmentation and structure outlining is analytical
+22846,Medical Dosimetrists,"Measure the amount of radioactivity in patients or equipment, using radiation monitoring devices.",0.05,physical measurement using monitoring devices
+22847,Medical Dosimetrists,"Perform quality assurance system checks, such as calibrations, on treatment planning computers.",0.25,software checks mixed with physical equipment calibration
+22848,Medical Dosimetrists,"Plan the use of beam modifying devices, such as compensators, shields, and wedge filters, to ensure safe and effective delivery of radiation treatment.",0.50,computational planning of device use for treatment
+22849,Medical Dosimetrists,"Record patient information, such as radiation doses administered, in patient records.",0.85,patient data entry into records
+22850,Medical Dosimetrists,"Supervise or perform simulations for tumor localizations, using imaging methods such as magnetic resonance imaging, computed tomography, or positron emission tomography scans.",0.15,supervising physical patient positioning for simulation
+22851,Medical Dosimetrists,"Teach medical dosimetry, including its application, to students, radiation therapists, or residents.",0.30,live teaching interaction needs presence
+22852,Emergency Medical Technicians,Administer first aid treatment or life support care to sick or injured persons in prehospital settings.,0.00,hands-on physical medical care in the field
+22853,Emergency Medical Technicians,Assess nature and extent of illness or injury to establish and prioritize medical procedures.,0.10,physical examination needed to assess injury
+22854,Emergency Medical Technicians,"Attend training classes to maintain certification licensure, keep abreast of new developments in the field, or maintain existing knowledge.",0.05,certification training tied to a physical licensed person
+22855,Emergency Medical Technicians,Comfort and reassure patients.,0.05,requires physical and emotional human presence
+22856,Emergency Medical Technicians,"Communicate with dispatchers or treatment center personnel to provide information about situation, to arrange reception of survivors, or to receive instructions for further treatment.",0.20,real-time radio coordination during physical emergency
+22857,Emergency Medical Technicians,Coordinate work with other emergency medical team members or police or fire department personnel.,0.10,real-time on-site team coordination
+22858,Emergency Medical Technicians,"Decontaminate ambulance interior following treatment of patient with infectious disease, and report case to proper authorities.",0.10,mostly physical decontamination of vehicle
+22859,Emergency Medical Technicians,"Drive mobile intensive care unit to specified location, following instructions from emergency medical dispatcher.",0.00,physically driving an emergency vehicle
+22860,Emergency Medical Technicians,"Immobilize patient for placement on stretcher and ambulance transport, using backboard or other spinal immobilization device.",0.00,physical immobilization of patient
+22861,Emergency Medical Technicians,"Maintain vehicles and medical and communication equipment, and replenish first aid equipment and supplies.",0.00,physical vehicle and equipment maintenance
+22862,Emergency Medical Technicians,"Observe, record, and report to physician the patient's condition or injury, the treatment provided, and reactions to drugs or treatment.",0.10,requires physical presence to observe patient condition
+22863,Emergency Medical Technicians,"Perform emergency diagnostic and treatment procedures, such as stomach suction, airway management, or heart monitoring, during ambulance ride.",0.00,hands-on emergency medical procedures in transit
+22864,Paramedics,"Administer drugs, orally or by injection, or perform intravenous procedures.",0.00,physical administration of drugs and IVs
+22865,Paramedics,Administer first aid treatment or life support care to sick or injured persons in prehospital settings.,0.00,hands-on physical life support care
+22866,Paramedics,Assess nature and extent of illness or injury to establish and prioritize medical procedures.,0.10,physical examination needed to assess injury
+22867,Paramedics,"Attend training classes to maintain certification licensure, keep abreast of new developments in the field, or maintain existing knowledge.",0.05,certification training tied to a physical licensed person
+22868,Paramedics,Comfort and reassure patients.,0.05,requires physical and emotional human presence
+22869,Paramedics,"Coordinate with treatment center personnel to obtain patients' vital statistics and medical history, to determine the circumstances of the emergency, and to administer emergency treatment.",0.10,physical treatment plus coordination communication
+22870,Paramedics,Coordinate work with other emergency medical team members or police or fire department personnel.,0.10,real-time on-site team coordination
+22871,Paramedics,Instruct emergency medical response team about emergency interventions to ensure correct application of procedures.,0.10,live on-site instruction during emergency intervention
+22872,Paramedics,"Observe, record, and report to physician the patient's condition or injury, the treatment provided, and reactions to drugs or treatment.",0.10,requires physical presence to observe patient condition
+22873,Paramedics,"Operate equipment, such as electrocardiograms (EKGs), external defibrillators, or bag valve mask resuscitators, in advanced life support environments.",0.00,physical operation of medical equipment on patient
+22874,Paramedics,"Perform emergency cardiac care, such as cardioversion and manual defibrillation.",0.00,hands-on emergency cardiac procedures
+22875,Paramedics,Perform emergency invasive intervention before delivering patient to an acute care facility.,0.00,physical invasive medical intervention
+22876,Paramedics,Perform emergency pharmacological interventions.,0.00,physical administration of emergency drugs
+22877,Medical Records Specialists,"Assign the patient to diagnosis-related groups (DRGs), using appropriate computer software.",0.85,computerized classification coding task
+22878,Medical Records Specialists,Compile and maintain patients' medical records to document condition and treatment and to provide data for research or cost control and care improvement efforts.,0.80,compiling and documenting records digitally
+22879,Medical Records Specialists,Consult classification manuals to locate information about disease processes.,0.90,research lookup in classification manuals
+22880,Medical Records Specialists,"Enter data, such as demographic characteristics, history and extent of disease, diagnostic procedures, or treatment into computer.",0.90,structured digital data entry
+22881,Medical Records Specialists,"Identify, compile, abstract, and code patient data, using standard classification systems.",0.85,coding patient data with classification systems
+22882,Medical Records Specialists,"Maintain or operate a variety of health record indexes or storage and retrieval systems to collect, classify, store, or analyze information.",0.85,operating digital health record systems
+22883,Medical Records Specialists,Post medical insurance billings.,0.85,digital billing data entry
+22884,Medical Records Specialists,Process and prepare business or government forms.,0.85,preparing standard business or government forms
+22885,Medical Records Specialists,Process patient admission or discharge documents.,0.80,processing digital admission or discharge documents
+22886,Medical Records Specialists,Protect the security of medical records to ensure that confidentiality is maintained.,0.55,confidentiality compliance carries accountability burden
+22887,Medical Records Specialists,Release information to persons or agencies according to regulations.,0.35,releasing sensitive info carries legal accountability
+22888,Medical Records Specialists,"Resolve or clarify codes or diagnoses with conflicting, missing, or unclear information by consulting with doctors or others or by participating in the coding team's regular meetings.",0.30,requires consulting doctors and team meetings
+22889,Medical Records Specialists,"Retrieve patient medical records for physicians, technicians, or other medical personnel.",0.75,digital retrieval of patient records
+22890,Medical Records Specialists,"Review records for completeness, accuracy, and compliance with regulations.",0.80,reviewing records for accuracy and compliance
+22891,Medical Records Specialists,Scan patients' health records into electronic formats.,0.15,physical scanning of paper records
+22892,Medical Records Specialists,Schedule medical appointments for patients.,0.75,scheduling appointments digitally
+22893,Medical Records Specialists,Transcribe medical reports.,0.90,transcription of medical reports
+22894,Health Information Technologists and Medical Registrars,"Assign the patient to diagnosis-related groups (DRGs), using appropriate computer software.",0.85,computerized classification coding task
+22895,Health Information Technologists and Medical Registrars,"Compile medical care and census data for statistical reports on diseases treated, surgery performed, or use of hospital beds.",0.85,compiling statistical data for reports
+22896,Health Information Technologists and Medical Registrars,"Design databases to support healthcare applications, ensuring security, performance and reliability.",0.75,database design work is largely technical
+22897,Health Information Technologists and Medical Registrars,Develop in-service educational materials.,0.85,drafting educational content materials
+22898,Health Information Technologists and Medical Registrars,Evaluate and recommend upgrades or improvements to existing computerized healthcare systems.,0.75,evaluating and recommending system upgrades
+22899,Health Information Technologists and Medical Registrars,"Facilitate and promote activities, such as lunches, seminars, or tours, to foster healthcare information privacy or security awareness within the organization.",0.20,facilitating in-person events needs physical presence
+22900,Health Information Technologists and Medical Registrars,"Identify, compile, abstract, and code patient data, using standard classification systems.",0.85,coding patient data with classification systems
+22901,Health Information Technologists and Medical Registrars,"Manage the department or supervise clerical workers, directing or controlling activities of personnel in the medical records department.",0.15,supervising personnel requires authority and presence
+22902,Health Information Technologists and Medical Registrars,Monitor changes in legislation and accreditation standards that affect information security or privacy in the computerized healthcare system.,0.80,monitoring legislation and standards via research
+22903,Health Information Technologists and Medical Registrars,"Plan, develop, maintain, or operate a variety of health record indexes or storage and retrieval systems to collect, classify, store, or analyze information.",0.80,planning and operating digital record systems
+22904,Health Information Technologists and Medical Registrars,"Prepare statistical reports, narrative reports, or graphic presentations of information, such as tumor registry data for use by hospital staff, researchers, or other users.",0.85,preparing statistical and narrative reports
+22905,Health Information Technologists and Medical Registrars,Protect the security of medical records to ensure that confidentiality is maintained.,0.55,confidentiality compliance carries accountability burden
+22906,Health Information Technologists and Medical Registrars,"Resolve or clarify codes or diagnoses with conflicting, missing, or unclear information by consulting with doctors or others or by participating in the coding team's regular meetings.",0.30,requires consulting doctors and team meetings
+22907,Health Information Technologists and Medical Registrars,"Retrieve patient medical records for physicians, technicians, or other medical personnel.",0.75,digital retrieval of patient records
+22908,Health Information Technologists and Medical Registrars,Train medical records staff.,0.30,live staff training needs human presence
+22909,Health Information Technologists and Medical Registrars,"Write or maintain archived procedures, procedural codes, or queries for applications.",0.85,writing and maintaining procedural documentation
+23192,"Securities, Commodities, and Financial Services Sales Agents",Make bids or offers to buy or sell securities.,0.30,trading requires licensed authority and accountability
+23193,"Securities, Commodities, and Financial Services Sales Agents",Monitor markets or positions.,0.85,market monitoring and analysis
+23194,"Securities, Commodities, and Financial Services Sales Agents",Agree on buying or selling prices at optimal levels for clients.,0.30,price negotiation with fiduciary accountability
+23195,"Securities, Commodities, and Financial Services Sales Agents",Keep accurate records of transactions.,0.90,digital record keeping of transactions
+23196,"Securities, Commodities, and Financial Services Sales Agents","Buy or sell stocks, bonds, commodity futures, foreign currencies, or other securities on behalf of investment dealers.",0.25,executing trades requires licensed authority
+23197,"Securities, Commodities, and Financial Services Sales Agents",Complete sales order tickets and submit for processing of client-requested transactions.,0.55,drafting orders but submission needs licensed authorization
+23198,"Securities, Commodities, and Financial Services Sales Agents",Report all positions or trading results.,0.85,reporting positions and trading results
+23199,"Securities, Commodities, and Financial Services Sales Agents","Interview clients to determine clients' assets, liabilities, cash flow, insurance coverage, tax status, or financial objectives.",0.45,client interview needs human rapport and trust
+23200,"Securities, Commodities, and Financial Services Sales Agents",Discuss financial options with clients and keep them informed about transactions.,0.40,financial advisory discussion needs client trust
+23201,"Securities, Commodities, and Financial Services Sales Agents",Determine customers' financial services needs and prepare proposals to sell services that address these needs.,0.55,needs analysis and proposal drafting is largely analytical
+23202,"Securities, Commodities, and Financial Services Sales Agents","Sell services or equipment, such as trusts, investments, or check processing services.",0.30,sales closing needs trust and fiduciary accountability
+23203,"Securities, Commodities, and Financial Services Sales Agents",Identify opportunities or develop channels for purchase or sale of securities or commodities.,0.40,opportunity identification mixed with relationship building
+23204,"Securities, Commodities, and Financial Services Sales Agents","Develop financial plans, based on analysis of clients' financial status.",0.55,financial plan drafting with advisor accountability for advice

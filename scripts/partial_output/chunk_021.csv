@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+17280,Sports Medicine Physicians,"Examine, evaluate and treat athletes who have been injured or who have medical problems such as exercise-induced asthma.",0.10,physical exam and treatment of athletes
+17281,Sports Medicine Physicians,Diagnose or treat disorders of the musculoskeletal system.,0.15,diagnosis partly info but treatment often hands-on
+17282,Urologists,Teach or train medical and clinical staff.,0.35,clinical training often needs physical demonstration
+17283,Urologists,Document or review patients' histories.,0.85,pure documentation and record review
+17284,Urologists,Provide urology consultation to physicians or other health care professionals.,0.35,professional consultation needs licensed accountability
+17285,Urologists,"Refer patients to specialists when condition exceeds experience, expertise, or scope of practice.",0.30,referral decision needs licensed clinical judgment
+17286,Urologists,"Direct the work of nurses, residents, or other staff to provide patient care.",0.15,directing staff needs physical presence and authority
+17287,Urologists,"Treat urologic disorders using alternatives to traditional surgery such as extracorporeal shock wave lithotripsy, laparoscopy, or laser techniques.",0.00,physical surgical procedure
+17288,Urologists,"Treat lower urinary tract dysfunctions using equipment such as diathermy machines, catheters, cystoscopes, or radium emanation tubes.",0.00,physical procedure with equipment
+17289,Urologists,"Prescribe or administer antibiotics, antiseptics, or compresses to treat infection or injury.",0.05,prescribing and administering needs license and presence
+17290,Urologists,"Prescribe medications to treat patients with erectile dysfunction (ED), infertility, or ejaculation problems.",0.05,prescribing medication needs legal authority
+17291,Urologists,"Perform abdominal, pelvic, or retroperitoneal surgeries.",0.00,physical surgery
+17292,Urologists,"Perform brachytherapy, cryotherapy, high intensity focused ultrasound (HIFU), or photodynamic therapy to treat prostate or other cancers.",0.00,physical cancer therapy procedures
+17293,Urologists,"Order and interpret the results of diagnostic tests, such as prostate specific antigen (PSA) screening, to detect prostate cancer.",0.35,interpretation is info work but ordering needs physician authority
+17294,Urologists,"Examine patients using equipment, such as radiograph (x-ray) machines or fluoroscopes, to determine the nature and extent of disorder or injury.",0.05,physical examination with imaging equipment
+17295,Urologists,"Diagnose or treat diseases or disorders of genitourinary organs and tracts including erectile dysfunction (ED), infertility, incontinence, bladder cancer, prostate cancer, urethral stones, or prematur",0.15,diagnosis and treatment bundle mostly hands-on or licensed
+17296,Anesthesiologist Assistants,"Verify availability of operating room supplies, medications, and gases.",0.20,requires physical presence in operating room
+17297,Anesthesiologist Assistants,"Provide clinical instruction, supervision or training to staff in areas such as anesthesia practices.",0.20,clinical instruction needs hands-on supervision
+17298,Anesthesiologist Assistants,Collect samples or specimens for diagnostic testing.,0.00,physical specimen collection
+17299,Anesthesiologist Assistants,"Participate in seminars, workshops, or other professional activities to keep abreast of developments in anesthesiology.",0.15,professional attendance and credentialing
+17300,Anesthesiologist Assistants,Collect and document patients' pre-anesthetic health histories.,0.45,history collection via interview documenting is info work
+17301,Anesthesiologist Assistants,"Provide airway management interventions including tracheal intubation, fiber optics, or ventilary support.",0.00,physical airway procedure
+17302,Anesthesiologist Assistants,"Respond to emergency situations by providing cardiopulmonary resuscitation (CPR), basic cardiac life support (BLS), advanced cardiac life support (ACLS), or pediatric advanced life support (PALS).",0.00,physical emergency response
+17303,Anesthesiologist Assistants,Monitor and document patients' progress during post-anesthesia period.,0.30,monitoring needs physical presence documenting is info work
+17304,Anesthesiologist Assistants,Pretest and calibrate anesthesia delivery systems and monitors.,0.10,physical calibration of equipment
+17305,Anesthesiologist Assistants,"Assist anesthesiologists in monitoring of patients, including electrocardiogram (EKG), direct arterial pressure, central venous pressure, arterial blood gas, hematocrit, or routine measurement of temp",0.15,physical clinical monitoring assistance
+17306,Anesthesiologist Assistants,Assist in the provision of advanced life support techniques including those procedures using high frequency ventilation or intra-arterial cardiovascular assistance devices.,0.00,physical life support procedures
+17307,Anesthesiologist Assistants,"Assist anesthesiologists in performing anesthetic procedures, such as epidural or spinal injections.",0.00,physical assist in anesthetic procedures
+17308,Anesthesiologist Assistants,"Assist in the application of monitoring techniques, such as pulmonary artery catheterization, electroencephalographic spectral analysis, echocardiography, or evoked potentials.",0.10,mostly physical application of monitoring devices
+17309,Anesthesiologist Assistants,"Administer blood, blood products, or supportive fluids.",0.00,physical administration of fluids
+17310,Anesthesiologist Assistants,Control anesthesia levels during procedures.,0.00,life critical physical control with no authority
+17311,Anesthesiologist Assistants,"Administer anesthetic, adjuvant, or accessory drugs under the direction of an anesthesiologist.",0.00,physical drug administration
+17312,Advanced Practice Psychiatric Nurses,"Teach classes in mental health topics, such as stress reduction.",0.45,class content creation and delivery partly remote
+17313,Advanced Practice Psychiatric Nurses,"Participate in activities aimed at professional growth and development, including conferences or continuing education activities.",0.10,professional participation and credentialing
+17314,Advanced Practice Psychiatric Nurses,Direct or provide home health services.,0.15,directing is info but providing home care is physical
+17315,Advanced Practice Psychiatric Nurses,Monitor the use and status of medical and pharmaceutical supplies.,0.65,supply monitoring is largely info and inventory work
+17316,Advanced Practice Psychiatric Nurses,"Develop practice protocols for mental health problems, based on review and evaluation of published research.",0.75,protocol drafting from research is pure info work
+17317,Advanced Practice Psychiatric Nurses,"Develop, implement, or evaluate programs such as outreach activities, community mental health programs, and crisis situation response activities.",0.35,program design is info but implementation needs presence
+17318,Advanced Practice Psychiatric Nurses,Treat patients for routine physical health problems.,0.10,physical exam and prescribing needs authority
+17319,Advanced Practice Psychiatric Nurses,Write prescriptions for psychotropic medications as allowed by state regulations and collaborative practice agreements.,0.05,prescribing needs legal authority
+17320,Advanced Practice Psychiatric Nurses,"Refer patients requiring more specialized or complex treatment to psychiatrists, primary care physicians, or other medical specialists.",0.30,referral needs clinical judgment and authority
+17321,Advanced Practice Psychiatric Nurses,Provide routine physical health screenings to detect or monitor problems such as heart disease and diabetes.,0.05,physical health screening
+17322,Advanced Practice Psychiatric Nurses,Participate in treatment team conferences regarding diagnosis or treatment of difficult cases.,0.30,conference participation needs clinical accountability
+17323,Advanced Practice Psychiatric Nurses,"Interpret diagnostic or laboratory tests, such as electrocardiograms (EKGs) and renal functioning tests.",0.40,test interpretation is info work but carries medical liability
+17324,Advanced Practice Psychiatric Nurses,Evaluate patients' behavior to formulate diagnoses or assess treatments.,0.25,diagnosis needs patient interaction and authority
+17325,Advanced Practice Psychiatric Nurses,Develop and implement treatment plans.,0.30,plan drafting is info but implementation needs authority
+17326,Advanced Practice Psychiatric Nurses,Monitor patients' medication usage and results.,0.45,medication monitoring via records is largely info work
+17327,Advanced Practice Psychiatric Nurses,"Educate patients and family members about mental health and medical conditions, preventive health measures, medications, or treatment plans.",0.55,patient education is mostly communication content
+17328,Advanced Practice Psychiatric Nurses,"Distinguish between physiologically- and psychologically-based disorders, and diagnose appropriately.",0.25,diagnosis needs clinical judgment and authority
+17329,Advanced Practice Psychiatric Nurses,"Document patients' medical and psychological histories, physical assessment results, diagnoses, treatment plans, prescriptions, or outcomes.",0.80,pure clinical documentation
+17330,Advanced Practice Psychiatric Nurses,Consult with psychiatrists or other professionals when unusual or complex cases are encountered.,0.30,professional consultation needs licensed accountability
+17331,Advanced Practice Psychiatric Nurses,"Assess patients' mental and physical status, based on the presenting symptoms and complaints.",0.25,assessment needs patient presence and clinical judgment
+17332,Advanced Practice Psychiatric Nurses,"Collaborate with interdisciplinary team members, including psychiatrists, psychologists, or nursing staff, to develop, implement, or evaluate treatment plans.",0.30,collaboration bundled with plan implementation
+17333,Advanced Practice Psychiatric Nurses,"Administer medications, including those administered by injection.",0.00,physical medication administration
+17334,Advanced Practice Psychiatric Nurses,Diagnose psychiatric disorders and mental health conditions.,0.20,diagnosis needs authority and patient interaction
+17335,Advanced Practice Psychiatric Nurses,"Conduct individual, group, or family psychotherapy for those with chronic or acute mental disorders.",0.15,psychotherapy needs human rapport and presence
+17336,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","Teach cane skills, including cane use with a guide, diagonal techniques, and two-point touches.",0.00,physical hands-on cane training
+17337,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","Refer clients to services, such as eye care, health care, rehabilitation, and counseling, to enhance visual and life functioning or when condition exceeds scope of practice.",0.45,referral is administrative info work with some judgment
+17338,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","Provide consultation, support, or education to groups such as parents and teachers.",0.45,group education partly remote deliverable
+17339,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","Participate in professional development activities, such as reading literature, continuing education, attending conferences, and collaborating with colleagues.",0.25,professional development mostly needs human participation
+17340,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","Obtain, distribute, or maintain low vision devices.",0.10,physical device logistics
+17341,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","Design instructional programs to improve communication, using devices such as slates and styluses, braillers, keyboards, adaptive handwriting devices, talking book machines, digital books, and optical",0.55,instructional program design is info work
+17342,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","Collaborate with specialists, such as rehabilitation counselors, speech pathologists, and occupational therapists, to provide client solutions.",0.35,collaboration with specialists needs human interaction
+17343,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",Administer tests and interpret test results to develop rehabilitation plans for clients.,0.30,test administration needs presence interpretation is info work
+17344,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",Train clients to read or write Braille.,0.10,hands-on braille training
+17345,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","Teach clients to travel independently, using a variety of actual or simulated travel situations or exercises.",0.00,physical hands-on travel training with safety risk
+17346,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","Train clients to use tactile, auditory, kinesthetic, olfactory, and proprioceptive information.",0.00,physical sensory training
+17347,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","Train clients to use adaptive equipment, such as large print, reading stands, lamps, writing implements, software, and electronic devices.",0.20,mostly hands-on equipment training
+17348,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",Monitor clients' progress to determine whether changes in rehabilitation plans are needed.,0.45,progress monitoring from records is info work
+17349,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","Write reports or complete forms to document assessments, training, progress, or follow-up outcomes.",0.85,pure documentation and reporting
+17350,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","Develop rehabilitation or instructional plans collaboratively with clients, based on results of assessments, needs, and goals.",0.40,plan drafting mixed with client interaction
+17351,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","Assess clients' functioning in areas such as vision, orientation and mobility skills, social and emotional issues, cognition, physical abilities, and personal goals.",0.15,functional assessment needs in-person observation
+17352,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","Train clients with visual impairments to use mobility devices or systems, such as human guides, dog guides, electronic travel aids (ETAs), and other adaptive mobility devices (AMDs).",0.00,physical hands-on mobility device training
+17353,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","Identify visual impairments related to basic life skills in areas such as self care, literacy, communication, health management, home management, and meal preparation.",0.20,impairment identification needs in-person observation
+17354,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","Teach independent living skills or techniques, such as adaptive eating, medication management, diabetes management, and personal management.",0.05,hands-on independent living skills training
+17355,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","Recommend appropriate mobility devices or systems, such as human guides, dog guides, long canes, electronic travel aids (ETAs), and other adaptive mobility devices (AMDs).",0.40,device recommendation based on assessment data
+17356,Acupuncturists,"Formulate herbal preparations to treat conditions considering herbal properties, such as taste, toxicity, effects of preparation, contraindications, and incompatibilities.",0.45,herbal formulation is knowledge-based drafting
+17357,Acupuncturists,"Maintain and follow standard quality, safety, environmental, and infection control policies and procedures.",0.10,physical safety and infection control compliance
+17358,Acupuncturists,Maintain detailed and complete records of health care plans and prognoses.,0.85,pure record maintenance
+17359,Acupuncturists,"Dispense herbal formulas and inform patients of dosages and frequencies, treatment duration, possible side effects, and drug interactions.",0.25,dispensing needs license informing part is info work
+17360,Acupuncturists,"Consider Western medical procedures in health assessment, health care team communication, and care referrals.",0.35,clinical judgment and communication mix
+17361,Acupuncturists,"Adhere to local, state, and federal laws, regulations, and statutes.",0.20,regulatory compliance tied to personal license
+17362,Acupuncturists,"Treat patients using tools, such as needles, cups, ear balls, seeds, pellets, or nutritional supplements.",0.00,physical treatment application
+17363,Acupuncturists,"Educate patients on topics, such as meditation, ergonomics, stretching, exercise, nutrition, the healing process, breathing, or relaxation techniques.",0.55,patient education is communication content
+17364,Acupuncturists,"Evaluate treatment outcomes and recommend new or altered treatments as necessary to further promote, restore, or maintain health.",0.30,treatment evaluation needs clinical authority
+17365,Acupuncturists,Assess patients' general physical appearance to make diagnoses.,0.05,physical observation to diagnose
+17366,Acupuncturists,Collect medical histories and general health and lifestyle information from patients.,0.45,history collection via interview is partly automatable
+17367,Acupuncturists,"Apply moxibustion directly or indirectly to patients using Chinese, non-scarring, stick, or pole moxa.",0.00,physical moxibustion application
+17368,Acupuncturists,"Apply heat or cold therapy to patients using materials, such as heat pads, hydrocollator packs, warm compresses, cold compresses, heat lamps, or vapor coolants.",0.00,physical heat cold therapy application
+17369,Acupuncturists,Analyze physical findings and medical histories to make diagnoses according to Oriental medicine traditions.,0.35,diagnostic analysis needs clinical authority
+17370,Acupuncturists,Develop individual treatment plans and strategies.,0.40,treatment plan drafting with professional accountability
+17371,Acupuncturists,"Treat medical conditions, using techniques such as acupressure, shiatsu, or tuina.",0.00,physical bodywork techniques
+17372,Acupuncturists,Insert needles to provide acupuncture treatment.,0.00,physical needle insertion
+17373,Acupuncturists,"Identify correct anatomical and proportional point locations based on patients' anatomy and positions, contraindications, and precautions related to treatments, such as intradermal needles, moxibustio",0.05,requires physical examination of patient body
+17374,Cytogenetic Technologists,"Develop and implement training programs for trainees, medical students, resident physicians or post-doctoral fellows.",0.35,program design is info implementation needs teaching presence
+17375,Cytogenetic Technologists,Stain slides to make chromosomes visible for microscopy.,0.05,physical lab staining
+17376,Cytogenetic Technologists,Summarize test results and report to appropriate authorities.,0.80,pure result summarization and reporting
+17377,Cytogenetic Technologists,"Select or prepare specimens and media for cell cultures using aseptic techniques, knowledge of medium components, or cell nutritional requirements.",0.05,physical lab specimen preparation
+17378,Cytogenetic Technologists,Select banding methods to permit identification of chromosome pairs.,0.55,method selection is knowledge-based decision
+17379,Cytogenetic Technologists,"Identify appropriate methods of specimen collection, preservation, or transport.",0.55,method identification is knowledge-based decision
+17380,Cytogenetic Technologists,Prepare slides of cell cultures following standard procedures.,0.05,physical slide preparation
+17381,Cytogenetic Technologists,"Select appropriate methods of preparation and storage of media to maintain potential of hydrogen (pH), sterility, or ability to support growth.",0.55,media method selection is knowledge-based
+17382,Cytogenetic Technologists,"Harvest cell cultures using substances such as mitotic arrestants, cell releasing agents, and cell fixatives.",0.05,physical cell culture harvesting
+17383,Cytogenetic Technologists,Create chromosome images using computer imaging systems.,0.20,mostly physical imaging system operation
+17384,Cytogenetic Technologists,Determine optimal time sequences and methods for manual or robotic cell harvests.,0.55,timing method decision is knowledge-based
+17385,Cytogenetic Technologists,Examine chromosomes found in biological specimens to detect abnormalities.,0.45,chromosome image analysis partly automatable
+17386,Cytogenetic Technologists,"Recognize and report abnormalities in the color, size, shape, composition, or pattern of cells.",0.45,cell abnormality pattern recognition and reporting
+17387,Cytogenetic Technologists,"Communicate test results or technical information to patients, physicians, family members, or researchers.",0.65,mostly technical communication of results
+17388,Cytogenetic Technologists,"Prepare biological specimens such as amniotic fluids, bone marrow, tumors, chorionic villi, and blood, for chromosome examinations.",0.05,physical specimen preparation
+17389,Cytogenetic Technologists,"Count numbers of chromosomes and identify the structural abnormalities by viewing culture slides through microscopes, light microscopes, or photomicroscopes.",0.35,microscope viewing is physical with some analysis
+17390,Cytogenetic Technologists,"Arrange and attach chromosomes in numbered pairs on karyotype charts, using standard genetics laboratory practices and nomenclature, to identify normal or abnormal chromosomes.",0.55,karyotype arrangement is largely digital image work
+17391,Cytogenetic Technologists,"Analyze chromosomes found in biological specimens to aid diagnoses and treatments for genetic diseases such as congenital disabilities, fertility problems, and hematological disorders.",0.50,chromosome analysis from images with some physical exam
+17392,Cytogenetic Technologists,Input details of specimens into logs or computer systems.,0.85,pure data entry
+17393,Cytogenetic Technologists,"Maintain laboratory equipment such as photomicroscopes, inverted microscopes, and standard darkroom equipment.",0.05,physical equipment maintenance
+17394,Cytogenetic Technologists,Supervise subordinate laboratory staff.,0.15,staff supervision needs physical presence and authority
+17395,Cytotechnologists,"Examine cell samples to detect abnormalities in the color, shape, or size of cellular components and patterns.",0.40,microscopy examination mixed physical and analysis
+17396,Cytotechnologists,"Examine specimens, using microscopes, to evaluate specimen quality.",0.20,physical microscope operation
+17397,Cytotechnologists,"Prepare and analyze samples, such as Papanicolaou (PAP) smear body fluids and fine needle aspirations (FNAs), to detect abnormal conditions.",0.25,sample prep is physical analysis partly info
+17398,Cytotechnologists,Provide patient clinical data or microscopic findings to assist pathologists in the preparation of pathology reports.,0.65,mostly informational communication to pathologists
+17399,Cytotechnologists,Assist pathologists or other physicians to collect cell samples by fine needle aspiration (FNA) biopsy or other method.,0.00,physical biopsy assistance
+17400,Cytotechnologists,Examine specimens to detect abnormal hormone conditions.,0.30,lab analysis mixed physical and info
+17401,Cytotechnologists,Document specimens by verifying patients' and specimens' information.,0.70,documentation and verification is info work
+17402,Cytotechnologists,"Maintain effective laboratory operations by adhering to standards of specimen collection, preparation, or laboratory safety.",0.15,operational safety compliance is physical
+17404,Cytotechnologists,"Prepare cell samples by applying special staining techniques, such as chromosomal staining, to differentiate cells or cell components.",0.05,physical staining technique application
+17405,Cytotechnologists,Submit slides with abnormal cell structures to pathologists for further examination.,0.20,physical slide handling plus communication
+17406,Cytotechnologists,"Adjust, maintain, or repair laboratory equipment, such as microscopes.",0.00,physical equipment repair
+17407,Cytotechnologists,Assign tasks or coordinate task assignments to ensure adequate performance of laboratory activities.,0.45,task coordination is info work with some authority
+17408,Cytotechnologists,Attend continuing education programs that address laboratory issues.,0.10,professional attendance and credentialing
+17423,Neurodiagnostic Technologists,"Attach electrodes to patients, using adhesives.",0.00,physical electrode attachment
+17424,Neurodiagnostic Technologists,"Summarize technical data to assist physicians to diagnose brain, sleep, or nervous system disorders.",0.80,pure technical data summarization

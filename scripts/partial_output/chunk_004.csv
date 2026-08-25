@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+1915,Medical and Clinical Laboratory Technicians,"Prepare standard volumetric solutions or reagents to be combined with samples, following standardized formulas or experimental procedures.",0.10,physical lab prep of reagents
+1917,Medical and Clinical Laboratory Technicians,"Test raw materials, processes, or finished products to determine quality or quantity of materials or characteristics of a substance.",0.15,physical testing of materials
+1939,Pharmacy Technicians,Receive written prescription or refill requests and verify that information is complete and accurate.,0.45,receiving needs presence but verifying is text work
+1940,Pharmacy Technicians,Maintain proper storage and security conditions for drugs.,0.10,physical storage and security of drugs
+1941,Pharmacy Technicians,"Answer telephones, responding to questions or requests.",0.60,phone answering feasible via voice agent
+1943,Pharmacy Technicians,"Assist customers by answering simple questions, locating items, or referring them to the pharmacist for medication information.",0.20,requires in-store presence to locate items
+1944,Pharmacy Technicians,Price and file prescriptions that have been filled.,0.35,pricing digital but filing is physical
+1945,Pharmacy Technicians,"Clean and help maintain equipment or work areas and sterilize glassware, according to prescribed methods.",0.05,physical cleaning and sterilizing
+1946,Pharmacy Technicians,"Establish or maintain patient profiles, including lists of medications taken by individual patients.",0.85,pure data record maintenance
+1947,Pharmacy Technicians,"Order, label, and count stock of medications, chemicals, or supplies and enter inventory data into computer.",0.35,ordering digital but counting stock physical
+1949,Pharmacy Technicians,"Transfer medication from vials to the appropriate number of sterile, disposable syringes, using aseptic techniques.",0.02,physical aseptic syringe transfer
+1951,Pharmacy Technicians,Supply and monitor robotic machines that dispense medicine into containers and label the containers.,0.20,supplying machine needs physical presence
+1952,Pharmacy Technicians,Prepare and process medical insurance claim forms and records.,0.90,pure paperwork and claims processing
+1953,Pharmacy Technicians,"Mix pharmaceutical preparations, according to written prescriptions.",0.05,physical compounding needing licensure
+1954,Pharmacy Technicians,Operate cash registers to accept payment from customers.,0.05,physical cash register operation
+1955,Pharmacy Technicians,Compute charges for medication or equipment dispensed to hospital patients and enter data in computer.,0.90,computation and data entry
+1956,Pharmacy Technicians,"Deliver medications or pharmaceutical supplies to patients, nursing stations, or surgery.",0.02,physical delivery of medication
+1957,Pharmacy Technicians,Price stock and mark items for sale.,0.30,pricing digital but marking items physical
+1958,Pharmacy Technicians,Maintain and merchandise home healthcare products or services.,0.10,physical merchandising in store
+1959,Surgical Technologists,"Count sponges, needles, and instruments before and after operation.",0.02,physical instrument count in OR
+1960,Surgical Technologists,"Hand instruments and supplies to surgeons and surgeons' assistants, hold retractors and cut sutures, and perform other tasks as directed by surgeon during operation.",0.00,physical hands-on surgical assistance
+1961,Surgical Technologists,"Scrub arms and hands and assist the surgical team to scrub and put on gloves, masks, and surgical clothing.",0.00,physical scrubbing and gowning
+1963,Surgical Technologists,"Provide technical assistance to surgeons, surgical nurses, or anesthesiologists.",0.02,physical presence in operating room
+1964,Surgical Technologists,"Wash and sterilize equipment, using germicides and sterilizers.",0.02,physical washing and sterilizing
+1965,Surgical Technologists,"Prepare, care for, and dispose of tissue specimens taken for laboratory analysis.",0.05,physical specimen handling
+1967,Surgical Technologists,Prepare dressings or bandages and apply or assist with their application following surgery.,0.02,physical dressing application
+1968,Surgical Technologists,"Operate, assemble, adjust, or monitor sterilizers, lights, suction machines, or diagnostic equipment to ensure proper operation.",0.10,mostly physical equipment operation
+1969,Surgical Technologists,"Monitor and continually assess operating room conditions, including patient and surgical team needs.",0.05,requires physical presence in OR
+1970,Surgical Technologists,Observe patients' vital signs to assess physical condition.,0.30,vital sign data could be monitored remotely
+1971,Surgical Technologists,"Maintain supply of fluids, such as plasma, saline, blood, or glucose, for use during operations.",0.05,physical fluid stocking
+1972,Surgical Technologists,Maintain files and records of surgical procedures.,0.85,digital record keeping
+1994,Psychiatric Aides,"Provide patients with cognitive, intellectual, or developmental disabilities with routine physical, emotional, psychological, or rehabilitation care under the direction of nursing or medical staff.",0.02,physical hands-on patient care
+1996,Psychiatric Aides,"Work as part of a team that may include psychiatrists, psychologists, psychiatric nurses, or social workers.",0.10,requires physical team collaboration in care setting
+1997,Psychiatric Aides,Aid patients in becoming accustomed to hospital routines.,0.10,in-person patient support
+1998,Psychiatric Aides,"Organize, supervise, or encourage patient participation in social, educational, or recreational activities.",0.10,requires in-person supervision for safety
+1999,Psychiatric Aides,"Perform nursing duties, such as administering medications, measuring vital signs, collecting specimens, or drawing blood samples.",0.02,physical nursing procedures
+2000,Psychiatric Aides,Serve meals or feed patients needing assistance or persuasion.,0.02,physical feeding assistance
+2001,Psychiatric Aides,Restrain or aid patients as necessary to prevent injury.,0.00,physical restraint of patients
+2002,Psychiatric Aides,Interview patients upon admission and record information.,0.40,interview needs rapport but recording is text work
+2003,Psychiatric Aides,"Provide patients with assistance in bathing, dressing, or grooming, demonstrating these skills as necessary.",0.02,physical bathing and grooming assistance
+2004,Psychiatric Aides,"Participate in recreational activities with patients, including card games, sports, or television viewing.",0.02,physical presence for recreational activities
+2005,Psychiatric Aides,Maintain patients' restrictions to assigned areas.,0.02,physical monitoring and enforcement
+2006,Psychiatric Aides,"Accompany patients to and from wards for medical or dental treatments, shopping trips, or religious or recreational events.",0.00,physical escorting of patients
+2007,Psychiatric Aides,Clean and disinfect rooms and furnishings to maintain a safe and orderly environment.,0.02,physical cleaning of rooms
+2008,Physical Therapist Assistants,"Instruct, motivate, safeguard, and assist patients as they practice exercises or functional activities.",0.05,physical safeguarding during exercises
+2009,Physical Therapist Assistants,"Confer with physical therapy staff or others to discuss and evaluate patient information for planning, modifying, or coordinating treatment.",0.35,clinical discussion needs licensed judgment
+2012,Physical Therapist Assistants,"Measure patients' range-of-joint motion, body parts, or vital signs to determine effects of treatments or for patient evaluations.",0.05,physical measurement of patients
+2013,Physical Therapist Assistants,Secure patients into or onto therapy equipment.,0.00,physical securing onto equipment
+2014,Physical Therapist Assistants,"Fit patients for orthopedic braces, prostheses, or supportive devices, such as crutches.",0.00,physical fitting of braces
+2015,Physical Therapist Assistants,"Train patients in the use of orthopedic braces, prostheses, or supportive devices.",0.05,hands-on demonstration needed
+2016,Physical Therapist Assistants,"Transport patients to and from treatment areas, lifting and transferring them according to positioning requirements.",0.00,physical lifting and transport
+2017,Physical Therapist Assistants,Monitor operation of equipment and record use of equipment and administration of treatment.,0.35,recording digital but monitoring needs presence
+2018,Physical Therapist Assistants,Clean work area and check and store equipment after treatment.,0.02,physical cleaning and storage
+2019,Physical Therapist Assistants,"Assist patients to dress, undress, or put on and remove supportive devices, such as braces, splints, or slings.",0.00,physical dressing assistance
+2020,Physical Therapist Assistants,"Administer traction to relieve neck or back pain, using intermittent or static traction equipment.",0.02,physical traction procedure
+2021,Physical Therapist Assistants,"Perform clerical duties, such as taking inventory, ordering supplies, answering telephone, taking messages, or filling out forms.",0.55,mixed clerical tasks mostly digital
+2022,Physical Therapist Assistants,Prepare treatment areas and electrotherapy equipment for use by physiotherapists.,0.05,physical equipment setup
+2023,Physical Therapist Assistants,"Perform postural drainage, percussions, or vibrations or teach deep breathing exercises to treat respiratory conditions.",0.02,physical hands-on respiratory treatment
+2024,Medical Assistants,"Interview patients to obtain medical information and measure their vital signs, weight, and height.",0.25,interview plus physical measurement
+2025,Medical Assistants,Show patients to examination rooms and prepare them for the physician.,0.02,physical escorting to exam room
+2026,Medical Assistants,"Record patients' medical history, vital statistics, or information such as test results in medical records.",0.85,digital medical record entry
+2027,Medical Assistants,Prepare and administer medications as directed by a physician.,0.02,physical medication administration
+2028,Medical Assistants,"Collect blood, tissue, or other laboratory specimens, log the specimens, and prepare them for testing.",0.10,mostly physical specimen collection
+2029,Medical Assistants,"Explain treatment procedures, medications, diets, or physicians' instructions to patients.",0.55,explaining instructions is communication work
+2030,Medical Assistants,"Help physicians examine and treat patients, handing them instruments or materials or performing such tasks as giving injections or removing sutures.",0.02,physical hands-on assistance to physician
+2031,Medical Assistants,Authorize drug refills and provide prescription information to pharmacies.,0.40,authorization needs delegated professional judgment
+2032,Medical Assistants,"Prepare treatment rooms for patient examinations, keeping the rooms neat and clean.",0.02,physical room preparation
+2033,Medical Assistants,Clean and sterilize instruments and dispose of contaminated supplies.,0.02,physical cleaning of instruments
+2034,Medical Assistants,Schedule appointments for patients.,0.80,digital appointment scheduling
+2035,Medical Assistants,Change dressings on wounds.,0.02,physical wound dressing
+2036,Medical Assistants,Greet and log in patients arriving at office or clinic.,0.30,greeting needs presence though logging is digital
+2037,Medical Assistants,Contact medical facilities or departments to schedule patients for tests or admission.,0.75,phone based scheduling coordination
+2038,Medical Assistants,"Perform general office duties, such as answering telephones, taking dictation, or completing insurance forms.",0.75,mostly digital office duties
+2039,Medical Assistants,"Inventory and order medical, lab, or office supplies or equipment.",0.50,ordering digital but counting physical
+2040,Medical Assistants,Perform routine laboratory tests and sample analyses.,0.10,physical lab test execution
+2041,Medical Assistants,Set up medical laboratory equipment.,0.05,physical equipment setup
+2042,Medical Assistants,"Keep financial records or perform other bookkeeping duties, such as handling credit or collections or mailing monthly statements to patients.",0.80,digital bookkeeping and records
+2043,Medical Assistants,"Operate x-ray, electrocardiogram (EKG), or other equipment to administer routine diagnostic tests.",0.05,physical diagnostic equipment operation on patient
+2045,Pharmacy Aides,"Accept prescriptions for filling, gathering and processing necessary information.",0.45,accepting needs presence verifying is text work
+2046,Pharmacy Aides,"Answer telephone inquiries, referring callers to pharmacist when necessary.",0.65,phone inquiries answerable by voice agent
+2048,Pharmacy Aides,Greet customers and help them locate merchandise.,0.05,physical in-store greeting and guidance
+2049,Pharmacy Aides,"Unpack, sort, count, and label incoming merchandise, including items requiring special handling or refrigeration.",0.02,physical unpacking and sorting
+2050,Pharmacy Aides,Prepare prescription labels by typing or operating a computer and printer.,0.75,digital label preparation
+2052,Pharmacy Aides,Operate cash register to process cash or credit sales.,0.05,physical register operation
+2053,Pharmacy Aides,"Restock storage areas, replenishing items on shelves.",0.00,physical shelf restocking
+2054,Pharmacy Aides,"Perform clerical tasks, such as filing, compiling and maintaining prescription records, or composing letters.",0.65,mostly digital clerical record work
+2055,Pharmacy Aides,"Maintain and clean equipment, work areas, or shelves.",0.02,physical cleaning of equipment
+2057,Pharmacy Aides,"Prepare, maintain, and record records of inventories, receipts, purchases, or deliveries, using a variety of computer screen formats.",0.85,digital inventory record keeping
+2058,Pharmacy Aides,"Process medical insurance claims, posting bill amounts and calculating copayments.",0.90,digital claims processing and computation
+2059,Pharmacy Aides,"Compound, package, and label pharmaceutical products, under direction of pharmacist.",0.05,physical compounding under supervision
+2062,Pharmacy Aides,"Deliver medication to treatment areas, living units, residences, or clinics, using various means of transportation.",0.00,physical delivery transportation
+2369,Personal Care Aides,"Perform healthcare-related tasks, such as monitoring vital signs and medication, under the direction of registered nurses or physiotherapists.",0.05,physical hands-on healthcare tasks
+2370,Personal Care Aides,"Administer bedside or personal care, such as ambulation or personal hygiene assistance.",0.00,physical bedside personal care
+2371,Personal Care Aides,"Prepare and maintain records of client progress and services performed, reporting changes in client condition to manager or supervisor.",0.80,digital record keeping and reporting
+2372,Personal Care Aides,"Perform housekeeping duties, such as cooking, cleaning, washing clothes or dishes, or running errands.",0.00,physical housekeeping and errands
+2373,Personal Care Aides,"Care for individuals or families during periods of incapacitation, family disruption, or convalescence, providing companionship, personal care, or help in adjusting to new lifestyles.",0.05,physical presence and companionship needed
+2374,Personal Care Aides,"Instruct or advise clients on issues, such as household cleanliness, utilities, hygiene, nutrition, or infant care.",0.55,advisory guidance deliverable via text or voice
+2375,Personal Care Aides,"Plan, shop for, or prepare nutritious meals or assist families in planning, shopping for, or preparing nutritious meals.",0.30,planning digital but shopping and cooking physical
+2376,Personal Care Aides,"Participate in case reviews, consulting with the team caring for the client, to evaluate the client's needs and plan for continuing services.",0.35,team consultation needs human judgment
+2377,Personal Care Aides,"Transport clients to locations outside the home, such as to physicians' offices or on outings, using a motor vehicle.",0.00,physical driving and transport
+2378,Personal Care Aides,Train family members to provide bedside care.,0.10,hands-on physical demonstration needed
+2379,Personal Care Aides,"Provide clients with communication assistance, typing their correspondence or obtaining information for them.",0.80,digital correspondence and information tasks
+2400,Cashiers,"Receive payment by cash, check, credit cards, vouchers, or automatic debits.",0.15,physical cash and payment handling
+2401,Cashiers,"Issue receipts, refunds, credits, or change due to customers.",0.20,physical handling of receipts and change
+2402,Cashiers,Count money in cash drawers at the beginning of shifts to ensure that amounts are correct and that there is adequate change.,0.05,physical cash counting
+2403,Cashiers,Greet customers entering establishments.,0.05,physical in-person greeting
+2405,Cashiers,"Establish or identify prices of goods, services, or admission, and tabulate bills, using calculators, cash registers, or optical price scanners.",0.20,physical register and scanner operation
+2406,Cashiers,"Issue trading stamps, and redeem food stamps and coupons.",0.10,physical stamp and coupon handling
+2408,Cashiers,"Answer customers' questions, and provide information on procedures or policies.",0.75,informational customer service task
+2409,Cashiers,Cash checks for customers.,0.10,physical cash handling and verification
+2410,Cashiers,Weigh items sold by weight to determine prices.,0.05,physical weighing of items
+2411,Cashiers,"Calculate total payments received during a time period, and reconcile this with total sales.",0.85,digital reconciliation of transactions
+2412,Cashiers,Compute and record totals of transactions.,0.90,digital computation and recording
+2413,Cashiers,Sell tickets and other items to customers.,0.15,mostly in-person ticket sales
+2414,Cashiers,Keep periodic balance sheets of amounts and numbers of transactions.,0.85,digital bookkeeping of balances
+2415,Cashiers,"Bag, box, wrap, or gift-wrap merchandise, and prepare packages for shipment.",0.00,physical wrapping and packaging
+2416,Cashiers,"Sort, count, and wrap currency and coins.",0.02,physical currency handling
+2417,Cashiers,Process merchandise returns and exchanges.,0.30,physical inspection plus digital processing
+2419,Cashiers,"Request information or assistance, using paging systems.",0.15,physical presence needed to request assistance
+2421,Cashiers,Compile and maintain non-monetary reports and records.,0.85,digital report compilation
+2422,Cashiers,Monitor checkout stations to ensure they have adequate cash available and are staffed appropriately.,0.15,requires on-site supervisory presence
+2423,Cashiers,Post charges against guests' or patients' accounts.,0.85,digital account charge posting
+2424,Cashiers,Offer customers carry-out service at the completion of transactions.,0.00,physical carry-out service
+2425,Parts Salespersons,"Read catalogs, microfiche viewers, or computer displays to determine replacement part stock numbers and prices.",0.85,digital catalog and price lookup
+2426,Parts Salespersons,"Determine replacement parts required, according to inspections of old parts, customer requests, or customers' descriptions of malfunctions.",0.35,physical inspection plus descriptive reasoning
+2427,Parts Salespersons,Receive and fill telephone orders for parts.,0.35,phone order taking but physical fulfillment
+2429,Parts Salespersons,Prepare sales slips or sales contracts.,0.85,digital sales document preparation
+2430,Parts Salespersons,Receive payment or obtain credit authorization.,0.35,credit authorization digital but cash physical
+2432,Parts Salespersons,Advise customers on substitution or modification of parts when identical replacements are not available.,0.60,advisory task using parts knowledge
+2433,Parts Salespersons,"Examine returned parts for defects, and exchange defective parts or refund money.",0.25,physical inspection plus refund processing

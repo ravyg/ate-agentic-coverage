@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+22249,Anthropologists and Archeologists,"Lead field training sites and train field staff, students, and volunteers in excavation methods.",0.05,physical on-site excavation training
+22252,Anthropologists and Archeologists,"Conduct participatory action research in communities and organizations to assess how work is done and to design work systems, technologies, and environments.",0.15,requires live community engagement and rapport
+22248,Anthropologists and Archeologists,Develop and test theories concerning the origin and development of past cultures.,0.85,theoretical analysis from literature
+22233,Anthropologists and Archeologists,"Research, survey, or assess sites of past societies and cultures in search of answers to specific research questions.",0.20,physical site survey required
+22260,Anthropologists and Archeologists,Write grant proposals to obtain funding for research.,0.90,pure grant writing task
+22245,Anthropologists and Archeologists,"Advise government agencies, private organizations, and communities regarding proposed programs, plans, and policies and their potential impacts on cultural institutions, organizations, and communities.",0.55,advisory work mixing analysis and human engagement
+22253,Anthropologists and Archeologists,Organize public exhibits and displays to promote public awareness of diverse and distinctive cultural traditions.,0.20,physical exhibit setup and organizing
+22250,Anthropologists and Archeologists,"Collaborate with economic development planners to decide on the implementation of proposed development policies, plans, and programs based on culturally institutionalized barriers and facilitating circumstances.",0.30,collaborative human decision-making
+22247,Anthropologists and Archeologists,"Develop intervention procedures, using techniques such as individual and focus group interviews, consultations, and participant observation of social interaction.",0.20,requires live interviews and observation
+22257,Anthropologists and Archeologists,Enhance the cultural sensitivity of elementary and secondary curricula and classroom interactions in collaboration with educators and teachers.,0.45,collaborative curriculum work with educators
+22255,Anthropologists and Archeologists,Study archival collections of primary historical sources to help explain the origins and development of cultural patterns.,0.80,archival research and analysis
+22254,Anthropologists and Archeologists,Formulate general rules that describe and predict the development and behavior of cultures and social institutions.,0.85,theoretical synthesis from research
+22238,Anthropologists and Archeologists,"Record the exact locations and conditions of artifacts uncovered in diggings or surveys, using drawings and photographs as necessary.",0.05,on-site physical recording of finds
+22239,Anthropologists and Archeologists,"Assess archeological sites for resource management, development, or conservation purposes and recommend methods for site protection.",0.20,physical site assessment needed
+22240,Anthropologists and Archeologists,Gather and analyze artifacts and skeletal remains to increase knowledge of ancient cultures.,0.15,physical gathering of artifacts and remains
+22237,Anthropologists and Archeologists,Compare findings from one site with archeological data from other sites to find similarities or differences.,0.85,comparative data analysis
+22235,Anthropologists and Archeologists,"Describe artifacts' physical properties or attributes, such as the materials from which artifacts are made and their size, shape, function, and decoration.",0.30,needs hands-on physical inspection of artifacts
+22241,Anthropologists and Archeologists,"Collect artifacts made of stone, bone, metal, and other materials, placing them in bags and marking them to show where they were found.",0.00,purely physical artifact collection
+22231,Anthropologists and Archeologists,"Study objects and structures recovered by excavation to identify, date, and authenticate them and to interpret their significance.",0.35,requires physical examination for authentication
+22243,Anthropologists and Archeologists,"Consult site reports, existing artifacts, and topographic maps to identify archeological sites.",0.80,desk research using reports and maps
+22251,Anthropologists and Archeologists,"Clean, restore, and preserve artifacts.",0.00,hands-on conservation work
+22258,Anthropologists and Archeologists,"Participate in forensic activities, such as tooth and bone structure identification, in conjunction with police departments and pathologists.",0.05,physical forensic examination with authorities
+5503,Geographers,"Create and modify maps, graphs, or diagrams, using geographical information software and related equipment, and principles of cartography, such as coordinate systems, longitude, latitude, elevation, topography, and map scales.",0.85,software-based map creation
+5509,Geographers,"Gather and compile geographic data from sources such as censuses, field observations, satellite imagery, aerial photographs, and existing maps.",0.65,mostly digital data compilation with some fieldwork
+5508,Geographers,Teach geography.,0.35,live teaching requires human interaction
+5504,Geographers,Write and present reports of research findings.,0.70,writing is strong but live presentation less so
+5514,Geographers,Provide geographical information systems support to the private and public sectors.,0.65,remote technical support work
+5511,Geographers,"Study the economic, political, and cultural characteristics of a specific region's population.",0.80,regional research and analysis
+5507,Geographers,"Analyze geographic distributions of physical and cultural phenomena on local, regional, continental, or global scales.",0.88,pure geographic data analysis
+5505,Geographers,"Develop, operate, and maintain geographical information computer systems, including hardware, software, plotters, digitizers, printers, and video cameras.",0.30,involves physical hardware maintenance
+5506,Geographers,Locate and obtain existing geographic information databases.,0.85,desk research locating databases
+5513,Geographers,"Collect data on physical characteristics of specified areas, such as geological formations, climates, and vegetation, using surveying or meteorological equipment.",0.10,physical field data collection with equipment
+5510,Geographers,Conduct field work at outdoor sites.,0.02,purely physical outdoor fieldwork
+5512,Geographers,"Provide consulting services in fields such as resource development and management, business location and market area analysis, environmental hazards, regional cultural history, and urban social planning.",0.55,consulting mixes analysis with client interaction
+3718,Historians,"Gather historical data from sources such as archives, court records, diaries, news files, and photographs, as well as from books, pamphlets, and periodicals.",0.75,mostly desk archival research
+3717,Historians,"Organize data, and analyze and interpret its authenticity and relative significance.",0.85,data analysis and interpretation
+3724,Historians,"Prepare publications and exhibits, or review those prepared by others, to ensure their historical accuracy.",0.55,mix of writing and physical exhibit prep
+3728,Historians,"Organize information for publication and for other means of dissemination, such as via storage media or the Internet.",0.85,digital information organization
+3720,Historians,"Conduct historical research as a basis for the identification, conservation, and reconstruction of historic places and materials.",0.45,research strong but conservation is physical
+20744,Historians,"Conserve and preserve manuscripts, records, and other artifacts.",0.05,physical conservation of artifacts
+3726,Historians,"Present historical accounts in terms of individuals or social, ethnic, political, economic, or geographic groupings.",0.80,narrative writing task
+3725,Historians,"Research the history of a particular country or region, or of a specific time period.",0.90,pure historical research
+3722,Historians,"Conduct historical research, and publish or present findings and theories.",0.80,research and writing with light presentation
+3727,Historians,"Determine which topics to research, or pursue research topics specified by clients or employers.",0.75,research topic planning and analysis
+3734,Historians,"Recommend actions related to historical art, such as which items to add to a collection or which items to display in an exhibit.",0.65,advisory recommendation from analysis
+3729,Historians,"Research and prepare manuscripts in support of public programming and the development of exhibits at historic sites, museums, libraries, and archives.",0.75,research and manuscript writing
+3723,Historians,"Speak to various groups, organizations, and clubs to promote the aims and activities of historical societies.",0.05,live public speaking engagements
+3730,Historians,Advise or consult with individuals and institutions regarding issues such as the historical authenticity of materials or the customs of a specific historical period.,0.55,advisory consultation with human interaction
+3733,Historians,Interview people to gather information about historical events and to record oral histories.,0.40,requires live human interviews
+3719,Historians,"Trace historical development in a particular field, such as social, cultural, political, or diplomatic history.",0.88,historical research and synthesis
+3735,Historians,Coordinate activities of workers engaged in cataloging and filing materials.,0.30,supervising human workers directly
+3732,Historians,Collect detailed information on individuals for use in biographies.,0.70,mostly desk research for biographies
+3721,Historians,"Teach and conduct research in colleges, universities, museums, and other research agencies and schools.",0.40,teaching requires live human interaction
+3736,Historians,Edit historical society publications.,0.90,pure editing task
+3731,Historians,Translate or request translation of reference materials.,0.90,text translation task
+5515,Political Scientists,Teach political science.,0.35,live teaching requires human interaction
+5519,Political Scientists,Maintain current knowledge of government policy decisions.,0.85,continuous policy monitoring and research
+5518,Political Scientists,"Develop and test theories, using information from interviews, newspapers, periodicals, case law, historical papers, polls, or statistical sources.",0.75,research and theory development from sources
+5516,Political Scientists,"Disseminate research results through academic publications, written reports, or public presentations.",0.65,writing strong but live presentation less so
+23949,Political Scientists,Advise political science students.,0.30,advising requires live mentoring relationship
+5520,Political Scientists,"Collect, analyze, and interpret data, such as election results and public opinion surveys, reporting on findings, recommendations, and conclusions.",0.85,data analysis and reporting
+5521,Political Scientists,"Interpret and analyze policies, public issues, legislation, or the operations of governments, businesses, and organizations.",0.88,pure policy analysis
+5517,Political Scientists,Identify issues for research and analysis.,0.85,research planning and analysis
+23950,Political Scientists,Serve on committees.,0.10,committee service requires live presence and authority
+5524,Political Scientists,"Forecast political, economic, and social trends.",0.80,trend forecasting and analysis
+5525,Political Scientists,"Consult with and advise government officials, civic bodies, research agencies, the media, political parties, and others concerned with political issues.",0.35,advisory consulting needs live interaction
+5522,Political Scientists,"Evaluate programs and policies, and make related recommendations to institutions and organizations.",0.85,program evaluation and analysis
+5526,Political Scientists,Provide media commentary or criticism related to public policy and political issues and events.,0.55,written commentary strong but live media appearances physical
+5523,Political Scientists,"Write drafts of legislative proposals, and prepare speeches, correspondence, and policy papers for governmental use.",0.90,pure drafting and writing task
+16953,Transportation Planners,Define regional or local transportation planning problems or priorities.,0.75,planning analysis task
+16945,Transportation Planners,"Participate in public meetings or hearings to explain planning proposals, to gather feedback from those affected by projects, or to achieve consensus on project designs.",0.10,live public meetings require presence
+16943,Transportation Planners,Prepare reports or recommendations on transportation planning.,0.85,report writing task
+16951,Transportation Planners,"Collaborate with engineers to research, analyze, or resolve complex transportation design issues.",0.60,collaborative engineering analysis
+16952,Transportation Planners,"Recommend transportation system improvements or projects, based on economic, population, land-use, or traffic projections.",0.80,recommendation from data analysis
+16948,Transportation Planners,Develop computer models to address transportation planning issues.,0.85,computer modeling task
+16954,Transportation Planners,"Analyze information related to transportation, such as land use policies, environmental impact of projects, or long-range planning needs.",0.85,information analysis task
+20976,Transportation Planners,"Interpret data from traffic modeling software, geographic information systems, or associated databases.",0.85,data interpretation from software
+16949,Transportation Planners,Design transportation surveys to identify areas of public concern.,0.80,survey design task
+19779,Transportation Planners,"Collaborate with other professionals to develop sustainable transportation strategies at the local, regional, or national level.",0.55,collaborative strategy development with humans
+20978,Transportation Planners,Evaluate transportation project needs or costs.,0.80,cost evaluation and analysis
+16941,Transportation Planners,Analyze information from traffic counting programs.,0.85,traffic data analysis
+16942,Transportation Planners,"Review development plans for transportation system effects, infrastructure requirements, or compliance with applicable transportation regulations.",0.80,plan review and analysis
+20979,Transportation Planners,Prepare necessary documents to obtain planned project approvals or permits.,0.65,document prep though approval needs human authority
+16944,Transportation Planners,"Produce environmental documents, such as environmental assessments or environmental impact statements.",0.80,environmental document writing and analysis
+16934,Transportation Planners,Prepare or review engineering studies or specifications.,0.65,engineering review often needs licensed sign-off
+16938,Transportation Planners,Develop or test new methods or models of transportation analysis.,0.80,research and technical modeling
+20980,Transportation Planners,Evaluate transportation-related consequences of federal or state legislative proposals.,0.85,legislative impact analysis
+20977,Transportation Planners,"Design new or improved transport infrastructure, such as junction improvements, pedestrian projects, bus facilities, or car parking areas.",0.45,design work needs physical site and professional stamp
+16939,Transportation Planners,Define or update information such as urban boundaries or classification of roadways.,0.80,data classification and updates
+16937,Transportation Planners,Direct urban traffic counting programs.,0.30,directing physical field data collection
+16935,Transportation Planners,Represent jurisdictions in the legislative or administrative approval of land development projects.,0.10,requires legal representation authority
+20533,Agricultural Technicians,"Prepare land for cultivated crops, orchards, or vineyards by plowing, discing, leveling, or contouring.",0.00,purely physical farm work
+5541,Agricultural Technicians,"Operate farm machinery, including tractors, plows, mowers, combines, balers, sprayers, earthmoving equipment, or trucks.",0.00,purely physical machinery operation
+5528,Agricultural Technicians,"Record data pertaining to experimentation, research, or animal care.",0.20,requires physical observation to gather data
+5544,Agricultural Technicians,"Maintain or repair agricultural facilities, equipment, or tools to ensure operational readiness, safety, and cleanliness.",0.00,physical equipment repair
+5542,Agricultural Technicians,"Perform crop production duties, such as tilling, hoeing, pruning, weeding, or harvesting crops.",0.00,purely physical crop labor
+20530,Agricultural Technicians,Collect animal or crop samples.,0.00,physical sample collection
+20529,Agricultural Technicians,Examine animals or crop specimens to determine the presence of diseases or other problems.,0.15,requires physical specimen examination
+20527,Agricultural Technicians,Set up laboratory or field equipment as required for site testing.,0.00,physical equipment setup
+5548,Agricultural Technicians,Supervise or train agricultural technicians or farm laborers.,0.20,supervising human workers on-site
+19781,Agricultural Technicians,"Conduct studies of nitrogen or alternative fertilizer application methods, quantities, or timing to ensure satisfaction of crop needs and minimization of leaching, runoff, or denitrification.",0.20,field study requiring physical presence
+20528,Agricultural Technicians,"Prepare laboratory samples for analysis, following proper protocols to ensure that they will be stored, prepared, and disposed of efficiently and effectively.",0.05,physical laboratory sample prep
+20526,Agricultural Technicians,Measure or weigh ingredients used in laboratory testing.,0.00,physical measuring in lab
+20535,Agricultural Technicians,Perform tests on seeds to evaluate seed viability.,0.05,physical seed testing
+5530,Agricultural Technicians,"Prepare data summaries, reports, or analyses that include results, charts, or graphs to document research findings and results.",0.85,data summarization and report writing
+20534,Agricultural Technicians,"Perform laboratory or field testing, using spectrometers, nitrogen determination apparatus, air samplers, centrifuges, or potential hydrogen (pH) meters to perform tests.",0.00,physical laboratory testing
+20531,Agricultural Technicians,"Supervise pest or weed control operations, including locating and identifying pests or weeds, selecting chemicals and application methods, or scheduling application.",0.20,supervising physical pest control operations
+5543,Agricultural Technicians,Devise cultural methods or environmental controls for plants for which guidelines are sketchy or nonexistent.,0.40,research design though field application physical
+5538,Agricultural Technicians,Conduct insect or plant disease surveys.,0.10,physical field surveys
+5540,Agricultural Technicians,"Perform general nursery duties, such as propagating standard varieties of plant materials, collecting and germinating seeds, maintaining cuttings of plants, or controlling environmental conditions.",0.00,purely physical nursery work
+19782,Agricultural Technicians,"Record environmental data from field samples of soil, air, water, or pests to monitor the effectiveness of integrated pest management (IPM) practices.",0.15,physical sample collection and recording
+20537,Agricultural Technicians,Determine the germination rates of seeds planted in specified areas.,0.10,physical field observation of germination
+5547,Agricultural Technicians,"Transplant trees, vegetables, or horticultural plants.",0.00,physical transplanting work
+20536,Agricultural Technicians,"Prepare culture media, following standard procedures.",0.00,physical lab media prep
+20532,Agricultural Technicians,Respond to general inquiries or requests from the public.,0.75,text-based inquiry responses
+5549,Agricultural Technicians,Prepare or present agricultural demonstrations.,0.30,prep is doable but live demo is physical
+19780,Agricultural Technicians,"Assess comparative soil erosion from various planting or tillage systems, such as conservation tillage with mulch or ridge till systems, no-till systems, or conventional tillage systems with or without moldboard plows.",0.20,physical field assessment of soil erosion
+18295,Precision Agriculture Technicians,Document and maintain records of precision agriculture information.,0.85,digital record keeping
+18281,Precision Agriculture Technicians,"Collect information about soil or field attributes, yield data, or field boundaries, using field data recorders and basic geographic information systems (GIS).",0.15,physical field data collection
+20872,Precision Agriculture Technicians,"Use geospatial technology to develop soil sampling grids or identify sampling sites for testing characteristics such as nitrogen, phosphorus, or potassium content, pH, or micronutrients.",0.75,geospatial analysis for sampling design
+18284,Precision Agriculture Technicians,"Divide agricultural fields into georeferenced zones, based on soil characteristics and production potentials.",0.80,GIS-based zone analysis
+18280,Precision Agriculture Technicians,"Install, calibrate, or maintain sensors, mechanical controls, GPS-based vehicle guidance systems, or computer settings.",0.10,physical installation and calibration
+18289,Precision Agriculture Technicians,"Create, layer, and analyze maps showing precision agricultural data, such as crop yields, soil characteristics, input applications, terrain, drainage patterns, or field management history.",0.85,GIS map creation and analysis
+18279,Precision Agriculture Technicians,"Compare crop yield maps with maps of soil test data, chemical application patterns, or other information to develop site-specific crop management plans.",0.85,data comparison and analysis
+20875,Precision Agriculture Technicians,"Analyze geospatial data to determine agricultural implications of factors such as soil quality, terrain, field productivity, fertilizers, or weather conditions.",0.85,geospatial data analysis
+18282,Precision Agriculture Technicians,"Identify spatial coordinates, using remote sensing and Global Positioning System (GPS) data.",0.80,spatial data processing
+20874,Precision Agriculture Technicians,Analyze data from harvester monitors to develop yield maps.,0.85,data analysis from monitors
+19801,Precision Agriculture Technicians,Apply precision agriculture information to specifically reduce the negative environmental impacts of farming practices.,0.45,advisory analysis though application is physical
+20873,Precision Agriculture Technicians,"Demonstrate the applications of geospatial technology, such as Global Positioning System (GPS), geographic information systems (GIS), automatic tractor guidance systems, variable rate chemical input applicators, surveying equipment, or computer mapping software.",0.15,live physical demonstration
+18296,Precision Agriculture Technicians,"Draw or read maps, such as soil, contour, or plat maps.",0.80,digital map interpretation task

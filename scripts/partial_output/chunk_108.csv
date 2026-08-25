@@ -1,0 +1,131 @@
+task_id,occupation,task_text,coverage,rationale
+14908,Paperhangers,"Trim excess material at ceilings or baseboards, using knives.",0.00,physical trimming with knives
+14909,Paperhangers,"Check finished wallcoverings for proper alignment, pattern matching, and neatness of seams.",0.05,on-site visual inspection of finished work
+14910,Paperhangers,"Mark vertical guidelines on walls to align strips, using plumb bobs and chalk lines.",0.00,physical marking on walls
+14911,Paperhangers,"Cover interior walls and ceilings of rooms with decorative wallpaper or fabric, using hand tools.",0.00,physical wallpapering by hand
+14912,Paperhangers,"Apply adhesives to the backs of paper strips, using brushes, or dunk strips of prepasted wallcovering in water, wiping off any excess adhesive.",0.00,physical adhesive application
+14913,Paperhangers,"Measure and cut strips from rolls of wallpaper or fabric, using shears or razors.",0.00,physical measuring and cutting material
+14914,Paperhangers,"Place strips or sections of paper on surfaces, aligning section edges and patterns.",0.00,physical placement of paper strips
+14915,Paperhangers,"Fill holes, cracks, and other surface imperfections preparatory to covering surfaces.",0.00,physical surface repair
+14916,Paperhangers,Measure surfaces or review work orders to estimate the quantities of materials needed.,0.15,on-site measurement though estimation part is info work
+14917,Paperhangers,Apply sizing to seal surfaces and maximize adhesion of coverings to surfaces.,0.00,physical sizing application
+14918,Paperhangers,"Smooth rough spots on walls and ceilings, using sandpaper.",0.00,physical sanding
+14919,Paperhangers,"Set up equipment, such as pasteboards and scaffolds.",0.00,physical equipment setup
+14920,Paperhangers,"Remove old paper, using water, steam machines, or solvents and scrapers.",0.00,physical paper removal
+14921,Paperhangers,"Apply thinned glue to waterproof porous surfaces, using brushes, rollers, or pasting machines.",0.00,physical glue application
+14922,Paperhangers,"Mix paste, using paste powder and water, and brush paste onto surfaces.",0.00,physical paste mixing and application
+14923,Paperhangers,"Staple or tack advertising posters onto fences, walls, billboards, or poles.",0.00,physical posting of materials
+14924,Paperhangers,"Remove paint, varnish, dirt, and grease from surfaces, using paint remover and water soda solutions.",0.00,physical surface cleaning
+14925,Paperhangers,Apply acetic acid to damp plaster to prevent lime from bleeding through paper.,0.00,physical chemical application
+11536,Pipelayers,"Grade or level trench bases, using tamping machines or hand tools.",0.00,physical trench grading
+11539,Pipelayers,"Dig trenches to desired or required depths, by hand or using trenching tools.",0.00,physical digging
+11533,Pipelayers,Cut pipes to required lengths.,0.00,physical pipe cutting
+11535,Pipelayers,"Install or use instruments such as lasers, grade rods, or transit levels.",0.00,physical instrument setup on site
+11531,Pipelayers,Cover pipes with earth or other materials.,0.00,physical earthwork
+11532,Pipelayers,"Connect pipe pieces and seal joints, using welding equipment, cement, or glue.",0.00,physical pipe joining
+11534,Pipelayers,Install or repair sanitary or stormwater sewer structures or pipe systems.,0.00,physical sewer installation
+11530,Pipelayers,"Check slopes for conformance to requirements, using levels or lasers.",0.00,physical slope checking on site
+11538,Pipelayers,Align and position pipes to prepare them for welding or sealing.,0.00,physical pipe alignment
+11537,Pipelayers,"Lay out pipe routes, following written instructions or blueprints and coordinating layouts with supervisors.",0.15,layout planning aided by drawings but requires on-site coordination
+11542,Pipelayers,Tap and drill holes into pipes to introduce auxiliary lines or devices.,0.00,physical drilling
+11540,Pipelayers,"Operate mechanized equipment, such as pickup trucks, rollers, tandem dump trucks, front-end loaders, or backhoes.",0.00,physical equipment operation
+11541,Pipelayers,Train or supervise others in laying pipe.,0.10,on-site supervision and hands-on training
+11543,Pipelayers,"Locate existing pipes needing repair or replacement, using magnetic or radio indicators.",0.00,physical locating with field instruments
+23469,"Plumbers, Pipefitters, and Steamfitters","Shut off steam, water, or other gases or liquids from pipe sections, using valve keys or wrenches.",0.00,physical valve operation
+23478,"Plumbers, Pipefitters, and Steamfitters","Install underground storm, sanitary, or water piping systems, extending piping as needed to connect fixtures and plumbing.",0.00,physical underground piping install
+23466,"Plumbers, Pipefitters, and Steamfitters","Assemble pipe sections, tubing, or fittings, using couplings, clamps, screws, bolts, cement, plastic solvent, caulking, or soldering, brazing, or welding equipment.",0.00,physical pipe assembly
+23474,"Plumbers, Pipefitters, and Steamfitters","Locate and mark the position of pipe installations, connections, passage holes, or fixtures in structures, using measuring instruments such as rulers or levels.",0.00,physical on-site marking
+23459,"Plumbers, Pipefitters, and Steamfitters","Cut, thread, or hammer pipes to specifications, using tools such as saws, cutting torches, pipe threaders, or pipe benders.",0.00,physical pipe cutting and threading
+23460,"Plumbers, Pipefitters, and Steamfitters","Lay out full scale drawings of pipe systems, supports, or related equipment, according to blueprints.",0.55,technical drafting from blueprints could be done digitally
+23462,"Plumbers, Pipefitters, and Steamfitters","Plan pipe system layout, installation, or repair, according to specifications.",0.55,planning task an agent can largely draft from specs
+23475,"Plumbers, Pipefitters, and Steamfitters","Review blueprints, building codes, or specifications to determine work details or procedures.",0.75,pure document review and analysis
+23465,"Plumbers, Pipefitters, and Steamfitters","Select pipe sizes, types, or related materials, such as supports, hangers, or hydraulic cylinders, according to specifications.",0.70,analytical selection from specifications and catalogs
+23472,"Plumbers, Pipefitters, and Steamfitters",Fill pipes or plumbing fixtures with water or air and observe pressure gauges to detect and locate leaks.,0.00,physical pressure testing on site
+23471,"Plumbers, Pipefitters, and Steamfitters","Direct helpers engaged in pipe cutting, preassembly, or installation of plumbing systems or components.",0.05,on-site supervisory authority over workers
+23461,"Plumbers, Pipefitters, and Steamfitters","Inspect, examine, or test installed systems or pipe lines, using pressure gauge, hydrostatic testing, observation, or other methods.",0.00,physical system testing
+23467,"Plumbers, Pipefitters, and Steamfitters","Install pipe assemblies, fittings, valves, appliances such as dishwashers or water heaters, or fixtures such as sinks or toilets, using hand or power tools.",0.00,physical fixture installation
+23476,"Plumbers, Pipefitters, and Steamfitters",Anchor steel supports from ceiling joists to hold pipes in place.,0.00,physical support anchoring
+23463,"Plumbers, Pipefitters, and Steamfitters","Attach pipes to walls, structures, or fixtures, such as radiators or tanks, using brackets, clamps, tools, or welding equipment.",0.00,physical pipe attachment
+23464,"Plumbers, Pipefitters, and Steamfitters","Modify, clean, or maintain pipe systems, units, fittings, or related machines or equipment, using hand or power tools.",0.00,physical maintenance work
+23468,"Plumbers, Pipefitters, and Steamfitters",Install automatic controls to regulate pipe systems.,0.00,physical control installation
+23477,"Plumbers, Pipefitters, and Steamfitters","Estimate time, material, or labor costs for use in project plans.",0.75,cost estimation is analytical information work
+23470,"Plumbers, Pipefitters, and Steamfitters",Keep records of work assignments.,0.90,pure administrative recordkeeping
+23479,"Plumbers, Pipefitters, and Steamfitters","Inspect structures to assess material or equipment needs, to establish the sequence of pipe installations, or to plan installation around obstructions, such as electrical wiring.",0.10,requires physical on-site inspection
+23473,"Plumbers, Pipefitters, and Steamfitters","Maintain or repair plumbing by replacing defective washers, replacing or mending broken pipes, or opening clogged drains.",0.00,physical repair work
+23488,"Plumbers, Pipefitters, and Steamfitters",Repair or remove and replace system components.,0.00,physical component replacement
+23481,"Plumbers, Pipefitters, and Steamfitters","Cut openings in structures to accommodate pipes or pipe fittings, using hand or power tools.",0.00,physical cutting of openings
+23480,"Plumbers, Pipefitters, and Steamfitters","Install green plumbing equipment, such as faucet flow restrictors, dual-flush or pressure-assisted flush toilets, or tankless hot water heaters.",0.00,physical equipment installation
+23482,"Plumbers, Pipefitters, and Steamfitters",Inspect work sites for obstructions or holes that could cause structural weakness.,0.00,physical site inspection
+23484,"Plumbers, Pipefitters, and Steamfitters","Install pipe systems to support alternative energy-fueled systems, such as geothermal heating or cooling systems.",0.00,physical pipe system installation
+23483,"Plumbers, Pipefitters, and Steamfitters","Install fixtures, appliances, or equipment designed to reduce water or energy consumption.",0.00,physical fixture installation
+23487,"Plumbers, Pipefitters, and Steamfitters",Repair hydraulic or air pumps.,0.00,physical pump repair
+23485,"Plumbers, Pipefitters, and Steamfitters","Weld small pipes or special piping, using specialized techniques, equipment, or materials, such as computer-assisted welding or microchip fabrication.",0.00,physical welding
+23486,"Plumbers, Pipefitters, and Steamfitters","Operate motorized pumps to remove water from flooded manholes, basements, or facility floors.",0.00,physical pump operation on site
+17782,Solar Thermal Installers and Technicians,"Test operation or functionality of mechanical, plumbing, electrical, and control systems.",0.00,physical system testing on site
+17784,Solar Thermal Installers and Technicians,"Apply weather seal, such as pipe flashings and sealants, to roof penetrations and structural devices.",0.00,physical sealant application
+17780,Solar Thermal Installers and Technicians,"Install solar collector mounting devices on tile, asphalt, shingle, or built-up gravel roofs, using appropriate materials and penetration methods.",0.00,physical roof mounting installation
+17775,Solar Thermal Installers and Technicians,"Install copper or plastic plumbing using pipes, fittings, pipe cutters, acetylene torches, solder, wire brushes, sand cloths, flux, plastic pipe cleaners, or plastic glue.",0.00,physical plumbing installation
+17773,Solar Thermal Installers and Technicians,"Identify plumbing, electrical, environmental, or safety hazards associated with solar thermal installations.",0.10,mostly on-site hazard inspection
+17786,Solar Thermal Installers and Technicians,"Demonstrate start-up, shut-down, maintenance, diagnostic, and safety procedures to thermal system owners.",0.05,in-person hands-on demonstration to owner
+17774,Solar Thermal Installers and Technicians,"Install circulating pumps using pipe, fittings, soldering equipment, electrical supplies, and hand tools.",0.00,physical pump installation
+17776,Solar Thermal Installers and Technicians,"Install flat-plat, evacuated glass, or concentrating solar collectors on mounting devices, using brackets or struts.",0.00,physical collector installation
+17781,Solar Thermal Installers and Technicians,Install solar thermal system controllers and sensors.,0.00,physical controller and sensor installation
+17772,Solar Thermal Installers and Technicians,"Fill water tanks and check tanks, pipes, and fittings for leaks.",0.00,physical leak checking on site
+17766,Solar Thermal Installers and Technicians,"Design active direct or indirect, passive direct or indirect, or pool solar systems.",0.65,engineering design work an agent can largely perform
+17771,Solar Thermal Installers and Technicians,"Determine locations for installing solar subsystem components, including piping, water heaters, valves, and ancillary equipment.",0.15,component siting requires physical site assessment
+17767,Solar Thermal Installers and Technicians,Perform routine maintenance or repairs to restore solar thermal systems to baseline operating conditions.,0.00,physical maintenance and repair
+17777,Solar Thermal Installers and Technicians,Install heat exchangers and heat exchanger fluids according to installation manuals and schematics.,0.00,physical heat exchanger installation
+17768,Solar Thermal Installers and Technicians,"Apply operation or identification tags or labels to system components, as required.",0.00,physical labeling of components
+17770,Solar Thermal Installers and Technicians,Connect water heaters and storage tanks to power and water sources.,0.00,physical utility connections
+17785,Solar Thermal Installers and Technicians,"Cut, miter, and glue piping insulation to insulate plumbing pipes and fittings.",0.00,physical insulation cutting and gluing
+17779,Solar Thermal Installers and Technicians,"Install plumbing, such as dip tubes, port fittings, drain tank valves, pressure temperature relief valves, or tanks, according to manufacturer specifications and building codes.",0.00,physical plumbing installation
+17778,Solar Thermal Installers and Technicians,"Install monitoring system components, such as flow meters, temperature gauges, and pressure gauges, according to system design and manufacturer specifications.",0.00,physical monitoring equipment installation
+17769,Solar Thermal Installers and Technicians,Assess collector sites to ensure structural integrity of potential mounting surfaces or the best orientation and tilt for solar collectors.,0.10,requires physical site structural assessment
+17783,Solar Thermal Installers and Technicians,Apply ultraviolet radiation protection to prevent degradation of plumbing.,0.00,physical protective coating application
+20789,Plasterers and Stucco Masons,"Cover surfaces such as windows, doors, or sidewalks to protect from splashing.",0.00,physical surface covering
+20790,Plasterers and Stucco Masons,Clean job sites.,0.00,physical site cleanup
+9879,Plasterers and Stucco Masons,Mix mortar and plaster to desired consistency or direct workers who perform mixing.,0.05,mostly physical mixing with minor direction of workers
+9878,Plasterers and Stucco Masons,"Apply coats of plaster or stucco to walls, ceilings, or partitions of buildings, using trowels, brushes, or spray guns.",0.00,physical plaster application
+20791,Plasterers and Stucco Masons,Set up scaffolds.,0.00,physical scaffold setup
+20792,Plasterers and Stucco Masons,Determine materials needed to complete the job and place orders accordingly.,0.55,material planning and ordering is largely information work
+9885,Plasterers and Stucco Masons,"Apply weatherproof, decorative coverings to exterior surfaces of buildings, such as by troweling or spraying on coats of stucco.",0.00,physical stucco application
+9883,Plasterers and Stucco Masons,"Clean and prepare surfaces for applications of plaster, cement, stucco, or similar materials, such as by drywall taping.",0.00,physical surface preparation
+9880,Plasterers and Stucco Masons,"Create decorative textures in finish coat, using brushes or trowels, sand, pebbles, or stones.",0.00,physical decorative texturing
+9881,Plasterers and Stucco Masons,"Apply insulation to building exteriors by installing prefabricated insulation systems over existing walls or by covering the outer wall with insulation board, reinforcing mesh, and a base coat.",0.00,physical insulation installation
+9884,Plasterers and Stucco Masons,Rough the undercoat surface with a scratcher so the finish coat will adhere.,0.00,physical surface roughening
+9882,Plasterers and Stucco Masons,Cure freshly plastered surfaces.,0.00,physical curing process on site
+9886,Plasterers and Stucco Masons,"Install guide wires on exterior surfaces of buildings to indicate thickness of plaster or stucco and nail wire mesh, lath, or similar materials to the outside surface to hold stucco in place.",0.00,physical wire and lath installation
+9887,Plasterers and Stucco Masons,Spray acoustic materials or texture finish over walls or ceilings.,0.00,physical spraying work
+9888,Plasterers and Stucco Masons,"Mold or install ornamental plaster pieces, panels, or trim.",0.00,physical ornamental installation
+13569,Reinforcing Iron and Rebar Workers,"Determine quantities, sizes, shapes, and locations of reinforcing rods from blueprints, sketches, or oral instructions.",0.55,quantity takeoff from blueprints is largely analytical
+13568,Reinforcing Iron and Rebar Workers,"Space and fasten together rods in forms according to blueprints, using wire and pliers.",0.00,physical rod fastening
+13567,Reinforcing Iron and Rebar Workers,"Position and secure steel bars, rods, cables, or mesh in concrete forms, using fasteners, rod-bending machines, blowtorches, or hand tools.",0.00,physical rebar positioning
+13571,Reinforcing Iron and Rebar Workers,"Cut rods to required lengths, using metal shears, hacksaws, bar cutters, or acetylene torches.",0.00,physical rod cutting
+13570,Reinforcing Iron and Rebar Workers,Place blocks under rebar to hold the bars off the deck when reinforcing floors.,0.00,physical block placement
+13572,Reinforcing Iron and Rebar Workers,"Cut and fit wire mesh or fabric, using hooked rods, and position fabric or mesh in concrete to reinforce concrete.",0.00,physical mesh cutting and fitting
+13573,Reinforcing Iron and Rebar Workers,Bend steel rods with hand tools or rod-bending machines and weld them with arc-welding equipment.,0.00,physical bending and welding
+13574,Roofers,Inspect problem roofs to determine the best repair procedures.,0.10,requires physical on-site roof inspection
+13586,Roofers,"Remove snow, water, or debris from roofs prior to applying roofing materials.",0.00,physical debris removal
+13575,Roofers,Set up scaffolding to provide safe access to roofs.,0.00,physical scaffolding setup
+20793,Roofers,Estimate materials and labor required to complete roofing jobs.,0.70,cost and material estimation is analytical work
+13578,Roofers,Cement or nail flashing strips of metal or shingle over joints to make them watertight.,0.00,physical flashing installation
+13584,Roofers,"Install partially overlapping layers of material over roof insulation surfaces, using chalk lines, gauges on shingling hatchets, or lines on shingles.",0.00,physical roofing material installation
+13580,Roofers,"Cut felt, shingles, or strips of flashing to fit angles formed by walls, vents, or intersecting roof surfaces.",0.00,physical cutting of roofing material
+13592,Roofers,"Apply plastic coatings, membranes, fiberglass, or felt over sloped roofs before applying shingles.",0.00,physical coating application
+13579,Roofers,"Install, repair, or replace single-ply roofing systems, using waterproof sheet materials such as modified plastics, elastomeric, or other asphaltic compositions.",0.00,physical roofing system installation
+20794,Roofers,Attach roofing paper to roofs in overlapping strips to form bases for other materials.,0.00,physical roofing paper attachment
+13585,Roofers,"Cover roofs or exterior walls of structures with slate, asphalt, aluminum, wood, gravel, gypsum, or related materials, using brushes, knives, punches, hammers, or other tools.",0.00,physical roof covering installation
+13590,Roofers,"Waterproof or damp-proof walls, floors, roofs, foundations, or basements by painting or spraying surfaces with waterproof coatings or by attaching waterproofing membranes to surfaces.",0.00,physical waterproofing application
+19851,Roofers,"Apply reflective roof coatings, such as special paints or single-ply roofing sheets, to existing roofs to reduce solar heat absorption.",0.00,physical coating application
+13587,Roofers,Apply alternate layers of hot asphalt or tar and roofing paper to roofs.,0.00,physical hot asphalt application
+13581,Roofers,Install vapor barriers or layers of insulation on flat roofs.,0.00,physical insulation installation
+13583,Roofers,Cover exposed nailheads with roofing cement or caulking to prevent water leakage or rust.,0.00,physical caulking application
+13593,Roofers,"Smooth rough spots to prepare surfaces for waterproofing, using hammers, chisels, or rubbing bricks.",0.00,physical surface smoothing
+13594,Roofers,Glaze top layers to make a smooth finish or embed gravel in the bitumen for rough surfaces.,0.00,physical glazing and gravel embedding
+13591,Roofers,Mop or pour hot asphalt or tar onto roof bases.,0.00,physical mopping of hot asphalt
+19853,Roofers,"Install attic ventilation systems, such as turbine vents, gable or ridge vents, or conventional or solar-powered exhaust fans.",0.00,physical ventilation installation
+19855,Roofers,Install skylights on roofs to increase natural light inside structures or to reduce energy costs.,0.00,physical skylight installation
+13595,Roofers,"Apply gravel or pebbles over top layers of roofs, using rakes or stiff-bristled brooms.",0.00,physical gravel application
+13589,Roofers,"Spray roofs, sidings, or walls to bind, seal, insulate, or soundproof sections of structures, using spray guns, air compressors, or heaters.",0.00,physical spraying work
+19852,Roofers,"Attach solar panels to existing roofs, according to specifications and without damaging roofing materials or the structural integrity of buildings.",0.00,physical solar panel attachment
+13596,Roofers,"Punch holes in slate, tile, terra cotta, or wooden shingles, using punches and hammers.",0.00,physical hole punching
