@@ -31,6 +31,7 @@
   .gate .credit-note { background: linear-gradient(135deg,#fffaf0,#feebc8); border: 1.5px solid #f6ad55;
                        border-radius: 10px; padding: 13px 15px; margin-bottom: 16px; font-size: 13px;
                        color: #7b341e; line-height: 1.6; }
+  .gate .id-hint { font-size: 12.5px; color: #4a5568; margin: -4px 0 12px; min-height: 15px; }
   .gate .rubric { background: #f8fafc; border-radius: 10px; padding: 14px 16px; margin-top: 18px;
                   font-size: 13px; color: #4a5568; line-height: 1.7; }
   .gate .rubric b { color: #2d3748; }
@@ -150,11 +151,14 @@
     tasks one occupation at a time and judge how much an autonomous AI agent could do unaided.</div>
   <div class="credit-note">
     &#127942; <b>Get credited.</b> This dataset is public and its human validation is
-    <b>in progress</b>. Every verified contributor is <b>named in the Acknowledgements</b>
-    of the dataset and its paper. Add your name (email optional, for credit) to begin.
+    <b>in progress</b>. Credit in the <b>Acknowledgements</b> is added <b>only when you
+    complete all 180 occupations (200 tasks)</b>. Partial runs still help the research,
+    but only a full run earns a credit. Your email saves your progress so you can stop
+    and resume anytime.
   </div>
-  <input id="g-name" type="text" placeholder="Your name (or nickname)">
-  <input id="g-email" type="email" placeholder="Email (optional, for credit)">
+  <input id="g-email" type="email" placeholder="Email (saves your progress)" onblur="lookupIdentity()" onchange="lookupIdentity()">
+  <input id="g-name" type="text" placeholder="Your name (for the Acknowledgements)">
+  <div class="id-hint" id="id-hint"></div>
   <button onclick="enterTool()">Start annotating &#8594;</button>
   <div class="rubric">
     <b>For each task, set one slider:</b> how much of it a capable autonomous AI agent (2026)
@@ -234,12 +238,15 @@
         var g = document.getElementById('globalStat'); if (g) g.innerHTML = '<b>' + total + '</b> ratings collected so far';
       }).getGlobalCount();
     }
-    // Stable session id derived from identity, so a refresh / different device
-    // maps to the same person and resumes (and re-rating upserts, not dupes).
-    function sidFor(name, email) {
-      var key = (String(name) + '|' + String(email)).toLowerCase().replace(/\s+/g, ' ').trim();
-      var h = 5381; for (var j = 0; j < key.length; j++) { h = ((h << 5) + h + key.charCodeAt(j)) >>> 0; }
-      var slug = key.replace(/[^a-z0-9]+/g, '').slice(0, 12);
+    // Stable session id derived from EMAIL only (name is for credit, not matching),
+    // so a refresh / different device / a typo in the name still maps to the same
+    // person and resumes (and re-rating upserts, not dupes). If no email is given
+    // we fall back to the name so anonymous raters still get a stable-ish id.
+    function sidFor(email, name) {
+      var raw = String(email || '').toLowerCase().trim();
+      if (!raw) raw = 'name:' + String(name || 'anon').toLowerCase().replace(/\s+/g, ' ').trim();
+      var h = 5381; for (var j = 0; j < raw.length; j++) { h = ((h << 5) + h + raw.charCodeAt(j)) >>> 0; }
+      var slug = raw.replace(/[^a-z0-9]+/g, '').slice(0, 12);
       return 'sess-' + h.toString(36) + '-' + (slug || 'anon');
     }
     // Remember identity in this browser so the gate is prefilled after a refresh.
@@ -247,16 +254,36 @@
     function prefillGate() {
       try {
         var d = JSON.parse(localStorage.getItem('ate_cov_ident') || '{}');
-        if (d.n) document.getElementById('g-name').value = d.n;
         if (d.e) document.getElementById('g-email').value = d.e;
+        if (d.n) document.getElementById('g-name').value = d.n;
+        if (d.e) lookupIdentity();
       } catch (e) {}
+    }
+    // Email is the key. When one is entered, ask the Sheet if we already know this
+    // person; if so, prefill their name. If not, nudge them to add one for credit.
+    function lookupIdentity() {
+      var em = (document.getElementById('g-email').value || '').trim();
+      var hint = document.getElementById('id-hint');
+      if (!em) { if (hint) hint.textContent = ''; return; }
+      google.script.run
+        .withSuccessHandler(function (name) {
+          var nm = document.getElementById('g-name');
+          if (name) {
+            if (!nm.value.trim()) nm.value = name;
+            if (hint) hint.textContent = '✓ Welcome back — resuming as ' + (nm.value.trim() || name) + '.';
+          } else if (hint) {
+            hint.textContent = 'New here? Add your name so we can credit you.';
+          }
+        })
+        .withFailureHandler(function () {})
+        .getIdentityForEmail(em);
     }
 
 
     function enterTool() {
-      annName = (document.getElementById('g-name').value || '').trim() || 'anonymous';
       annEmail = (document.getElementById('g-email').value || '').trim();
-      sessionId = sidFor(annName, annEmail);
+      annName = (document.getElementById('g-name').value || '').trim() || 'anonymous';
+      sessionId = sidFor(annEmail, annName);
       saveIdent();
       document.getElementById('gate').style.display = 'none';
       document.getElementById('app').style.display = '';

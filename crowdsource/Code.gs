@@ -180,6 +180,30 @@ function getGlobalCount() {
 }
 
 /**
+ * Identity lookup by email. Matching across the whole tool is keyed on email
+ * (the name is only for the Acknowledgements), so when someone enters their
+ * email on the gate we return the name we last saw for it. The client uses this
+ * to prefill the name field (or, if empty, prompt for one). Returns '' if the
+ * email has never been seen. Not an auth check: email is self-declared.
+ */
+function getIdentityForEmail(email) {
+  var em = String(email || '').toLowerCase().trim();
+  if (!em) return '';
+  var sh = getResponseSheet_();
+  var last = sh.getLastRow();
+  if (last < 2) return '';
+  var data = sh.getRange(2, 1, last - 1, HEADERS.length).getValues();
+  var NAME = 1, EMAIL = 2; // 0-based column positions
+  var name = '';
+  for (var i = 0; i < data.length; i++) { // top->bottom: keep the most recent non-empty name
+    if (String(data[i][EMAIL]).toLowerCase().trim() === em && String(data[i][NAME]).trim()) {
+      name = String(data[i][NAME]).trim();
+    }
+  }
+  return name;
+}
+
+/**
  * Resume support: return THIS annotator's prior ratings so a refresh (or a
  * different device) picks up where they left off instead of starting over.
  * The client derives a stable session_id from the annotator's name+email, so
