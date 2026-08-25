@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "13969",
+  "occupation": "Engine and Other Machine Assemblers",
+  "task_text": "Set up and operate metalworking machines, such as milling or grinding machines, to shape or fabricate parts."
+ },
+ {
+  "task_id": "13963",
+  "occupation": "Engine and Other Machine Assemblers",
+  "task_text": "Maintain and lubricate parts or components."
+ },
+ {
+  "task_id": "10036",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Verify conformance of workpieces to specifications, using squares, rulers, and measuring tapes."
+ },
+ {
+  "task_id": "10042",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Study engineering drawings and blueprints to determine materials requirements and task sequences."
+ },
+ {
+  "task_id": "10035",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Position, align, fit, and weld parts to form complete units or subunits, following blueprints and layout specifications, and using jigs, welding torches, and hand tools."
+ },
+ {
+  "task_id": "10038",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Lay out and examine metal stock or workpieces to be processed to ensure that specifications are met."
+ },
+ {
+  "task_id": "10037",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Tack-weld fitted parts together."
+ },
+ {
+  "task_id": "10043",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Move parts into position, manually or with hoists or cranes."
+ },
+ {
+  "task_id": "10044",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Set up and operate fabricating machines, such as brakes, rolls, shears, flame cutters, grinders, and drill presses, to bend, cut, form, punch, drill, or otherwise form and assemble metal components."
+ },
+ {
+  "task_id": "10041",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Position or tighten braces, jacks, clamps, ropes, or bolt straps, or bolt parts in position for welding or riveting."
+ },
+ {
+  "task_id": "10053",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Lift or move materials and finished products, using large cranes."
+ },
+ {
+  "task_id": "10050",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Set up face blocks, jigs, and fixtures."
+ },
+ {
+  "task_id": "10039",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Align and fit parts according to specifications, using jacks, turnbuckles, wedges, drift pins, pry bars, and hammers."
+ },
+ {
+  "task_id": "10045",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Hammer, chip, and grind workpieces to cut, bend, and straighten metal."
+ },
+ {
+  "task_id": "10040",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Locate and mark workpiece bending and cutting lines, allowing for stock thickness, machine and welding shrinkage, and other component specifications."
+ },
+ {
+  "task_id": "10051",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Remove high spots and cut bevels, using hand files, portable grinders, and cutting torches."
+ },
+ {
+  "task_id": "10046",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Smooth workpiece edges and fix taps, tubes, and valves."
+ },
+ {
+  "task_id": "10049",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Mark reference points onto floors or face blocks and transpose them to workpieces, using measuring devices, squares, chalk, and soapstone."
+ },
+ {
+  "task_id": "10047",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Design and construct templates and fixtures, using hand tools."
+ },
+ {
+  "task_id": "10052",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Direct welders to build up low spots or short pieces with weld."
+ },
+ {
+  "task_id": "10054",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Heat-treat parts, using acetylene torches."
+ },
+ {
+  "task_id": "10048",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Straighten warped or bent parts, using sledges, hand torches, straightening presses, or bulldozers."
+ },
+ {
+  "task_id": "10057",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Erect ladders and scaffolding to fit together large assemblies."
+ },
+ {
+  "task_id": "10055",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Preheat workpieces to make them malleable, using hand torches or furnaces."
+ },
+ {
+  "task_id": "10056",
+  "occupation": "Structural Metal Fabricators and Fitters",
+  "task_text": "Install boilers, containers, and other structures."
+ },
+ {
+  "task_id": "13970",
+  "occupation": "Fiberglass Laminators and Fabricators",
+  "task_text": "Release air bubbles and smooth seams, using rollers."
+ },
+ {
+  "task_id": "13971",
+  "occupation": "Fiberglass Laminators and Fabricators",
+  "task_text": "Spray chopped fiberglass, resins, and catalysts onto prepared molds or dies using pneumatic spray guns with chopper attachments."
+ },
+ {
+  "task_id": "13974",
+  "occupation": "Fiberglass Laminators and Fabricators",
+  "task_text": "Mix catalysts into resins, and saturate cloth and mats with mixtures, using brushes."
+ },
+ {
+  "task_id": "13976",
+  "occupation": "Fiberglass Laminators and Fabricators",
+  "task_text": "Check completed products for conformance to specifications and for defects by measuring with rulers or micrometers, by checking them visually, or by tapping them to detect bubbles or dead spots."
+ },
+ {
+  "task_id": "13973",
+  "occupation": "Fiberglass Laminators and Fabricators",
+  "task_text": "Pat or press layers of saturated mat or cloth into place on molds, using brushes or hands, and smooth out wrinkles and air bubbles with hands or squeegees."
+ },
+ {
+  "task_id": "13972",
+  "occupation": "Fiberglass Laminators and Fabricators",
+  "task_text": "Select precut fiberglass mats, cloth, and wood-bracing materials as required by projects being assembled."
+ },
+ {
+  "task_id": "13975",
+  "occupation": "Fiberglass Laminators and Fabricators",
+  "task_text": "Bond wood reinforcing strips to decks and cabin structures of watercraft, using resin-saturated fiberglass."
+ },
+ {
+  "task_id": "13977",
+  "occupation": "Fiberglass Laminators and Fabricators",
+  "task_text": "Trim excess materials from molds, using hand shears or trimming knives."
+ },
+ {
+  "task_id": "13980",
+  "occupation": "Fiberglass Laminators and Fabricators",
+  "task_text": "Apply layers of plastic resin to mold surfaces prior to placement of fiberglass mats, repeating layers until products have the desired thicknesses and plastics have jelled."
+ },
+ {
+  "task_id": "13984",
+  "occupation": "Fiberglass Laminators and Fabricators",
+  "task_text": "Inspect, clean, and assemble molds before beginning work."
+ },
+ {
+  "task_id": "13979",
+  "occupation": "Fiberglass Laminators and Fabricators",
+  "task_text": "Cure materials by letting them set at room temperature, placing them under heat lamps, or baking them in ovens."
+ },
+ {
+  "task_id": "13982",
+  "occupation": "Fiberglass Laminators and Fabricators",
+  "task_text": "Apply lacquers and waxes to mold surfaces to facilitate assembly and removal of laminated parts."
+ },
+ {
+  "task_id": "13978",
+  "occupation": "Fiberglass Laminators and Fabricators",
+  "task_text": "Repair or modify damaged or defective glass-fiber parts, checking thicknesses, densities, and contours to ensure a close fit after repair."
+ },
+ {
+  "task_id": "13981",
+  "occupation": "Fiberglass Laminators and Fabricators",
+  "task_text": "Mask off mold areas not to be laminated, using cellophane, wax paper, masking tape, or special sprays containing mold-release substances."
+ },
+ {
+  "task_id": "13983",
+  "occupation": "Fiberglass Laminators and Fabricators",
+  "task_text": "Check all dies, templates, and cutout patterns to be used in the manufacturing process to ensure that they conform to dimensional data, photographs, blueprints, samples, or customer specifications."
+ },
+ {
+  "task_id": "13985",
+  "occupation": "Fiberglass Laminators and Fabricators",
+  "task_text": "Trim cured materials by sawing them with diamond-impregnated cutoff wheels."
+ },
+ {
+  "task_id": "15003",
+  "occupation": "Timing Device Assemblers and Adjusters",
+  "task_text": "Assemble and install components of timepieces to complete mechanisms, using watchmakers' tools and loupes."
+ },
+ {
+  "task_id": "15004",
+  "occupation": "Timing Device Assemblers and Adjusters",
+  "task_text": "Observe operation of timepiece parts and subassemblies to determine accuracy of movement, and to diagnose causes of defects."
+ },
+ {
+  "task_id": "15005",
+  "occupation": "Timing Device Assemblers and Adjusters",
+  "task_text": "Test operation and fit of timepiece parts and subassemblies, using electronic testing equipment, tweezers, watchmakers' tools, and loupes."
+ },
+ {
+  "task_id": "15006",
+  "occupation": "Timing Device Assemblers and Adjusters",
+  "task_text": "Replace specified parts to repair malfunctioning timepieces, using watchmakers' tools, loupes, and holding fixtures."
+ },
+ {
+  "task_id": "15007",
+  "occupation": "Timing Device Assemblers and Adjusters",
+  "task_text": "Disassemble timepieces such as watches, clocks, and chronometers so that repairs can be made."
+ },
+ {
+  "task_id": "15008",
+  "occupation": "Timing Device Assemblers and Adjusters",
+  "task_text": "Clean and lubricate timepiece parts and assemblies, using solvents, buff sticks, and oil."
+ },
+ {
+  "task_id": "15009",
+  "occupation": "Timing Device Assemblers and Adjusters",
+  "task_text": "Examine components of timepieces such as watches, clocks, or chronometers for defects, using loupes or microscopes."
+ },
+ {
+  "task_id": "15010",
+  "occupation": "Timing Device Assemblers and Adjusters",
+  "task_text": "Bend parts, such as hairsprings, pallets, barrel covers, and bridges, to correct deficiencies in truing or endshake, using tweezers."
+ },
+ {
+  "task_id": "15011",
+  "occupation": "Timing Device Assemblers and Adjusters",
+  "task_text": "Change timing weights on balance wheels to correct deficient timing."
+ },
+ {
+  "task_id": "15012",
+  "occupation": "Timing Device Assemblers and Adjusters",
+  "task_text": "Adjust sizes or positioning of timepiece parts to achieve specified fit or function, using calipers, fixtures, and loupes."
+ },
+ {
+  "task_id": "15013",
+  "occupation": "Timing Device Assemblers and Adjusters",
+  "task_text": "Mount hairsprings and balance wheel assemblies between jaws of truing calipers."
+ },
+ {
+  "task_id": "15014",
+  "occupation": "Timing Device Assemblers and Adjusters",
+  "task_text": "Estimate spaces between collets and first inner coils to determine if spaces are within acceptable limits."
+ },
+ {
+  "task_id": "15015",
+  "occupation": "Timing Device Assemblers and Adjusters",
+  "task_text": "Bend inner coils of springs away from or toward collets, using tweezers, to locate centers of collets in centers of springs, and to correct errors resulting from faulty colleting of coils."
+ },
+ {
+  "task_id": "15016",
+  "occupation": "Timing Device Assemblers and Adjusters",
+  "task_text": "Turn wheels of calipers and examine springs, using loupes, to determine if center coils appear as perfect circles."
+ },
+ {
+  "task_id": "15017",
+  "occupation": "Timing Device Assemblers and Adjusters",
+  "task_text": "Examine and adjust hairspring assemblies to ensure horizontal and circular alignment of hairsprings, using calipers, loupes, and watchmakers' tools."
+ },
+ {
+  "task_id": "15018",
+  "occupation": "Timing Device Assemblers and Adjusters",
+  "task_text": "Review blueprints, sketches, or work orders to gather information about tasks to be completed."
+ },
+ {
+  "task_id": "15019",
+  "occupation": "Timing Device Assemblers and Adjusters",
+  "task_text": "Tighten or replace loose jewels, using watchmakers' tools."
+ },
+ {
+  "task_id": "20157",
+  "occupation": "Team Assemblers",
+  "task_text": "Perform quality checks on products and parts."
+ },
+ {
+  "task_id": "20160",
+  "occupation": "Team Assemblers",
+  "task_text": "Review work orders and blueprints to ensure work is performed according to specifications."
+ },
+ {
+  "task_id": "8468",
+  "occupation": "Team Assemblers",
+  "task_text": "Rotate through all the tasks required in a particular production process."
+ },
+ {
+  "task_id": "8469",
+  "occupation": "Team Assemblers",
+  "task_text": "Determine work assignments and procedures."
+ },
+ {
+  "task_id": "20163",
+  "occupation": "Team Assemblers",
+  "task_text": "Supervise assemblers and train employees on job procedures."
+ },
+ {
+  "task_id": "20159",
+  "occupation": "Team Assemblers",
+  "task_text": "Shovel, sweep, or otherwise clean work areas."
+ },
+ {
+  "task_id": "8472",
+  "occupation": "Team Assemblers",
+  "task_text": "Provide assistance in the production of wiring assemblies."
+ },
+ {
+  "task_id": "20162",
+  "occupation": "Team Assemblers",
+  "task_text": "Maintain production equipment and machinery."
+ },
+ {
+  "task_id": "20161",
+  "occupation": "Team Assemblers",
+  "task_text": "Complete production reports to communicate team production level to management."
+ },
+ {
+  "task_id": "20158",
+  "occupation": "Team Assemblers",
+  "task_text": "Package finished products and prepare them for shipment."
+ },
+ {
+  "task_id": "20164",
+  "occupation": "Team Assemblers",
+  "task_text": "Operate machinery and heavy equipment, such as forklifts."
+ },
+ {
+  "task_id": "20819",
+  "occupation": "Bakers",
+  "task_text": "Check products for quality, and identify damaged or expired goods."
+ },
+ {
+  "task_id": "11916",
+  "occupation": "Bakers",
+  "task_text": "Set oven temperatures, and place items into hot ovens for baking."
+ },
+ {
+  "task_id": "11917",
+  "occupation": "Bakers",
+  "task_text": "Combine measured ingredients in bowls of mixing, blending, or cooking machinery."
+ },
+ {
+  "task_id": "11920",
+  "occupation": "Bakers",
+  "task_text": "Place dough in pans, molds, or on sheets, and bake in production ovens or on grills."
+ },
+ {
+  "task_id": "11926",
+  "occupation": "Bakers",
+  "task_text": "Set time and speed controls for mixing machines, blending machines, or steam kettles so that ingredients will be mixed or cooked according to instructions."
+ },
+ {
+  "task_id": "11918",
+  "occupation": "Bakers",
+  "task_text": "Measure or weigh flour or other ingredients to prepare batters, doughs, fillings, or icings, using scales or graduated containers."
+ },
+ {
+  "task_id": "11915",
+  "occupation": "Bakers",
+  "task_text": "Observe color of products being baked, and adjust oven temperatures, humidity, or conveyor speeds accordingly."
+ },
+ {
+  "task_id": "11921",
+  "occupation": "Bakers",
+  "task_text": "Check the quality of raw materials to ensure that standards and specifications are met."
+ },
+ {
+  "task_id": "11924",
+  "occupation": "Bakers",
+  "task_text": "Check equipment to ensure that it meets health and safety regulations, and perform maintenance or cleaning, as necessary."
+ },
+ {
+  "task_id": "11922",
+  "occupation": "Bakers",
+  "task_text": "Adapt the quantity of ingredients to match the amount of items to be baked."
+ },
+ {
+  "task_id": "11923",
+  "occupation": "Bakers",
+  "task_text": "Apply glazes, icings, or other toppings to baked goods, using spatulas or brushes."
+ },
+ {
+  "task_id": "11925",
+  "occupation": "Bakers",
+  "task_text": "Decorate baked goods, such as cakes or pastries."
+ },
+ {
+  "task_id": "11919",
+  "occupation": "Bakers",
+  "task_text": "Roll, knead, cut, or shape dough to form sweet rolls, pie crusts, tarts, cookies, or other products."
+ },
+ {
+  "task_id": "11928",
+  "occupation": "Bakers",
+  "task_text": "Direct or coordinate bakery deliveries."
+ },
+ {
+  "task_id": "11929",
+  "occupation": "Bakers",
+  "task_text": "Order or receive supplies or equipment."
+ },
+ {
+  "task_id": "11927",
+  "occupation": "Bakers",
+  "task_text": "Prepare or maintain inventory or production records."
+ },
+ {
+  "task_id": "11930",
+  "occupation": "Bakers",
+  "task_text": "Operate slicing or wrapping machines."
+ },
+ {
+  "task_id": "11931",
+  "occupation": "Bakers",
+  "task_text": "Develop new recipes for baked goods."
+ },
+ {
+  "task_id": "8784",
+  "occupation": "Butchers and Meat Cutters",
+  "task_text": "Prepare and place meat cuts and products in display counter to appear attractive and catch the shopper's eye."
+ },
+ {
+  "task_id": "8783",
+  "occupation": "Butchers and Meat Cutters",
+  "task_text": "Wrap, weigh, label, and price cuts of meat."
+ },
+ {
+  "task_id": "8786",
+  "occupation": "Butchers and Meat Cutters",
+  "task_text": "Cut, trim, bone, tie, and grind meats, such as beef, pork, poultry, and fish, to prepare in cooking form."
+ },
+ {
+  "task_id": "8785",
+  "occupation": "Butchers and Meat Cutters",
+  "task_text": "Prepare special cuts of meat ordered by customers."
+ },
+ {
+  "task_id": "8787",
+  "occupation": "Butchers and Meat Cutters",
+  "task_text": "Receive, inspect, and store meat upon delivery to ensure meat quality."
+ },
+ {
+  "task_id": "8789",
+  "occupation": "Butchers and Meat Cutters",
+  "task_text": "Estimate requirements and order or requisition meat supplies to maintain inventories."
+ },
+ {
+  "task_id": "8788",
+  "occupation": "Butchers and Meat Cutters",
+  "task_text": "Shape, lace, and tie roasts, using boning knife, skewer, and twine."
+ },
+ {
+  "task_id": "8791",
+  "occupation": "Butchers and Meat Cutters",
+  "task_text": "Record quantity of meat received and issued to cooks or keep records of meat sales."
+ },
+ {
+  "task_id": "8790",
+  "occupation": "Butchers and Meat Cutters",
+  "task_text": "Supervise other butchers or meat cutters."
+ },
+ {
+  "task_id": "8793",
+  "occupation": "Butchers and Meat Cutters",
+  "task_text": "Cure, smoke, tenderize, and preserve meat."
+ },
+ {
+  "task_id": "8792",
+  "occupation": "Butchers and Meat Cutters",
+  "task_text": "Negotiate with representatives from supply companies to determine order details."
+ },
+ {
+  "task_id": "8795",
+  "occupation": "Meat, Poultry, and Fish Cutters and Trimmers",
+  "task_text": "Use knives, cleavers, meat saws, bandsaws, or other equipment to perform meat cutting and trimming."
+ },
+ {
+  "task_id": "8804",
+  "occupation": "Meat, Poultry, and Fish Cutters and Trimmers",
+  "task_text": "Weigh meats and tag containers for weight and contents."
+ },
+ {
+  "task_id": "8799",
+  "occupation": "Meat, Poultry, and Fish Cutters and Trimmers",
+  "task_text": "Inspect meat products for defects, bruises or blemishes and remove them along with any excess fat."
+ },
+ {
+  "task_id": "8797",
+  "occupation": "Meat, Poultry, and Fish Cutters and Trimmers",
+  "task_text": "Cut and trim meat to prepare for packing."
+ },
+ {
+  "task_id": "8803",
+  "occupation": "Meat, Poultry, and Fish Cutters and Trimmers",
+  "task_text": "Separate meats and byproducts into specified containers and seal containers."
+ },
+ {
+  "task_id": "8801",
+  "occupation": "Meat, Poultry, and Fish Cutters and Trimmers",
+  "task_text": "Process primal parts into cuts that are ready for retail use."
+ },
+ {
+  "task_id": "8807",
+  "occupation": "Meat, Poultry, and Fish Cutters and Trimmers",
+  "task_text": "Prepare ready-to-heat foods by filleting meat or fish or cutting it into bite-sized pieces, preparing and adding vegetables or applying sauces or breading."
+ },
+ {
+  "task_id": "8796",
+  "occupation": "Meat, Poultry, and Fish Cutters and Trimmers",
+  "task_text": "Clean, trim, slice, and section carcasses for future processing."
+ },
+ {
+  "task_id": "8798",
+  "occupation": "Meat, Poultry, and Fish Cutters and Trimmers",
+  "task_text": "Remove parts, such as skin, feathers, scales or bones, from carcass."
+ },
+ {
+  "task_id": "8802",
+  "occupation": "Meat, Poultry, and Fish Cutters and Trimmers",
+  "task_text": "Obtain and distribute specified meat or carcass."
+ },
+ {
+  "task_id": "8800",
+  "occupation": "Meat, Poultry, and Fish Cutters and Trimmers",
+  "task_text": "Produce hamburger meat and meat trimmings."
+ },
+ {
+  "task_id": "8805",
+  "occupation": "Meat, Poultry, and Fish Cutters and Trimmers",
+  "task_text": "Clean and salt hides."
+ },
+ {
+  "task_id": "13986",
+  "occupation": "Slaughterers and Meat Packers",
+  "task_text": "Remove bones, and cut meat into standard cuts in preparation for marketing."
+ },
+ {
+  "task_id": "13991",
+  "occupation": "Slaughterers and Meat Packers",
+  "task_text": "Sever jugular veins to drain blood and facilitate slaughtering."
+ },
+ {
+  "task_id": "13990",
+  "occupation": "Slaughterers and Meat Packers",
+  "task_text": "Tend assembly lines, performing a few of the many cuts needed to process a carcass."
+ },
+ {
+  "task_id": "13994",
+  "occupation": "Slaughterers and Meat Packers",
+  "task_text": "Shackle hind legs of animals to raise them for slaughtering or skinning."
+ },
+ {
+  "task_id": "13989",
+  "occupation": "Slaughterers and Meat Packers",
+  "task_text": "Slit open, eviscerate, and trim carcasses of slaughtered animals."
+ },
+ {
+  "task_id": "13999",
+  "occupation": "Slaughterers and Meat Packers",
+  "task_text": "Stun animals prior to slaughtering."
+ },
+ {
+  "task_id": "13995",
+  "occupation": "Slaughterers and Meat Packers",
+  "task_text": "Skin sections of animals or whole animals."
+ },
+ {
+  "task_id": "13987",
+  "occupation": "Slaughterers and Meat Packers",
+  "task_text": "Cut, trim, skin, sort, and wash viscera of slaughtered animals to separate edible portions from offal."
+ },
+ {
+  "task_id": "13992",
+  "occupation": "Slaughterers and Meat Packers",
+  "task_text": "Shave or singe and defeather carcasses, and wash them in preparation for further processing or packaging."
+ },
+ {
+  "task_id": "13997",
+  "occupation": "Slaughterers and Meat Packers",
+  "task_text": "Saw, split, or scribe carcasses into smaller portions to facilitate handling."
+ },
+ {
+  "task_id": "13996",
+  "occupation": "Slaughterers and Meat Packers",
+  "task_text": "Trim head meat, and sever or remove parts of animals' heads or skulls."
+ },
+ {
+  "task_id": "13998",
+  "occupation": "Slaughterers and Meat Packers",
+  "task_text": "Grind meat into hamburger, and into trimmings used to prepare sausages, luncheon meats, and other meat products."
+ },
+ {
+  "task_id": "13993",
+  "occupation": "Slaughterers and Meat Packers",
+  "task_text": "Trim, clean, or cure animal hides."
+ },
+ {
+  "task_id": "14000",
+  "occupation": "Slaughterers and Meat Packers",
+  "task_text": "Wrap dressed carcasses or meat cuts."
+ },
+ {
+  "task_id": "10058",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Observe, feel, taste, or otherwise examine products during and after processing to ensure conformance to standards."
+ },
+ {
+  "task_id": "10061",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Set temperature and time controls, light ovens, burners, driers, or roasters, and start equipment, such as conveyors, cylinders, blowers, driers, or pumps."
+ },
+ {
+  "task_id": "10059",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Observe temperature, humidity, pressure gauges, and product samples and adjust controls, such as thermostats and valves, to maintain prescribed operating conditions for specific stages."
+ },
+ {
+  "task_id": "10062",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Observe flow of materials and listen for machine malfunctions, such as jamming or spillage, and notify supervisors if corrective actions fail."
+ },
+ {
+  "task_id": "10063",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Record production data, such as weight and amount of product processed, type of product, and time and temperature of processing."
+ },
+ {
+  "task_id": "10064",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Weigh or measure products, using scale hoppers or scale conveyors."
+ }
+]

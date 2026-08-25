@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "22930",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Direct investigation of cases of suspected arson, hazards, and false alarms and submit reports outlining findings."
+ },
+ {
+  "task_id": "22931",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Recommend equipment modifications or new equipment purchases."
+ },
+ {
+  "task_id": "22932",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Supervise and participate in the inspection of properties to ensure that they are in compliance with applicable fire codes, ordinances, laws, regulations, and standards."
+ },
+ {
+  "task_id": "22933",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Inspect and test new and existing fire protection systems, fire detection systems, and fire safety equipment to ensure that they are operating properly."
+ },
+ {
+  "task_id": "22934",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Study and interpret fire safety codes to establish procedures for issuing permits to handle hazardous or flammable substances."
+ },
+ {
+  "task_id": "22935",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Analyze burn conditions and results, and prepare postburn reports."
+ },
+ {
+  "task_id": "22936",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Evaluate size, location, and condition of fires."
+ },
+ {
+  "task_id": "22937",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Maintain knowledge of fire laws and fire prevention techniques and tactics."
+ },
+ {
+  "task_id": "22938",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Plan, direct, and supervise prescribed burn projects."
+ },
+ {
+  "task_id": "22939",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Recruit or hire firefighting personnel."
+ },
+ {
+  "task_id": "22947",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Investigate disturbances on the premises, such as security alarms, altercations, and suspicious activity."
+ },
+ {
+  "task_id": "22953",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Patrol the premises to prevent or detect intrusion, protect property, or preserve order."
+ },
+ {
+  "task_id": "22949",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Monitor and authorize entry of employees, visitors, or other persons."
+ },
+ {
+  "task_id": "22957",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Secure entrances and exits by locking doors and gates."
+ },
+ {
+  "task_id": "22960",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Write reports documenting observations made while on patrol."
+ },
+ {
+  "task_id": "22951",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Monitor the behavior of security employees to ensure adherence to quality standards, deadlines, or procedures."
+ },
+ {
+  "task_id": "22940",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Advise employees in handling problems or resolving complaints from customers, tenants, detainees, or other persons."
+ },
+ {
+  "task_id": "22954",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Recruit, interview, and hire security personnel."
+ },
+ {
+  "task_id": "22942",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Assign security personnel to posts or patrols."
+ },
+ {
+  "task_id": "22943",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Call police or fire departments in cases of emergency, such as fire, bomb threats, and presence of unauthorized persons."
+ },
+ {
+  "task_id": "22941",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Apprehend or evict trespassers, rule violators, or other security threats from the premises."
+ },
+ {
+  "task_id": "22956",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Screen individuals and belongings to prevent passage of prohibited materials using walkthrough detectors, wands, or bag searches."
+ },
+ {
+  "task_id": "22950",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Monitor closed-circuit television cameras."
+ },
+ {
+  "task_id": "22946",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Inspect and adjust security equipment to ensure it is operational or to detect evidence of tampering."
+ },
+ {
+  "task_id": "22958",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Train security personnel on protective procedures, first aid, fire safety, and other duties."
+ },
+ {
+  "task_id": "22945",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Explain company policies and procedures to staff using oral or written communication."
+ },
+ {
+  "task_id": "22944",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Develop and document security procedures, policies, or standards."
+ },
+ {
+  "task_id": "22955",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Schedule training or drills for emergencies, such as fires, bombs, and other threats."
+ },
+ {
+  "task_id": "22948",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Log items distributed to persons, such as keys and key cards."
+ },
+ {
+  "task_id": "22959",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Write and present department budgets to upper management or other stakeholders."
+ },
+ {
+  "task_id": "22952",
+  "occupation": "First-Line Supervisors of Security Workers",
+  "task_text": "Order materials or supplies, such as keys, uniforms, and badges."
+ },
+ {
+  "task_id": "22961",
+  "occupation": "Firefighters",
+  "task_text": "Rescue survivors from burning buildings, accident sites, and water hazards."
+ },
+ {
+  "task_id": "22962",
+  "occupation": "Firefighters",
+  "task_text": "Dress with equipment such as fire-resistant clothing and breathing apparatus."
+ },
+ {
+  "task_id": "22963",
+  "occupation": "Firefighters",
+  "task_text": "Assess fires and situations and report conditions to superiors to receive instructions, using two-way radios."
+ },
+ {
+  "task_id": "22964",
+  "occupation": "Firefighters",
+  "task_text": "Move toward the source of a fire, using knowledge of types of fires, construction design, building materials, and physical layout of properties."
+ },
+ {
+  "task_id": "22965",
+  "occupation": "Firefighters",
+  "task_text": "Respond to fire alarms and other calls for assistance, such as automobile and industrial accidents."
+ },
+ {
+  "task_id": "22966",
+  "occupation": "Firefighters",
+  "task_text": "Create openings in buildings for ventilation or entrance, using axes, chisels, crowbars, electric saws, or core cutters."
+ },
+ {
+  "task_id": "22967",
+  "occupation": "Firefighters",
+  "task_text": "Drive and operate fire fighting vehicles and equipment."
+ },
+ {
+  "task_id": "22968",
+  "occupation": "Firefighters",
+  "task_text": "Inspect fire sites after flames have been extinguished to ensure that there is no further danger."
+ },
+ {
+  "task_id": "22969",
+  "occupation": "Firefighters",
+  "task_text": "Position and climb ladders to gain access to upper levels of buildings, or to rescue individuals from burning structures."
+ },
+ {
+  "task_id": "22970",
+  "occupation": "Firefighters",
+  "task_text": "Select and attach hose nozzles, depending on fire type, and direct streams of water or chemicals onto fires."
+ },
+ {
+  "task_id": "22988",
+  "occupation": "Firefighters",
+  "task_text": "Operate pumps connected to high-pressure hoses."
+ },
+ {
+  "task_id": "22971",
+  "occupation": "Firefighters",
+  "task_text": "Maintain contact with fire dispatchers at all times to notify them of the need for additional firefighters and supplies, or to detail any difficulties encountered."
+ },
+ {
+  "task_id": "22972",
+  "occupation": "Firefighters",
+  "task_text": "Collaborate with other firefighters as a member of a firefighting crew."
+ },
+ {
+  "task_id": "22973",
+  "occupation": "Firefighters",
+  "task_text": "Patrol burned areas after fires to locate and eliminate hot spots that may restart fires."
+ },
+ {
+  "task_id": "22974",
+  "occupation": "Firefighters",
+  "task_text": "Collaborate with police to respond to accidents, disasters, and arson investigation calls."
+ },
+ {
+  "task_id": "22975",
+  "occupation": "Firefighters",
+  "task_text": "Participate in fire drills and demonstrations of fire fighting techniques."
+ },
+ {
+  "task_id": "22977",
+  "occupation": "Firefighters",
+  "task_text": "Prepare written reports that detail specifics of fire incidents."
+ },
+ {
+  "task_id": "22976",
+  "occupation": "Firefighters",
+  "task_text": "Maintain knowledge of current firefighting practices by participating in drills and by attending seminars, conventions, and conferences."
+ },
+ {
+  "task_id": "22978",
+  "occupation": "Firefighters",
+  "task_text": "Participate in physical training activities to maintain a high level of physical fitness."
+ },
+ {
+  "task_id": "22979",
+  "occupation": "Firefighters",
+  "task_text": "Protect property from water and smoke, using waterproof salvage covers, smoke ejectors, and deodorants."
+ },
+ {
+  "task_id": "22980",
+  "occupation": "Firefighters",
+  "task_text": "Inform and educate the public on fire prevention."
+ },
+ {
+  "task_id": "22981",
+  "occupation": "Firefighters",
+  "task_text": "Salvage property by removing broken glass, pumping out water, and ventilating buildings to remove smoke."
+ },
+ {
+  "task_id": "22982",
+  "occupation": "Firefighters",
+  "task_text": "Orient self in relation to fire, using compass and map, and collect supplies and equipment dropped by parachute."
+ },
+ {
+  "task_id": "22983",
+  "occupation": "Firefighters",
+  "task_text": "Clean and maintain fire stations and fire fighting equipment and apparatus."
+ },
+ {
+  "task_id": "22984",
+  "occupation": "Firefighters",
+  "task_text": "Inspect buildings for fire hazards and compliance with fire prevention ordinances, testing and checking smoke alarms and fire suppression equipment as necessary."
+ },
+ {
+  "task_id": "22985",
+  "occupation": "Firefighters",
+  "task_text": "Take action to contain any hazardous chemicals that could catch fire, leak, or spill."
+ },
+ {
+  "task_id": "22986",
+  "occupation": "Firefighters",
+  "task_text": "Extinguish flames and embers to suppress fires, using shovels or engine- or hand-driven water or chemical pumps."
+ },
+ {
+  "task_id": "22987",
+  "occupation": "Firefighters",
+  "task_text": "Administer first aid and cardiopulmonary resuscitation to injured persons or provide emergency medical care such as basic or advanced life support."
+ },
+ {
+  "task_id": "22989",
+  "occupation": "Firefighters",
+  "task_text": "Search to locate fire survivors."
+ },
+ {
+  "task_id": "22990",
+  "occupation": "Firefighters",
+  "task_text": "Train new employees to control and suppress fires."
+ },
+ {
+  "task_id": "22991",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Prepare and maintain reports of investigation results, and records of convicted arsonists and arson suspects."
+ },
+ {
+  "task_id": "22992",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Testify in court cases involving fires, suspected arson, and false alarms."
+ },
+ {
+  "task_id": "22993",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Package collected pieces of evidence in securely closed containers, such as bags, crates, or boxes, to protect them."
+ },
+ {
+  "task_id": "22994",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Conduct inspections and acceptance testing of newly installed fire protection systems."
+ },
+ {
+  "task_id": "22995",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Analyze evidence and other information to determine probable cause of fire or explosion."
+ },
+ {
+  "task_id": "22996",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Photograph damage and evidence related to causes of fires or explosions to document investigation findings."
+ },
+ {
+  "task_id": "22998",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Inspect buildings to locate hazardous conditions and fire code violations, such as accumulations of combustible material, electrical wiring problems, and inadequate or non-functional fire exits."
+ },
+ {
+  "task_id": "22997",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Examine fire sites and collect evidence such as glass, metal fragments, charred wood, and accelerant residue for use in determining the cause of a fire."
+ },
+ {
+  "task_id": "22999",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Instruct children about the dangers of fire."
+ },
+ {
+  "task_id": "23000",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Conduct fire code compliance follow-ups to ensure that corrective actions have been taken in cases where violations were found."
+ },
+ {
+  "task_id": "23001",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Inspect properties that store, handle, and use hazardous materials to ensure compliance with laws, codes, and regulations, and issue hazardous materials permits to facilities found in compliance."
+ },
+ {
+  "task_id": "23002",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Write detailed reports of fire inspections performed, fire code violations observed, and corrective recommendations offered."
+ },
+ {
+  "task_id": "23003",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Identify corrective actions necessary to bring properties into compliance with applicable fire codes, laws, regulations, and standards, and explain these measures to property owners or their representatives."
+ },
+ {
+  "task_id": "23004",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Develop or review fire exit plans."
+ },
+ {
+  "task_id": "23005",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Inspect and test fire protection or fire detection systems to verify that such systems are installed in accordance with appropriate laws, codes, ordinances, regulations, and standards."
+ },
+ {
+  "task_id": "23006",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Coordinate efforts with other organizations, such as law enforcement agencies."
+ },
+ {
+  "task_id": "23007",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Attend training classes to maintain current knowledge of fire prevention, safety, and firefighting procedures."
+ },
+ {
+  "task_id": "23008",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Review blueprints and plans for new or remodeled buildings to ensure the structures meet fire safety codes."
+ },
+ {
+  "task_id": "23009",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Teach fire investigation techniques to other firefighter personnel."
+ },
+ {
+  "task_id": "23010",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Conduct fire exit drills to monitor and evaluate evacuation procedures."
+ },
+ {
+  "task_id": "23011",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Teach public education programs on fire safety and prevention."
+ },
+ {
+  "task_id": "23012",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Recommend changes to fire prevention, inspection, and fire code endorsement procedures."
+ },
+ {
+  "task_id": "23013",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Subpoena and interview witnesses, property owners, and building occupants to obtain information and sworn testimony."
+ },
+ {
+  "task_id": "23014",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Conduct internal investigation to determine negligence and violation of laws and regulations by fire department employees."
+ },
+ {
+  "task_id": "23015",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Test sites and materials to establish facts, such as burn patterns and flash points of materials, using test equipment."
+ },
+ {
+  "task_id": "23016",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Dust evidence or portions of fire scenes for latent fingerprints."
+ },
+ {
+  "task_id": "23017",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Arrange for the replacement of defective fire fighting equipment and for repair of fire alarm and sprinkler systems, making minor repairs such as servicing fire extinguishers when feasible."
+ },
+ {
+  "task_id": "23018",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Issue permits for public assemblies."
+ },
+ {
+  "task_id": "23019",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Supervise staff, training them, planning their work, and evaluating their performance."
+ },
+ {
+  "task_id": "23020",
+  "occupation": "Fire Inspectors and Investigators",
+  "task_text": "Develop and coordinate fire prevention programs, such as false alarm billing, fire inspection reporting, and hazardous materials management."
+ },
+ {
+  "task_id": "11102",
+  "occupation": "Forest Fire Inspectors and Prevention Specialists",
+  "task_text": "Relay messages about emergencies, accidents, locations of crew and personnel, and fire hazard conditions."
+ },
+ {
+  "task_id": "21143",
+  "occupation": "Forest Fire Inspectors and Prevention Specialists",
+  "task_text": "Conduct wildland firefighting training."
+ },
+ {
+  "task_id": "11104",
+  "occupation": "Forest Fire Inspectors and Prevention Specialists",
+  "task_text": "Estimate sizes and characteristics of fires, and report findings to base camps by radio or telephone."
+ },
+ {
+  "task_id": "11103",
+  "occupation": "Forest Fire Inspectors and Prevention Specialists",
+  "task_text": "Direct crews working on firelines during forest fires."
+ },
+ {
+  "task_id": "11107",
+  "occupation": "Forest Fire Inspectors and Prevention Specialists",
+  "task_text": "Locate forest fires on area maps, using azimuth sighters and known landmarks."
+ },
+ {
+  "task_id": "11106",
+  "occupation": "Forest Fire Inspectors and Prevention Specialists",
+  "task_text": "Extinguish smaller fires with portable extinguishers, shovels, and axes."
+ },
+ {
+  "task_id": "11112",
+  "occupation": "Forest Fire Inspectors and Prevention Specialists",
+  "task_text": "Patrol assigned areas, looking for forest fires, hazardous conditions, and weather phenomena."
+ },
+ {
+  "task_id": "11113",
+  "occupation": "Forest Fire Inspectors and Prevention Specialists",
+  "task_text": "Compile and report meteorological data, such as temperature, relative humidity, wind direction and velocity, and types of cloud formations."
+ },
+ {
+  "task_id": "11109",
+  "occupation": "Forest Fire Inspectors and Prevention Specialists",
+  "task_text": "Examine and inventory firefighting equipment, such as axes, fire hoses, shovels, pumps, buckets, and fire extinguishers, to determine amount and condition."
+ },
+ {
+  "task_id": "21144",
+  "occupation": "Forest Fire Inspectors and Prevention Specialists",
+  "task_text": "Educate the public about fire safety and prevention."
+ },
+ {
+  "task_id": "11110",
+  "occupation": "Forest Fire Inspectors and Prevention Specialists",
+  "task_text": "Direct maintenance and repair of firefighting equipment, or requisition new equipment."
+ },
+ {
+  "task_id": "11108",
+  "occupation": "Forest Fire Inspectors and Prevention Specialists",
+  "task_text": "Maintain records and logbooks."
+ },
+ {
+  "task_id": "11105",
+  "occupation": "Forest Fire Inspectors and Prevention Specialists",
+  "task_text": "Administer regulations regarding sanitation, fire prevention, violation corrections, and related forest regulations."
+ },
+ {
+  "task_id": "11111",
+  "occupation": "Forest Fire Inspectors and Prevention Specialists",
+  "task_text": "Restrict public access and recreational use of forest lands during critical fire seasons."
+ },
+ {
+  "task_id": "11114",
+  "occupation": "Forest Fire Inspectors and Prevention Specialists",
+  "task_text": "Inspect camp sites to ensure that campers are in compliance with forest use regulations."
+ },
+ {
+  "task_id": "11115",
+  "occupation": "Forest Fire Inspectors and Prevention Specialists",
+  "task_text": "Inspect forest tracts and logging areas for fire hazards such as accumulated wastes or mishandling of combustibles, and recommend appropriate fire prevention measures."
+ },
+ {
+  "task_id": "20123",
+  "occupation": "Bailiffs",
+  "task_text": "Screen persons entering courthouse using magnetometers, x-ray machines, and other devices to collect and retain unauthorized firearms and other contraband."
+ },
+ {
+  "task_id": "20127",
+  "occupation": "Bailiffs",
+  "task_text": "Escort prisoners to and from courthouse and maintain custody of prisoners during court proceedings."
+ },
+ {
+  "task_id": "2091",
+  "occupation": "Bailiffs",
+  "task_text": "Maintain order in courtroom during trial and guard jury from outside contact."
+ },
+ {
+  "task_id": "20124",
+  "occupation": "Bailiffs",
+  "task_text": "Provide security by patrolling interior and exterior of courthouse and escorting judges and other court employees."
+ },
+ {
+  "task_id": "2092",
+  "occupation": "Bailiffs",
+  "task_text": "Guard lodging of sequestered jury."
+ },
+ {
+  "task_id": "2094",
+  "occupation": "Bailiffs",
+  "task_text": "Enforce courtroom rules of behavior and warn persons not to smoke or disturb court procedure."
+ },
+ {
+  "task_id": "21197",
+  "occupation": "Bailiffs",
+  "task_text": "Arrest persons in court when arrest warrants have been issued."
+ },
+ {
+  "task_id": "2095",
+  "occupation": "Bailiffs",
+  "task_text": "Report need for police or medical assistance to sheriff's office."
+ },
+ {
+  "task_id": "20125",
+  "occupation": "Bailiffs",
+  "task_text": "Check courtroom for security and cleanliness and assure availability of sundry supplies, such as notepads, for use by judge, jurors, and attorneys."
+ },
+ {
+  "task_id": "2098",
+  "occupation": "Bailiffs",
+  "task_text": "Stop people from entering courtroom while judge charges jury."
+ },
+ {
+  "task_id": "20126",
+  "occupation": "Bailiffs",
+  "task_text": "Screen, control, and handle evidence and exhibits during court proceedings."
+ },
+ {
+  "task_id": "21198",
+  "occupation": "Bailiffs",
+  "task_text": "Provide assistance to the public, such as directions to court offices."
+ },
+ {
+  "task_id": "2097",
+  "occupation": "Bailiffs",
+  "task_text": "Announce entrance of judge."
+ },
+ {
+  "task_id": "20128",
+  "occupation": "Bailiffs",
+  "task_text": "Maintain court docket."
+ },
+ {
+  "task_id": "2093",
+  "occupation": "Bailiffs",
+  "task_text": "Provide jury escort to restaurant and other areas outside of courtroom to prevent jury contact with public."
+ },
+ {
+  "task_id": "15252",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Conduct head counts to ensure that each prisoner is present."
+ },
+ {
+  "task_id": "15254",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Inspect conditions of locks, window bars, grills, doors, and gates at correctional facilities to ensure security and help prevent escapes."
+ },
+ {
+  "task_id": "15253",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Monitor conduct of prisoners in housing unit, or during work or recreational activities, according to established policies, regulations, and procedures, to prevent escape or violence."
+ },
+ {
+  "task_id": "15256",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Search prisoners and vehicles and conduct shakedowns of cells for valuables and contraband, such as weapons or drugs."
+ },
+ {
+  "task_id": "2102",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Guard facility entrances to screen visitors."
+ },
+ {
+  "task_id": "15255",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Record information, such as prisoner identification, charges, and incidents of inmate disturbance, keeping daily logs of prisoner activities."
+ },
+ {
+  "task_id": "2104",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Inspect mail for the presence of contraband."
+ },
+ {
+  "task_id": "2117",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Maintain records of prisoners' identification and charges."
+ }
+]

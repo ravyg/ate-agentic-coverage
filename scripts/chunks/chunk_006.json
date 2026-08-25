@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "2569",
+  "occupation": "Tellers",
+  "task_text": "Carry out special services for customers, such as ordering bank cards and checks."
+ },
+ {
+  "task_id": "2570",
+  "occupation": "Tellers",
+  "task_text": "Compute financial fees, interest, and service charges."
+ },
+ {
+  "task_id": "2571",
+  "occupation": "Tellers",
+  "task_text": "Obtain and process information required for the provision of services, such as opening accounts, savings plans, and purchasing bonds."
+ },
+ {
+  "task_id": "2572",
+  "occupation": "Tellers",
+  "task_text": "Compose, type, and mail customer statements and other correspondence related to issues such as discrepancies and outstanding unpaid items."
+ },
+ {
+  "task_id": "2573",
+  "occupation": "Tellers",
+  "task_text": "Issue checks to bond owners in settlement of transactions."
+ },
+ {
+  "task_id": "2574",
+  "occupation": "Tellers",
+  "task_text": "Inform customers about foreign currency regulations and compute transaction fees for currency exchanges."
+ },
+ {
+  "task_id": "2575",
+  "occupation": "Tellers",
+  "task_text": "Quote unit exchange rates, following daily international rate sheets or computer displays."
+ },
+ {
+  "task_id": "2578",
+  "occupation": "Customer Service Representatives",
+  "task_text": "Keep records of customer interactions or transactions, recording details of inquiries, complaints, or comments, as well as actions taken."
+ },
+ {
+  "task_id": "2579",
+  "occupation": "Customer Service Representatives",
+  "task_text": "Resolve customers' service or billing complaints by performing activities such as exchanging merchandise, refunding money, or adjusting bills."
+ },
+ {
+  "task_id": "2580",
+  "occupation": "Customer Service Representatives",
+  "task_text": "Check to ensure that appropriate changes were made to resolve customers' problems."
+ },
+ {
+  "task_id": "2581",
+  "occupation": "Customer Service Representatives",
+  "task_text": "Contact customers to respond to inquiries or to notify them of claim investigation results or any planned adjustments."
+ },
+ {
+  "task_id": "2582",
+  "occupation": "Customer Service Representatives",
+  "task_text": "Refer unresolved customer grievances to designated departments for further investigation."
+ },
+ {
+  "task_id": "2583",
+  "occupation": "Customer Service Representatives",
+  "task_text": "Determine charges for services requested, collect deposits or payments, or arrange for billing."
+ },
+ {
+  "task_id": "2584",
+  "occupation": "Customer Service Representatives",
+  "task_text": "Complete contract forms, prepare change of address records, or issue service discontinuance orders, using computers."
+ },
+ {
+  "task_id": "2585",
+  "occupation": "Customer Service Representatives",
+  "task_text": "Obtain and examine all relevant information to assess validity of complaints and to determine possible causes, such as extreme weather conditions that could increase utility bills."
+ },
+ {
+  "task_id": "2586",
+  "occupation": "Customer Service Representatives",
+  "task_text": "Solicit sales of new or additional services or products."
+ },
+ {
+  "task_id": "2587",
+  "occupation": "Customer Service Representatives",
+  "task_text": "Review insurance policy terms to determine whether a particular loss is covered by insurance."
+ },
+ {
+  "task_id": "2589",
+  "occupation": "Customer Service Representatives",
+  "task_text": "Compare disputed merchandise with original requisitions and information from invoices and prepare invoices for returned goods."
+ },
+ {
+  "task_id": "2591",
+  "occupation": "Customer Service Representatives",
+  "task_text": "Recommend improvements in products, packaging, shipping, service, or billing methods and procedures to prevent future problems."
+ },
+ {
+  "task_id": "2593",
+  "occupation": "File Clerks",
+  "task_text": "Add new material to file records or create new records as necessary."
+ },
+ {
+  "task_id": "2595",
+  "occupation": "File Clerks",
+  "task_text": "Track materials removed from files to ensure that borrowed files are returned."
+ },
+ {
+  "task_id": "2596",
+  "occupation": "File Clerks",
+  "task_text": "Gather materials to be filed from departments or employees."
+ },
+ {
+  "task_id": "2597",
+  "occupation": "File Clerks",
+  "task_text": "Sort or classify information according to guidelines, such as content, purpose, user criteria, or chronological, alphabetical, or numerical order."
+ },
+ {
+  "task_id": "2599",
+  "occupation": "File Clerks",
+  "task_text": "Scan or read incoming materials to determine how and where they should be classified or filed."
+ },
+ {
+  "task_id": "2600",
+  "occupation": "File Clerks",
+  "task_text": "Place materials into storage receptacles, such as file cabinets, boxes, bins, or drawers, according to classification and identification information."
+ },
+ {
+  "task_id": "2601",
+  "occupation": "File Clerks",
+  "task_text": "Assign and record or stamp identification numbers or codes to index materials for filing."
+ },
+ {
+  "task_id": "2602",
+  "occupation": "File Clerks",
+  "task_text": "Answer questions about records or files."
+ },
+ {
+  "task_id": "2603",
+  "occupation": "File Clerks",
+  "task_text": "Modify or improve filing systems or implement new filing systems."
+ },
+ {
+  "task_id": "2604",
+  "occupation": "File Clerks",
+  "task_text": "Perform periodic inspections of materials or files to ensure correct placement, legibility, or proper condition."
+ },
+ {
+  "task_id": "2605",
+  "occupation": "File Clerks",
+  "task_text": "Eliminate outdated or unnecessary materials, destroying them or transferring them to inactive storage, according to file maintenance guidelines or legal requirements."
+ },
+ {
+  "task_id": "2607",
+  "occupation": "File Clerks",
+  "task_text": "Operate mechanized files that rotate to bring needed records to a particular location."
+ },
+ {
+  "task_id": "2608",
+  "occupation": "File Clerks",
+  "task_text": "Design forms related to filing systems."
+ },
+ {
+  "task_id": "2609",
+  "occupation": "File Clerks",
+  "task_text": "Retrieve documents stored in microfilm or microfiche and place them in viewers for reading."
+ },
+ {
+  "task_id": "2610",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Greet, register, and assign rooms to guests of hotels or motels."
+ },
+ {
+  "task_id": "2611",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Verify customers' credit, and establish how the customer will pay for the accommodation."
+ },
+ {
+  "task_id": "2612",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Keep records of room availability and guests' accounts, manually or using computers."
+ },
+ {
+  "task_id": "2613",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Compute bills, collect payments, and make change for guests."
+ },
+ {
+  "task_id": "2615",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Issue room keys and escort instructions to bellhops."
+ },
+ {
+  "task_id": "2616",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Review accounts and charges with guests during the check out process."
+ },
+ {
+  "task_id": "2617",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Post charges, such as those for rooms, food, liquor, or telephone calls, to ledgers, manually or by using computers."
+ },
+ {
+  "task_id": "2618",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Transmit and receive messages, using telephones or telephone switchboards."
+ },
+ {
+  "task_id": "2619",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Contact housekeeping or maintenance staff when guests report problems."
+ },
+ {
+  "task_id": "2620",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Make and confirm reservations."
+ },
+ {
+  "task_id": "2622",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Record guest comments or complaints, referring customers to managers as necessary."
+ },
+ {
+  "task_id": "2623",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Advise housekeeping staff when rooms have been vacated and are ready for cleaning."
+ },
+ {
+  "task_id": "2624",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Arrange tours, taxis, or restaurant reservations for customers."
+ },
+ {
+  "task_id": "2625",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Deposit guests' valuables in hotel safes or safe-deposit boxes."
+ },
+ {
+  "task_id": "2626",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Date-stamp, sort, and rack incoming mail and messages."
+ },
+ {
+  "task_id": "2627",
+  "occupation": "Interviewers, Except Eligibility and Loan",
+  "task_text": "Ask questions in accordance with instructions to obtain various specified information, such as person's name, address, age, religious preference, or state of residency."
+ },
+ {
+  "task_id": "2628",
+  "occupation": "Interviewers, Except Eligibility and Loan",
+  "task_text": "Identify and resolve inconsistencies in interviewees' responses by means of appropriate questioning or explanation."
+ },
+ {
+  "task_id": "2629",
+  "occupation": "Interviewers, Except Eligibility and Loan",
+  "task_text": "Compile, record, and code results or data from interview or survey, using computer or specified form."
+ },
+ {
+  "task_id": "2630",
+  "occupation": "Interviewers, Except Eligibility and Loan",
+  "task_text": "Review data obtained from interview for completeness and accuracy."
+ },
+ {
+  "task_id": "2631",
+  "occupation": "Interviewers, Except Eligibility and Loan",
+  "task_text": "Contact individuals to be interviewed at home, place of business, or field location, by telephone, mail, or in person."
+ },
+ {
+  "task_id": "2632",
+  "occupation": "Interviewers, Except Eligibility and Loan",
+  "task_text": "Assist individuals in filling out applications or questionnaires."
+ },
+ {
+  "task_id": "2633",
+  "occupation": "Interviewers, Except Eligibility and Loan",
+  "task_text": "Ensure payment for services by verifying benefits with the person's insurance provider or working out financing options."
+ },
+ {
+  "task_id": "2634",
+  "occupation": "Interviewers, Except Eligibility and Loan",
+  "task_text": "Identify and report problems in obtaining valid data."
+ },
+ {
+  "task_id": "2635",
+  "occupation": "Interviewers, Except Eligibility and Loan",
+  "task_text": "Explain survey objectives and procedures to interviewees and interpret survey questions to help interviewees' comprehension."
+ },
+ {
+  "task_id": "2636",
+  "occupation": "Interviewers, Except Eligibility and Loan",
+  "task_text": "Perform patient services, such as answering the telephone or assisting patients with financial or medical questions."
+ },
+ {
+  "task_id": "2637",
+  "occupation": "Interviewers, Except Eligibility and Loan",
+  "task_text": "Prepare reports to provide answers in response to specific problems."
+ },
+ {
+  "task_id": "2638",
+  "occupation": "Interviewers, Except Eligibility and Loan",
+  "task_text": "Locate and list addresses and households."
+ },
+ {
+  "task_id": "2640",
+  "occupation": "Interviewers, Except Eligibility and Loan",
+  "task_text": "Meet with supervisor daily to submit completed assignments and discuss progress."
+ },
+ {
+  "task_id": "2641",
+  "occupation": "Interviewers, Except Eligibility and Loan",
+  "task_text": "Collect and analyze data, such as studying old records, tallying the number of outpatients entering each day or week, or participating in federal, state, or local population surveys as a Census Enumer"
+ },
+ {
+  "task_id": "2643",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Enter and update patrons' records on computers."
+ },
+ {
+  "task_id": "2644",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Process new materials including books, audio-visual materials, and computer software."
+ },
+ {
+  "task_id": "2645",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Sort books, publications, and other items according to established procedure and return them to shelves, files, or other designated storage areas."
+ },
+ {
+  "task_id": "2646",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Locate library materials for patrons, including books, periodicals, tape cassettes, Braille volumes, and pictures."
+ },
+ {
+  "task_id": "2647",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Instruct patrons on how to use reference sources, card catalogs, and automated information systems."
+ },
+ {
+  "task_id": "2648",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Inspect returned books for condition and due-date status and compute any applicable fines."
+ },
+ {
+  "task_id": "2649",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Answer routine inquiries and refer patrons in need of professional assistance to librarians."
+ },
+ {
+  "task_id": "2650",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Maintain records of items received, stored, issued, and returned and file catalog cards according to system used."
+ },
+ {
+  "task_id": "2652",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Provide assistance to librarians in the maintenance of collections of books, periodicals, magazines, newspapers, and audio-visual and other materials."
+ },
+ {
+  "task_id": "2653",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Take action to deal with disruptive or problem patrons."
+ },
+ {
+  "task_id": "2654",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Classify and catalog items according to content and purpose."
+ },
+ {
+  "task_id": "2655",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Register new patrons and issue borrower identification cards that permit patrons to borrow books and other materials."
+ },
+ {
+  "task_id": "2656",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Send out notices and accept fine payments for lost or overdue books."
+ },
+ {
+  "task_id": "2657",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Operate small branch libraries, under the direction of off-site librarian supervisors."
+ },
+ {
+  "task_id": "2658",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Prepare, store, and retrieve classification and catalog information, lecture notes, or other information related to stored documents, using computers."
+ },
+ {
+  "task_id": "2660",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Operate and maintain audio-visual equipment."
+ },
+ {
+  "task_id": "2661",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Review records, such as microfilm and issue cards, to identify titles of overdue materials and delinquent borrowers."
+ },
+ {
+  "task_id": "2662",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Select substitute titles when requested materials are unavailable, following criteria such as age, education, and interests."
+ },
+ {
+  "task_id": "2664",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Deliver and retrieve items to and from departments by hand or using push carts."
+ },
+ {
+  "task_id": "2667",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Assist in the preparation of book displays."
+ },
+ {
+  "task_id": "2668",
+  "occupation": "Order Clerks",
+  "task_text": "Obtain customers' names, addresses, and billing information, product numbers, and specifications of items to be purchased, and enter this information on order forms."
+ },
+ {
+  "task_id": "2669",
+  "occupation": "Order Clerks",
+  "task_text": "Prepare invoices, shipping documents, and contracts."
+ },
+ {
+  "task_id": "2670",
+  "occupation": "Order Clerks",
+  "task_text": "Inform customers by mail or telephone of order information, such as unit prices, shipping dates, and any anticipated delays."
+ },
+ {
+  "task_id": "2671",
+  "occupation": "Order Clerks",
+  "task_text": "Receive and respond to customer complaints."
+ },
+ {
+  "task_id": "2672",
+  "occupation": "Order Clerks",
+  "task_text": "Verify customer and order information for correctness, checking it against previously obtained information as necessary."
+ },
+ {
+  "task_id": "2673",
+  "occupation": "Order Clerks",
+  "task_text": "Direct specified departments or units to prepare and ship orders to designated locations."
+ },
+ {
+  "task_id": "2674",
+  "occupation": "Order Clerks",
+  "task_text": "Check inventory records to determine availability of requested merchandise."
+ },
+ {
+  "task_id": "2675",
+  "occupation": "Order Clerks",
+  "task_text": "Review orders for completeness according to reporting procedures and forward incomplete orders for further processing."
+ },
+ {
+  "task_id": "2676",
+  "occupation": "Order Clerks",
+  "task_text": "Attempt to sell additional merchandise or services to prospective or current customers by telephone or through visits."
+ },
+ {
+  "task_id": "2677",
+  "occupation": "Order Clerks",
+  "task_text": "File copies of orders received, or post orders on records."
+ },
+ {
+  "task_id": "2678",
+  "occupation": "Order Clerks",
+  "task_text": "Compute total charges for merchandise or services and shipping charges."
+ },
+ {
+  "task_id": "2679",
+  "occupation": "Order Clerks",
+  "task_text": "Confer with production, sales, shipping, warehouse, or common carrier personnel to expedite or trace shipments."
+ },
+ {
+  "task_id": "2680",
+  "occupation": "Order Clerks",
+  "task_text": "Recommend merchandise or services that will meet customers' needs."
+ },
+ {
+  "task_id": "2681",
+  "occupation": "Order Clerks",
+  "task_text": "Adjust inventory records to reflect product movement."
+ },
+ {
+  "task_id": "2682",
+  "occupation": "Order Clerks",
+  "task_text": "Collect payment for merchandise, record transactions, and send items, such as checks or money orders for further processing."
+ },
+ {
+  "task_id": "2683",
+  "occupation": "Order Clerks",
+  "task_text": "Inspect outgoing work for compliance with customers' specifications."
+ },
+ {
+  "task_id": "2684",
+  "occupation": "Order Clerks",
+  "task_text": "Notify departments when supplies of specific items are low, or when orders would deplete available supplies."
+ },
+ {
+  "task_id": "2685",
+  "occupation": "Order Clerks",
+  "task_text": "Recommend type of packing or labeling needed on order."
+ },
+ {
+  "task_id": "2686",
+  "occupation": "Order Clerks",
+  "task_text": "Calculate and compile order-related statistics, and prepare reports for management."
+ },
+ {
+  "task_id": "2687",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Explain company personnel policies, benefits, and procedures to employees or job applicants."
+ },
+ {
+  "task_id": "2689",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Record data for each employee, including such information as addresses, weekly earnings, absences, amount of sales or production, supervisory reports on performance, and dates of and reasons for termi"
+ },
+ {
+  "task_id": "2690",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Process and review employment applications to evaluate qualifications or eligibility of applicants."
+ },
+ {
+  "task_id": "2691",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Answer questions regarding examinations, eligibility, salaries, benefits, and other pertinent information."
+ },
+ {
+  "task_id": "2692",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Examine employee files to answer inquiries and provide information for personnel actions."
+ },
+ {
+  "task_id": "2693",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Gather personnel records from other departments or employees."
+ },
+ {
+  "task_id": "2694",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Search employee files to obtain information for authorized persons and organizations, such as credit bureaus and finance companies."
+ },
+ {
+  "task_id": "2695",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Interview job applicants to obtain and verify information used to screen and evaluate them."
+ },
+ {
+  "task_id": "2696",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Request information from law enforcement officials, previous employers, and other references to determine applicants' employment acceptability."
+ },
+ {
+  "task_id": "2697",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Compile and prepare reports and documents pertaining to personnel activities."
+ },
+ {
+  "task_id": "2698",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Inform job applicants of their acceptance or rejection of employment."
+ },
+ {
+  "task_id": "2699",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Select applicants meeting specified job requirements and refer them to hiring personnel."
+ },
+ {
+  "task_id": "2700",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Arrange for in-house and external training activities."
+ },
+ {
+  "task_id": "2701",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Arrange for advertising or posting of job vacancies and notify eligible workers of position availability."
+ },
+ {
+  "task_id": "2702",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Provide assistance in administering employee benefit programs and worker's compensation plans."
+ },
+ {
+  "task_id": "2703",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Prepare badges, passes, and identification cards, and perform other security-related duties."
+ },
+ {
+  "task_id": "2704",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Administer and score applicant and employee aptitude, personality, and interest assessment instruments."
+ },
+ {
+  "task_id": "2705",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Determine response requirements and relative priorities of situations, and dispatch units in accordance with established procedures."
+ },
+ {
+  "task_id": "2706",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Record details of calls, dispatches, and messages."
+ },
+ {
+  "task_id": "2707",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Question callers to determine their locations and the nature of their problems to determine type of response needed."
+ },
+ {
+  "task_id": "2708",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Enter, update, and retrieve information from teletype networks and computerized data systems regarding such things as wanted persons, stolen property, vehicle registration, and stolen vehicles."
+ },
+ {
+  "task_id": "2709",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Scan status charts and computer screens, and contact emergency response field units to determine emergency units available for dispatch."
+ },
+ {
+  "task_id": "2710",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Relay information and messages to and from emergency sites, to law enforcement agencies, and to all other individuals or groups requiring notification."
+ },
+ {
+  "task_id": "2711",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Receive incoming telephone or alarm system calls regarding emergency and non-emergency police and fire service, emergency ambulance service, information, and after-hours calls for departments within a"
+ },
+ {
+  "task_id": "2712",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Maintain access to, and security of, highly sensitive materials."
+ },
+ {
+  "task_id": "2713",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Observe alarm registers and scan maps to determine whether a specific emergency is in the dispatch service area."
+ },
+ {
+  "task_id": "2714",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Maintain files of information relating to emergency calls, such as personnel rosters and emergency call-out and pager files."
+ },
+ {
+  "task_id": "2715",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Monitor various radio frequencies, such as those used by public works departments, school security, and civil defense, to stay apprised of developing situations."
+ },
+ {
+  "task_id": "2716",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Learn material and pass required tests for certification."
+ }
+]

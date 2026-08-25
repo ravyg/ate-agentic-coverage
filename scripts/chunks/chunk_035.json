@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "23339",
+  "occupation": "Insurance Claims and Policy Processing Clerks",
+  "task_text": "Organize or work with detailed office or warehouse records, maintaining files for each policyholder, including policies that are to be reinstated or cancelled."
+ },
+ {
+  "task_id": "23913",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Evaluate laboratory tests in preparing nutrition recommendations."
+ },
+ {
+  "task_id": "23914",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Incorporate patient cultural, ethnic, or religious preferences and needs in the development of nutrition plans."
+ },
+ {
+  "task_id": "23915",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Record and evaluate patient and family health and food history, including symptoms, environmental toxic exposure, allergies, medication factors, and preventive health-care measures."
+ },
+ {
+  "task_id": "23916",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Develop recipes and menus to address special nutrition needs, such as low glycemic, low histamine, or gluten- or allergen-free."
+ },
+ {
+  "task_id": "23917",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Plan, conduct, and evaluate nutrigenomic or nutrigenetic research."
+ },
+ {
+  "task_id": "23918",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Teach self-advocacy skills to clients."
+ },
+ {
+  "task_id": "23919",
+  "occupation": "Nurse Midwives",
+  "task_text": "Instruct student nurse midwives, medical students, or residents on the birthing process."
+ },
+ {
+  "task_id": "23920",
+  "occupation": "Hospitalists",
+  "task_text": "Direct or support quality improvement projects or safety programs."
+ },
+ {
+  "task_id": "23921",
+  "occupation": "Dental Hygienists",
+  "task_text": "Attend continuing education courses to maintain or update skills."
+ },
+ {
+  "task_id": "23922",
+  "occupation": "Dietetic Technicians",
+  "task_text": "Observe and monitor patient food intake and body weight, and report changes, progress, and dietary problems to dietician."
+ },
+ {
+  "task_id": "23923",
+  "occupation": "Dietetic Technicians",
+  "task_text": "Attend interdisciplinary meetings with other health care professionals to discuss patient care."
+ },
+ {
+  "task_id": "23924",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Enter prescription information into computer databases."
+ },
+ {
+  "task_id": "23925",
+  "occupation": "Athletic Trainers",
+  "task_text": "Clean and sanitize athletic training rooms."
+ },
+ {
+  "task_id": "23926",
+  "occupation": "Midwives",
+  "task_text": "Provide patients with contraceptive and family planning information."
+ },
+ {
+  "task_id": "23927",
+  "occupation": "Midwives",
+  "task_text": "Perform annual gynecologic exams, including pap smears and breast exams."
+ },
+ {
+  "task_id": "23928",
+  "occupation": "Massage Therapists",
+  "task_text": "Maintain massage areas by restocking supplies or sanitizing equipment."
+ },
+ {
+  "task_id": "23931",
+  "occupation": "Models",
+  "task_text": "Pose for artists and photographers."
+ },
+ {
+  "task_id": "23952",
+  "occupation": "Speech-Language Pathologists",
+  "task_text": "Supervise students or assistants."
+ },
+ {
+  "task_id": "23954",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Prepare and file payroll tax returns."
+ },
+ {
+  "task_id": "23973",
+  "occupation": "Orthodontists",
+  "task_text": "Advise patients to comply with treatment plans."
+ },
+ {
+  "task_id": "23974",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Review physicians' orders to confirm prescribed exams."
+ },
+ {
+  "task_id": "23975",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Comfort patients during exams, or request sedatives or other medication from physicians for patients with anxiety or claustrophobia."
+ },
+ {
+  "task_id": "23985",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Develop and administer compensation programs, such as merit or incentive pay."
+ },
+ {
+  "task_id": "23992",
+  "occupation": "Lawyers",
+  "task_text": "Negotiate contractual agreements."
+ },
+ {
+  "task_id": "23994",
+  "occupation": "Paralegals and Legal Assistants",
+  "task_text": "Prepare, edit, or review legal documents, including legislation, briefs, pleadings, appeals, wills, contracts, and real estate closing statements."
+ },
+ {
+  "task_id": "23996",
+  "occupation": "Prosthodontists",
+  "task_text": "Examine patients to diagnose oral health conditions and diseases."
+ },
+ {
+  "task_id": "8823",
+  "occupation": "Chief Executives",
+  "task_text": "Direct or coordinate an organization's financial or budget activities to fund operations, maximize investments, or increase efficiency."
+ },
+ {
+  "task_id": "8824",
+  "occupation": "Chief Executives",
+  "task_text": "Confer with board members, organization officials, or staff members to discuss issues, coordinate activities, or resolve problems."
+ },
+ {
+  "task_id": "8827",
+  "occupation": "Chief Executives",
+  "task_text": "Prepare budgets for approval, including those for funding or implementation of programs."
+ },
+ {
+  "task_id": "8826",
+  "occupation": "Chief Executives",
+  "task_text": "Direct, plan, or implement policies, objectives, or activities of organizations or businesses to ensure continuing operations, to maximize returns on investments, or to increase productivity."
+ },
+ {
+  "task_id": "8834",
+  "occupation": "Chief Executives",
+  "task_text": "Prepare or present reports concerning activities, expenses, budgets, government statutes or rulings, or other items affecting businesses or program services."
+ },
+ {
+  "task_id": "8836",
+  "occupation": "Chief Executives",
+  "task_text": "Implement corrective action plans to solve organizational or departmental problems."
+ },
+ {
+  "task_id": "8825",
+  "occupation": "Chief Executives",
+  "task_text": "Analyze operations to evaluate performance of a company or its staff in meeting objectives or to determine areas of potential cost reduction, program improvement, or policy change."
+ },
+ {
+  "task_id": "8828",
+  "occupation": "Chief Executives",
+  "task_text": "Direct or coordinate activities of businesses or departments concerned with production, pricing, sales, or distribution of products."
+ },
+ {
+  "task_id": "8832",
+  "occupation": "Chief Executives",
+  "task_text": "Direct human resources activities, including the approval of human resource plans or activities, the selection of directors or other high-level staff, or establishment or organization of major departments."
+ },
+ {
+  "task_id": "8831",
+  "occupation": "Chief Executives",
+  "task_text": "Appoint department heads or managers and assign or delegate responsibilities to them."
+ },
+ {
+  "task_id": "8843",
+  "occupation": "Chief Executives",
+  "task_text": "Interpret and explain policies, rules, regulations, or laws to organizations, government or corporate officials, or individuals."
+ },
+ {
+  "task_id": "8830",
+  "occupation": "Chief Executives",
+  "task_text": "Review reports submitted by staff members to recommend approval or to suggest changes."
+ },
+ {
+  "task_id": "8829",
+  "occupation": "Chief Executives",
+  "task_text": "Negotiate or approve contracts or agreements with suppliers, distributors, federal or state agencies, or other organizational entities."
+ },
+ {
+  "task_id": "8835",
+  "occupation": "Chief Executives",
+  "task_text": "Establish departmental responsibilities and coordinate functions among departments and sites."
+ },
+ {
+  "task_id": "8839",
+  "occupation": "Chief Executives",
+  "task_text": "Deliver speeches, write articles, or present information at meetings or conventions to promote services, exchange ideas, or accomplish objectives."
+ },
+ {
+  "task_id": "8840",
+  "occupation": "Chief Executives",
+  "task_text": "Serve as liaisons between organizations, shareholders, and outside organizations."
+ },
+ {
+  "task_id": "8837",
+  "occupation": "Chief Executives",
+  "task_text": "Coordinate the development or implementation of budgetary control systems, recordkeeping systems, or other administrative control processes."
+ },
+ {
+  "task_id": "8833",
+  "occupation": "Chief Executives",
+  "task_text": "Preside over, or serve on, boards of directors, management committees, or other governing boards."
+ },
+ {
+  "task_id": "8849",
+  "occupation": "Chief Executives",
+  "task_text": "Attend and participate in meetings of municipal councils or council committees."
+ },
+ {
+  "task_id": "8850",
+  "occupation": "Chief Executives",
+  "task_text": "Organize or approve promotional campaigns."
+ },
+ {
+  "task_id": "8842",
+  "occupation": "Chief Executives",
+  "task_text": "Nominate citizens to boards or commissions."
+ },
+ {
+  "task_id": "8851",
+  "occupation": "Chief Executives",
+  "task_text": "Conduct or direct investigations or hearings to resolve complaints or violations of laws, or testify at such hearings."
+ },
+ {
+  "task_id": "8847",
+  "occupation": "Chief Executives",
+  "task_text": "Direct or coordinate activities of businesses involved with buying or selling investment products or financial services."
+ },
+ {
+  "task_id": "8853",
+  "occupation": "Chief Executives",
+  "task_text": "Prepare bylaws approved by elected officials, and ensure that bylaws are enforced."
+ },
+ {
+  "task_id": "8844",
+  "occupation": "Chief Executives",
+  "task_text": "Make presentations to legislative or other government committees regarding policies, programs, or budgets."
+ },
+ {
+  "task_id": "20461",
+  "occupation": "Chief Executives",
+  "task_text": "Review and analyze legislation, laws, or public policy and recommend changes to promote or support interests of the general population or special groups."
+ },
+ {
+  "task_id": "8838",
+  "occupation": "Chief Executives",
+  "task_text": "Direct non-merchandising departments, such as advertising, purchasing, credit, or accounting."
+ },
+ {
+  "task_id": "8845",
+  "occupation": "Chief Executives",
+  "task_text": "Refer major policy matters to elected representatives for final decisions."
+ },
+ {
+  "task_id": "8848",
+  "occupation": "Chief Executives",
+  "task_text": "Direct or conduct studies or research on issues affecting areas of responsibility."
+ },
+ {
+  "task_id": "8846",
+  "occupation": "Chief Executives",
+  "task_text": "Administer programs for selection of sites, construction of buildings, or provision of equipment or supplies."
+ },
+ {
+  "task_id": "8852",
+  "occupation": "Chief Executives",
+  "task_text": "Represent organizations or promote their objectives at official functions, or delegate representatives to do so."
+ },
+ {
+  "task_id": "15382",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Monitor and evaluate effectiveness of sustainability programs."
+ },
+ {
+  "task_id": "15384",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Develop or execute strategies to address issues such as energy use, resource conservation, recycling, pollution reduction, waste elimination, transportation, education, and building design."
+ },
+ {
+  "task_id": "15379",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Develop, or oversee the development of, sustainability evaluation or monitoring systems."
+ },
+ {
+  "task_id": "15372",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Supervise employees or volunteers working on sustainability projects."
+ },
+ {
+  "task_id": "15378",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Develop sustainability reports, presentations, or proposals for supplier, employee, academia, media, government, public interest, or other groups."
+ },
+ {
+  "task_id": "15380",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Develop, or oversee the development of, marketing or outreach media for sustainability projects or events."
+ },
+ {
+  "task_id": "15368",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Identify and evaluate pilot projects or programs to enhance the sustainability research agenda."
+ },
+ {
+  "task_id": "15370",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Create and maintain sustainability program documents, such as schedules and budgets."
+ },
+ {
+  "task_id": "15375",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Formulate or implement sustainability campaign or marketing strategies."
+ },
+ {
+  "task_id": "15376",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Research environmental sustainability issues, concerns, or stakeholder interests."
+ },
+ {
+  "task_id": "15383",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Direct sustainability program operations to ensure compliance with environmental or governmental regulations."
+ },
+ {
+  "task_id": "15377",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Evaluate and approve proposals for sustainability projects, considering factors such as cost effectiveness, technical feasibility, and integration with other initiatives."
+ },
+ {
+  "task_id": "15381",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Develop methodologies to assess the viability or success of sustainability initiatives."
+ },
+ {
+  "task_id": "15374",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Review sustainability program objectives, progress, or status to ensure compliance with policies, standards, regulations, or laws."
+ },
+ {
+  "task_id": "15373",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Write and distribute financial or environmental impact reports."
+ },
+ {
+  "task_id": "15371",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Write project proposals, grant applications, or other documents to pursue funding for environmental initiatives."
+ },
+ {
+  "task_id": "15367",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Identify educational, training, or other development opportunities for sustainability employees or volunteers."
+ },
+ {
+  "task_id": "15369",
+  "occupation": "Chief Sustainability Officers",
+  "task_text": "Conduct risk assessments related to sustainability and the environment."
+ },
+ {
+  "task_id": "20699",
+  "occupation": "General and Operations Managers",
+  "task_text": "Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement."
+ },
+ {
+  "task_id": "933",
+  "occupation": "General and Operations Managers",
+  "task_text": "Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products."
+ },
+ {
+  "task_id": "20700",
+  "occupation": "General and Operations Managers",
+  "task_text": "Direct administrative activities directly related to making products or providing services."
+ },
+ {
+  "task_id": "20701",
+  "occupation": "General and Operations Managers",
+  "task_text": "Prepare staff work schedules and assign specific duties."
+ },
+ {
+  "task_id": "20703",
+  "occupation": "General and Operations Managers",
+  "task_text": "Direct or coordinate financial or budget activities to fund operations, maximize investments, or increase efficiency."
+ },
+ {
+  "task_id": "20706",
+  "occupation": "General and Operations Managers",
+  "task_text": "Plan or direct activities, such as sales promotions, that require coordination with other department managers."
+ },
+ {
+  "task_id": "20705",
+  "occupation": "General and Operations Managers",
+  "task_text": "Perform personnel functions, such as selection, training, or evaluation."
+ },
+ {
+  "task_id": "20704",
+  "occupation": "General and Operations Managers",
+  "task_text": "Establish or implement departmental policies, goals, objectives, or procedures in conjunction with board members, organization officials, or staff members."
+ },
+ {
+  "task_id": "20702",
+  "occupation": "General and Operations Managers",
+  "task_text": "Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits."
+ },
+ {
+  "task_id": "20708",
+  "occupation": "General and Operations Managers",
+  "task_text": "Manage the movement of goods into and out of production facilities to ensure efficiency, effectiveness, or sustainability of operations."
+ },
+ {
+  "task_id": "20707",
+  "occupation": "General and Operations Managers",
+  "task_text": "Set prices or credit terms for goods or services, based on forecasts of customer demand."
+ },
+ {
+  "task_id": "944",
+  "occupation": "General and Operations Managers",
+  "task_text": "Perform sales floor work, such as greeting or assisting customers, stocking shelves, or taking inventory."
+ },
+ {
+  "task_id": "945",
+  "occupation": "General and Operations Managers",
+  "task_text": "Develop or implement product-marketing strategies, including advertising campaigns or sales promotions."
+ },
+ {
+  "task_id": "947",
+  "occupation": "General and Operations Managers",
+  "task_text": "Direct non-merchandising departments of businesses, such as advertising or purchasing."
+ },
+ {
+  "task_id": "19501",
+  "occupation": "General and Operations Managers",
+  "task_text": "Implement or oversee environmental management or sustainability programs addressing issues such as recycling, conservation, or waste management."
+ },
+ {
+  "task_id": "949",
+  "occupation": "General and Operations Managers",
+  "task_text": "Plan store layouts or design displays."
+ },
+ {
+  "task_id": "948",
+  "occupation": "General and Operations Managers",
+  "task_text": "Recommend locations for new facilities, or oversee the remodeling or renovating of current facilities."
+ },
+ {
+  "task_id": "15267",
+  "occupation": "Legislators",
+  "task_text": "Analyze and understand the local and national implications of proposed legislation."
+ },
+ {
+  "task_id": "15268",
+  "occupation": "Legislators",
+  "task_text": "Appoint nominees to leadership posts, or approve such appointments."
+ },
+ {
+  "task_id": "15269",
+  "occupation": "Legislators",
+  "task_text": "Confer with colleagues to formulate positions and strategies pertaining to pending issues."
+ },
+ {
+  "task_id": "15270",
+  "occupation": "Legislators",
+  "task_text": "Debate the merits of proposals and bill amendments during floor sessions, following the appropriate rules of procedure."
+ },
+ {
+  "task_id": "15271",
+  "occupation": "Legislators",
+  "task_text": "Develop expertise in subject matters related to committee assignments."
+ },
+ {
+  "task_id": "15272",
+  "occupation": "Legislators",
+  "task_text": "Hear testimony from constituents, representatives of interest groups, board and commission members, and others with an interest in bills or issues under consideration."
+ },
+ {
+  "task_id": "15273",
+  "occupation": "Legislators",
+  "task_text": "Keep abreast of the issues affecting constituents by making personal visits and phone calls, reading local newspapers, and viewing or listening to local broadcasts."
+ },
+ {
+  "task_id": "15274",
+  "occupation": "Legislators",
+  "task_text": "Maintain knowledge of relevant national and international current events."
+ },
+ {
+  "task_id": "15275",
+  "occupation": "Legislators",
+  "task_text": "Make decisions that balance the perspectives of private citizens, public officials, and party leaders."
+ },
+ {
+  "task_id": "15276",
+  "occupation": "Legislators",
+  "task_text": "Negotiate with colleagues or members of other political parties in order to reconcile differing interests, and to create policies and agreements."
+ },
+ {
+  "task_id": "15277",
+  "occupation": "Legislators",
+  "task_text": "Prepare drafts of amendments, government policies, laws, rules, regulations, budgets, programs and procedures."
+ },
+ {
+  "task_id": "15278",
+  "occupation": "Legislators",
+  "task_text": "Read and review concerns of constituents or the general public and determine if governmental action is necessary."
+ },
+ {
+  "task_id": "15279",
+  "occupation": "Legislators",
+  "task_text": "Represent their parties in negotiations with political executives or members of other parties, and when speaking with the media."
+ },
+ {
+  "task_id": "15280",
+  "occupation": "Legislators",
+  "task_text": "Review bills in committee, and make recommendations about their future."
+ },
+ {
+  "task_id": "15281",
+  "occupation": "Legislators",
+  "task_text": "Seek federal funding for local projects and programs."
+ },
+ {
+  "task_id": "15282",
+  "occupation": "Legislators",
+  "task_text": "Serve on commissions, investigative panels, study groups, and committees in order to examine specialized areas and recommend action."
+ },
+ {
+  "task_id": "15283",
+  "occupation": "Legislators",
+  "task_text": "Vote on motions, amendments, and decisions on whether or not to report a bill out from committee to the assembly floor."
+ },
+ {
+  "task_id": "15284",
+  "occupation": "Legislators",
+  "task_text": "Write, prepare, and deliver statements for the Congressional Record."
+ },
+ {
+  "task_id": "15285",
+  "occupation": "Legislators",
+  "task_text": "Alert constituents of government actions and programs by way of newsletters, personal appearances at town meetings, phone calls, and individual meetings."
+ },
+ {
+  "task_id": "15286",
+  "occupation": "Legislators",
+  "task_text": "Attend receptions, dinners, and conferences to meet people, exchange views and information, and develop working relationships."
+ },
+ {
+  "task_id": "15287",
+  "occupation": "Legislators",
+  "task_text": "Conduct \"head counts\" to help predict the outcome of upcoming votes."
+ },
+ {
+  "task_id": "15288",
+  "occupation": "Legislators",
+  "task_text": "Determine campaign strategies for media advertising, positions on issues, and public appearances."
+ },
+ {
+  "task_id": "15289",
+  "occupation": "Legislators",
+  "task_text": "Encourage and support party candidates for political office."
+ },
+ {
+  "task_id": "15290",
+  "occupation": "Legislators",
+  "task_text": "Establish personal offices in local districts or states, and manage office staff."
+ },
+ {
+  "task_id": "15291",
+  "occupation": "Legislators",
+  "task_text": "Evaluate the structure, efficiency, activities, and performance of government agencies."
+ },
+ {
+  "task_id": "15292",
+  "occupation": "Legislators",
+  "task_text": "Organize and maintain campaign organizations and fundraisers, in order to raise money for election or re-election."
+ },
+ {
+  "task_id": "15293",
+  "occupation": "Legislators",
+  "task_text": "Oversee expense allowances, ensuring that accounts are balanced at the end of each fiscal year."
+ },
+ {
+  "task_id": "15294",
+  "occupation": "Legislators",
+  "task_text": "Promote the industries and products of their electoral districts."
+ },
+ {
+  "task_id": "15295",
+  "occupation": "Legislators",
+  "task_text": "Represent their government at local, national, and international meetings and conferences."
+ },
+ {
+  "task_id": "15296",
+  "occupation": "Legislators",
+  "task_text": "Speak to students to encourage and support the development of future political leaders."
+ },
+ {
+  "task_id": "3224",
+  "occupation": "Advertising and Promotions Managers",
+  "task_text": "Plan and prepare advertising and promotional material to increase sales of products or services, working with customers, company officials, sales departments, and advertising agencies."
+ },
+ {
+  "task_id": "3226",
+  "occupation": "Advertising and Promotions Managers",
+  "task_text": "Inspect layouts and advertising copy, and edit scripts, audio, video, and other promotional material for adherence to specifications."
+ },
+ {
+  "task_id": "3231",
+  "occupation": "Advertising and Promotions Managers",
+  "task_text": "Confer with department heads or staff to discuss topics such as contracts, selection of advertising media, or product to be advertised."
+ },
+ {
+  "task_id": "3242",
+  "occupation": "Advertising and Promotions Managers",
+  "task_text": "Coordinate with the media to disseminate advertising."
+ },
+ {
+  "task_id": "3227",
+  "occupation": "Advertising and Promotions Managers",
+  "task_text": "Coordinate activities of departments, such as sales, graphic arts, media, finance, and research."
+ },
+ {
+  "task_id": "3238",
+  "occupation": "Advertising and Promotions Managers",
+  "task_text": "Plan and execute advertising policies and strategies for organizations."
+ },
+ {
+  "task_id": "3237",
+  "occupation": "Advertising and Promotions Managers",
+  "task_text": "Direct, motivate, and monitor the mobilization of a campaign team to advance campaign goals."
+ }
+]

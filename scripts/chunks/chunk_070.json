@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "9194",
+  "occupation": "Marriage and Family Therapists",
+  "task_text": "Provide instructions to clients on how to obtain help with legal, financial, and other personal issues."
+ },
+ {
+  "task_id": "9196",
+  "occupation": "Marriage and Family Therapists",
+  "task_text": "Provide public education and consultation to other professionals or groups regarding counseling services, issues, and methods."
+ },
+ {
+  "task_id": "9193",
+  "occupation": "Marriage and Family Therapists",
+  "task_text": "Follow up on results of counseling programs and clients' adjustments to determine effectiveness of programs."
+ },
+ {
+  "task_id": "9197",
+  "occupation": "Marriage and Family Therapists",
+  "task_text": "Supervise other counselors, social service staff, and assistants."
+ },
+ {
+  "task_id": "9195",
+  "occupation": "Marriage and Family Therapists",
+  "task_text": "Gather information from doctors, schools, social workers, juvenile counselors, law enforcement personnel, and others to make recommendations to courts for resolution of child custody or visitation disputes."
+ },
+ {
+  "task_id": "9199",
+  "occupation": "Marriage and Family Therapists",
+  "task_text": "Write evaluations of parents and children for use by courts deciding divorce and custody cases, testifying in court if necessary."
+ },
+ {
+  "task_id": "1591",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Maintain confidentiality of records relating to clients' treatment."
+ },
+ {
+  "task_id": "1592",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Encourage clients to express their feelings and discuss what is happening in their lives, helping them to develop insight into themselves or their relationships."
+ },
+ {
+  "task_id": "1595",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Counsel clients or patients, individually or in group sessions, to assist in overcoming dependencies, adjusting to life, or making changes."
+ },
+ {
+  "task_id": "23908",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Perform crisis interventions to help ensure the safety of the patients and others."
+ },
+ {
+  "task_id": "18484",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Fill out and maintain client-related paperwork, including federal- and state-mandated forms, client diagnostic records, and progress notes."
+ },
+ {
+  "task_id": "18483",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Assess patients for risk of suicide attempts."
+ },
+ {
+  "task_id": "20402",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Perform crisis interventions with clients."
+ },
+ {
+  "task_id": "1593",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Guide clients in the development of skills or strategies for dealing with their problems."
+ },
+ {
+  "task_id": "1594",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Prepare and maintain all required treatment records and reports."
+ },
+ {
+  "task_id": "1598",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Develop and implement treatment plans based on clinical experience and knowledge."
+ },
+ {
+  "task_id": "1596",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Collect information about clients through interviews, observation, or tests."
+ },
+ {
+  "task_id": "1606",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Modify treatment activities or approaches as needed to comply with changes in clients' status."
+ },
+ {
+  "task_id": "1604",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Evaluate the effectiveness of counseling programs on clients' progress in resolving identified problems and moving towards defined objectives."
+ },
+ {
+  "task_id": "1600",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Evaluate clients' physical or mental condition, based on review of client information."
+ },
+ {
+  "task_id": "18485",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Supervise other counselors, social service staff, assistants, or graduate students."
+ },
+ {
+  "task_id": "1608",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Discuss with individual patients their plans for life after leaving therapy."
+ },
+ {
+  "task_id": "1602",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Refer patients, clients, or family members to community resources or to specialists as necessary."
+ },
+ {
+  "task_id": "1597",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Act as client advocates to coordinate required services or to resolve emergency problems in crisis situations."
+ },
+ {
+  "task_id": "23909",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Collaborate with mental health professionals and other staff members to perform clinical assessments or develop treatment plans."
+ },
+ {
+  "task_id": "1607",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Learn about new developments in counseling by reading professional literature, attending courses and seminars, or establishing and maintaining contact with other social service agencies."
+ },
+ {
+  "task_id": "1605",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Plan, organize, or lead structured programs of counseling, work, study, recreation, or social activities for clients."
+ },
+ {
+  "task_id": "1609",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Gather information about community mental health needs or resources that could be used in conjunction with therapy."
+ },
+ {
+  "task_id": "1610",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Monitor clients' use of medications."
+ },
+ {
+  "task_id": "1603",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Counsel family members to assist them in understanding, dealing with, or supporting clients or patients."
+ },
+ {
+  "task_id": "1612",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Plan or conduct programs to prevent substance abuse or improve community health or counseling services."
+ },
+ {
+  "task_id": "1601",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Meet with families, probation officers, police, or other interested parties to exchange necessary information during the treatment process."
+ },
+ {
+  "task_id": "18486",
+  "occupation": "Mental Health Counselors",
+  "task_text": "Coordinate or direct employee workshops, courses, or training about mental health issues."
+ },
+ {
+  "task_id": "9202",
+  "occupation": "Rehabilitation Counselors",
+  "task_text": "Prepare and maintain records and case files, including documentation, such as clients' personal and eligibility information, services provided, narratives of client contacts, or relevant correspondence."
+ },
+ {
+  "task_id": "9201",
+  "occupation": "Rehabilitation Counselors",
+  "task_text": "Confer with clients to discuss their options and goals so that rehabilitation programs and plans for accessing needed services can be developed."
+ },
+ {
+  "task_id": "9205",
+  "occupation": "Rehabilitation Counselors",
+  "task_text": "Develop rehabilitation plans that fit clients' aptitudes, education levels, physical abilities, and career goals."
+ },
+ {
+  "task_id": "9208",
+  "occupation": "Rehabilitation Counselors",
+  "task_text": "Locate barriers to client employment, such as inaccessible work sites, inflexible schedules, or transportation problems, and work with clients to develop strategies for overcoming these barriers."
+ },
+ {
+  "task_id": "9200",
+  "occupation": "Rehabilitation Counselors",
+  "task_text": "Monitor and record clients' progress to ensure that goals and objectives are met."
+ },
+ {
+  "task_id": "9212",
+  "occupation": "Rehabilitation Counselors",
+  "task_text": "Participate in job development and placement programs, contacting prospective employers, placing clients in jobs, and evaluating the success of placements."
+ },
+ {
+  "task_id": "9204",
+  "occupation": "Rehabilitation Counselors",
+  "task_text": "Analyze information from interviews, educational and medical records, consultation with other professionals, and diagnostic evaluations to assess clients' abilities, needs, and eligibility for services."
+ },
+ {
+  "task_id": "9213",
+  "occupation": "Rehabilitation Counselors",
+  "task_text": "Collaborate with clients' families to implement rehabilitation plans, such as behavioral, residential, social, or employment goals."
+ },
+ {
+  "task_id": "9207",
+  "occupation": "Rehabilitation Counselors",
+  "task_text": "Develop and maintain relationships with community referral sources, such as schools or community groups."
+ },
+ {
+  "task_id": "9206",
+  "occupation": "Rehabilitation Counselors",
+  "task_text": "Maintain close contact with clients during job training and placements to resolve problems and evaluate placement adequacy."
+ },
+ {
+  "task_id": "9209",
+  "occupation": "Rehabilitation Counselors",
+  "task_text": "Arrange for on-site job coaching or assistive devices, such as specially equipped wheelchairs, to help clients adapt to work or school environments."
+ },
+ {
+  "task_id": "9203",
+  "occupation": "Rehabilitation Counselors",
+  "task_text": "Arrange for physical, mental, academic, vocational, and other evaluations to obtain information for assessing clients' needs and developing rehabilitation plans."
+ },
+ {
+  "task_id": "9210",
+  "occupation": "Rehabilitation Counselors",
+  "task_text": "Confer with physicians, psychologists, occupational therapists, and other professionals to develop and implement client rehabilitation programs."
+ },
+ {
+  "task_id": "9214",
+  "occupation": "Rehabilitation Counselors",
+  "task_text": "Collaborate with community agencies to establish facilities and programs for persons with disabilities."
+ },
+ {
+  "task_id": "20234",
+  "occupation": "Rehabilitation Counselors",
+  "task_text": "Manage budgets and direct case service allocations, authorizing expenditures and payments."
+ },
+ {
+  "task_id": "21178",
+  "occupation": "Rehabilitation Counselors",
+  "task_text": "Supervise rehabilitation counselors and staff."
+ },
+ {
+  "task_id": "9211",
+  "occupation": "Rehabilitation Counselors",
+  "task_text": "Develop diagnostic procedures to determine clients' needs."
+ },
+ {
+  "task_id": "237",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Maintain case history records and prepare reports."
+ },
+ {
+  "task_id": "235",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Interview clients individually, in families, or in groups, assessing their situations, capabilities, and problems to determine what services are required to meet their needs."
+ },
+ {
+  "task_id": "250",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Serve as liaisons between students, homes, schools, family services, child guidance clinics, courts, protective services, doctors, and other contacts to help children who face problems, such as disabilities, abuse, or poverty."
+ },
+ {
+  "task_id": "241",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Develop and review service plans in consultation with clients and perform follow-ups assessing the quantity and quality of services provided."
+ },
+ {
+  "task_id": "243",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Address legal issues, such as child abuse and discipline, assisting with hearings and providing testimony to inform custody arrangements."
+ },
+ {
+  "task_id": "240",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Counsel parents with child rearing problems, interviewing the child and family to determine whether further action is required."
+ },
+ {
+  "task_id": "239",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Consult with parents, teachers, and other school personnel to determine causes of problems, such as truancy and misbehavior, and to implement solutions."
+ },
+ {
+  "task_id": "246",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Arrange for medical, psychiatric, and other tests that may disclose causes of difficulties and indicate remedial measures."
+ },
+ {
+  "task_id": "245",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Refer clients to community resources for services, such as job placement, debt counseling, legal aid, housing, medical treatment, or financial assistance, and provide concrete information, such as where to go and how to apply."
+ },
+ {
+  "task_id": "236",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Counsel individuals, groups, families, or communities regarding issues including mental health, poverty, unemployment, substance abuse, physical abuse, rehabilitation, social adjustment, child care, or medical care."
+ },
+ {
+  "task_id": "244",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Provide, find, or arrange for support services, such as child care, homemaker service, prenatal care, substance abuse treatment, job training, counseling, or parenting classes to prevent more serious problems from developing."
+ },
+ {
+  "task_id": "242",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Collect supplementary information needed to assist client, such as employment records, medical records, or school reports."
+ },
+ {
+  "task_id": "251",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Place children in foster or adoptive homes, institutions, or medical treatment centers."
+ },
+ {
+  "task_id": "253",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Recommend temporary foster care and advise foster or adoptive parents."
+ },
+ {
+  "task_id": "238",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Counsel students whose behavior, school progress, or mental or physical impairment indicate a need for assistance, diagnosing students' problems and arranging for needed services."
+ },
+ {
+  "task_id": "249",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Evaluate personal characteristics and home conditions of foster home or adoption applicants."
+ },
+ {
+  "task_id": "255",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Conduct social research."
+ },
+ {
+  "task_id": "252",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Supervise other social workers."
+ },
+ {
+  "task_id": "256",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Lead group counseling sessions that provide support in such areas as grief, stress, or chemical dependency."
+ },
+ {
+  "task_id": "257",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Serve on policy-making committees, assist in community development, and assist client groups by lobbying for solutions to problems."
+ },
+ {
+  "task_id": "254",
+  "occupation": "Child, Family, and School Social Workers",
+  "task_text": "Determine clients' eligibility for financial assistance."
+ },
+ {
+  "task_id": "263",
+  "occupation": "Healthcare Social Workers",
+  "task_text": "Advocate for clients or patients to resolve crises."
+ },
+ {
+  "task_id": "23910",
+  "occupation": "Healthcare Social Workers",
+  "task_text": "Educate clients about end-of-life symptoms and options to assist them in making informed decisions."
+ },
+ {
+  "task_id": "258",
+  "occupation": "Healthcare Social Workers",
+  "task_text": "Collaborate with other professionals to evaluate patients' medical or physical condition and to assess client needs."
+ },
+ {
+  "task_id": "260",
+  "occupation": "Healthcare Social Workers",
+  "task_text": "Refer patient, client, or family to community resources to assist in recovery from mental or physical illness and to provide access to services such as financial assistance, legal aid, housing, job placement or education."
+ },
+ {
+  "task_id": "265",
+  "occupation": "Healthcare Social Workers",
+  "task_text": "Utilize consultation data and social work experience to plan and coordinate client or patient care and rehabilitation, following through to ensure service efficacy."
+ },
+ {
+  "task_id": "267",
+  "occupation": "Healthcare Social Workers",
+  "task_text": "Monitor, evaluate, and record client progress according to measurable goals described in treatment and care plan."
+ },
+ {
+  "task_id": "264",
+  "occupation": "Healthcare Social Workers",
+  "task_text": "Identify environmental impediments to client or patient progress through interviews and review of patient records."
+ },
+ {
+  "task_id": "261",
+  "occupation": "Healthcare Social Workers",
+  "task_text": "Counsel clients and patients in individual and group sessions to help them overcome dependencies, recover from illness, and adjust to life."
+ },
+ {
+  "task_id": "15227",
+  "occupation": "Healthcare Social Workers",
+  "task_text": "Plan discharge from care facility to home or other care facility."
+ },
+ {
+  "task_id": "262",
+  "occupation": "Healthcare Social Workers",
+  "task_text": "Organize support groups or counsel family members to assist them in understanding, dealing with, and supporting the client or patient."
+ },
+ {
+  "task_id": "266",
+  "occupation": "Healthcare Social Workers",
+  "task_text": "Modify treatment plans to comply with changes in clients' status."
+ },
+ {
+  "task_id": "268",
+  "occupation": "Healthcare Social Workers",
+  "task_text": "Supervise and direct other workers providing services to clients or patients."
+ },
+ {
+  "task_id": "272",
+  "occupation": "Healthcare Social Workers",
+  "task_text": "Plan and conduct programs to combat social problems, prevent substance abuse, or improve community health and counseling services."
+ },
+ {
+  "task_id": "269",
+  "occupation": "Healthcare Social Workers",
+  "task_text": "Develop or advise on social policy and assist in community development."
+ },
+ {
+  "task_id": "271",
+  "occupation": "Healthcare Social Workers",
+  "task_text": "Conduct social research to advance knowledge in the social work field."
+ },
+ {
+  "task_id": "259",
+  "occupation": "Healthcare Social Workers",
+  "task_text": "Investigate child abuse or neglect cases and take authorized protective action when necessary."
+ },
+ {
+  "task_id": "270",
+  "occupation": "Healthcare Social Workers",
+  "task_text": "Oversee Medicaid- and Medicare-related paperwork and recordkeeping in hospitals."
+ },
+ {
+  "task_id": "273",
+  "occupation": "Mental Health and Substance Abuse Social Workers",
+  "task_text": "Counsel clients in individual or group sessions to assist them in dealing with substance abuse, mental or physical illness, poverty, unemployment, or physical abuse."
+ },
+ {
+  "task_id": "275",
+  "occupation": "Mental Health and Substance Abuse Social Workers",
+  "task_text": "Collaborate with counselors, physicians, or nurses to plan or coordinate treatment, drawing on social work experience and patient needs."
+ },
+ {
+  "task_id": "276",
+  "occupation": "Mental Health and Substance Abuse Social Workers",
+  "task_text": "Monitor, evaluate, and record client progress with respect to treatment goals."
+ },
+ {
+  "task_id": "18487",
+  "occupation": "Mental Health and Substance Abuse Social Workers",
+  "task_text": "Interview clients, review records, conduct assessments, or confer with other professionals to evaluate the mental or physical condition of clients or patients."
+ },
+ {
+  "task_id": "281",
+  "occupation": "Mental Health and Substance Abuse Social Workers",
+  "task_text": "Supervise or direct other workers who provide services to clients or patients."
+ },
+ {
+  "task_id": "279",
+  "occupation": "Mental Health and Substance Abuse Social Workers",
+  "task_text": "Modify treatment plans according to changes in client status."
+ },
+ {
+  "task_id": "18489",
+  "occupation": "Mental Health and Substance Abuse Social Workers",
+  "task_text": "Assist clients in adhering to treatment plans, such as setting up appointments, arranging for transportation to appointments, or providing support."
+ },
+ {
+  "task_id": "18488",
+  "occupation": "Mental Health and Substance Abuse Social Workers",
+  "task_text": "Educate clients or community members about mental or physical illness, abuse, medication, or available community resources."
+ },
+ {
+  "task_id": "278",
+  "occupation": "Mental Health and Substance Abuse Social Workers",
+  "task_text": "Counsel or aid family members to assist them in understanding, dealing with, or supporting the client or patient."
+ },
+ {
+  "task_id": "18490",
+  "occupation": "Mental Health and Substance Abuse Social Workers",
+  "task_text": "Increase social work knowledge by reviewing current literature, conducting social research, or attending seminars, training workshops, or classes."
+ },
+ {
+  "task_id": "277",
+  "occupation": "Mental Health and Substance Abuse Social Workers",
+  "task_text": "Refer patient, client, or family to community resources for housing or treatment to assist in recovery from mental or physical illness, following through to ensure service efficacy."
+ },
+ {
+  "task_id": "280",
+  "occupation": "Mental Health and Substance Abuse Social Workers",
+  "task_text": "Plan or conduct programs to prevent substance abuse, combat social problems, or improve health or counseling services in community."
+ },
+ {
+  "task_id": "282",
+  "occupation": "Mental Health and Substance Abuse Social Workers",
+  "task_text": "Develop or advise on social policy or assist in community development."
+ },
+ {
+  "task_id": "20236",
+  "occupation": "Health Education Specialists",
+  "task_text": "Prepare and distribute health education materials, such as reports, bulletins, and visual aids, to address smoking, vaccines, and other public health concerns."
+ },
+ {
+  "task_id": "9218",
+  "occupation": "Health Education Specialists",
+  "task_text": "Develop and maintain cooperative working relationships with agencies and organizations interested in public health care."
+ },
+ {
+  "task_id": "9222",
+  "occupation": "Health Education Specialists",
+  "task_text": "Maintain databases, mailing lists, telephone networks, and other information to facilitate the functioning of health education programs."
+ },
+ {
+  "task_id": "9216",
+  "occupation": "Health Education Specialists",
+  "task_text": "Document activities and record information, such as the numbers of applications completed, presentations conducted, and persons assisted."
+ },
+ {
+  "task_id": "9217",
+  "occupation": "Health Education Specialists",
+  "task_text": "Develop and present health education and promotion programs, such as training workshops, conferences, and school or community presentations."
+ },
+ {
+  "task_id": "9221",
+  "occupation": "Health Education Specialists",
+  "task_text": "Collaborate with health specialists and civic groups to determine community health needs and the availability of services and to develop goals for meeting needs."
+ },
+ {
+  "task_id": "9229",
+  "occupation": "Health Education Specialists",
+  "task_text": "Develop, conduct, or coordinate health needs assessments and other public health surveys."
+ },
+ {
+  "task_id": "9223",
+  "occupation": "Health Education Specialists",
+  "task_text": "Supervise professional and technical staff in implementing health programs, objectives, and goals."
+ },
+ {
+  "task_id": "9220",
+  "occupation": "Health Education Specialists",
+  "task_text": "Develop operational plans and policies necessary to achieve health education objectives and services."
+ },
+ {
+  "task_id": "9225",
+  "occupation": "Health Education Specialists",
+  "task_text": "Provide program information to the public by preparing and presenting press releases, conducting media campaigns, or maintaining program-related Web sites."
+ },
+ {
+  "task_id": "9228",
+  "occupation": "Health Education Specialists",
+  "task_text": "Develop and maintain health education libraries to provide resources for staff and community agencies."
+ },
+ {
+  "task_id": "9224",
+  "occupation": "Health Education Specialists",
+  "task_text": "Design and conduct evaluations and diagnostic studies to assess the quality and performance of health education programs."
+ },
+ {
+  "task_id": "9226",
+  "occupation": "Health Education Specialists",
+  "task_text": "Develop, prepare, and coordinate grant applications and grant-related activities to obtain funding for health education programs and related work."
+ },
+ {
+  "task_id": "9227",
+  "occupation": "Health Education Specialists",
+  "task_text": "Provide guidance to agencies and organizations on assessment of health education needs and on development and delivery of health education programs."
+ },
+ {
+  "task_id": "20237",
+  "occupation": "Health Education Specialists",
+  "task_text": "Design and administer training programs for new employees and continuing education for existing employees."
+ },
+ {
+  "task_id": "20235",
+  "occupation": "Health Education Specialists",
+  "task_text": "Develop educational materials and programs for community agencies, local government, and state government."
+ },
+ {
+  "task_id": "1614",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Prepare and maintain case folder for each assigned inmate or offender."
+ },
+ {
+  "task_id": "1618",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Gather information about offenders' backgrounds by talking to offenders, their families and friends, and other people who have relevant information."
+ },
+ {
+  "task_id": "1625",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Interview probationers and parolees regularly to evaluate their progress in accomplishing goals and maintaining the terms specified in their probation contracts and rehabilitation plans."
+ },
+ {
+  "task_id": "1617",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Discuss with offenders how such issues as drug and alcohol abuse and anger management problems might have played roles in their criminal behavior."
+ },
+ {
+  "task_id": "20056",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Supervise people on community-based sentences, such as electronically monitored home detention, and provide field supervision of probationers by conducting curfew checks or visits to home, work, or school."
+ },
+ {
+  "task_id": "1628",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Investigate alleged parole violations, using interviews, surveillance, and search and seizure."
+ },
+ {
+  "task_id": "1624",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Recommend remedial action or initiate court action in response to noncompliance with terms of probation or parole."
+ },
+ {
+  "task_id": "1621",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Arrange for medical, mental health, or substance abuse treatment services according to individual needs or court orders."
+ },
+ {
+  "task_id": "1620",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Develop liaisons and networks with other parole officers, community agencies, correctional institutions, psychiatric facilities, and aftercare agencies to plan for helping offenders with life adjustments."
+ },
+ {
+  "task_id": "20055",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Administer drug and alcohol tests, including random drug screens of offenders, to verify compliance with substance abuse treatment programs."
+ },
+ {
+  "task_id": "1616",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Inform offenders or inmates of requirements of conditional release, such as office visits, restitution payments, or educational and employment stipulations."
+ },
+ {
+  "task_id": "1631",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Participate in decisions about whether cases should go before courts and which court should hear them."
+ },
+ {
+  "task_id": "1615",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Write reports describing offenders' progress."
+ }
+]

@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "23511",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Examine malfunctioning radio equipment to locate defects such as loose connections, broken wires, or burned-out components, using schematic diagrams and test equipment."
+ },
+ {
+  "task_id": "23512",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Insert plugs into receptacles and bolt or screw leads to terminals to connect equipment to power sources, using hand tools."
+ },
+ {
+  "task_id": "23513",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Install, adjust, and repair stationary and mobile radio transmitting and receiving equipment and two-way radio communication systems."
+ },
+ {
+  "task_id": "23514",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Monitor radio range stations to detect transmission flaws and adjust controls to eliminate flaws."
+ },
+ {
+  "task_id": "23515",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Mount equipment on transmission towers and in vehicles such as ships or ambulances."
+ },
+ {
+  "task_id": "23516",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Remove and replace defective components and parts such as conductors, resistors, semiconductors, and integrated circuits, using soldering irons, wire cutters, and hand tools."
+ },
+ {
+  "task_id": "23517",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Repair circuits, wiring, and soldering, using soldering irons and hand tools to install parts and adjust connections."
+ },
+ {
+  "task_id": "23518",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Test batteries, using hydrometers and ammeters, and charge batteries as necessary."
+ },
+ {
+  "task_id": "23519",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Test emergency transmitters to ensure their readiness for immediate use."
+ },
+ {
+  "task_id": "23520",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Test equipment functions such as signal strength and quality, transmission capacity, interference, and signal delay, using equipment such as oscilloscopes, circuit analyzers, frequency meters, and wattmeters."
+ },
+ {
+  "task_id": "23521",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Turn setscrews to adjust receivers for maximum sensitivity and transmitters for maximum output."
+ },
+ {
+  "task_id": "11655",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Demonstrate equipment to customers and explain its use, responding to any inquiries or complaints."
+ },
+ {
+  "task_id": "11649",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Test circuits and components of malfunctioning telecommunications equipment to isolate sources of malfunctions, using test meters, circuit diagrams, polarity probes, and other hand tools."
+ },
+ {
+  "task_id": "11650",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Test repaired, newly installed, or updated equipment to ensure that it functions properly and conforms to specifications, using test equipment and observation."
+ },
+ {
+  "task_id": "11665",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Climb poles and ladders, use truck-mounted booms, and enter areas such as manholes and cable vaults to install, maintain, or inspect equipment."
+ },
+ {
+  "task_id": "11660",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Assemble and install communication equipment such as data and telephone communication lines, wiring, switching equipment, wiring frames, power apparatus, computer systems, and networks."
+ },
+ {
+  "task_id": "11668",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Run wires between components and to outside cable systems, connecting them to wires from telephone poles or underground cable accesses."
+ },
+ {
+  "task_id": "11664",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Test connections to ensure that power supplies are adequate and that communications links function."
+ },
+ {
+  "task_id": "11648",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Note differences in wire and cable colors so that work can be performed correctly."
+ },
+ {
+  "task_id": "11652",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Inspect equipment on a regular basis to ensure proper functioning."
+ },
+ {
+  "task_id": "11662",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Collaborate with other workers to locate and correct malfunctions."
+ },
+ {
+  "task_id": "11659",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Remove loose wires and other debris after work is completed."
+ },
+ {
+  "task_id": "11653",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Repair or replace faulty equipment, such as defective and damaged telephones, wires, switching system components, and associated equipment."
+ },
+ {
+  "task_id": "11674",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Maintain computer and manual records pertaining to facilities and equipment."
+ },
+ {
+  "task_id": "11661",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Communicate with bases, using telephones or two-way radios to receive instructions or technical advice, or to report equipment status."
+ },
+ {
+  "task_id": "11654",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Remove and remake connections to change circuit layouts, following work orders or diagrams."
+ },
+ {
+  "task_id": "11671",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Clean and maintain tools, test equipment, and motor vehicles."
+ },
+ {
+  "task_id": "11677",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Perform database verifications, using computers."
+ },
+ {
+  "task_id": "11658",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Request support from technical service centers when on-site procedures fail to solve installation or maintenance problems."
+ },
+ {
+  "task_id": "11656",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Analyze test readings, computer printouts, and trouble reports to determine equipment repair needs and required repair methods."
+ },
+ {
+  "task_id": "11657",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Adjust or modify equipment to enhance equipment performance or to respond to customer requests."
+ },
+ {
+  "task_id": "11669",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Remove and replace plug-in circuit equipment."
+ },
+ {
+  "task_id": "11666",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Refer to manufacturers' manuals to obtain maintenance instructions pertaining to specific malfunctions."
+ },
+ {
+  "task_id": "11684",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Dig holes or trenches as necessary for equipment installation and access."
+ },
+ {
+  "task_id": "11663",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Review manufacturer's instructions, manuals, technical specifications, building permits, and ordinances to determine communication equipment requirements and procedures."
+ },
+ {
+  "task_id": "11651",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Drive crew trucks to and from work areas."
+ },
+ {
+  "task_id": "11670",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Route and connect cables and lines to switches, switchboard equipment, and distributing frames, using wire-wrap guns or soldering irons to connect wires to terminals."
+ },
+ {
+  "task_id": "11667",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Designate cables available for use."
+ },
+ {
+  "task_id": "11673",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Diagnose and correct problems from remote locations, using special switchboards to find the sources of problems."
+ },
+ {
+  "task_id": "11672",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Program computerized switches and switchboards to provide requested features."
+ },
+ {
+  "task_id": "11676",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Enter codes needed to correct electronic switching system programming."
+ },
+ {
+  "task_id": "11679",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Examine telephone transmission facilities to determine requirements for new or additional telephone services."
+ },
+ {
+  "task_id": "11682",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Measure distances from landmarks to identify exact installation sites for equipment."
+ },
+ {
+  "task_id": "11675",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Install updated software and programs that maintain existing software or provide requested features, such as time-correlated call routing."
+ },
+ {
+  "task_id": "11681",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Perform routine maintenance on equipment, including adjusting and lubricating components and painting worn or exposed areas."
+ },
+ {
+  "task_id": "11680",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Determine viability of sites through observation, and discuss site locations and construction requirements with customers."
+ },
+ {
+  "task_id": "11685",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Install telephone station equipment, such as intercommunication systems, transmitters, receivers, relays, and ringers, and related apparatus, such as coin collectors, telephone booths, and switching-key equipment."
+ },
+ {
+  "task_id": "11683",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Clean switches and replace contact points, using vacuum hoses, solvents, and hand tools."
+ },
+ {
+  "task_id": "11686",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Provide input into the design and manufacturing of new equipment."
+ },
+ {
+  "task_id": "11678",
+  "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+  "task_text": "Address special issues or situations, such as illegal or unauthorized use of equipment, or cases of electrical or acoustic shock."
+ },
+ {
+  "task_id": "9934",
+  "occupation": "Avionics Technicians",
+  "task_text": "Test and troubleshoot instruments, components, and assemblies, using circuit testers, oscilloscopes, or voltmeters."
+ },
+ {
+  "task_id": "9935",
+  "occupation": "Avionics Technicians",
+  "task_text": "Keep records of maintenance and repair work."
+ },
+ {
+  "task_id": "9939",
+  "occupation": "Avionics Technicians",
+  "task_text": "Adjust, repair, or replace malfunctioning components or assemblies, using hand tools or soldering irons."
+ },
+ {
+  "task_id": "9938",
+  "occupation": "Avionics Technicians",
+  "task_text": "Install electrical and electronic components, assemblies, and systems in aircraft, using hand tools, power tools, or soldering irons."
+ },
+ {
+  "task_id": "9933",
+  "occupation": "Avionics Technicians",
+  "task_text": "Set up and operate ground support and test equipment to perform functional flight tests of electrical and electronic systems."
+ },
+ {
+  "task_id": "9941",
+  "occupation": "Avionics Technicians",
+  "task_text": "Assemble components such as switches, electrical controls, and junction boxes, using hand tools or soldering irons."
+ },
+ {
+  "task_id": "9943",
+  "occupation": "Avionics Technicians",
+  "task_text": "Lay out installation of aircraft assemblies and systems, following documentation such as blueprints, manuals, and wiring diagrams."
+ },
+ {
+  "task_id": "9940",
+  "occupation": "Avionics Technicians",
+  "task_text": "Connect components to assemblies such as radio systems, instruments, magnetos, inverters, and in-flight refueling systems, using hand tools and soldering irons."
+ },
+ {
+  "task_id": "9937",
+  "occupation": "Avionics Technicians",
+  "task_text": "Interpret flight test data to diagnose malfunctions and systemic performance problems."
+ },
+ {
+  "task_id": "9936",
+  "occupation": "Avionics Technicians",
+  "task_text": "Coordinate work with that of engineers, technicians, and other aircraft maintenance personnel."
+ },
+ {
+  "task_id": "9942",
+  "occupation": "Avionics Technicians",
+  "task_text": "Fabricate parts and test aids as required."
+ },
+ {
+  "task_id": "9944",
+  "occupation": "Avionics Technicians",
+  "task_text": "Assemble prototypes or models of circuits, instruments, and systems for use in testing."
+ },
+ {
+  "task_id": "9945",
+  "occupation": "Avionics Technicians",
+  "task_text": "Operate computer-aided drafting and design applications to design avionics system modifications."
+ },
+ {
+  "task_id": "11696",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Inspect and test equipment to locate damage or worn parts and diagnose malfunctions, or read work orders or schematic drawings to determine required repairs."
+ },
+ {
+  "task_id": "11690",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Reassemble repaired electric motors to specified requirements and ratings, using hand tools and electrical meters."
+ },
+ {
+  "task_id": "11688",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Measure velocity, horsepower, revolutions per minute (rpm), amperage, circuitry, and voltage of units or parts to diagnose problems, using ammeters, voltmeters, wattmeters, and other testing devices."
+ },
+ {
+  "task_id": "11692",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Repair and rebuild defective mechanical parts in electric motors, generators, and related equipment, using hand tools and power tools."
+ },
+ {
+  "task_id": "11702",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Lift units or parts such as motors or generators, using cranes or chain hoists, or signal crane operators to lift heavy parts or subassemblies."
+ },
+ {
+  "task_id": "11689",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Record repairs required, parts used, and labor time."
+ },
+ {
+  "task_id": "11701",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Disassemble defective equipment so that repairs can be made, using hand tools."
+ },
+ {
+  "task_id": "11705",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Adjust working parts, such as fan belts, contacts, and springs, using hand tools and gauges."
+ },
+ {
+  "task_id": "11699",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Lubricate moving parts."
+ },
+ {
+  "task_id": "11695",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Read service guides to find information needed to perform repairs."
+ },
+ {
+  "task_id": "11694",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Inspect electrical connections, wiring, relays, charging resistance boxes, and storage batteries, following wiring diagrams."
+ },
+ {
+  "task_id": "11707",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Scrape and clean units or parts, using cleaning solvents and equipment such as buffing wheels."
+ },
+ {
+  "task_id": "11703",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Weld, braze, or solder electrical connections."
+ },
+ {
+  "task_id": "11713",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Verify and adjust alignments and dimensions of parts, using gauges and tracing lathes."
+ },
+ {
+  "task_id": "11720",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Steam-clean polishing and buffing wheels to remove abrasives and bonding materials, and spray, brush, or recoat surfaces as necessary."
+ },
+ {
+  "task_id": "11710",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Set machinery for proper performance, using computers."
+ },
+ {
+  "task_id": "11714",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Test equipment for overheating, using speed gauges and thermometers."
+ },
+ {
+  "task_id": "11704",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Reface, ream, and polish commutators and machine parts to specified tolerances, using machine tools."
+ },
+ {
+  "task_id": "11691",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Maintain stocks of parts."
+ },
+ {
+  "task_id": "11709",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Cut and form insulation, and insert insulation into armature, rotor, or stator slots."
+ },
+ {
+  "task_id": "11698",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Assemble electrical parts such as alternators, generators, starting devices, and switches, following schematic drawings and using hand, machine, and power tools."
+ },
+ {
+  "task_id": "11697",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Solder, wrap, and coat wires to ensure proper insulation."
+ },
+ {
+  "task_id": "11693",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Rewire electrical systems, and repair or replace electrical accessories."
+ },
+ {
+  "task_id": "11706",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Clean cells, cell assemblies, glassware, leads, electrical connections, and battery poles, using scrapers, steam, water, emery cloths, power grinders, or acid."
+ },
+ {
+  "task_id": "11708",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Rewind coils on cores in slots, or make replacement coils, using coil-winding machines."
+ },
+ {
+  "task_id": "11700",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Remove and replace defective parts such as coil leads, carbon brushes, and wires, using soldering equipment."
+ },
+ {
+  "task_id": "11726",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Hammer out dents and twists in tools and equipment."
+ },
+ {
+  "task_id": "11725",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Seal joints with putty, mortar, and asbestos, using putty extruders and knives."
+ },
+ {
+  "task_id": "11722",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Repair and operate battery-charging equipment."
+ },
+ {
+  "task_id": "11724",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Sharpen tools such as saws, picks, shovels, screwdrivers, and scoops, either manually or by using bench grinders and emery wheels."
+ },
+ {
+  "task_id": "11721",
+  "occupation": "Electric Motor, Power Tool, and Related Repairers",
+  "task_text": "Test battery charges, and replace or recharge batteries as necessary."
+ },
+ {
+  "task_id": "11727",
+  "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+  "task_text": "Inspect and test electrical systems and equipment to locate and diagnose malfunctions, using visual inspections, testing devices, and computer software."
+ },
+ {
+  "task_id": "11728",
+  "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+  "task_text": "Reassemble and test equipment after repairs."
+ },
+ {
+  "task_id": "11732",
+  "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+  "task_text": "Adjust, repair, or replace defective wiring and relays in ignition, lighting, air-conditioning, and safety control systems, using electrician's tools."
+ },
+ {
+  "task_id": "11729",
+  "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+  "task_text": "Splice wires with knives or cutting pliers, and solder connections to fixtures, outlets, and equipment."
+ },
+ {
+  "task_id": "11731",
+  "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+  "task_text": "Locate and remove or repair circuit defects such as blown fuses or malfunctioning transistors."
+ },
+ {
+  "task_id": "11734",
+  "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+  "task_text": "Maintain equipment service records."
+ },
+ {
+  "task_id": "11733",
+  "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+  "task_text": "Refer to schematics and manufacturers' specifications that show connections and provide instructions on how to locate problems."
+ },
+ {
+  "task_id": "11738",
+  "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+  "task_text": "Install fixtures, outlets, terminal boards, switches, and wall boxes, using hand tools."
+ },
+ {
+  "task_id": "11730",
+  "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+  "task_text": "Install new fuses, electrical cables, or power sources as required."
+ },
+ {
+  "task_id": "11735",
+  "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+  "task_text": "Cut openings and drill holes for fixtures, outlet boxes, and fuse holders, using electric drills and routers."
+ },
+ {
+  "task_id": "11740",
+  "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+  "task_text": "Confer with customers to determine the nature of malfunctions."
+ },
+ {
+  "task_id": "11737",
+  "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+  "task_text": "Install electrical equipment such as air-conditioning, heating, or ignition systems and components such as generator brushes and commutators, using hand tools."
+ },
+ {
+  "task_id": "11739",
+  "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+  "task_text": "Repair or rebuild equipment such as starters, generators, distributors, or door controls, using electrician's tools."
+ },
+ {
+  "task_id": "11741",
+  "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+  "task_text": "Estimate costs of repairs based on parts and labor requirements."
+ },
+ {
+  "task_id": "11736",
+  "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+  "task_text": "Measure, cut, and install frameworks and conduit to support and connect wiring, control panels, and junction boxes, using hand tools."
+ },
+ {
+  "task_id": "886",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Test faulty equipment to diagnose malfunctions, using test equipment or software, and applying knowledge of the functional operation of electronic units and systems."
+ },
+ {
+  "task_id": "892",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Maintain equipment logs that record performance problems, repairs, calibrations, or tests."
+ },
+ {
+  "task_id": "884",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Set up and test industrial equipment to ensure that it functions properly."
+ },
+ {
+  "task_id": "890",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Inspect components of industrial equipment for accurate assembly and installation or for defects, such as loose connections or frayed wires."
+ },
+ {
+  "task_id": "897",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Install repaired equipment in various settings, such as industrial or military establishments."
+ },
+ {
+  "task_id": "885",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Operate equipment to demonstrate proper use or to analyze malfunctions."
+ },
+ {
+  "task_id": "899",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Enter information into computer to copy program or to draw, modify, or store schematics, applying knowledge of software package used."
+ },
+ {
+  "task_id": "882",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Perform scheduled preventive maintenance tasks, such as checking, cleaning, or repairing equipment, to detect and prevent problems."
+ },
+ {
+  "task_id": "888",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Calibrate testing instruments and installed or repaired equipment to prescribed specifications."
+ },
+ {
+  "task_id": "887",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Repair or adjust equipment, machines, or defective components, replacing worn parts, such as gaskets or seals in watertight electrical equipment."
+ },
+ {
+  "task_id": "895",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Consult with customers, supervisors, or engineers to plan layout of equipment or to resolve problems in system operation or maintenance."
+ },
+ {
+  "task_id": "894",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Maintain inventory of spare parts."
+ },
+ {
+  "task_id": "891",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Study blueprints, schematics, manuals, or other specifications to determine installation procedures."
+ },
+ {
+  "task_id": "883",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Examine work orders and converse with equipment operators to detect equipment problems and to ascertain whether mechanical or human errors contributed to the problems."
+ },
+ {
+  "task_id": "893",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Coordinate efforts with other workers involved in installing or maintaining equipment or components."
+ },
+ {
+  "task_id": "901",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Develop or modify industrial electronic devices, circuits, or equipment, according to available specifications."
+ },
+ {
+  "task_id": "898",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Determine feasibility of using standardized equipment or develop specifications for equipment required to perform additional functions."
+ },
+ {
+  "task_id": "889",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Advise management regarding customer satisfaction, product performance, or suggestions for product improvements."
+ },
+ {
+  "task_id": "896",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Send defective units to the manufacturer or to a specialized repair shop for repair."
+ },
+ {
+  "task_id": "900",
+  "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+  "task_text": "Sign overhaul documents for equipment replaced or repaired."
+ },
+ {
+  "task_id": "11743",
+  "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+  "task_text": "Inspect and test equipment and circuits to identify malfunctions or defects, using wiring diagrams and testing devices such as ohmmeters, voltmeters, or ammeters."
+ }
+]

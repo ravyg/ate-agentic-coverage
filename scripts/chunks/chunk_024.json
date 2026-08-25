@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "18361",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Manage patients' airway or pulmonary status, using techniques such as endotracheal intubation, mechanical ventilation, pharmacological support, respiratory therapy, and extubation."
+ },
+ {
+  "task_id": "18362",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Monitor patients' responses, including skin color, pupil dilation, pulse, heart rate, blood pressure, respiration, ventilation, or urine output, using invasive and noninvasive techniques."
+ },
+ {
+  "task_id": "18363",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Perform or manage regional anesthetic techniques, such as local, spinal, epidural, caudal, nerve blocks and intravenous blocks."
+ },
+ {
+  "task_id": "18364",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Prepare prescribed solutions and administer local, intravenous, spinal, or other anesthetics, following specified methods and procedures."
+ },
+ {
+  "task_id": "18365",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Respond to emergency situations by providing airway management, administering emergency fluids or drugs, or using basic or advanced cardiac life support techniques."
+ },
+ {
+  "task_id": "18366",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Select, order, or administer anesthetics, adjuvant drugs, accessory drugs, fluids or blood products as necessary."
+ },
+ {
+  "task_id": "18367",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Assess patients' medical histories to predict anesthesia response."
+ },
+ {
+  "task_id": "18368",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Develop anesthesia care plans."
+ },
+ {
+  "task_id": "18369",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Obtain informed consent from patients for anesthesia procedures."
+ },
+ {
+  "task_id": "18370",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Select, prepare, or use equipment, monitors, supplies, or drugs for the administration of anesthetics."
+ },
+ {
+  "task_id": "18371",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Calibrate and test anesthesia equipment."
+ },
+ {
+  "task_id": "18372",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Disassemble and clean anesthesia equipment."
+ },
+ {
+  "task_id": "18373",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Insert arterial catheters or perform arterial punctures to obtain arterial blood samples."
+ },
+ {
+  "task_id": "18374",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Insert peripheral or central intravenous catheters."
+ },
+ {
+  "task_id": "18375",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Instruct nurses, residents, interns, students, or other staff on topics such as anesthetic techniques, pain management and emergency responses."
+ },
+ {
+  "task_id": "18376",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Read current literature, talk with colleagues, and participate in professional organizations or conferences to keep abreast of developments in nursing."
+ },
+ {
+  "task_id": "18377",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Request anesthesia equipment repairs, adjustments, or safety tests."
+ },
+ {
+  "task_id": "18378",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Educate patients about self-management of acute or chronic illnesses, tailoring instructions to patients' individual circumstances."
+ },
+ {
+  "task_id": "18379",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Schedule follow-up visits to monitor patients or evaluate health or illness care."
+ },
+ {
+  "task_id": "18380",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Counsel patients about drug regimens and possible side effects or interactions with other substances, such as food supplements, over-the-counter (OTC) medications, or herbal remedies."
+ },
+ {
+  "task_id": "18381",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Order, perform, or interpret the results of diagnostic tests, such as complete blood counts (CBCs), electrocardiograms (EKGs), and radiographs (x-rays)."
+ },
+ {
+  "task_id": "18382",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Analyze and interpret patients' histories, symptoms, physical findings, or diagnostic information to develop appropriate diagnoses."
+ },
+ {
+  "task_id": "18383",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Diagnose or treat acute health care problems, such as illnesses, infections, or injuries."
+ },
+ {
+  "task_id": "18384",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Diagnose or treat chronic health care problems, such as high blood pressure and diabetes."
+ },
+ {
+  "task_id": "18385",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Diagnose or treat complex, unstable, comorbid, episodic, or emergency conditions in collaboration with other health care providers as necessary."
+ },
+ {
+  "task_id": "18386",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Treat or refer patients for primary care conditions, such as headaches, hypertension, urinary tract infections, upper respiratory infections, and dermatological conditions."
+ },
+ {
+  "task_id": "18387",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Consult with, or refer patients to, appropriate specialists when conditions exceed the scope of practice or expertise."
+ },
+ {
+  "task_id": "18388",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Detect and respond to adverse drug reactions, with special attention to vulnerable populations such as infants, children, pregnant and lactating women, or older adults."
+ },
+ {
+  "task_id": "18389",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Develop treatment plans, based on scientific rationale, standards of care, and professional practice guidelines."
+ },
+ {
+  "task_id": "18390",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Perform primary care procedures such as suturing, splinting, administering immunizations, taking cultures, and debriding wounds."
+ },
+ {
+  "task_id": "18391",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Perform routine or annual physical examinations."
+ },
+ {
+  "task_id": "18392",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Prescribe medications based on efficacy, safety, and cost as legally authorized."
+ },
+ {
+  "task_id": "18393",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Provide patients with information needed to promote health, reduce risk factors, or prevent disease or disability."
+ },
+ {
+  "task_id": "18394",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Recommend diagnostic or therapeutic interventions with attention to safety, cost, invasiveness, simplicity, acceptability, adherence, and efficacy."
+ },
+ {
+  "task_id": "18395",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Recommend interventions to modify behavior associated with health risks."
+ },
+ {
+  "task_id": "18396",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Prescribe medication dosages, routes, and frequencies, based on such patient characteristics as age and gender."
+ },
+ {
+  "task_id": "18397",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Advocate for accessible health care that minimizes environmental health risks."
+ },
+ {
+  "task_id": "18398",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Provide patients or caregivers with assistance in locating health care resources."
+ },
+ {
+  "task_id": "18399",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Maintain complete and detailed records of patients' health care plans and prognoses."
+ },
+ {
+  "task_id": "18400",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments in nursing."
+ },
+ {
+  "task_id": "18401",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Keep abreast of regulatory processes and payer systems, such as Medicare, Medicaid, managed care, and private sources."
+ },
+ {
+  "task_id": "18402",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Maintain current knowledge of state legal regulations for nurse practitioner practice, including reimbursement of services."
+ },
+ {
+  "task_id": "18403",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Maintain departmental policies and procedures in areas such as safety and infection control."
+ },
+ {
+  "task_id": "18404",
+  "occupation": "Nurse Practitioners",
+  "task_text": "Supervise or coordinate patient care or support staff activities."
+ },
+ {
+  "task_id": "18405",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Perform mobilizations and high-velocity adjustments to joints or soft tissues, using principles of massage, stretching, or resistance."
+ },
+ {
+  "task_id": "18406",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Maintain professional development through activities such as postgraduate education, continuing education, preceptorships, and residency programs."
+ },
+ {
+  "task_id": "18407",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Order diagnostic imaging procedures such as radiographs (x-rays), ultrasounds, mammograms, and bone densitometry tests, or refer patients to other health professionals for these procedures."
+ },
+ {
+  "task_id": "18408",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Administer treatments or therapies, such as homeopathy, hydrotherapy, Oriental or Ayurvedic medicine, electrotherapy, and diathermy, using physical agents including air, heat, cold, water, sound, or u"
+ },
+ {
+  "task_id": "18409",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Administer, dispense, or prescribe natural medicines, such as food or botanical extracts, herbs, dietary supplements, vitamins, nutraceuticals, and amino acids."
+ },
+ {
+  "task_id": "18410",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Conduct physical examinations and physiological function tests for diagnostic purposes."
+ },
+ {
+  "task_id": "18411",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Interview patients to document symptoms and health histories."
+ },
+ {
+  "task_id": "18412",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Educate patients about health care management."
+ },
+ {
+  "task_id": "18413",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Advise patients about therapeutic exercise and nutritional medicine regimens."
+ },
+ {
+  "task_id": "18414",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Diagnose health conditions, based on patients' symptoms and health histories, laboratory and diagnostic radiology test results, or other physiological measurements, such as electrocardiograms and elec"
+ },
+ {
+  "task_id": "18415",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Perform venipuncture or skin pricking to collect blood samples."
+ },
+ {
+  "task_id": "18416",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Treat minor cuts, abrasions, or contusions."
+ },
+ {
+  "task_id": "18417",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Prescribe synthetic drugs under the supervision of medical doctors or within the allowances of regulatory bodies."
+ },
+ {
+  "task_id": "18418",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Document patients' histories, including identifying data, chief complaints, illnesses, previous medical or family histories, or psychosocial characteristics."
+ },
+ {
+  "task_id": "18419",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Perform minor surgical procedures, such as removing warts, moles, or cysts, sampling tissues for skin cancer or lipomas, and applying or removing sutures."
+ },
+ {
+  "task_id": "18420",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Consult with other health professionals to provide optimal patient care, referring patients to traditional health care professionals as necessary."
+ },
+ {
+  "task_id": "18421",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Report patterns of patients' health conditions, such as disease status and births, to public health agencies."
+ },
+ {
+  "task_id": "18422",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Monitor updates from public health agencies to keep abreast of health trends."
+ },
+ {
+  "task_id": "18423",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Conduct periodic public health maintenance activities such as immunizations and screenings for diseases and disease risk factors."
+ },
+ {
+  "task_id": "18424",
+  "occupation": "Naturopathic Physicians",
+  "task_text": "Obtain medical records from previous physicians or other health care providers for the purpose of patient evaluation."
+ },
+ {
+  "task_id": "18425",
+  "occupation": "Orthoptists",
+  "task_text": "Assist ophthalmologists in diagnostic ophthalmic procedures, such as ultrasonography, fundus photography, and tonometry."
+ },
+ {
+  "task_id": "18426",
+  "occupation": "Orthoptists",
+  "task_text": "Provide nonsurgical interventions, including corrective lenses, patches, drops, fusion exercises, or stereograms, to treat conditions such as strabismus, heterophoria, and convergence insufficiency."
+ },
+ {
+  "task_id": "18427",
+  "occupation": "Orthoptists",
+  "task_text": "Develop nonsurgical treatment plans for patients with conditions such as strabismus, nystagmus, and other visual disorders."
+ },
+ {
+  "task_id": "18428",
+  "occupation": "Orthoptists",
+  "task_text": "Perform diagnostic tests or measurements, such as motor testing, visual acuity testing, lensometry, retinoscopy, and color vision testing."
+ },
+ {
+  "task_id": "18429",
+  "occupation": "Orthoptists",
+  "task_text": "Examine patients with problems related to ocular motility, binocular vision, amblyopia, or strabismus."
+ },
+ {
+  "task_id": "18430",
+  "occupation": "Orthoptists",
+  "task_text": "Evaluate, diagnose, or treat disorders of the visual system with an emphasis on binocular vision or abnormal eye movements."
+ },
+ {
+  "task_id": "18431",
+  "occupation": "Orthoptists",
+  "task_text": "Interpret clinical or diagnostic test results."
+ },
+ {
+  "task_id": "18432",
+  "occupation": "Orthoptists",
+  "task_text": "Provide instructions to patients or family members concerning diagnoses or treatment plans."
+ },
+ {
+  "task_id": "18433",
+  "occupation": "Orthoptists",
+  "task_text": "Refer patients to ophthalmic surgeons or other physicians."
+ },
+ {
+  "task_id": "18434",
+  "occupation": "Orthoptists",
+  "task_text": "Develop or use special test and communication techniques to facilitate diagnosis and treatment of children or patients with disabilities."
+ },
+ {
+  "task_id": "18435",
+  "occupation": "Orthoptists",
+  "task_text": "Collaborate with ophthalmologists, optometrists, or other specialists in the diagnosis, treatment, or management of conditions such as glaucoma, cataracts, and retinal diseases."
+ },
+ {
+  "task_id": "18436",
+  "occupation": "Orthoptists",
+  "task_text": "Prepare diagnostic or treatment reports for other medical practitioners or therapists."
+ },
+ {
+  "task_id": "18437",
+  "occupation": "Orthoptists",
+  "task_text": "Participate in clinical research projects."
+ },
+ {
+  "task_id": "18438",
+  "occupation": "Orthoptists",
+  "task_text": "Present or publish scientific papers."
+ },
+ {
+  "task_id": "18439",
+  "occupation": "Orthoptists",
+  "task_text": "Perform vision screening of children in schools or community health centers."
+ },
+ {
+  "task_id": "18440",
+  "occupation": "Orthoptists",
+  "task_text": "Provide training related to clinical methods or orthoptics to students, resident physicians, or other health professionals."
+ },
+ {
+  "task_id": "18441",
+  "occupation": "Nurse Midwives",
+  "task_text": "Educate patients and family members regarding prenatal, intrapartum, postpartum, newborn, or interconception care."
+ },
+ {
+  "task_id": "18442",
+  "occupation": "Nurse Midwives",
+  "task_text": "Provide prenatal, intrapartum, postpartum, or newborn care to patients."
+ },
+ {
+  "task_id": "18443",
+  "occupation": "Nurse Midwives",
+  "task_text": "Document patients' health histories, symptoms, physical conditions, or other diagnostic information."
+ },
+ {
+  "task_id": "18444",
+  "occupation": "Nurse Midwives",
+  "task_text": "Monitor fetal development by listening to fetal heartbeat, taking external uterine measurements, identifying fetal position, or estimating fetal size and weight."
+ },
+ {
+  "task_id": "18445",
+  "occupation": "Nurse Midwives",
+  "task_text": "Perform physical examinations by taking vital signs, checking neurological reflexes, examining breasts, or performing pelvic examinations."
+ },
+ {
+  "task_id": "18446",
+  "occupation": "Nurse Midwives",
+  "task_text": "Consult with or refer patients to appropriate specialists when conditions exceed the scope of practice or expertise."
+ },
+ {
+  "task_id": "18447",
+  "occupation": "Nurse Midwives",
+  "task_text": "Develop and implement individualized plans for health care management."
+ },
+ {
+  "task_id": "18448",
+  "occupation": "Nurse Midwives",
+  "task_text": "Document findings of physical examinations."
+ },
+ {
+  "task_id": "18449",
+  "occupation": "Nurse Midwives",
+  "task_text": "Explain procedures to patients, family members, staff members or others."
+ },
+ {
+  "task_id": "18450",
+  "occupation": "Nurse Midwives",
+  "task_text": "Initiate emergency interventions to stabilize patients."
+ },
+ {
+  "task_id": "18451",
+  "occupation": "Nurse Midwives",
+  "task_text": "Manage newborn care during the first weeks of life."
+ },
+ {
+  "task_id": "18452",
+  "occupation": "Nurse Midwives",
+  "task_text": "Provide primary health care, including pregnancy and childbirth, to women."
+ },
+ {
+  "task_id": "18453",
+  "occupation": "Nurse Midwives",
+  "task_text": "Order and interpret diagnostic or laboratory tests."
+ },
+ {
+  "task_id": "18454",
+  "occupation": "Nurse Midwives",
+  "task_text": "Prescribe medications as permitted by state regulations."
+ },
+ {
+  "task_id": "18455",
+  "occupation": "Nurse Midwives",
+  "task_text": "Provide patients with direct family planning services, such as inserting intrauterine devices, dispensing oral contraceptives, and fitting cervical barriers, including cervical caps or diaphragms."
+ },
+ {
+  "task_id": "18456",
+  "occupation": "Nurse Midwives",
+  "task_text": "Write information in medical records or provide narrative summaries to communicate patient information to other health care providers."
+ },
+ {
+  "task_id": "18457",
+  "occupation": "Nurse Midwives",
+  "task_text": "Conduct clinical research on topics such as maternal or infant health care, contraceptive methods, breastfeeding, and gynecological care."
+ },
+ {
+  "task_id": "18458",
+  "occupation": "Nurse Midwives",
+  "task_text": "Establish practice guidelines for specialty areas such as primary health care of women, care of the childbearing family, and newborn care."
+ },
+ {
+  "task_id": "18459",
+  "occupation": "Nurse Midwives",
+  "task_text": "Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments in midwifery."
+ },
+ {
+  "task_id": "18460",
+  "occupation": "Nurse Midwives",
+  "task_text": "Plan, provide, or evaluate educational programs for nursing staff, health care teams, or the community."
+ },
+ {
+  "task_id": "18491",
+  "occupation": "Paralegals and Legal Assistants",
+  "task_text": "Prepare affidavits or other documents, such as legal correspondence, and organize and maintain documents in paper or electronic filing system."
+ },
+ {
+  "task_id": "18492",
+  "occupation": "Paralegals and Legal Assistants",
+  "task_text": "Prepare for trial by performing tasks such as organizing exhibits."
+ },
+ {
+  "task_id": "18493",
+  "occupation": "Paralegals and Legal Assistants",
+  "task_text": "Meet with clients and other professionals to discuss details of cases."
+ },
+ {
+  "task_id": "18494",
+  "occupation": "Paralegals and Legal Assistants",
+  "task_text": "File pleadings with court clerks."
+ },
+ {
+  "task_id": "18496",
+  "occupation": "Paralegals and Legal Assistants",
+  "task_text": "Arbitrate disputes between parties and assist in the real estate closing process, such as by reviewing title searches."
+ },
+ {
+  "task_id": "18522",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Work as part of a team of physicians, nurses, or other healthcare professionals to manage patient care by assisting with medical procedures or related duties."
+ },
+ {
+  "task_id": "18523",
+  "occupation": "Speech-Language Pathologists",
+  "task_text": "Evaluate hearing or speech and language test results, barium swallow results, or medical or background information to diagnose and plan treatment for speech, language, fluency, voice, or swallowing di"
+ },
+ {
+  "task_id": "18524",
+  "occupation": "Speech-Language Pathologists",
+  "task_text": "Write reports and maintain proper documentation of information, such as client Medicaid or billing records or caseload activities, including the initial evaluation, treatment, progress, and discharge "
+ },
+ {
+  "task_id": "18525",
+  "occupation": "Speech-Language Pathologists",
+  "task_text": "Develop individual or group activities or programs in schools to deal with behavior, speech, language, or swallowing problems."
+ },
+ {
+  "task_id": "18526",
+  "occupation": "Speech-Language Pathologists",
+  "task_text": "Participate in and write reports for meetings regarding patients' progress, such as individualized educational planning (IEP) meetings, in-service meetings, or intervention assistance team meetings."
+ },
+ {
+  "task_id": "18527",
+  "occupation": "Speech-Language Pathologists",
+  "task_text": "Complete administrative responsibilities, such as coordinating paperwork, scheduling case management activities, or writing lesson plans."
+ },
+ {
+  "task_id": "18528",
+  "occupation": "Speech-Language Pathologists",
+  "task_text": "Educate patients and family members about various topics, such as communication techniques or strategies to cope with or to avoid personal misunderstandings."
+ },
+ {
+  "task_id": "18529",
+  "occupation": "Speech-Language Pathologists",
+  "task_text": "Participate in conferences, training, continuing education courses, or publish research results to share knowledge of new hearing or speech disorder treatment methods or technologies."
+ },
+ {
+  "task_id": "18530",
+  "occupation": "Speech-Language Pathologists",
+  "task_text": "Supervise or collaborate with therapy team."
+ },
+ {
+  "task_id": "18531",
+  "occupation": "Speech-Language Pathologists",
+  "task_text": "Consult with and refer clients to additional medical or educational services."
+ },
+ {
+  "task_id": "18532",
+  "occupation": "Veterinarians",
+  "task_text": "Advise animal owners regarding sanitary measures, feeding, general care, medical conditions, or treatment options."
+ },
+ {
+  "task_id": "18533",
+  "occupation": "Veterinarians",
+  "task_text": "Attend lectures, conferences, or continuing education courses."
+ },
+ {
+  "task_id": "18534",
+  "occupation": "Veterinarians",
+  "task_text": "Perform administrative or business management tasks, such as scheduling appointments, accepting payments from clients, budgeting, or maintaining business records."
+ },
+ {
+  "task_id": "18535",
+  "occupation": "Medical and Clinical Laboratory Technicians",
+  "task_text": "Set up, maintain, calibrate, clean, and test sterility of medical laboratory equipment."
+ },
+ {
+  "task_id": "18536",
+  "occupation": "Dental Hygienists",
+  "task_text": "Record and review patient medical histories."
+ },
+ {
+  "task_id": "18537",
+  "occupation": "Dental Hygienists",
+  "task_text": "Provide clinical services or health education to improve and maintain the oral health of patients or the general public."
+ },
+ {
+  "task_id": "18538",
+  "occupation": "Dental Hygienists",
+  "task_text": "Maintain dental equipment and sharpen and sterilize dental instruments."
+ },
+ {
+  "task_id": "18539",
+  "occupation": "Dental Hygienists",
+  "task_text": "Maintain patient recall system."
+ },
+ {
+  "task_id": "18544",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Prepack bulk medicines, fill bottles with prescribed medications, and type and affix labels."
+ },
+ {
+  "task_id": "18545",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Receive and store incoming supplies, verify quantities against invoices, check for outdated medications in current inventory, and inform supervisors of stock needs and shortages."
+ },
+ {
+  "task_id": "18546",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Restock intravenous (IV) supplies and add measured drugs or nutrients to IV solutions under sterile conditions to prepare IV packs for various uses, such as chemotherapy medication."
+ },
+ {
+  "task_id": "18548",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Maintain controlled drug inventory and related log books."
+ },
+ {
+  "task_id": "18549",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Supervise or train veterinary students or other staff members."
+ },
+ {
+  "task_id": "18550",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Monitor medical supplies and place orders when inventory is low."
+ },
+ {
+  "task_id": "18551",
+  "occupation": "Opticians, Dispensing",
+  "task_text": "Order and purchase frames and lenses."
+ }
+]

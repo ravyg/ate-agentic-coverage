@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "7366",
+  "occupation": "Tax Preparers",
+  "task_text": "Check data input or verify totals on forms prepared by others to detect errors in arithmetic, data entry, or procedures."
+ },
+ {
+  "task_id": "7617",
+  "occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+  "task_text": "Prepare written opinions and decisions."
+ },
+ {
+  "task_id": "7618",
+  "occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+  "task_text": "Review and evaluate data on documents, such as claim applications, birth or death certificates, or physician or employer records."
+ },
+ {
+  "task_id": "7619",
+  "occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+  "task_text": "Research and analyze laws, regulations, policies, and precedent decisions to prepare for hearings and to determine conclusions."
+ },
+ {
+  "task_id": "7620",
+  "occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+  "task_text": "Confer with individuals or organizations involved in cases to obtain relevant information."
+ },
+ {
+  "task_id": "7621",
+  "occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+  "task_text": "Recommend the acceptance or rejection of claims or compromise settlements according to laws, regulations, policies, and precedent decisions."
+ },
+ {
+  "task_id": "7622",
+  "occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+  "task_text": "Explain to claimants how they can appeal rulings that go against them."
+ },
+ {
+  "task_id": "7623",
+  "occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+  "task_text": "Monitor and direct the activities of trials and hearings to ensure that they are conducted fairly and that courts administer justice while safeguarding the legal rights of all involved parties."
+ },
+ {
+  "task_id": "7624",
+  "occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+  "task_text": "Authorize payment of valid claims and determine method of payment."
+ },
+ {
+  "task_id": "7625",
+  "occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+  "task_text": "Conduct hearings to review and decide claims regarding issues, such as social program eligibility, environmental protection, or enforcement of health and safety regulations."
+ },
+ {
+  "task_id": "7626",
+  "occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+  "task_text": "Rule on exceptions, motions, and admissibility of evidence."
+ },
+ {
+  "task_id": "7627",
+  "occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+  "task_text": "Determine existence and amount of liability according to current laws, administrative and judicial precedents, and available evidence."
+ },
+ {
+  "task_id": "7628",
+  "occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+  "task_text": "Issue subpoenas and administer oaths in preparation for formal hearings."
+ },
+ {
+  "task_id": "7629",
+  "occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+  "task_text": "Conduct studies of appeals procedures in field agencies to ensure adherence to legal requirements and to facilitate determination of cases."
+ },
+ {
+  "task_id": "7732",
+  "occupation": "Orthodontists",
+  "task_text": "Fit dental appliances in patients' mouths to alter the position and relationship of teeth and jaws or to realign teeth."
+ },
+ {
+  "task_id": "7733",
+  "occupation": "Orthodontists",
+  "task_text": "Study diagnostic records, such as medical or dental histories, plaster models of the teeth, photos of a patient's face and teeth, and X-rays, to develop patient treatment plans."
+ },
+ {
+  "task_id": "7734",
+  "occupation": "Orthodontists",
+  "task_text": "Diagnose teeth and jaw or other dental-facial abnormalities."
+ },
+ {
+  "task_id": "7735",
+  "occupation": "Orthodontists",
+  "task_text": "Examine patients to assess abnormalities of jaw development, tooth position, and other dental-facial structures."
+ },
+ {
+  "task_id": "7736",
+  "occupation": "Orthodontists",
+  "task_text": "Prepare diagnostic and treatment records."
+ },
+ {
+  "task_id": "7737",
+  "occupation": "Orthodontists",
+  "task_text": "Adjust dental appliances to produce and maintain normal function."
+ },
+ {
+  "task_id": "7738",
+  "occupation": "Orthodontists",
+  "task_text": "Provide patients with proposed treatment plans and cost estimates."
+ },
+ {
+  "task_id": "7739",
+  "occupation": "Orthodontists",
+  "task_text": "Instruct dental officers and technical assistants in orthodontic procedures and techniques."
+ },
+ {
+  "task_id": "7740",
+  "occupation": "Orthodontists",
+  "task_text": "Coordinate orthodontic services with other dental and medical services."
+ },
+ {
+  "task_id": "7741",
+  "occupation": "Orthodontists",
+  "task_text": "Design and fabricate appliances, such as space maintainers, retainers, and labial and lingual arch wires."
+ },
+ {
+  "task_id": "7743",
+  "occupation": "Prosthodontists",
+  "task_text": "Fit prostheses to patients, making any necessary adjustments and modifications."
+ },
+ {
+  "task_id": "7744",
+  "occupation": "Prosthodontists",
+  "task_text": "Design and fabricate dental prostheses, or supervise dental technicians and laboratory bench workers who construct the devices."
+ },
+ {
+  "task_id": "7745",
+  "occupation": "Prosthodontists",
+  "task_text": "Measure and take impressions of patients' jaws and teeth to determine the shape and size of dental prostheses, using face bows, dental articulators, recording devices, and other materials."
+ },
+ {
+  "task_id": "7746",
+  "occupation": "Prosthodontists",
+  "task_text": "Collaborate with general dentists, specialists, and other health professionals to develop solutions to dental and oral health concerns."
+ },
+ {
+  "task_id": "7747",
+  "occupation": "Prosthodontists",
+  "task_text": "Repair, reline, or rebase dentures."
+ },
+ {
+  "task_id": "7748",
+  "occupation": "Prosthodontists",
+  "task_text": "Restore function and aesthetics to traumatic injury survivors, or to individuals with diseases or congenital disabilities."
+ },
+ {
+  "task_id": "7749",
+  "occupation": "Prosthodontists",
+  "task_text": "Use bonding technology on the surface of the teeth to change tooth shape or to close gaps."
+ },
+ {
+  "task_id": "7750",
+  "occupation": "Prosthodontists",
+  "task_text": "Treat facial pain and jaw joint problems."
+ },
+ {
+  "task_id": "7751",
+  "occupation": "Prosthodontists",
+  "task_text": "Place veneers onto teeth to conceal defects."
+ },
+ {
+  "task_id": "7752",
+  "occupation": "Prosthodontists",
+  "task_text": "Bleach discolored teeth to brighten and whiten them."
+ },
+ {
+  "task_id": "7753",
+  "occupation": "Anesthesiologists",
+  "task_text": "Administer anesthetic or sedation during medical procedures, using local, intravenous, spinal, or caudal methods."
+ },
+ {
+  "task_id": "7754",
+  "occupation": "Anesthesiologists",
+  "task_text": "Monitor patient before, during, and after anesthesia and counteract adverse reactions or complications."
+ },
+ {
+  "task_id": "7755",
+  "occupation": "Anesthesiologists",
+  "task_text": "Provide and maintain life support and airway management and help prepare patients for emergency surgery."
+ },
+ {
+  "task_id": "7756",
+  "occupation": "Anesthesiologists",
+  "task_text": "Record type and amount of anesthesia and patient condition throughout procedure."
+ },
+ {
+  "task_id": "7757",
+  "occupation": "Anesthesiologists",
+  "task_text": "Examine patient, obtain medical history, and use diagnostic tests to determine risk during surgical, obstetrical, and other medical procedures."
+ },
+ {
+  "task_id": "7758",
+  "occupation": "Anesthesiologists",
+  "task_text": "Position patient on operating table to maximize patient comfort and surgical accessibility."
+ },
+ {
+  "task_id": "7759",
+  "occupation": "Anesthesiologists",
+  "task_text": "Decide when patients have recovered or stabilized enough to be sent to another room or ward or to be sent home following outpatient surgery."
+ },
+ {
+  "task_id": "7760",
+  "occupation": "Anesthesiologists",
+  "task_text": "Coordinate administration of anesthetics with surgeons during operation."
+ },
+ {
+  "task_id": "7761",
+  "occupation": "Anesthesiologists",
+  "task_text": "Confer with other medical professionals to determine type and method of anesthetic or sedation to render patient insensible to pain."
+ },
+ {
+  "task_id": "7762",
+  "occupation": "Anesthesiologists",
+  "task_text": "Coordinate and direct work of nurses, medical technicians, and other health care providers."
+ },
+ {
+  "task_id": "7763",
+  "occupation": "Anesthesiologists",
+  "task_text": "Order laboratory tests, x-rays, and other diagnostic procedures."
+ },
+ {
+  "task_id": "7764",
+  "occupation": "Anesthesiologists",
+  "task_text": "Diagnose illnesses, using examinations, tests, and reports."
+ },
+ {
+  "task_id": "7765",
+  "occupation": "Anesthesiologists",
+  "task_text": "Manage anesthesiological services, coordinating them with other medical activities and formulating plans and procedures."
+ },
+ {
+  "task_id": "7766",
+  "occupation": "Anesthesiologists",
+  "task_text": "Provide medical care and consultation in many settings, prescribing medication and treatment and referring patients for surgery."
+ },
+ {
+  "task_id": "7767",
+  "occupation": "Anesthesiologists",
+  "task_text": "Inform students and staff of types and methods of anesthesia administration, signs of complications, and emergency methods to counteract reactions."
+ },
+ {
+  "task_id": "7768",
+  "occupation": "Anesthesiologists",
+  "task_text": "Schedule and maintain use of surgical suite, including operating, wash-up, waiting rooms, or anesthetic and sterilizing equipment."
+ },
+ {
+  "task_id": "7769",
+  "occupation": "Anesthesiologists",
+  "task_text": "Instruct individuals and groups on ways to preserve health and prevent disease."
+ },
+ {
+  "task_id": "7770",
+  "occupation": "Anesthesiologists",
+  "task_text": "Conduct medical research to aid in controlling and curing disease, to investigate new medications, and to develop and test new medical techniques."
+ },
+ {
+  "task_id": "7771",
+  "occupation": "Family Medicine Physicians",
+  "task_text": "Prescribe or administer treatment, therapy, medication, vaccination, and other specialized medical care to treat or prevent illness, disease, or injury."
+ },
+ {
+  "task_id": "7772",
+  "occupation": "Family Medicine Physicians",
+  "task_text": "Order, perform, and interpret tests and analyze records, reports, and examination information to diagnose patients' condition."
+ },
+ {
+  "task_id": "7773",
+  "occupation": "Family Medicine Physicians",
+  "task_text": "Monitor patients' conditions and progress and reevaluate treatments as necessary."
+ },
+ {
+  "task_id": "7774",
+  "occupation": "Family Medicine Physicians",
+  "task_text": "Collect, record, and maintain patient information, such as medical history, reports, or examination results."
+ },
+ {
+  "task_id": "7775",
+  "occupation": "Family Medicine Physicians",
+  "task_text": "Explain procedures and discuss test results or prescribed treatments with patients."
+ },
+ {
+  "task_id": "7776",
+  "occupation": "Family Medicine Physicians",
+  "task_text": "Advise patients and community members concerning diet, activity, hygiene, and disease prevention."
+ },
+ {
+  "task_id": "7777",
+  "occupation": "Family Medicine Physicians",
+  "task_text": "Refer patients to medical specialists or other practitioners when necessary."
+ },
+ {
+  "task_id": "7778",
+  "occupation": "Family Medicine Physicians",
+  "task_text": "Direct and coordinate activities of nurses, students, assistants, specialists, therapists, and other medical staff."
+ },
+ {
+  "task_id": "7779",
+  "occupation": "Family Medicine Physicians",
+  "task_text": "Coordinate work with nurses, social workers, rehabilitation therapists, pharmacists, psychologists, and other health care providers."
+ },
+ {
+  "task_id": "7782",
+  "occupation": "Family Medicine Physicians",
+  "task_text": "Plan, implement, or administer health programs or standards in hospitals, businesses, or communities for prevention or treatment of injury or illness."
+ },
+ {
+  "task_id": "7785",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Treat internal disorders, such as hypertension, heart disease, diabetes, or problems of the lung, brain, kidney, or gastrointestinal tract."
+ },
+ {
+  "task_id": "7786",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Analyze records, reports, test results, or examination information to diagnose medical condition of patient."
+ },
+ {
+  "task_id": "7787",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Prescribe or administer medication, therapy, and other specialized medical care to treat or prevent illness, disease, or injury."
+ },
+ {
+  "task_id": "7788",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Provide and manage long-term, comprehensive medical care, including diagnosis and nonsurgical treatment of diseases, for adult patients in an office or hospital."
+ },
+ {
+  "task_id": "7789",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Manage and treat common health problems, such as infections, influenza or pneumonia, as well as serious, chronic, and complex illnesses, in adolescents, adults, and the elderly."
+ },
+ {
+  "task_id": "7790",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Monitor patients' conditions and progress and reevaluate treatments as necessary."
+ },
+ {
+  "task_id": "7791",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Collect, record, and maintain patient information, such as medical history, reports, or examination results."
+ },
+ {
+  "task_id": "7792",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Make diagnoses when different illnesses occur together or in situations where the diagnosis may be obscure."
+ },
+ {
+  "task_id": "7793",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Explain procedures and discuss test results or prescribed treatments with patients."
+ },
+ {
+  "task_id": "7794",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Advise patients and community members concerning diet, activity, hygiene, and disease prevention."
+ },
+ {
+  "task_id": "7795",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Refer patient to medical specialist or other practitioner when necessary."
+ },
+ {
+  "task_id": "7796",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Immunize patients to protect them from preventable diseases."
+ },
+ {
+  "task_id": "7797",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Advise surgeon of a patient's risk status and recommend appropriate intervention to minimize risk."
+ },
+ {
+  "task_id": "7798",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Direct and coordinate activities of nurses, students, assistants, specialists, therapists, and other medical staff."
+ },
+ {
+  "task_id": "7799",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Provide consulting services to other doctors caring for patients with special or difficult problems."
+ },
+ {
+  "task_id": "7800",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Operate on patients to remove, repair, or improve functioning of diseased or injured body parts and systems."
+ },
+ {
+  "task_id": "7801",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Plan, implement, or administer health programs in hospitals, businesses, or communities for prevention and treatment of injuries or illnesses."
+ },
+ {
+  "task_id": "7802",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Conduct research to develop or test medications, treatments, or procedures to prevent or control disease or injury."
+ },
+ {
+  "task_id": "7803",
+  "occupation": "General Internal Medicine Physicians",
+  "task_text": "Prepare government or organizational reports on birth, death, and disease statistics, workforce evaluations, or the medical status of individuals."
+ },
+ {
+  "task_id": "7804",
+  "occupation": "Obstetricians and Gynecologists",
+  "task_text": "Care for and treat women during prenatal, natal, and postnatal periods."
+ },
+ {
+  "task_id": "7805",
+  "occupation": "Obstetricians and Gynecologists",
+  "task_text": "Explain procedures and discuss test results or prescribed treatments with patients."
+ },
+ {
+  "task_id": "7806",
+  "occupation": "Obstetricians and Gynecologists",
+  "task_text": "Treat diseases of female organs."
+ },
+ {
+  "task_id": "7807",
+  "occupation": "Obstetricians and Gynecologists",
+  "task_text": "Monitor patients' conditions and progress and reevaluate treatments as necessary."
+ },
+ {
+  "task_id": "7808",
+  "occupation": "Obstetricians and Gynecologists",
+  "task_text": "Perform cesarean sections or other surgical procedures as needed to preserve patients' health and deliver babies safely."
+ },
+ {
+  "task_id": "7809",
+  "occupation": "Obstetricians and Gynecologists",
+  "task_text": "Prescribe or administer therapy, medication, and other specialized medical care to treat or prevent illness, disease, or injury."
+ },
+ {
+  "task_id": "7810",
+  "occupation": "Obstetricians and Gynecologists",
+  "task_text": "Analyze records, reports, test results, or examination information to diagnose medical condition of patient."
+ },
+ {
+  "task_id": "7811",
+  "occupation": "Obstetricians and Gynecologists",
+  "task_text": "Collect, record, and maintain patient information, such as medical histories, reports, or examination results."
+ },
+ {
+  "task_id": "7812",
+  "occupation": "Obstetricians and Gynecologists",
+  "task_text": "Advise patients and community members concerning diet, activity, hygiene, and disease prevention."
+ },
+ {
+  "task_id": "7813",
+  "occupation": "Obstetricians and Gynecologists",
+  "task_text": "Refer patient to medical specialist or other practitioner when necessary."
+ },
+ {
+  "task_id": "7814",
+  "occupation": "Obstetricians and Gynecologists",
+  "task_text": "Consult with or provide consulting services to other physicians."
+ },
+ {
+  "task_id": "7815",
+  "occupation": "Obstetricians and Gynecologists",
+  "task_text": "Direct and coordinate activities of nurses, students, assistants, specialists, therapists, and other medical staff."
+ },
+ {
+  "task_id": "7816",
+  "occupation": "Obstetricians and Gynecologists",
+  "task_text": "Plan, implement, or administer health programs in hospitals, businesses, or communities for prevention and treatment of injuries or illnesses."
+ },
+ {
+  "task_id": "7817",
+  "occupation": "Obstetricians and Gynecologists",
+  "task_text": "Prepare government and organizational reports on birth, death, and disease statistics, workforce evaluations, or the medical status of individuals."
+ },
+ {
+  "task_id": "7818",
+  "occupation": "Obstetricians and Gynecologists",
+  "task_text": "Conduct research to develop or test medications, treatments, or procedures to prevent or control disease or injury."
+ },
+ {
+  "task_id": "7819",
+  "occupation": "Pediatricians, General",
+  "task_text": "Examine patients or order, perform, and interpret diagnostic tests to obtain information on medical condition and determine diagnosis."
+ },
+ {
+  "task_id": "7820",
+  "occupation": "Pediatricians, General",
+  "task_text": "Examine children regularly to assess their growth and development."
+ },
+ {
+  "task_id": "7821",
+  "occupation": "Pediatricians, General",
+  "task_text": "Prescribe or administer treatment, therapy, medication, vaccination, and other specialized medical care to treat or prevent illness, disease, or injury in infants and children."
+ },
+ {
+  "task_id": "7822",
+  "occupation": "Pediatricians, General",
+  "task_text": "Collect, record, and maintain patient information, such as medical history, reports, or examination results."
+ },
+ {
+  "task_id": "7823",
+  "occupation": "Pediatricians, General",
+  "task_text": "Advise patients, parents or guardians, and community members concerning diet, activity, hygiene, and disease prevention."
+ },
+ {
+  "task_id": "7824",
+  "occupation": "Pediatricians, General",
+  "task_text": "Treat children who have minor illnesses, acute and chronic health problems, and growth and development concerns."
+ },
+ {
+  "task_id": "7825",
+  "occupation": "Pediatricians, General",
+  "task_text": "Explain procedures and discuss test results or prescribed treatments with patients and parents or guardians."
+ },
+ {
+  "task_id": "7826",
+  "occupation": "Pediatricians, General",
+  "task_text": "Monitor patients' conditions and progress and reevaluate treatments as necessary."
+ },
+ {
+  "task_id": "7827",
+  "occupation": "Pediatricians, General",
+  "task_text": "Plan and execute medical care programs to aid in the mental and physical growth and development of children and adolescents."
+ },
+ {
+  "task_id": "7828",
+  "occupation": "Pediatricians, General",
+  "task_text": "Refer patient to medical specialist or other practitioner when necessary."
+ },
+ {
+  "task_id": "7829",
+  "occupation": "Pediatricians, General",
+  "task_text": "Direct and coordinate activities of nurses, students, assistants, specialists, therapists, and other medical staff."
+ },
+ {
+  "task_id": "7830",
+  "occupation": "Pediatricians, General",
+  "task_text": "Provide consulting services to other physicians."
+ },
+ {
+  "task_id": "7831",
+  "occupation": "Pediatricians, General",
+  "task_text": "Plan, implement, or administer health programs or standards in hospitals, businesses, or communities for prevention or treatment of injury or illness."
+ },
+ {
+  "task_id": "7832",
+  "occupation": "Pediatricians, General",
+  "task_text": "Operate on patients to remove, repair, or improve functioning of diseased or injured body parts and systems."
+ },
+ {
+  "task_id": "7833",
+  "occupation": "Pediatricians, General",
+  "task_text": "Conduct research to study anatomy and develop or test medications, treatments, or procedures to prevent or control disease or injury."
+ },
+ {
+  "task_id": "7849",
+  "occupation": "Podiatrists",
+  "task_text": "Diagnose diseases and deformities of the foot using medical histories, physical examinations, x-rays, and laboratory test results."
+ },
+ {
+  "task_id": "7850",
+  "occupation": "Podiatrists",
+  "task_text": "Prescribe medications, corrective devices, physical therapy, or surgery."
+ },
+ {
+  "task_id": "7851",
+  "occupation": "Podiatrists",
+  "task_text": "Surgically treat conditions such as corns, calluses, ingrown nails, tumors, shortened tendons, bunions, cysts, or abscesses."
+ },
+ {
+  "task_id": "7852",
+  "occupation": "Podiatrists",
+  "task_text": "Advise patients about treatments and foot care techniques necessary for prevention of future problems."
+ },
+ {
+  "task_id": "7853",
+  "occupation": "Podiatrists",
+  "task_text": "Refer patients to physicians when symptoms indicative of systemic disorders, such as arthritis or diabetes, are observed in feet and legs."
+ },
+ {
+  "task_id": "7854",
+  "occupation": "Podiatrists",
+  "task_text": "Correct deformities by means of plaster casts and strapping."
+ },
+ {
+  "task_id": "7855",
+  "occupation": "Podiatrists",
+  "task_text": "Make and fit prosthetic appliances."
+ },
+ {
+  "task_id": "7856",
+  "occupation": "Podiatrists",
+  "task_text": "Perform administrative duties, such as hiring employees, ordering supplies, or keeping records."
+ },
+ {
+  "task_id": "7857",
+  "occupation": "Podiatrists",
+  "task_text": "Educate the public about the benefits of foot care through techniques such as speaking engagements, advertising, and other forums."
+ },
+ {
+  "task_id": "7858",
+  "occupation": "Podiatrists",
+  "task_text": "Treat deformities using mechanical methods, such as whirlpool or paraffin baths, and electrical methods, such as short wave and low voltage currents."
+ },
+ {
+  "task_id": "7870",
+  "occupation": "Audiologists",
+  "task_text": "Examine and clean patients' ear canals."
+ },
+ {
+  "task_id": "7872",
+  "occupation": "Audiologists",
+  "task_text": "Educate and supervise audiology students and health care personnel."
+ },
+ {
+  "task_id": "7875",
+  "occupation": "Audiologists",
+  "task_text": "Develop and supervise hearing screening programs."
+ },
+ {
+  "task_id": "7878",
+  "occupation": "Massage Therapists",
+  "task_text": "Confer with clients about their medical histories and problems with stress or pain to determine how massage will be most helpful."
+ },
+ {
+  "task_id": "7879",
+  "occupation": "Massage Therapists",
+  "task_text": "Apply finger and hand pressure to specific points of the body."
+ },
+ {
+  "task_id": "7880",
+  "occupation": "Massage Therapists",
+  "task_text": "Massage and knead muscles and soft tissues of the body to provide treatment for medical conditions, injuries, or wellness maintenance."
+ },
+ {
+  "task_id": "7881",
+  "occupation": "Massage Therapists",
+  "task_text": "Maintain treatment records."
+ },
+ {
+  "task_id": "7882",
+  "occupation": "Massage Therapists",
+  "task_text": "Provide clients with guidance and information about techniques for postural improvement and stretching, strengthening, relaxation, and rehabilitative exercises."
+ },
+ {
+  "task_id": "7883",
+  "occupation": "Massage Therapists",
+  "task_text": "Assess clients' soft tissue condition, joint quality and function, muscle strength, and range of motion."
+ }
+]

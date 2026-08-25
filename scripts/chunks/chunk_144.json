@@ -1,0 +1,382 @@
+[
+ {
+  "task_id": "23881",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Compare merchandise invoices to items actually received to ensure that shipments are correct."
+ },
+ {
+  "task_id": "23883",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Transport packages to customers' vehicles."
+ },
+ {
+  "task_id": "14596",
+  "occupation": "Gas Compressor and Gas Pumping Station Operators",
+  "task_text": "Monitor meters and pressure gauges to determine consumption rate variations, temperatures, and pressures."
+ },
+ {
+  "task_id": "14603",
+  "occupation": "Gas Compressor and Gas Pumping Station Operators",
+  "task_text": "Respond to problems by adjusting control room equipment or instructing other personnel to adjust equipment at problem locations or in other control areas."
+ },
+ {
+  "task_id": "14600",
+  "occupation": "Gas Compressor and Gas Pumping Station Operators",
+  "task_text": "Record instrument readings and operational changes in operating logs."
+ },
+ {
+  "task_id": "14597",
+  "occupation": "Gas Compressor and Gas Pumping Station Operators",
+  "task_text": "Adjust valves and equipment to obtain specified performance."
+ },
+ {
+  "task_id": "14601",
+  "occupation": "Gas Compressor and Gas Pumping Station Operators",
+  "task_text": "Move controls and turn valves to start compressor engines, pumps, and auxiliary equipment."
+ },
+ {
+  "task_id": "14599",
+  "occupation": "Gas Compressor and Gas Pumping Station Operators",
+  "task_text": "Operate power-driven pumps that transfer liquids, semi-liquids, gases, or powdered materials."
+ },
+ {
+  "task_id": "14606",
+  "occupation": "Gas Compressor and Gas Pumping Station Operators",
+  "task_text": "Submit daily reports on facility operations."
+ },
+ {
+  "task_id": "14604",
+  "occupation": "Gas Compressor and Gas Pumping Station Operators",
+  "task_text": "Take samples of gases and conduct chemical tests to determine gas quality and sulfur or moisture content, or send samples to laboratories for analysis."
+ },
+ {
+  "task_id": "14598",
+  "occupation": "Gas Compressor and Gas Pumping Station Operators",
+  "task_text": "Read gas meters, and maintain records of the amounts of gas received and dispensed from holders."
+ },
+ {
+  "task_id": "14602",
+  "occupation": "Gas Compressor and Gas Pumping Station Operators",
+  "task_text": "Turn knobs or switches to regulate pressures."
+ },
+ {
+  "task_id": "14605",
+  "occupation": "Gas Compressor and Gas Pumping Station Operators",
+  "task_text": "Clean, lubricate, and adjust equipment, and replace filters and gaskets, using hand tools."
+ },
+ {
+  "task_id": "14608",
+  "occupation": "Gas Compressor and Gas Pumping Station Operators",
+  "task_text": "Maintain each station by performing general housekeeping duties such as painting, washing, and cleaning."
+ },
+ {
+  "task_id": "14607",
+  "occupation": "Gas Compressor and Gas Pumping Station Operators",
+  "task_text": "Connect pipelines between pumps and containers that are being filled or emptied."
+ },
+ {
+  "task_id": "14609",
+  "occupation": "Pump Operators, Except Wellhead Pumpers",
+  "task_text": "Monitor gauges and flowmeters and inspect equipment to ensure that tank levels, temperatures, chemical amounts, and pressures are at specified levels, reporting abnormalities as necessary."
+ },
+ {
+  "task_id": "14610",
+  "occupation": "Pump Operators, Except Wellhead Pumpers",
+  "task_text": "Record operating data such as products and quantities pumped, stocks used, gauging results, and operating times."
+ },
+ {
+  "task_id": "14614",
+  "occupation": "Pump Operators, Except Wellhead Pumpers",
+  "task_text": "Plan movement of products through lines to processing, storage, and shipping units, using knowledge of interconnections and capacities of pipelines, valve manifolds, pumps, and tankage."
+ },
+ {
+  "task_id": "14613",
+  "occupation": "Pump Operators, Except Wellhead Pumpers",
+  "task_text": "Turn valves and start pumps to start or regulate flows of substances such as gases, liquids, slurries, or powdered materials."
+ },
+ {
+  "task_id": "14611",
+  "occupation": "Pump Operators, Except Wellhead Pumpers",
+  "task_text": "Communicate with other workers, using signals, radios, or telephones, to start and stop flows of materials or substances."
+ },
+ {
+  "task_id": "14618",
+  "occupation": "Pump Operators, Except Wellhead Pumpers",
+  "task_text": "Connect hoses and pipelines to pumps and vessels prior to material transfer, using hand tools."
+ },
+ {
+  "task_id": "14612",
+  "occupation": "Pump Operators, Except Wellhead Pumpers",
+  "task_text": "Tend vessels that store substances such as gases, liquids, slurries, or powdered materials, checking levels of substances by using calibrated rods or by reading mercury gauges and tank charts."
+ },
+ {
+  "task_id": "14616",
+  "occupation": "Pump Operators, Except Wellhead Pumpers",
+  "task_text": "Clean, lubricate, and repair pumps and vessels, using hand tools and equipment."
+ },
+ {
+  "task_id": "14615",
+  "occupation": "Pump Operators, Except Wellhead Pumpers",
+  "task_text": "Read operating schedules or instructions or receive verbal orders to determine amounts to be pumped."
+ },
+ {
+  "task_id": "14622",
+  "occupation": "Pump Operators, Except Wellhead Pumpers",
+  "task_text": "Test materials and solutions, using testing equipment."
+ },
+ {
+  "task_id": "14619",
+  "occupation": "Pump Operators, Except Wellhead Pumpers",
+  "task_text": "Tend auxiliary equipment such as water treatment and refrigeration units, and heat exchangers."
+ },
+ {
+  "task_id": "14620",
+  "occupation": "Pump Operators, Except Wellhead Pumpers",
+  "task_text": "Add chemicals and solutions to tanks to ensure that specifications are met."
+ },
+ {
+  "task_id": "14617",
+  "occupation": "Pump Operators, Except Wellhead Pumpers",
+  "task_text": "Collect and deliver sample solutions for laboratory analysis."
+ },
+ {
+  "task_id": "14621",
+  "occupation": "Pump Operators, Except Wellhead Pumpers",
+  "task_text": "Pump two or more materials into one tank to blend mixtures."
+ },
+ {
+  "task_id": "21159",
+  "occupation": "Wellhead Pumpers",
+  "task_text": "Monitor pumps and flow lines for gas and fluid leaks."
+ },
+ {
+  "task_id": "21160",
+  "occupation": "Wellhead Pumpers",
+  "task_text": "Gauge oil and gas production."
+ },
+ {
+  "task_id": "5019",
+  "occupation": "Wellhead Pumpers",
+  "task_text": "Start compressor engines and divert oil from storage tanks into compressor units and auxiliary equipment to recover natural gas from oil."
+ },
+ {
+  "task_id": "5013",
+  "occupation": "Wellhead Pumpers",
+  "task_text": "Monitor control panels during pumping operations to ensure that materials are being pumped at the correct pressure, density, rate, and concentration."
+ },
+ {
+  "task_id": "5014",
+  "occupation": "Wellhead Pumpers",
+  "task_text": "Operate engines and pumps to shut off wells according to production schedules, and to switch flow of oil into storage tanks."
+ },
+ {
+  "task_id": "5016",
+  "occupation": "Wellhead Pumpers",
+  "task_text": "Repair gas and oil meters and gauges."
+ },
+ {
+  "task_id": "5015",
+  "occupation": "Wellhead Pumpers",
+  "task_text": "Perform routine maintenance on vehicles and equipment."
+ },
+ {
+  "task_id": "5020",
+  "occupation": "Wellhead Pumpers",
+  "task_text": "Open valves to return compressed gas to bottoms of specified wells to repressurize them and force oil to surface."
+ },
+ {
+  "task_id": "21161",
+  "occupation": "Wellhead Pumpers",
+  "task_text": "Change water filters."
+ },
+ {
+  "task_id": "5023",
+  "occupation": "Wellhead Pumpers",
+  "task_text": "Prepare trucks and equipment necessary for the type of pumping service required."
+ },
+ {
+  "task_id": "5018",
+  "occupation": "Wellhead Pumpers",
+  "task_text": "Attach pumps and hoses to wellheads."
+ },
+ {
+  "task_id": "5025",
+  "occupation": "Wellhead Pumpers",
+  "task_text": "Mix acids, chemicals, or dry cement as required for a specific job."
+ },
+ {
+  "task_id": "5017",
+  "occupation": "Wellhead Pumpers",
+  "task_text": "Unload and assemble pipes and pumping equipment, using hand tools."
+ },
+ {
+  "task_id": "5021",
+  "occupation": "Wellhead Pumpers",
+  "task_text": "Supervise oil pumpers and other workers engaged in producing oil from wells."
+ },
+ {
+  "task_id": "7170",
+  "occupation": "Refuse and Recyclable Material Collectors",
+  "task_text": "Inspect trucks prior to beginning routes to ensure safe operating condition."
+ },
+ {
+  "task_id": "7174",
+  "occupation": "Refuse and Recyclable Material Collectors",
+  "task_text": "Drive trucks, following established routes, through residential streets or alleys or through business or industrial areas."
+ },
+ {
+  "task_id": "7171",
+  "occupation": "Refuse and Recyclable Material Collectors",
+  "task_text": "Refuel trucks or add other fluids, such as oil or brake fluid."
+ },
+ {
+  "task_id": "20313",
+  "occupation": "Refuse and Recyclable Material Collectors",
+  "task_text": "Dump refuse or recyclable materials at disposal sites."
+ },
+ {
+  "task_id": "7172",
+  "occupation": "Refuse and Recyclable Material Collectors",
+  "task_text": "Fill out defective equipment reports."
+ },
+ {
+  "task_id": "7176",
+  "occupation": "Refuse and Recyclable Material Collectors",
+  "task_text": "Operate automated or semi-automated hoisting devices that raise refuse bins and dump contents into openings in truck bodies."
+ },
+ {
+  "task_id": "7177",
+  "occupation": "Refuse and Recyclable Material Collectors",
+  "task_text": "Dismount garbage trucks to collect garbage and remount trucks to ride to the next collection point."
+ },
+ {
+  "task_id": "7175",
+  "occupation": "Refuse and Recyclable Material Collectors",
+  "task_text": "Operate equipment that compresses collected refuse."
+ },
+ {
+  "task_id": "7178",
+  "occupation": "Refuse and Recyclable Material Collectors",
+  "task_text": "Communicate with dispatchers concerning delays, unsafe sites, accidents, equipment breakdowns, or other maintenance problems."
+ },
+ {
+  "task_id": "7179",
+  "occupation": "Refuse and Recyclable Material Collectors",
+  "task_text": "Check road or weather conditions to determine how routes will be affected."
+ },
+ {
+  "task_id": "7181",
+  "occupation": "Refuse and Recyclable Material Collectors",
+  "task_text": "Clean trucks or compactor bodies after routes have been completed."
+ },
+ {
+  "task_id": "7180",
+  "occupation": "Refuse and Recyclable Material Collectors",
+  "task_text": "Tag garbage or recycling containers to inform customers of problems, such as excess garbage or inclusion of items that are not permitted."
+ },
+ {
+  "task_id": "19932",
+  "occupation": "Refuse and Recyclable Material Collectors",
+  "task_text": "Make special pickups of recyclable materials, such as food scraps, used oil, discarded computers, or other electronic items."
+ },
+ {
+  "task_id": "7183",
+  "occupation": "Refuse and Recyclable Material Collectors",
+  "task_text": "Organize schedules for refuse collection."
+ },
+ {
+  "task_id": "12800",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Seal outlet valves on tank cars, barges, and trucks."
+ },
+ {
+  "task_id": "12792",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Verify tank car, barge, or truck load numbers to ensure car placement accuracy based on written or verbal instructions."
+ },
+ {
+  "task_id": "12809",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Start pumps and adjust valves or cables to regulate the flow of products to vessels, using knowledge of loading procedures."
+ },
+ {
+  "task_id": "12797",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Check conditions and weights of vessels to ensure cleanliness and compliance with loading procedures."
+ },
+ {
+  "task_id": "12793",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Observe positions of cars passing loading spouts, and swing spouts into the correct positions at the appropriate times."
+ },
+ {
+  "task_id": "12795",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Monitor product movement to and from storage tanks, coordinating activities with other workers to ensure constant product flow."
+ },
+ {
+  "task_id": "12794",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Operate ship loading and unloading equipment, conveyors, hoists, and other specialized material handling equipment such as railroad tank car unloading equipment."
+ },
+ {
+  "task_id": "12796",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Record operating data such as products and quantities pumped, gauge readings, and operating times, manually or using computers."
+ },
+ {
+  "task_id": "12798",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Operate industrial trucks, tractors, loaders, and other equipment to transport materials to and from transportation vehicles and loading docks, and to store and retrieve materials in warehouses."
+ },
+ {
+  "task_id": "12799",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Connect ground cables to carry off static electricity when unloading tanker cars."
+ },
+ {
+  "task_id": "12808",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Copy and attach load specifications to loaded tanks."
+ },
+ {
+  "task_id": "12802",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Remove and replace tank car dome caps, or direct other workers in their removal and replacement."
+ },
+ {
+  "task_id": "12801",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Test samples for specific gravity, using hydrometers, or send samples to laboratories for testing."
+ },
+ {
+  "task_id": "12806",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Test vessels for leaks, damage, and defects, and repair or replace defective parts as necessary."
+ },
+ {
+  "task_id": "12807",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Unload cars containing liquids by connecting hoses to outlet plugs and pumping compressed air into cars to force liquids into storage tanks."
+ },
+ {
+  "task_id": "12804",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Clean interiors of tank cars or tank trucks, using mechanical spray nozzles."
+ },
+ {
+  "task_id": "12803",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Lower gauge rods into tanks or read meters to verify contents, temperatures, and volumes of liquid loads."
+ },
+ {
+  "task_id": "12805",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Operate conveyors and equipment to transfer grain or other materials from transportation vehicles."
+ },
+ {
+  "task_id": "12810",
+  "occupation": "Tank Car, Truck, and Ship Loaders",
+  "task_text": "Perform general warehouse activities, such as opening containers and crates, filling warehouse orders, assisting in taking inventory, and weighing and checking materials."
+ }
+]

@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "17425",
+  "occupation": "Neurodiagnostic Technologists",
+  "task_text": "Conduct tests or studies such as electroencephalography (EEG), polysomnography (PSG), nerve conduction studies (NCS), electromyography (EMG), and intraoperative monitoring (IOM)."
+ },
+ {
+  "task_id": "17426",
+  "occupation": "Neurodiagnostic Technologists",
+  "task_text": "Calibrate, troubleshoot, or repair equipment and correct malfunctions, as needed."
+ },
+ {
+  "task_id": "17427",
+  "occupation": "Neurodiagnostic Technologists",
+  "task_text": "Conduct tests to determine cerebral death, the absence of brain activity, or the probability of recovery from a coma."
+ },
+ {
+  "task_id": "17428",
+  "occupation": "Neurodiagnostic Technologists",
+  "task_text": "Measure visual, auditory, or somatosensory evoked potentials (EPs) to determine responses to stimuli."
+ },
+ {
+  "task_id": "17429",
+  "occupation": "Neurodiagnostic Technologists",
+  "task_text": "Indicate artifacts or interferences derived from sources outside of the brain, such as poor electrode contact or patient movement, on electroneurodiagnostic recordings."
+ },
+ {
+  "task_id": "17430",
+  "occupation": "Neurodiagnostic Technologists",
+  "task_text": "Measure patients' body parts and mark locations where electrodes are to be placed."
+ },
+ {
+  "task_id": "17431",
+  "occupation": "Neurodiagnostic Technologists",
+  "task_text": "Monitor patients during tests or surgeries, using electroencephalographs (EEG), evoked potential (EP) instruments, or video recording equipment."
+ },
+ {
+  "task_id": "17432",
+  "occupation": "Neurodiagnostic Technologists",
+  "task_text": "Set up, program, or record montages or electrical combinations when testing peripheral nerve, spinal cord, subcortical, or cortical responses."
+ },
+ {
+  "task_id": "17433",
+  "occupation": "Neurodiagnostic Technologists",
+  "task_text": "Adjust equipment to optimize viewing of the nervous system."
+ },
+ {
+  "task_id": "17434",
+  "occupation": "Neurodiagnostic Technologists",
+  "task_text": "Collect patients' medical information needed to customize tests."
+ },
+ {
+  "task_id": "17435",
+  "occupation": "Neurodiagnostic Technologists",
+  "task_text": "Submit reports to physicians summarizing test results."
+ },
+ {
+  "task_id": "17436",
+  "occupation": "Neurodiagnostic Technologists",
+  "task_text": "Assist in training technicians, medical students, residents, or other staff members."
+ },
+ {
+  "task_id": "17437",
+  "occupation": "Neurodiagnostic Technologists",
+  "task_text": "Explain testing procedures to patients, answering questions or reassuring patients, as needed."
+ },
+ {
+  "task_id": "17438",
+  "occupation": "Neurodiagnostic Technologists",
+  "task_text": "Participate in research projects, conferences, or technical meetings."
+ },
+ {
+  "task_id": "17439",
+  "occupation": "Hearing Aid Specialists",
+  "task_text": "Select and administer tests to evaluate hearing or related disabilities."
+ },
+ {
+  "task_id": "17440",
+  "occupation": "Hearing Aid Specialists",
+  "task_text": "Administer basic hearing tests including air conduction, bone conduction, or speech audiometry tests."
+ },
+ {
+  "task_id": "17441",
+  "occupation": "Hearing Aid Specialists",
+  "task_text": "Train clients to use hearing aids or other augmentative communication devices."
+ },
+ {
+  "task_id": "17442",
+  "occupation": "Hearing Aid Specialists",
+  "task_text": "Create or modify impressions for earmolds and hearing aid shells."
+ },
+ {
+  "task_id": "17443",
+  "occupation": "Hearing Aid Specialists",
+  "task_text": "Maintain or repair hearing aids or other communication devices."
+ },
+ {
+  "task_id": "17444",
+  "occupation": "Hearing Aid Specialists",
+  "task_text": "Demonstrate assistive listening devices (ALDs) to clients."
+ },
+ {
+  "task_id": "17445",
+  "occupation": "Hearing Aid Specialists",
+  "task_text": "Diagnose and treat hearing or related disabilities under the direction of an audiologist."
+ },
+ {
+  "task_id": "17446",
+  "occupation": "Hearing Aid Specialists",
+  "task_text": "Perform basic screening procedures, such as pure tone screening, otoacoustic screening, immittance screening, and screening of ear canal status using otoscope."
+ },
+ {
+  "task_id": "17447",
+  "occupation": "Hearing Aid Specialists",
+  "task_text": "Assist audiologists in performing aural procedures, such as real ear measurements, speech audiometry, auditory brainstem responses, electronystagmography, and cochlear implant mapping."
+ },
+ {
+  "task_id": "17448",
+  "occupation": "Hearing Aid Specialists",
+  "task_text": "Read current literature, talk with colleagues, and participate in professional organizations or conferences to keep abreast of developments in audiology."
+ },
+ {
+  "task_id": "17465",
+  "occupation": "Midwives",
+  "task_text": "Assist maternal patients to find physical positions that will facilitate childbirth."
+ },
+ {
+  "task_id": "17466",
+  "occupation": "Midwives",
+  "task_text": "Monitor maternal condition during labor by checking vital signs, monitoring uterine contractions, or performing physical examinations."
+ },
+ {
+  "task_id": "17467",
+  "occupation": "Midwives",
+  "task_text": "Provide comfort and relaxation measures for mothers in labor through interventions such as massage, breathing techniques, hydrotherapy, or music."
+ },
+ {
+  "task_id": "17468",
+  "occupation": "Midwives",
+  "task_text": "Set up or monitor the administration of oxygen or medications."
+ },
+ {
+  "task_id": "17469",
+  "occupation": "Midwives",
+  "task_text": "Assess birthing environments to ensure cleanliness, safety, and the availability of appropriate supplies."
+ },
+ {
+  "task_id": "17470",
+  "occupation": "Midwives",
+  "task_text": "Assess the status of post-date pregnancies to determine treatments and interventions."
+ },
+ {
+  "task_id": "17471",
+  "occupation": "Midwives",
+  "task_text": "Collect specimens for use in laboratory tests."
+ },
+ {
+  "task_id": "17472",
+  "occupation": "Midwives",
+  "task_text": "Conduct ongoing prenatal health assessments, tracking changes in physical and emotional health."
+ },
+ {
+  "task_id": "17473",
+  "occupation": "Midwives",
+  "task_text": "Develop, implement, or evaluate individualized plans for midwifery care."
+ },
+ {
+  "task_id": "17474",
+  "occupation": "Midwives",
+  "task_text": "Establish and follow emergency or contingency plans for mothers and newborns."
+ },
+ {
+  "task_id": "17475",
+  "occupation": "Midwives",
+  "task_text": "Estimate patients' due dates and re-evaluate as necessary based on examination results."
+ },
+ {
+  "task_id": "17476",
+  "occupation": "Midwives",
+  "task_text": "Evaluate patients' laboratory and medical records, requesting assistance from other practitioners when necessary."
+ },
+ {
+  "task_id": "17477",
+  "occupation": "Midwives",
+  "task_text": "Respond to breech birth presentations by applying methods such as exercises or external version."
+ },
+ {
+  "task_id": "17478",
+  "occupation": "Midwives",
+  "task_text": "Identify, monitor, or treat pregnancy-related problems such as hypertension, gestational diabetes, pre-term labor, or retarded fetal growth."
+ },
+ {
+  "task_id": "17479",
+  "occupation": "Midwives",
+  "task_text": "Identify tubal and ectopic pregnancies and refer patients for treatments."
+ },
+ {
+  "task_id": "17480",
+  "occupation": "Midwives",
+  "task_text": "Inform patients of how to prepare and supply birth sites."
+ },
+ {
+  "task_id": "17481",
+  "occupation": "Midwives",
+  "task_text": "Monitor fetal growth and well-being through heartbeat detection, body measurement, and palpation."
+ },
+ {
+  "task_id": "17482",
+  "occupation": "Midwives",
+  "task_text": "Maintain documentation of all patients' contacts, reviewing and updating records as necessary."
+ },
+ {
+  "task_id": "17483",
+  "occupation": "Midwives",
+  "task_text": "Obtain complete health and medical histories from patients including medical, surgical, reproductive, or mental health histories."
+ },
+ {
+  "task_id": "17484",
+  "occupation": "Midwives",
+  "task_text": "Perform post-partum health assessments of mothers and babies at regular intervals."
+ },
+ {
+  "task_id": "17485",
+  "occupation": "Midwives",
+  "task_text": "Provide information about the physical and emotional processes involved in the pregnancy, labor, birth, and postpartum periods."
+ },
+ {
+  "task_id": "17486",
+  "occupation": "Midwives",
+  "task_text": "Provide necessary medical care for infants at birth, including emergency care such as resuscitation."
+ },
+ {
+  "task_id": "17487",
+  "occupation": "Midwives",
+  "task_text": "Provide, or refer patients to other providers for, education or counseling on topics such as genetic testing, newborn care, contraception, or breastfeeding."
+ },
+ {
+  "task_id": "17488",
+  "occupation": "Midwives",
+  "task_text": "Refer patients to specialists for procedures such as ultrasounds or biophysical profiles."
+ },
+ {
+  "task_id": "17489",
+  "occupation": "Midwives",
+  "task_text": "Suture perineal lacerations."
+ },
+ {
+  "task_id": "17490",
+  "occupation": "Midwives",
+  "task_text": "Test patients' hemoglobin, hematocrit, and blood glucose levels."
+ },
+ {
+  "task_id": "17491",
+  "occupation": "Midwives",
+  "task_text": "Compile and evaluate clinical practice statistics."
+ },
+ {
+  "task_id": "17492",
+  "occupation": "Midwives",
+  "task_text": "Complete birth certificates."
+ },
+ {
+  "task_id": "17493",
+  "occupation": "Midwives",
+  "task_text": "Counsel women regarding the nutritional requirements of pregnancy."
+ },
+ {
+  "task_id": "17494",
+  "occupation": "Midwives",
+  "task_text": "Collaborate in research studies."
+ },
+ {
+  "task_id": "17495",
+  "occupation": "Midwives",
+  "task_text": "Incorporate research findings into practice as appropriate."
+ },
+ {
+  "task_id": "17496",
+  "occupation": "Midwives",
+  "task_text": "Provide information about community health and social resources."
+ },
+ {
+  "task_id": "17498",
+  "occupation": "Midwives",
+  "task_text": "Recommend the use of vitamin and mineral supplements to enhance the health of patients and children."
+ },
+ {
+  "task_id": "17499",
+  "occupation": "Midwives",
+  "task_text": "Treat patients' symptoms with alternative health care methods such as herbs or hydrotherapy."
+ },
+ {
+  "task_id": "17500",
+  "occupation": "Genetic Counselors",
+  "task_text": "Analyze genetic information to identify patients or families at risk for specific disorders or syndromes."
+ },
+ {
+  "task_id": "17501",
+  "occupation": "Genetic Counselors",
+  "task_text": "Explain diagnostic procedures such as chorionic villus sampling (CVS), ultrasound, fetal blood sampling, and amniocentesis."
+ },
+ {
+  "task_id": "17502",
+  "occupation": "Genetic Counselors",
+  "task_text": "Provide genetic counseling in specified areas of clinical genetics, such as obstetrics, pediatrics, oncology and neurology."
+ },
+ {
+  "task_id": "17503",
+  "occupation": "Genetic Counselors",
+  "task_text": "Assess patients' psychological or emotional needs, such as those relating to stress, fear of test results, financial issues, and marital conflicts to make referral recommendations or assist patients i"
+ },
+ {
+  "task_id": "17504",
+  "occupation": "Genetic Counselors",
+  "task_text": "Provide counseling to patient and family members by providing information, education, or reassurance."
+ },
+ {
+  "task_id": "17505",
+  "occupation": "Genetic Counselors",
+  "task_text": "Determine or coordinate treatment plans by requesting laboratory services, reviewing genetics or counseling literature, and considering histories or diagnostic data."
+ },
+ {
+  "task_id": "17506",
+  "occupation": "Genetic Counselors",
+  "task_text": "Discuss testing options and the associated risks, benefits and limitations with patients and families to assist them in making informed decisions."
+ },
+ {
+  "task_id": "17507",
+  "occupation": "Genetic Counselors",
+  "task_text": "Interpret laboratory results and communicate findings to patients or physicians."
+ },
+ {
+  "task_id": "17508",
+  "occupation": "Genetic Counselors",
+  "task_text": "Interview patients or review medical records to obtain comprehensive patient or family medical histories, and document findings."
+ },
+ {
+  "task_id": "17509",
+  "occupation": "Genetic Counselors",
+  "task_text": "Provide patients with information about the inheritance of conditions such as cardiovascular disease, Alzheimer's disease, diabetes, and various forms of cancer."
+ },
+ {
+  "task_id": "17510",
+  "occupation": "Genetic Counselors",
+  "task_text": "Refer patients to specialists or community resources."
+ },
+ {
+  "task_id": "17511",
+  "occupation": "Genetic Counselors",
+  "task_text": "Write detailed consultation reports to provide information on complex genetic concepts to patients or referring physicians."
+ },
+ {
+  "task_id": "17512",
+  "occupation": "Genetic Counselors",
+  "task_text": "Design and conduct genetics training programs for physicians, graduate students, other health professions or the general community."
+ },
+ {
+  "task_id": "17513",
+  "occupation": "Genetic Counselors",
+  "task_text": "Collect for, or share with, research projects patient data on specific genetic disorders or syndromes."
+ },
+ {
+  "task_id": "17514",
+  "occupation": "Genetic Counselors",
+  "task_text": "Engage in research activities related to the field of medical genetics or genetic counseling."
+ },
+ {
+  "task_id": "17515",
+  "occupation": "Genetic Counselors",
+  "task_text": "Evaluate or make recommendations for standards of care or clinical operations, ensuring compliance with applicable regulations, ethics, legislation, or policies."
+ },
+ {
+  "task_id": "17516",
+  "occupation": "Genetic Counselors",
+  "task_text": "Identify funding sources and write grant proposals for eligible programs or services."
+ },
+ {
+  "task_id": "17517",
+  "occupation": "Genetic Counselors",
+  "task_text": "Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments in genetics."
+ },
+ {
+  "task_id": "17518",
+  "occupation": "Genetic Counselors",
+  "task_text": "Prepare or provide genetics-related educational materials to patients or medical personnel."
+ },
+ {
+  "task_id": "17519",
+  "occupation": "Endoscopy Technicians",
+  "task_text": "Clean, disinfect, or calibrate scopes or other endoscopic instruments according to manufacturer recommendations and facility standards."
+ },
+ {
+  "task_id": "17520",
+  "occupation": "Endoscopy Technicians",
+  "task_text": "Maintain inventories of endoscopic equipment and supplies."
+ },
+ {
+  "task_id": "17521",
+  "occupation": "Endoscopy Technicians",
+  "task_text": "Perform safety checks to verify proper equipment functioning."
+ },
+ {
+  "task_id": "17522",
+  "occupation": "Endoscopy Technicians",
+  "task_text": "Prepare suites or rooms according to endoscopic procedure requirements."
+ },
+ {
+  "task_id": "17523",
+  "occupation": "Endoscopy Technicians",
+  "task_text": "Maintain or repair endoscopic equipment."
+ },
+ {
+  "task_id": "17524",
+  "occupation": "Endoscopy Technicians",
+  "task_text": "Position or transport patients in accordance with instructions from medical personnel."
+ },
+ {
+  "task_id": "17525",
+  "occupation": "Endoscopy Technicians",
+  "task_text": "Assist physicians or registered nurses in the conduct of endoscopic procedures."
+ },
+ {
+  "task_id": "17526",
+  "occupation": "Endoscopy Technicians",
+  "task_text": "Attend in-service training to validate or refresh basic professional skills."
+ },
+ {
+  "task_id": "17527",
+  "occupation": "Endoscopy Technicians",
+  "task_text": "Collect specimens from patients, using standard medical procedures."
+ },
+ {
+  "task_id": "17528",
+  "occupation": "Endoscopy Technicians",
+  "task_text": "Conduct in-service training sessions to disseminate information regarding equipment or instruments."
+ },
+ {
+  "task_id": "17529",
+  "occupation": "Endoscopy Technicians",
+  "task_text": "Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments in endoscopy."
+ },
+ {
+  "task_id": "17530",
+  "occupation": "Endoscopy Technicians",
+  "task_text": "Place devices, such as blood pressure cuffs, pulse oximeter sensors, nasal cannulas, surgical cautery pads, and cardiac monitoring electrodes, on patients to monitor vital signs."
+ },
+ {
+  "task_id": "17531",
+  "occupation": "Speech-Language Pathology Assistants",
+  "task_text": "Assist speech-language pathologists in the conduct of client screenings or assessments of language, voice, fluency, articulation, or hearing."
+ },
+ {
+  "task_id": "17532",
+  "occupation": "Speech-Language Pathology Assistants",
+  "task_text": "Implement treatment plans or protocols as directed by speech-language pathologists."
+ },
+ {
+  "task_id": "17533",
+  "occupation": "Speech-Language Pathology Assistants",
+  "task_text": "Assist speech-language pathologists in the remediation or development of speech and language skills."
+ },
+ {
+  "task_id": "17534",
+  "occupation": "Speech-Language Pathology Assistants",
+  "task_text": "Collect and compile data to document clients' performance or assess program quality."
+ },
+ {
+  "task_id": "17535",
+  "occupation": "Speech-Language Pathology Assistants",
+  "task_text": "Document clients' progress toward meeting established treatment objectives."
+ },
+ {
+  "task_id": "17536",
+  "occupation": "Speech-Language Pathology Assistants",
+  "task_text": "Test or maintain equipment to ensure correct performance."
+ },
+ {
+  "task_id": "17537",
+  "occupation": "Speech-Language Pathology Assistants",
+  "task_text": "Assist speech-language pathologists in the conduct of speech-language research projects."
+ },
+ {
+  "task_id": "17538",
+  "occupation": "Speech-Language Pathology Assistants",
+  "task_text": "Conduct in-service training sessions, or family and community education programs."
+ },
+ {
+  "task_id": "17539",
+  "occupation": "Speech-Language Pathology Assistants",
+  "task_text": "Perform support duties, such as preparing materials, keeping records, maintaining supplies, and scheduling activities."
+ },
+ {
+  "task_id": "17540",
+  "occupation": "Speech-Language Pathology Assistants",
+  "task_text": "Prepare charts, graphs, or other visual displays to communicate clients' performance information."
+ },
+ {
+  "task_id": "17541",
+  "occupation": "Speech-Language Pathology Assistants",
+  "task_text": "Select or prepare speech-language instructional materials."
+ },
+ {
+  "task_id": "17654",
+  "occupation": "Solar Sales Representatives and Assessors",
+  "task_text": "Generate solar energy customer leads to develop new accounts."
+ },
+ {
+  "task_id": "17655",
+  "occupation": "Solar Sales Representatives and Assessors",
+  "task_text": "Prepare proposals, quotes, contracts, or presentations for potential solar customers."
+ },
+ {
+  "task_id": "17656",
+  "occupation": "Solar Sales Representatives and Assessors",
+  "task_text": "Select solar energy products, systems, or services for customers based on electrical energy requirements, site conditions, price, or other factors."
+ },
+ {
+  "task_id": "17657",
+  "occupation": "Solar Sales Representatives and Assessors",
+  "task_text": "Assess sites to determine suitability for solar equipment, using equipment such as tape measures, compasses, and computer software."
+ },
+ {
+  "task_id": "17658",
+  "occupation": "Solar Sales Representatives and Assessors",
+  "task_text": "Calculate potential solar resources or solar array production for a particular site considering issues such as climate, shading, and roof orientation."
+ },
+ {
+  "task_id": "17659",
+  "occupation": "Solar Sales Representatives and Assessors",
+  "task_text": "Create customized energy management packages to satisfy customer needs."
+ },
+ {
+  "task_id": "17660",
+  "occupation": "Solar Sales Representatives and Assessors",
+  "task_text": "Develop marketing or strategic plans for sales territories."
+ },
+ {
+  "task_id": "17661",
+  "occupation": "Solar Sales Representatives and Assessors",
+  "task_text": "Gather information from prospective customers to identify their solar energy needs."
+ },
+ {
+  "task_id": "17662",
+  "occupation": "Solar Sales Representatives and Assessors",
+  "task_text": "Prepare or review detailed design drawings, specifications, or lists related to solar installations."
+ },
+ {
+  "task_id": "17663",
+  "occupation": "Solar Sales Representatives and Assessors",
+  "task_text": "Provide customers with information, such as quotes, orders, sales, shipping, warranties, credit, funding options, incentives, or tax rebates."
+ },
+ {
+  "task_id": "17664",
+  "occupation": "Solar Sales Representatives and Assessors",
+  "task_text": "Provide technical information about solar power, solar systems, equipment, and services to potential customers or dealers."
+ },
+ {
+  "task_id": "17665",
+  "occupation": "Solar Sales Representatives and Assessors",
+  "task_text": "Take quote requests or orders from dealers or customers."
+ },
+ {
+  "task_id": "17666",
+  "occupation": "Solar Sales Representatives and Assessors",
+  "task_text": "Demonstrate use of solar and related equipment to customers or dealers."
+ },
+ {
+  "task_id": "17667",
+  "occupation": "Patient Representatives",
+  "task_text": "Explain policies, procedures, or services to patients using medical or administrative knowledge."
+ },
+ {
+  "task_id": "17668",
+  "occupation": "Patient Representatives",
+  "task_text": "Coordinate communication between patients, family members, medical staff, administrative staff, or regulatory agencies."
+ },
+ {
+  "task_id": "17669",
+  "occupation": "Patient Representatives",
+  "task_text": "Investigate and direct patient inquiries or complaints to appropriate medical staff members and follow up to ensure satisfactory resolution."
+ },
+ {
+  "task_id": "17670",
+  "occupation": "Patient Representatives",
+  "task_text": "Interview patients or their representatives to identify problems relating to care."
+ },
+ {
+  "task_id": "17671",
+  "occupation": "Patient Representatives",
+  "task_text": "Refer patients to appropriate health care services or resources."
+ },
+ {
+  "task_id": "17672",
+  "occupation": "Patient Representatives",
+  "task_text": "Analyze patients' abilities to pay to determine charges on a sliding scale."
+ },
+ {
+  "task_id": "17673",
+  "occupation": "Patient Representatives",
+  "task_text": "Collect and report data on topics, such as patient encounters or inter-institutional problems, making recommendations for change when appropriate."
+ },
+ {
+  "task_id": "17674",
+  "occupation": "Patient Representatives",
+  "task_text": "Develop and distribute newsletters, brochures, or other printed materials to share information with patients or medical staff."
+ },
+ {
+  "task_id": "17675",
+  "occupation": "Patient Representatives",
+  "task_text": "Teach patients to use home health care equipment."
+ },
+ {
+  "task_id": "17676",
+  "occupation": "Patient Representatives",
+  "task_text": "Identify and share research, recommendations, or other information regarding legal liabilities, risk management, or quality of care."
+ },
+ {
+  "task_id": "17677",
+  "occupation": "Patient Representatives",
+  "task_text": "Read current literature, talk with colleagues, continue education, or participate in professional organizations or conferences to keep abreast of developments in the field."
+ },
+ {
+  "task_id": "17678",
+  "occupation": "Patient Representatives",
+  "task_text": "Maintain knowledge of community services and resources available to patients."
+ },
+ {
+  "task_id": "17679",
+  "occupation": "Patient Representatives",
+  "task_text": "Provide consultation or training to volunteers or staff on topics, such as guest relations, patients' rights, or medical issues."
+ },
+ {
+  "task_id": "17680",
+  "occupation": "Freight Forwarders",
+  "task_text": "Select shipment routes, based on nature of goods shipped, transit times, or security needs."
+ },
+ {
+  "task_id": "17681",
+  "occupation": "Freight Forwarders",
+  "task_text": "Determine efficient and cost-effective methods of moving goods from one location to another."
+ },
+ {
+  "task_id": "17682",
+  "occupation": "Freight Forwarders",
+  "task_text": "Reserve necessary space on ships, aircraft, trains, or trucks."
+ },
+ {
+  "task_id": "17683",
+  "occupation": "Freight Forwarders",
+  "task_text": "Arrange delivery or storage of goods at destinations."
+ }
+]

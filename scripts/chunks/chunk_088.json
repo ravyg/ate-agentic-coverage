@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "3924",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Prepare and deliver news, sports, or weather reports, gathering and rewriting material so that it will convey required information and fit specific time slots."
+ },
+ {
+  "task_id": "3937",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Record commercials for later broadcast."
+ },
+ {
+  "task_id": "3936",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Keep daily program logs to provide information on all elements aired during broadcast, such as musical selections and station promotions."
+ },
+ {
+  "task_id": "20888",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Develop story lines for broadcasts."
+ },
+ {
+  "task_id": "3927",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Select program content, in conjunction with producers and assistants, based on factors such as program specialties, audience tastes, or requests from the public."
+ },
+ {
+  "task_id": "20889",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Write and edit video and scripts for broadcasts."
+ },
+ {
+  "task_id": "3930",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Interview show guests about their lives, their work, or topics of current interest."
+ },
+ {
+  "task_id": "3929",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Comment on music and other matters, such as weather or traffic conditions."
+ },
+ {
+  "task_id": "3933",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Make promotional appearances at public or private events to represent their employers."
+ },
+ {
+  "task_id": "3942",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Provide commentary and conduct interviews during sporting events, parades, conventions, or other events."
+ },
+ {
+  "task_id": "3932",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Host civic, charitable, or promotional events broadcast over television or radio."
+ },
+ {
+  "task_id": "3938",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Locate guests to appear on talk or interview shows."
+ },
+ {
+  "task_id": "3940",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Coordinate games, contests, or other on-air competitions, performing such duties as asking questions and awarding prizes."
+ },
+ {
+  "task_id": "3941",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Attend press conferences to gather information for broadcast."
+ },
+ {
+  "task_id": "20890",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Maintain organization of the music library."
+ },
+ {
+  "task_id": "3931",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Discuss various topics over the telephone with viewers or listeners."
+ },
+ {
+  "task_id": "3944",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Moderate panels or discussion shows on topics such as current affairs, art, or education."
+ },
+ {
+  "task_id": "3943",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Give network cues permitting selected stations to receive programs."
+ },
+ {
+  "task_id": "3939",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Describe or demonstrate products that viewers may purchase through specific shows or in stores."
+ },
+ {
+  "task_id": "22623",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Write commentaries, columns, or scripts, using computers."
+ },
+ {
+  "task_id": "22624",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Coordinate and serve as an anchor on news broadcast programs."
+ },
+ {
+  "task_id": "22625",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Examine news items of local, national, and international significance to determine topics to address, or obtain assignments from editorial staff members."
+ },
+ {
+  "task_id": "22626",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Analyze and interpret news and information received from various sources to broadcast the information."
+ },
+ {
+  "task_id": "22627",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Receive assignments or evaluate leads or tips to develop story ideas."
+ },
+ {
+  "task_id": "22628",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Research a story's background information to provide complete and accurate information."
+ },
+ {
+  "task_id": "22629",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Arrange interviews with people who can provide information about a story."
+ },
+ {
+  "task_id": "22630",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Gather information and develop perspectives about news subjects through research, interviews, observation, and experience."
+ },
+ {
+  "task_id": "22631",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Select material most pertinent to presentation, and organize this material into appropriate formats."
+ },
+ {
+  "task_id": "22632",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Present news stories, and introduce in-depth videotaped segments or live transmissions from on-the-scene reporters."
+ },
+ {
+  "task_id": "22633",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Establish and maintain relationships with individuals who are credible sources of information."
+ },
+ {
+  "task_id": "22634",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Report news stories for publication or broadcast, describing the background and details of events."
+ },
+ {
+  "task_id": "22635",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Revise work to meet editorial approval or to fit time or space requirements."
+ },
+ {
+  "task_id": "22636",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Review and evaluate notes taken about news events to isolate pertinent facts and details."
+ },
+ {
+  "task_id": "22637",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Investigate breaking news developments, such as disasters, crimes, or human-interest stories."
+ },
+ {
+  "task_id": "22638",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Review written, audio, or video copy, and correct errors in content, grammar, or punctuation, following prescribed editorial style and formatting guidelines."
+ },
+ {
+  "task_id": "22639",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Report on specialized fields such as medicine, green technology, environmental issues, science, politics, sports, arts, consumer affairs, business, religion, crime, or education."
+ },
+ {
+  "task_id": "22640",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Determine a published or broadcasted story's emphasis, length, and format, organizing material accordingly."
+ },
+ {
+  "task_id": "22641",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Transmit news stories or reporting information from remote locations, using equipment such as satellite phones, telephones, fax machines, or modems."
+ },
+ {
+  "task_id": "22642",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Check reference materials, such as books, news files, or public records, to obtain relevant facts."
+ },
+ {
+  "task_id": "22643",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Discuss issues with editors to establish priorities or positions."
+ },
+ {
+  "task_id": "22644",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Photograph or videotape news events."
+ },
+ {
+  "task_id": "22645",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Present live or recorded commentary via broadcast media."
+ },
+ {
+  "task_id": "22646",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Take pictures or video, and process them for inclusion in a story."
+ },
+ {
+  "task_id": "22647",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Conduct taped or filmed interviews or narratives."
+ },
+ {
+  "task_id": "22648",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Develop ideas or material for columns or commentaries by analyzing and interpreting news, current issues, or personal experiences."
+ },
+ {
+  "task_id": "22649",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Communicate with readers, viewers, advertisers, or the general public via mail, email, or telephone."
+ },
+ {
+  "task_id": "22650",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Write online blog entries that address news developments or offer additional information, opinions, or commentary on news events."
+ },
+ {
+  "task_id": "22651",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Assign stories to other reporters or duties to production staff."
+ },
+ {
+  "task_id": "22652",
+  "occupation": "News Analysts, Reporters, and Journalists",
+  "task_text": "Write columns, editorials, commentaries, or reviews that interpret events or offer opinions."
+ },
+ {
+  "task_id": "1764",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Respond to requests for information from the media or designate an appropriate spokesperson or information source."
+ },
+ {
+  "task_id": "20555",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Plan or direct development or communication of programs to maintain favorable public or stockholder perceptions of an organization's accomplishments, agenda, or environmental responsibility."
+ },
+ {
+  "task_id": "23951",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Post and update content on the company's Web site and social media outlets."
+ },
+ {
+  "task_id": "20554",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Write press releases or other media communications to promote clients."
+ },
+ {
+  "task_id": "1765",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Establish or maintain cooperative relationships with representatives of community, consumer, employee, or public interest groups."
+ },
+ {
+  "task_id": "1770",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Confer with other managers to identify trends or key group interests or concerns or to provide advice on business decisions."
+ },
+ {
+  "task_id": "1772",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Coach client representatives in effective communication with the public or with employees."
+ },
+ {
+  "task_id": "1769",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Study the objectives, promotional policies, or needs of organizations to develop public relations strategies that will influence public opinion or promote ideas, products, or services."
+ },
+ {
+  "task_id": "20557",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Prepare or edit organizational publications, such as employee newsletters or stockholders' reports, for internal or external audiences."
+ },
+ {
+  "task_id": "1768",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Arrange public appearances, lectures, contests, or exhibits for clients to increase product or service awareness or to promote goodwill."
+ },
+ {
+  "task_id": "1775",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Plan or conduct market or public opinion research to test products or determine potential for product success, communicating results to client or management."
+ },
+ {
+  "task_id": "19811",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Develop plans or materials to communicate organizational activities that are beneficial to the environment, public safety, or other important social issues."
+ },
+ {
+  "task_id": "1767",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Confer with production or support personnel to produce or coordinate production of advertisements or promotions."
+ },
+ {
+  "task_id": "1771",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Consult with advertising agencies or staff to arrange promotional campaigns in all types of media for products, organizations, or individuals."
+ },
+ {
+  "task_id": "1773",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Prepare or deliver speeches to further public relations objectives."
+ },
+ {
+  "task_id": "19809",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Coordinate public responses to environmental management incidents or conflicts."
+ },
+ {
+  "task_id": "19810",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Develop marketing campaigns for environmental technologies or services."
+ },
+ {
+  "task_id": "1774",
+  "occupation": "Public Relations Specialists",
+  "task_text": "Purchase advertising space or time as required to promote client's product or agenda."
+ },
+ {
+  "task_id": "1777",
+  "occupation": "Editors",
+  "task_text": "Read copy or proof to detect and correct errors in spelling, punctuation, and syntax."
+ },
+ {
+  "task_id": "1780",
+  "occupation": "Editors",
+  "task_text": "Verify facts, dates, and statistics, using standard reference sources."
+ },
+ {
+  "task_id": "1786",
+  "occupation": "Editors",
+  "task_text": "Read, evaluate and edit manuscripts or other materials submitted for publication, and confer with authors regarding changes in content, style or organization, or publication."
+ },
+ {
+  "task_id": "1782",
+  "occupation": "Editors",
+  "task_text": "Develop story or content ideas, considering reader or audience appeal."
+ },
+ {
+  "task_id": "1776",
+  "occupation": "Editors",
+  "task_text": "Prepare, rewrite and edit copy to improve readability, or supervise others who do this work."
+ },
+ {
+  "task_id": "1783",
+  "occupation": "Editors",
+  "task_text": "Oversee publication production, including artwork, layout, computer typesetting, and printing, ensuring adherence to deadlines and budget requirements."
+ },
+ {
+  "task_id": "21000",
+  "occupation": "Editors",
+  "task_text": "Write text, such as stories, articles, editorials, or newsletters."
+ },
+ {
+  "task_id": "1789",
+  "occupation": "Editors",
+  "task_text": "Supervise and coordinate work of reporters and other editors."
+ },
+ {
+  "task_id": "1784",
+  "occupation": "Editors",
+  "task_text": "Confer with management and editorial staff members regarding placement and emphasis of developing news stories."
+ },
+ {
+  "task_id": "1779",
+  "occupation": "Editors",
+  "task_text": "Plan the contents of publications according to the publication's style, editorial policy, and publishing requirements."
+ },
+ {
+  "task_id": "1781",
+  "occupation": "Editors",
+  "task_text": "Review and approve proofs submitted by composing room prior to publication production."
+ },
+ {
+  "task_id": "1785",
+  "occupation": "Editors",
+  "task_text": "Assign topics, events and stories to individual writers or reporters for coverage."
+ },
+ {
+  "task_id": "1788",
+  "occupation": "Editors",
+  "task_text": "Meet frequently with artists, typesetters, layout personnel, marketing directors, and production managers to discuss projects and resolve problems."
+ },
+ {
+  "task_id": "1787",
+  "occupation": "Editors",
+  "task_text": "Monitor news-gathering operations to ensure utilization of all news sources, such as press releases, telephone contacts, radio, television, wire services, and other reporters."
+ },
+ {
+  "task_id": "1791",
+  "occupation": "Editors",
+  "task_text": "Select local, state, national, and international news items received from wire services, based on assessment of items' significance and interest value."
+ },
+ {
+  "task_id": "1778",
+  "occupation": "Editors",
+  "task_text": "Allocate print space for story text, photos, and illustrations according to space parameters and copy significance, using knowledge of layout principles."
+ },
+ {
+  "task_id": "1790",
+  "occupation": "Editors",
+  "task_text": "Make manuscript acceptance or revision recommendations to the publisher."
+ },
+ {
+  "task_id": "1793",
+  "occupation": "Editors",
+  "task_text": "Direct the policies and departments of newspapers, magazines and other publishing establishments."
+ },
+ {
+  "task_id": "1794",
+  "occupation": "Editors",
+  "task_text": "Arrange for copyright permissions."
+ },
+ {
+  "task_id": "1792",
+  "occupation": "Editors",
+  "task_text": "Interview and hire writers and reporters or negotiate contracts, royalties, and payments for authors or freelancers."
+ },
+ {
+  "task_id": "1795",
+  "occupation": "Editors",
+  "task_text": "Read material to determine index items and arrange them alphabetically or topically, indicating page or chapter location."
+ },
+ {
+  "task_id": "3966",
+  "occupation": "Technical Writers",
+  "task_text": "Organize material and complete writing assignment according to set standards regarding order, clarity, conciseness, style, and terminology."
+ },
+ {
+  "task_id": "3967",
+  "occupation": "Technical Writers",
+  "task_text": "Maintain records and files of work and revisions."
+ },
+ {
+  "task_id": "3968",
+  "occupation": "Technical Writers",
+  "task_text": "Edit, standardize, or make changes to material prepared by other writers or establishment personnel."
+ },
+ {
+  "task_id": "3971",
+  "occupation": "Technical Writers",
+  "task_text": "Select photographs, drawings, sketches, diagrams, and charts to illustrate material."
+ },
+ {
+  "task_id": "3973",
+  "occupation": "Technical Writers",
+  "task_text": "Interview production and engineering personnel and read journals and other material to become familiar with product technologies and production methods."
+ },
+ {
+  "task_id": "20243",
+  "occupation": "Technical Writers",
+  "task_text": "Develop or maintain online help documentation."
+ },
+ {
+  "task_id": "3976",
+  "occupation": "Technical Writers",
+  "task_text": "Assist in laying out material for publication."
+ },
+ {
+  "task_id": "3972",
+  "occupation": "Technical Writers",
+  "task_text": "Study drawings, specifications, mockups, and product samples to integrate and delineate technology, operating procedure, and production sequence and detail."
+ },
+ {
+  "task_id": "3975",
+  "occupation": "Technical Writers",
+  "task_text": "Arrange for typing, duplication, and distribution of material."
+ },
+ {
+  "task_id": "3974",
+  "occupation": "Technical Writers",
+  "task_text": "Observe production, developmental, and experimental activities to determine operating procedure and detail."
+ },
+ {
+  "task_id": "3978",
+  "occupation": "Technical Writers",
+  "task_text": "Review manufacturer's and trade catalogs, drawings and other data relative to operation, maintenance, and service of equipment."
+ },
+ {
+  "task_id": "3977",
+  "occupation": "Technical Writers",
+  "task_text": "Analyze developments in specific field to determine need for revisions in previously published materials and development of new material."
+ },
+ {
+  "task_id": "3979",
+  "occupation": "Technical Writers",
+  "task_text": "Draw sketches to illustrate specified materials or assembly sequence."
+ },
+ {
+  "task_id": "3970",
+  "occupation": "Technical Writers",
+  "task_text": "Review published materials and recommend revisions or changes in scope, format, content, and methods of reproduction and binding."
+ },
+ {
+  "task_id": "3969",
+  "occupation": "Technical Writers",
+  "task_text": "Confer with customer representatives, vendors, plant executives, or publisher to establish technical specifications and to determine subject material to be developed for publication."
+ },
+ {
+  "task_id": "22656",
+  "occupation": "Writers and Authors",
+  "task_text": "Develop advertising campaigns for a wide range of clients, working with an advertising agency's creative director and art director to determine the best way to present advertising information."
+ },
+ {
+  "task_id": "22655",
+  "occupation": "Writers and Authors",
+  "task_text": "Vary language and tone of messages based on product and medium."
+ },
+ {
+  "task_id": "22654",
+  "occupation": "Writers and Authors",
+  "task_text": "Present drafts and ideas to clients."
+ },
+ {
+  "task_id": "22653",
+  "occupation": "Writers and Authors",
+  "task_text": "Discuss with the client the product, advertising themes and methods, and any changes that should be made in advertising copy."
+ },
+ {
+  "task_id": "22660",
+  "occupation": "Writers and Authors",
+  "task_text": "Review advertising trends, consumer surveys, and other data regarding marketing of goods and services to determine the best way to promote products."
+ },
+ {
+  "task_id": "22657",
+  "occupation": "Writers and Authors",
+  "task_text": "Write articles, bulletins, sales letters, speeches, and other related informative, marketing and promotional material."
+ },
+ {
+  "task_id": "22658",
+  "occupation": "Writers and Authors",
+  "task_text": "Conduct research and interviews to determine which of a product's selling features should be promoted."
+ },
+ {
+  "task_id": "22659",
+  "occupation": "Writers and Authors",
+  "task_text": "Invent names for products and write the slogans that appear on packaging, brochures and other promotional material."
+ },
+ {
+  "task_id": "22661",
+  "occupation": "Writers and Authors",
+  "task_text": "Collaborate with other writers on specific projects."
+ },
+ {
+  "task_id": "22662",
+  "occupation": "Writers and Authors",
+  "task_text": "Conduct research to obtain factual information and authentic detail, using sources such as newspaper accounts, diaries, and interviews."
+ },
+ {
+  "task_id": "22663",
+  "occupation": "Writers and Authors",
+  "task_text": "Consult with sales, media and marketing representatives to obtain information on product or service and discuss style and length of advertising written material."
+ },
+ {
+  "task_id": "22664",
+  "occupation": "Writers and Authors",
+  "task_text": "Edit or rewrite existing written material as necessary, and submit written material for approval by supervisor, editor, or publisher."
+ },
+ {
+  "task_id": "22665",
+  "occupation": "Writers and Authors",
+  "task_text": "Follow appropriate procedures to get copyrights for completed work."
+ },
+ {
+  "task_id": "22666",
+  "occupation": "Writers and Authors",
+  "task_text": "Plan project arrangements or outlines, and organize material accordingly."
+ },
+ {
+  "task_id": "22667",
+  "occupation": "Writers and Authors",
+  "task_text": "Prepare works in appropriate format for publication, and send them to publishers or producers."
+ },
+ {
+  "task_id": "22668",
+  "occupation": "Writers and Authors",
+  "task_text": "Revise written material to meet personal standards and to satisfy needs of clients, publishers, directors, or producers."
+ },
+ {
+  "task_id": "22669",
+  "occupation": "Writers and Authors",
+  "task_text": "Work with staff to develop script, story, or advertising concepts."
+ },
+ {
+  "task_id": "22670",
+  "occupation": "Writers and Authors",
+  "task_text": "Write advertising material for use by publication, broadcast, or internet media to promote the sale of goods and services."
+ },
+ {
+  "task_id": "22671",
+  "occupation": "Writers and Authors",
+  "task_text": "Write fiction or nonfiction prose, such as short stories, novels, biographies, articles, descriptive or critical analyses, and essays."
+ },
+ {
+  "task_id": "22672",
+  "occupation": "Writers and Authors",
+  "task_text": "Write to customers in their terms and on their level so that the script, story, or advertisement message is more readily received."
+ },
+ {
+  "task_id": "11051",
+  "occupation": "Poets, Lyricists and Creative Writers",
+  "task_text": "Write fiction or nonfiction prose, such as short stories, novels, biographies, articles, descriptive or critical analyses, and essays."
+ },
+ {
+  "task_id": "11052",
+  "occupation": "Poets, Lyricists and Creative Writers",
+  "task_text": "Develop factors such as themes, plots, characterizations, psychological analyses, historical environments, action, and dialogue to create material."
+ },
+ {
+  "task_id": "11046",
+  "occupation": "Poets, Lyricists and Creative Writers",
+  "task_text": "Revise written material to meet personal standards and to satisfy needs of clients, publishers, directors, or producers."
+ },
+ {
+  "task_id": "11047",
+  "occupation": "Poets, Lyricists and Creative Writers",
+  "task_text": "Choose subject matter and suitable form to express personal feelings and experiences or ideas, or to narrate stories or events."
+ },
+ {
+  "task_id": "11049",
+  "occupation": "Poets, Lyricists and Creative Writers",
+  "task_text": "Prepare works in appropriate format for publication, and send them to publishers or producers."
+ },
+ {
+  "task_id": "11054",
+  "occupation": "Poets, Lyricists and Creative Writers",
+  "task_text": "Conduct research to obtain factual information and authentic detail, using sources such as newspaper accounts, diaries, and interviews."
+ },
+ {
+  "task_id": "11053",
+  "occupation": "Poets, Lyricists and Creative Writers",
+  "task_text": "Confer with clients, editors, publishers, or producers to discuss changes or revisions to written material."
+ }
+]

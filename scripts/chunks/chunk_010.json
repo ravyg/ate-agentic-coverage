@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "4583",
+  "occupation": "Advertising Sales Agents",
+  "task_text": "Deliver advertising or illustration proofs to customers for approval."
+ },
+ {
+  "task_id": "4584",
+  "occupation": "Advertising Sales Agents",
+  "task_text": "Draw up contracts for advertising work, and collect payments due."
+ },
+ {
+  "task_id": "4585",
+  "occupation": "Advertising Sales Agents",
+  "task_text": "Locate and contact potential clients to offer advertising services."
+ },
+ {
+  "task_id": "4586",
+  "occupation": "Advertising Sales Agents",
+  "task_text": "Provide clients with estimates of the costs of advertising products or services."
+ },
+ {
+  "task_id": "4587",
+  "occupation": "Advertising Sales Agents",
+  "task_text": "Recommend appropriate sizes and formats for advertising, depending on medium used."
+ },
+ {
+  "task_id": "4588",
+  "occupation": "Advertising Sales Agents",
+  "task_text": "Inform customers of available options for advertisement artwork, and provide samples."
+ },
+ {
+  "task_id": "4589",
+  "occupation": "Advertising Sales Agents",
+  "task_text": "Obtain and study information about clients' products, needs, problems, advertising history, and business practices to offer effective sales presentations and appropriate product assistance."
+ },
+ {
+  "task_id": "4590",
+  "occupation": "Advertising Sales Agents",
+  "task_text": "Determine advertising medium to be used, and prepare sample advertisements within the selected medium for presentation to customers."
+ },
+ {
+  "task_id": "4591",
+  "occupation": "Advertising Sales Agents",
+  "task_text": "Consult with company officials, sales departments, and advertising agencies to develop promotional plans."
+ },
+ {
+  "task_id": "4592",
+  "occupation": "Advertising Sales Agents",
+  "task_text": "Prepare promotional plans, sales literature, media kits, and sales contracts, using computer."
+ },
+ {
+  "task_id": "4593",
+  "occupation": "Advertising Sales Agents",
+  "task_text": "Identify new advertising markets, and propose products to serve them."
+ },
+ {
+  "task_id": "4594",
+  "occupation": "Advertising Sales Agents",
+  "task_text": "Write copy as part of layout."
+ },
+ {
+  "task_id": "4595",
+  "occupation": "Advertising Sales Agents",
+  "task_text": "Attend sales meetings, industry trade shows, and training seminars to gather information, promote products, expand network of contacts, and increase knowledge."
+ },
+ {
+  "task_id": "4596",
+  "occupation": "Advertising Sales Agents",
+  "task_text": "Gather all relevant material for bid processes, and coordinate bidding and contract approval."
+ },
+ {
+  "task_id": "4597",
+  "occupation": "Advertising Sales Agents",
+  "task_text": "Arrange for commercial taping sessions, and accompany clients to sessions."
+ },
+ {
+  "task_id": "4598",
+  "occupation": "Advertising Sales Agents",
+  "task_text": "Write sales outlines for use by staff."
+ },
+ {
+  "task_id": "4599",
+  "occupation": "Real Estate Brokers",
+  "task_text": "Sell, for a fee, real estate owned by others."
+ },
+ {
+  "task_id": "4600",
+  "occupation": "Real Estate Brokers",
+  "task_text": "Obtain agreements from property owners to place properties for sale with real estate firms."
+ },
+ {
+  "task_id": "4601",
+  "occupation": "Real Estate Brokers",
+  "task_text": "Monitor fulfillment of purchase contract terms to ensure that they are handled in a timely manner."
+ },
+ {
+  "task_id": "4602",
+  "occupation": "Real Estate Brokers",
+  "task_text": "Compare a property with similar properties that have recently sold to determine its competitive market price."
+ },
+ {
+  "task_id": "4603",
+  "occupation": "Real Estate Brokers",
+  "task_text": "Act as an intermediary in negotiations between buyers and sellers over property prices and settlement details and during the closing of sales."
+ },
+ {
+  "task_id": "4604",
+  "occupation": "Real Estate Brokers",
+  "task_text": "Generate lists of properties for sale, their locations, descriptions, and available financing options, using computers."
+ },
+ {
+  "task_id": "4605",
+  "occupation": "Real Estate Brokers",
+  "task_text": "Maintain knowledge of real estate law, local economies, fair housing laws, types of available mortgages, financing options, and government programs."
+ },
+ {
+  "task_id": "4606",
+  "occupation": "Real Estate Brokers",
+  "task_text": "Check work completed by loan officers, attorneys, or other professionals to ensure that it is performed properly."
+ },
+ {
+  "task_id": "4607",
+  "occupation": "Real Estate Brokers",
+  "task_text": "Arrange for financing of property purchases."
+ },
+ {
+  "task_id": "4608",
+  "occupation": "Real Estate Brokers",
+  "task_text": "Appraise property values, assessing income potential when relevant."
+ },
+ {
+  "task_id": "4609",
+  "occupation": "Real Estate Brokers",
+  "task_text": "Maintain awareness of current income tax regulations, local zoning, building and tax laws, and growth possibilities of a property's area."
+ },
+ {
+  "task_id": "4610",
+  "occupation": "Real Estate Brokers",
+  "task_text": "Manage or operate real estate offices, handling associated business details."
+ },
+ {
+  "task_id": "4611",
+  "occupation": "Real Estate Brokers",
+  "task_text": "Supervise agents who handle real estate transactions."
+ },
+ {
+  "task_id": "4612",
+  "occupation": "Real Estate Brokers",
+  "task_text": "Rent properties or manage rental properties."
+ },
+ {
+  "task_id": "4613",
+  "occupation": "Real Estate Brokers",
+  "task_text": "Arrange for title searches of properties being sold."
+ },
+ {
+  "task_id": "4614",
+  "occupation": "Real Estate Brokers",
+  "task_text": "Give buyers virtual tours of properties in which they are interested, using computers."
+ },
+ {
+  "task_id": "4615",
+  "occupation": "Real Estate Brokers",
+  "task_text": "Review property details to ensure that environmental regulations are met."
+ },
+ {
+  "task_id": "4618",
+  "occupation": "Telemarketers",
+  "task_text": "Deliver prepared sales talks, reading from scripts that describe products or services, to persuade potential customers to purchase a product or service or to make a donation."
+ },
+ {
+  "task_id": "4619",
+  "occupation": "Telemarketers",
+  "task_text": "Contact businesses or private individuals by telephone to solicit sales for goods or services, or to request donations for charitable causes."
+ },
+ {
+  "task_id": "4620",
+  "occupation": "Telemarketers",
+  "task_text": "Explain products or services and prices, and answer questions from customers."
+ },
+ {
+  "task_id": "4621",
+  "occupation": "Telemarketers",
+  "task_text": "Obtain customer information such as name, address, and payment method, and enter orders into computers."
+ },
+ {
+  "task_id": "4622",
+  "occupation": "Telemarketers",
+  "task_text": "Record names, addresses, purchases, and reactions of prospects contacted."
+ },
+ {
+  "task_id": "4623",
+  "occupation": "Telemarketers",
+  "task_text": "Adjust sales scripts to better target the needs and interests of specific individuals."
+ },
+ {
+  "task_id": "4624",
+  "occupation": "Telemarketers",
+  "task_text": "Obtain names and telephone numbers of potential customers from sources such as telephone directories, magazine reply cards, and lists purchased from other organizations."
+ },
+ {
+  "task_id": "4625",
+  "occupation": "Telemarketers",
+  "task_text": "Answer telephone calls from potential customers who have been solicited through advertisements."
+ },
+ {
+  "task_id": "4626",
+  "occupation": "Telemarketers",
+  "task_text": "Telephone or write letters to respond to correspondence from customers or to follow up initial sales contacts."
+ },
+ {
+  "task_id": "4627",
+  "occupation": "Telemarketers",
+  "task_text": "Maintain records of contacts, accounts, and orders."
+ },
+ {
+  "task_id": "4628",
+  "occupation": "Telemarketers",
+  "task_text": "Schedule appointments for sales representatives to meet with prospective customers or for customers to attend sales presentations."
+ },
+ {
+  "task_id": "4629",
+  "occupation": "Telemarketers",
+  "task_text": "Conduct client or market surveys to obtain information about potential customers."
+ },
+ {
+  "task_id": "4630",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Operate communication systems, such as telephone, switchboard, intercom, two-way radio, or public address."
+ },
+ {
+  "task_id": "4631",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Answer incoming calls, greeting callers, providing information, transferring calls or taking messages as necessary."
+ },
+ {
+  "task_id": "4633",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Page individuals to inform them of telephone calls, using paging or interoffice communication equipment."
+ },
+ {
+  "task_id": "4634",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Relay or route written or verbal messages."
+ },
+ {
+  "task_id": "4635",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Place telephone calls or arrange conference calls as instructed."
+ },
+ {
+  "task_id": "4637",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Monitor alarm systems to ensure that secure conditions are maintained."
+ },
+ {
+  "task_id": "4638",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Contact security staff members when necessary, using radio-telephones."
+ },
+ {
+  "task_id": "4639",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Keep records of calls placed and charges incurred."
+ },
+ {
+  "task_id": "4640",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Record messages, suggesting rewording for clarity or conciseness."
+ },
+ {
+  "task_id": "4641",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Stamp messages with time and date and file them appropriately."
+ },
+ {
+  "task_id": "4642",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Answer simple questions about clients' businesses, using reference files."
+ },
+ {
+  "task_id": "4643",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Complete forms for sales orders."
+ },
+ {
+  "task_id": "4661",
+  "occupation": "Gambling Cage Workers",
+  "task_text": "Follow all gaming regulations."
+ },
+ {
+  "task_id": "4662",
+  "occupation": "Gambling Cage Workers",
+  "task_text": "Maintain confidentiality of customers' transactions."
+ },
+ {
+  "task_id": "4663",
+  "occupation": "Gambling Cage Workers",
+  "task_text": "Count funds and reconcile daily summaries of transactions to balance books."
+ },
+ {
+  "task_id": "4664",
+  "occupation": "Gambling Cage Workers",
+  "task_text": "Convert gaming checks, coupons, tokens, or coins to currency for gaming patrons."
+ },
+ {
+  "task_id": "4665",
+  "occupation": "Gambling Cage Workers",
+  "task_text": "Maintain cage security."
+ },
+ {
+  "task_id": "4666",
+  "occupation": "Gambling Cage Workers",
+  "task_text": "Determine cash requirements for windows and order all necessary currency, coins, or chips."
+ },
+ {
+  "task_id": "4667",
+  "occupation": "Gambling Cage Workers",
+  "task_text": "Verify accuracy of reports, such as authorization forms, transaction reconciliations, or exchange summary reports."
+ },
+ {
+  "task_id": "4668",
+  "occupation": "Gambling Cage Workers",
+  "task_text": "Cash checks and process credit card advances for patrons."
+ },
+ {
+  "task_id": "4669",
+  "occupation": "Gambling Cage Workers",
+  "task_text": "Sell gambling chips, tokens, or tickets to patrons or to other workers for resale to patrons."
+ },
+ {
+  "task_id": "4670",
+  "occupation": "Gambling Cage Workers",
+  "task_text": "Perform removal and rotation of cash, coin, or chip inventories as necessary."
+ },
+ {
+  "task_id": "4671",
+  "occupation": "Gambling Cage Workers",
+  "task_text": "Supply currency, coins, chips, or gaming checks to other departments as needed."
+ },
+ {
+  "task_id": "4672",
+  "occupation": "Gambling Cage Workers",
+  "task_text": "Provide assistance in the training and orientation of new cashiers."
+ },
+ {
+  "task_id": "4673",
+  "occupation": "Gambling Cage Workers",
+  "task_text": "Provide customers with information about casino operations."
+ },
+ {
+  "task_id": "4674",
+  "occupation": "Gambling Cage Workers",
+  "task_text": "Record casino exchange transactions, using cash registers."
+ },
+ {
+  "task_id": "4675",
+  "occupation": "Gambling Cage Workers",
+  "task_text": "Prepare bank deposits, balancing assigned funds as necessary."
+ },
+ {
+  "task_id": "4676",
+  "occupation": "Gambling Cage Workers",
+  "task_text": "Prepare reports, including assignment of company funds or recording of department revenues."
+ },
+ {
+  "task_id": "4677",
+  "occupation": "Gambling Cage Workers",
+  "task_text": "Establish new computer accounts."
+ },
+ {
+  "task_id": "4722",
+  "occupation": "New Accounts Clerks",
+  "task_text": "Answer customers' questions and explain available services, such as deposit accounts, bonds, and securities."
+ },
+ {
+  "task_id": "4723",
+  "occupation": "New Accounts Clerks",
+  "task_text": "Compile information about new accounts, enter account information into computers, and file related forms or other documents."
+ },
+ {
+  "task_id": "4724",
+  "occupation": "New Accounts Clerks",
+  "task_text": "Refer customers to appropriate bank personnel to meet their financial needs."
+ },
+ {
+  "task_id": "4725",
+  "occupation": "New Accounts Clerks",
+  "task_text": "Interview customers to obtain information needed for opening accounts or renting safe-deposit boxes."
+ },
+ {
+  "task_id": "4726",
+  "occupation": "New Accounts Clerks",
+  "task_text": "Inform customers of procedures for applying for services, such as ATM cards, direct deposit of checks, and certificates of deposit."
+ },
+ {
+  "task_id": "4727",
+  "occupation": "New Accounts Clerks",
+  "task_text": "Obtain credit records from reporting agencies."
+ },
+ {
+  "task_id": "4728",
+  "occupation": "New Accounts Clerks",
+  "task_text": "Collect and record customer deposits and fees and issue receipts, using computers."
+ },
+ {
+  "task_id": "4729",
+  "occupation": "New Accounts Clerks",
+  "task_text": "Investigate and correct errors upon customers' request, according to customer and bank records."
+ },
+ {
+  "task_id": "4730",
+  "occupation": "New Accounts Clerks",
+  "task_text": "Perform teller duties as required."
+ },
+ {
+  "task_id": "4731",
+  "occupation": "New Accounts Clerks",
+  "task_text": "Execute wire transfers of funds."
+ },
+ {
+  "task_id": "4732",
+  "occupation": "New Accounts Clerks",
+  "task_text": "Duplicate records for distribution to branch offices."
+ },
+ {
+  "task_id": "4733",
+  "occupation": "New Accounts Clerks",
+  "task_text": "Issue initial and replacement safe-deposit keys to customers, and admit customers to vaults."
+ },
+ {
+  "task_id": "4734",
+  "occupation": "New Accounts Clerks",
+  "task_text": "Perform foreign currency transactions and sell traveler's checks."
+ },
+ {
+  "task_id": "4735",
+  "occupation": "New Accounts Clerks",
+  "task_text": "Schedule repairs for locks on safe-deposit boxes."
+ },
+ {
+  "task_id": "4737",
+  "occupation": "Shipping, Receiving, and Inventory Clerks",
+  "task_text": "Prepare documents, such as work orders, bills of lading, or shipping orders, to route materials."
+ },
+ {
+  "task_id": "4739",
+  "occupation": "Shipping, Receiving, and Inventory Clerks",
+  "task_text": "Record shipment data, such as weight, charges, space availability, damages, or discrepancies, for reporting, accounting, or recordkeeping purposes."
+ },
+ {
+  "task_id": "4740",
+  "occupation": "Shipping, Receiving, and Inventory Clerks",
+  "task_text": "Contact carrier representatives to make arrangements or to issue instructions for shipping and delivery of materials."
+ },
+ {
+  "task_id": "4741",
+  "occupation": "Shipping, Receiving, and Inventory Clerks",
+  "task_text": "Confer or correspond with establishment representatives to rectify problems, such as damages, shortages, or nonconformance to specifications."
+ },
+ {
+  "task_id": "4742",
+  "occupation": "Shipping, Receiving, and Inventory Clerks",
+  "task_text": "Requisition and store shipping materials and supplies to maintain inventory of stock."
+ },
+ {
+  "task_id": "4744",
+  "occupation": "Shipping, Receiving, and Inventory Clerks",
+  "task_text": "Compute amounts, such as space available, shipping, storage, or demurrage charges, using computer or price list."
+ },
+ {
+  "task_id": "5158",
+  "occupation": "Proofreaders and Copy Markers",
+  "task_text": "Correct or record omissions, errors, or inconsistencies found."
+ },
+ {
+  "task_id": "5159",
+  "occupation": "Proofreaders and Copy Markers",
+  "task_text": "Mark copy to indicate and correct errors in type, arrangement, grammar, punctuation, or spelling, using standard printers' marks."
+ },
+ {
+  "task_id": "5160",
+  "occupation": "Proofreaders and Copy Markers",
+  "task_text": "Read corrected copies or proofs to ensure that all corrections have been made."
+ },
+ {
+  "task_id": "5161",
+  "occupation": "Proofreaders and Copy Markers",
+  "task_text": "Compare information or figures on one record against same data on other records, or with original copy, to detect errors."
+ },
+ {
+  "task_id": "5162",
+  "occupation": "Proofreaders and Copy Markers",
+  "task_text": "Consult reference books or secure aid of readers to check references with rules of grammar and composition."
+ },
+ {
+  "task_id": "5163",
+  "occupation": "Proofreaders and Copy Markers",
+  "task_text": "Route proofs with marked corrections to authors, editors, typists, or typesetters for correction or reprinting."
+ },
+ {
+  "task_id": "5165",
+  "occupation": "Proofreaders and Copy Markers",
+  "task_text": "Read proof sheets aloud, calling out punctuation marks and spelling unusual words and proper names."
+ },
+ {
+  "task_id": "5288",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Collect taxes from individuals or businesses according to prescribed laws and regulations."
+ },
+ {
+  "task_id": "5289",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Maintain knowledge of tax code changes, and of accounting procedures and theory to properly evaluate financial information."
+ },
+ {
+  "task_id": "5290",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Maintain records for each case, including contacts, telephone numbers, and actions taken."
+ },
+ {
+  "task_id": "5291",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Confer with taxpayers or their representatives to discuss the issues, laws, and regulations involved in returns, and to resolve problems with returns."
+ },
+ {
+  "task_id": "5292",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Contact taxpayers by mail or telephone to address discrepancies and to request supporting documentation."
+ },
+ {
+  "task_id": "5293",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Send notices to taxpayers when accounts are delinquent."
+ },
+ {
+  "task_id": "5294",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Notify taxpayers of any overpayment or underpayment, and either issue a refund or request further payment."
+ },
+ {
+  "task_id": "5296",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Review filed tax returns to determine whether claimed tax credits and deductions are allowed by law."
+ },
+ {
+  "task_id": "5297",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Review selected tax returns to determine the nature and extent of audits to be performed on them."
+ },
+ {
+  "task_id": "5298",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Enter tax return information into computers for processing."
+ },
+ {
+  "task_id": "5299",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Examine accounting systems and records to determine whether accounting methods used were appropriate and in compliance with statutory provisions."
+ },
+ {
+  "task_id": "5301",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Impose payment deadlines on delinquent taxpayers and monitor payments to ensure that deadlines are met."
+ },
+ {
+  "task_id": "5302",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Check tax forms to verify that names and taxpayer identification numbers are correct, that computations have been performed correctly, or that amounts match those on supporting documentation."
+ },
+ {
+  "task_id": "5303",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Examine and analyze tax assets and liabilities to determine resolution of delinquent tax problems."
+ },
+ {
+  "task_id": "5305",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Determine appropriate methods of debt settlement, such as offers of compromise, wage garnishment, or seizure and sale of property."
+ },
+ {
+  "task_id": "5306",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Secure a taxpayer's agreement to discharge a tax assessment or submit contested determinations to other administrative or judicial conferees for appeals hearings."
+ },
+ {
+  "task_id": "5307",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Prepare briefs and assist in searching and seizing records to prepare charges and documentation for court cases."
+ },
+ {
+  "task_id": "5308",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Direct service of legal documents, such as subpoenas, warrants, notices of assessment, and garnishments."
+ },
+ {
+  "task_id": "5310",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Investigate claims of inability to pay taxes by researching court information for the status of liens, mortgages, or financial statements, or by locating assets through third parties."
+ },
+ {
+  "task_id": "5312",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Participate in informal appeals hearings on contested cases from other agents."
+ },
+ {
+  "task_id": "5433",
+  "occupation": "Market Research Analysts and Marketing Specialists",
+  "task_text": "Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand."
+ },
+ {
+  "task_id": "5434",
+  "occupation": "Market Research Analysts and Marketing Specialists",
+  "task_text": "Prepare reports of findings, illustrating data graphically and translating complex findings into written text."
+ },
+ {
+  "task_id": "5435",
+  "occupation": "Market Research Analysts and Marketing Specialists",
+  "task_text": "Measure and assess customer and employee satisfaction."
+ },
+ {
+  "task_id": "5436",
+  "occupation": "Market Research Analysts and Marketing Specialists",
+  "task_text": "Forecast and track marketing and sales trends, analyzing collected data."
+ },
+ {
+  "task_id": "5437",
+  "occupation": "Market Research Analysts and Marketing Specialists",
+  "task_text": "Seek and provide information to help companies determine their position in the marketplace."
+ },
+ {
+  "task_id": "5438",
+  "occupation": "Market Research Analysts and Marketing Specialists",
+  "task_text": "Measure the effectiveness of marketing, advertising, and communications programs and strategies."
+ },
+ {
+  "task_id": "5439",
+  "occupation": "Market Research Analysts and Marketing Specialists",
+  "task_text": "Conduct research on consumer opinions and marketing strategies, collaborating with marketing professionals, statisticians, pollsters, and other professionals."
+ },
+ {
+  "task_id": "5440",
+  "occupation": "Market Research Analysts and Marketing Specialists",
+  "task_text": "Attend staff conferences to provide management with information and proposals concerning the promotion, distribution, design, and pricing of company products or services."
+ },
+ {
+  "task_id": "5441",
+  "occupation": "Market Research Analysts and Marketing Specialists",
+  "task_text": "Gather data on competitors and analyze their prices, sales, and method of marketing and distribution."
+ }
+]

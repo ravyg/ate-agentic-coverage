@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "20134",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Clean facilities such as floors or locker rooms."
+ },
+ {
+  "task_id": "4466",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Answer customer inquiries or explain cost, availability, policies, and procedures of facilities."
+ },
+ {
+  "task_id": "4468",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Refer guest problems or complaints to supervisors."
+ },
+ {
+  "task_id": "4484",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Maintain a lost-and-found collection."
+ },
+ {
+  "task_id": "4469",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Clean and polish footwear, using brushes, sponges, cleaning fluid, polishes, waxes, liquid or sole dressing, and daubers."
+ },
+ {
+  "task_id": "4474",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Activate emergency action plans and administer first aid, as necessary."
+ },
+ {
+  "task_id": "4473",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Procure beverages, food, and other items as requested."
+ },
+ {
+  "task_id": "4477",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Collect soiled linen or clothing for laundering."
+ },
+ {
+  "task_id": "4475",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Store personal possessions for patrons, issue claim checks for articles stored, and return articles on receipt of checks."
+ },
+ {
+  "task_id": "4471",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Operate washing machines and dryers to clean soiled apparel and towels."
+ },
+ {
+  "task_id": "4482",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Maintain inventories of clothing or uniforms, accessories, equipment, or linens."
+ },
+ {
+  "task_id": "4479",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Attend to needs of athletic teams in clubhouses."
+ },
+ {
+  "task_id": "4480",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Provide assistance to patrons by performing duties such as opening doors or carrying bags."
+ },
+ {
+  "task_id": "4478",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Operate controls that regulate temperatures or room environments."
+ },
+ {
+  "task_id": "4483",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Issue gym clothes, uniforms, towels, athletic equipment, and special athletic apparel."
+ },
+ {
+  "task_id": "4486",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Provide or arrange for services such as clothes pressing, cleaning, or repair."
+ },
+ {
+  "task_id": "4470",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Report and document safety hazards, potentially hazardous conditions, and unsafe practices and procedures."
+ },
+ {
+  "task_id": "4481",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Stencil identifying information on equipment."
+ },
+ {
+  "task_id": "4485",
+  "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+  "task_text": "Set up various apparatus or athletic equipment."
+ },
+ {
+  "task_id": "4487",
+  "occupation": "Embalmers",
+  "task_text": "Conform to laws of health and sanitation and ensure that legal requirements concerning embalming are met."
+ },
+ {
+  "task_id": "4488",
+  "occupation": "Embalmers",
+  "task_text": "Apply cosmetics to impart lifelike appearance to the deceased."
+ },
+ {
+  "task_id": "4495",
+  "occupation": "Embalmers",
+  "task_text": "Join lips, using needles and thread or wire."
+ },
+ {
+  "task_id": "4490",
+  "occupation": "Embalmers",
+  "task_text": "Close incisions, using needles and sutures."
+ },
+ {
+  "task_id": "4489",
+  "occupation": "Embalmers",
+  "task_text": "Incise stomach and abdominal walls and probe internal organs, using trocar, to withdraw blood and waste matter from organs."
+ },
+ {
+  "task_id": "23930",
+  "occupation": "Embalmers",
+  "task_text": "Clean and disinfect areas in which bodies are prepared and embalmed."
+ },
+ {
+  "task_id": "4493",
+  "occupation": "Embalmers",
+  "task_text": "Dress bodies and place them in caskets."
+ },
+ {
+  "task_id": "4492",
+  "occupation": "Embalmers",
+  "task_text": "Make incisions in arms or thighs and drain blood from circulatory system and replace it with embalming fluid, using pump."
+ },
+ {
+  "task_id": "20257",
+  "occupation": "Embalmers",
+  "task_text": "Remove the deceased from place of death and transport to funeral home."
+ },
+ {
+  "task_id": "4494",
+  "occupation": "Embalmers",
+  "task_text": "Perform the duties of funeral directors, including coordinating funeral activities."
+ },
+ {
+  "task_id": "4497",
+  "occupation": "Embalmers",
+  "task_text": "Attach trocar to pump-tube, start pump, and repeat probing to force embalming fluid into organs."
+ },
+ {
+  "task_id": "4491",
+  "occupation": "Embalmers",
+  "task_text": "Reshape or reconstruct disfigured or maimed bodies when necessary, using dermasurgery techniques and materials such as clay, cotton, plaster of Paris, and wax."
+ },
+ {
+  "task_id": "4504",
+  "occupation": "Embalmers",
+  "task_text": "Pack body orifices with cotton saturated with embalming fluid to prevent escape of gases or waste matter."
+ },
+ {
+  "task_id": "4496",
+  "occupation": "Embalmers",
+  "task_text": "Conduct interviews to arrange for the preparation of obituary notices, to assist with the selection of caskets or urns, and to determine the location and time of burials or cremations."
+ },
+ {
+  "task_id": "4500",
+  "occupation": "Embalmers",
+  "task_text": "Insert convex celluloid or cotton between eyeballs and eyelids to prevent slipping and sinking of eyelids."
+ },
+ {
+  "task_id": "4505",
+  "occupation": "Embalmers",
+  "task_text": "Assist with placing caskets in hearses and organize cemetery processions."
+ },
+ {
+  "task_id": "4499",
+  "occupation": "Embalmers",
+  "task_text": "Maintain records, such as itemized lists of clothing or valuables delivered with body and names of persons embalmed."
+ },
+ {
+  "task_id": "4501",
+  "occupation": "Embalmers",
+  "task_text": "Wash and dry bodies, using germicidal soap and towels or hot air dryers."
+ },
+ {
+  "task_id": "4502",
+  "occupation": "Embalmers",
+  "task_text": "Arrange for transporting the deceased to another state for interment."
+ },
+ {
+  "task_id": "4498",
+  "occupation": "Embalmers",
+  "task_text": "Perform special procedures necessary for remains that are to be transported to other states or overseas, or where death was caused by infectious disease."
+ },
+ {
+  "task_id": "4503",
+  "occupation": "Embalmers",
+  "task_text": "Supervise funeral attendants and other funeral home staff."
+ },
+ {
+  "task_id": "4506",
+  "occupation": "Embalmers",
+  "task_text": "Serve as pallbearers, attend visiting rooms, and provide other assistance to the bereaved."
+ },
+ {
+  "task_id": "4507",
+  "occupation": "Embalmers",
+  "task_text": "Direct casket and floral display placement and arrange guest seating."
+ },
+ {
+  "task_id": "4508",
+  "occupation": "Embalmers",
+  "task_text": "Arrange funeral home equipment and perform general maintenance."
+ },
+ {
+  "task_id": "4509",
+  "occupation": "Embalmers",
+  "task_text": "Assist coroners at death scenes or at autopsies, file police reports, and testify at inquests or in court, if employed by a coroner."
+ },
+ {
+  "task_id": "4510",
+  "occupation": "Embalmers",
+  "task_text": "Press diaphragm to evacuate air from lungs."
+ },
+ {
+  "task_id": "23180",
+  "occupation": "Crematory Operators",
+  "task_text": "Clean the crematorium, including tables, floors, and equipment."
+ },
+ {
+  "task_id": "23181",
+  "occupation": "Crematory Operators",
+  "task_text": "Document divided remains to ensure parts are not misplaced."
+ },
+ {
+  "task_id": "23182",
+  "occupation": "Crematory Operators",
+  "task_text": "Embalm, dress, or otherwise prepare the deceased for viewing."
+ },
+ {
+  "task_id": "23183",
+  "occupation": "Crematory Operators",
+  "task_text": "Explain the cremation process to family or friends of the deceased."
+ },
+ {
+  "task_id": "23184",
+  "occupation": "Crematory Operators",
+  "task_text": "Offer counsel and comfort to bereaved families or friends."
+ },
+ {
+  "task_id": "23185",
+  "occupation": "Crematory Operators",
+  "task_text": "Pick up and handle human or pet remains in a respectful manner."
+ },
+ {
+  "task_id": "23186",
+  "occupation": "Crematory Operators",
+  "task_text": "Place corpses into crematory machines to reduce remains to bone fragments using flame, heat, or alkaline hydrolysis."
+ },
+ {
+  "task_id": "23187",
+  "occupation": "Crematory Operators",
+  "task_text": "Pulverize remaining bone fragments into smaller pieces, using specialized equipment, such as a cremulator or grinder."
+ },
+ {
+  "task_id": "23188",
+  "occupation": "Crematory Operators",
+  "task_text": "Read documentation to confirm the identity of the deceased."
+ },
+ {
+  "task_id": "23189",
+  "occupation": "Crematory Operators",
+  "task_text": "Remove jewelry, watches, or other personal items from the deceased prior to cremation."
+ },
+ {
+  "task_id": "23190",
+  "occupation": "Crematory Operators",
+  "task_text": "Sweep or vacuum the cremation chamber to retrieve remains for storage in an urn or other container."
+ },
+ {
+  "task_id": "23191",
+  "occupation": "Crematory Operators",
+  "task_text": "Transport the deceased to a funeral home or crematory using a van, hearse, or other vehicle."
+ },
+ {
+  "task_id": "4512",
+  "occupation": "Funeral Attendants",
+  "task_text": "Greet people at the funeral home."
+ },
+ {
+  "task_id": "4511",
+  "occupation": "Funeral Attendants",
+  "task_text": "Perform a variety of tasks during funerals to assist funeral directors and to ensure that services run smoothly and as planned."
+ },
+ {
+  "task_id": "4514",
+  "occupation": "Funeral Attendants",
+  "task_text": "Close caskets at appropriate point in services."
+ },
+ {
+  "task_id": "4517",
+  "occupation": "Funeral Attendants",
+  "task_text": "Direct or escort mourners to parlors or chapels in which wakes or funerals are being held."
+ },
+ {
+  "task_id": "4518",
+  "occupation": "Funeral Attendants",
+  "task_text": "Place caskets in parlors or chapels prior to wakes or funerals."
+ },
+ {
+  "task_id": "4513",
+  "occupation": "Funeral Attendants",
+  "task_text": "Offer assistance to mourners as they enter or exit limousines."
+ },
+ {
+  "task_id": "4521",
+  "occupation": "Funeral Attendants",
+  "task_text": "Clean funeral parlors or chapels."
+ },
+ {
+  "task_id": "4522",
+  "occupation": "Funeral Attendants",
+  "task_text": "Arrange floral offerings or lights around caskets."
+ },
+ {
+  "task_id": "4519",
+  "occupation": "Funeral Attendants",
+  "task_text": "Clean and drive funeral vehicles, such as cars or hearses, in funeral processions."
+ },
+ {
+  "task_id": "4527",
+  "occupation": "Funeral Attendants",
+  "task_text": "Act as pallbearers."
+ },
+ {
+  "task_id": "20600",
+  "occupation": "Funeral Attendants",
+  "task_text": "Supervise funeral processions and assist with cemetery parking."
+ },
+ {
+  "task_id": "20601",
+  "occupation": "Funeral Attendants",
+  "task_text": "Deliver floral arrangements or other items to family members of the deceased."
+ },
+ {
+  "task_id": "4520",
+  "occupation": "Funeral Attendants",
+  "task_text": "Carry flowers to hearses or limousines for transportation to places of interment."
+ },
+ {
+  "task_id": "20602",
+  "occupation": "Funeral Attendants",
+  "task_text": "Perform general maintenance tasks for funeral homes, such as maintaining equipment or caring for funeral grounds."
+ },
+ {
+  "task_id": "4525",
+  "occupation": "Funeral Attendants",
+  "task_text": "Issue and store funeral equipment."
+ },
+ {
+  "task_id": "4523",
+  "occupation": "Funeral Attendants",
+  "task_text": "Provide advice to mourners on how to make charitable donations in honor of the deceased."
+ },
+ {
+  "task_id": "20603",
+  "occupation": "Funeral Attendants",
+  "task_text": "Embalm, dress, cosmeticize, and casket the deceased."
+ },
+ {
+  "task_id": "20607",
+  "occupation": "Funeral Attendants",
+  "task_text": "Prepare obituaries for newspapers."
+ },
+ {
+  "task_id": "4516",
+  "occupation": "Funeral Attendants",
+  "task_text": "Obtain burial permits and register deaths."
+ },
+ {
+  "task_id": "20597",
+  "occupation": "Funeral Attendants",
+  "task_text": "Transport the deceased to the funeral home."
+ },
+ {
+  "task_id": "20605",
+  "occupation": "Funeral Attendants",
+  "task_text": "Obtain doctors' signatures on death certificate and complete other paperwork, such as insurance claims forms."
+ },
+ {
+  "task_id": "4526",
+  "occupation": "Funeral Attendants",
+  "task_text": "Assist with cremations and the processing and packaging of cremated remains."
+ },
+ {
+  "task_id": "20598",
+  "occupation": "Funeral Attendants",
+  "task_text": "Attend to the needs of the bereaved, such as by offering comfort, counseling, or after-care programs."
+ },
+ {
+  "task_id": "20599",
+  "occupation": "Funeral Attendants",
+  "task_text": "Perform various administrative tasks, such as typing documents or answering telephone calls."
+ },
+ {
+  "task_id": "3335",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Oversee the preparation and care of the remains of people who have died."
+ },
+ {
+  "task_id": "3334",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Obtain information needed to complete legal documents, such as death certificates or burial permits."
+ },
+ {
+  "task_id": "3343",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Perform embalming duties, as necessary."
+ },
+ {
+  "task_id": "3332",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Consult with families or friends of the deceased to arrange funeral details, such as obituary notice wording, casket selection, or plans for services."
+ },
+ {
+  "task_id": "21009",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Remove deceased remains from place of death."
+ },
+ {
+  "task_id": "3336",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Contact cemeteries to schedule the opening and closing of graves."
+ },
+ {
+  "task_id": "15200",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Plan, schedule, or coordinate funerals, burials, or cremations, arranging details such as floral delivery or the time and place of services."
+ },
+ {
+  "task_id": "3340",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Close caskets and lead funeral corteges to churches or burial sites."
+ },
+ {
+  "task_id": "3337",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Provide information on funeral service options, products, or merchandise, and maintain a casket display area."
+ },
+ {
+  "task_id": "3339",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Offer counsel and comfort to bereaved families or friends."
+ },
+ {
+  "task_id": "3344",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Direct preparations and shipment of bodies for out-of-state burial."
+ },
+ {
+  "task_id": "3345",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Discuss and negotiate prearranged funerals with clients."
+ },
+ {
+  "task_id": "3347",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Maintain financial records, order merchandise, or prepare accounts."
+ },
+ {
+  "task_id": "3342",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Provide or arrange transportation between sites for the remains, mourners, pallbearers, clergy, or flowers."
+ },
+ {
+  "task_id": "3341",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Arrange for clergy members to perform needed services."
+ },
+ {
+  "task_id": "3348",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Plan placement of caskets at funeral sites or place or adjust lights, fixtures, or floral displays."
+ },
+ {
+  "task_id": "15202",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Clean funeral home facilities and grounds."
+ },
+ {
+  "task_id": "15201",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Manage funeral home operations, including the hiring, training, or supervision of embalmers, funeral attendants, or other staff."
+ },
+ {
+  "task_id": "3346",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Inform survivors of benefits for which they may be eligible."
+ },
+ {
+  "task_id": "3349",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Arrange for pallbearers or inform pallbearers or honorary groups of their duties."
+ },
+ {
+  "task_id": "3350",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Receive or usher people to their seats for services."
+ },
+ {
+  "task_id": "15203",
+  "occupation": "Morticians, Undertakers, and Funeral Arrangers",
+  "task_text": "Participate in community activities for funeral home promotion or other purposes."
+ },
+ {
+  "task_id": "8049",
+  "occupation": "Barbers",
+  "task_text": "Clean and sterilize scissors, combs, clippers, and other instruments."
+ },
+ {
+  "task_id": "8051",
+  "occupation": "Barbers",
+  "task_text": "Drape and pin protective cloths around customers' shoulders."
+ },
+ {
+  "task_id": "8050",
+  "occupation": "Barbers",
+  "task_text": "Cut and trim hair according to clients' instructions or current hairstyles, using clippers, combs, hand-held blow driers, and scissors."
+ },
+ {
+  "task_id": "8052",
+  "occupation": "Barbers",
+  "task_text": "Question patrons regarding desired services and haircut styles."
+ },
+ {
+  "task_id": "8053",
+  "occupation": "Barbers",
+  "task_text": "Clean work stations and sweep floors."
+ },
+ {
+  "task_id": "8063",
+  "occupation": "Barbers",
+  "task_text": "Apply lather and shave beards or neck and temple hair contours, using razors."
+ },
+ {
+  "task_id": "8054",
+  "occupation": "Barbers",
+  "task_text": "Record services provided on cashiers' tickets or receive payment from customers."
+ },
+ {
+  "task_id": "8056",
+  "occupation": "Barbers",
+  "task_text": "Shape and trim beards and moustaches, using scissors."
+ },
+ {
+  "task_id": "8061",
+  "occupation": "Barbers",
+  "task_text": "Perform clerical and administrative duties such as keeping records, paying bills, and hiring and supervising personnel."
+ },
+ {
+  "task_id": "8057",
+  "occupation": "Barbers",
+  "task_text": "Stay informed of the latest styles and hair care techniques."
+ },
+ {
+  "task_id": "8058",
+  "occupation": "Barbers",
+  "task_text": "Suggest treatments to alleviate hair problems."
+ },
+ {
+  "task_id": "8055",
+  "occupation": "Barbers",
+  "task_text": "Order supplies."
+ },
+ {
+  "task_id": "8059",
+  "occupation": "Barbers",
+  "task_text": "Shampoo hair."
+ },
+ {
+  "task_id": "8065",
+  "occupation": "Barbers",
+  "task_text": "Recommend and sell lotions, tonics, or other cosmetic supplies."
+ },
+ {
+  "task_id": "8067",
+  "occupation": "Barbers",
+  "task_text": "Provide skin care and nail treatments."
+ },
+ {
+  "task_id": "8060",
+  "occupation": "Barbers",
+  "task_text": "Keep card files on clientele, recording notes of work done, products used and fees charged after each visit."
+ },
+ {
+  "task_id": "8062",
+  "occupation": "Barbers",
+  "task_text": "Curl, color, or straighten hair, using special chemical solutions and equipment."
+ },
+ {
+  "task_id": "8066",
+  "occupation": "Barbers",
+  "task_text": "Provide face, neck, and scalp massages."
+ },
+ {
+  "task_id": "635",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Keep work stations clean and sanitize tools, such as scissors and combs."
+ },
+ {
+  "task_id": "639",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Bleach, dye, or tint hair, using applicator or brush."
+ },
+ {
+  "task_id": "636",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Cut, trim and shape hair or hairpieces, based on customers' instructions, hair type, and facial features, using clippers, scissors, trimmers and razors."
+ },
+ {
+  "task_id": "638",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Schedule client appointments."
+ },
+ {
+  "task_id": "640",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Update and maintain customer information records, such as beauty services provided."
+ },
+ {
+  "task_id": "643",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Demonstrate and sell hair care products and cosmetics."
+ },
+ {
+  "task_id": "637",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Analyze patrons' hair and other physical features to determine and recommend beauty treatment or suggest hair styles."
+ },
+ {
+  "task_id": "641",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Shampoo, rinse, condition, and dry hair and scalp or hairpieces with water, liquid soap, or other solutions."
+ },
+ {
+  "task_id": "642",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Operate cash registers to receive payments from patrons."
+ }
+]

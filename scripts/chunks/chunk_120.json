@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "20673",
+  "occupation": "Maintenance and Repair Workers, General",
+  "task_text": "Maintain or repair specialized equipment or machinery located in cafeterias, laundries, hospitals, stores, offices, or factories."
+ },
+ {
+  "task_id": "20670",
+  "occupation": "Maintenance and Repair Workers, General",
+  "task_text": "Dismantle machines, equipment, or devices to access and remove defective parts, using hoists, cranes, hand tools, or power tools."
+ },
+ {
+  "task_id": "3028",
+  "occupation": "Maintenance and Repair Workers, General",
+  "task_text": "Plan and lay out repair work, using diagrams, drawings, blueprints, maintenance manuals, or schematic diagrams."
+ },
+ {
+  "task_id": "19898",
+  "occupation": "Maintenance and Repair Workers, General",
+  "task_text": "Install equipment to improve the energy or operational efficiency of residential or commercial buildings."
+ },
+ {
+  "task_id": "3035",
+  "occupation": "Maintenance and Repair Workers, General",
+  "task_text": "Set up and operate machine tools to repair or fabricate machine parts, jigs, fixtures, or tools."
+ },
+ {
+  "task_id": "20675",
+  "occupation": "Maintenance and Repair Workers, General",
+  "task_text": "Perform general cleaning of buildings or properties."
+ },
+ {
+  "task_id": "20676",
+  "occupation": "Maintenance and Repair Workers, General",
+  "task_text": "Train or manage maintenance personnel or subcontractors."
+ },
+ {
+  "task_id": "3037",
+  "occupation": "Maintenance and Repair Workers, General",
+  "task_text": "Fabricate or repair counters, benches, partitions, or other wooden structures, such as sheds or outbuildings."
+ },
+ {
+  "task_id": "3031",
+  "occupation": "Maintenance and Repair Workers, General",
+  "task_text": "Paint or repair roofs, windows, doors, floors, woodwork, plaster, drywall, or other parts of building structures."
+ },
+ {
+  "task_id": "19899",
+  "occupation": "Maintenance and Repair Workers, General",
+  "task_text": "Perform routine maintenance on boilers, such as replacing burners or hoses, installing replacement parts, or reinforcing structural weaknesses to ensure optimal boiler efficiency."
+ },
+ {
+  "task_id": "20677",
+  "occupation": "Maintenance and Repair Workers, General",
+  "task_text": "Provide groundskeeping services, such as landscaping or snow removal."
+ },
+ {
+  "task_id": "3032",
+  "occupation": "Maintenance and Repair Workers, General",
+  "task_text": "Operate cutting torches or welding equipment to cut or join metal parts."
+ },
+ {
+  "task_id": "3034",
+  "occupation": "Maintenance and Repair Workers, General",
+  "task_text": "Inspect used parts to determine changes in dimensional requirements, using rules, calipers, micrometers, or other measuring instruments."
+ },
+ {
+  "task_id": "19897",
+  "occupation": "Maintenance and Repair Workers, General",
+  "task_text": "Assemble boilers at installation sites, using tools such as levels, plumb bobs, hammers, torches, or other hand tools."
+ },
+ {
+  "task_id": "19900",
+  "occupation": "Maintenance and Repair Workers, General",
+  "task_text": "Position, attach, or blow insulating materials to prevent energy losses from buildings, pipes, or other structures or objects."
+ },
+ {
+  "task_id": "17806",
+  "occupation": "Wind Turbine Service Technicians",
+  "task_text": "Troubleshoot or repair mechanical, hydraulic, or electrical malfunctions related to variable pitch systems, variable speed control systems, converter systems, or related components."
+ },
+ {
+  "task_id": "17809",
+  "occupation": "Wind Turbine Service Technicians",
+  "task_text": "Perform routine maintenance on wind turbine equipment, underground transmission systems, wind fields substations, or fiber optic sensing and control systems."
+ },
+ {
+  "task_id": "17808",
+  "occupation": "Wind Turbine Service Technicians",
+  "task_text": "Diagnose problems involving wind turbine generators or control systems."
+ },
+ {
+  "task_id": "17811",
+  "occupation": "Wind Turbine Service Technicians",
+  "task_text": "Test electrical components of wind systems with devices, such as voltage testers, multimeters, oscilloscopes, infrared testers, or fiber optic equipment."
+ },
+ {
+  "task_id": "17810",
+  "occupation": "Wind Turbine Service Technicians",
+  "task_text": "Start or restart wind turbine generator systems to ensure proper operations."
+ },
+ {
+  "task_id": "17807",
+  "occupation": "Wind Turbine Service Technicians",
+  "task_text": "Climb wind turbine towers to inspect, maintain, or repair equipment."
+ },
+ {
+  "task_id": "17815",
+  "occupation": "Wind Turbine Service Technicians",
+  "task_text": "Maintain tool and spare parts inventories required for repair, installation, or replacement services."
+ },
+ {
+  "task_id": "17812",
+  "occupation": "Wind Turbine Service Technicians",
+  "task_text": "Test structures, controls, or mechanical, hydraulic, or electrical systems, according to test plans or in coordination with engineers."
+ },
+ {
+  "task_id": "17817",
+  "occupation": "Wind Turbine Service Technicians",
+  "task_text": "Train end-users, distributors, installers, or other technicians in wind commissioning, testing, or other technical procedures."
+ },
+ {
+  "task_id": "17814",
+  "occupation": "Wind Turbine Service Technicians",
+  "task_text": "Collect turbine data for testing or research and analysis."
+ },
+ {
+  "task_id": "17805",
+  "occupation": "Wind Turbine Service Technicians",
+  "task_text": "Inspect or repair fiberglass turbine blades."
+ },
+ {
+  "task_id": "17813",
+  "occupation": "Wind Turbine Service Technicians",
+  "task_text": "Assist in assembly of individual wind generators or construction of wind farms."
+ },
+ {
+  "task_id": "13835",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Fill machines with products, ingredients, money, and other supplies."
+ },
+ {
+  "task_id": "13839",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Inspect machines and meters to determine causes of malfunctions and fix minor problems such as jammed bills or stuck products."
+ },
+ {
+  "task_id": "13840",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Test machines to determine proper functioning."
+ },
+ {
+  "task_id": "13846",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Replace malfunctioning parts, such as worn magnetic heads on automatic teller machine (ATM) card readers."
+ },
+ {
+  "task_id": "13845",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Maintain records of machine maintenance and repair."
+ },
+ {
+  "task_id": "13842",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Clean and oil machine parts."
+ },
+ {
+  "task_id": "13848",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Order parts needed for machine repairs."
+ },
+ {
+  "task_id": "13847",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Adjust and repair coin, vending, or amusement machines and meters and replace defective mechanical and electrical parts, using hand tools, soldering irons, and diagrams."
+ },
+ {
+  "task_id": "13843",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Record transaction information on forms or logs, and notify designated personnel of discrepancies."
+ },
+ {
+  "task_id": "13836",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Keep records of merchandise distributed and money collected."
+ },
+ {
+  "task_id": "13837",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Collect coins and bills from machines, prepare invoices, and settle accounts with concessionaires."
+ },
+ {
+  "task_id": "13838",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Make service calls to maintain and repair machines."
+ },
+ {
+  "task_id": "13844",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Adjust machine pressure gauges and thermostats."
+ },
+ {
+  "task_id": "13849",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Disassemble and assemble machines, according to specifications and using hand and power tools."
+ },
+ {
+  "task_id": "13841",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Contact other repair personnel or make arrangements for the removal of machines in cases where major repairs are required."
+ },
+ {
+  "task_id": "13852",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Transport machines to installation sites."
+ },
+ {
+  "task_id": "13851",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Refer to manuals and wiring diagrams to gather information needed to repair machines."
+ },
+ {
+  "task_id": "13850",
+  "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+  "task_text": "Install machines, making the necessary water and electrical connections in compliance with codes."
+ },
+ {
+  "task_id": "13855",
+  "occupation": "Commercial Divers",
+  "task_text": "Take appropriate safety precautions, such as monitoring dive lengths and depths and registering with authorities before diving expeditions begin."
+ },
+ {
+  "task_id": "13856",
+  "occupation": "Commercial Divers",
+  "task_text": "Check and maintain diving equipment, such as helmets, masks, air tanks, harnesses, or gauges."
+ },
+ {
+  "task_id": "13854",
+  "occupation": "Commercial Divers",
+  "task_text": "Communicate with workers on the surface while underwater, using signal lines or telephones."
+ },
+ {
+  "task_id": "13857",
+  "occupation": "Commercial Divers",
+  "task_text": "Descend into water with the aid of diver helpers, using scuba gear or diving suits."
+ },
+ {
+  "task_id": "13858",
+  "occupation": "Commercial Divers",
+  "task_text": "Obtain information about diving tasks and environmental conditions."
+ },
+ {
+  "task_id": "13871",
+  "occupation": "Commercial Divers",
+  "task_text": "Supervise or train other divers, including hobby divers."
+ },
+ {
+  "task_id": "20809",
+  "occupation": "Commercial Divers",
+  "task_text": "Inspect the condition of underwater steel or wood structures."
+ },
+ {
+  "task_id": "13859",
+  "occupation": "Commercial Divers",
+  "task_text": "Inspect and test docks, ships, buoyage systems, plant intakes or outflows, or underwater pipelines, cables, or sewers, using closed circuit television, still photography, and testing equipment."
+ },
+ {
+  "task_id": "13860",
+  "occupation": "Commercial Divers",
+  "task_text": "Repair ships, bridge foundations, or other structures below the water line, using caulk, bolts, and hand tools."
+ },
+ {
+  "task_id": "13862",
+  "occupation": "Commercial Divers",
+  "task_text": "Recover objects by placing rigging around sunken objects, hooking rigging to crane lines, and operating winches, derricks, or cranes to raise objects."
+ },
+ {
+  "task_id": "13866",
+  "occupation": "Commercial Divers",
+  "task_text": "Operate underwater video, sonar, recording, or related equipment to investigate underwater structures or marine life."
+ },
+ {
+  "task_id": "13864",
+  "occupation": "Commercial Divers",
+  "task_text": "Take test samples or photographs to assess the condition of vessels or structures."
+ },
+ {
+  "task_id": "13861",
+  "occupation": "Commercial Divers",
+  "task_text": "Cut and weld steel, using underwater welding equipment, jigs, and supports."
+ },
+ {
+  "task_id": "13865",
+  "occupation": "Commercial Divers",
+  "task_text": "Install, inspect, clean, or repair piping or valves."
+ },
+ {
+  "task_id": "13872",
+  "occupation": "Commercial Divers",
+  "task_text": "Carry out non-destructive testing, such as tests for cracks on the legs of oil rigs at sea."
+ },
+ {
+  "task_id": "13863",
+  "occupation": "Commercial Divers",
+  "task_text": "Install pilings or footings for piers or bridges."
+ },
+ {
+  "task_id": "13868",
+  "occupation": "Commercial Divers",
+  "task_text": "Salvage wrecked ships or their cargo, using pneumatic power velocity and hydraulic tools and explosive charges, when necessary."
+ },
+ {
+  "task_id": "13867",
+  "occupation": "Commercial Divers",
+  "task_text": "Remove obstructions from strainers or marine railway or launching ways, using pneumatic or power hand tools."
+ },
+ {
+  "task_id": "13869",
+  "occupation": "Commercial Divers",
+  "task_text": "Set or guide placement of pilings or sandbags to provide support for structures, such as docks, bridges, cofferdams, or platforms."
+ },
+ {
+  "task_id": "13870",
+  "occupation": "Commercial Divers",
+  "task_text": "Perform activities related to underwater search and rescue, salvage, recovery, or cleanup operations."
+ },
+ {
+  "task_id": "13875",
+  "occupation": "Commercial Divers",
+  "task_text": "Perform offshore oil or gas exploration or extraction duties, such as conducting underwater surveys or repairing and maintaining drilling rigs or platforms."
+ },
+ {
+  "task_id": "13873",
+  "occupation": "Commercial Divers",
+  "task_text": "Drill holes in rock and rig explosives for underwater demolitions."
+ },
+ {
+  "task_id": "13874",
+  "occupation": "Commercial Divers",
+  "task_text": "Remove rubbish or pollution from the sea."
+ },
+ {
+  "task_id": "18789",
+  "occupation": "Locksmiths and Safe Repairers",
+  "task_text": "Cut new or duplicate keys, using impressions or code key machines."
+ },
+ {
+  "task_id": "7126",
+  "occupation": "Locksmiths and Safe Repairers",
+  "task_text": "Insert new or repaired tumblers into locks to change combinations."
+ },
+ {
+  "task_id": "7127",
+  "occupation": "Locksmiths and Safe Repairers",
+  "task_text": "Move picklocks in cylinders to open door locks without keys."
+ },
+ {
+  "task_id": "7124",
+  "occupation": "Locksmiths and Safe Repairers",
+  "task_text": "Cut new or duplicate keys, using key cutting machines."
+ },
+ {
+  "task_id": "7131",
+  "occupation": "Locksmiths and Safe Repairers",
+  "task_text": "Open safe locks by drilling."
+ },
+ {
+  "task_id": "18790",
+  "occupation": "Locksmiths and Safe Repairers",
+  "task_text": "Set up and maintain master key systems."
+ },
+ {
+  "task_id": "18791",
+  "occupation": "Locksmiths and Safe Repairers",
+  "task_text": "Install door hardware, such as locks and closers."
+ },
+ {
+  "task_id": "7125",
+  "occupation": "Locksmiths and Safe Repairers",
+  "task_text": "Keep records of company locks and keys."
+ },
+ {
+  "task_id": "7128",
+  "occupation": "Locksmiths and Safe Repairers",
+  "task_text": "Disassemble mechanical or electrical locking devices, and repair or replace worn tumblers, springs, and other parts, using hand tools."
+ },
+ {
+  "task_id": "7129",
+  "occupation": "Locksmiths and Safe Repairers",
+  "task_text": "Repair and adjust safes, vault doors, and vault components, using hand tools, lathes, drill presses, and welding and acetylene cutting apparatus."
+ },
+ {
+  "task_id": "18792",
+  "occupation": "Locksmiths and Safe Repairers",
+  "task_text": "Install alarm and electronic access systems."
+ },
+ {
+  "task_id": "7130",
+  "occupation": "Locksmiths and Safe Repairers",
+  "task_text": "Install safes, vault doors, and deposit boxes according to blueprints, using equipment such as power drills, taps, dies, truck cranes, and dollies."
+ },
+ {
+  "task_id": "18793",
+  "occupation": "Locksmiths and Safe Repairers",
+  "task_text": "Unlock cars and other vehicles."
+ },
+ {
+  "task_id": "7132",
+  "occupation": "Locksmiths and Safe Repairers",
+  "task_text": "Remove interior and exterior finishes on safes and vaults, and spray on new finishes."
+ },
+ {
+  "task_id": "13878",
+  "occupation": "Manufactured Building and Mobile Home Installers",
+  "task_text": "Seal open sides of modular units to prepare them for shipment, using polyethylene sheets, nails, and hammers."
+ },
+ {
+  "task_id": "13879",
+  "occupation": "Manufactured Building and Mobile Home Installers",
+  "task_text": "Move and set up mobile homes or prefabricated buildings on owners' lots or at mobile home parks."
+ },
+ {
+  "task_id": "13880",
+  "occupation": "Manufactured Building and Mobile Home Installers",
+  "task_text": "Inspect, examine, and test the operation of parts or systems to evaluate operating condition and to determine if repairs are needed."
+ },
+ {
+  "task_id": "13881",
+  "occupation": "Manufactured Building and Mobile Home Installers",
+  "task_text": "Connect water hoses to inlet pipes of plumbing systems, and test operation of plumbing fixtures."
+ },
+ {
+  "task_id": "13882",
+  "occupation": "Manufactured Building and Mobile Home Installers",
+  "task_text": "Remove damaged exterior panels, repair and replace structural frame members, and seal leaks, using hand tools."
+ },
+ {
+  "task_id": "13883",
+  "occupation": "Manufactured Building and Mobile Home Installers",
+  "task_text": "List parts needed, estimate costs, and plan work procedures, using parts lists, technical manuals, and diagrams."
+ },
+ {
+  "task_id": "13884",
+  "occupation": "Manufactured Building and Mobile Home Installers",
+  "task_text": "Confer with customers or read work orders to determine the nature and extent of damage to units."
+ },
+ {
+  "task_id": "13885",
+  "occupation": "Manufactured Building and Mobile Home Installers",
+  "task_text": "Install, repair, and replace units, fixtures, appliances, and other items and systems in mobile and modular homes, prefabricated buildings, or travel trailers, using hand tools or power tools."
+ },
+ {
+  "task_id": "13886",
+  "occupation": "Manufactured Building and Mobile Home Installers",
+  "task_text": "Reset hardware, using chisels, mallets, and screwdrivers."
+ },
+ {
+  "task_id": "13887",
+  "occupation": "Manufactured Building and Mobile Home Installers",
+  "task_text": "Repair leaks in plumbing or gas lines, using caulking compounds and plastic or copper pipe."
+ },
+ {
+  "task_id": "13888",
+  "occupation": "Manufactured Building and Mobile Home Installers",
+  "task_text": "Locate and repair frayed wiring, broken connections, or incorrect wiring, using ohmmeters, soldering irons, tape, and hand tools."
+ },
+ {
+  "task_id": "13889",
+  "occupation": "Manufactured Building and Mobile Home Installers",
+  "task_text": "Open and close doors, windows, and drawers to test their operation, trimming edges to fit, using jackplanes or drawknives."
+ },
+ {
+  "task_id": "13890",
+  "occupation": "Manufactured Building and Mobile Home Installers",
+  "task_text": "Connect electrical systems to outside power sources and activate switches to test the operation of appliances and light fixtures."
+ },
+ {
+  "task_id": "13891",
+  "occupation": "Manufactured Building and Mobile Home Installers",
+  "task_text": "Refinish wood surfaces on cabinets, doors, moldings, and floors, using power sanders, putty, spray equipment, brushes, paints, or varnishes."
+ },
+ {
+  "task_id": "13893",
+  "occupation": "Riggers",
+  "task_text": "Test rigging to ensure safety and reliability."
+ },
+ {
+  "task_id": "13892",
+  "occupation": "Riggers",
+  "task_text": "Signal or verbally direct workers engaged in hoisting and moving loads to ensure safety of workers and materials."
+ },
+ {
+  "task_id": "13896",
+  "occupation": "Riggers",
+  "task_text": "Control movement of heavy equipment through narrow openings or confined spaces, using chainfalls, gin poles, gallows frames, and other equipment."
+ },
+ {
+  "task_id": "13897",
+  "occupation": "Riggers",
+  "task_text": "Tilt, dip, and turn suspended loads to maneuver over, under, or around obstacles, using multi-point suspension techniques."
+ },
+ {
+  "task_id": "13895",
+  "occupation": "Riggers",
+  "task_text": "Select gear, such as cables, pulleys, and winches, according to load weights and sizes, facilities, and work schedules."
+ },
+ {
+  "task_id": "13902",
+  "occupation": "Riggers",
+  "task_text": "Dismantle and store rigging equipment after use."
+ },
+ {
+  "task_id": "13894",
+  "occupation": "Riggers",
+  "task_text": "Attach loads to rigging to provide support or prepare them for moving, using hand and power tools."
+ },
+ {
+  "task_id": "13900",
+  "occupation": "Riggers",
+  "task_text": "Manipulate rigging lines, hoists, and pulling gear to move or support materials, such as heavy equipment, ships, or theatrical sets."
+ },
+ {
+  "task_id": "13898",
+  "occupation": "Riggers",
+  "task_text": "Align, level, and anchor machinery."
+ },
+ {
+  "task_id": "21206",
+  "occupation": "Riggers",
+  "task_text": "Load machines onto trucks to prepare for transportation."
+ },
+ {
+  "task_id": "13901",
+  "occupation": "Riggers",
+  "task_text": "Attach pulleys and blocks to fixed overhead structures, such as beams, ceilings, and gin pole booms, using bolts and clamps."
+ },
+ {
+  "task_id": "13899",
+  "occupation": "Riggers",
+  "task_text": "Fabricate, set up, and repair rigging, supporting structures, hoists, and pulling gear, using hand and power tools."
+ },
+ {
+  "task_id": "13904",
+  "occupation": "Riggers",
+  "task_text": "Clean and dress machine surfaces and component parts."
+ },
+ {
+  "task_id": "13903",
+  "occupation": "Riggers",
+  "task_text": "Install ground rigging for yarding lines, attaching chokers to logs and to the lines."
+ },
+ {
+  "task_id": "13906",
+  "occupation": "Signal and Track Switch Repairers",
+  "task_text": "Inspect and test operation, mechanical parts, and circuitry of gate crossings, signals, and signal equipment such as interlocks and hotbox detectors."
+ },
+ {
+  "task_id": "13910",
+  "occupation": "Signal and Track Switch Repairers",
+  "task_text": "Inspect electrical units of railroad grade crossing gates and repair loose bolts and defective electrical connections and parts."
+ },
+ {
+  "task_id": "23936",
+  "occupation": "Signal and Track Switch Repairers",
+  "task_text": "Test and repair track circuits."
+ },
+ {
+  "task_id": "13908",
+  "occupation": "Signal and Track Switch Repairers",
+  "task_text": "Drive motor vehicles to job sites."
+ },
+ {
+  "task_id": "13905",
+  "occupation": "Signal and Track Switch Repairers",
+  "task_text": "Install, inspect, maintain, and repair various railroad service equipment on the road or in the shop, including railroad signal systems."
+ },
+ {
+  "task_id": "13909",
+  "occupation": "Signal and Track Switch Repairers",
+  "task_text": "Tighten loose bolts, using wrenches, and test circuits and connections by opening and closing gates."
+ },
+ {
+  "task_id": "13907",
+  "occupation": "Signal and Track Switch Repairers",
+  "task_text": "Inspect switch-controlling mechanisms on trolley wires and in track beds, using hand tools and test equipment."
+ },
+ {
+  "task_id": "13911",
+  "occupation": "Signal and Track Switch Repairers",
+  "task_text": "Replace defective wiring, broken lenses, or burned-out light bulbs."
+ },
+ {
+  "task_id": "13913",
+  "occupation": "Signal and Track Switch Repairers",
+  "task_text": "Inspect, maintain, and replace batteries as needed."
+ },
+ {
+  "task_id": "13912",
+  "occupation": "Signal and Track Switch Repairers",
+  "task_text": "Record and report information about mileage or track inspected, repairs performed, and equipment requiring replacement."
+ },
+ {
+  "task_id": "13914",
+  "occupation": "Signal and Track Switch Repairers",
+  "task_text": "Lubricate moving parts on gate-crossing mechanisms and swinging signals."
+ },
+ {
+  "task_id": "13915",
+  "occupation": "Signal and Track Switch Repairers",
+  "task_text": "Clean lenses of lamps with cloths and solvents."
+ },
+ {
+  "task_id": "3083",
+  "occupation": "Helpers--Installation, Maintenance, and Repair Workers",
+  "task_text": "Install or replace machinery, equipment, and new or replacement parts and instruments, using hand or power tools."
+ },
+ {
+  "task_id": "3081",
+  "occupation": "Helpers--Installation, Maintenance, and Repair Workers",
+  "task_text": "Examine and test machinery, equipment, components, and parts for defects to ensure proper functioning."
+ },
+ {
+  "task_id": "3080",
+  "occupation": "Helpers--Installation, Maintenance, and Repair Workers",
+  "task_text": "Tend and observe equipment and machinery to verify efficient and safe operation."
+ },
+ {
+  "task_id": "3082",
+  "occupation": "Helpers--Installation, Maintenance, and Repair Workers",
+  "task_text": "Adjust, connect, or disconnect wiring, piping, tubing, and other parts, using hand or power tools."
+ },
+ {
+  "task_id": "3084",
+  "occupation": "Helpers--Installation, Maintenance, and Repair Workers",
+  "task_text": "Clean or lubricate vehicles, machinery, equipment, instruments, tools, work areas, and other objects, using hand tools, power tools, and cleaning equipment."
+ },
+ {
+  "task_id": "3091",
+  "occupation": "Helpers--Installation, Maintenance, and Repair Workers",
+  "task_text": "Hold or supply tools, parts, equipment, and supplies for other workers."
+ },
+ {
+  "task_id": "20152",
+  "occupation": "Helpers--Installation, Maintenance, and Repair Workers",
+  "task_text": "Diagnose electrical problems and install and rewire electrical components."
+ },
+ {
+  "task_id": "3087",
+  "occupation": "Helpers--Installation, Maintenance, and Repair Workers",
+  "task_text": "Disassemble broken or defective equipment to facilitate repair and reassemble equipment when repairs are complete."
+ }
+]

@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "11791",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Make adjustments to meter components, such as setscrews or timing mechanisms, so that they conform to specifications."
+ },
+ {
+  "task_id": "11800",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Repair leaks in valve seats or bellows of automotive heater thermostats, using soft solder, flux, and acetylene torches."
+ },
+ {
+  "task_id": "11810",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Splice and connect cables from meters or current transformers to pull boxes or switchboards, using hand tools."
+ },
+ {
+  "task_id": "11789",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Advise customers on proper installation of valves or regulators and related equipment."
+ },
+ {
+  "task_id": "11811",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Clean plant growth, scale, paint, soil, or rust from meter housings, using wire brushes, scrapers, buffers, sandblasters, or cleaning compounds."
+ },
+ {
+  "task_id": "11790",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Connect hoses from provers to meter inlets and outlets, and raise prover bells until prover gauges register zero."
+ },
+ {
+  "task_id": "23552",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Test electrical circuits or components for continuity, using electrical test equipment."
+ },
+ {
+  "task_id": "23557",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Comply with all applicable standards, policies, or procedures, such as safety procedures or the maintenance of a clean work area."
+ },
+ {
+  "task_id": "23558",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Study blueprints, design specifications, or manufacturers' recommendations to ascertain the configuration of heating or cooling equipment components and to ensure the proper installation of components."
+ },
+ {
+  "task_id": "23554",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Discuss heating or cooling system malfunctions with users to isolate problems or to verify that repairs corrected malfunctions."
+ },
+ {
+  "task_id": "23555",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Connect heating or air conditioning equipment to fuel, water, or refrigerant source to form complete circuit."
+ },
+ {
+  "task_id": "23565",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Adjust system controls to settings recommended by manufacturer to balance system."
+ },
+ {
+  "task_id": "23568",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Recommend, develop, or perform preventive or general maintenance procedures, such as cleaning, power-washing, or vacuuming equipment, oiling parts, or changing filters."
+ },
+ {
+  "task_id": "23562",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Inspect and test systems to verify system compliance with plans and specifications or to detect and locate malfunctions."
+ },
+ {
+  "task_id": "23553",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Repair or replace defective equipment, components, or wiring."
+ },
+ {
+  "task_id": "23579",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Install or repair self-contained ground source heat pumps or hybrid ground or air source heat pumps to minimize carbon-based energy consumption and reduce carbon emissions."
+ },
+ {
+  "task_id": "23556",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Install, connect, or adjust thermostats, humidistats, or timers."
+ },
+ {
+  "task_id": "23559",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Install auxiliary components to heating or cooling equipment, such as expansion or discharge valves, air ducts, pipes, blowers, dampers, flues, or stokers."
+ },
+ {
+  "task_id": "23560",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Braze or solder parts to repair defective joints and leaks."
+ },
+ {
+  "task_id": "23561",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Lay out and connect electrical wiring between controls and equipment, according to wiring diagrams, using electrician's hand tools."
+ },
+ {
+  "task_id": "23564",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Perform mechanical overhauls and refrigerant reclaiming."
+ },
+ {
+  "task_id": "23566",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Install expansion and control valves, using acetylene torches and wrenches."
+ },
+ {
+  "task_id": "23571",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Measure, cut, thread, or bend pipe or tubing, using pipe fitter's tools."
+ },
+ {
+  "task_id": "23570",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Mount compressor, condenser, and other components in specified locations on frames, using hand tools and acetylene welding equipment."
+ },
+ {
+  "task_id": "23567",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Install dehumidifiers or related equipment for spaces that require cool, dry air to operate efficiently, such as computer rooms."
+ },
+ {
+  "task_id": "23563",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Record and report time, materials, faults, deficiencies, or other unusual occurrences on work orders."
+ },
+ {
+  "task_id": "23572",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Keep records of repairs and replacements made and causes of malfunctions."
+ },
+ {
+  "task_id": "23569",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Cut or drill holes in floors, walls, or roof to install equipment, using power saws or drills."
+ },
+ {
+  "task_id": "23574",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Estimate, order, pick up, deliver, and install materials and supplies needed to maintain equipment in good working condition."
+ },
+ {
+  "task_id": "23575",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Schedule work with customers and initiate work orders, house requisitions, and orders from stock."
+ },
+ {
+  "task_id": "23576",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Supervise and instruct assistants."
+ },
+ {
+  "task_id": "23577",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Lay out reference points for installation of structural and functional components, using measuring instruments."
+ },
+ {
+  "task_id": "23578",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Lift and align components into position, using hoist or block and tackle."
+ },
+ {
+  "task_id": "23573",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Install or repair air purification systems, such as specialized filters or ultraviolet (UV) light purification systems."
+ },
+ {
+  "task_id": "23580",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Repair or service heating, ventilating, and air conditioning (HVAC) systems to improve efficiency, such as by changing filters, cleaning ducts, and refilling non-toxic refrigerants."
+ },
+ {
+  "task_id": "23581",
+  "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+  "task_text": "Test pipes, lines, components, and connections for leaks."
+ },
+ {
+  "task_id": "13789",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Bill customers for repair work, and collect payment."
+ },
+ {
+  "task_id": "13799",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Observe and examine appliances during operation to detect specific malfunctions such as loose parts or leaking fluid."
+ },
+ {
+  "task_id": "13793",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Talk to customers or refer to work orders to establish the nature of appliance malfunctions."
+ },
+ {
+  "task_id": "13801",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Refer to schematic drawings, product manuals, and troubleshooting guides to diagnose and repair problems."
+ },
+ {
+  "task_id": "13790",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Trace electrical circuits, following diagrams, and conduct tests with circuit testers and other equipment to locate shorts and grounds."
+ },
+ {
+  "task_id": "13792",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Replace worn and defective parts such as switches, bearings, transmissions, belts, gears, circuit boards, or defective wiring."
+ },
+ {
+  "task_id": "13796",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Provide repair cost estimates, and recommend whether appliance repair or replacement is a better choice."
+ },
+ {
+  "task_id": "13788",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Disassemble appliances so that problems can be diagnosed and repairs can be made."
+ },
+ {
+  "task_id": "13810",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Respond to emergency calls for problems such as gas leaks."
+ },
+ {
+  "task_id": "13791",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Service and repair domestic electrical or gas appliances, such as clothes washers, refrigerators, stoves, and dryers."
+ },
+ {
+  "task_id": "13794",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Reassemble units after repairs are made, making adjustments and cleaning and lubricating parts as needed."
+ },
+ {
+  "task_id": "13795",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Record maintenance and repair work performed on appliances."
+ },
+ {
+  "task_id": "13814",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Test and examine gas pipelines and equipment to locate leaks and faulty connections, and to determine the pressure and flow of gas."
+ },
+ {
+  "task_id": "13813",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Light and adjust pilot lights on gas stoves, and examine valves and burners for gas leakage and specified flame."
+ },
+ {
+  "task_id": "13802",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Instruct customers regarding operation and care of appliances, and provide information such as emergency service numbers."
+ },
+ {
+  "task_id": "13812",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Contact supervisors or offices to receive repair assignments."
+ },
+ {
+  "task_id": "13797",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Maintain stocks of parts used in on-site installation, maintenance, and repair of appliances."
+ },
+ {
+  "task_id": "13806",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Level refrigerators, adjust doors, and connect water lines to water pipes for ice makers and water dispensers, using hand tools."
+ },
+ {
+  "task_id": "13800",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Observe and test operation of appliances following installation, and make any initial installation adjustments that are necessary."
+ },
+ {
+  "task_id": "13807",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Set appliance thermostats, and check to ensure that they are functioning properly."
+ },
+ {
+  "task_id": "13811",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Install appliances such as refrigerators, washing machines, and stoves."
+ },
+ {
+  "task_id": "13808",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Level washing machines and connect hoses to water pipes, using hand tools."
+ },
+ {
+  "task_id": "13798",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Clean and reinstall parts."
+ },
+ {
+  "task_id": "13804",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Clean, lubricate, and touch up minor defects on newly installed or repaired appliances."
+ },
+ {
+  "task_id": "13805",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Conserve, recover, and recycle refrigerants used in cooling systems."
+ },
+ {
+  "task_id": "13809",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Install gas pipes and water lines to connect appliances to existing gas lines or plumbing."
+ },
+ {
+  "task_id": "13816",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Take measurements to determine if appliances will fit in installation locations, performing minor carpentry work when necessary to ensure proper installation."
+ },
+ {
+  "task_id": "13815",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Measure, cut, and thread pipe, and connect it to feeder lines and equipment or appliances, using rules and hand tools."
+ },
+ {
+  "task_id": "13803",
+  "occupation": "Home Appliance Repairers",
+  "task_text": "Assemble new or reconditioned appliances."
+ },
+ {
+  "task_id": "11815",
+  "occupation": "Industrial Machinery Mechanics",
+  "task_text": "Repair or maintain the operating condition of industrial production or processing machinery or equipment."
+ },
+ {
+  "task_id": "11814",
+  "occupation": "Industrial Machinery Mechanics",
+  "task_text": "Repair or replace broken or malfunctioning components of machinery or equipment."
+ },
+ {
+  "task_id": "11820",
+  "occupation": "Industrial Machinery Mechanics",
+  "task_text": "Clean, lubricate, or adjust parts, equipment, or machinery."
+ },
+ {
+  "task_id": "11813",
+  "occupation": "Industrial Machinery Mechanics",
+  "task_text": "Disassemble machinery or equipment to remove parts and make repairs."
+ },
+ {
+  "task_id": "11817",
+  "occupation": "Industrial Machinery Mechanics",
+  "task_text": "Reassemble equipment after completion of inspections, testing, or repairs."
+ },
+ {
+  "task_id": "11816",
+  "occupation": "Industrial Machinery Mechanics",
+  "task_text": "Examine parts for defects, such as breakage or excessive wear."
+ },
+ {
+  "task_id": "11822",
+  "occupation": "Industrial Machinery Mechanics",
+  "task_text": "Record repairs and maintenance performed."
+ },
+ {
+  "task_id": "11819",
+  "occupation": "Industrial Machinery Mechanics",
+  "task_text": "Operate newly repaired machinery or equipment to verify the adequacy of repairs."
+ },
+ {
+  "task_id": "11824",
+  "occupation": "Industrial Machinery Mechanics",
+  "task_text": "Record parts or materials used and order or requisition new parts or materials, as necessary."
+ },
+ {
+  "task_id": "11818",
+  "occupation": "Industrial Machinery Mechanics",
+  "task_text": "Observe and test the operation of machinery or equipment to diagnose malfunctions, using voltmeters or other testing devices."
+ },
+ {
+  "task_id": "11821",
+  "occupation": "Industrial Machinery Mechanics",
+  "task_text": "Analyze test results, machine error messages, or information obtained from operators to diagnose equipment problems."
+ },
+ {
+  "task_id": "11823",
+  "occupation": "Industrial Machinery Mechanics",
+  "task_text": "Study blueprints or manufacturers' manuals to determine correct installation or operation of machinery."
+ },
+ {
+  "task_id": "11825",
+  "occupation": "Industrial Machinery Mechanics",
+  "task_text": "Cut and weld metal to repair broken metal parts, fabricate new parts, or assemble new equipment."
+ },
+ {
+  "task_id": "11827",
+  "occupation": "Industrial Machinery Mechanics",
+  "task_text": "Enter codes and instructions to program computer-controlled machinery."
+ },
+ {
+  "task_id": "11826",
+  "occupation": "Industrial Machinery Mechanics",
+  "task_text": "Demonstrate equipment functions and features to machine operators."
+ },
+ {
+  "task_id": "23935",
+  "occupation": "Industrial Machinery Mechanics",
+  "task_text": "Assign schedules to work crews."
+ },
+ {
+  "task_id": "11833",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Dismantle machines and remove parts for repair, using hand tools, chain falls, jacks, cranes, or hoists."
+ },
+ {
+  "task_id": "11828",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Reassemble machines after the completion of repair or maintenance work."
+ },
+ {
+  "task_id": "11834",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Record production, repair, and machine maintenance information."
+ },
+ {
+  "task_id": "11831",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Lubricate or apply adhesives or other materials to machines, machine parts, or other equipment according to specified procedures."
+ },
+ {
+  "task_id": "11832",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Install, replace, or change machine parts and attachments, according to production specifications."
+ },
+ {
+  "task_id": "11836",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Set up and operate machines, and adjust controls to regulate operations."
+ },
+ {
+  "task_id": "11837",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Collaborate with other workers to repair or move machines, machine parts, or equipment."
+ },
+ {
+  "task_id": "11835",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Read work orders and specifications to determine machines and equipment requiring repair or maintenance."
+ },
+ {
+  "task_id": "11830",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Inspect or test damaged machine parts, and mark defective areas or advise supervisors of repair needs."
+ },
+ {
+  "task_id": "11829",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Start machines and observe mechanical operation to determine efficiency and to detect problems."
+ },
+ {
+  "task_id": "11839",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Transport machine parts, tools, equipment, and other material between work areas and storage, using cranes, hoists, or dollies."
+ },
+ {
+  "task_id": "11840",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Collect and discard worn machine parts and other refuse to maintain machinery and work areas."
+ },
+ {
+  "task_id": "11838",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Inventory and requisition machine parts, equipment, and other supplies so that stock can be maintained and replenished."
+ },
+ {
+  "task_id": "11843",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Remove hardened material from machines or machine parts, using abrasives, power and hand tools, jackhammers, sledgehammers, or other equipment."
+ },
+ {
+  "task_id": "11845",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Replace, empty, or replenish machine and equipment containers such as gas tanks or boxes."
+ },
+ {
+  "task_id": "11841",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Clean machines and machine parts, using cleaning solvents, cloths, air guns, hoses, vacuums, or other equipment."
+ },
+ {
+  "task_id": "11842",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Replace or repair metal, wood, leather, glass, or other lining in machines, or in equipment compartments or containers."
+ },
+ {
+  "task_id": "11844",
+  "occupation": "Maintenance Workers, Machinery",
+  "task_text": "Measure, mix, prepare, and test chemical solutions used to clean or repair machinery and equipment."
+ },
+ {
+  "task_id": "3041",
+  "occupation": "Millwrights",
+  "task_text": "Replace defective parts of machine, or adjust clearances and alignment of moving parts."
+ },
+ {
+  "task_id": "21083",
+  "occupation": "Millwrights",
+  "task_text": "Align machines or equipment, using hoists, jacks, hand tools, squares, rules, micrometers, lasers, or plumb bobs."
+ },
+ {
+  "task_id": "3048",
+  "occupation": "Millwrights",
+  "task_text": "Insert shims, adjust tension on nuts and bolts, or position parts, using hand tools and measuring instruments, to set specified clearances between moving and stationary parts."
+ },
+ {
+  "task_id": "3047",
+  "occupation": "Millwrights",
+  "task_text": "Signal crane operator to lower basic assembly units to bedplate, and align unit to centerline."
+ },
+ {
+  "task_id": "18785",
+  "occupation": "Millwrights",
+  "task_text": "Conduct preventative maintenance and repair, and lubricate machines and equipment."
+ },
+ {
+  "task_id": "3045",
+  "occupation": "Millwrights",
+  "task_text": "Assemble and install equipment, using hand tools and power tools."
+ },
+ {
+  "task_id": "3051",
+  "occupation": "Millwrights",
+  "task_text": "Assemble machines, and bolt, weld, rivet, or otherwise fasten them to foundation or other structures, using hand tools and power tools."
+ },
+ {
+  "task_id": "3049",
+  "occupation": "Millwrights",
+  "task_text": "Move machinery and equipment, using hoists, dollies, rollers, and trucks."
+ },
+ {
+  "task_id": "3054",
+  "occupation": "Millwrights",
+  "task_text": "Level bedplate and establish centerline, using straightedge, levels, and transit."
+ },
+ {
+  "task_id": "3055",
+  "occupation": "Millwrights",
+  "task_text": "Dismantle machines, using hammers, wrenches, crowbars, and other hand tools."
+ },
+ {
+  "task_id": "3053",
+  "occupation": "Millwrights",
+  "task_text": "Bolt parts, such as side and deck plates, jaw plates, and journals, to basic assembly unit."
+ },
+ {
+  "task_id": "3052",
+  "occupation": "Millwrights",
+  "task_text": "Lay out mounting holes, using measuring instruments, and drill holes with power drill."
+ },
+ {
+  "task_id": "3050",
+  "occupation": "Millwrights",
+  "task_text": "Attach moving parts and subassemblies to basic assembly unit, using hand tools and power tools."
+ },
+ {
+  "task_id": "18786",
+  "occupation": "Millwrights",
+  "task_text": "Weld, repair, and fabricate equipment or machinery."
+ },
+ {
+  "task_id": "3056",
+  "occupation": "Millwrights",
+  "task_text": "Shrink-fit bushings, sleeves, rings, liners, gears, and wheels to specified items, using portable gas heating equipment."
+ },
+ {
+  "task_id": "18788",
+  "occupation": "Millwrights",
+  "task_text": "Troubleshoot equipment, electrical components, hydraulics, or other mechanical systems."
+ },
+ {
+  "task_id": "3057",
+  "occupation": "Millwrights",
+  "task_text": "Dismantle machinery and equipment for shipment to installation site, performing installation and maintenance work as part of team."
+ },
+ {
+  "task_id": "3043",
+  "occupation": "Millwrights",
+  "task_text": "Connect power unit to machines or steam piping to equipment, and test unit to evaluate its mechanical operation."
+ },
+ {
+  "task_id": "3046",
+  "occupation": "Millwrights",
+  "task_text": "Position steel beams to support bedplates of machines and equipment, using blueprints and schematic drawings to determine work procedures."
+ },
+ {
+  "task_id": "18787",
+  "occupation": "Millwrights",
+  "task_text": "Fabricate and dismantle parts, equipment, and machines, using a cutting torch or other cutting equipment."
+ },
+ {
+  "task_id": "3058",
+  "occupation": "Millwrights",
+  "task_text": "Construct foundation for machines, using hand tools and building materials such as wood, cement, and steel."
+ },
+ {
+  "task_id": "3060",
+  "occupation": "Millwrights",
+  "task_text": "Operate engine lathe to grind, file, and turn machine parts to dimensional specifications."
+ },
+ {
+  "task_id": "3059",
+  "occupation": "Millwrights",
+  "task_text": "Install robot and modify its program, using teach pendant."
+ },
+ {
+  "task_id": "13819",
+  "occupation": "Refractory Materials Repairers, Except Brickmasons",
+  "task_text": "Reline or repair ladles and pouring spouts with refractory clay, using trowels."
+ },
+ {
+  "task_id": "13820",
+  "occupation": "Refractory Materials Repairers, Except Brickmasons",
+  "task_text": "Chip slag from linings of ladles or remove linings when beyond repair, using hammers and chisels."
+ },
+ {
+  "task_id": "13821",
+  "occupation": "Refractory Materials Repairers, Except Brickmasons",
+  "task_text": "Mix specified amounts of sand, clay, mortar powder, and water to form refractory clay or mortar, using shovels or mixing machines."
+ },
+ {
+  "task_id": "13822",
+  "occupation": "Refractory Materials Repairers, Except Brickmasons",
+  "task_text": "Measure furnace walls to determine dimensions and cut required number of sheets from plastic block, using saws."
+ },
+ {
+  "task_id": "13824",
+  "occupation": "Refractory Materials Repairers, Except Brickmasons",
+  "task_text": "Dry and bake new linings by placing inverted linings over burners, building fires in ladles, or by using blowtorches."
+ },
+ {
+  "task_id": "13825",
+  "occupation": "Refractory Materials Repairers, Except Brickmasons",
+  "task_text": "Remove worn or damaged plastic block refractory linings of furnaces, using hand tools."
+ },
+ {
+  "task_id": "13827",
+  "occupation": "Refractory Materials Repairers, Except Brickmasons",
+  "task_text": "Climb scaffolding, carrying hoses, and spray surfaces of cupolas with refractory mixtures, using spray equipment."
+ },
+ {
+  "task_id": "13829",
+  "occupation": "Refractory Materials Repairers, Except Brickmasons",
+  "task_text": "Spread mortar on stopper heads and rods, using trowels, and slide brick sleeves over rods to form refractory jackets."
+ }
+]

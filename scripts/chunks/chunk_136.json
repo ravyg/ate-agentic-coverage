@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "12612",
+  "occupation": "Adhesive Bonding Machine Operators and Tenders",
+  "task_text": "Measure and mix ingredients to prepare glue."
+ },
+ {
+  "task_id": "14368",
+  "occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+  "task_text": "Add specified amounts of chemicals to equipment at required times to maintain solution levels and concentrations."
+ },
+ {
+  "task_id": "14372",
+  "occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+  "task_text": "Observe machine operations, gauges, or thermometers, and adjust controls to maintain specified conditions."
+ },
+ {
+  "task_id": "14373",
+  "occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+  "task_text": "Set controls to regulate temperature and length of cycles, and start conveyors, pumps, agitators, and machines."
+ },
+ {
+  "task_id": "14369",
+  "occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+  "task_text": "Drain, clean, and refill machines or tanks at designated intervals, using cleaning solutions or water."
+ },
+ {
+  "task_id": "14367",
+  "occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+  "task_text": "Operate or tend machines to wash and remove impurities from items such as barrels or kegs, glass products, tin plate surfaces, dried fruit, pulp, animal stock, coal, manufactured articles, plastic, or rubber."
+ },
+ {
+  "task_id": "14375",
+  "occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+  "task_text": "Record gauge readings, materials used, processing times, or test results in production logs."
+ },
+ {
+  "task_id": "14374",
+  "occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+  "task_text": "Examine and inspect machines to detect malfunctions."
+ },
+ {
+  "task_id": "14370",
+  "occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+  "task_text": "Measure, weigh, or mix cleaning solutions, using measuring tanks, calibrated rods or suction tubes."
+ },
+ {
+  "task_id": "14371",
+  "occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+  "task_text": "Draw samples for laboratory analysis, or test solutions for conformance to specifications, such as acidity or specific gravity."
+ },
+ {
+  "task_id": "14376",
+  "occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+  "task_text": "Adjust, clean, and lubricate mechanical parts of machines, using hand tools and grease guns."
+ },
+ {
+  "task_id": "14377",
+  "occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+  "task_text": "Load machines with objects to be processed and unload them after cleaning, placing them on conveyors or racks."
+ },
+ {
+  "task_id": "8544",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Record temperatures, amounts of materials processed, or test results on report forms."
+ },
+ {
+  "task_id": "8543",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Monitor pressure gauges, ammeters, flowmeters, thermometers, or products, and adjust controls to maintain specified conditions, such as feed rate, product consistency, temperature, air pressure, and machine speed."
+ },
+ {
+  "task_id": "8545",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Read dials and gauges on panel control boards to ascertain temperatures, alkalinities, and densities of mixtures, and turn valves to obtain specified mixtures."
+ },
+ {
+  "task_id": "8547",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Start machinery, such as pumps, feeders, or conveyors, and turn valves to heat, admit, or transfer products, refrigerants, or mixes."
+ },
+ {
+  "task_id": "8546",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Correct machinery malfunctions by performing actions such as removing jams, and inform supervisors of malfunctions as necessary."
+ },
+ {
+  "task_id": "8548",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Assemble equipment, and attach pipes, fittings, or valves, using hand tools."
+ },
+ {
+  "task_id": "8553",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Measure or weigh specified amounts of ingredients or materials, and load them into tanks, vats, hoppers, or other equipment."
+ },
+ {
+  "task_id": "8542",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Adjust machine or freezer speed and air intake to obtain desired consistency and amount of product."
+ },
+ {
+  "task_id": "8550",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Weigh packages and adjust freezer air valves or switches on filler heads to obtain specified amounts of product in each container."
+ },
+ {
+  "task_id": "8557",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Inspect and flush lines with solutions or steam, and spray equipment with sterilizing solutions."
+ },
+ {
+  "task_id": "8554",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Load and position wrapping paper, sticks, bags, or cartons into dispensing machines."
+ },
+ {
+  "task_id": "8559",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Sample and test product characteristics such as specific gravity, acidity, and sugar content, using hydrometers, pH meters, or refractometers."
+ },
+ {
+  "task_id": "8552",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Start agitators to blend contents, or start beater, scraper, and expeller blades to mix contents with air and prevent sticking."
+ },
+ {
+  "task_id": "8555",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Insert forming fixtures, and start machines that cut frozen products into measured portions or specified shapes."
+ },
+ {
+  "task_id": "8556",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Place or position containers into equipment, and remove containers after completion of cooling or freezing processes."
+ },
+ {
+  "task_id": "8549",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Scrape, dislodge, or break excess frost, ice, or frozen product from equipment to prevent accumulation, using hands and hand tools."
+ },
+ {
+  "task_id": "8560",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Activate mechanical rakes to regulate flow of ice from storage bins to vats."
+ },
+ {
+  "task_id": "8551",
+  "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+  "task_text": "Stir material with spoons or paddles to mix ingredients or allow even cooling and prevent coagulation."
+ },
+ {
+  "task_id": "14395",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Inspect etched work for depth of etching, uniformity, and defects, using calibrated microscopes, gauges, fingers, or magnifying lenses."
+ },
+ {
+  "task_id": "14386",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Examine sketches, diagrams, samples, blueprints, or photographs to decide how designs are to be etched, cut, or engraved onto workpieces."
+ },
+ {
+  "task_id": "14385",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Clean and polish engraved areas."
+ },
+ {
+  "task_id": "14396",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Prepare workpieces for etching or engraving by cutting, sanding, cleaning, polishing, or treating them with wax, acid resist, lime, etching powder, or light-sensitive enamel."
+ },
+ {
+  "task_id": "14379",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Engrave and print patterns, designs, etchings, trademarks, or lettering onto flat or curved surfaces of a wide variety of metal, glass, plastic, or paper items, using hand tools or hand-held power tools."
+ },
+ {
+  "task_id": "14388",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Prepare etching chemicals according to formulas, diluting acid with water to obtain solutions of specified concentration."
+ },
+ {
+  "task_id": "21027",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Use computer software to design patterns for engraving."
+ },
+ {
+  "task_id": "14409",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Expose workpieces to acid to develop etch patterns such as designs, lettering, or figures."
+ },
+ {
+  "task_id": "14378",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Adjust depths and sizes of cuts by adjusting heights of worktables, or by adjusting machine-arm gauges."
+ },
+ {
+  "task_id": "14383",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Measure and compute dimensions of lettering, designs, or patterns to be engraved."
+ },
+ {
+  "task_id": "14394",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Neutralize workpieces to remove acid, wax, or enamel, using water, solvents, brushes, or specialized machines."
+ },
+ {
+  "task_id": "14382",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Examine engraving for quality of cut, burrs, rough spots, and irregular or incomplete engraving."
+ },
+ {
+  "task_id": "14399",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Transfer image to workpiece, using contact printer, pantograph stylus, silkscreen printing device, or stamp pad."
+ },
+ {
+  "task_id": "14392",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Set reduction scales to attain specified sizes of reproduction on workpieces, and set pantograph controls for required heights, depths, and widths of cuts."
+ },
+ {
+  "task_id": "14398",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Print proofs or examine designs to verify accuracy of engraving, and rework engraving as required."
+ },
+ {
+  "task_id": "14380",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Position and clamp workpieces, plates, or rollers in holding fixtures."
+ },
+ {
+  "task_id": "14404",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Remove wax or tape from etched glassware by using a stylus or knife, or by immersing ware in hot water."
+ },
+ {
+  "task_id": "14401",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Guide stylus over template, causing cutting tool to duplicate design or letters on workpiece."
+ },
+ {
+  "task_id": "14384",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Start machines and lower cutting tools to beginning points on patterns."
+ },
+ {
+  "task_id": "14381",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Determine machine settings, and move bars or levers to reproduce designs on rollers or plates."
+ },
+ {
+  "task_id": "14402",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Remove completed workpieces and place them in trays."
+ },
+ {
+  "task_id": "14397",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Insert cutting tools or bits into machines and secure them with wrenches."
+ },
+ {
+  "task_id": "14391",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Sandblast exposed areas of glass to cut designs in surfaces, using spray guns."
+ },
+ {
+  "task_id": "14400",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Sketch, trace, or scribe layout lines and designs on workpieces, plates, dies, or rollers, using compasses, scribers, gravers, or pencils."
+ },
+ {
+  "task_id": "14407",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Fill etched characters with opaque paste to improve readability."
+ },
+ {
+  "task_id": "14408",
+  "occupation": "Etchers and Engravers",
+  "task_text": "Brush or wipe acid over engraving to darken or highlight inscriptions."
+ },
+ {
+  "task_id": "23666",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Read work orders or examine parts to determine parts or sections of products to be produced."
+ },
+ {
+  "task_id": "23667",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Trim or remove excess material, using scrapers, knives, or band saws."
+ },
+ {
+  "task_id": "23668",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Brush or spray mold surfaces with parting agents or insert paper into molds to ensure smoothness and prevent sticking or seepage."
+ },
+ {
+  "task_id": "23669",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Engrave or stamp identifying symbols, letters, or numbers on products."
+ },
+ {
+  "task_id": "23670",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Assemble, insert, and adjust wires, tubes, cores, fittings, rods, or patterns into molds, using hand tools and depth gauges."
+ },
+ {
+  "task_id": "23671",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Clean, finish, and lubricate molds and mold parts."
+ },
+ {
+  "task_id": "23672",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Separate models or patterns from molds and examine products for accuracy."
+ },
+ {
+  "task_id": "23673",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Set the proper operating temperature for each casting."
+ },
+ {
+  "task_id": "23674",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Load or stack filled molds in ovens, dryers, or curing boxes, or on storage racks or carts."
+ },
+ {
+  "task_id": "23675",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Align and assemble parts to produce completed products, using gauges and hand tools."
+ },
+ {
+  "task_id": "23676",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Operate and adjust controls of heating equipment to melt material or to cure, dry, or bake filled molds."
+ },
+ {
+  "task_id": "23677",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Select sizes and types of molds according to instructions."
+ },
+ {
+  "task_id": "23678",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Patch broken edges or fractures, using clay or plaster."
+ },
+ {
+  "task_id": "23679",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Withdraw cores or other loose mold members after castings solidify."
+ },
+ {
+  "task_id": "23680",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Repair mold defects, such as cracks or broken edges, using patterns, mold boxes, or hand tools."
+ },
+ {
+  "task_id": "23681",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Measure and cut products to specified dimensions, using measuring and cutting instruments."
+ },
+ {
+  "task_id": "23682",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Smooth surfaces of molds, using scraping tools or sandpaper."
+ },
+ {
+  "task_id": "23683",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Measure ingredients and mix molding, casting material, or sealing compounds to prescribed consistencies, according to formulas."
+ },
+ {
+  "task_id": "23684",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Remove excess materials and level and smooth wet mold mixtures."
+ },
+ {
+  "task_id": "23687",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Verify dimensions of products, using measuring instruments, such as calipers, vernier gauges, or protractors."
+ },
+ {
+  "task_id": "23688",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Bore holes or cut grates, risers, or pouring spouts in molds, using power tools."
+ },
+ {
+  "task_id": "23690",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Tap or tilt molds to ensure uniform distribution of materials."
+ },
+ {
+  "task_id": "23691",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Construct or form molds for use in casting clay or plaster objects, using plaster, fiberglass, rubber, casting machines, patterns, or flasks."
+ },
+ {
+  "task_id": "23692",
+  "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+  "task_text": "Pour, pack, spread, or press plaster, concrete, or other materials into or around models or molds."
+ },
+ {
+  "task_id": "12615",
+  "occupation": "Stone Cutters and Carvers, Manufacturing",
+  "task_text": "Verify depths and dimensions of cuts or carvings to ensure adherence to specifications, blueprints, or models, using measuring instruments."
+ },
+ {
+  "task_id": "12621",
+  "occupation": "Stone Cutters and Carvers, Manufacturing",
+  "task_text": "Move fingers over surfaces of carvings to ensure smoothness of finish."
+ },
+ {
+  "task_id": "12619",
+  "occupation": "Stone Cutters and Carvers, Manufacturing",
+  "task_text": "Shape, trim, or touch up roughed-out designs with appropriate tools to finish carvings."
+ },
+ {
+  "task_id": "12616",
+  "occupation": "Stone Cutters and Carvers, Manufacturing",
+  "task_text": "Lay out designs or dimensions from sketches or blueprints on stone surfaces, freehand or by transferring them from tracing paper, using scribes or chalk and measuring instruments."
+ },
+ {
+  "task_id": "12624",
+  "occupation": "Stone Cutters and Carvers, Manufacturing",
+  "task_text": "Cut, shape, and finish rough blocks of building or monumental stone, according to diagrams or patterns."
+ },
+ {
+  "task_id": "12618",
+  "occupation": "Stone Cutters and Carvers, Manufacturing",
+  "task_text": "Drill holes and cut or carve moldings and grooves in stone, according to diagrams and patterns."
+ },
+ {
+  "task_id": "12620",
+  "occupation": "Stone Cutters and Carvers, Manufacturing",
+  "task_text": "Select chisels, pneumatic or surfacing tools, or sandblasting nozzles, and determine sequence of use."
+ },
+ {
+  "task_id": "12617",
+  "occupation": "Stone Cutters and Carvers, Manufacturing",
+  "task_text": "Study artistic objects or graphic materials, such as models, sketches, or blueprints, to plan carving or cutting techniques."
+ },
+ {
+  "task_id": "12614",
+  "occupation": "Stone Cutters and Carvers, Manufacturing",
+  "task_text": "Carve designs or figures in full or bas relief on stone, employing knowledge of stone carving techniques and sense of artistry to produce carvings consistent with designers' plans."
+ },
+ {
+  "task_id": "12622",
+  "occupation": "Stone Cutters and Carvers, Manufacturing",
+  "task_text": "Carve rough designs freehand or by chipping along marks on stone, using mallets and chisels or pneumatic tools."
+ },
+ {
+  "task_id": "12623",
+  "occupation": "Stone Cutters and Carvers, Manufacturing",
+  "task_text": "Guide nozzles over stone, following stencil outlines, or chip along marks to create designs or to work surfaces down to specified finishes."
+ },
+ {
+  "task_id": "12625",
+  "occupation": "Stone Cutters and Carvers, Manufacturing",
+  "task_text": "Smooth surfaces of carvings, using rubbing stones."
+ },
+ {
+  "task_id": "12628",
+  "occupation": "Stone Cutters and Carvers, Manufacturing",
+  "task_text": "Load sandblasting equipment with abrasives, attach nozzles to hoses, and turn valves to admit compressed air and activate jets."
+ },
+ {
+  "task_id": "12629",
+  "occupation": "Stone Cutters and Carvers, Manufacturing",
+  "task_text": "Dress stone surfaces, using bushhammers."
+ },
+ {
+  "task_id": "12626",
+  "occupation": "Stone Cutters and Carvers, Manufacturing",
+  "task_text": "Remove or add stencils during blasting to create differing cut depths, intricate designs, or rough, pitted finishes."
+ },
+ {
+  "task_id": "12627",
+  "occupation": "Stone Cutters and Carvers, Manufacturing",
+  "task_text": "Copy drawings on rough clay or plaster models."
+ },
+ {
+  "task_id": "12632",
+  "occupation": "Glass Blowers, Molders, Benders, and Finishers",
+  "task_text": "Heat glass to pliable stage, using gas flames or ovens and rotating glass to heat it uniformly."
+ },
+ {
+  "task_id": "12630",
+  "occupation": "Glass Blowers, Molders, Benders, and Finishers",
+  "task_text": "Inspect, weigh, and measure products to verify conformance to specifications, using instruments such as micrometers, calipers, magnifiers, or rulers."
+ },
+ {
+  "task_id": "12631",
+  "occupation": "Glass Blowers, Molders, Benders, and Finishers",
+  "task_text": "Record manufacturing information, such as quantities, sizes, or types of goods produced."
+ },
+ {
+  "task_id": "12646",
+  "occupation": "Glass Blowers, Molders, Benders, and Finishers",
+  "task_text": "Place glass into dies or molds of presses and control presses to form products, such as glassware components or optical blanks."
+ },
+ {
+  "task_id": "12644",
+  "occupation": "Glass Blowers, Molders, Benders, and Finishers",
+  "task_text": "Spray or swab molds with oil solutions to prevent adhesion of glass."
+ },
+ {
+  "task_id": "12633",
+  "occupation": "Glass Blowers, Molders, Benders, and Finishers",
+  "task_text": "Blow tubing into specified shapes to prevent glass from collapsing, using compressed air or own breath, or blow and rotate gathers in molds or on boards to obtain final shapes."
+ },
+ {
+  "task_id": "12638",
+  "occupation": "Glass Blowers, Molders, Benders, and Finishers",
+  "task_text": "Determine types and quantities of glass required to fabricate products."
+ },
+ {
+  "task_id": "12634",
+  "occupation": "Glass Blowers, Molders, Benders, and Finishers",
+  "task_text": "Set up and adjust machine press stroke lengths and pressures and regulate oven temperatures, according to glass types to be processed."
+ },
+ {
+  "task_id": "12635",
+  "occupation": "Glass Blowers, Molders, Benders, and Finishers",
+  "task_text": "Shape, bend, or join sections of glass, using paddles, pressing and flattening hand tools, or cork."
+ },
+ {
+  "task_id": "12647",
+  "occupation": "Glass Blowers, Molders, Benders, and Finishers",
+  "task_text": "Design and create glass objects, using blowpipes and artisans' hand tools and equipment."
+ },
+ {
+  "task_id": "12649",
+  "occupation": "Glass Blowers, Molders, Benders, and Finishers",
+  "task_text": "Operate and maintain finishing machines to grind, drill, sand, bevel, decorate, wash, or polish glass or glass products."
+ },
+ {
+  "task_id": "12648",
+  "occupation": "Glass Blowers, Molders, Benders, and Finishers",
+  "task_text": "Repair broken scrolls by replacing them with new sections of tubing."
+ },
+ {
+  "task_id": "12637",
+  "occupation": "Glass Blowers, Molders, Benders, and Finishers",
+  "task_text": "Develop sketches of glass products into blueprint specifications, applying knowledge of glass technology and glass blowing."
+ },
+ {
+  "task_id": "12640",
+  "occupation": "Glass Blowers, Molders, Benders, and Finishers",
+  "task_text": "Superimpose bent tubing on asbestos patterns to ensure accuracy."
+ },
+ {
+  "task_id": "12645",
+  "occupation": "Glass Blowers, Molders, Benders, and Finishers",
+  "task_text": "Cut lengths of tubing to specified sizes, using files or cutting wheels."
+ },
+ {
+  "task_id": "12639",
+  "occupation": "Glass Blowers, Molders, Benders, and Finishers",
+  "task_text": "Place rubber hoses on ends of tubing and charge tubing with gas."
+ },
+ {
+  "task_id": "21210",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Operate gas or electric kilns to fire pottery pieces."
+ },
+ {
+  "task_id": "21211",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Mix and apply glazes to pottery pieces, using tools, such as spray guns."
+ },
+ {
+  "task_id": "15118",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Raise and shape clay into wares, such as vases and pitchers, on revolving wheels, using hands, fingers, and thumbs."
+ },
+ {
+  "task_id": "15115",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Adjust wheel speeds according to the feel of the clay as pieces enlarge and walls become thinner."
+ },
+ {
+  "task_id": "15117",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Position balls of clay in centers of potters' wheels, and start motors or pump treadles with feet to revolve wheels."
+ },
+ {
+  "task_id": "15122",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Move pieces from wheels so that they can dry."
+ },
+ {
+  "task_id": "15119",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Prepare work for sale or exhibition, and maintain relationships with retail, pottery, art, and resource networks that can facilitate sale or exhibition of work."
+ },
+ {
+  "task_id": "21212",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Attach handles to pottery pieces."
+ },
+ {
+  "task_id": "15114",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Press thumbs into centers of revolving clay to form hollows, and press on the inside and outside of emerging clay cylinders with hands and fingers, gradually raising and shaping clay to desired forms and sizes."
+ },
+ {
+  "task_id": "21213",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Pack and ship pottery to stores or galleries for retail sale."
+ },
+ {
+  "task_id": "15120",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Smooth surfaces of finished pieces, using rubber scrapers and wet sponges."
+ },
+ {
+  "task_id": "15123",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Pull wires through bases of articles and wheels to separate finished pieces."
+ },
+ {
+  "task_id": "21214",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Design spaces to display pottery for sale."
+ },
+ {
+  "task_id": "15127",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Verify accuracy of shapes and sizes of objects, using calipers and templates."
+ },
+ {
+  "task_id": "15124",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Examine finished ware for defects and measure dimensions, using rule and thickness gauge."
+ },
+ {
+  "task_id": "15126",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Maintain supplies of tools, equipment, and materials, and order additional supplies as needed."
+ },
+ {
+  "task_id": "15131",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Operate pug mills to blend and extrude clay."
+ },
+ {
+  "task_id": "15125",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Perform test-fires of pottery to determine how to achieve specific colors and textures."
+ }
+]

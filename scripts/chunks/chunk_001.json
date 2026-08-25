@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "412",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Teach, train, supervise, or use the assistance of students, respiratory therapy technicians, or assistants."
+ },
+ {
+  "task_id": "413",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Use a variety of testing techniques to assist doctors in cardiac or pulmonary research or to diagnose disorders."
+ },
+ {
+  "task_id": "414",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Make emergency visits to resolve equipment problems."
+ },
+ {
+  "task_id": "415",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Conduct tests, such as electrocardiograms (EKGs), stress testing, or lung capacity tests, to evaluate patients' cardiopulmonary functions."
+ },
+ {
+  "task_id": "416",
+  "occupation": "Dental Hygienists",
+  "task_text": "Clean calcareous deposits, accretions, and stains from teeth and beneath margins of gums, using dental instruments."
+ },
+ {
+  "task_id": "417",
+  "occupation": "Dental Hygienists",
+  "task_text": "Feel and visually examine gums for sores and signs of disease."
+ },
+ {
+  "task_id": "418",
+  "occupation": "Dental Hygienists",
+  "task_text": "Chart conditions of decay and disease for diagnosis and treatment by dentist."
+ },
+ {
+  "task_id": "419",
+  "occupation": "Dental Hygienists",
+  "task_text": "Feel lymph nodes under patient's chin to detect swelling or tenderness that could indicate presence of oral cancer."
+ },
+ {
+  "task_id": "420",
+  "occupation": "Dental Hygienists",
+  "task_text": "Apply fluorides or other cavity preventing agents to arrest dental decay."
+ },
+ {
+  "task_id": "421",
+  "occupation": "Dental Hygienists",
+  "task_text": "Examine gums, using probes, to locate periodontal recessed gums and signs of gum disease."
+ },
+ {
+  "task_id": "422",
+  "occupation": "Dental Hygienists",
+  "task_text": "Expose and develop x-ray film."
+ },
+ {
+  "task_id": "424",
+  "occupation": "Dental Hygienists",
+  "task_text": "Remove excess cement from coronal surfaces of teeth."
+ },
+ {
+  "task_id": "425",
+  "occupation": "Dental Hygienists",
+  "task_text": "Make impressions for study casts."
+ },
+ {
+  "task_id": "427",
+  "occupation": "Dental Hygienists",
+  "task_text": "Administer local anesthetic agents."
+ },
+ {
+  "task_id": "428",
+  "occupation": "Dental Hygienists",
+  "task_text": "Conduct dental health clinics for community groups to augment services of dentist."
+ },
+ {
+  "task_id": "431",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Decide which images to include, looking for differences between healthy and pathological areas."
+ },
+ {
+  "task_id": "432",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Observe screen during scan to ensure that image produced is satisfactory for diagnostic purposes, making adjustments to equipment as required."
+ },
+ {
+  "task_id": "433",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Observe and care for patients throughout examinations to ensure their safety and comfort."
+ },
+ {
+  "task_id": "434",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Provide sonogram and oral or written summary of technical findings to physician for use in medical diagnosis."
+ },
+ {
+  "task_id": "435",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Operate ultrasound equipment to produce and record images of the motion, shape, and composition of blood, organs, tissues, or bodily masses, such as fluid accumulations."
+ },
+ {
+  "task_id": "436",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Select appropriate equipment settings and adjust patient positions to obtain the best sites and angles."
+ },
+ {
+  "task_id": "437",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Determine whether scope of exam should be extended, based on findings."
+ },
+ {
+  "task_id": "438",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Process and code film from procedures and complete appropriate documentation."
+ },
+ {
+  "task_id": "439",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Obtain and record accurate patient history, including prior test results or information from physical examinations."
+ },
+ {
+  "task_id": "440",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Prepare patient for exam by explaining procedure, transferring patient to ultrasound table, scrubbing skin and applying gel, and positioning patient properly."
+ },
+ {
+  "task_id": "441",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Record and store suitable images, using camera unit connected to the ultrasound equipment."
+ },
+ {
+  "task_id": "442",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Coordinate work with physicians or other healthcare team members, including providing assistance during invasive procedures."
+ },
+ {
+  "task_id": "443",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Maintain records that include patient information, sonographs and interpretations, files of correspondence, publications and regulations, or quality assurance records, such as pathology, biopsy, or po"
+ },
+ {
+  "task_id": "444",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Perform legal and ethical duties, including preparing safety or accident reports, obtaining written consent from patient to perform invasive procedures, or reporting symptoms of abuse or neglect."
+ },
+ {
+  "task_id": "445",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Supervise or train students or other medical sonographers."
+ },
+ {
+  "task_id": "446",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Maintain stock and supplies, preparing supplies for special examinations and ordering supplies when necessary."
+ },
+ {
+  "task_id": "447",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Clean, check, and maintain sonographic equipment, submitting maintenance requests or performing minor repairs as necessary."
+ },
+ {
+  "task_id": "448",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Perform clerical duties, such as scheduling exams or special procedures, keeping records, or archiving computerized images."
+ },
+ {
+  "task_id": "449",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Perform medical procedures, such as administering oxygen, inserting and removing airways, taking vital signs, or giving emergency treatment, such as first aid or cardiopulmonary resuscitation (CPR)."
+ },
+ {
+  "task_id": "450",
+  "occupation": "Diagnostic Medical Sonographers",
+  "task_text": "Load and unload film cassettes used to record images from procedures."
+ },
+ {
+  "task_id": "507",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Observe patients, charting and reporting changes in patients' conditions, such as adverse reactions to medication or treatment, and taking any necessary action."
+ },
+ {
+  "task_id": "508",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Administer prescribed medications or start intravenous fluids, noting times and amounts on patients' charts."
+ },
+ {
+  "task_id": "509",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Answer patients' calls and determine how to assist them."
+ },
+ {
+  "task_id": "510",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Measure and record patients' vital signs, such as height, weight, temperature, blood pressure, pulse, or respiration."
+ },
+ {
+  "task_id": "511",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Provide basic patient care or treatments, such as taking temperatures or blood pressures, dressing wounds, treating bedsores, giving enemas or douches, rubbing with alcohol, massaging, or performing c"
+ },
+ {
+  "task_id": "512",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Help patients with bathing, dressing, maintaining personal hygiene, moving in bed, or standing and walking."
+ },
+ {
+  "task_id": "513",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Supervise nurses' aides or assistants."
+ },
+ {
+  "task_id": "514",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Work as part of a healthcare team to assess patient needs, plan and modify care, and implement interventions."
+ },
+ {
+  "task_id": "515",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Record food and fluid intake and output."
+ },
+ {
+  "task_id": "516",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Evaluate nursing intervention outcomes, conferring with other healthcare team members as necessary."
+ },
+ {
+  "task_id": "517",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Assemble and use equipment, such as catheters, tracheotomy tubes, or oxygen suppliers."
+ },
+ {
+  "task_id": "518",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Collect samples, such as blood, urine, or sputum from patients, and perform routine laboratory tests on samples."
+ },
+ {
+  "task_id": "519",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Prepare patients for examinations, tests, or treatments and explain procedures."
+ },
+ {
+  "task_id": "520",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Prepare or examine food trays for conformance to prescribed diet."
+ },
+ {
+  "task_id": "521",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Apply compresses, ice bags, or hot water bottles."
+ },
+ {
+  "task_id": "522",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Clean rooms and make beds."
+ },
+ {
+  "task_id": "523",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Inventory and requisition supplies and instruments."
+ },
+ {
+  "task_id": "524",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Provide medical treatment or personal care to patients in private home settings, such as cooking, keeping rooms orderly, seeing that patients are comfortable and in good spirits, or instructing family"
+ },
+ {
+  "task_id": "525",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Sterilize equipment and supplies, using germicides, sterilizer, or autoclave."
+ },
+ {
+  "task_id": "527",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Wash and dress bodies of deceased persons."
+ },
+ {
+  "task_id": "528",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Make appointments, keep records, or perform other clerical duties in doctors' offices or clinics."
+ },
+ {
+  "task_id": "529",
+  "occupation": "Licensed Practical and Licensed Vocational Nurses",
+  "task_text": "Set up equipment and prepare medical treatment rooms."
+ },
+ {
+  "task_id": "550",
+  "occupation": "Dental Assistants",
+  "task_text": "Prepare patient, sterilize or disinfect instruments, set up instrument trays, prepare materials, or assist dentist during dental procedures."
+ },
+ {
+  "task_id": "551",
+  "occupation": "Dental Assistants",
+  "task_text": "Expose dental diagnostic x-rays."
+ },
+ {
+  "task_id": "552",
+  "occupation": "Dental Assistants",
+  "task_text": "Record treatment information in patient records."
+ },
+ {
+  "task_id": "553",
+  "occupation": "Dental Assistants",
+  "task_text": "Take and record medical and dental histories and vital signs of patients."
+ },
+ {
+  "task_id": "554",
+  "occupation": "Dental Assistants",
+  "task_text": "Provide postoperative instructions prescribed by dentist."
+ },
+ {
+  "task_id": "555",
+  "occupation": "Dental Assistants",
+  "task_text": "Assist dentist in management of medical or dental emergencies."
+ },
+ {
+  "task_id": "556",
+  "occupation": "Dental Assistants",
+  "task_text": "Pour, trim, and polish study casts."
+ },
+ {
+  "task_id": "557",
+  "occupation": "Dental Assistants",
+  "task_text": "Instruct patients in oral hygiene and plaque control programs."
+ },
+ {
+  "task_id": "558",
+  "occupation": "Dental Assistants",
+  "task_text": "Make preliminary impressions for study casts and occlusal registrations for mounting study casts."
+ },
+ {
+  "task_id": "559",
+  "occupation": "Dental Assistants",
+  "task_text": "Clean and polish removable appliances."
+ },
+ {
+  "task_id": "560",
+  "occupation": "Dental Assistants",
+  "task_text": "Clean teeth, using dental instruments."
+ },
+ {
+  "task_id": "561",
+  "occupation": "Dental Assistants",
+  "task_text": "Apply protective coating of fluoride to teeth."
+ },
+ {
+  "task_id": "562",
+  "occupation": "Dental Assistants",
+  "task_text": "Fabricate temporary restorations or custom impressions from preliminary impressions."
+ },
+ {
+  "task_id": "563",
+  "occupation": "Dental Assistants",
+  "task_text": "Schedule appointments, prepare bills and receive payment for dental services, complete insurance forms, and maintain records, manually or using computer."
+ },
+ {
+  "task_id": "657",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Provide customer service by greeting and assisting customers and responding to customer inquiries and complaints."
+ },
+ {
+  "task_id": "658",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Monitor sales activities to ensure that customers receive satisfactory service and quality goods."
+ },
+ {
+  "task_id": "659",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Assign employees to specific duties."
+ },
+ {
+  "task_id": "660",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Direct and supervise employees engaged in sales, inventory-taking, reconciling cash receipts, or in performing services for customers."
+ },
+ {
+  "task_id": "661",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Inventory stock and reorder when inventory drops to a specified level."
+ },
+ {
+  "task_id": "662",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Keep records of purchases, sales, and requisitions."
+ },
+ {
+  "task_id": "663",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Enforce safety, health, and security rules."
+ },
+ {
+  "task_id": "664",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Examine products purchased for resale or received for storage to assess the condition of each product or item."
+ },
+ {
+  "task_id": "665",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Hire, train, and evaluate personnel in sales or marketing establishments, promoting or firing workers when appropriate."
+ },
+ {
+  "task_id": "666",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Perform work activities of subordinates, such as cleaning and organizing shelves and displays and selling merchandise."
+ },
+ {
+  "task_id": "667",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Establish and implement policies, goals, objectives, and procedures for the department."
+ },
+ {
+  "task_id": "668",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Instruct staff on how to handle difficult and complicated sales."
+ },
+ {
+  "task_id": "669",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Formulate pricing policies for merchandise, according to profitability requirements."
+ },
+ {
+  "task_id": "670",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Estimate consumer demand and determine the types and amounts of goods to be sold."
+ },
+ {
+  "task_id": "671",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Examine merchandise to ensure that it is correctly priced and displayed and that it functions as advertised."
+ },
+ {
+  "task_id": "672",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Plan and prepare work schedules and keep records of employees' work schedules and time cards."
+ },
+ {
+  "task_id": "673",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Review inventory and sales records to prepare reports for management and budget departments."
+ },
+ {
+  "task_id": "674",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Plan and coordinate advertising campaigns and sales promotions and prepare merchandise displays and advertising copy."
+ },
+ {
+  "task_id": "675",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Confer with company officials to develop methods and procedures to increase sales, expand markets, and promote business."
+ },
+ {
+  "task_id": "676",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Establish credit policies and operating procedures."
+ },
+ {
+  "task_id": "677",
+  "occupation": "First-Line Supervisors of Retail Sales Workers",
+  "task_text": "Plan budgets and authorize payments and merchandise returns."
+ },
+ {
+  "task_id": "678",
+  "occupation": "Counter and Rental Clerks",
+  "task_text": "Compute charges for merchandise or services and receive payments."
+ },
+ {
+  "task_id": "679",
+  "occupation": "Counter and Rental Clerks",
+  "task_text": "Prepare merchandise for display or for purchase or rental."
+ },
+ {
+  "task_id": "680",
+  "occupation": "Counter and Rental Clerks",
+  "task_text": "Recommend and provide advice on a wide variety of products and services."
+ },
+ {
+  "task_id": "681",
+  "occupation": "Counter and Rental Clerks",
+  "task_text": "Answer telephones to provide information and receive orders."
+ },
+ {
+  "task_id": "682",
+  "occupation": "Counter and Rental Clerks",
+  "task_text": "Greet customers and discuss the type, quality, and quantity of merchandise sought for rental."
+ },
+ {
+  "task_id": "683",
+  "occupation": "Counter and Rental Clerks",
+  "task_text": "Keep records of transactions and of the number of customers entering an establishment."
+ },
+ {
+  "task_id": "684",
+  "occupation": "Counter and Rental Clerks",
+  "task_text": "Prepare rental forms, obtaining customer signature and other information, such as required licenses."
+ },
+ {
+  "task_id": "685",
+  "occupation": "Counter and Rental Clerks",
+  "task_text": "Receive, examine, and tag articles to be altered, cleaned, stored, or repaired."
+ },
+ {
+  "task_id": "686",
+  "occupation": "Counter and Rental Clerks",
+  "task_text": "Inspect and adjust rental items to meet needs of customer."
+ },
+ {
+  "task_id": "687",
+  "occupation": "Counter and Rental Clerks",
+  "task_text": "Explain rental fees, policies, and procedures."
+ },
+ {
+  "task_id": "688",
+  "occupation": "Counter and Rental Clerks",
+  "task_text": "Reserve items for requested times and keep records of items rented."
+ },
+ {
+  "task_id": "689",
+  "occupation": "Counter and Rental Clerks",
+  "task_text": "Receive orders for services, such as rentals, repairs, dry cleaning, and storage."
+ },
+ {
+  "task_id": "690",
+  "occupation": "Counter and Rental Clerks",
+  "task_text": "Rent items, arrange for provision of services to customers, and accept returns."
+ },
+ {
+  "task_id": "691",
+  "occupation": "Counter and Rental Clerks",
+  "task_text": "Provide information about rental items, such as availability, operation, or description."
+ },
+ {
+  "task_id": "692",
+  "occupation": "Counter and Rental Clerks",
+  "task_text": "Advise customers on use and care of merchandise."
+ },
+ {
+  "task_id": "693",
+  "occupation": "Counter and Rental Clerks",
+  "task_text": "Allocate equipment to participants in sporting events or recreational activities."
+ },
+ {
+  "task_id": "694",
+  "occupation": "Retail Salespersons",
+  "task_text": "Greet customers and ascertain what each customer wants or needs."
+ },
+ {
+  "task_id": "695",
+  "occupation": "Retail Salespersons",
+  "task_text": "Open and close cash registers, performing tasks such as counting money, separating charge slips, coupons, and vouchers, balancing cash drawers, and making deposits."
+ },
+ {
+  "task_id": "696",
+  "occupation": "Retail Salespersons",
+  "task_text": "Maintain knowledge of current sales and promotions, policies regarding payment and exchanges, and security practices."
+ },
+ {
+  "task_id": "697",
+  "occupation": "Retail Salespersons",
+  "task_text": "Compute sales prices, total purchases, and receive and process cash or credit payment."
+ },
+ {
+  "task_id": "698",
+  "occupation": "Retail Salespersons",
+  "task_text": "Maintain records related to sales."
+ },
+ {
+  "task_id": "699",
+  "occupation": "Retail Salespersons",
+  "task_text": "Watch for and recognize security risks and thefts and know how to prevent or handle these situations."
+ },
+ {
+  "task_id": "700",
+  "occupation": "Retail Salespersons",
+  "task_text": "Recommend, select, and help locate or obtain merchandise based on customer needs and desires."
+ },
+ {
+  "task_id": "701",
+  "occupation": "Retail Salespersons",
+  "task_text": "Answer questions regarding the store and its merchandise."
+ },
+ {
+  "task_id": "702",
+  "occupation": "Retail Salespersons",
+  "task_text": "Describe merchandise and explain use, operation, and care of merchandise to customers."
+ },
+ {
+  "task_id": "703",
+  "occupation": "Retail Salespersons",
+  "task_text": "Ticket, arrange, and display merchandise to promote sales."
+ },
+ {
+  "task_id": "704",
+  "occupation": "Retail Salespersons",
+  "task_text": "Prepare sales slips or sales contracts."
+ },
+ {
+  "task_id": "705",
+  "occupation": "Retail Salespersons",
+  "task_text": "Place special orders or call other stores to find desired items."
+ },
+ {
+  "task_id": "706",
+  "occupation": "Retail Salespersons",
+  "task_text": "Demonstrate use or operation of merchandise."
+ },
+ {
+  "task_id": "707",
+  "occupation": "Retail Salespersons",
+  "task_text": "Clean shelves, counters, and tables."
+ },
+ {
+  "task_id": "708",
+  "occupation": "Retail Salespersons",
+  "task_text": "Exchange merchandise for customers and accept returns."
+ },
+ {
+  "task_id": "709",
+  "occupation": "Retail Salespersons",
+  "task_text": "Bag or package purchases and wrap gifts."
+ },
+ {
+  "task_id": "710",
+  "occupation": "Retail Salespersons",
+  "task_text": "Help customers try on or fit merchandise."
+ },
+ {
+  "task_id": "711",
+  "occupation": "Retail Salespersons",
+  "task_text": "Inventory stock and requisition new stock."
+ },
+ {
+  "task_id": "712",
+  "occupation": "Retail Salespersons",
+  "task_text": "Prepare merchandise for purchase or rental."
+ },
+ {
+  "task_id": "713",
+  "occupation": "Retail Salespersons",
+  "task_text": "Sell or arrange for delivery, insurance, financing, or service contracts for merchandise."
+ },
+ {
+  "task_id": "714",
+  "occupation": "Retail Salespersons",
+  "task_text": "Estimate and quote trade-in allowances."
+ },
+ {
+  "task_id": "715",
+  "occupation": "Retail Salespersons",
+  "task_text": "Estimate cost of repair or alteration of merchandise."
+ }
+]

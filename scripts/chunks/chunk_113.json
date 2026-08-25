@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "4895",
+  "occupation": "Roof Bolters, Mining",
+  "task_text": "Rotate chucks to turn bolts and open expansion heads against rock formations."
+ },
+ {
+  "task_id": "4891",
+  "occupation": "Roof Bolters, Mining",
+  "task_text": "Remove drill bits from chucks after drilling holes, and insert bolts into chucks."
+ },
+ {
+  "task_id": "4897",
+  "occupation": "Roof Bolters, Mining",
+  "task_text": "Tighten ends of anchored truss bolts, using turnbuckles."
+ },
+ {
+  "task_id": "23501",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Handle high voltage sources and hang electrical cables."
+ },
+ {
+  "task_id": "23498",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Drive loaded shuttle cars to ramps and move controls to discharge loads into mine cars or onto conveyors."
+ },
+ {
+  "task_id": "15183",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Pry off loose material from roofs and move it into the paths of machines, using crowbars."
+ },
+ {
+  "task_id": "15184",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Move trailing electrical cables clear of obstructions, using rubber safety gloves."
+ },
+ {
+  "task_id": "23496",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Control conveyors that run the entire length of shuttle cars to distribute loads as loading progresses."
+ },
+ {
+  "task_id": "23506",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Observe hand signals, grade stakes, or other markings when operating machines."
+ },
+ {
+  "task_id": "23499",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Examine roadway and clear obstructions from the path of travel."
+ },
+ {
+  "task_id": "15185",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Drive machines into piles of material blasted from working faces."
+ },
+ {
+  "task_id": "15186",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Operate levers to move conveyor booms or shovels so that mine contents such as coal, rock, and ore can be placed into cars or onto conveyors."
+ },
+ {
+  "task_id": "23495",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Clean, fuel, service, and perform safety checks on all equipment, and repair and replace parts as necessary."
+ },
+ {
+  "task_id": "15187",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Clean hoppers, and clean spillage from tracks, walks, driveways, and conveyor decking."
+ },
+ {
+  "task_id": "15188",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Oil, lubricate, and adjust conveyors, crushers, and other equipment, using hand tools and lubricating equipment."
+ },
+ {
+  "task_id": "23504",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Monitor loading processes to ensure that materials are loaded according to specifications."
+ },
+ {
+  "task_id": "23503",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Measure, weigh, or verify levels of rock, gravel, or other excavated material to prevent equipment overloads."
+ },
+ {
+  "task_id": "15189",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Replace hydraulic hoses, headlight bulbs, and gathering-arm teeth."
+ },
+ {
+  "task_id": "15190",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Stop gathering arms when cars are full."
+ },
+ {
+  "task_id": "23505",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Move mine cars into position for loading and unloading, using pinchbars inserted under car wheels to position cars under loading spouts."
+ },
+ {
+  "task_id": "15191",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Advance machines to gather material and convey it into cars."
+ },
+ {
+  "task_id": "15193",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Signal workers to move loaded cars."
+ },
+ {
+  "task_id": "23500",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Guide and stop cars by switching, applying brakes, or placing scotches, or wooden wedges, between wheels and rails."
+ },
+ {
+  "task_id": "15194",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Observe and record car numbers, carriers, customers, tonnages, and grades and conditions of material."
+ },
+ {
+  "task_id": "23509",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Read written instructions or confer with supervisors about schedules and materials to be moved."
+ },
+ {
+  "task_id": "23502",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Maintain records of materials moved."
+ },
+ {
+  "task_id": "23497",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Direct other workers to move stakes, place blocks, position anchors or cables, or move materials."
+ },
+ {
+  "task_id": "23508",
+  "occupation": "Loading and Moving Machine Operators, Underground Mining",
+  "task_text": "Push or ride cars down slopes, or hook cars to cables and control cable drum brakes, to ease cars down inclines."
+ },
+ {
+  "task_id": "14966",
+  "occupation": "Rock Splitters, Quarry",
+  "task_text": "Locate grain line patterns to determine how rocks will split when cut."
+ },
+ {
+  "task_id": "14967",
+  "occupation": "Rock Splitters, Quarry",
+  "task_text": "Remove pieces of stone from larger masses, using jackhammers, wedges, and other tools."
+ },
+ {
+  "task_id": "14968",
+  "occupation": "Rock Splitters, Quarry",
+  "task_text": "Insert wedges and feathers into holes, and drive wedges with sledgehammers to split stone sections from masses."
+ },
+ {
+  "task_id": "14969",
+  "occupation": "Rock Splitters, Quarry",
+  "task_text": "Mark dimensions or outlines on stone prior to cutting, using rules and chalk lines."
+ },
+ {
+  "task_id": "14970",
+  "occupation": "Rock Splitters, Quarry",
+  "task_text": "Cut slabs of stone into sheets that will be used for floors or counters."
+ },
+ {
+  "task_id": "14971",
+  "occupation": "Rock Splitters, Quarry",
+  "task_text": "Set charges of explosives to split rock."
+ },
+ {
+  "task_id": "14972",
+  "occupation": "Rock Splitters, Quarry",
+  "task_text": "Drill holes along outlines, using jackhammers."
+ },
+ {
+  "task_id": "14973",
+  "occupation": "Rock Splitters, Quarry",
+  "task_text": "Drill holes into sides of stones broken from masses, insert dogs or attach slings, and direct removal of stones."
+ },
+ {
+  "task_id": "14974",
+  "occupation": "Rock Splitters, Quarry",
+  "task_text": "Cut grooves along outlines, using chisels."
+ },
+ {
+  "task_id": "7112",
+  "occupation": "Roustabouts, Oil and Gas",
+  "task_text": "Unscrew or tighten pipes, casing, tubing, and pump rods, using hand and power wrenches and tongs."
+ },
+ {
+  "task_id": "7116",
+  "occupation": "Roustabouts, Oil and Gas",
+  "task_text": "Dismantle and repair oil field machinery, boilers, and steam engine parts, using hand tools and power tools."
+ },
+ {
+  "task_id": "7119",
+  "occupation": "Roustabouts, Oil and Gas",
+  "task_text": "Guide cranes to move loads about decks."
+ },
+ {
+  "task_id": "20145",
+  "occupation": "Roustabouts, Oil and Gas",
+  "task_text": "Walk flow lines to locate leaks, using electronic detectors and by making visual inspections, and repair the leaks."
+ },
+ {
+  "task_id": "23978",
+  "occupation": "Roustabouts, Oil and Gas",
+  "task_text": "Lay gas and oil pipelines."
+ },
+ {
+  "task_id": "7113",
+  "occupation": "Roustabouts, Oil and Gas",
+  "task_text": "Bolt together pump and engine parts."
+ },
+ {
+  "task_id": "7115",
+  "occupation": "Roustabouts, Oil and Gas",
+  "task_text": "Move pipes to and from trucks, using truck winches and motorized lifts, or by hand."
+ },
+ {
+  "task_id": "23979",
+  "occupation": "Roustabouts, Oil and Gas",
+  "task_text": "Clean trucks used in the fields."
+ },
+ {
+  "task_id": "7121",
+  "occupation": "Roustabouts, Oil and Gas",
+  "task_text": "Dig holes, set forms, and mix and pour concrete into forms to make foundations for wood or steel derricks."
+ },
+ {
+  "task_id": "7120",
+  "occupation": "Roustabouts, Oil and Gas",
+  "task_text": "Supply equipment to rig floors as requested and provide assistance to roughnecks."
+ },
+ {
+  "task_id": "7111",
+  "occupation": "Roustabouts, Oil and Gas",
+  "task_text": "Clean up spilled oil by bailing it into barrels."
+ },
+ {
+  "task_id": "7117",
+  "occupation": "Roustabouts, Oil and Gas",
+  "task_text": "Dig drainage ditches around wells and storage tanks."
+ },
+ {
+  "task_id": "7122",
+  "occupation": "Roustabouts, Oil and Gas",
+  "task_text": "Cut down and remove trees and brush to clear drill sites, to reduce fire hazards, and to make way for roads to sites."
+ },
+ {
+  "task_id": "13699",
+  "occupation": "Helpers--Extraction Workers",
+  "task_text": "Observe and monitor equipment operation during the extraction process to detect any problems."
+ },
+ {
+  "task_id": "13700",
+  "occupation": "Helpers--Extraction Workers",
+  "task_text": "Drive moving equipment to transport materials and parts to excavation sites."
+ },
+ {
+  "task_id": "13705",
+  "occupation": "Helpers--Extraction Workers",
+  "task_text": "Unload materials, devices, and machine parts, using hand tools."
+ },
+ {
+  "task_id": "13709",
+  "occupation": "Helpers--Extraction Workers",
+  "task_text": "Set up and adjust equipment used to excavate geological materials."
+ },
+ {
+  "task_id": "13702",
+  "occupation": "Helpers--Extraction Workers",
+  "task_text": "Organize materials to prepare for use."
+ },
+ {
+  "task_id": "13698",
+  "occupation": "Helpers--Extraction Workers",
+  "task_text": "Repair and maintain automotive and drilling equipment, using hand tools."
+ },
+ {
+  "task_id": "13701",
+  "occupation": "Helpers--Extraction Workers",
+  "task_text": "Clean up work areas and remove debris after extraction activities are complete."
+ },
+ {
+  "task_id": "13708",
+  "occupation": "Helpers--Extraction Workers",
+  "task_text": "Clean and prepare sites for excavation or boring."
+ },
+ {
+  "task_id": "13706",
+  "occupation": "Helpers--Extraction Workers",
+  "task_text": "Load materials into well holes or into equipment, using hand tools."
+ },
+ {
+  "task_id": "13703",
+  "occupation": "Helpers--Extraction Workers",
+  "task_text": "Provide assistance to extraction craft workers, such as earth drillers and derrick operators."
+ },
+ {
+  "task_id": "13710",
+  "occupation": "Helpers--Extraction Workers",
+  "task_text": "Collect and examine geological matter, using hand tools and testing devices."
+ },
+ {
+  "task_id": "13707",
+  "occupation": "Helpers--Extraction Workers",
+  "task_text": "Signal workers to start geological material extraction or boring."
+ },
+ {
+  "task_id": "13704",
+  "occupation": "Helpers--Extraction Workers",
+  "task_text": "Dismantle extracting and boring equipment used for excavation, using hand tools."
+ },
+ {
+  "task_id": "13711",
+  "occupation": "Helpers--Extraction Workers",
+  "task_text": "Dig trenches."
+ },
+ {
+  "task_id": "2929",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Inspect, test, and measure completed work, using devices such as hand tools or gauges to verify conformance to standards or repair requirements."
+ },
+ {
+  "task_id": "15263",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Inspect and monitor work areas, examine tools and equipment, and provide employee safety training to prevent, detect, and correct unsafe conditions or violations of procedures and safety rules."
+ },
+ {
+  "task_id": "2920",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Interpret specifications, blueprints, or job orders to construct templates and lay out reference points for workers."
+ },
+ {
+  "task_id": "2914",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Monitor employees' work levels and review work performance."
+ },
+ {
+  "task_id": "2925",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Perform skilled repair or maintenance operations, using equipment such as hand or power tools, hydraulic presses or shears, or welding equipment."
+ },
+ {
+  "task_id": "2919",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Compute estimates and actual costs of factors such as materials, labor, or outside contractors."
+ },
+ {
+  "task_id": "15262",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Monitor tool and part inventories and the condition and maintenance of shops to ensure adequate working conditions."
+ },
+ {
+  "task_id": "2918",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Requisition materials and supplies, such as tools, equipment, or replacement parts."
+ },
+ {
+  "task_id": "2923",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Confer with personnel, such as management, engineering, quality control, customer, or union workers' representatives, to coordinate work activities, resolve employee grievances, or identify and review resource needs."
+ },
+ {
+  "task_id": "2912",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Determine schedules, sequences, and assignments for work activities, based on work priority, quantity of equipment, and skill of personnel."
+ },
+ {
+  "task_id": "2915",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Examine objects, systems, or facilities and analyze information to determine needed installations, services, or repairs."
+ },
+ {
+  "task_id": "2917",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Counsel employees about work-related issues and assist employees to correct job-skill deficiencies."
+ },
+ {
+  "task_id": "2924",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Recommend or initiate personnel actions, such as hires, promotions, transfers, discharges, or disciplinary measures."
+ },
+ {
+  "task_id": "2922",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Investigate accidents or injuries and prepare reports of findings."
+ },
+ {
+  "task_id": "2921",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Conduct or arrange for worker training in safety, repair, or maintenance techniques, operational procedures, or equipment use."
+ },
+ {
+  "task_id": "2927",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Develop, implement, or evaluate maintenance policies and procedures."
+ },
+ {
+  "task_id": "2930",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Meet with vendors or suppliers to discuss products used in repair work."
+ },
+ {
+  "task_id": "2916",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Participate in budget preparation and administration, coordinating purchasing and documentation and monitoring departmental expenditures."
+ },
+ {
+  "task_id": "15264",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Review, evaluate, accept, and coordinate completion of work bid from contractors."
+ },
+ {
+  "task_id": "2926",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Compile operational or personnel records, such as time and production records, inventory data, repair or maintenance statistics, or test results."
+ },
+ {
+  "task_id": "2931",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Develop or implement electronic maintenance programs or computer information management systems."
+ },
+ {
+  "task_id": "2932",
+  "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+  "task_text": "Design equipment configurations to meet personnel needs."
+ },
+ {
+  "task_id": "11624",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Reassemble machines after making repairs or replacing parts."
+ },
+ {
+  "task_id": "11623",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Converse with customers to determine details of equipment problems."
+ },
+ {
+  "task_id": "11639",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Disassemble machines to examine parts, such as wires, gears, or bearings for wear or defects, using hand or power tools and measuring devices."
+ },
+ {
+  "task_id": "11627",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Advise customers concerning equipment operation, maintenance, or programming."
+ },
+ {
+  "task_id": "11635",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Align, adjust, or calibrate equipment according to specifications."
+ },
+ {
+  "task_id": "11637",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Repair, adjust, or replace electrical or mechanical components or parts, using hand tools, power tools, or soldering or welding equipment."
+ },
+ {
+  "task_id": "11625",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Travel to customers' stores or offices to service machines or to provide emergency repair service."
+ },
+ {
+  "task_id": "11633",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Maintain parts inventories and order any additional parts needed for repairs."
+ },
+ {
+  "task_id": "11630",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Operate machines to test functioning of parts or mechanisms."
+ },
+ {
+  "task_id": "11626",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Reinstall software programs or adjust settings on existing software to fix machine malfunctions."
+ },
+ {
+  "task_id": "11640",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Clean, oil, or adjust mechanical parts to maintain machines' operating efficiency and to prevent breakdowns."
+ },
+ {
+  "task_id": "11631",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Maintain records of equipment maintenance work or repairs."
+ },
+ {
+  "task_id": "11628",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Test new systems to ensure that they are in working order."
+ },
+ {
+  "task_id": "11638",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Complete repair bills, shop records, time cards, or expense reports."
+ },
+ {
+  "task_id": "11632",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Install and configure new equipment, including operating software or peripheral equipment."
+ },
+ {
+  "task_id": "11644",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Analyze equipment performance records to assess equipment functioning."
+ },
+ {
+  "task_id": "11642",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Read specifications, such as blueprints, charts, or schematics, to determine machine settings or adjustments."
+ },
+ {
+  "task_id": "11634",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Update existing equipment, performing tasks such as installing updated circuit boards or additional memory."
+ },
+ {
+  "task_id": "11636",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Test components or circuits of faulty equipment to locate defects, using oscilloscopes, signal generators, ammeters, voltmeters, or special diagnostic software programs."
+ },
+ {
+  "task_id": "11629",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Assemble machines according to specifications, using hand or power tools and measuring devices."
+ },
+ {
+  "task_id": "11643",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Lay cable and hook up electrical connections between machines, power sources, and phone lines."
+ },
+ {
+  "task_id": "11641",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Enter information into computers to copy programs from one electronic component to another or to draw, modify, or store schematics."
+ },
+ {
+  "task_id": "11645",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Fill machines with toners, inks, or other duplicating fluids."
+ },
+ {
+  "task_id": "11646",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Train new repairers."
+ },
+ {
+  "task_id": "11647",
+  "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+  "task_text": "Calibrate testing instruments."
+ },
+ {
+  "task_id": "19401",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Inspect completed work to ensure all hardware is tight, antennas are level, hangers are properly fastened, proper support is in place, or adequate weather proofing has been installed."
+ },
+ {
+  "task_id": "19409",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Run appropriate power, ground, or coaxial cables."
+ },
+ {
+  "task_id": "19410",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Test operation of tower transmission components, using sweep testing tools or software."
+ },
+ {
+  "task_id": "19402",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Install all necessary transmission equipment components, including antennas or antenna mounts, surge arrestors, transmission lines, connectors, or tower-mounted amplifiers (TMAs)."
+ },
+ {
+  "task_id": "19407",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Read work orders, blueprints, plans, datasheets or site drawings to determine work to be done."
+ },
+ {
+  "task_id": "19408",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Replace existing antennas with new antennas as directed."
+ },
+ {
+  "task_id": "19398",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Bolt equipment into place, using hand or power tools."
+ },
+ {
+  "task_id": "19404",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Install, connect, or test underground or aboveground grounding systems."
+ },
+ {
+  "task_id": "19412",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Complete reports related to project status, progress, or other work details, using computer software."
+ },
+ {
+  "task_id": "19399",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Check antenna positioning to ensure specified azimuths or mechanical tilts and adjust as necessary."
+ },
+ {
+  "task_id": "19415",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Transport equipment to work sites, using utility trucks and equipment trailers."
+ },
+ {
+  "task_id": "19414",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Take site survey photos or photos of work performed, using digital cameras."
+ },
+ {
+  "task_id": "19411",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Climb towers to access components, using safety equipment, such as full-body harnesses."
+ },
+ {
+  "task_id": "19400",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Climb communication towers to install, replace, or repair antennas or auxiliary equipment used to transmit and receive radio waves."
+ },
+ {
+  "task_id": "19405",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Lift equipment into position, using cranes and rigging tools or equipment, such as gin poles."
+ },
+ {
+  "task_id": "19406",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Perform maintenance or repair work on existing tower equipment, using hand or power tools."
+ },
+ {
+  "task_id": "19413",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Locate tower sites where work is to be performed, using mapping software."
+ },
+ {
+  "task_id": "19403",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Install or repair tower lighting components, including strobes, beacons, or lighting controllers."
+ },
+ {
+  "task_id": "23510",
+  "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+  "task_text": "Calibrate and align components, using scales, gauges, and other measuring instruments."
+ }
+]

@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "10060",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Operate or tend equipment that roasts, bakes, dries, or cures food items such as cocoa and coffee beans, grains, nuts, and bakery products."
+ },
+ {
+  "task_id": "10076",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Signal coworkers to synchronize flow of materials."
+ },
+ {
+  "task_id": "10065",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Read work orders to determine quantities and types of products to be baked, dried, or roasted."
+ },
+ {
+  "task_id": "10067",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Fill or remove product from trays, carts, hoppers, or equipment, using scoops, peels, or shovels, or by hand."
+ },
+ {
+  "task_id": "10066",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Take product samples during or after processing for laboratory analyses."
+ },
+ {
+  "task_id": "10075",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Test products for moisture content, using moisture meters."
+ },
+ {
+  "task_id": "10070",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Clear or dislodge blockages in bins, screens, or other equipment, using poles, brushes, or mallets."
+ },
+ {
+  "task_id": "10072",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Start conveyors to move roasted grain to cooling pans and agitate grain with rakes as blowers force air through perforated bottoms of pans."
+ },
+ {
+  "task_id": "10068",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Open valves, gates, or chutes or use shovels to load or remove products from ovens or other equipment."
+ },
+ {
+  "task_id": "10069",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Clean equipment with steam, hot water, and hoses."
+ },
+ {
+  "task_id": "10073",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Smooth out products in bins, pans, trays, or conveyors, using rakes or shovels."
+ },
+ {
+  "task_id": "10074",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Install equipment, such as spray units, cutting blades, or screens, using hand tools."
+ },
+ {
+  "task_id": "10071",
+  "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+  "task_text": "Push racks or carts to transfer products to storage, cooling stations, or the next stage of processing."
+ },
+ {
+  "task_id": "4919",
+  "occupation": "Food Batchmakers",
+  "task_text": "Record production and test data for each food product batch, such as the ingredients used, temperature, test results, and time cycle."
+ },
+ {
+  "task_id": "4921",
+  "occupation": "Food Batchmakers",
+  "task_text": "Clean and sterilize vats and factory processing areas."
+ },
+ {
+  "task_id": "4924",
+  "occupation": "Food Batchmakers",
+  "task_text": "Set up, operate, and tend equipment that cooks, mixes, blends, or processes ingredients in the manufacturing of food products, according to formulas or recipes."
+ },
+ {
+  "task_id": "4925",
+  "occupation": "Food Batchmakers",
+  "task_text": "Mix or blend ingredients, according to recipes, using a paddle or an agitator, or by controlling vats that heat and mix ingredients."
+ },
+ {
+  "task_id": "4926",
+  "occupation": "Food Batchmakers",
+  "task_text": "Follow recipes to produce food products of specified flavor, texture, clarity, bouquet, or color."
+ },
+ {
+  "task_id": "4931",
+  "occupation": "Food Batchmakers",
+  "task_text": "Give directions to other workers who are assisting in the batchmaking process."
+ },
+ {
+  "task_id": "4927",
+  "occupation": "Food Batchmakers",
+  "task_text": "Select and measure or weigh ingredients, using English or metric measures and balance scales."
+ },
+ {
+  "task_id": "4922",
+  "occupation": "Food Batchmakers",
+  "task_text": "Press switches and turn knobs to start, adjust, and regulate equipment, such as beaters, extruders, discharge pipes, and salt pumps."
+ },
+ {
+  "task_id": "4929",
+  "occupation": "Food Batchmakers",
+  "task_text": "Determine mixing sequences, based on knowledge of temperature effects and of the solubility of specific ingredients."
+ },
+ {
+  "task_id": "4923",
+  "occupation": "Food Batchmakers",
+  "task_text": "Observe and listen to equipment to detect possible malfunctions, such as leaks or plugging, and report malfunctions or undesirable tastes to supervisors."
+ },
+ {
+  "task_id": "4920",
+  "occupation": "Food Batchmakers",
+  "task_text": "Observe gauges and thermometers to determine if the mixing chamber temperature is within specified limits, and turn valves to control the temperature."
+ },
+ {
+  "task_id": "4928",
+  "occupation": "Food Batchmakers",
+  "task_text": "Turn valve controls to start equipment and to adjust operation to maintain product quality."
+ },
+ {
+  "task_id": "4941",
+  "occupation": "Food Batchmakers",
+  "task_text": "Modify cooking and forming operations based on the results of sampling processes, adjusting time cycles and ingredients to achieve desired qualities, such as firmness or texture."
+ },
+ {
+  "task_id": "4934",
+  "occupation": "Food Batchmakers",
+  "task_text": "Examine, feel, and taste product samples during production to evaluate quality, color, texture, flavor, and bouquet, and document the results."
+ },
+ {
+  "task_id": "4935",
+  "occupation": "Food Batchmakers",
+  "task_text": "Test food product samples for moisture content, acidity level, specific gravity, or butter-fat content, and continue processing until desired levels are reached."
+ },
+ {
+  "task_id": "4933",
+  "occupation": "Food Batchmakers",
+  "task_text": "Inspect vats after cleaning to ensure that fermentable residue has been removed."
+ },
+ {
+  "task_id": "4930",
+  "occupation": "Food Batchmakers",
+  "task_text": "Fill processing or cooking containers, such as kettles, rotating cookers, pressure cookers, or vats, with ingredients, by opening valves, by starting pumps or injectors, or by hand."
+ },
+ {
+  "task_id": "4943",
+  "occupation": "Food Batchmakers",
+  "task_text": "Manipulate products, by hand or using machines, to separate, spread, knead, spin, cast, cut, pull, or roll products."
+ },
+ {
+  "task_id": "4939",
+  "occupation": "Food Batchmakers",
+  "task_text": "Cool food product batches on slabs or in water-cooled kettles."
+ },
+ {
+  "task_id": "4942",
+  "occupation": "Food Batchmakers",
+  "task_text": "Place products on carts or conveyors to transfer them to the next stage of processing."
+ },
+ {
+  "task_id": "4932",
+  "occupation": "Food Batchmakers",
+  "task_text": "Homogenize or pasteurize material to prevent separation or to obtain prescribed butterfat content, using a homogenizing device."
+ },
+ {
+  "task_id": "4938",
+  "occupation": "Food Batchmakers",
+  "task_text": "Grade food products according to government regulations or according to type, color, bouquet, and moisture content."
+ },
+ {
+  "task_id": "4940",
+  "occupation": "Food Batchmakers",
+  "task_text": "Operate refining machines to reduce the particle size of cooked batches."
+ },
+ {
+  "task_id": "4936",
+  "occupation": "Food Batchmakers",
+  "task_text": "Formulate or modify recipes for specific kinds of food products."
+ },
+ {
+  "task_id": "4937",
+  "occupation": "Food Batchmakers",
+  "task_text": "Inspect and pack the final product."
+ },
+ {
+  "task_id": "4949",
+  "occupation": "Food Cooking Machine Operators and Tenders",
+  "task_text": "Clean, wash, and sterilize equipment and cooking area, using water hoses, cleaning or sterilizing solutions, or rinses."
+ },
+ {
+  "task_id": "4948",
+  "occupation": "Food Cooking Machine Operators and Tenders",
+  "task_text": "Read work orders, recipes, or formulas to determine cooking times and temperatures, and ingredient specifications."
+ },
+ {
+  "task_id": "4947",
+  "occupation": "Food Cooking Machine Operators and Tenders",
+  "task_text": "Observe gauges, dials, and product characteristics, and adjust controls to maintain appropriate temperature, pressure, and flow of ingredients."
+ },
+ {
+  "task_id": "4952",
+  "occupation": "Food Cooking Machine Operators and Tenders",
+  "task_text": "Measure or weigh ingredients, using scales or measuring containers."
+ },
+ {
+  "task_id": "4951",
+  "occupation": "Food Cooking Machine Operators and Tenders",
+  "task_text": "Tend or operate and control equipment, such as kettles, cookers, vats and tanks, and boilers, to cook ingredients or prepare products for further processing."
+ },
+ {
+  "task_id": "4944",
+  "occupation": "Food Cooking Machine Operators and Tenders",
+  "task_text": "Record production and test data, such as processing steps, temperature and steam readings, cooking time, batches processed, and test results."
+ },
+ {
+  "task_id": "4950",
+  "occupation": "Food Cooking Machine Operators and Tenders",
+  "task_text": "Set temperature, pressure, and time controls, and start conveyers, machines, or pumps."
+ },
+ {
+  "task_id": "4954",
+  "occupation": "Food Cooking Machine Operators and Tenders",
+  "task_text": "Remove cooked material or products from equipment."
+ },
+ {
+  "task_id": "4946",
+  "occupation": "Food Cooking Machine Operators and Tenders",
+  "task_text": "Collect and examine product samples during production to test them for quality, color, content, consistency, viscosity, acidity, or specific gravity."
+ },
+ {
+  "task_id": "4958",
+  "occupation": "Food Cooking Machine Operators and Tenders",
+  "task_text": "Pour, dump, or load prescribed quantities of ingredients or products into cooking equipment, manually or using a hoist."
+ },
+ {
+  "task_id": "4945",
+  "occupation": "Food Cooking Machine Operators and Tenders",
+  "task_text": "Listen for malfunction alarms, and shut down equipment and notify supervisors when necessary."
+ },
+ {
+  "task_id": "4955",
+  "occupation": "Food Cooking Machine Operators and Tenders",
+  "task_text": "Notify or signal other workers to operate equipment or when processing is complete."
+ },
+ {
+  "task_id": "4956",
+  "occupation": "Food Cooking Machine Operators and Tenders",
+  "task_text": "Turn valves or start pumps to add ingredients or drain products from equipment and to transfer products for storage, cooling, or further processing."
+ },
+ {
+  "task_id": "4953",
+  "occupation": "Food Cooking Machine Operators and Tenders",
+  "task_text": "Admit required amounts of water, steam, cooking oils, or compressed air into equipment, such as by opening water valves to cool mixtures to the desired consistency."
+ },
+ {
+  "task_id": "4959",
+  "occupation": "Food Cooking Machine Operators and Tenders",
+  "task_text": "Activate agitators and paddles to mix or stir ingredients, stopping machines when ingredients are thoroughly mixed."
+ },
+ {
+  "task_id": "4960",
+  "occupation": "Food Cooking Machine Operators and Tenders",
+  "task_text": "Operate auxiliary machines and equipment, such as grinders, canners, and molding presses, to prepare or further process products."
+ },
+ {
+  "task_id": "4957",
+  "occupation": "Food Cooking Machine Operators and Tenders",
+  "task_text": "Place products on conveyors or carts, and monitor product flow."
+ },
+ {
+  "task_id": "8473",
+  "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Measure and examine extruded products to locate defects and to check for conformance to specifications, adjusting controls as necessary to alter products."
+ },
+ {
+  "task_id": "8474",
+  "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Determine setup procedures and select machine dies and parts, according to specifications."
+ },
+ {
+  "task_id": "8477",
+  "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Start machines and set controls to regulate vacuum, air pressure, sizing rings, and temperature, and to synchronize speed of extrusion."
+ },
+ {
+  "task_id": "8479",
+  "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Reel extruded products into rolls of specified lengths and weights."
+ },
+ {
+  "task_id": "8475",
+  "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Install dies, machine screws, and sizing rings on machines that extrude thermoplastic or metal materials."
+ },
+ {
+  "task_id": "8476",
+  "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Change dies on extruding machines, according to production line changes."
+ },
+ {
+  "task_id": "8481",
+  "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Clean work areas."
+ },
+ {
+  "task_id": "8480",
+  "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Troubleshoot, maintain, and make minor repairs to equipment."
+ },
+ {
+  "task_id": "8485",
+  "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Weigh and mix pelletized, granular, or powdered thermoplastic materials and coloring pigments."
+ },
+ {
+  "task_id": "8487",
+  "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Test physical properties of products with testing devices such as acid-bath testers, burst testers, and impact testers."
+ },
+ {
+  "task_id": "8486",
+  "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Load machine hoppers with mixed materials, using augers, or stuff rolls of plastic dough into machine cylinders."
+ },
+ {
+  "task_id": "8488",
+  "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Maintain an inventory of materials."
+ },
+ {
+  "task_id": "8482",
+  "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Adjust controls to draw or press metal into specified shapes and diameters."
+ },
+ {
+  "task_id": "8478",
+  "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Replace worn dies when products vary from specifications."
+ },
+ {
+  "task_id": "8484",
+  "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Select nozzles, spacers, and wire guides, according to diameters and lengths of rods."
+ },
+ {
+  "task_id": "8483",
+  "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Operate shearing mechanisms to cut rods to specified lengths."
+ },
+ {
+  "task_id": "10079",
+  "occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Read work orders or blueprints to determine specified tolerances and sequences of operations for machine setup."
+ },
+ {
+  "task_id": "10086",
+  "occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Position and move metal wires or workpieces through a series of dies that compress and shape stock to form die impressions."
+ },
+ {
+  "task_id": "10078",
+  "occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Measure and inspect machined parts to ensure conformance to product specifications."
+ },
+ {
+  "task_id": "10085",
+  "occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Set up, operate, or tend presses and forging machines to perform hot or cold forging by flattening, straightening, bending, cutting, piercing, or other operations to taper, shape, or form metal."
+ },
+ {
+  "task_id": "10082",
+  "occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Turn handles or knobs to set pressures and depths of ram strokes and to synchronize machine operations."
+ },
+ {
+  "task_id": "10087",
+  "occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Install, adjust, and remove dies, synchronizing cams, forging hammers, and stop guides, using overhead cranes or other hoisting devices, and hand tools."
+ },
+ {
+  "task_id": "10080",
+  "occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Start machines to produce sample workpieces, and observe operations to detect machine malfunctions and to verify that machine setups conform to specifications."
+ },
+ {
+  "task_id": "10083",
+  "occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Confer with other workers about machine setups and operational specifications."
+ },
+ {
+  "task_id": "10089",
+  "occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Trim and compress finished forgings to specified tolerances."
+ },
+ {
+  "task_id": "10081",
+  "occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Remove dies from machines when production runs are finished."
+ },
+ {
+  "task_id": "10084",
+  "occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Repair, maintain, and replace parts on dies."
+ },
+ {
+  "task_id": "10088",
+  "occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Select, align, and bolt positioning fixtures, stops, and specified dies to rams and anvils, forging rolls, or presses and hammers."
+ },
+ {
+  "task_id": "10090",
+  "occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Sharpen cutting tools and drill bits, using bench grinders."
+ },
+ {
+  "task_id": "10092",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Monitor machine cycles and mill operation to detect jamming and to ensure that products conform to specifications."
+ },
+ {
+  "task_id": "10091",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Adjust and correct machine set-ups to reduce thicknesses, reshape products, and eliminate product defects."
+ },
+ {
+  "task_id": "10096",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Start operation of rolling and milling machines to flatten, temper, form, and reduce sheet metal sections and to produce steel strips."
+ },
+ {
+  "task_id": "10093",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Examine, inspect, and measure raw materials and finished products to verify conformance to specifications."
+ },
+ {
+  "task_id": "10094",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Read rolling orders, blueprints, and mill schedules to determine setup specifications, work sequences, product dimensions, and installation procedures."
+ },
+ {
+  "task_id": "10095",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Manipulate controls and observe dial indicators to monitor, adjust, and regulate speeds of machine mechanisms."
+ },
+ {
+  "task_id": "10097",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Set distance points between rolls, guides, meters, and stops, according to specifications."
+ },
+ {
+  "task_id": "10105",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Calculate draft space and roll speed for each mill stand to plan rolling sequences and specified dimensions and tempers."
+ },
+ {
+  "task_id": "10103",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Install equipment such as guides, guards, gears, cooling equipment, and rolls, using hand tools."
+ },
+ {
+  "task_id": "10099",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Position, align, and secure arbors, spindles, coils, mandrels, dies, and slitting knives."
+ },
+ {
+  "task_id": "10101",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Fill oil cups, adjust valves, and observe gauges to control flow of metal coolants and lubricants onto workpieces."
+ },
+ {
+  "task_id": "10107",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Activate shears and grinders to trim workpieces."
+ },
+ {
+  "task_id": "10104",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Signal and assist other workers to remove and position equipment, fill hoppers, and feed materials into machines."
+ },
+ {
+  "task_id": "10102",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Record mill production on schedule sheets."
+ },
+ {
+  "task_id": "10100",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Direct and train other workers to change rolls, operate mill equipment, remove coils and cobbles, and band and load material."
+ },
+ {
+  "task_id": "10098",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Thread or feed sheets or rods through rolling mechanisms, or start and control mechanisms that automatically feed steel into rollers."
+ },
+ {
+  "task_id": "10106",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Select rolls, dies, roll stands, and chucks from data charts to form specified contours and to fabricate products."
+ },
+ {
+  "task_id": "10108",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Remove scratches and polish roll surfaces, using polishing stones and electric buffers."
+ },
+ {
+  "task_id": "10109",
+  "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Disassemble sizing mills removed from rolling lines, and sort and store parts."
+ },
+ {
+  "task_id": "10110",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Measure completed workpieces to verify conformance to specifications, using micrometers, gauges, calipers, templates, or rulers."
+ },
+ {
+  "task_id": "10111",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Examine completed workpieces for defects, such as chipped edges or marred surfaces and sort defective pieces according to types of flaws."
+ },
+ {
+  "task_id": "10112",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Read work orders or production schedules to determine specifications, such as materials to be used, locations of cutting lines, or dimensions and tolerances."
+ },
+ {
+  "task_id": "10115",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Start machines, monitor their operations, and record operational data."
+ },
+ {
+  "task_id": "10114",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Set up, operate, or tend machines to saw, cut, shear, slit, punch, crimp, notch, bend, or straighten metal or plastic material."
+ },
+ {
+  "task_id": "10116",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Test and adjust machine speeds or actions, according to product specifications, using gauges and hand tools."
+ },
+ {
+  "task_id": "10113",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Load workpieces, plastic material, or chemical solutions into machines."
+ },
+ {
+  "task_id": "10131",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Turn controls to set cutting speeds, feed rates, or table angles for specified operations."
+ },
+ {
+  "task_id": "20820",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Clean work area."
+ },
+ {
+  "task_id": "10128",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Lubricate workpieces with oil."
+ },
+ {
+  "task_id": "10117",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Install, align, and lock specified punches, dies, cutting blades, or other fixtures in rams or beds of machines, using gauges, templates, feelers, shims, and hand tools."
+ },
+ {
+  "task_id": "10122",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Adjust ram strokes of presses to specified lengths, using hand tools."
+ },
+ {
+  "task_id": "10119",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Position, align, and secure workpieces against fixtures or stops on machine beds or on dies."
+ },
+ {
+  "task_id": "10127",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Set stops on machine beds, change dies, and adjust components, such as rams or power presses, when making multiple or successive passes."
+ },
+ {
+  "task_id": "10118",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Clean and lubricate machines."
+ },
+ {
+  "task_id": "10124",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Position guides, stops, holding blocks, or other fixtures to secure and direct workpieces, using hand tools and measuring devices."
+ },
+ {
+  "task_id": "10123",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Place workpieces on cutting tables, manually or using hoists, cranes, or sledges."
+ },
+ {
+  "task_id": "10129",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Replace defective blades or wheels, using hand tools."
+ },
+ {
+  "task_id": "10132",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Plan sequences of operations, applying knowledge of physical properties of workpiece materials."
+ },
+ {
+  "task_id": "10130",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Mark identifying data on workpieces."
+ },
+ {
+  "task_id": "10126",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Turn valves to start flow of coolant against cutting areas or to start airflow that blows cuttings away from kerfs."
+ },
+ {
+  "task_id": "10137",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Hone cutters with oilstones to remove nicks."
+ },
+ {
+  "task_id": "10136",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Remove housings, feed tubes, tool holders, or other accessories to replace worn or broken parts, such as springs or bushings."
+ },
+ {
+  "task_id": "10135",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Sharpen dulled blades, using bench grinders, abrasive wheels, or lathes."
+ },
+ {
+  "task_id": "20821",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Operate forklifts to deliver materials."
+ },
+ {
+  "task_id": "10138",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Select, clean, and install spacers, rubber sleeves, or cutters on arbors."
+ },
+ {
+  "task_id": "10120",
+  "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Scribe reference lines on workpieces as guides for cutting operations, according to blueprints, templates, sample parts, or specifications."
+ }
+]

@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "17684",
+  "occupation": "Freight Forwarders",
+  "task_text": "Arrange for special transport of sensitive cargoes, such as livestock, food, or medical supplies."
+ },
+ {
+  "task_id": "17685",
+  "occupation": "Freight Forwarders",
+  "task_text": "Assist clients in obtaining insurance reimbursements."
+ },
+ {
+  "task_id": "17686",
+  "occupation": "Freight Forwarders",
+  "task_text": "Calculate weight, volume, or cost of goods to be moved."
+ },
+ {
+  "task_id": "17687",
+  "occupation": "Freight Forwarders",
+  "task_text": "Prepare shipping documentation, such as bills of lading, packing lists, dock receipts, or certificates of origin."
+ },
+ {
+  "task_id": "17688",
+  "occupation": "Freight Forwarders",
+  "task_text": "Consolidate loads with a common destination to reduce costs to individual shippers."
+ },
+ {
+  "task_id": "17689",
+  "occupation": "Freight Forwarders",
+  "task_text": "Inform clients of factors such as shipping options, timelines, transfers, or regulations affecting shipments."
+ },
+ {
+  "task_id": "17690",
+  "occupation": "Freight Forwarders",
+  "task_text": "Keep records of goods dispatched or received."
+ },
+ {
+  "task_id": "17691",
+  "occupation": "Freight Forwarders",
+  "task_text": "Maintain current knowledge of relevant legislation, political situations, or other factors that could affect freight shipping."
+ },
+ {
+  "task_id": "17692",
+  "occupation": "Freight Forwarders",
+  "task_text": "Monitor or record locations of goods in transit."
+ },
+ {
+  "task_id": "17693",
+  "occupation": "Freight Forwarders",
+  "task_text": "Negotiate shipping rates with freight carriers."
+ },
+ {
+  "task_id": "17694",
+  "occupation": "Freight Forwarders",
+  "task_text": "Obtain or arrange cargo insurance."
+ },
+ {
+  "task_id": "17695",
+  "occupation": "Freight Forwarders",
+  "task_text": "Pay or arrange for payment of freight or insurance fees or other charges."
+ },
+ {
+  "task_id": "17696",
+  "occupation": "Freight Forwarders",
+  "task_text": "Prepare invoices or cost quotations for freight transportation."
+ },
+ {
+  "task_id": "17697",
+  "occupation": "Freight Forwarders",
+  "task_text": "Recommend or arrange appropriate merchandise packing methods, according to climate, terrain, weight, nature of goods, or costs."
+ },
+ {
+  "task_id": "17698",
+  "occupation": "Freight Forwarders",
+  "task_text": "Verify proper packaging and labeling of exported goods."
+ },
+ {
+  "task_id": "17699",
+  "occupation": "Freight Forwarders",
+  "task_text": "Verify adherence of documentation to customs, insurance, or regulatory requirements."
+ },
+ {
+  "task_id": "17700",
+  "occupation": "Freight Forwarders",
+  "task_text": "Arrange for applicable duties, taxes, or paperwork for customs clearance."
+ },
+ {
+  "task_id": "17701",
+  "occupation": "Freight Forwarders",
+  "task_text": "Complete customs paperwork."
+ },
+ {
+  "task_id": "17702",
+  "occupation": "Freight Forwarders",
+  "task_text": "Make arrangements with customs brokers to facilitate the passage of goods through customs."
+ },
+ {
+  "task_id": "17703",
+  "occupation": "Freight Forwarders",
+  "task_text": "Provide detailed port information to importers or exporters."
+ },
+ {
+  "task_id": "17704",
+  "occupation": "Freight Forwarders",
+  "task_text": "Provide shipment status notification to exporters, consignees, or insurers."
+ },
+ {
+  "task_id": "17705",
+  "occupation": "Freight Forwarders",
+  "task_text": "Refer exporters to experts in areas such as trade financing, international marketing, government export requirements, international banking, or marine insurance."
+ },
+ {
+  "task_id": "18000",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Coordinate or conduct educational programs or in-service training sessions on topics such as clinical procedures."
+ },
+ {
+  "task_id": "18001",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Observe, interview, and assess patients to identify care needs."
+ },
+ {
+  "task_id": "18002",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Evaluate the quality and effectiveness of nursing practice or organizational systems."
+ },
+ {
+  "task_id": "18003",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Provide direct care by performing comprehensive health assessments, developing differential diagnoses, conducting specialized tests, or prescribing medications or treatments."
+ },
+ {
+  "task_id": "18004",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Provide specialized direct and indirect care to inpatients and outpatients within a designated specialty, such as obstetrics, neurology, oncology, or neonatal care."
+ },
+ {
+  "task_id": "18005",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Maintain departmental policies, procedures, objectives, or infection control standards."
+ },
+ {
+  "task_id": "18006",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Collaborate with other health care professionals and service providers to ensure optimal patient care."
+ },
+ {
+  "task_id": "18007",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Develop nursing service philosophies, goals, policies, priorities, or procedures."
+ },
+ {
+  "task_id": "18008",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Develop, implement, or evaluate standards of nursing practice in specialty area, such as pediatrics, acute care, and geriatrics."
+ },
+ {
+  "task_id": "18009",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Develop or assist others in development of care and treatment plans."
+ },
+ {
+  "task_id": "18010",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Make clinical recommendations to physicians, other health care providers, insurance companies, patients, or health care organizations."
+ },
+ {
+  "task_id": "18011",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Plan, evaluate, or modify treatment programs, based on information gathered by observing and interviewing patients or by analyzing patient records."
+ },
+ {
+  "task_id": "18012",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Present clients with information required to make informed health care and treatment decisions."
+ },
+ {
+  "task_id": "18013",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Instruct nursing staff in areas such as the assessment, development, implementation, and evaluation of disability, illness, management, technology, or resources."
+ },
+ {
+  "task_id": "18014",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Direct or supervise nursing care staff in the provision of patient therapy."
+ },
+ {
+  "task_id": "18015",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Identify training needs or conduct training sessions for nursing students or medical staff."
+ },
+ {
+  "task_id": "18016",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments in nursing."
+ },
+ {
+  "task_id": "18017",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Monitor or evaluate medical conditions of patients in collaboration with other health care professionals."
+ },
+ {
+  "task_id": "18018",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Participate in clinical research projects, such as by reviewing protocols, reviewing patient records, monitoring compliance, and meeting with regulatory authorities."
+ },
+ {
+  "task_id": "18019",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Perform discharge planning for patients."
+ },
+ {
+  "task_id": "18020",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Prepare reports to document patients' care activities."
+ },
+ {
+  "task_id": "18021",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Write nursing orders."
+ },
+ {
+  "task_id": "18045",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Communicate with regulatory agencies regarding pre-submission strategies, potential regulatory pathways, compliance test requirements, or clarification and follow-up of submissions under review."
+ },
+ {
+  "task_id": "18048",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Coordinate, prepare, or review regulatory submissions for domestic or international projects."
+ },
+ {
+  "task_id": "18049",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Interpret regulatory rules or rule changes and ensure that they are communicated through corporate policies and procedures."
+ },
+ {
+  "task_id": "18050",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Provide technical review of data or reports to be incorporated into regulatory submissions to assure scientific rigor, accuracy, and clarity of presentation."
+ },
+ {
+  "task_id": "18051",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Review product promotional materials, labeling, batch records, specification sheets, or test methods for compliance with applicable regulations and policies."
+ },
+ {
+  "task_id": "18052",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Advise project teams on subjects such as premarket regulatory requirements, export and labeling requirements, or clinical study compliance issues."
+ },
+ {
+  "task_id": "18053",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Compile and maintain regulatory documentation databases or systems."
+ },
+ {
+  "task_id": "18054",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Coordinate efforts associated with the preparation of regulatory documents or submissions."
+ },
+ {
+  "task_id": "18055",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Determine the types of regulatory submissions or internal documentation that are required in situations such as proposed device changes or labeling changes."
+ },
+ {
+  "task_id": "18056",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Develop or conduct employee regulatory training."
+ },
+ {
+  "task_id": "18058",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Maintain current knowledge base of existing and emerging regulations, standards, or guidance documents."
+ },
+ {
+  "task_id": "18059",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Obtain and distribute updated information regarding domestic or international laws, guidelines, or standards."
+ },
+ {
+  "task_id": "18060",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Participate in internal or external audits."
+ },
+ {
+  "task_id": "18061",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Prepare or direct the preparation of additional information or responses as requested by regulatory agencies."
+ },
+ {
+  "task_id": "18062",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Prepare or maintain technical files as necessary to obtain and sustain product approval."
+ },
+ {
+  "task_id": "18063",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Recommend changes to company procedures in response to changes in regulations or standards."
+ },
+ {
+  "task_id": "18064",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Prepare responses to customer requests for information, such as product data, written regulatory affairs statements, surveys, or questionnaires."
+ },
+ {
+  "task_id": "18065",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Review clinical protocols to ensure collection of data needed for regulatory submissions."
+ },
+ {
+  "task_id": "18066",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Write or update standard operating procedures, work instructions, or policies."
+ },
+ {
+  "task_id": "18067",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Coordinate recall or market withdrawal activities as necessary."
+ },
+ {
+  "task_id": "18068",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Develop or track quality metrics."
+ },
+ {
+  "task_id": "18069",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Direct the collection and preparation of laboratory samples as requested by regulatory agencies."
+ },
+ {
+  "task_id": "18070",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Review adverse drug reactions and file all related reports in accordance with regulatory agency guidelines."
+ },
+ {
+  "task_id": "18297",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Analyze the indications, contraindications, risk complications, and cost-benefit tradeoffs of therapeutic interventions."
+ },
+ {
+  "task_id": "18298",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Diagnose acute or chronic conditions that could result in rapid physiological deterioration or life-threatening instability."
+ },
+ {
+  "task_id": "18299",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Distinguish between normal and abnormal developmental and age-related physiological and behavioral changes in acute, critical, and chronic illness."
+ },
+ {
+  "task_id": "18300",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Manage patients' pain relief and sedation by providing pharmacologic and non-pharmacologic interventions, monitoring patients' responses, and changing care plans accordingly."
+ },
+ {
+  "task_id": "18301",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Interpret information obtained from electrocardiograms (EKGs) or radiographs (x-rays)."
+ },
+ {
+  "task_id": "18302",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Perform emergency medical procedures, such as basic cardiac life support (BLS), advanced cardiac life support (ACLS), and other condition-stabilizing interventions."
+ },
+ {
+  "task_id": "18303",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Assess urgent and emergent health conditions, using both physiologically and technologically derived data."
+ },
+ {
+  "task_id": "18304",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Adjust settings on patients' assistive devices, such as temporary pacemakers."
+ },
+ {
+  "task_id": "18305",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Assess the impact of illnesses or injuries on patients' health, function, growth, development, nutrition, sleep, rest, quality of life, or family, social and educational relationships."
+ },
+ {
+  "task_id": "18306",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Collaborate with members of multidisciplinary health care teams to plan, manage, or assess patient treatments."
+ },
+ {
+  "task_id": "18307",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Discuss illnesses and treatments with patients and family members."
+ },
+ {
+  "task_id": "18308",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Document data related to patients' care, including assessment results, interventions, medications, patient responses, or treatment changes."
+ },
+ {
+  "task_id": "18309",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Treat wounds or superficial lacerations."
+ },
+ {
+  "task_id": "18310",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Set up, operate, or monitor invasive equipment and devices, such as colostomy or tracheotomy equipment, mechanical ventilators, catheters, gastrointestinal tubes, and central lines."
+ },
+ {
+  "task_id": "18311",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Obtain specimens or samples for laboratory work."
+ },
+ {
+  "task_id": "18312",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Order, perform, or interpret the results of diagnostic tests and screening procedures based on assessment results, differential diagnoses, and knowledge about age, gender and health status of clients."
+ },
+ {
+  "task_id": "18313",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Participate in patients' care meetings and conferences."
+ },
+ {
+  "task_id": "18314",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Prescribe medications and observe patients' reactions, modifying prescriptions as needed."
+ },
+ {
+  "task_id": "18315",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Refer patients for specialty consultations or treatments."
+ },
+ {
+  "task_id": "18316",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Administer blood and blood product transfusions or intravenous infusions, monitoring patients for adverse reactions."
+ },
+ {
+  "task_id": "18317",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Assist patients in organizing their health care system activities."
+ },
+ {
+  "task_id": "18318",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Assess the needs of patients' family members or caregivers."
+ },
+ {
+  "task_id": "18319",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Collaborate with patients to plan for future health care needs or to coordinate transitions and referrals."
+ },
+ {
+  "task_id": "18321",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Read current literature, talk with colleagues, and participate in professional organizations or conferences to keep abreast of developments in acute care."
+ },
+ {
+  "task_id": "18322",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Participate in the development of practice protocols."
+ },
+ {
+  "task_id": "18323",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Perform administrative duties that facilitate admission, transfer, or discharge of patients."
+ },
+ {
+  "task_id": "18324",
+  "occupation": "Acute Care Nurses",
+  "task_text": "Provide formal and informal education to other staff members."
+ },
+ {
+  "task_id": "18325",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Identify patients' age-specific needs and alter care plans as necessary to meet those needs."
+ },
+ {
+  "task_id": "18326",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Provide post-mortem care."
+ },
+ {
+  "task_id": "18327",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Evaluate patients' vital signs or laboratory data to determine emergency intervention needs."
+ },
+ {
+  "task_id": "18328",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Perform approved therapeutic or diagnostic procedures, based upon patients' clinical status."
+ },
+ {
+  "task_id": "18329",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Administer blood and blood products, monitoring patients for signs and symptoms related to transfusion reactions."
+ },
+ {
+  "task_id": "18330",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Administer medications intravenously, by injection, orally, through gastric tubes, or by other methods."
+ },
+ {
+  "task_id": "18331",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Advocate for patients' and families' needs, or provide emotional support for patients and their families."
+ },
+ {
+  "task_id": "18332",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Set up and monitor medical equipment and devices such as cardiac monitors, mechanical ventilators and alarms, oxygen delivery devices, transducers, or pressure lines."
+ },
+ {
+  "task_id": "18333",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Monitor patients' fluid intake and output to detect emerging problems, such as fluid and electrolyte imbalances."
+ },
+ {
+  "task_id": "18334",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Monitor patients for changes in status and indications of conditions such as sepsis or shock and institute appropriate interventions."
+ },
+ {
+  "task_id": "18335",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Assess patients' pain levels or sedation requirements."
+ },
+ {
+  "task_id": "18336",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Assess patients' psychosocial status and needs, including areas such as sleep patterns, anxiety, grief, anger, and support systems."
+ },
+ {
+  "task_id": "18337",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Collaborate with other health care professionals to develop and revise treatment plans, based on identified needs and assessment data."
+ },
+ {
+  "task_id": "18338",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Collect specimens for laboratory tests."
+ },
+ {
+  "task_id": "18339",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Compile and analyze data obtained from monitoring or diagnostic tests."
+ },
+ {
+  "task_id": "18340",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Conduct pulmonary assessments to identify abnormal respiratory patterns or breathing sounds that indicate problems."
+ },
+ {
+  "task_id": "18341",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Document patients' medical histories and assessment findings."
+ },
+ {
+  "task_id": "18342",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Document patients' treatment plans, interventions, outcomes, or plan revisions."
+ },
+ {
+  "task_id": "18343",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Identify patients at risk of complications due to nutritional status."
+ },
+ {
+  "task_id": "18344",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Prioritize nursing care for assigned critically ill patients, based on assessment data or identified needs."
+ },
+ {
+  "task_id": "18345",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Assist physicians with procedures such as bronchoscopy, endoscopy, endotracheal intubation, or elective cardioversion."
+ },
+ {
+  "task_id": "18346",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Ensure that equipment or devices are properly stored after use."
+ },
+ {
+  "task_id": "18347",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Identify malfunctioning equipment or devices."
+ },
+ {
+  "task_id": "18348",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Assess family adaptation levels and coping skills to determine whether intervention is needed."
+ },
+ {
+  "task_id": "18349",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Coordinate patient care conferences."
+ },
+ {
+  "task_id": "18350",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Participate in professional organizations and continuing education to improve practice knowledge and skills."
+ },
+ {
+  "task_id": "18351",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Participate in the development, review, or evaluation of nursing practice protocols."
+ },
+ {
+  "task_id": "18352",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Plan, provide, or evaluate educational programs for nursing staff, interdisciplinary health care team members, or community members."
+ },
+ {
+  "task_id": "18353",
+  "occupation": "Critical Care Nurses",
+  "task_text": "Supervise and monitor unit nursing staff."
+ },
+ {
+  "task_id": "18354",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Administer post-anesthesia medications or fluids to support patients' cardiovascular systems."
+ },
+ {
+  "task_id": "18355",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Evaluate patients' post-surgical or post-anesthesia responses, taking appropriate corrective actions or requesting consultation if complications occur."
+ },
+ {
+  "task_id": "18356",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Perform pre-anesthetic screenings, including physical evaluations and patient interviews, and document results."
+ },
+ {
+  "task_id": "18357",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Select and prescribe post-anesthesia medications or treatments to patients."
+ },
+ {
+  "task_id": "18358",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Select, order, or administer pre-anesthetic medications."
+ },
+ {
+  "task_id": "18359",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Discharge patients from post-anesthesia care."
+ },
+ {
+  "task_id": "18360",
+  "occupation": "Nurse Anesthetists",
+  "task_text": "Perform or evaluate the results of diagnostic tests, such as radiographs (x-rays) and electrocardiograms (EKGs)."
+ }
+]

@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "9345",
+  "occupation": "Photographers",
+  "task_text": "Use traditional or digital cameras, along with a variety of equipment, such as tripods, filters, and flash attachments."
+ },
+ {
+  "task_id": "9352",
+  "occupation": "Photographers",
+  "task_text": "Manipulate and enhance scanned or digital images to create desired effects, using computers and specialized software."
+ },
+ {
+  "task_id": "9343",
+  "occupation": "Photographers",
+  "task_text": "Take pictures of individuals, families, and small groups, either in studio or on location."
+ },
+ {
+  "task_id": "9357",
+  "occupation": "Photographers",
+  "task_text": "Enhance, retouch, and resize photographs and negatives, using airbrushing and other techniques."
+ },
+ {
+  "task_id": "9349",
+  "occupation": "Photographers",
+  "task_text": "Test equipment prior to use to ensure that it is in good working order."
+ },
+ {
+  "task_id": "9351",
+  "occupation": "Photographers",
+  "task_text": "Estimate or measure light levels, distances, and numbers of exposures needed, using measuring devices and formulas."
+ },
+ {
+  "task_id": "9354",
+  "occupation": "Photographers",
+  "task_text": "Perform general office duties, such as scheduling appointments, keeping books, and ordering supplies."
+ },
+ {
+  "task_id": "9350",
+  "occupation": "Photographers",
+  "task_text": "Review sets of photographs to select the best work."
+ },
+ {
+  "task_id": "9358",
+  "occupation": "Photographers",
+  "task_text": "Set up, mount, or install photographic equipment and cameras."
+ },
+ {
+  "task_id": "9355",
+  "occupation": "Photographers",
+  "task_text": "Determine project goals, locations, and equipment needs by studying assignments and consulting with clients or advertising staff."
+ },
+ {
+  "task_id": "9353",
+  "occupation": "Photographers",
+  "task_text": "Perform maintenance tasks necessary to keep equipment working properly."
+ },
+ {
+  "task_id": "9356",
+  "occupation": "Photographers",
+  "task_text": "Select and assemble equipment and required background properties, according to subjects, materials, and conditions."
+ },
+ {
+  "task_id": "9361",
+  "occupation": "Photographers",
+  "task_text": "Direct activities of workers setting up photographic equipment."
+ },
+ {
+  "task_id": "9363",
+  "occupation": "Photographers",
+  "task_text": "Engage in research to develop new photographic procedures and materials."
+ },
+ {
+  "task_id": "9368",
+  "occupation": "Photographers",
+  "task_text": "Mount, frame, laminate, or lacquer finished photographs."
+ },
+ {
+  "task_id": "20561",
+  "occupation": "Photographers",
+  "task_text": "Send film to photofinishing laboratories for processing."
+ },
+ {
+  "task_id": "9366",
+  "occupation": "Photographers",
+  "task_text": "Develop visual aids and charts for use in lectures or to present evidence in court."
+ },
+ {
+  "task_id": "9365",
+  "occupation": "Photographers",
+  "task_text": "Load and unload film."
+ },
+ {
+  "task_id": "20560",
+  "occupation": "Photographers",
+  "task_text": "Write photograph captions."
+ },
+ {
+  "task_id": "9364",
+  "occupation": "Photographers",
+  "task_text": "Set up photographic exhibitions for the purpose of displaying and selling work."
+ },
+ {
+  "task_id": "9360",
+  "occupation": "Photographers",
+  "task_text": "Produce computer-readable, digital images from film, using flatbed scanners and photofinishing laboratories."
+ },
+ {
+  "task_id": "9362",
+  "occupation": "Photographers",
+  "task_text": "Employ a variety of specialized photographic materials and techniques, including infrared and ultraviolet films, macro photography, photogrammetry and sensitometry."
+ },
+ {
+  "task_id": "9367",
+  "occupation": "Photographers",
+  "task_text": "License the use of photographs through stock photo agencies."
+ },
+ {
+  "task_id": "20559",
+  "occupation": "Photographers",
+  "task_text": "Develop and print exposed film, using chemicals, touch-up tools, and developing and printing equipment."
+ },
+ {
+  "task_id": "4031",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Compose and frame each shot, applying the technical aspects of light, lenses, film, filters, and camera settings to achieve the effects sought by directors."
+ },
+ {
+  "task_id": "4030",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Operate television or motion picture cameras to record scenes for television broadcasts, advertising, or motion pictures."
+ },
+ {
+  "task_id": "4035",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Adjust positions and controls of cameras, printers, and related equipment to change focus, exposure, and lighting."
+ },
+ {
+  "task_id": "4037",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Confer with directors, sound and lighting technicians, electricians, and other crew members to discuss assignments and determine filming sequences, desired effects, camera movements, and lighting requirements."
+ },
+ {
+  "task_id": "4032",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Operate zoom lenses, changing images according to specifications and rehearsal instructions."
+ },
+ {
+  "task_id": "4038",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Observe sets or locations for potential problems and to determine filming and lighting requirements."
+ },
+ {
+  "task_id": "18664",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Set up and perform live shots for broadcast."
+ },
+ {
+  "task_id": "4033",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Use cameras in any of several different camera mounts, such as stationary, track-mounted, or crane-mounted."
+ },
+ {
+  "task_id": "18666",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Test, clean, maintain, and repair broadcast equipment, including testing microphones, to ensure proper working condition."
+ },
+ {
+  "task_id": "18663",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Edit video for broadcast productions, including non-linear editing."
+ },
+ {
+  "task_id": "4039",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Instruct camera operators regarding camera setups, angles, distances, movement, and variables and cues for starting and stopping filming."
+ },
+ {
+  "task_id": "18665",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Assemble studio sets and select and arrange cameras, film stock, audio, or lighting equipment to be used during filming."
+ },
+ {
+  "task_id": "4046",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Read and analyze work orders and specifications to determine locations of subject material, work procedures, sequences of operations, and machine setups."
+ },
+ {
+  "task_id": "4044",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "View films to resolve problems of exposure control, subject and camera movement, changes in subject distance, and related variables."
+ },
+ {
+  "task_id": "18669",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Direct studio productions."
+ },
+ {
+  "task_id": "4043",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Set up cameras, optical printers, and related equipment to produce photographs and special effects."
+ },
+ {
+  "task_id": "4042",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Read charts and compute ratios to determine variables such as lighting, shutter angles, filter factors, and camera distances."
+ },
+ {
+  "task_id": "18668",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Set up and operate electric news gathering (ENG) microwave vehicles to gather and edit raw footage on location to send to television affiliates for broadcast."
+ },
+ {
+  "task_id": "18671",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Write new scripts for broadcasts."
+ },
+ {
+  "task_id": "18670",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Design graphics for studio productions."
+ },
+ {
+  "task_id": "18667",
+  "occupation": "Camera Operators, Television, Video, and Film",
+  "task_text": "Stay current with new technologies in the field by reading trade magazines."
+ },
+ {
+  "task_id": "4057",
+  "occupation": "Film and Video Editors",
+  "task_text": "Organize and string together raw footage into a continuous whole according to scripts or the instructions of directors and producers."
+ },
+ {
+  "task_id": "4052",
+  "occupation": "Film and Video Editors",
+  "task_text": "Edit films and videotapes to insert music, dialogue, and sound effects, to arrange films into sequences, and to correct errors, using editing equipment."
+ },
+ {
+  "task_id": "4053",
+  "occupation": "Film and Video Editors",
+  "task_text": "Select and combine the most effective shots of each scene to form a logical and smoothly running story."
+ },
+ {
+  "task_id": "4060",
+  "occupation": "Film and Video Editors",
+  "task_text": "Review footage sequence by sequence to become familiar with it before assembling it into a final product."
+ },
+ {
+  "task_id": "4061",
+  "occupation": "Film and Video Editors",
+  "task_text": "Set up and operate computer editing systems, electronic titling systems, video switching equipment, and digital video effects units to produce a final product."
+ },
+ {
+  "task_id": "4066",
+  "occupation": "Film and Video Editors",
+  "task_text": "Trim film segments to specified lengths and reassemble segments in sequences that present stories with maximum effect."
+ },
+ {
+  "task_id": "4050",
+  "occupation": "Film and Video Editors",
+  "task_text": "Cut shot sequences to different angles at specific points in scenes, making each individual cut as fluid and seamless as possible."
+ },
+ {
+  "task_id": "4058",
+  "occupation": "Film and Video Editors",
+  "task_text": "Review assembled films or edited videotapes on screens or monitors to determine if corrections are necessary."
+ },
+ {
+  "task_id": "4056",
+  "occupation": "Film and Video Editors",
+  "task_text": "Verify key numbers and time codes on materials."
+ },
+ {
+  "task_id": "4064",
+  "occupation": "Film and Video Editors",
+  "task_text": "Manipulate plot, score, sound, and graphics to make the parts into a continuous whole, working closely with people in audio, visual, music, optical, or special effects departments."
+ },
+ {
+  "task_id": "4059",
+  "occupation": "Film and Video Editors",
+  "task_text": "Program computerized graphic effects."
+ },
+ {
+  "task_id": "4051",
+  "occupation": "Film and Video Editors",
+  "task_text": "Study scripts to become familiar with production concepts and requirements."
+ },
+ {
+  "task_id": "4065",
+  "occupation": "Film and Video Editors",
+  "task_text": "Supervise and coordinate activities of workers engaged in film editing, assembling, and recording activities."
+ },
+ {
+  "task_id": "4055",
+  "occupation": "Film and Video Editors",
+  "task_text": "Determine the specific audio and visual effects and music necessary to complete films."
+ },
+ {
+  "task_id": "4054",
+  "occupation": "Film and Video Editors",
+  "task_text": "Mark frames where a particular shot or piece of sound is to begin or end."
+ },
+ {
+  "task_id": "4062",
+  "occupation": "Film and Video Editors",
+  "task_text": "Record needed sounds or obtain them from sound effects libraries."
+ },
+ {
+  "task_id": "4069",
+  "occupation": "Film and Video Editors",
+  "task_text": "Conduct film screenings for directors and members of production staffs."
+ },
+ {
+  "task_id": "4071",
+  "occupation": "Film and Video Editors",
+  "task_text": "Discuss the sound requirements of pictures with sound effects editors."
+ },
+ {
+  "task_id": "4068",
+  "occupation": "Film and Video Editors",
+  "task_text": "Piece sounds together to develop film soundtracks."
+ },
+ {
+  "task_id": "4063",
+  "occupation": "Film and Video Editors",
+  "task_text": "Confer with producers and directors concerning layout or editing approaches needed to increase dramatic or entertainment value of productions."
+ },
+ {
+  "task_id": "4067",
+  "occupation": "Film and Video Editors",
+  "task_text": "Develop post-production models for films."
+ },
+ {
+  "task_id": "4070",
+  "occupation": "Film and Video Editors",
+  "task_text": "Collaborate with music editors to select appropriate passages of music and develop production scores."
+ },
+ {
+  "task_id": "9428",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Take, receive, or check periodic inmate counts."
+ },
+ {
+  "task_id": "9429",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Maintain order, discipline, and security within assigned areas in accordance with relevant rules, regulations, policies, and laws."
+ },
+ {
+  "task_id": "9431",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Maintain knowledge of, comply with, and enforce all institutional policies, rules, procedures, and regulations."
+ },
+ {
+  "task_id": "9430",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Respond to emergencies, such as escapes."
+ },
+ {
+  "task_id": "9432",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Supervise and direct the work of correctional officers to ensure the safe custody, discipline, and welfare of inmates."
+ },
+ {
+  "task_id": "9434",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Supervise or perform searches of inmates or their quarters to locate contraband items."
+ },
+ {
+  "task_id": "9435",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Monitor behavior of subordinates to ensure alert, courteous, and professional behavior toward inmates, parolees, fellow employees, visitors, and the public."
+ },
+ {
+  "task_id": "9433",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Restrain, secure, or control offenders, using chemical agents, firearms, or other weapons of force as necessary."
+ },
+ {
+  "task_id": "9440",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Carry injured offenders or employees to safety and provide emergency first aid when necessary."
+ },
+ {
+  "task_id": "9436",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Complete administrative paperwork or supervise the preparation or maintenance of records, forms, or reports."
+ },
+ {
+  "task_id": "9439",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Supervise activities, such as searches, shakedowns, riot control, or institutional tours."
+ },
+ {
+  "task_id": "9438",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Conduct roll calls of correctional officers."
+ },
+ {
+  "task_id": "9437",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Instruct employees or provide on-the-job training."
+ },
+ {
+  "task_id": "9444",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Resolve problems between inmates."
+ },
+ {
+  "task_id": "9443",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Set up employee work schedules."
+ },
+ {
+  "task_id": "9448",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Examine incoming or outgoing mail to ensure conformance with regulations."
+ },
+ {
+  "task_id": "9447",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Transfer or transport offenders on foot or by driving vehicles, such as trailers, vans, or buses."
+ },
+ {
+  "task_id": "20255",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Review offender information to identify issues that require special attention."
+ },
+ {
+  "task_id": "9442",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Develop work or security procedures."
+ },
+ {
+  "task_id": "9449",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Convey correctional officers' or inmates' complaints to superiors."
+ },
+ {
+  "task_id": "9441",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Supervise or provide security for offenders performing tasks, such as construction, maintenance, laundry, food service, or other industrial or agricultural operations."
+ },
+ {
+  "task_id": "21196",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Conduct evaluations of employees' performance."
+ },
+ {
+  "task_id": "9446",
+  "occupation": "First-Line Supervisors of Correctional Officers",
+  "task_text": "Rate behavior of inmates, promoting acceptable attitudes and behaviors to those with low ratings."
+ },
+ {
+  "task_id": "566",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Supervise and coordinate the investigation of criminal cases, offering guidance and expertise to investigators, and ensuring that procedures are conducted in accordance with laws and regulations."
+ },
+ {
+  "task_id": "574",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Prepare work schedules and assign duties to subordinates."
+ },
+ {
+  "task_id": "571",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Direct collection, preparation, and handling of evidence and personal property of prisoners."
+ },
+ {
+  "task_id": "567",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Investigate and resolve personnel problems within organization and charges of misconduct against staff."
+ },
+ {
+  "task_id": "564",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Explain police operations to subordinates to assist them in performing their job duties."
+ },
+ {
+  "task_id": "569",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Maintain logs, prepare reports, and direct the preparation, handling, and maintenance of departmental records."
+ },
+ {
+  "task_id": "565",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Inform personnel of changes in regulations and policies, implications of new or amended laws, and new techniques of police work."
+ },
+ {
+  "task_id": "568",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Train staff in proper police work procedures."
+ },
+ {
+  "task_id": "575",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Discipline staff for violation of department rules and regulations."
+ },
+ {
+  "task_id": "570",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Monitor and evaluate the job performance of subordinates, and authorize promotions and transfers."
+ },
+ {
+  "task_id": "577",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Review contents of written orders to ensure adherence to legal requirements."
+ },
+ {
+  "task_id": "573",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Conduct raids and order detention of witnesses and suspects for questioning."
+ },
+ {
+  "task_id": "576",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Cooperate with court personnel and officials from other law enforcement agencies and testify in court, as necessary."
+ },
+ {
+  "task_id": "581",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Meet with civic, educational, and community groups to develop community programs and events, and to discuss law enforcement subjects."
+ },
+ {
+  "task_id": "578",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Inspect facilities, supplies, vehicles, and equipment to ensure conformance to standards."
+ },
+ {
+  "task_id": "582",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Direct release or transfer of prisoners."
+ },
+ {
+  "task_id": "580",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Requisition and issue equipment and supplies."
+ },
+ {
+  "task_id": "572",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Develop, implement, and revise departmental policies and procedures."
+ },
+ {
+  "task_id": "579",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Prepare news releases and respond to police correspondence."
+ },
+ {
+  "task_id": "583",
+  "occupation": "First-Line Supervisors of Police and Detectives",
+  "task_text": "Prepare budgets and manage expenditures of department funds."
+ },
+ {
+  "task_id": "22910",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Assign firefighters to jobs at strategic locations to facilitate rescue of persons and maximize application of extinguishing agents."
+ },
+ {
+  "task_id": "22911",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Provide emergency medical services as required, and perform light to heavy rescue functions at emergencies."
+ },
+ {
+  "task_id": "22912",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Assess nature and extent of fire, condition of building, danger to adjacent buildings, and water supply status to determine crew or company requirements."
+ },
+ {
+  "task_id": "22913",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Communicate fire details to superiors, subordinates, or interagency dispatch centers, using two-way radios."
+ },
+ {
+  "task_id": "22914",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Serve as a working leader of an engine, hand, helicopter, or prescribed fire crew of three or more firefighters."
+ },
+ {
+  "task_id": "22915",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Instruct and drill fire department personnel in assigned duties, including firefighting, medical care, hazardous materials response, fire prevention, and related subjects."
+ },
+ {
+  "task_id": "22916",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Maintain fire suppression equipment in good condition, checking equipment periodically to ensure that it is ready for use."
+ },
+ {
+  "task_id": "22917",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Evaluate the performance of assigned firefighting personnel."
+ },
+ {
+  "task_id": "22918",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Direct the training of firefighters, assigning of instructors to training classes, and providing of supervisors with reports on training progress and status."
+ },
+ {
+  "task_id": "22919",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Perform maintenance and minor repairs on firefighting equipment, including vehicles, and write and submit proposals to modify, replace, and repair equipment."
+ },
+ {
+  "task_id": "22920",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Schedule employee work assignments and set work priorities."
+ },
+ {
+  "task_id": "22921",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Monitor fire suppression expenditures to ensure that they are necessary and reasonable."
+ },
+ {
+  "task_id": "22922",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Participate in creating fire safety guidelines and evacuation schemes for nonresidential buildings."
+ },
+ {
+  "task_id": "22923",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Maintain required maps and records."
+ },
+ {
+  "task_id": "22924",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Drive crew carriers to transport firefighters to fire sites."
+ },
+ {
+  "task_id": "22925",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Inspect stations, uniforms, equipment, or recreation areas to ensure compliance with safety standards, taking corrective action as necessary."
+ },
+ {
+  "task_id": "22926",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Evaluate fire station procedures to ensure efficiency and enforcement of departmental regulations."
+ },
+ {
+  "task_id": "22927",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Direct firefighters in station maintenance duties, and participate in these duties."
+ },
+ {
+  "task_id": "22928",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Recommend personnel actions related to disciplinary procedures, performance, leaves of absence, and grievances."
+ },
+ {
+  "task_id": "22929",
+  "occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+  "task_text": "Perform administrative duties, such as compiling and maintaining records, completing forms, preparing reports, or composing correspondence."
+ }
+]

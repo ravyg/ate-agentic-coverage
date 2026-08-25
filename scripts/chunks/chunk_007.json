@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "2717",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Read and effectively interpret small-scale maps and information from a computer screen to determine locations and provide directions."
+ },
+ {
+  "task_id": "2718",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Answer routine inquiries, and refer calls not requiring dispatches to appropriate departments and agencies."
+ },
+ {
+  "task_id": "2719",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Provide emergency medical instructions to callers."
+ },
+ {
+  "task_id": "2720",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Monitor alarm systems to detect emergencies, such as fires and illegal entry into establishments."
+ },
+ {
+  "task_id": "2721",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Test and adjust communication and alarm systems, and report malfunctions to maintenance units."
+ },
+ {
+  "task_id": "2722",
+  "occupation": "Public Safety Telecommunicators",
+  "task_text": "Operate and maintain mobile dispatch vehicles and equipment."
+ },
+ {
+  "task_id": "2723",
+  "occupation": "Dispatchers, Except Police, Fire, and Ambulance",
+  "task_text": "Schedule or dispatch workers, work crews, equipment, or service vehicles to appropriate locations, according to customer requests, specifications, or needs, using radios or telephones."
+ },
+ {
+  "task_id": "2724",
+  "occupation": "Dispatchers, Except Police, Fire, and Ambulance",
+  "task_text": "Arrange for necessary repairs to restore service and schedules."
+ },
+ {
+  "task_id": "2725",
+  "occupation": "Dispatchers, Except Police, Fire, and Ambulance",
+  "task_text": "Relay work orders, messages, or information to or from work crews, supervisors, or field inspectors, using telephones or two-way radios."
+ },
+ {
+  "task_id": "2726",
+  "occupation": "Dispatchers, Except Police, Fire, and Ambulance",
+  "task_text": "Confer with customers or supervising personnel to address questions, problems, or requests for service or equipment."
+ },
+ {
+  "task_id": "2727",
+  "occupation": "Dispatchers, Except Police, Fire, and Ambulance",
+  "task_text": "Prepare daily work and run schedules."
+ },
+ {
+  "task_id": "2728",
+  "occupation": "Dispatchers, Except Police, Fire, and Ambulance",
+  "task_text": "Receive or prepare work orders."
+ },
+ {
+  "task_id": "2729",
+  "occupation": "Dispatchers, Except Police, Fire, and Ambulance",
+  "task_text": "Oversee all communications within specifically assigned territories."
+ },
+ {
+  "task_id": "2730",
+  "occupation": "Dispatchers, Except Police, Fire, and Ambulance",
+  "task_text": "Monitor personnel or equipment locations and utilization to coordinate service and schedules."
+ },
+ {
+  "task_id": "2731",
+  "occupation": "Dispatchers, Except Police, Fire, and Ambulance",
+  "task_text": "Record and maintain files or records of customer requests, work or services performed, charges, expenses, inventory, or other dispatch information."
+ },
+ {
+  "task_id": "2732",
+  "occupation": "Dispatchers, Except Police, Fire, and Ambulance",
+  "task_text": "Determine types or amounts of equipment, vehicles, materials, or personnel required, according to work orders or specifications."
+ },
+ {
+  "task_id": "2733",
+  "occupation": "Dispatchers, Except Police, Fire, and Ambulance",
+  "task_text": "Advise personnel about traffic problems, such as construction areas, accidents, congestion, weather conditions, or other hazards."
+ },
+ {
+  "task_id": "2735",
+  "occupation": "Dispatchers, Except Police, Fire, and Ambulance",
+  "task_text": "Order supplies or equipment and issue them to personnel."
+ },
+ {
+  "task_id": "2770",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Manage and maintain executives' schedules."
+ },
+ {
+  "task_id": "2771",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Prepare invoices, reports, memos, letters, financial statements, and other documents, using word processing, spreadsheet, database, or presentation software."
+ },
+ {
+  "task_id": "2772",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Read and analyze incoming memos, submissions, and reports to determine their significance and plan their distribution."
+ },
+ {
+  "task_id": "2773",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Open, sort, and distribute incoming correspondence, including faxes and email."
+ },
+ {
+  "task_id": "2774",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "File and retrieve corporate documents, records, and reports."
+ },
+ {
+  "task_id": "2775",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Greet visitors and determine whether they should be given access to specific individuals."
+ },
+ {
+  "task_id": "2776",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Prepare responses to correspondence containing routine inquiries."
+ },
+ {
+  "task_id": "2779",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Make travel arrangements for executives."
+ },
+ {
+  "task_id": "2780",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Conduct research, compile data, and prepare papers for consideration and presentation by executives, committees, and boards of directors."
+ },
+ {
+  "task_id": "2781",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Compile, transcribe, and distribute minutes of meetings."
+ },
+ {
+  "task_id": "2782",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Attend meetings to record minutes."
+ },
+ {
+  "task_id": "2784",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Meet with individuals, special interest groups, and others on behalf of executives, committees, and boards of directors."
+ },
+ {
+  "task_id": "2785",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Set up and oversee administrative policies and procedures for offices or organizations."
+ },
+ {
+  "task_id": "2787",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Review operating practices and procedures to determine whether improvements can be made in areas such as workflow, reporting procedures, or expenditures."
+ },
+ {
+  "task_id": "2788",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Interpret administrative and operating policies and procedures for employees."
+ },
+ {
+  "task_id": "2790",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Answer telephones and give information to callers, take messages, or transfer calls to appropriate individuals."
+ },
+ {
+  "task_id": "2791",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Greet visitors or callers and handle their inquiries or direct them to the appropriate persons according to their needs."
+ },
+ {
+  "task_id": "2793",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Locate and attach appropriate files to incoming correspondence requiring replies."
+ },
+ {
+  "task_id": "2794",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Open, read, route, and distribute incoming mail or other materials and answer routine letters."
+ },
+ {
+  "task_id": "2795",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Complete forms in accordance with company procedures."
+ },
+ {
+  "task_id": "2796",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Make copies of correspondence or other printed material."
+ },
+ {
+  "task_id": "2797",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Review work done by others to check for correct spelling and grammar, ensure that company format policies are followed, and recommend revisions."
+ },
+ {
+  "task_id": "2799",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Learn to operate new office technologies as they are developed and implemented."
+ },
+ {
+  "task_id": "2800",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Maintain scheduling and event calendars."
+ },
+ {
+  "task_id": "2801",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Schedule and confirm appointments for clients, customers, or supervisors."
+ },
+ {
+  "task_id": "2802",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Manage projects or contribute to committee or team work."
+ },
+ {
+  "task_id": "2803",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Mail newsletters, promotional material, or other information."
+ },
+ {
+  "task_id": "2804",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Order and dispense supplies."
+ },
+ {
+  "task_id": "2805",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Conduct searches to find needed information, using such sources as the Internet."
+ },
+ {
+  "task_id": "2806",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Provide services to customers, such as order placement or account information."
+ },
+ {
+  "task_id": "2808",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Prepare and mail checks."
+ },
+ {
+  "task_id": "2809",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Establish work procedures or schedules and keep track of the daily work of clerical staff."
+ },
+ {
+  "task_id": "2812",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Arrange conference, meeting, or travel reservations for office personnel."
+ },
+ {
+  "task_id": "2813",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Operate electronic mail systems and coordinate the flow of information, internally or with other organizations."
+ },
+ {
+  "task_id": "2814",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Supervise other clerical staff and provide training and orientation to new staff."
+ },
+ {
+  "task_id": "2815",
+  "occupation": "Desktop Publishers",
+  "task_text": "Check preliminary and final proofs for errors and make necessary corrections."
+ },
+ {
+  "task_id": "2816",
+  "occupation": "Desktop Publishers",
+  "task_text": "Operate desktop publishing software and equipment to design, lay out, and produce camera-ready copy."
+ },
+ {
+  "task_id": "2817",
+  "occupation": "Desktop Publishers",
+  "task_text": "View monitors for visual representation of work in progress and for instructions and feedback throughout process, making modifications as necessary."
+ },
+ {
+  "task_id": "2818",
+  "occupation": "Desktop Publishers",
+  "task_text": "Enter text into computer keyboard and select the size and style of type, column width, and appropriate spacing for printed materials."
+ },
+ {
+  "task_id": "2819",
+  "occupation": "Desktop Publishers",
+  "task_text": "Store copies of publications on paper, magnetic tape, film, or diskette."
+ },
+ {
+  "task_id": "2820",
+  "occupation": "Desktop Publishers",
+  "task_text": "Position text and art elements from a variety of databases in a visually appealing way to design print or web pages, using knowledge of type styles and size and layout patterns."
+ },
+ {
+  "task_id": "2821",
+  "occupation": "Desktop Publishers",
+  "task_text": "Enter digitized data into electronic prepress system computer memory, using scanner, camera, keyboard, or mouse."
+ },
+ {
+  "task_id": "2822",
+  "occupation": "Desktop Publishers",
+  "task_text": "Edit graphics and photos, using pixel or bitmap editing, airbrushing, masking, or image retouching."
+ },
+ {
+  "task_id": "2823",
+  "occupation": "Desktop Publishers",
+  "task_text": "Import text and art elements, such as electronic clip art or electronic files from photographs that have been scanned or produced with a digital camera, using computer software."
+ },
+ {
+  "task_id": "2824",
+  "occupation": "Desktop Publishers",
+  "task_text": "Prepare sample layouts for approval, using computer software."
+ },
+ {
+  "task_id": "2825",
+  "occupation": "Desktop Publishers",
+  "task_text": "Study layout or other design instructions to determine work to be done and sequence of operations."
+ },
+ {
+  "task_id": "2826",
+  "occupation": "Desktop Publishers",
+  "task_text": "Load floppy disks or tapes containing information into system."
+ },
+ {
+  "task_id": "2827",
+  "occupation": "Desktop Publishers",
+  "task_text": "Convert various types of files for printing or for the Internet, using computer software."
+ },
+ {
+  "task_id": "2828",
+  "occupation": "Desktop Publishers",
+  "task_text": "Enter data, such as coordinates of images and color specifications, into system to retouch and make color corrections."
+ },
+ {
+  "task_id": "2829",
+  "occupation": "Desktop Publishers",
+  "task_text": "Select number of colors and determine color separations."
+ },
+ {
+  "task_id": "2830",
+  "occupation": "Desktop Publishers",
+  "task_text": "Transmit, deliver, or mail publication master to printer for production into film and plates."
+ },
+ {
+  "task_id": "2831",
+  "occupation": "Desktop Publishers",
+  "task_text": "Collaborate with graphic artists, editors and writers to produce master copies according to design specifications."
+ },
+ {
+  "task_id": "2832",
+  "occupation": "Desktop Publishers",
+  "task_text": "Create special effects such as vignettes, mosaics, and image combining, and add elements such as sound and animation to electronic publications."
+ },
+ {
+  "task_id": "3351",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Evaluate job positions, determining classification, exempt or non-exempt status, and salary."
+ },
+ {
+  "task_id": "3352",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Ensure company compliance with federal and state laws, including reporting requirements."
+ },
+ {
+  "task_id": "3353",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Advise managers and employees on state and federal employment regulations, collective agreements, benefit and compensation policies, personnel procedures, and classification programs."
+ },
+ {
+  "task_id": "3354",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Plan, develop, evaluate, improve, and communicate methods and techniques for selecting, promoting, compensating, evaluating, and training workers."
+ },
+ {
+  "task_id": "3355",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Provide advice on the resolution of classification and salary complaints."
+ },
+ {
+  "task_id": "3356",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Prepare occupational classifications, job descriptions, and salary scales."
+ },
+ {
+  "task_id": "3357",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Assist in preparing and maintaining personnel records and handbooks."
+ },
+ {
+  "task_id": "3358",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Prepare reports, such as organization and flow charts and career path reports, to summarize job analysis and evaluation and compensation analysis information."
+ },
+ {
+  "task_id": "3359",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Administer employee insurance, pension, and savings plans, working with insurance brokers and plan carriers."
+ },
+ {
+  "task_id": "3360",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Negotiate collective agreements on behalf of employers or workers, and mediate labor disputes and grievances."
+ },
+ {
+  "task_id": "3361",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Develop, implement, administer, and evaluate personnel and labor relations programs, including performance appraisal, affirmative action, and employment equity programs."
+ },
+ {
+  "task_id": "3362",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Perform multifactor data and cost analyses that may be used in areas such as support of collective bargaining agreements."
+ },
+ {
+  "task_id": "3363",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Research employee benefit and health and safety practices, and recommend changes or modifications to existing policies."
+ },
+ {
+  "task_id": "3364",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Analyze organizational, occupational, and industrial data to facilitate organizational functions and provide technical information to business, industry, and government."
+ },
+ {
+  "task_id": "3365",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Advise staff of individuals' qualifications."
+ },
+ {
+  "task_id": "3366",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Assess need for and develop job analysis instruments and materials."
+ },
+ {
+  "task_id": "3368",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Research job and worker requirements, structural and functional relationships among jobs and occupations, and occupational trends."
+ },
+ {
+  "task_id": "3369",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Plan and develop curricula and materials for training programs and conduct training."
+ },
+ {
+  "task_id": "3370",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Observe, interview, and survey employees and conduct focus group meetings to collect job, organizational, and occupational information."
+ },
+ {
+  "task_id": "3371",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Consult with, or serve as, technical liaison between business, industry, government, and union officials."
+ },
+ {
+  "task_id": "3372",
+  "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+  "task_text": "Prepare research results for publication in form of journals, books, manuals, and film."
+ },
+ {
+  "task_id": "3394",
+  "occupation": "Budget Analysts",
+  "task_text": "Analyze monthly department budgeting and accounting reports to maintain expenditure controls."
+ },
+ {
+  "task_id": "3395",
+  "occupation": "Budget Analysts",
+  "task_text": "Direct the preparation of regular and special budget reports."
+ },
+ {
+  "task_id": "3396",
+  "occupation": "Budget Analysts",
+  "task_text": "Consult with managers to ensure that budget adjustments are made in accordance with program changes."
+ },
+ {
+  "task_id": "3397",
+  "occupation": "Budget Analysts",
+  "task_text": "Match appropriations for specific programs with appropriations for broader programs, including items for emergency funds."
+ },
+ {
+  "task_id": "3398",
+  "occupation": "Budget Analysts",
+  "task_text": "Provide advice and technical assistance with cost analysis, fiscal allocation, and budget preparation."
+ },
+ {
+  "task_id": "3399",
+  "occupation": "Budget Analysts",
+  "task_text": "Summarize budgets and submit recommendations for the approval or disapproval of funds requests."
+ },
+ {
+  "task_id": "3400",
+  "occupation": "Budget Analysts",
+  "task_text": "Seek new ways to improve efficiency and increase profits."
+ },
+ {
+  "task_id": "3401",
+  "occupation": "Budget Analysts",
+  "task_text": "Review operating budgets to analyze trends affecting budget needs."
+ },
+ {
+  "task_id": "3402",
+  "occupation": "Budget Analysts",
+  "task_text": "Examine budget estimates for completeness, accuracy, and conformance with procedures and regulations."
+ },
+ {
+  "task_id": "3403",
+  "occupation": "Budget Analysts",
+  "task_text": "Perform cost-benefit analyses to compare operating programs, review financial requests, or explore alternative financing methods."
+ },
+ {
+  "task_id": "3404",
+  "occupation": "Budget Analysts",
+  "task_text": "Interpret budget directives and establish policies for carrying out directives."
+ },
+ {
+  "task_id": "3405",
+  "occupation": "Budget Analysts",
+  "task_text": "Compile and analyze accounting records and other data to determine the financial resources required to implement a program."
+ },
+ {
+  "task_id": "3406",
+  "occupation": "Budget Analysts",
+  "task_text": "Testify before examining and fund-granting authorities, clarifying and promoting the proposed budgets."
+ },
+ {
+  "task_id": "3407",
+  "occupation": "Loan Officers",
+  "task_text": "Approve loans within specified limits, and refer loan applications outside those limits to management for approval."
+ },
+ {
+  "task_id": "3408",
+  "occupation": "Loan Officers",
+  "task_text": "Meet with applicants to obtain information for loan applications and to answer questions about the process."
+ },
+ {
+  "task_id": "3409",
+  "occupation": "Loan Officers",
+  "task_text": "Analyze applicants' financial status, credit, and property evaluations to determine feasibility of granting loans."
+ },
+ {
+  "task_id": "3410",
+  "occupation": "Loan Officers",
+  "task_text": "Explain to customers the different types of loans and credit options that are available, as well as the terms of those services."
+ },
+ {
+  "task_id": "3411",
+  "occupation": "Loan Officers",
+  "task_text": "Obtain and compile copies of loan applicants' credit histories, corporate financial statements, and other financial information."
+ },
+ {
+  "task_id": "3412",
+  "occupation": "Loan Officers",
+  "task_text": "Review and update credit and loan files."
+ },
+ {
+  "task_id": "3413",
+  "occupation": "Loan Officers",
+  "task_text": "Review loan agreements to ensure that they are complete and accurate according to policy."
+ },
+ {
+  "task_id": "3414",
+  "occupation": "Loan Officers",
+  "task_text": "Compute payment schedules."
+ },
+ {
+  "task_id": "3415",
+  "occupation": "Loan Officers",
+  "task_text": "Stay abreast of new types of loans and other financial services and products to better meet customers' needs."
+ },
+ {
+  "task_id": "3416",
+  "occupation": "Loan Officers",
+  "task_text": "Submit applications to credit analysts for verification and recommendation."
+ },
+ {
+  "task_id": "3417",
+  "occupation": "Loan Officers",
+  "task_text": "Handle customer complaints and take appropriate action to resolve them."
+ },
+ {
+  "task_id": "3418",
+  "occupation": "Loan Officers",
+  "task_text": "Work with clients to identify their financial goals and to find ways of reaching those goals."
+ },
+ {
+  "task_id": "3421",
+  "occupation": "Loan Officers",
+  "task_text": "Market bank products to individuals and firms, promoting bank services that may meet customers' needs."
+ },
+ {
+  "task_id": "3422",
+  "occupation": "Loan Officers",
+  "task_text": "Supervise loan personnel."
+ },
+ {
+  "task_id": "3423",
+  "occupation": "Loan Officers",
+  "task_text": "Set credit policies, credit lines, procedures and standards in conjunction with senior managers."
+ },
+ {
+  "task_id": "3425",
+  "occupation": "Loan Officers",
+  "task_text": "Analyze potential loan markets and develop referral networks to locate prospects for loans."
+ },
+ {
+  "task_id": "3426",
+  "occupation": "Loan Officers",
+  "task_text": "Prepare reports to send to customers whose accounts are delinquent, and forward irreconcilable accounts for collector action."
+ },
+ {
+  "task_id": "3773",
+  "occupation": "Lawyers",
+  "task_text": "Advise clients concerning business transactions, claim liability, advisability of prosecuting or defending lawsuits, or legal rights and obligations."
+ },
+ {
+  "task_id": "3774",
+  "occupation": "Lawyers",
+  "task_text": "Interpret laws, rulings and regulations for individuals and businesses."
+ },
+ {
+  "task_id": "3775",
+  "occupation": "Lawyers",
+  "task_text": "Analyze the probable outcomes of cases, using knowledge of legal precedents."
+ },
+ {
+  "task_id": "3776",
+  "occupation": "Lawyers",
+  "task_text": "Present and summarize cases to judges and juries."
+ },
+ {
+  "task_id": "3777",
+  "occupation": "Lawyers",
+  "task_text": "Evaluate findings and develop strategies and arguments in preparation for presentation of cases."
+ },
+ {
+  "task_id": "3778",
+  "occupation": "Lawyers",
+  "task_text": "Gather evidence to formulate defense or to initiate legal actions by such means as interviewing clients and witnesses to ascertain the facts of a case."
+ },
+ {
+  "task_id": "3779",
+  "occupation": "Lawyers",
+  "task_text": "Represent clients in court or before government agencies."
+ },
+ {
+  "task_id": "3780",
+  "occupation": "Lawyers",
+  "task_text": "Examine legal data to determine advisability of defending or prosecuting lawsuit."
+ }
+]

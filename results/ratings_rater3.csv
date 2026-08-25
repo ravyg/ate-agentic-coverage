@@ -1,0 +1,101 @@
+task_id,coverage,reason
+6624,0.15,requires human conferring and responsibility for student outcomes
+9743,0.55,can compile and relay info but interviewing applicants needs human presence
+1147,0.30,can draft terms but negotiating and signing contracts needs human authority
+1772,0.25,can prepare guidance but live coaching of people needs human presence
+21451,0.30,can draft questions but interviewing officials and licensing decisions need human
+19227,0.00,physical placement of headphones on a patient
+19045,0.40,can draft procedural communications but liaising with counsel needs a human
+15863,0.30,can analyze but interviewing staff and touring facilities needs presence
+22630,0.45,research and writing doable but interviews and observation need presence
+9384,0.00,physical fitting and adjustment of devices on patients
+6842,0.15,counseling students requires human relationship and presence
+9195,0.30,can synthesize information but gathering from people and court recs need human
+6946,0.05,in-person observation and interaction with psychiatric patients
+275,0.30,can help plan but treatment coordination needs licensed human accountability
+20966,0.25,can prepare figures but negotiating prices needs human authority
+2002,0.20,admission interview and recording needs in-person human contact
+1831,0.05,counseling patients requires licensed clinician presence
+7361,0.35,can process data but interviewing clients needs human interaction
+18940,0.85,records maintenance and updating is largely automatable text/data work
+19181,0.10,building rapport with clients requires human presence
+1827,0.55,can analyze data and suggest diagnosis but clinical accountability needs human
+18364,0.00,physical administration of anesthetics
+7065,0.00,physical concrete finishing on site
+18454,0.05,prescribing requires licensed human authority
+9960,0.60,can interpret written descriptions and diagnose likely causes from text
+22888,0.45,can flag conflicts but resolving with doctors needs human consultation
+340,0.05,prescribing requires licensed practitioner authority
+17260,0.55,can design exercise programs but prescribing carries clinical responsibility
+2874,0.10,physical diagnosis with test equipment and hand tools on site
+16505,0.70,failure/reliability/yield analysis is largely computational and doable
+17216,0.55,can evaluate effectiveness from data but clinical judgment needs human
+18430,0.05,diagnosing and treating visual disorders requires in-person clinician
+20734,0.55,can analyze failures and recommend actions from data and documentation
+17066,0.05,prescribing medication requires licensed authority
+8931,0.00,witnessing and certifying deaths requires human legal authority
+22211,0.10,diagnosing and treating neurological conditions needs clinician
+11357,0.10,physical handling and registering of parcels
+15212,0.00,physical culturing and maintenance of microorganisms
+10881,0.10,physical inspection and operation of test setups
+22748,0.05,diagnosing and treating musculoskeletal disorders requires surgeon
+18448,0.40,documenting exam findings is text work but exam itself needs human
+10198,0.00,physical repair of molds and equipment with tools
+23824,0.55,can arrange fueling/supplies/repairs via comms but final authority is human
+16555,0.15,on-site construction monitoring requires presence
+5185,0.00,physical assembly of bicycles
+20315,0.40,can plan and organize programs but delivery and CPR needs humans
+4996,0.00,physical cleaning of vehicle windows
+4865,0.00,physical disassembly and removal of pipe
+23550,0.00,physical repair and rebuild of transmissions
+9489,0.00,physical food preparation and cooking
+1007,0.35,can draft and evaluate vendor contracts but signing needs authority
+19046,0.40,can research legal questions but conferring with judges needs human
+2364,0.00,physical childcare housekeeping duties
+4836,0.00,physical electrical labor
+15817,0.75,cost estimation for maintenance is largely analytical data work
+23373,0.00,physical repair of farm vehicles and equipment
+16296,0.75,survey computation and adjustment is quantitative computable work
+5190,0.00,physical tire tube repair
+5177,0.05,physical equipment maintenance and repairs
+3121,0.00,physical installation of parts into machines
+22599,0.20,can generate music but live improvised performance needs human performer
+22726,0.00,physical emergency resuscitation on patients
+22911,0.00,physical rescue and emergency medical services on scene
+23908,0.05,crisis intervention requires human presence and responsibility
+21297,0.45,can draft plans but directing and emergency response needs human authority
+7259,0.75,tracking regulations and ensuring plan compliance is research/text work
+13245,0.20,live assistance to callers and emergencies needs human presence
+22730,0.30,can interpret some diagnostics but performing procedures needs clinician
+20839,0.10,physical motorist assistance on site
+7256,0.85,maintaining and updating resource materials is document work
+12351,0.05,implementing physical emergency response procedures on site
+2127,0.10,emergency field work requires human presence and authority
+7270,0.55,can design and support surveys but fieldwork needs human presence
+21347,0.80,developing and documenting operating procedures is writing work
+5385,0.10,initiating shutdowns requires licensed operator authority on site
+7755,0.00,physical life support and airway management
+60,0.15,physical facility inspection though recommendations are text-based
+2714,0.85,maintaining information files is data/records work
+21768,0.85,coordinating documentation of security policies is text work
+5045,0.35,can maintain records but observing conditions and treatment needs presence
+21363,0.65,evaluating contractors on records is analytical research work
+4268,0.70,scheduling, data collection, and billing documentation are clerical
+21463,0.55,can draft requirements but stakeholder decisions need human sign-off
+8601,0.35,can plan dispatch but actual emergency dispatch needs human accountability
+10772,0.00,physical direction of crane rigging on site
+6844,0.75,reviewing content and drafting revision recommendations is analytical
+12365,0.05,physical inspection of machines for hazards and wear
+23380,0.20,in-field plant and pest identification needs on-site presence
+21657,0.90,testing programs and correcting code errors is core software work
+21497,0.70,preparing case report documentation is writing work
+23096,0.10,responding to students on a bus requires human presence
+5812,0.35,can draft input but collaborating with colleagues needs human interaction
+21992,0.35,can maintain inventory docs but procuring parts needs human authorization
+12486,0.10,physically reading dials and meters on equipment
+10563,0.00,in-flight emergency response requires pilot presence
+17548,0.35,can gather public records but field observation and sources need human
+19802,0.55,can contribute to R&D design work but field deployment needs presence
+17235,0.35,can draft treatment plan drafts but radiology accountability needs physician
+15479,0.20,monitoring plant control systems requires on-site or authorized operator
+17161,0.10,instructing residents in procedures requires human presence

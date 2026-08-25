@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "20247",
+  "occupation": "Pediatricians, General",
+  "task_text": "Prepare government or organizational reports of birth, death, and disease statistics, workforce evaluations, or medical status of individuals."
+ },
+ {
+  "task_id": "20254",
+  "occupation": "Medical Transcriptionists",
+  "task_text": "Take dictation using shorthand, a stenotype machine, or headsets and transcribing machines."
+ },
+ {
+  "task_id": "20266",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Direct and supervise employees engaged in sales, inventory-taking, reconciling cash receipts, or performing specific services."
+ },
+ {
+  "task_id": "20267",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Prepare sales contracts and order forms."
+ },
+ {
+  "task_id": "20268",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Negotiate details of contracts and payments."
+ },
+ {
+  "task_id": "20271",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Track delivery progress of shipments."
+ },
+ {
+  "task_id": "20272",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Notify consignees, passengers, or customers of freight or baggage arrival and arrange for delivery."
+ },
+ {
+  "task_id": "20273",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Check import or export documentation to determine cargo contents and use tariff coding system to classify goods according to fee or tariff group."
+ },
+ {
+  "task_id": "20274",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Prepare manifests showing numbers of airplane passengers and baggage, mail, and freight weights, transmitting data to destinations."
+ },
+ {
+  "task_id": "20275",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Contact vendors or claims adjustment departments to resolve shipment problems or contact service depots to arrange for repairs."
+ },
+ {
+  "task_id": "20276",
+  "occupation": "Shipping, Receiving, and Inventory Clerks",
+  "task_text": "Examine shipment contents and compare with records, such as manifests, invoices, or orders, to verify accuracy."
+ },
+ {
+  "task_id": "20277",
+  "occupation": "Shipping, Receiving, and Inventory Clerks",
+  "task_text": "Pack, seal, label, or affix postage to prepare materials for shipping, using hand tools, power tools, or postage meter."
+ },
+ {
+  "task_id": "20278",
+  "occupation": "Shipping, Receiving, and Inventory Clerks",
+  "task_text": "Deliver or route materials to departments using handtruck, conveyor, or sorting bins."
+ },
+ {
+  "task_id": "20279",
+  "occupation": "Shipping, Receiving, and Inventory Clerks",
+  "task_text": "Determine shipping methods, routes, or rates for materials to be shipped."
+ },
+ {
+  "task_id": "20280",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Use computers for various applications, such as database management or word processing."
+ },
+ {
+  "task_id": "20281",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Create, maintain, and enter information into databases."
+ },
+ {
+  "task_id": "20282",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Set up and manage paper or electronic filing systems, recording information, updating paperwork, or maintaining documents, such as attendance records, correspondence, or other material."
+ },
+ {
+  "task_id": "20283",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Operate office equipment, such as fax machines, copiers, or phone systems and arrange for repairs when equipment malfunctions."
+ },
+ {
+  "task_id": "20284",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Compose, type, and distribute meeting notes, routine correspondence, or reports, such as presentations or expense, statistical, or monthly reports."
+ },
+ {
+  "task_id": "20285",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Perform payroll functions, such as maintaining timekeeping information and processing and submitting payroll."
+ },
+ {
+  "task_id": "20286",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Collect and deposit money into accounts, disburse funds from cash accounts to pay bills or invoices, keep records of collections and disbursements, and ensure accounts are balanced."
+ },
+ {
+  "task_id": "20287",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Coordinate conferences, meetings, or special events, such as luncheons or graduation ceremonies."
+ },
+ {
+  "task_id": "20288",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Develop or maintain internal or external company Web sites."
+ },
+ {
+  "task_id": "20289",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Train and assist staff with computer usage."
+ },
+ {
+  "task_id": "20290",
+  "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+  "task_text": "Prepare conference or event materials, such as flyers or invitations."
+ },
+ {
+  "task_id": "20318",
+  "occupation": "Search Marketing Strategists",
+  "task_text": "Assist in setting up or optimizing analytics tools for tracking visitors' behaviors."
+ },
+ {
+  "task_id": "20319",
+  "occupation": "Search Marketing Strategists",
+  "task_text": "Combine secondary data sources with keyword research to more accurately profile and satisfy user intent."
+ },
+ {
+  "task_id": "20320",
+  "occupation": "Search Marketing Strategists",
+  "task_text": "Coordinate with developers to optimize Web site architecture, server configuration, or page construction for search engine consumption and optimal visibility."
+ },
+ {
+  "task_id": "20321",
+  "occupation": "Search Marketing Strategists",
+  "task_text": "Create content strategies for digital media."
+ },
+ {
+  "task_id": "20322",
+  "occupation": "Search Marketing Strategists",
+  "task_text": "Evaluate new emerging media or technologies and make recommendations for their application within Internet marketing or search marketing campaigns."
+ },
+ {
+  "task_id": "20323",
+  "occupation": "Search Marketing Strategists",
+  "task_text": "Execute and manage communications with digital journalists or bloggers."
+ },
+ {
+  "task_id": "20324",
+  "occupation": "Search Marketing Strategists",
+  "task_text": "Execute or manage banner, video, or other non-text link ad campaigns."
+ },
+ {
+  "task_id": "20325",
+  "occupation": "Search Marketing Strategists",
+  "task_text": "Execute or manage social media campaigns to inform search marketing tactics."
+ },
+ {
+  "task_id": "20326",
+  "occupation": "Search Marketing Strategists",
+  "task_text": "Identify appropriate Key Performance Indicators (KPIs) and report key metrics from digital campaigns."
+ },
+ {
+  "task_id": "20327",
+  "occupation": "Search Marketing Strategists",
+  "task_text": "Improve search-related activities through ongoing analysis, experimentation, or optimization tests, using A/B or multivariate methods."
+ },
+ {
+  "task_id": "20328",
+  "occupation": "Search Marketing Strategists",
+  "task_text": "Manage tracking and reporting of search-related activities and provide analyses to marketing executives."
+ },
+ {
+  "task_id": "20329",
+  "occupation": "Search Marketing Strategists",
+  "task_text": "Optimize digital assets, such as text, graphics, or multimedia assets, for search engine optimization (SEO) or for display and usability on internet-connected devices."
+ },
+ {
+  "task_id": "20330",
+  "occupation": "Search Marketing Strategists",
+  "task_text": "Optimize shopping cart experience or Web site conversion rates against Key Performance Indicators (KPIs)."
+ },
+ {
+  "task_id": "20331",
+  "occupation": "Search Marketing Strategists",
+  "task_text": "Purchase or negotiate placement of listings in local search engines, directories, or digital mapping technologies."
+ },
+ {
+  "task_id": "20363",
+  "occupation": "Tax Preparers",
+  "task_text": "Answer questions and provide future tax planning to clients."
+ },
+ {
+  "task_id": "20364",
+  "occupation": "Tax Preparers",
+  "task_text": "Explain federal and state tax laws to individuals and companies."
+ },
+ {
+  "task_id": "20403",
+  "occupation": "Chiropractors",
+  "task_text": "Recommend and arrange for diagnostic procedures, such as blood chemistry tests, saliva tests, x-rays, or other imaging procedures."
+ },
+ {
+  "task_id": "20404",
+  "occupation": "Pharmacists",
+  "task_text": "Offer health promotion or prevention activities, such as training people to use blood pressure devices or diabetes monitors."
+ },
+ {
+  "task_id": "20405",
+  "occupation": "Pharmacists",
+  "task_text": "Contact insurance companies to resolve billing issues."
+ },
+ {
+  "task_id": "20406",
+  "occupation": "Pharmacists",
+  "task_text": "Update or troubleshoot pharmacy information databases."
+ },
+ {
+  "task_id": "20407",
+  "occupation": "Physical Therapists",
+  "task_text": "Inform patients and refer to appropriate practitioners when diagnosis reveals findings outside physical therapy."
+ },
+ {
+  "task_id": "20408",
+  "occupation": "Radiation Therapists",
+  "task_text": "Schedule patients for treatment times."
+ },
+ {
+  "task_id": "20409",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Transport patients to the hospital or within the hospital."
+ },
+ {
+  "task_id": "20410",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Perform endotracheal intubation to maintain open airways for patients who are unable to breathe on their own."
+ },
+ {
+  "task_id": "20411",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Monitor cardiac patients, using electrocardiography devices, such as a holter monitor."
+ },
+ {
+  "task_id": "20412",
+  "occupation": "Veterinarians",
+  "task_text": "Counsel clients about the deaths of their pets or about euthanasia decisions for their pets."
+ },
+ {
+  "task_id": "20413",
+  "occupation": "Registered Nurses",
+  "task_text": "Administer medications to patients and monitor patients for reactions or side effects."
+ },
+ {
+  "task_id": "20414",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Provide consultation to other health care providers in areas such as patient discharge, patient care, or clinical procedures."
+ },
+ {
+  "task_id": "20415",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Develop and maintain departmental policies, procedures, objectives, or patient care standards, based on evidence-based practice guidelines or expert opinion."
+ },
+ {
+  "task_id": "20416",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Design evaluation programs regarding the quality and effectiveness of nursing practice or organizational systems."
+ },
+ {
+  "task_id": "20417",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Design patient education programs that include information required to make informed health care and treatment decisions."
+ },
+ {
+  "task_id": "20418",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Lead nursing department implementation of, or compliance with, regulatory or accreditation processes."
+ },
+ {
+  "task_id": "20419",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Chair nursing departments or committees."
+ },
+ {
+  "task_id": "20420",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Teach patient education programs that include information required to make informed health care and treatment decisions."
+ },
+ {
+  "task_id": "20421",
+  "occupation": "Dietetic Technicians",
+  "task_text": "Conduct nutritional assessments of individuals, including obtaining and evaluating individuals' dietary histories, to plan nutritional programs."
+ },
+ {
+  "task_id": "20422",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Restrain animals during exams or procedures."
+ },
+ {
+  "task_id": "20423",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Discuss medical health of pets with clients, such as post-operative status."
+ },
+ {
+  "task_id": "20424",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Schedule appointments and procedures for animals."
+ },
+ {
+  "task_id": "20427",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Perform various data entry or word processing tasks, such as updating phone directories, typing or proofreading documents, or creating schedules."
+ },
+ {
+  "task_id": "20428",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Process incoming or outgoing mail, packages, or deliveries."
+ },
+ {
+  "task_id": "20429",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Perform administrative tasks, such as accepting orders, scheduling appointments or meeting rooms, or sending and receiving faxes."
+ },
+ {
+  "task_id": "20430",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Monitor emergency and code alarms, make emergency announcements, or route emergency calls to the appropriate location."
+ },
+ {
+  "task_id": "20431",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Greet visitors, log them in and out of the facility, assign them security badges, and contact employee escorts."
+ },
+ {
+  "task_id": "20432",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Perform various cash handling tasks, such as collecting payments, making bank deposits, or managing petty cash."
+ },
+ {
+  "task_id": "20433",
+  "occupation": "Switchboard Operators, Including Answering Service",
+  "task_text": "Place orders, such as for equipment, supplies, or catering for meetings."
+ },
+ {
+  "task_id": "20434",
+  "occupation": "Interviewers, Except Eligibility and Loan",
+  "task_text": "Supervise or train other staff members."
+ },
+ {
+  "task_id": "20435",
+  "occupation": "Interviewers, Except Eligibility and Loan",
+  "task_text": "Perform office duties, such as telemarketing or customer service inquiries, maintaining staff records, billing patients, or receiving payments."
+ },
+ {
+  "task_id": "20436",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Keep information facilities clean during operation."
+ },
+ {
+  "task_id": "20437",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Open or close information facilities."
+ },
+ {
+  "task_id": "20438",
+  "occupation": "Medical Secretaries and Administrative Assistants",
+  "task_text": "Schedule tests or procedures for patients, such as lab work or x-rays, based on physician orders."
+ },
+ {
+  "task_id": "20473",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Prepare data to calculate sewer service charges and capacity fees."
+ },
+ {
+  "task_id": "20474",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Design, plan, organize, or direct orientation and training programs for employees or customers."
+ },
+ {
+  "task_id": "20475",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Obtain, organize, or develop training procedure manuals, guides, or course materials, such as handouts or visual materials."
+ },
+ {
+  "task_id": "20476",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Monitor training costs and prepare budget reports to justify expenditures."
+ },
+ {
+  "task_id": "20477",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Supervise, evaluate, or refer instructors to skill development classes."
+ },
+ {
+  "task_id": "20562",
+  "occupation": "Dentists, General",
+  "task_text": "Use masks, gloves, and safety glasses to protect patients and self from infectious diseases."
+ },
+ {
+  "task_id": "20563",
+  "occupation": "Dentists, General",
+  "task_text": "Use dental air turbines, hand instruments, dental appliances, or surgical implements."
+ },
+ {
+  "task_id": "20564",
+  "occupation": "Dentists, General",
+  "task_text": "Manage business aspects such as employing or supervising staff or handling paperwork or insurance claims."
+ },
+ {
+  "task_id": "20565",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Select appropriate culturing system or procedure based on specimen type and reason for referral."
+ },
+ {
+  "task_id": "20566",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Describe chromosome, FISH and aCGH analysis results in International System of Cytogenetic Nomenclature (ISCN) language."
+ },
+ {
+  "task_id": "20567",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Extract, measure, dilute as appropriate, label, and prepare DNA for array analysis."
+ },
+ {
+  "task_id": "20568",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Input details of specimen processing, analysis, and technical issues into logs or laboratory information systems (LIS)."
+ },
+ {
+  "task_id": "20569",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Apply prepared specimen and control to appropriate grid, run instrumentation, and produce analyzable results."
+ },
+ {
+  "task_id": "20570",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Develop, implement, and monitor quality control and quality assurance programs to ensure accurate and precise test performance and reports."
+ },
+ {
+  "task_id": "20571",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Evaluate appropriateness of received specimens for requested tests."
+ },
+ {
+  "task_id": "20572",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Communicate to responsible parties unacceptable specimens and suggest remediation for future submissions."
+ },
+ {
+  "task_id": "20573",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Archive case documentation and study materials as required by regulations and laws."
+ },
+ {
+  "task_id": "20575",
+  "occupation": "Psychiatric Technicians",
+  "task_text": "Train or instruct new employees on procedures to follow with psychiatric patients."
+ },
+ {
+  "task_id": "20576",
+  "occupation": "Psychiatric Technicians",
+  "task_text": "Escort patients to medical appointments."
+ },
+ {
+  "task_id": "20577",
+  "occupation": "Home Health Aides",
+  "task_text": "Bathe patients."
+ },
+ {
+  "task_id": "20578",
+  "occupation": "Psychiatric Aides",
+  "task_text": "Listen and provide emotional support and encouragement to psychiatric patients."
+ },
+ {
+  "task_id": "20608",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Prepare and submit sales contracts for orders."
+ },
+ {
+  "task_id": "20609",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Contact new or existing customers to discuss how specific products or services can meet their needs."
+ },
+ {
+  "task_id": "20610",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Select or assist customers in selecting products based on customer needs, product specifications, and applicable regulations."
+ },
+ {
+  "task_id": "20611",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Verify that delivery schedules meet project deadlines."
+ },
+ {
+  "task_id": "20612",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Identify prospective customers, using business directories, leads from existing clients, participation in organizations, or trade show or conference attendance."
+ },
+ {
+  "task_id": "20613",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Advise customers on product usage to improve production."
+ },
+ {
+  "task_id": "20614",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Study documentation or other information for new scientific or technical products."
+ },
+ {
+  "task_id": "20615",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Attend sales or trade meetings or read related publications to obtain information about market conditions, business trends, environmental regulations, or industry developments."
+ },
+ {
+  "task_id": "20616",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Sell service contracts for technical or scientific products."
+ },
+ {
+  "task_id": "20617",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Demonstrate the operation or use of technical or scientific products."
+ },
+ {
+  "task_id": "20618",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Initiate sales campaigns to meet sales and production expectations."
+ },
+ {
+  "task_id": "20619",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Verify accuracy of materials lists."
+ },
+ {
+  "task_id": "20620",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Verify customer credit ratings."
+ },
+ {
+  "task_id": "20622",
+  "occupation": "Brokerage Clerks",
+  "task_text": "Document security transactions, such as purchases, sales, conversions, redemptions, or payments, using computers, accounting ledgers, or certificate records."
+ },
+ {
+  "task_id": "20623",
+  "occupation": "Brokerage Clerks",
+  "task_text": "Perform clerical tasks, such as answering phones or distributing mail."
+ },
+ {
+  "task_id": "20627",
+  "occupation": "File Clerks",
+  "task_text": "Input data, such as file numbers, new or updated information, or document information codes into computer systems to support document and information retrieval."
+ },
+ {
+  "task_id": "20628",
+  "occupation": "File Clerks",
+  "task_text": "Perform general office activities, such as typing, answering telephones, operating office machines, processing mail, or securing confidential materials."
+ },
+ {
+  "task_id": "20629",
+  "occupation": "File Clerks",
+  "task_text": "Keep records of materials filed or removed, using logbooks or computers and generate computerized reports."
+ },
+ {
+  "task_id": "20630",
+  "occupation": "File Clerks",
+  "task_text": "Find, retrieve, and make copies of information from files in response to requests and deliver information to authorized users."
+ },
+ {
+  "task_id": "20631",
+  "occupation": "File Clerks",
+  "task_text": "Complete general financial activities, such as processing accounts payable, reviewing invoices, collecting cash payments, or issuing receipts."
+ },
+ {
+  "task_id": "20710",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Buy merchandise or commodities for resale to wholesale or retail consumers."
+ },
+ {
+  "task_id": "20711",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Negotiate prices, discount terms, or transportation arrangements with suppliers."
+ },
+ {
+  "task_id": "20712",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Examine, select, order, or purchase merchandise consistent with quality, quantity, specification requirements, or other factors, such as environmental soundness."
+ },
+ {
+  "task_id": "20713",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Recommend mark-up rates, mark-down rates, or merchandise selling prices."
+ },
+ {
+  "task_id": "20714",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Obtain information about customer needs or preferences by conferring with sales or purchasing personnel."
+ },
+ {
+  "task_id": "20715",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Collaborate with vendors to obtain or develop desired products."
+ },
+ {
+  "task_id": "20716",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Inspect merchandise or products to determine quality, value, or yield."
+ },
+ {
+  "task_id": "20717",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Conduct sales meetings to introduce new merchandise."
+ },
+ {
+  "task_id": "20719",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Prepare reports related to investigations of equal opportunity complaints."
+ },
+ {
+  "task_id": "20720",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Interview persons involved in equal opportunity complaints to verify case information."
+ },
+ {
+  "task_id": "20721",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Meet with persons involved in equal opportunity complaints to arbitrate and settle disputes."
+ },
+ {
+  "task_id": "20722",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Develop guidelines for nondiscriminatory employment practices."
+ },
+ {
+  "task_id": "20723",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Monitor the implementation and impact of guidelines for nondiscriminatory employment practices."
+ },
+ {
+  "task_id": "20757",
+  "occupation": "Massage Therapists",
+  "task_text": "Perform other adjunctive therapies or treatment techniques in addition to massage."
+ }
+]

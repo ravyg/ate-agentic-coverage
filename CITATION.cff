@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Agentic Coverage Dataset: Estimating the ATES Workflow-Coverage Penalties"
+message: "If you use this dataset, please cite the ATES paper and this dataset."
+type: dataset
+authors:
+  - family-names: Gupta
+    given-names: Ravish
+  - family-names: Kumar
+    given-names: Saket
+version: 0.1.0-pilot
+license: CC-BY-4.0
+keywords:
+  - agentic AI
+  - task automation
+  - occupational exposure
+  - O*NET
+  - workflow coverage
+references:
+  - type: article
+    authors:
+      - family-names: Gupta
+        given-names: Ravish
+      - family-names: Kumar
+        given-names: Saket
+    title: "Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis of Emerging Labor Market Disruption"
+    year: 2026
+    notes: "arXiv:2604.00186"

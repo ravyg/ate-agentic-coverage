@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "22420",
+  "occupation": "Librarians and Media Collections Specialists",
+  "task_text": "Locate unusual or unique information in response to specific requests."
+ },
+ {
+  "task_id": "22421",
+  "occupation": "Librarians and Media Collections Specialists",
+  "task_text": "Troubleshoot problems with audio-visual equipment."
+ },
+ {
+  "task_id": "22422",
+  "occupation": "Librarians and Media Collections Specialists",
+  "task_text": "Develop library policies and procedures."
+ },
+ {
+  "task_id": "22424",
+  "occupation": "Librarians and Media Collections Specialists",
+  "task_text": "Evaluate materials to determine outdated or unused items to be discarded."
+ },
+ {
+  "task_id": "22423",
+  "occupation": "Librarians and Media Collections Specialists",
+  "task_text": "Direct and train library staff in duties, such as receiving, shelving, researching, cataloging, and equipment use."
+ },
+ {
+  "task_id": "22425",
+  "occupation": "Librarians and Media Collections Specialists",
+  "task_text": "Develop, maintain, and troubleshoot information access aids, such as databases, annotated bibliographies, Web pages, electronic pathfinders, software programs, and online tutorials."
+ },
+ {
+  "task_id": "22426",
+  "occupation": "Librarians and Media Collections Specialists",
+  "task_text": "Engage in professional development activities, such as taking continuing education classes and attending or participating in conferences, workshops, professional meetings, and associations."
+ },
+ {
+  "task_id": "22427",
+  "occupation": "Librarians and Media Collections Specialists",
+  "task_text": "Compile lists of books, periodicals, articles, and audio-visual materials on particular subjects."
+ },
+ {
+  "task_id": "22428",
+  "occupation": "Librarians and Media Collections Specialists",
+  "task_text": "Confer with teachers to select course materials and to determine which training aids are best suited to particular grade levels."
+ },
+ {
+  "task_id": "22429",
+  "occupation": "Librarians and Media Collections Specialists",
+  "task_text": "Evaluate vendor products and performance, negotiate contracts, and place orders."
+ },
+ {
+  "task_id": "22430",
+  "occupation": "Librarians and Media Collections Specialists",
+  "task_text": "Arrange for interlibrary loans of materials not available in a particular library."
+ },
+ {
+  "task_id": "22431",
+  "occupation": "Librarians and Media Collections Specialists",
+  "task_text": "Represent library or institution on internal and external committees."
+ },
+ {
+  "task_id": "22432",
+  "occupation": "Librarians and Media Collections Specialists",
+  "task_text": "Set up, adjust, and operate audio-visual equipment, such as cameras, film and slide projectors, and recording equipment, for meetings, events, classes, seminars, and video conferences."
+ },
+ {
+  "task_id": "22433",
+  "occupation": "Librarians and Media Collections Specialists",
+  "task_text": "Assemble and arrange display materials."
+ },
+ {
+  "task_id": "22434",
+  "occupation": "Librarians and Media Collections Specialists",
+  "task_text": "Maintain inventory of audio-visual equipment."
+ },
+ {
+  "task_id": "22435",
+  "occupation": "Librarians and Media Collections Specialists",
+  "task_text": "Maintain hardware and software, including computers, media equipment, scanners, color copiers, and color laser printers."
+ },
+ {
+  "task_id": "22436",
+  "occupation": "Librarians and Media Collections Specialists",
+  "task_text": "Train faculty and media staff on the use of software and audio-visual equipment."
+ },
+ {
+  "task_id": "1688",
+  "occupation": "Library Technicians",
+  "task_text": "Reserve, circulate, renew, and discharge books and other materials."
+ },
+ {
+  "task_id": "18511",
+  "occupation": "Library Technicians",
+  "task_text": "Answer routine telephone or in-person reference inquiries, referring patrons to librarians for further assistance, when necessary."
+ },
+ {
+  "task_id": "18510",
+  "occupation": "Library Technicians",
+  "task_text": "Help patrons find and use library resources, such as reference materials, audio-visual equipment, computers, and other electronic resources and provide technical assistance when needed."
+ },
+ {
+  "task_id": "1696",
+  "occupation": "Library Technicians",
+  "task_text": "Deliver and retrieve items throughout the library by hand or using pushcart."
+ },
+ {
+  "task_id": "1699",
+  "occupation": "Library Technicians",
+  "task_text": "Process print and non-print library materials to prepare them for inclusion in library collections."
+ },
+ {
+  "task_id": "18512",
+  "occupation": "Library Technicians",
+  "task_text": "Catalogue and sort books and other print and non-print materials according to procedure and return them to shelves, files, or other designated storage areas."
+ },
+ {
+  "task_id": "1689",
+  "occupation": "Library Technicians",
+  "task_text": "Enter and update patrons' records on computers."
+ },
+ {
+  "task_id": "1690",
+  "occupation": "Library Technicians",
+  "task_text": "Provide assistance to teachers and students by locating materials and helping to complete special projects."
+ },
+ {
+  "task_id": "1702",
+  "occupation": "Library Technicians",
+  "task_text": "Compile and maintain records relating to circulation, materials, and equipment."
+ },
+ {
+  "task_id": "1697",
+  "occupation": "Library Technicians",
+  "task_text": "Take actions to halt disruption of library activities by problem patrons."
+ },
+ {
+  "task_id": "18513",
+  "occupation": "Library Technicians",
+  "task_text": "Maintain and troubleshoot problems with library equipment, including computers, photocopiers, and audio-visual equipment."
+ },
+ {
+  "task_id": "18515",
+  "occupation": "Library Technicians",
+  "task_text": "Check for damaged library materials, such as books or audio-visual equipment, and provide replacements or make repairs."
+ },
+ {
+  "task_id": "1703",
+  "occupation": "Library Technicians",
+  "task_text": "Collect fines and respond to complaints about fines."
+ },
+ {
+  "task_id": "1693",
+  "occupation": "Library Technicians",
+  "task_text": "Train other staff, volunteers, or student assistants and schedule and supervise their work."
+ },
+ {
+  "task_id": "1695",
+  "occupation": "Library Technicians",
+  "task_text": "Conduct reference searches, using printed materials and in-house and online databases."
+ },
+ {
+  "task_id": "18518",
+  "occupation": "Library Technicians",
+  "task_text": "Compile data and create statistical reports on library usage."
+ },
+ {
+  "task_id": "1717",
+  "occupation": "Library Technicians",
+  "task_text": "Design posters and special displays to promote use of library facilities or specific reading programs at libraries."
+ },
+ {
+  "task_id": "1704",
+  "occupation": "Library Technicians",
+  "task_text": "Issue identification cards to borrowers."
+ },
+ {
+  "task_id": "1706",
+  "occupation": "Library Technicians",
+  "task_text": "Review subject matter of materials to be classified and select classification numbers and headings according to classification systems."
+ },
+ {
+  "task_id": "1698",
+  "occupation": "Library Technicians",
+  "task_text": "Process interlibrary loans for patrons."
+ },
+ {
+  "task_id": "18514",
+  "occupation": "Library Technicians",
+  "task_text": "Order all print and non-print library materials, checking prices, figuring costs, preparing order slips, and making payments."
+ },
+ {
+  "task_id": "1707",
+  "occupation": "Library Technicians",
+  "task_text": "Send out notices about lost or overdue books."
+ },
+ {
+  "task_id": "1700",
+  "occupation": "Library Technicians",
+  "task_text": "Retrieve information from central databases for storage in a library's computer."
+ },
+ {
+  "task_id": "1705",
+  "occupation": "Library Technicians",
+  "task_text": "Verify bibliographical data for materials, including author, title, publisher, publication date, and edition."
+ },
+ {
+  "task_id": "18517",
+  "occupation": "Library Technicians",
+  "task_text": "Plan and conduct children's programs, community outreach programs, and other specialized programs, such as library tours."
+ },
+ {
+  "task_id": "1701",
+  "occupation": "Library Technicians",
+  "task_text": "Organize and maintain periodicals and reference materials."
+ },
+ {
+  "task_id": "18516",
+  "occupation": "Library Technicians",
+  "task_text": "Claim missing issues of periodicals and journals."
+ },
+ {
+  "task_id": "1714",
+  "occupation": "Library Technicians",
+  "task_text": "Compose explanatory summaries of contents of books and other reference materials."
+ },
+ {
+  "task_id": "20989",
+  "occupation": "Library Technicians",
+  "task_text": "Sort and deliver library mail and packages."
+ },
+ {
+  "task_id": "1710",
+  "occupation": "Library Technicians",
+  "task_text": "Operate and maintain audio-visual equipment, such as projectors, tape recorders, and videocassette recorders."
+ },
+ {
+  "task_id": "1718",
+  "occupation": "Library Technicians",
+  "task_text": "Compile bibliographies and prepare abstracts on subjects of interest to particular organizations or groups."
+ },
+ {
+  "task_id": "10976",
+  "occupation": "Farm and Home Management Educators",
+  "task_text": "Advise farmers and demonstrate techniques in areas such as feeding and health maintenance of livestock, growing and harvesting practices, and financial planning."
+ },
+ {
+  "task_id": "10975",
+  "occupation": "Farm and Home Management Educators",
+  "task_text": "Conduct classes or deliver lectures on subjects such as nutrition, home management, and farming techniques."
+ },
+ {
+  "task_id": "10974",
+  "occupation": "Farm and Home Management Educators",
+  "task_text": "Collaborate with producers to diagnose and prevent management and production problems."
+ },
+ {
+  "task_id": "10977",
+  "occupation": "Farm and Home Management Educators",
+  "task_text": "Research information requested by farmers."
+ },
+ {
+  "task_id": "10979",
+  "occupation": "Farm and Home Management Educators",
+  "task_text": "Collect and evaluate data to determine community program needs."
+ },
+ {
+  "task_id": "10986",
+  "occupation": "Farm and Home Management Educators",
+  "task_text": "Act as an advocate for farmers or farmers' groups."
+ },
+ {
+  "task_id": "10984",
+  "occupation": "Farm and Home Management Educators",
+  "task_text": "Conduct field demonstrations of new products, techniques, or services."
+ },
+ {
+  "task_id": "10980",
+  "occupation": "Farm and Home Management Educators",
+  "task_text": "Maintain records of services provided and the effects of advice given."
+ },
+ {
+  "task_id": "10978",
+  "occupation": "Farm and Home Management Educators",
+  "task_text": "Prepare and distribute leaflets, pamphlets, and visual aids for educational and informational purposes."
+ },
+ {
+  "task_id": "10981",
+  "occupation": "Farm and Home Management Educators",
+  "task_text": "Schedule and make regular visits to farmers."
+ },
+ {
+  "task_id": "10982",
+  "occupation": "Farm and Home Management Educators",
+  "task_text": "Organize, advise, and participate in community activities and organizations, such as county and state fair events and 4-H Clubs."
+ },
+ {
+  "task_id": "10985",
+  "occupation": "Farm and Home Management Educators",
+  "task_text": "Conduct agricultural research, analyze data, and prepare research reports."
+ },
+ {
+  "task_id": "10988",
+  "occupation": "Farm and Home Management Educators",
+  "task_text": "Set and monitor production targets."
+ },
+ {
+  "task_id": "10983",
+  "occupation": "Farm and Home Management Educators",
+  "task_text": "Collaborate with social service and health care professionals to advise individuals and families on home management practices, such as budget planning, meal preparation, and time management."
+ },
+ {
+  "task_id": "10987",
+  "occupation": "Farm and Home Management Educators",
+  "task_text": "Provide direct assistance to farmers by performing activities such as purchasing or selling products and supplies, supervising properties, and collecting soil and herbage samples for testing."
+ },
+ {
+  "task_id": "6871",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Observe work of teaching staff to evaluate performance and to recommend changes that could strengthen teaching skills."
+ },
+ {
+  "task_id": "6864",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Plan and conduct teacher training programs and conferences dealing with new classroom procedures, instructional materials and equipment, and teaching aids."
+ },
+ {
+  "task_id": "6867",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Interpret and enforce provisions of state education codes and rules and regulations of state education boards."
+ },
+ {
+  "task_id": "6863",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Conduct or participate in workshops, committees, and conferences designed to promote the intellectual, social, and physical welfare of students."
+ },
+ {
+  "task_id": "6865",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Advise teaching and administrative staff in curriculum development, use of materials and equipment, and implementation of state and federal programs and procedures."
+ },
+ {
+  "task_id": "6877",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Advise and teach students."
+ },
+ {
+  "task_id": "6866",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Recommend, order, or authorize purchase of instructional materials, supplies, equipment, and visual aids designed to meet student educational needs and district standards."
+ },
+ {
+  "task_id": "6875",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Update the content of educational programs to ensure that students are being trained with equipment and processes that are technologically current."
+ },
+ {
+  "task_id": "6876",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Address public audiences to explain program objectives and to elicit support."
+ },
+ {
+  "task_id": "6870",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Research, evaluate, and prepare recommendations on curricula, instructional methods, and materials for school systems."
+ },
+ {
+  "task_id": "6873",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Prepare grant proposals, budgets, and program policies and goals or assist in their preparation."
+ },
+ {
+  "task_id": "6878",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Prepare or approve manuals, guidelines, and reports on state educational policies and practices for distribution to school districts."
+ },
+ {
+  "task_id": "6881",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Coordinate activities of workers engaged in cataloging, distributing, and maintaining educational materials and equipment in curriculum libraries and laboratories."
+ },
+ {
+  "task_id": "22437",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Adapt instructional content or delivery methods for different levels or types of learners."
+ },
+ {
+  "task_id": "22438",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Analyze performance data to determine effectiveness of instructional systems, courses, or instructional materials."
+ },
+ {
+  "task_id": "22439",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Assess effectiveness and efficiency of instruction according to ease of instructional technology use and student learning, knowledge transfer, and satisfaction."
+ },
+ {
+  "task_id": "22440",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Conduct needs assessments and strategic learning assessments to develop the basis for curriculum development or to update curricula."
+ },
+ {
+  "task_id": "22441",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Define instructional, learning, or performance objectives."
+ },
+ {
+  "task_id": "22442",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Design instructional aids for stand-alone or instructor-led classroom or online use."
+ },
+ {
+  "task_id": "22443",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Design learning products, including Web-based aids or electronic performance support systems."
+ },
+ {
+  "task_id": "22444",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Develop instructional materials, such as lesson plans, handouts, or examinations."
+ },
+ {
+  "task_id": "22445",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Develop master course documentation or manuals according to applicable accreditation, certification, or other requirements."
+ },
+ {
+  "task_id": "22446",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Develop measurement tools to evaluate the effectiveness of instruction or training interventions."
+ },
+ {
+  "task_id": "22447",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Edit instructional materials, such as books, simulation exercises, lesson plans, instructor guides, and tests."
+ },
+ {
+  "task_id": "22448",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Interview subject-matter experts or conduct other research to develop instructional content."
+ },
+ {
+  "task_id": "22449",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Present and make recommendations regarding course design, technology, and instruction delivery options."
+ },
+ {
+  "task_id": "22450",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Provide analytical support for the design and development of training curricula, learning strategies, educational policies, or courseware standards."
+ },
+ {
+  "task_id": "22451",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Recommend changes to curricula or delivery methods, based on information such as instructional effectiveness data, current or future performance requirements, feasibility, and costs."
+ },
+ {
+  "task_id": "22452",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Research and evaluate emerging instructional technologies or methods."
+ },
+ {
+  "task_id": "22453",
+  "occupation": "Instructional Coordinators",
+  "task_text": "Teach instructors to use instructional technology or to integrate technology with teaching."
+ },
+ {
+  "task_id": "22478",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Supervise students in classrooms, halls, cafeterias, school yards, and gymnasiums, or on field trips."
+ },
+ {
+  "task_id": "22481",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Tutor and assist children individually or in small groups to help them master assignments and to reinforce learning concepts presented by teachers."
+ },
+ {
+  "task_id": "22463",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Enforce administration policies and rules governing students."
+ },
+ {
+  "task_id": "22480",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Teach social skills to students."
+ },
+ {
+  "task_id": "22465",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Instruct and monitor students in the use and care of equipment and materials to prevent injuries and damage."
+ },
+ {
+  "task_id": "22460",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Discuss assigned duties with classroom teachers to coordinate instructional efforts."
+ },
+ {
+  "task_id": "22476",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Present subject matter to students under the direction and guidance of teachers, using lectures, discussions, supervised role-playing methods, or by reading aloud."
+ },
+ {
+  "task_id": "22457",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Clean classrooms."
+ },
+ {
+  "task_id": "22468",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Observe students' performance, and record relevant data to assess progress."
+ },
+ {
+  "task_id": "22470",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Organize and label materials and display students' work in a manner appropriate for their eye levels and perceptual skills."
+ },
+ {
+  "task_id": "22471",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Organize and supervise games and other recreational activities to promote physical, mental, and social development."
+ },
+ {
+  "task_id": "22456",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Attend staff meetings and serve on committees, as required."
+ },
+ {
+  "task_id": "22483",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Use computers, audio-visual aids, and other equipment and materials to supplement presentations."
+ },
+ {
+  "task_id": "22474",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Prepare lesson materials, bulletin board displays, exhibits, equipment, and demonstrations."
+ },
+ {
+  "task_id": "22459",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Conduct demonstrations to teach skills, such as sports, dancing, and handicrafts."
+ },
+ {
+  "task_id": "22461",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Distribute teaching materials, such as textbooks, workbooks, papers, and pencils, to students."
+ },
+ {
+  "task_id": "22482",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Type, file, and duplicate materials."
+ },
+ {
+  "task_id": "22466",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Laminate teaching materials to increase their durability under repeated use."
+ },
+ {
+  "task_id": "22477",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Requisition and stock teaching materials and supplies."
+ },
+ {
+  "task_id": "22479",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Take class attendance and maintain attendance records."
+ },
+ {
+  "task_id": "22472",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Participate in teacher-parent conferences regarding students' progress or problems."
+ },
+ {
+  "task_id": "22454",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Assist in bus loading and unloading."
+ },
+ {
+  "task_id": "22467",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Maintain computers in classrooms and laboratories, and assist students with hardware and software use."
+ },
+ {
+  "task_id": "22464",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Grade homework and tests, and compute and record results, using answer sheets or electronic marking devices."
+ },
+ {
+  "task_id": "22473",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Plan, prepare, and develop various teaching aids, such as bibliographies, charts, and graphs."
+ },
+ {
+  "task_id": "22469",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Operate and maintain audio-visual equipment."
+ },
+ {
+  "task_id": "22462",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Distribute tests and homework assignments and collect them when they are completed."
+ },
+ {
+  "task_id": "22458",
+  "occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+  "task_text": "Collect money from students for school-related projects."
+ },
+ {
+  "task_id": "22506",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Provide assistance to students with special needs."
+ },
+ {
+  "task_id": "22511",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Teach socially acceptable behavior, employing techniques such as behavior modification or positive reinforcement."
+ },
+ {
+  "task_id": "22509",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Supervise students in classrooms, halls, cafeterias, school yards, and gymnasiums, or on field trips."
+ },
+ {
+  "task_id": "22507",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Provide students with disabilities with assistive devices, supportive technology, and assistance accessing facilities, such as restrooms."
+ },
+ {
+  "task_id": "22487",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Carry out therapeutic regimens, such as behavior modification and personal development programs, under the supervision of special education instructors, psychologists, or speech-language pathologists."
+ },
+ {
+  "task_id": "22512",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Tutor and assist children individually or in small groups to help them master assignments and to reinforce learning concepts presented by teachers."
+ },
+ {
+  "task_id": "22491",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Employ special educational strategies or techniques during instruction to improve the development of sensory- and perceptual-motor skills, language, cognition, or memory."
+ },
+ {
+  "task_id": "22492",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Enforce administration policies and rules governing students."
+ },
+ {
+  "task_id": "22498",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Observe students' performance, and record relevant data to assess progress."
+ }
+]

@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "16990",
+  "occupation": "Remote Sensing Technicians",
+  "task_text": "Merge scanned images or build photo mosaics of large areas, using image processing software."
+ },
+ {
+  "task_id": "16981",
+  "occupation": "Remote Sensing Technicians",
+  "task_text": "Participate in the planning or development of mapping projects."
+ },
+ {
+  "task_id": "16987",
+  "occupation": "Remote Sensing Technicians",
+  "task_text": "Prepare documentation or presentations, including charts, photos, or graphs."
+ },
+ {
+  "task_id": "16994",
+  "occupation": "Remote Sensing Technicians",
+  "task_text": "Correct raw data for errors due to factors such as skew or atmospheric variation."
+ },
+ {
+  "task_id": "16995",
+  "occupation": "Remote Sensing Technicians",
+  "task_text": "Calibrate data collection equipment."
+ },
+ {
+  "task_id": "16993",
+  "occupation": "Remote Sensing Technicians",
+  "task_text": "Develop or maintain geospatial information databases."
+ },
+ {
+  "task_id": "16989",
+  "occupation": "Remote Sensing Technicians",
+  "task_text": "Monitor raw data quality during collection, and make equipment corrections as necessary."
+ },
+ {
+  "task_id": "16982",
+  "occupation": "Remote Sensing Technicians",
+  "task_text": "Maintain records of survey data."
+ },
+ {
+  "task_id": "16992",
+  "occupation": "Remote Sensing Technicians",
+  "task_text": "Evaluate remote sensing project requirements to determine the types of equipment or computer software necessary to meet project requirements, such as specific image types or output resolutions."
+ },
+ {
+  "task_id": "16985",
+  "occupation": "Remote Sensing Technicians",
+  "task_text": "Collect verification data on the ground, using equipment such as global positioning receivers, digital cameras, or notebook computers."
+ },
+ {
+  "task_id": "16983",
+  "occupation": "Remote Sensing Technicians",
+  "task_text": "Document methods used and write technical reports containing information collected."
+ },
+ {
+  "task_id": "16984",
+  "occupation": "Remote Sensing Technicians",
+  "task_text": "Develop specialized computer software routines to customize and integrate image analysis."
+ },
+ {
+  "task_id": "19804",
+  "occupation": "Remote Sensing Technicians",
+  "task_text": "Collaborate with agricultural workers to apply remote sensing information to efforts to reduce negative environmental impacts of farming practices."
+ },
+ {
+  "task_id": "19805",
+  "occupation": "Remote Sensing Technicians",
+  "task_text": "Collect remote sensing data for forest or carbon tracking activities involved in assessing the impact of environmental change."
+ },
+ {
+  "task_id": "19806",
+  "occupation": "Remote Sensing Technicians",
+  "task_text": "Provide remote sensing data for use in addressing environmental issues, such as surface water modeling or dust cloud detection."
+ },
+ {
+  "task_id": "11063",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Recommend measures to help protect workers from potentially hazardous work methods, processes, or materials."
+ },
+ {
+  "task_id": "11066",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Develop or maintain hygiene programs, such as noise surveys, continuous atmosphere monitoring, ventilation surveys, or asbestos management plans."
+ },
+ {
+  "task_id": "11062",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Order suspension of activities that pose threats to workers' health or safety."
+ },
+ {
+  "task_id": "11064",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Investigate accidents to identify causes or to determine how such accidents might be prevented in the future."
+ },
+ {
+  "task_id": "11067",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Inspect or evaluate workplace environments, equipment, or practices to ensure compliance with safety standards and government regulations."
+ },
+ {
+  "task_id": "11071",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Collect samples of dust, gases, vapors, or other potentially toxic materials for analysis."
+ },
+ {
+  "task_id": "11068",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Collaborate with engineers or physicians to institute control or remedial measures for hazardous or potentially hazardous conditions or equipment."
+ },
+ {
+  "task_id": "11065",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Investigate the adequacy of ventilation, exhaust equipment, lighting, or other conditions that could affect employee health, comfort, or performance."
+ },
+ {
+  "task_id": "11069",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Conduct safety training or education programs and demonstrate the use of safety equipment."
+ },
+ {
+  "task_id": "11072",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Investigate health-related complaints and inspect facilities to ensure that they comply with public health legislation and regulations."
+ },
+ {
+  "task_id": "23989",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Write reports."
+ },
+ {
+  "task_id": "11076",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Inspect specified areas to ensure the presence of fire prevention equipment, safety equipment, or first-aid supplies."
+ },
+ {
+  "task_id": "11070",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Provide new-employee health and safety orientations and develop materials for these presentations."
+ },
+ {
+  "task_id": "21142",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Analyze incident data to identify trends in injuries, illnesses, accidents, or other hazards."
+ },
+ {
+  "task_id": "11074",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Maintain or update emergency response plans or procedures."
+ },
+ {
+  "task_id": "11073",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Coordinate \"right-to-know\" programs regarding hazardous chemicals or other substances."
+ },
+ {
+  "task_id": "11077",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Conduct audits at hazardous waste sites or industrial sites or participate in hazardous waste site investigations."
+ },
+ {
+  "task_id": "11075",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Develop or maintain medical monitoring programs for employees."
+ },
+ {
+  "task_id": "11078",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Collect samples of hazardous materials or arrange for sample collection."
+ },
+ {
+  "task_id": "11079",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Maintain inventories of hazardous materials or hazardous wastes, using waste tracking systems to ensure that materials are handled properly."
+ },
+ {
+  "task_id": "11080",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Prepare hazardous, radioactive, or mixed waste samples for transportation or storage by treating, compacting, packaging, and labeling them."
+ },
+ {
+  "task_id": "11081",
+  "occupation": "Occupational Health and Safety Specialists",
+  "task_text": "Perform laboratory analyses or physical inspections of samples to detect disease or to assess purity or cleanliness."
+ },
+ {
+  "task_id": "20249",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Evaluate situations or make determinations when a worker has refused to work on the grounds that danger or potential harm exists."
+ },
+ {
+  "task_id": "11083",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Supply, operate, or maintain personal protective equipment."
+ },
+ {
+  "task_id": "19818",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Train workers in safety procedures related to green jobs, such as the use of fall protection devices or maintenance of proper ventilation during wind turbine construction."
+ },
+ {
+  "task_id": "11087",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Test workplaces for environmental hazards, such as exposure to radiation, chemical or biological hazards, or excessive noise."
+ },
+ {
+  "task_id": "11082",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Maintain all required environmental records and documentation."
+ },
+ {
+  "task_id": "20253",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Provide consultation to organizations or agencies on the workplace application of safety principles, practices, or techniques."
+ },
+ {
+  "task_id": "20252",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Inspect fire suppression systems or portable fire systems to ensure proper working order."
+ },
+ {
+  "task_id": "20248",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Verify availability or monitor use of safety equipment, such as hearing protection or respirators."
+ },
+ {
+  "task_id": "20250",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Recommend corrective measures to be applied based on results of environmental contaminant analyses."
+ },
+ {
+  "task_id": "11088",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Prepare or review specifications or orders for the purchase of safety equipment, ensuring that proper features are present and that items conform to health and safety standards."
+ },
+ {
+  "task_id": "11085",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Prepare or calibrate equipment used to collect or analyze samples."
+ },
+ {
+  "task_id": "20251",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Conduct worker studies to determine whether specific instances of disease or illness are job-related."
+ },
+ {
+  "task_id": "11098",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Plan emergency response drills."
+ },
+ {
+  "task_id": "11091",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Examine credentials, licenses, or permits to ensure compliance with licensing requirements."
+ },
+ {
+  "task_id": "11096",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Review records or reports concerning laboratory results, staffing, floor plans, fire inspections, or sanitation to gather information for the development or enforcement of safety activities."
+ },
+ {
+  "task_id": "11093",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Educate the public about health issues or enforce health legislation to prevent disease, to promote health, or to help people understand health protection procedures and regulations."
+ },
+ {
+  "task_id": "11097",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Prepare documents to be used in legal proceedings, testifying in such proceedings when necessary."
+ },
+ {
+  "task_id": "19813",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Collect data regarding potential hazards from new equipment or products linked to green practices."
+ },
+ {
+  "task_id": "11099",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Maintain logbooks of daily activities, including areas visited or activities performed."
+ },
+ {
+  "task_id": "11100",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Help direct rescue or firefighting operations in the event of a fire or an explosion."
+ },
+ {
+  "task_id": "19817",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Test or balance newly installed HVAC systems to determine whether indoor air quality standards are met."
+ },
+ {
+  "task_id": "11101",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Confer with schools, state authorities, or community groups to develop health standards or programs."
+ },
+ {
+  "task_id": "19814",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Collect data related to ecological or human health risks at brownfield sites."
+ },
+ {
+  "task_id": "11095",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Conduct interviews to obtain information or evidence regarding communicable diseases or violations of health or sanitation regulations."
+ },
+ {
+  "task_id": "19816",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Perform tests to identify any potential hazards related to recycled products used at green building sites."
+ },
+ {
+  "task_id": "19815",
+  "occupation": "Occupational Health and Safety Technicians",
+  "task_text": "Examine practices at green building sites to determine whether adherence to green building standards alters risks to workers."
+ },
+ {
+  "task_id": "5584",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Complete and maintain accurate records or reports regarding the patients' histories and progress, services provided, or other required information."
+ },
+ {
+  "task_id": "5583",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Counsel clients or patients, individually or in group sessions, to assist in overcoming dependencies, adjusting to life, or making changes."
+ },
+ {
+  "task_id": "18622",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Assess individuals' degree of drug dependency by collecting and analyzing urine samples."
+ },
+ {
+  "task_id": "5601",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Follow progress of discharged patients to determine effectiveness of treatments."
+ },
+ {
+  "task_id": "5594",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Conduct chemical dependency program orientation sessions."
+ },
+ {
+  "task_id": "5586",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Review and evaluate clients' progress in relation to measurable goals described in treatment and care plans."
+ },
+ {
+  "task_id": "5598",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Coordinate activities with courts, probation officers, community services, or other post-treatment agencies."
+ },
+ {
+  "task_id": "5585",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Develop client treatment plans based on research, clinical experience, and client histories."
+ },
+ {
+  "task_id": "5590",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Modify treatment plans to comply with changes in client status."
+ },
+ {
+  "task_id": "5591",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Coordinate counseling efforts with mental health professionals or other health professionals, such as doctors, nurses, or social workers."
+ },
+ {
+  "task_id": "5593",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Plan or implement follow-up or aftercare programs for clients to be discharged from treatment programs."
+ },
+ {
+  "task_id": "5588",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Intervene as an advocate for clients or patients to resolve emergency problems in crisis situations."
+ },
+ {
+  "task_id": "5592",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Attend training sessions to increase knowledge and skills."
+ },
+ {
+  "task_id": "5587",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Interview clients, review records, and confer with other professionals to evaluate individuals' mental and physical condition and to determine their suitability for participation in a specific program."
+ },
+ {
+  "task_id": "5600",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Instruct others in program methods, procedures, or functions."
+ },
+ {
+  "task_id": "5596",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Participate in case conferences or staff meetings."
+ },
+ {
+  "task_id": "5597",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Act as liaisons between clients and medical staff."
+ },
+ {
+  "task_id": "5589",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Provide clients or family members with information about addiction issues and about available services or programs, making appropriate referrals when necessary."
+ },
+ {
+  "task_id": "18623",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Train or supervise student interns or new staff members."
+ },
+ {
+  "task_id": "5595",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Counsel family members to assist them in understanding, dealing with, and supporting clients or patients."
+ },
+ {
+  "task_id": "5599",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Confer with family members or others close to clients to keep them informed of treatment planning and progress."
+ },
+ {
+  "task_id": "5602",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Develop, implement, or evaluate public education, prevention, or health promotion programs, working in collaboration with organizations, institutions, or communities."
+ },
+ {
+  "task_id": "5603",
+  "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+  "task_text": "Supervise or direct other workers providing services to clients or patients."
+ },
+ {
+  "task_id": "5606",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Maintain accurate and complete student records as required by laws, district policies, and administrative regulations."
+ },
+ {
+  "task_id": "18627",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Counsel students regarding educational issues, such as course and program selection, class scheduling and registration, school adjustment, truancy, study habits, and career planning."
+ },
+ {
+  "task_id": "5608",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Provide crisis intervention to students when difficult situations occur at schools."
+ },
+ {
+  "task_id": "23990",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Counsel individuals or groups to help them understand and overcome personal, social, or behavioral problems affecting their educational or vocational situations."
+ },
+ {
+  "task_id": "5631",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Review transcripts to ensure that students meet graduation or college entrance requirements, and write letters of recommendation."
+ },
+ {
+  "task_id": "5611",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Prepare students for later educational experiences by encouraging them to explore learning opportunities and to persevere with challenging tasks."
+ },
+ {
+  "task_id": "23991",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Refer students to outside counseling services."
+ },
+ {
+  "task_id": "5632",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Refer students to degree programs based on interests, aptitudes, or educational assessments."
+ },
+ {
+  "task_id": "18625",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Evaluate students' or individuals' abilities, interests, and personality characteristics, using tests, records, interviews, or professional sources."
+ },
+ {
+  "task_id": "5616",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Provide students with information on topics such as college degree programs and admission requirements, financial aid opportunities, trade and technical schools, and apprenticeship programs."
+ },
+ {
+  "task_id": "5621",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Conduct follow-up interviews with counselees to determine if their needs have been met."
+ },
+ {
+  "task_id": "5626",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Instruct individuals in career development techniques, such as job search and application strategies, resume writing, and interview skills."
+ },
+ {
+  "task_id": "5625",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Assess needs for assistance, such as rehabilitation, financial aid, or additional vocational training, and refer clients to the appropriate services."
+ },
+ {
+  "task_id": "18631",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Plan and promote career and employment-related programs and events, such as career planning presentations, work experience programs, job fairs, and career workshops."
+ },
+ {
+  "task_id": "18630",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Attend meetings, educational conferences, and training workshops, and serve on committees."
+ },
+ {
+  "task_id": "5619",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Teach classes and present self-help or information sessions on subjects related to education and career planning."
+ },
+ {
+  "task_id": "5624",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Plan and conduct orientation programs and group conferences to promote the adjustment of individuals to new life experiences, such as starting college."
+ },
+ {
+  "task_id": "5627",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Address community groups, faculty, and staff members to explain available counseling services."
+ },
+ {
+  "task_id": "5623",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Prepare reports on students and activities as required by administration."
+ },
+ {
+  "task_id": "5630",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Provide information for teachers and staff members involved in helping students or graduates identify and pursue employment opportunities."
+ },
+ {
+  "task_id": "18628",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Collaborate with teachers and administrators in the development, evaluation, and revision of school programs and in the preparation of master schedules for curriculum offerings."
+ },
+ {
+  "task_id": "18634",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Plan, direct, and participate in recruitment and enrollment activities."
+ },
+ {
+  "task_id": "18626",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Identify cases of domestic abuse or other family problems and encourage students or parents to seek additional assistance from mental health professionals."
+ },
+ {
+  "task_id": "18624",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Confer with parents or guardians, teachers, administrators, and other professionals to discuss children's progress, resolve behavioral, academic, and other problems, and to determine priorities for students and their resource needs."
+ },
+ {
+  "task_id": "5633",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Provide special services such as alcohol and drug prevention programs and classes that teach students to handle conflicts without resorting to violence."
+ },
+ {
+  "task_id": "5634",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Provide students with disabilities with assistive devices, supportive technology, and assistance accessing facilities, such as restrooms."
+ },
+ {
+  "task_id": "18632",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Establish and enforce administration policies and rules governing student behavior."
+ },
+ {
+  "task_id": "18635",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Supervise, train, and direct professional staff and interns."
+ },
+ {
+  "task_id": "5636",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Interview clients to obtain information about employment history, educational background, and career goals, and to identify barriers to employment."
+ },
+ {
+  "task_id": "5629",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Compile and study occupational, educational, and economic information to assist counselees in determining and carrying out vocational and educational objectives."
+ },
+ {
+  "task_id": "18633",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Establish contacts with employers to create internship and employment opportunities for students."
+ },
+ {
+  "task_id": "5637",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Establish and supervise peer-counseling and peer-tutoring programs."
+ },
+ {
+  "task_id": "18629",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Observe students during classroom and play activities to evaluate students' performance, behavior, social development, and physical health."
+ },
+ {
+  "task_id": "5639",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Refer qualified counselees to employers or employment services for job placement."
+ },
+ {
+  "task_id": "5640",
+  "occupation": "Educational, Guidance, and Career Counselors and Advisors",
+  "task_text": "Sponsor extracurricular activities, such as clubs, student organizations, and academic contests."
+ },
+ {
+  "task_id": "9186",
+  "occupation": "Marriage and Family Therapists",
+  "task_text": "Encourage individuals and family members to develop and use skills and strategies for confronting their problems in a constructive manner."
+ },
+ {
+  "task_id": "9184",
+  "occupation": "Marriage and Family Therapists",
+  "task_text": "Ask questions that will help clients identify their feelings and behaviors."
+ },
+ {
+  "task_id": "20232",
+  "occupation": "Marriage and Family Therapists",
+  "task_text": "Develop and implement individualized treatment plans addressing family relationship problems, destructive patterns of behavior, and other personal issues."
+ },
+ {
+  "task_id": "9187",
+  "occupation": "Marriage and Family Therapists",
+  "task_text": "Maintain case files that include activities, progress notes, evaluations, and recommendations."
+ },
+ {
+  "task_id": "9185",
+  "occupation": "Marriage and Family Therapists",
+  "task_text": "Counsel clients on concerns, such as unsatisfactory relationships, divorce and separation, child rearing, home management, or financial difficulties."
+ },
+ {
+  "task_id": "9188",
+  "occupation": "Marriage and Family Therapists",
+  "task_text": "Collect information about clients, using techniques such as testing, interviewing, discussion, or observation."
+ },
+ {
+  "task_id": "9191",
+  "occupation": "Marriage and Family Therapists",
+  "task_text": "Confer with clients to develop plans for posttreatment activities."
+ },
+ {
+  "task_id": "20233",
+  "occupation": "Marriage and Family Therapists",
+  "task_text": "Confer with other counselors, doctors, and professionals to analyze individual cases and to coordinate counseling services."
+ },
+ {
+  "task_id": "9190",
+  "occupation": "Marriage and Family Therapists",
+  "task_text": "Determine whether clients should be counseled or referred to other specialists in such fields as medicine, psychiatry, or legal aid."
+ }
+]

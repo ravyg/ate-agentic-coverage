@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "14701",
+  "occupation": "Web Developers",
+  "task_text": "Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups."
+ },
+ {
+  "task_id": "14702",
+  "occupation": "Web Developers",
+  "task_text": "Analyze user needs to determine technical requirements."
+ },
+ {
+  "task_id": "14713",
+  "occupation": "Web Developers",
+  "task_text": "Respond to user email inquiries, or set up automated systems to send responses."
+ },
+ {
+  "task_id": "14705",
+  "occupation": "Web Developers",
+  "task_text": "Renew domain name registrations."
+ },
+ {
+  "task_id": "14697",
+  "occupation": "Web Developers",
+  "task_text": "Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions."
+ },
+ {
+  "task_id": "14708",
+  "occupation": "Web Developers",
+  "task_text": "Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites."
+ },
+ {
+  "task_id": "14706",
+  "occupation": "Web Developers",
+  "task_text": "Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites."
+ },
+ {
+  "task_id": "14726",
+  "occupation": "Web Developers",
+  "task_text": "Document test plans, testing procedures, or test results."
+ },
+ {
+  "task_id": "14717",
+  "occupation": "Web Developers",
+  "task_text": "Establish appropriate server directory trees."
+ },
+ {
+  "task_id": "14719",
+  "occupation": "Web Developers",
+  "task_text": "Recommend and implement performance improvements."
+ },
+ {
+  "task_id": "14728",
+  "occupation": "Web Developers",
+  "task_text": "Document technical factors such as server load, bandwidth, database performance, and browser and device types."
+ },
+ {
+  "task_id": "14714",
+  "occupation": "Web Developers",
+  "task_text": "Develop or implement procedures for ongoing Web site revision."
+ },
+ {
+  "task_id": "14724",
+  "occupation": "Web Developers",
+  "task_text": "Create Web models or prototypes that include physical, interface, logical, or data models."
+ },
+ {
+  "task_id": "14722",
+  "occupation": "Web Developers",
+  "task_text": "Provide clear, detailed descriptions of Web site specifications, such as product features, activities, software, communication protocols, programming languages, and operating systems software and hardware."
+ },
+ {
+  "task_id": "14725",
+  "occupation": "Web Developers",
+  "task_text": "Evaluate or recommend server hardware or software."
+ },
+ {
+  "task_id": "14723",
+  "occupation": "Web Developers",
+  "task_text": "Monitor security system performance logs to identify problems and notify security specialists when problems occur."
+ },
+ {
+  "task_id": "14729",
+  "occupation": "Web Developers",
+  "task_text": "Install and configure hypertext transfer protocol (HTTP) servers and associated operating systems."
+ },
+ {
+  "task_id": "14727",
+  "occupation": "Web Developers",
+  "task_text": "Research, document, rate, or select alternatives for Web architecture or technologies."
+ },
+ {
+  "task_id": "14730",
+  "occupation": "Web Developers",
+  "task_text": "Develop system interaction or sequence diagrams."
+ },
+ {
+  "task_id": "21683",
+  "occupation": "Web Developers",
+  "task_text": "Design and implement Web site security measures, such as firewalls and message encryption."
+ },
+ {
+  "task_id": "21684",
+  "occupation": "Web Developers",
+  "task_text": "Incorporate technical considerations into Web site design plans, such as budgets, equipment, performance requirements, and legal issues including accessibility and privacy."
+ },
+ {
+  "task_id": "21685",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites."
+ },
+ {
+  "task_id": "21686",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects."
+ },
+ {
+  "task_id": "21687",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites."
+ },
+ {
+  "task_id": "21688",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Conduct user research to determine design requirements and analyze user feedback to improve design quality."
+ },
+ {
+  "task_id": "21689",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions."
+ },
+ {
+  "task_id": "21690",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Create searchable indices for Web page content."
+ },
+ {
+  "task_id": "21691",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Create Web models or prototypes that include physical, interface, logical, or data models."
+ },
+ {
+  "task_id": "21692",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media."
+ },
+ {
+  "task_id": "21693",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Develop and document style guidelines for Web site content."
+ },
+ {
+  "task_id": "21694",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Develop new visual design concepts and modify concepts based on stakeholder feedback."
+ },
+ {
+  "task_id": "21695",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Develop or implement procedures for ongoing Web site revision."
+ },
+ {
+  "task_id": "21696",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Develop system interaction or sequence diagrams."
+ },
+ {
+  "task_id": "21697",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Develop Web site maps, application models, image templates, or page templates that meet project goals, user needs, or industry standards."
+ },
+ {
+  "task_id": "21698",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Develop, validate, and document test routines and schedules to ensure that test cases mimic external interfaces and address all browser and device types."
+ },
+ {
+  "task_id": "21699",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Direct and execute pre-production activities, such as creating moodboards or storyboards and establishing a project timeline."
+ },
+ {
+  "task_id": "21700",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Document technical factors such as server load, bandwidth, database performance, and browser and device types."
+ },
+ {
+  "task_id": "21701",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Identify or maintain links to and from other Web sites and check links to ensure proper functioning."
+ },
+ {
+  "task_id": "21702",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Identify problems uncovered by testing or customer feedback, and correct problems or refer problems to appropriate personnel for correction."
+ },
+ {
+  "task_id": "21703",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Incorporate technical considerations into Web site design plans, such as budgets, equipment, performance requirements, or legal issues including accessibility and privacy."
+ },
+ {
+  "task_id": "21704",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups."
+ },
+ {
+  "task_id": "21705",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Perform or direct Web site updates."
+ },
+ {
+  "task_id": "21706",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Perform Web site tests according to planned schedules, or after any Web site or product revision."
+ },
+ {
+  "task_id": "21707",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Provide clear, detailed descriptions of Web site specifications, such as product features, activities, software, communication protocols, programming languages, and operating systems software and hardware."
+ },
+ {
+  "task_id": "21708",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Register Web sites with search engines to increase Web site traffic."
+ },
+ {
+  "task_id": "21709",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Research and apply innovative solutions for product design, visuals, and user experience to meet the needs of individual Web development projects."
+ },
+ {
+  "task_id": "21710",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Research, document, rate, or select alternatives for Web architecture or technologies."
+ },
+ {
+  "task_id": "21711",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Respond to user email inquiries, or set up automated systems to send responses."
+ },
+ {
+  "task_id": "21712",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Select programming languages, design tools, or applications."
+ },
+ {
+  "task_id": "21713",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Write and edit technical documentation for digital interface products and designs, such as user manuals, testing protocols, and reports."
+ },
+ {
+  "task_id": "21714",
+  "occupation": "Web and Digital Interface Designers",
+  "task_text": "Write supporting code for Web applications or Web sites."
+ },
+ {
+  "task_id": "16199",
+  "occupation": "Video Game Designers",
+  "task_text": "Balance and adjust gameplay experiences to ensure the critical and commercial success of the product."
+ },
+ {
+  "task_id": "16208",
+  "occupation": "Video Game Designers",
+  "task_text": "Devise missions, challenges, or puzzles to be encountered in game play."
+ },
+ {
+  "task_id": "16217",
+  "occupation": "Video Game Designers",
+  "task_text": "Create core game features, including storylines, role-play mechanics, and character biographies for a new video game or game franchise."
+ },
+ {
+  "task_id": "16201",
+  "occupation": "Video Game Designers",
+  "task_text": "Solicit, obtain, and integrate feedback from design and technical staff into original game design."
+ },
+ {
+  "task_id": "16214",
+  "occupation": "Video Game Designers",
+  "task_text": "Conduct regular design reviews throughout the game development process."
+ },
+ {
+  "task_id": "16209",
+  "occupation": "Video Game Designers",
+  "task_text": "Develop and maintain design level documentation, including mechanics, guidelines, and mission outlines."
+ },
+ {
+  "task_id": "16216",
+  "occupation": "Video Game Designers",
+  "task_text": "Document all aspects of formal game design, using mock-up screenshots, sample menu layouts, gameplay flowcharts, and other graphical devices."
+ },
+ {
+  "task_id": "16198",
+  "occupation": "Video Game Designers",
+  "task_text": "Provide feedback to designers and other colleagues regarding game design features."
+ },
+ {
+  "task_id": "16212",
+  "occupation": "Video Game Designers",
+  "task_text": "Create and manage documentation, production schedules, prototyping goals, and communication plans in collaboration with production staff."
+ },
+ {
+  "task_id": "16202",
+  "occupation": "Video Game Designers",
+  "task_text": "Provide feedback to production staff regarding technical game qualities or adherence to original design."
+ },
+ {
+  "task_id": "16211",
+  "occupation": "Video Game Designers",
+  "task_text": "Create gameplay prototypes for presentation to creative and technical staff and management."
+ },
+ {
+  "task_id": "16207",
+  "occupation": "Video Game Designers",
+  "task_text": "Guide design discussions between development teams."
+ },
+ {
+  "task_id": "16206",
+  "occupation": "Video Game Designers",
+  "task_text": "Oversee gameplay testing to ensure intended gaming experience and game adherence to original vision."
+ },
+ {
+  "task_id": "16204",
+  "occupation": "Video Game Designers",
+  "task_text": "Present new game design concepts to management and technical colleagues, including artists, animators, and programmers."
+ },
+ {
+  "task_id": "16203",
+  "occupation": "Video Game Designers",
+  "task_text": "Prepare two-dimensional concept layouts or three-dimensional mock-ups."
+ },
+ {
+  "task_id": "16196",
+  "occupation": "Video Game Designers",
+  "task_text": "Keep abreast of game design technology and techniques, industry trends, or audience interests, reactions, and needs by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences."
+ },
+ {
+  "task_id": "16194",
+  "occupation": "Video Game Designers",
+  "task_text": "Review or evaluate competitive products, film, music, television, and other art forms to generate new game design ideas."
+ },
+ {
+  "task_id": "16215",
+  "occupation": "Video Game Designers",
+  "task_text": "Collaborate with artists to achieve appropriate visual style."
+ },
+ {
+  "task_id": "16200",
+  "occupation": "Video Game Designers",
+  "task_text": "Write or supervise the writing of game text and dialogue."
+ },
+ {
+  "task_id": "16213",
+  "occupation": "Video Game Designers",
+  "task_text": "Consult with multiple stakeholders to define requirements and implement online features."
+ },
+ {
+  "task_id": "16210",
+  "occupation": "Video Game Designers",
+  "task_text": "Determine supplementary virtual features, such as currency, item catalog, menu design, and audio direction."
+ },
+ {
+  "task_id": "16205",
+  "occupation": "Video Game Designers",
+  "task_text": "Prepare and revise initial game sketches using two- and three-dimensional graphical design software."
+ },
+ {
+  "task_id": "16197",
+  "occupation": "Video Game Designers",
+  "task_text": "Create gameplay test plans for internal and external test groups."
+ },
+ {
+  "task_id": "16195",
+  "occupation": "Video Game Designers",
+  "task_text": "Provide test specifications to quality assurance staff."
+ },
+ {
+  "task_id": "14734",
+  "occupation": "Web Administrators",
+  "task_text": "Monitor systems for intrusions or denial of service attacks, and report security breaches to appropriate personnel."
+ },
+ {
+  "task_id": "14741",
+  "occupation": "Web Administrators",
+  "task_text": "Identify or document backup or recovery plans."
+ },
+ {
+  "task_id": "14731",
+  "occupation": "Web Administrators",
+  "task_text": "Back up or modify applications and related data to provide for disaster recovery."
+ },
+ {
+  "task_id": "14758",
+  "occupation": "Web Administrators",
+  "task_text": "Correct testing-identified problems, or recommend actions for their resolution."
+ },
+ {
+  "task_id": "14748",
+  "occupation": "Web Administrators",
+  "task_text": "Identify, standardize, and communicate levels of access and security."
+ },
+ {
+  "task_id": "14732",
+  "occupation": "Web Administrators",
+  "task_text": "Determine sources of Web page or server problems, and take action to correct such problems."
+ },
+ {
+  "task_id": "14740",
+  "occupation": "Web Administrators",
+  "task_text": "Implement updates, upgrades, and patches in a timely manner to limit loss of service."
+ },
+ {
+  "task_id": "14735",
+  "occupation": "Web Administrators",
+  "task_text": "Implement Web site security measures, such as firewalls or message encryption."
+ },
+ {
+  "task_id": "14737",
+  "occupation": "Web Administrators",
+  "task_text": "Collaborate with development teams to discuss, analyze, or resolve usability issues."
+ },
+ {
+  "task_id": "14750",
+  "occupation": "Web Administrators",
+  "task_text": "Test issues such as system integration, performance, and system security on a regular schedule or after any major program modifications."
+ },
+ {
+  "task_id": "14756",
+  "occupation": "Web Administrators",
+  "task_text": "Perform user testing or usage analyses to determine Web sites' effectiveness or usability."
+ },
+ {
+  "task_id": "14753",
+  "occupation": "Web Administrators",
+  "task_text": "Document application and Web site changes or change procedures."
+ },
+ {
+  "task_id": "14749",
+  "occupation": "Web Administrators",
+  "task_text": "Track, compile, and analyze Web site usage data."
+ },
+ {
+  "task_id": "14738",
+  "occupation": "Web Administrators",
+  "task_text": "Test backup or recovery plans regularly and resolve any problems."
+ },
+ {
+  "task_id": "14751",
+  "occupation": "Web Administrators",
+  "task_text": "Recommend Web site improvements, and develop budgets to support recommendations."
+ },
+ {
+  "task_id": "14733",
+  "occupation": "Web Administrators",
+  "task_text": "Review or update Web page content or links in a timely manner, using appropriate tools."
+ },
+ {
+  "task_id": "14743",
+  "occupation": "Web Administrators",
+  "task_text": "Install or configure Web server software or hardware to ensure that directory structure is well-defined, logical, and secure, and that files are named properly."
+ },
+ {
+  "task_id": "14744",
+  "occupation": "Web Administrators",
+  "task_text": "Gather, analyze, or document user feedback to locate or resolve sources of problems."
+ },
+ {
+  "task_id": "14762",
+  "occupation": "Web Administrators",
+  "task_text": "Set up or maintain monitoring tools on Web servers or Web sites."
+ },
+ {
+  "task_id": "14739",
+  "occupation": "Web Administrators",
+  "task_text": "Monitor Web developments through continuing education, reading, or participation in professional conferences, workshops, or groups."
+ },
+ {
+  "task_id": "14759",
+  "occupation": "Web Administrators",
+  "task_text": "Develop or document style guidelines for Web site content."
+ },
+ {
+  "task_id": "14745",
+  "occupation": "Web Administrators",
+  "task_text": "Develop Web site performance metrics."
+ },
+ {
+  "task_id": "14742",
+  "occupation": "Web Administrators",
+  "task_text": "Collaborate with Web developers to create and operate internal and external Web sites, or to manage projects, such as e-marketing campaigns."
+ },
+ {
+  "task_id": "14746",
+  "occupation": "Web Administrators",
+  "task_text": "Identify or address interoperability requirements."
+ },
+ {
+  "task_id": "14754",
+  "occupation": "Web Administrators",
+  "task_text": "Develop or implement procedures for ongoing Web site revision."
+ },
+ {
+  "task_id": "14761",
+  "occupation": "Web Administrators",
+  "task_text": "Check and analyze operating system or application log files regularly to verify proper system performance."
+ },
+ {
+  "task_id": "14755",
+  "occupation": "Web Administrators",
+  "task_text": "Provide training or technical assistance in Web site implementation or use."
+ },
+ {
+  "task_id": "14764",
+  "occupation": "Web Administrators",
+  "task_text": "Evaluate testing routines or procedures for adequacy, sufficiency, and effectiveness."
+ },
+ {
+  "task_id": "14752",
+  "occupation": "Web Administrators",
+  "task_text": "Inform Web site users of problems, problem resolutions, or application changes and updates."
+ },
+ {
+  "task_id": "14747",
+  "occupation": "Web Administrators",
+  "task_text": "Document installation or configuration procedures to allow maintenance and repetition."
+ },
+ {
+  "task_id": "14763",
+  "occupation": "Web Administrators",
+  "task_text": "Develop testing routines and procedures."
+ },
+ {
+  "task_id": "14765",
+  "occupation": "Web Administrators",
+  "task_text": "Test new software packages for use in Web operations or other applications."
+ },
+ {
+  "task_id": "14760",
+  "occupation": "Web Administrators",
+  "task_text": "Develop and implement marketing plans for home pages, including print advertising or advertisement rotation."
+ },
+ {
+  "task_id": "14757",
+  "occupation": "Web Administrators",
+  "task_text": "Evaluate or recommend server hardware or software."
+ },
+ {
+  "task_id": "14736",
+  "occupation": "Web Administrators",
+  "task_text": "Administer internet or intranet infrastructure, including Web, file, and mail servers."
+ },
+ {
+  "task_id": "21715",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Produce data layers, maps, tables, or reports, using spatial analysis procedures or Geographic Information Systems (GIS) technology, equipment, or systems."
+ },
+ {
+  "task_id": "21716",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Design or prepare graphic representations of Geographic Information Systems (GIS) data, using GIS hardware or software applications."
+ },
+ {
+  "task_id": "21717",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Maintain or modify existing Geographic Information Systems (GIS) databases."
+ },
+ {
+  "task_id": "21718",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Provide technical expertise in Geographic Information Systems (GIS) technology to clients or users."
+ },
+ {
+  "task_id": "21719",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Perform computer programming, data analysis, or software development for Geographic Information Systems (GIS) applications, including the maintenance of existing systems or research and development for future enhancements."
+ },
+ {
+  "task_id": "21720",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Enter data into Geographic Information Systems (GIS) databases, using techniques such as coordinate geometry, keyboard entry of tabular data, manual digitizing of maps, scanning or automatic conversion to vectors, or conversion of other sources of digital data."
+ },
+ {
+  "task_id": "21721",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Review existing or incoming data for currency, accuracy, usefulness, quality, or completeness of documentation."
+ },
+ {
+  "task_id": "21722",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Perform geospatial data building, modeling, or analysis, using advanced spatial analysis, data manipulation, or cartography software."
+ },
+ {
+  "task_id": "21723",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Design or coordinate the development of integrated Geographic Information Systems (GIS) spatial or non-spatial databases."
+ },
+ {
+  "task_id": "21724",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Perform integrated or computerized Geographic Information Systems (GIS) analyses to address scientific problems."
+ },
+ {
+  "task_id": "21725",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Select cartographic elements needed for effective presentation of information."
+ },
+ {
+  "task_id": "21726",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Provide technical support to users or clients regarding the maintenance, development, or operation of Geographic Information Systems (GIS) databases, equipment, or applications."
+ },
+ {
+  "task_id": "21727",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Collect, compile, or integrate Geographic Information Systems (GIS) data, such as remote sensing or cartographic data for inclusion in map manuscripts."
+ },
+ {
+  "task_id": "21728",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Interpret aerial or ortho photographs."
+ },
+ {
+  "task_id": "21729",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Meet with clients to discuss topics such as technical specifications, customized solutions, or operational problems."
+ },
+ {
+  "task_id": "21730",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Document, design, code, or test Geographic Information Systems (GIS) models, internet mapping solutions, or other applications."
+ },
+ {
+  "task_id": "21731",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Create, analyze, report, convert, or transfer data, using specialized applications program software."
+ },
+ {
+  "task_id": "21732",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Confer with users to analyze, configure, or troubleshoot applications."
+ },
+ {
+  "task_id": "21733",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Design, program, or model Geographic Information Systems (GIS) applications or procedures."
+ },
+ {
+  "task_id": "21734",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Develop specialized computer software routines, internet-based Geographic Information Systems (GIS) databases, or business applications to customize geographic information."
+ }
+]

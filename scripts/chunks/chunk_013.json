@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "7884",
+  "occupation": "Massage Therapists",
+  "task_text": "Develop and propose client treatment plans that specify which types of massage are to be used."
+ },
+ {
+  "task_id": "7885",
+  "occupation": "Massage Therapists",
+  "task_text": "Refer clients to other types of therapists when necessary."
+ },
+ {
+  "task_id": "7886",
+  "occupation": "Massage Therapists",
+  "task_text": "Use complementary aids, such as infrared lamps, wet compresses, ice, and whirlpool baths to promote clients' recovery, relaxation, and well-being."
+ },
+ {
+  "task_id": "7887",
+  "occupation": "Massage Therapists",
+  "task_text": "Treat clients in professional settings or travel to clients' offices and homes."
+ },
+ {
+  "task_id": "7888",
+  "occupation": "Massage Therapists",
+  "task_text": "Consult with other health care professionals, such as physiotherapists, chiropractors, physicians, and psychologists, to develop treatment plans for clients."
+ },
+ {
+  "task_id": "7889",
+  "occupation": "Massage Therapists",
+  "task_text": "Prepare and blend oils and apply the blends to clients' skin."
+ },
+ {
+  "task_id": "8113",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Answer customers' questions about products, prices, availability, product uses, and credit terms."
+ },
+ {
+  "task_id": "8114",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Recommend products to customers, based on customers' needs and interests."
+ },
+ {
+  "task_id": "8115",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Contact regular and prospective customers to demonstrate products, explain product features, and solicit orders."
+ },
+ {
+  "task_id": "8116",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Estimate or quote prices, credit or contract terms, warranties, and delivery dates."
+ },
+ {
+  "task_id": "8117",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Consult with clients after sales or contract signings to resolve problems and to provide ongoing support."
+ },
+ {
+  "task_id": "8118",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Prepare drawings, estimates, and bids that meet specific customer needs."
+ },
+ {
+  "task_id": "8119",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Provide customers with product samples and catalogs."
+ },
+ {
+  "task_id": "8120",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Identify prospective customers by using business directories, following leads from existing clients, participating in organizations and clubs, and attending trade shows and conferences."
+ },
+ {
+  "task_id": "8121",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Arrange and direct delivery and installation of products and equipment."
+ },
+ {
+  "task_id": "8122",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Monitor market conditions, product innovations, and competitors' products, prices, and sales."
+ },
+ {
+  "task_id": "8124",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Perform administrative duties, such as preparing sales budgets and reports, keeping sales records, and filing expense account reports."
+ },
+ {
+  "task_id": "8125",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Obtain credit information about prospective customers."
+ },
+ {
+  "task_id": "8126",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Forward orders to manufacturers."
+ },
+ {
+  "task_id": "8127",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Check stock levels and reorder merchandise as necessary."
+ },
+ {
+  "task_id": "8128",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Plan, assemble, and stock product displays in retail stores, or make recommendations to retailers regarding product displays, promotional programs, and advertising."
+ },
+ {
+  "task_id": "8129",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+  "task_text": "Negotiate with retail merchants to improve product exposure, such as shelf positioning and advertising."
+ },
+ {
+  "task_id": "8145",
+  "occupation": "Brokerage Clerks",
+  "task_text": "Correspond with customers and confer with coworkers to answer inquiries, discuss market fluctuations, or resolve account problems."
+ },
+ {
+  "task_id": "8147",
+  "occupation": "Brokerage Clerks",
+  "task_text": "Schedule and coordinate transfer and delivery of security certificates between companies, departments, and customers."
+ },
+ {
+  "task_id": "8148",
+  "occupation": "Brokerage Clerks",
+  "task_text": "Prepare forms, such as receipts, withdrawal orders, transmittal papers, or transfer confirmations, based on transaction requests from stockholders."
+ },
+ {
+  "task_id": "8149",
+  "occupation": "Brokerage Clerks",
+  "task_text": "File, type, or operate standard office machines."
+ },
+ {
+  "task_id": "8150",
+  "occupation": "Brokerage Clerks",
+  "task_text": "Monitor daily stock prices and compute fluctuations to determine the need for additional collateral to secure loans."
+ },
+ {
+  "task_id": "8151",
+  "occupation": "Brokerage Clerks",
+  "task_text": "Compute total holdings, dividends, interest, transfer taxes, brokerage fees, or commissions and allocate appropriate payments to customers."
+ },
+ {
+  "task_id": "8152",
+  "occupation": "Brokerage Clerks",
+  "task_text": "Prepare reports summarizing daily transactions and earnings for individual customer accounts."
+ },
+ {
+  "task_id": "8153",
+  "occupation": "Brokerage Clerks",
+  "task_text": "Verify ownership and transaction information and dividend distribution instructions to ensure conformance with governmental regulations, using stock records and reports."
+ },
+ {
+  "task_id": "8188",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Negotiate and arrange transport of goods with shipping or freight companies."
+ },
+ {
+  "task_id": "8190",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Advise clients on transportation and payment methods."
+ },
+ {
+  "task_id": "8192",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Determine method of shipment and prepare bills of lading, invoices, and other shipping documents."
+ },
+ {
+  "task_id": "8194",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Estimate freight or postal rates and record shipment costs and weights."
+ },
+ {
+  "task_id": "8195",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Enter shipping information into a computer by hand or by a hand-held scanner that reads bar codes on goods."
+ },
+ {
+  "task_id": "8196",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Retrieve stored items and trace lost shipments as necessary."
+ },
+ {
+  "task_id": "8197",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Pack goods for shipping, using tools such as staplers, strapping machines, and hammers."
+ },
+ {
+  "task_id": "8198",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Direct delivery trucks to shipping doors or designated marshaling areas and help load and unload goods safely."
+ },
+ {
+  "task_id": "8199",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Inspect and count items received and check them against invoices or other documents, recording shortages and rejecting damaged goods."
+ },
+ {
+  "task_id": "8200",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Install straps, braces, and padding to loads to prevent shifting or damage during shipment."
+ },
+ {
+  "task_id": "8201",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Keep records of all goods shipped, received, and stored."
+ },
+ {
+  "task_id": "8202",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Coordinate and supervise activities of workers engaged in packing and shipping merchandise."
+ },
+ {
+  "task_id": "8203",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Arrange insurance coverage for goods."
+ },
+ {
+  "task_id": "8204",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Direct or participate in cargo loading to ensure completeness of load and even distribution of weight."
+ },
+ {
+  "task_id": "8205",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Open cargo containers and unwrap contents, using steel cutters, crowbars, or other hand tools."
+ },
+ {
+  "task_id": "8206",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Attach address labels, identification codes, and shipping instructions to containers."
+ },
+ {
+  "task_id": "8208",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Route received goods to first available flight or to appropriate storage areas or departments, using forklifts, hand trucks, or other equipment."
+ },
+ {
+  "task_id": "8209",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Maintain a supply of packing materials."
+ },
+ {
+  "task_id": "8210",
+  "occupation": "Cargo and Freight Agents",
+  "task_text": "Assemble containers and crates used to transport items, such as machines or vehicles."
+ },
+ {
+  "task_id": "8213",
+  "occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+  "task_text": "Direct items according to established routing schemes, using computer-controlled keyboards or voice-recognition equipment."
+ },
+ {
+  "task_id": "8214",
+  "occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+  "task_text": "Bundle, label, and route sorted mail to designated areas, depending on destinations and according to established procedures and deadlines."
+ },
+ {
+  "task_id": "8217",
+  "occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+  "task_text": "Train new workers."
+ },
+ {
+  "task_id": "8218",
+  "occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+  "task_text": "Distribute incoming mail into the correct boxes or pigeonholes."
+ },
+ {
+  "task_id": "8219",
+  "occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+  "task_text": "Operate various types of equipment, such as computer scanning equipment, addressographs, mimeographs, optical character readers, and bar-code sorters."
+ },
+ {
+  "task_id": "8220",
+  "occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+  "task_text": "Search directories to find correct addresses for redirected mail."
+ },
+ {
+  "task_id": "8221",
+  "occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+  "task_text": "Clear jams in sorting equipment."
+ },
+ {
+  "task_id": "8222",
+  "occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+  "task_text": "Check items to ensure that addresses are legible and correct, that sufficient postage has been paid or the appropriate documentation is attached, and that items are in a suitable condition for process"
+ },
+ {
+  "task_id": "8223",
+  "occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+  "task_text": "Open and label mail containers."
+ },
+ {
+  "task_id": "8224",
+  "occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+  "task_text": "Rewrap soiled or broken parcels."
+ },
+ {
+  "task_id": "8226",
+  "occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+  "task_text": "Move containers of mail, using equipment, such as forklifts and automated \"trains\"."
+ },
+ {
+  "task_id": "8227",
+  "occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+  "task_text": "Sort odd-sized mail by hand, sort mail that other workers have been unable to sort, and segregate items requiring special handling."
+ },
+ {
+  "task_id": "8229",
+  "occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+  "task_text": "Load and unload mail trucks, sometimes lifting containers of mail onto equipment that transports items to sorting stations."
+ },
+ {
+  "task_id": "8230",
+  "occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+  "task_text": "Cancel letter or parcel post stamps by hand."
+ },
+ {
+  "task_id": "8912",
+  "occupation": "Coroners",
+  "task_text": "Perform medicolegal examinations and autopsies, conducting preliminary examinations of the body to identify victims, locate signs of trauma, and identify factors that would indicate time of death."
+ },
+ {
+  "task_id": "8913",
+  "occupation": "Coroners",
+  "task_text": "Inquire into the cause, manner, and circumstances of human deaths and establish the identities of deceased persons."
+ },
+ {
+  "task_id": "8915",
+  "occupation": "Coroners",
+  "task_text": "Complete death certificates, including the assignment of cause and manner of death."
+ },
+ {
+  "task_id": "8916",
+  "occupation": "Coroners",
+  "task_text": "Observe and record the positions and conditions of bodies and related evidence."
+ },
+ {
+  "task_id": "8917",
+  "occupation": "Coroners",
+  "task_text": "Collect and document any pertinent medical history information."
+ },
+ {
+  "task_id": "8918",
+  "occupation": "Coroners",
+  "task_text": "Observe, record, and preserve any objects or personal property related to deaths, including objects such as medication containers and suicide notes."
+ },
+ {
+  "task_id": "8919",
+  "occupation": "Coroners",
+  "task_text": "Complete reports and forms required to finalize cases."
+ },
+ {
+  "task_id": "8920",
+  "occupation": "Coroners",
+  "task_text": "Remove or supervise removal of bodies from death scenes, using the proper equipment and supplies, and arrange for transportation to morgues."
+ },
+ {
+  "task_id": "8921",
+  "occupation": "Coroners",
+  "task_text": "Interview persons present at death scenes to obtain information useful in determining the manner of death."
+ },
+ {
+  "task_id": "8922",
+  "occupation": "Coroners",
+  "task_text": "Testify at inquests, hearings, and court trials."
+ },
+ {
+  "task_id": "8923",
+  "occupation": "Coroners",
+  "task_text": "Provide information concerning the circumstances of death to relatives of the deceased."
+ },
+ {
+  "task_id": "8924",
+  "occupation": "Coroners",
+  "task_text": "Locate and document information regarding the next of kin, including their relationship to the deceased and the status of notification attempts."
+ },
+ {
+  "task_id": "8925",
+  "occupation": "Coroners",
+  "task_text": "Confer with officials of public health and law enforcement agencies to coordinate interdepartmental activities."
+ },
+ {
+  "task_id": "8926",
+  "occupation": "Coroners",
+  "task_text": "Inventory personal effects recovered from bodies, such as jewelry or wallets."
+ },
+ {
+  "task_id": "8927",
+  "occupation": "Coroners",
+  "task_text": "Coordinate the release of personal effects to authorized persons and facilitate the disposition of unclaimed corpses and personal effects."
+ },
+ {
+  "task_id": "8928",
+  "occupation": "Coroners",
+  "task_text": "Arrange for the next of kin to be notified of deaths."
+ },
+ {
+  "task_id": "8929",
+  "occupation": "Coroners",
+  "task_text": "Record the disposition of minor children, as well as details of arrangements made for their care."
+ },
+ {
+  "task_id": "8930",
+  "occupation": "Coroners",
+  "task_text": "Collect wills, burial instructions, and other documentation needed for investigations and for handling of the remains."
+ },
+ {
+  "task_id": "8931",
+  "occupation": "Coroners",
+  "task_text": "Witness and certify deaths that are the result of a judicial order."
+ },
+ {
+  "task_id": "8932",
+  "occupation": "Logisticians",
+  "task_text": "Maintain and develop positive business relationships with a customer's key personnel involved in, or directly relevant to, a logistics activity."
+ },
+ {
+  "task_id": "8933",
+  "occupation": "Logisticians",
+  "task_text": "Develop an understanding of customers' needs and take actions to ensure that such needs are met."
+ },
+ {
+  "task_id": "8934",
+  "occupation": "Logisticians",
+  "task_text": "Direct availability and allocation of materials, supplies, and finished products."
+ },
+ {
+  "task_id": "8935",
+  "occupation": "Logisticians",
+  "task_text": "Collaborate with other departments as necessary to meet customer requirements, to take advantage of sales opportunities or, in the case of shortages, to minimize negative impacts on a business."
+ },
+ {
+  "task_id": "8936",
+  "occupation": "Logisticians",
+  "task_text": "Protect and control proprietary materials."
+ },
+ {
+  "task_id": "8937",
+  "occupation": "Logisticians",
+  "task_text": "Review logistics performance with customers against targets, benchmarks, and service agreements."
+ },
+ {
+  "task_id": "8938",
+  "occupation": "Logisticians",
+  "task_text": "Develop and implement technical project management tools, such as plans, schedules, and responsibility and compliance matrices."
+ },
+ {
+  "task_id": "8939",
+  "occupation": "Logisticians",
+  "task_text": "Direct team activities, establishing task priorities, scheduling and tracking work assignments, providing guidance, and ensuring the availability of resources."
+ },
+ {
+  "task_id": "8940",
+  "occupation": "Logisticians",
+  "task_text": "Report project plans, progress, and results."
+ },
+ {
+  "task_id": "8941",
+  "occupation": "Logisticians",
+  "task_text": "Direct and support the compilation and analysis of technical source data necessary for product development."
+ },
+ {
+  "task_id": "8942",
+  "occupation": "Logisticians",
+  "task_text": "Explain proposed solutions to customers, management, or other interested parties through written proposals and oral presentations."
+ },
+ {
+  "task_id": "8943",
+  "occupation": "Logisticians",
+  "task_text": "Develop proposals that include documentation for estimates."
+ },
+ {
+  "task_id": "8944",
+  "occupation": "Logisticians",
+  "task_text": "Plan, organize, and execute logistics support activities, such as maintenance planning, repair analysis, and test equipment recommendations."
+ },
+ {
+  "task_id": "8945",
+  "occupation": "Logisticians",
+  "task_text": "Provide project management services, including the provision and analysis of technical data."
+ },
+ {
+  "task_id": "8946",
+  "occupation": "Logisticians",
+  "task_text": "Participate in the assessment and review of design alternatives and design change proposal impacts."
+ },
+ {
+  "task_id": "8947",
+  "occupation": "Logisticians",
+  "task_text": "Support the development of training materials and technical manuals."
+ },
+ {
+  "task_id": "8948",
+  "occupation": "Logisticians",
+  "task_text": "Stay informed of logistics technology advances and apply appropriate technology to improve logistics processes."
+ },
+ {
+  "task_id": "8949",
+  "occupation": "Logisticians",
+  "task_text": "Redesign the movement of goods to maximize value and minimize costs."
+ },
+ {
+  "task_id": "8950",
+  "occupation": "Logisticians",
+  "task_text": "Manage subcontractor activities, reviewing proposals, developing performance specifications, and serving as liaisons between subcontractors and organizations."
+ },
+ {
+  "task_id": "8951",
+  "occupation": "Logisticians",
+  "task_text": "Manage the logistical aspects of product life cycles, including coordination or provisioning of samples, and the minimization of obsolescence."
+ },
+ {
+  "task_id": "8952",
+  "occupation": "Logisticians",
+  "task_text": "Perform system lifecycle cost analysis and develop component studies."
+ },
+ {
+  "task_id": "9230",
+  "occupation": "Title Examiners, Abstractors, and Searchers",
+  "task_text": "Prepare lists of all legal instruments applying to a specific piece of land and the buildings on it."
+ },
+ {
+  "task_id": "9231",
+  "occupation": "Title Examiners, Abstractors, and Searchers",
+  "task_text": "Examine documentation such as mortgages, liens, judgments, easements, plat books, maps, contracts, and agreements to verify factors such as properties' legal descriptions, ownership, or restrictions."
+ },
+ {
+  "task_id": "9232",
+  "occupation": "Title Examiners, Abstractors, and Searchers",
+  "task_text": "Read search requests to ascertain types of title evidence required and to obtain descriptions of properties and names of involved parties."
+ },
+ {
+  "task_id": "9233",
+  "occupation": "Title Examiners, Abstractors, and Searchers",
+  "task_text": "Copy or summarize recorded documents, such as mortgages, trust deeds, and contracts, that affect property titles."
+ },
+ {
+  "task_id": "9234",
+  "occupation": "Title Examiners, Abstractors, and Searchers",
+  "task_text": "Examine individual titles to determine if restrictions, such as delinquent taxes, will affect titles and limit property use."
+ },
+ {
+  "task_id": "9235",
+  "occupation": "Title Examiners, Abstractors, and Searchers",
+  "task_text": "Prepare reports describing any title encumbrances encountered during searching activities and outlining actions needed to clear titles."
+ },
+ {
+  "task_id": "9236",
+  "occupation": "Title Examiners, Abstractors, and Searchers",
+  "task_text": "Verify accuracy and completeness of land-related documents accepted for registration, preparing rejection notices when documents are not acceptable."
+ },
+ {
+  "task_id": "9237",
+  "occupation": "Title Examiners, Abstractors, and Searchers",
+  "task_text": "Confer with realtors, lending institution personnel, buyers, sellers, contractors, surveyors, and courthouse personnel to exchange title-related information or to resolve problems."
+ },
+ {
+  "task_id": "9238",
+  "occupation": "Title Examiners, Abstractors, and Searchers",
+  "task_text": "Enter into record-keeping systems appropriate data needed to create new title records or to update existing ones."
+ },
+ {
+  "task_id": "9239",
+  "occupation": "Title Examiners, Abstractors, and Searchers",
+  "task_text": "Direct activities of workers who search records and examine titles, assigning, scheduling, and evaluating work, and providing technical guidance as necessary."
+ },
+ {
+  "task_id": "9240",
+  "occupation": "Title Examiners, Abstractors, and Searchers",
+  "task_text": "Obtain maps or drawings delineating properties from company title plants, county surveyors, or assessors' offices."
+ },
+ {
+  "task_id": "9241",
+  "occupation": "Title Examiners, Abstractors, and Searchers",
+  "task_text": "Prepare and issue title commitments and title insurance policies, based on information compiled from title searches."
+ },
+ {
+  "task_id": "9242",
+  "occupation": "Title Examiners, Abstractors, and Searchers",
+  "task_text": "Summarize pertinent legal or insurance details, or sections of statutes or case law from reference books for use in examinations or as proofs or ready reference."
+ },
+ {
+  "task_id": "9243",
+  "occupation": "Title Examiners, Abstractors, and Searchers",
+  "task_text": "Retrieve and examine real estate closing files for accuracy and to ensure that information included is recorded and executed according to regulations."
+ },
+ {
+  "task_id": "9245",
+  "occupation": "Title Examiners, Abstractors, and Searchers",
+  "task_text": "Determine whether land-related documents can be registered under the relevant legislation, such as the Land Titles Act."
+ },
+ {
+  "task_id": "9246",
+  "occupation": "Title Examiners, Abstractors, and Searchers",
+  "task_text": "Assess fees related to registration of property-related documents."
+ },
+ {
+  "task_id": "9370",
+  "occupation": "Oral and Maxillofacial Surgeons",
+  "task_text": "Administer general and local anesthetics."
+ },
+ {
+  "task_id": "9371",
+  "occupation": "Oral and Maxillofacial Surgeons",
+  "task_text": "Remove impacted, damaged, and non-restorable teeth."
+ },
+ {
+  "task_id": "9372",
+  "occupation": "Oral and Maxillofacial Surgeons",
+  "task_text": "Evaluate the position of the wisdom teeth to determine whether problems exist currently or might occur in the future."
+ },
+ {
+  "task_id": "9373",
+  "occupation": "Oral and Maxillofacial Surgeons",
+  "task_text": "Collaborate with other professionals, such as restorative dentists and orthodontists, to plan treatment."
+ },
+ {
+  "task_id": "9374",
+  "occupation": "Oral and Maxillofacial Surgeons",
+  "task_text": "Perform surgery to prepare the mouth for dental implants and to aid in the regeneration of deficient bone and gum tissues."
+ },
+ {
+  "task_id": "9375",
+  "occupation": "Oral and Maxillofacial Surgeons",
+  "task_text": "Remove tumors and other abnormal growths of the oral and facial regions, using surgical instruments."
+ },
+ {
+  "task_id": "9376",
+  "occupation": "Oral and Maxillofacial Surgeons",
+  "task_text": "Treat infections of the oral cavity, salivary glands, jaws, and neck."
+ },
+ {
+  "task_id": "9377",
+  "occupation": "Oral and Maxillofacial Surgeons",
+  "task_text": "Treat problems affecting the oral mucosa, such as mouth ulcers and infections."
+ },
+ {
+  "task_id": "9378",
+  "occupation": "Oral and Maxillofacial Surgeons",
+  "task_text": "Provide emergency treatment of facial injuries including facial lacerations, intra-oral lacerations, and fractured facial bones."
+ },
+ {
+  "task_id": "9379",
+  "occupation": "Oral and Maxillofacial Surgeons",
+  "task_text": "Perform surgery on the mouth and jaws to treat conditions such as cleft lip, cleft palate, and jaw growth problems."
+ },
+ {
+  "task_id": "9380",
+  "occupation": "Oral and Maxillofacial Surgeons",
+  "task_text": "Restore form and function by moving skin, bone, nerves, and other tissues from other parts of the body to reconstruct the jaws and face."
+ }
+]

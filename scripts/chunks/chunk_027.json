@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "19206",
+  "occupation": "Exercise Physiologists",
+  "task_text": "Evaluate staff performance in leading group exercise or conducting diagnostic tests."
+ },
+ {
+  "task_id": "19207",
+  "occupation": "Exercise Physiologists",
+  "task_text": "Interview participants to obtain medical history or assess participant goals."
+ },
+ {
+  "task_id": "19208",
+  "occupation": "Exercise Physiologists",
+  "task_text": "Mentor or train staff to lead group exercise."
+ },
+ {
+  "task_id": "19209",
+  "occupation": "Exercise Physiologists",
+  "task_text": "Order or recommend diagnostic procedures, such as stress tests, drug screenings, or urinary tests."
+ },
+ {
+  "task_id": "19210",
+  "occupation": "Exercise Physiologists",
+  "task_text": "Plan or conduct exercise physiology research projects."
+ },
+ {
+  "task_id": "19211",
+  "occupation": "Exercise Physiologists",
+  "task_text": "Present exercise knowledge, program information, or research study findings at professional meetings or conferences."
+ },
+ {
+  "task_id": "19212",
+  "occupation": "Exercise Physiologists",
+  "task_text": "Provide emergency or other appropriate medical care to participants with symptoms or signs of physical distress."
+ },
+ {
+  "task_id": "19213",
+  "occupation": "Exercise Physiologists",
+  "task_text": "Supervise maintenance of exercise or exercise testing equipment."
+ },
+ {
+  "task_id": "19214",
+  "occupation": "Exercise Physiologists",
+  "task_text": "Teach behavior modification classes related to topics such as stress management or weight control."
+ },
+ {
+  "task_id": "19215",
+  "occupation": "Exercise Physiologists",
+  "task_text": "Teach group exercise for low-, medium-, or high-risk clients to improve participant strength, flexibility, endurance, or circulatory functioning."
+ },
+ {
+  "task_id": "19216",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Attach physiological monitoring leads to patient's finger, chest, waist, or other body parts."
+ },
+ {
+  "task_id": "19217",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Calibrate magnetic resonance imaging (MRI) console or peripheral hardware."
+ },
+ {
+  "task_id": "19218",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Conduct screening interviews of patients to identify contraindications, such as ferrous objects, pregnancy, prosthetic heart valves, cardiac pacemakers, or tattoos."
+ },
+ {
+  "task_id": "19219",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Connect physiological leads to physiological acquisition control (PAC) units."
+ },
+ {
+  "task_id": "19220",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Create backup copies of images by transferring images from disk to storage media or workstation."
+ },
+ {
+  "task_id": "19221",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Develop or otherwise produce film records of magnetic resonance images."
+ },
+ {
+  "task_id": "19222",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Explain magnetic resonance imaging (MRI) procedures to patients, patient representatives, or family members."
+ },
+ {
+  "task_id": "19223",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Intravenously inject contrast dyes, such as gadolinium contrast, in accordance with scope of practice."
+ },
+ {
+  "task_id": "19224",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Inspect images for quality, using magnetic resonance scanner equipment and laser camera."
+ },
+ {
+  "task_id": "19225",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Operate magnetic resonance imaging (MRI) scanners."
+ },
+ {
+  "task_id": "19226",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Position patients on cradle, attaching immobilization devices, if needed, to ensure appropriate placement for imaging."
+ },
+ {
+  "task_id": "19227",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Provide headphones or earplugs to patients to improve comfort and reduce unpleasant noise."
+ },
+ {
+  "task_id": "19228",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Select appropriate imaging techniques or coils to produce required images."
+ },
+ {
+  "task_id": "19229",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Troubleshoot technical issues related to magnetic resonance imaging (MRI) scanner or peripheral equipment, such as monitors or coils."
+ },
+ {
+  "task_id": "19230",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Conduct inventories to maintain stock of clinical supplies."
+ },
+ {
+  "task_id": "19231",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Instruct medical staff or students in magnetic resonance imaging (MRI) procedures or equipment operation."
+ },
+ {
+  "task_id": "19232",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Operate optical systems to capture dynamic magnetic resonance imaging (MRI) images, such as functional brain imaging, real-time organ motion tracking, or musculoskeletal anatomy and trajectory visuali"
+ },
+ {
+  "task_id": "19233",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Place and secure small, portable magnetic resonance imaging (MRI) scanners on body part to be imaged, such as arm, leg, or head."
+ },
+ {
+  "task_id": "19235",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Schedule appointments for research subjects or clinical patients."
+ },
+ {
+  "task_id": "19236",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Take brief medical histories from patients."
+ },
+ {
+  "task_id": "19237",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Test magnetic resonance imaging (MRI) equipment to ensure proper functioning and performance in accordance with specifications."
+ },
+ {
+  "task_id": "19238",
+  "occupation": "Magnetic Resonance Imaging Technologists",
+  "task_text": "Write reports or notes to summarize testing procedures or outcomes for physicians or other medical professionals."
+ },
+ {
+  "task_id": "19239",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Administer topical ophthalmic or oral medications."
+ },
+ {
+  "task_id": "19240",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Assess refractive conditions of eyes, using retinoscopes."
+ },
+ {
+  "task_id": "19241",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Assist patients to insert or remove contact lenses."
+ },
+ {
+  "task_id": "19242",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Call patients to inquire about their post-operative status or recovery."
+ },
+ {
+  "task_id": "19243",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Clean or sterilize ophthalmic or surgical instruments."
+ },
+ {
+  "task_id": "19244",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Conduct ocular motility tests to measure function of eye muscles."
+ },
+ {
+  "task_id": "19245",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Conduct visual field tests to measure field of vision."
+ },
+ {
+  "task_id": "19246",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Instruct patients in the care and use of contact lenses."
+ },
+ {
+  "task_id": "19247",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Maintain ophthalmic instruments or equipment."
+ },
+ {
+  "task_id": "19248",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Measure and record lens power, using lensometers."
+ },
+ {
+  "task_id": "19249",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Measure visual acuity, including near, distance, pinhole, or dynamic visual acuity, using appropriate tests."
+ },
+ {
+  "task_id": "19250",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Operate ophthalmic equipment, such as autorefractors, phoropters, tomographs, or retinoscopes."
+ },
+ {
+  "task_id": "19251",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Take anatomical or functional ocular measurements of the eye or surrounding tissue, such as axial length measurements."
+ },
+ {
+  "task_id": "19252",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Take and document patients' medical histories."
+ },
+ {
+  "task_id": "19253",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Adjust or make minor repairs to spectacles or eyeglasses."
+ },
+ {
+  "task_id": "19254",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Assist patients to select eyewear."
+ },
+ {
+  "task_id": "19255",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Assist physicians in performing ophthalmic procedures, including surgery."
+ },
+ {
+  "task_id": "19256",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Conduct binocular disparity tests to assess depth perception."
+ },
+ {
+  "task_id": "19257",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Conduct tonometry or tonography tests to measure intraocular pressure."
+ },
+ {
+  "task_id": "19258",
+  "occupation": "Ophthalmic Medical Technicians",
+  "task_text": "Measure corneal curvature with keratometers or ophthalmometers to aid in the diagnosis of conditions, such as astigmatism."
+ },
+ {
+  "task_id": "19259",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Administer topical ophthalmic or oral medications."
+ },
+ {
+  "task_id": "19260",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Assess abnormalities of color vision, such as amblyopia."
+ },
+ {
+  "task_id": "19261",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Assess refractive condition of eyes, using retinoscope."
+ },
+ {
+  "task_id": "19262",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Assist physicians in performing ophthalmic procedures, including surgery."
+ },
+ {
+  "task_id": "19263",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Calculate corrections for refractive errors."
+ },
+ {
+  "task_id": "19264",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Collect ophthalmic measurements or other diagnostic information, using ultrasound equipment, such as A-scan ultrasound biometry or B-scan ultrasonography equipment."
+ },
+ {
+  "task_id": "19265",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Conduct binocular disparity tests to assess depth perception."
+ },
+ {
+  "task_id": "19266",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Conduct ocular motility tests to measure function of eye muscles."
+ },
+ {
+  "task_id": "19267",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Conduct tests, such as the Amsler Grid test, to measure central visual field used in the early diagnosis of macular degeneration, glaucoma, or diseases of the eye."
+ },
+ {
+  "task_id": "19268",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Conduct tonometry or tonography tests to measure intraocular pressure."
+ },
+ {
+  "task_id": "19269",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Conduct visual field tests to measure field of vision."
+ },
+ {
+  "task_id": "19270",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Create three-dimensional images of the eye, using computed tomography (CT)."
+ },
+ {
+  "task_id": "19271",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Measure and record lens power, using lensometers."
+ },
+ {
+  "task_id": "19272",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Measure corneal curvature with keratometers or ophthalmometers to aid in the diagnosis of conditions, such as astigmatism."
+ },
+ {
+  "task_id": "19273",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Measure corneal thickness, using pachymeter or contact ultrasound methods."
+ },
+ {
+  "task_id": "19274",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Measure the thickness of the retinal nerve, using scanning laser polarimetry techniques to aid in diagnosis of glaucoma."
+ },
+ {
+  "task_id": "19275",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Measure visual acuity, including near, distance, pinhole, or dynamic visual acuity, using appropriate tests."
+ },
+ {
+  "task_id": "19276",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Perform advanced ophthalmic procedures, including electrophysiological, electrophysical, or microbial procedures."
+ },
+ {
+  "task_id": "19277",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Perform fluorescein angiography of the eye."
+ },
+ {
+  "task_id": "19278",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Perform slit lamp biomicroscopy procedures to diagnose disorders of the eye, such as retinitis, presbyopia, cataracts, or retinal detachment."
+ },
+ {
+  "task_id": "19279",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Photograph patients' eye areas, using clinical photography techniques, to document retinal or corneal defects."
+ },
+ {
+  "task_id": "19280",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Supervise or instruct ophthalmic staff."
+ },
+ {
+  "task_id": "19281",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Take anatomical or functional ocular measurements, such as axial length measurements, of the eye or surrounding tissue."
+ },
+ {
+  "task_id": "19282",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Call patients to inquire about their post-operative status or recovery."
+ },
+ {
+  "task_id": "19283",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Clean or sterilize ophthalmic or surgical instruments."
+ },
+ {
+  "task_id": "19284",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Conduct low vision blindness tests."
+ },
+ {
+  "task_id": "19285",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Instruct patients in the care and use of contact lenses."
+ },
+ {
+  "task_id": "19286",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Maintain ophthalmic instruments or equipment."
+ },
+ {
+  "task_id": "19287",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Take and document patients' medical histories."
+ },
+ {
+  "task_id": "19288",
+  "occupation": "Surgical Assistants",
+  "task_text": "Adjust and maintain operating room temperature, humidity, or lighting, according to surgeon's specifications."
+ },
+ {
+  "task_id": "19289",
+  "occupation": "Surgical Assistants",
+  "task_text": "Apply sutures, staples, clips, or other materials to close skin, facia, or subcutaneous wound layers."
+ },
+ {
+  "task_id": "19290",
+  "occupation": "Surgical Assistants",
+  "task_text": "Assess skin integrity or other body conditions upon completion of the procedure to determine if damage has occurred from body positioning."
+ },
+ {
+  "task_id": "19291",
+  "occupation": "Surgical Assistants",
+  "task_text": "Assist in the insertion, positioning, or suturing of closed-wound drainage systems."
+ },
+ {
+  "task_id": "19292",
+  "occupation": "Surgical Assistants",
+  "task_text": "Assist members of surgical team with gowning or gloving."
+ },
+ {
+  "task_id": "19293",
+  "occupation": "Surgical Assistants",
+  "task_text": "Clamp, ligate, or cauterize blood vessels to control bleeding during surgical entry, using hemostatic clamps, suture ligatures, or electrocautery equipment."
+ },
+ {
+  "task_id": "19294",
+  "occupation": "Surgical Assistants",
+  "task_text": "Coordinate or participate in the positioning of patients, using body stabilizing equipment or protective padding to provide appropriate exposure for the procedure or to protect against nerve damage or"
+ },
+ {
+  "task_id": "19295",
+  "occupation": "Surgical Assistants",
+  "task_text": "Coordinate with anesthesia personnel to maintain patient temperature."
+ },
+ {
+  "task_id": "19296",
+  "occupation": "Surgical Assistants",
+  "task_text": "Discuss with surgeon the nature of the surgical procedure, including operative consent, methods of operative exposure, diagnostic or laboratory data, or patient-advanced directives or other needs."
+ },
+ {
+  "task_id": "19297",
+  "occupation": "Surgical Assistants",
+  "task_text": "Incise tissue layers in lower extremities to harvest veins."
+ },
+ {
+  "task_id": "19298",
+  "occupation": "Surgical Assistants",
+  "task_text": "Maintain an unobstructed operative field, using surgical retractors, sponges, or suctioning and irrigating equipment."
+ },
+ {
+  "task_id": "19299",
+  "occupation": "Surgical Assistants",
+  "task_text": "Monitor and maintain aseptic technique throughout procedures."
+ },
+ {
+  "task_id": "19300",
+  "occupation": "Surgical Assistants",
+  "task_text": "Monitor patient intra-operative status, including patient position, vital signs, or volume and color of blood."
+ },
+ {
+  "task_id": "19301",
+  "occupation": "Surgical Assistants",
+  "task_text": "Postoperatively inject a subcutaneous local anesthetic agent to reduce pain."
+ },
+ {
+  "task_id": "19302",
+  "occupation": "Surgical Assistants",
+  "task_text": "Prepare and apply sterile wound dressings."
+ },
+ {
+  "task_id": "19303",
+  "occupation": "Surgical Assistants",
+  "task_text": "Assist in applying casts, splints, braces, or similar devices."
+ },
+ {
+  "task_id": "19304",
+  "occupation": "Surgical Assistants",
+  "task_text": "Assist in volume replacement or autotransfusion techniques."
+ },
+ {
+  "task_id": "19305",
+  "occupation": "Surgical Assistants",
+  "task_text": "Assist with patient resuscitation during cardiac arrest or other life-threatening events."
+ },
+ {
+  "task_id": "19306",
+  "occupation": "Surgical Assistants",
+  "task_text": "Cover patients with surgical drapes to create and maintain a sterile operative field."
+ },
+ {
+  "task_id": "19307",
+  "occupation": "Surgical Assistants",
+  "task_text": "Determine availability of necessary equipment or supplies for operative procedures."
+ },
+ {
+  "task_id": "19308",
+  "occupation": "Surgical Assistants",
+  "task_text": "Gather, arrange, or assemble instruments or supplies."
+ },
+ {
+  "task_id": "19309",
+  "occupation": "Surgical Assistants",
+  "task_text": "Insert or remove urinary bladder catheters."
+ },
+ {
+  "task_id": "19310",
+  "occupation": "Surgical Assistants",
+  "task_text": "Obtain or inspect sterile or non-sterile surgical equipment, instruments, or supplies."
+ },
+ {
+  "task_id": "19311",
+  "occupation": "Surgical Assistants",
+  "task_text": "Operate sterilizing devices."
+ },
+ {
+  "task_id": "19312",
+  "occupation": "Surgical Assistants",
+  "task_text": "Pass instruments or supplies to surgeon during procedure."
+ },
+ {
+  "task_id": "19313",
+  "occupation": "Surgical Assistants",
+  "task_text": "Remove patient hair or disinfect incision sites to prepare patient for surgery."
+ },
+ {
+  "task_id": "19314",
+  "occupation": "Surgical Assistants",
+  "task_text": "Transport patients to operating room."
+ },
+ {
+  "task_id": "19315",
+  "occupation": "Surgical Assistants",
+  "task_text": "Verify the identity of patient or operative site."
+ },
+ {
+  "task_id": "19316",
+  "occupation": "Nursing Assistants",
+  "task_text": "Administer medications or treatments, such as catheterizations, suppositories, irrigations, enemas, massages, or douches, as directed by a physician or nurse."
+ },
+ {
+  "task_id": "19317",
+  "occupation": "Nursing Assistants",
+  "task_text": "Answer patient call signals, signal lights, bells, or intercom systems to determine patients' needs."
+ },
+ {
+  "task_id": "19318",
+  "occupation": "Nursing Assistants",
+  "task_text": "Apply clean dressings, slings, stockings, or support bandages, under direction of nurse or physician."
+ },
+ {
+  "task_id": "19319",
+  "occupation": "Nursing Assistants",
+  "task_text": "Assist nurses or physicians in the operation of medical equipment or provision of patient care."
+ },
+ {
+  "task_id": "19320",
+  "occupation": "Nursing Assistants",
+  "task_text": "Change bed linens or make beds."
+ },
+ {
+  "task_id": "19321",
+  "occupation": "Nursing Assistants",
+  "task_text": "Clean and sanitize patient rooms, bathrooms, examination rooms, or other patient areas."
+ },
+ {
+  "task_id": "19322",
+  "occupation": "Nursing Assistants",
+  "task_text": "Collect specimens, such as urine, feces, or sputum."
+ },
+ {
+  "task_id": "19323",
+  "occupation": "Nursing Assistants",
+  "task_text": "Communicate with patients to ascertain feelings or need for assistance or social and emotional support."
+ },
+ {
+  "task_id": "19324",
+  "occupation": "Nursing Assistants",
+  "task_text": "Document or otherwise report observations of patient behavior, complaints, or physical symptoms to nurses."
+ },
+ {
+  "task_id": "19325",
+  "occupation": "Nursing Assistants",
+  "task_text": "Feed patients or assist patients to eat or drink."
+ },
+ {
+  "task_id": "19326",
+  "occupation": "Nursing Assistants",
+  "task_text": "Gather information from caregivers, nurses, or physicians about patient condition, treatment plans, or appropriate activities."
+ },
+ {
+  "task_id": "19327",
+  "occupation": "Nursing Assistants",
+  "task_text": "Measure and record food and liquid intake or urinary and fecal output, reporting changes to medical or nursing staff."
+ },
+ {
+  "task_id": "19328",
+  "occupation": "Nursing Assistants",
+  "task_text": "Observe or examine patients to detect symptoms that may require medical attention, such as bruises, open wounds, or blood in urine."
+ },
+ {
+  "task_id": "19329",
+  "occupation": "Nursing Assistants",
+  "task_text": "Position or hold patients in position for surgical preparation."
+ },
+ {
+  "task_id": "19330",
+  "occupation": "Nursing Assistants",
+  "task_text": "Prepare or serve food trays."
+ },
+ {
+  "task_id": "19331",
+  "occupation": "Nursing Assistants",
+  "task_text": "Provide physical support to assist patients to perform daily living activities, such as getting out of bed, bathing, dressing, using the toilet, standing, walking, or exercising."
+ },
+ {
+  "task_id": "19332",
+  "occupation": "Nursing Assistants",
+  "task_text": "Record height or weight of patients."
+ },
+ {
+  "task_id": "19333",
+  "occupation": "Nursing Assistants",
+  "task_text": "Record vital signs, such as temperature, blood pressure, pulse, or respiration rate, as directed by medical or nursing staff."
+ },
+ {
+  "task_id": "19334",
+  "occupation": "Nursing Assistants",
+  "task_text": "Remind patients to take medications or nutritional supplements."
+ },
+ {
+  "task_id": "19335",
+  "occupation": "Nursing Assistants",
+  "task_text": "Restock patient rooms with personal hygiene items, such as towels, washcloths, soap, or toilet paper."
+ },
+ {
+  "task_id": "19336",
+  "occupation": "Nursing Assistants",
+  "task_text": "Review patients' dietary restrictions, food allergies, and preferences to ensure patient receives appropriate diet."
+ }
+]

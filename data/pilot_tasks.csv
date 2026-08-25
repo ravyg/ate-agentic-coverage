@@ -1,0 +1,101 @@
+task_id,occupation,task_text,stratum,P1_interpersonal,P2_regulatory,P3_physical,P4_exception
+6624,"Career/Technical Education Teachers, Middle School","Confer with parents or guardians, other teachers, counselors, and administrators to resolve students' behavioral and academic problems.",P1_interpersonal,1,0,0,0
+9743,"Eligibility Interviewers, Government Programs",Provide social workers with pertinent information gathered during applicant interviews.,P1_interpersonal,1,0,0,0
+1147,"Purchasing Agents, Except Wholesale, Retail, and Farm Products","Negotiate, renegotiate, and administer contracts with suppliers, vendors, and other representatives.",P1_interpersonal,1,0,0,0
+1772,Public Relations Specialists,Coach client representatives in effective communication with the public or with employees.,P1_interpersonal,1,0,0,0
+21451,Compliance Officers,"Confer with or interview officials, technical or professional specialists, or applicants to obtain information or to clarify facts relevant to licensing decisions.",P1_interpersonal,1,0,0,0
+19227,Magnetic Resonance Imaging Technologists,Provide headphones or earplugs to patients to improve comfort and reduce unpleasant noise.,P1_interpersonal,1,0,0,0
+19045,Judicial Law Clerks,Communicate with counsel regarding case management or procedural requirements.,P1_interpersonal,1,0,0,0
+15863,Logistics Engineers,"Interview key staff or tour facilities to identify efficiency-improvement, cost-reduction, or service-delivery opportunities.",P1_interpersonal,1,0,0,0
+22630,"News Analysts, Reporters, and Journalists","Gather information and develop perspectives about news subjects through research, interviews, observation, and experience.",P1_interpersonal,1,0,0,0
+9384,Orthotists and Prosthetists,"Fit, test, and evaluate devices on patients, and make adjustments for proper fit, function, and comfort.",P1_interpersonal,1,0,0,0
+6842,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",Guide and counsel students with adjustment or academic problems or special academic interests.,P1_interpersonal,1,0,0,0
+9195,Marriage and Family Therapists,"Gather information from doctors, schools, social workers, juvenile counselors, law enforcement personnel, and others to make recommendations to courts for resolution of child custody or visitation disputes.",P1_interpersonal,1,0,0,0
+6946,Psychiatric Technicians,"Observe and influence patients' behavior, communicating and interacting with them and teaching, counseling, or befriending them.",P1_interpersonal,1,0,0,0
+275,Mental Health and Substance Abuse Social Workers,"Collaborate with counselors, physicians, or nurses to plan or coordinate treatment, drawing on social work experience and patient needs.",P1_interpersonal,1,0,0,0
+20966,Civil Engineering Technologists and Technicians,Negotiate with contractors on prices for new contracts or modifications to existing contracts.,P1_interpersonal,1,0,0,0
+2002,Psychiatric Aides,Interview patients upon admission and record information.,P1_interpersonal,1,0,0,0
+1831,Psychiatrists,Counsel outpatients or other patients during office visits.,P1_interpersonal,1,0,0,0
+7361,Tax Preparers,Interview clients to obtain additional information on taxable income and deductible expenses and allowances.,P1_interpersonal,1,0,0,0
+18940,Credit Counselors,"Maintain or update records of client account activity, including financial transactions, counseling session notes, correspondence, document images, or client inquiries.",P1_interpersonal,1,0,0,0
+19181,Music Therapists,"Communicate with clients to build rapport, acknowledge their progress, or reflect upon their reactions to musical experiences.",P1_interpersonal,1,0,0,0
+1827,Psychiatrists,Analyze and evaluate patient data or test findings to diagnose nature or extent of mental disorder.,P2_regulatory,0,1,0,0
+18364,Nurse Anesthetists,"Prepare prescribed solutions and administer local, intravenous, spinal, or other anesthetics, following specified methods and procedures.",P2_regulatory,0,1,0,0
+7065,Cement Masons and Concrete Finishers,"Sprinkle colored marble or stone chips, powdered steel, or coloring powder over surface to produce prescribed finish.",P2_regulatory,0,1,0,0
+18454,Nurse Midwives,Prescribe medications as permitted by state regulations.,P2_regulatory,0,1,0,0
+9960,Aircraft Mechanics and Service Technicians,Read and interpret pilots' descriptions of problems to diagnose causes.,P2_regulatory,0,1,0,0
+22888,Medical Records Specialists,"Resolve or clarify codes or diagnoses with conflicting, missing, or unclear information by consulting with doctors or others or by participating in the coding team's regular meetings.",P2_regulatory,0,1,0,0
+340,Optometrists,Prescribe medications to treat eye diseases if state laws permit.,P2_regulatory,0,1,0,0
+17260,Sports Medicine Physicians,"Develop and prescribe exercise programs, such as off-season conditioning regimens.",P2_regulatory,0,1,0,0
+2874,Electricians,"Diagnose malfunctioning systems, apparatus, or components, using test equipment and hand tools to locate the cause of a breakdown and correct the problem.",P2_regulatory,0,1,0,0
+16505,Microsystems Engineers,"Conduct analyses addressing issues such as failure, reliability, or yield improvement.",P2_regulatory,0,1,0,0
+17216,Preventive Medicine Physicians,Evaluate the effectiveness of prescribed risk reduction measures or other interventions.,P2_regulatory,0,1,0,0
+18430,Orthoptists,"Evaluate, diagnose, or treat disorders of the visual system with an emphasis on binocular vision or abnormal eye movements.",P2_regulatory,0,1,0,0
+20734,Mechanical Engineers,Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.,P2_regulatory,0,1,0,0
+17066,Allergists and Immunologists,"Prescribe medication such as antihistamines, antibiotics, and nasal, oral, topical, or inhaled glucocorticosteroids.",P2_regulatory,0,1,0,0
+8931,Coroners,Witness and certify deaths that are the result of a judicial order.,P2_regulatory,0,1,0,0
+22211,Clinical Neuropsychologists,"Diagnose and treat conditions involving injury to the central nervous system, such as cerebrovascular accidents, neoplasms, infectious or inflammatory diseases, degenerative diseases, head traumas, demyelinating diseases, and various forms of dementing illnesses.",P2_regulatory,0,1,0,0
+11357,Postal Service Mail Carriers,"Register, certify, and insure parcels and letters.",P2_regulatory,0,1,0,0
+15212,Microbiologists,"Isolate and maintain cultures of bacteria or other microorganisms in prescribed or developed media, controlling moisture, aeration, temperature, and nutrition.",P2_regulatory,0,1,0,0
+10881,Aerospace Engineering and Operations Technologists and Technicians,"Inspect, diagnose, maintain, and operate test setups and equipment to detect malfunctions.",P2_regulatory,0,1,0,0
+22748,"Orthopedic Surgeons, Except Pediatric",Diagnose or treat disorders of the musculoskeletal system.,P2_regulatory,0,1,0,0
+18448,Nurse Midwives,Document findings of physical examinations.,P3_physical,0,0,1,0
+10198,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic","Repair or replace damaged molds, pipes, belts, chains, or other equipment, using hand tools, hand-powered presses, or jib cranes.",P3_physical,0,0,1,0
+23824,"Captains, Mates, and Pilots of Water Vessels","Arrange for ships to be fueled, restocked with supplies, or repaired.",P3_physical,0,0,1,0
+16555,Wind Energy Engineers,Monitor wind farm construction to ensure compliance with regulatory standards or environmental requirements.,P3_physical,0,0,1,0
+5185,Bicycle Repairers,Assemble new bicycles.,P3_physical,0,0,1,0
+20315,Fitness and Wellness Coordinators,"Organize and oversee fitness or wellness programs, such as information presentations, blood drives, or training in first aid or cardiopulmonary resuscitation (CPR).",P3_physical,0,0,1,0
+4996,Cleaners of Vehicles and Equipment,Clean and polish vehicle windows.,P3_physical,0,0,1,0
+4865,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Disassemble and remove damaged or worn pipe.,P3_physical,0,0,1,0
+23550,Automotive Service Technicians and Mechanics,Repair or rebuild transmissions.,P3_physical,0,0,1,0
+9489,"Cooks, Institution and Cafeteria","Clean, cut, and cook meat, fish, or poultry.",P3_physical,0,0,1,0
+1007,Human Resources Managers,"Contract with vendors to provide employee services, such as food service, transportation, or relocation service.",P3_physical,0,0,1,0
+19046,Judicial Law Clerks,"Confer with judges concerning legal questions, construction of documents, or granting of orders.",P3_physical,0,0,1,0
+2364,Nannies,Perform housekeeping and cleaning duties related to children's care.,P3_physical,0,0,1,0
+4836,Helpers--Electricians,"Perform semi-skilled and unskilled laboring duties related to the installation, maintenance and repair of a wide variety of electrical systems and equipment.",P3_physical,0,0,1,0
+15817,Wind Energy Operations Managers,"Estimate costs associated with operations, including repairs or preventive maintenance.",P3_physical,0,0,1,0
+23373,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Repair and maintain farm vehicles, implements, and mechanical equipment.",P3_physical,0,0,1,0
+16296,Geodetic Surveyors,"Compute, retrace, or adjust existing surveys of features such as highway alignments, property boundaries, utilities, control and other surveys to match the ground elevation-dependent grids, geodetic grids, or property boundaries and to ensure accuracy and continuity of data used in engineering, surveying, or construction projects.",P3_physical,0,0,1,0
+5190,Bicycle Repairers,"Repair holes in tire tubes, using scrapers and patches.",P3_physical,0,0,1,0
+5177,Sheet Metal Workers,"Maintain equipment, making repairs or modifications when necessary.",P3_physical,0,0,1,0
+3121,Machinists,"Install experimental parts or assemblies, such as hydraulic systems, electrical wiring, lubricants, or batteries into machines or mechanisms.",P3_physical,0,0,1,0
+22599,Musicians and Singers,Improvise music during performances.,P4_exception,0,0,0,1
+22726,Emergency Medicine Physicians,Perform emergency resuscitations on patients.,P4_exception,0,0,0,1
+22911,First-Line Supervisors of Firefighting and Prevention Workers,"Provide emergency medical services as required, and perform light to heavy rescue functions at emergencies.",P4_exception,0,0,0,1
+23908,Mental Health Counselors,Perform crisis interventions to help ensure the safety of the patients and others.,P4_exception,0,0,0,1
+21297,Security Managers,Direct or participate in emergency management and contingency planning.,P4_exception,0,0,0,1
+7259,Emergency Management Directors,"Keep informed of federal, state, and local regulations affecting emergency plans, and ensure that plans adhere to those regulations.",P4_exception,0,0,0,1
+13245,Telephone Operators,Offer special assistance to persons such as those who are unable to dial or who are in emergency situations.,P4_exception,0,0,0,1
+22730,Emergency Medicine Physicians,"Select, request, perform, or interpret diagnostic procedures, such as laboratory tests, electrocardiograms, emergency ultrasounds, and radiographs.",P4_exception,0,0,0,1
+20839,Parking Attendants,"Call emergency responders or the proper authorities and provide motorist assistance, such as giving directions or helping jump start a stalled vehicle.",P4_exception,0,0,0,1
+7256,Emergency Management Directors,Maintain and update all resource materials associated with emergency preparedness plans.,P4_exception,0,0,0,1
+12351,Chemical Equipment Operators and Tenders,Implement appropriate industrial emergency response procedures.,P4_exception,0,0,0,1
+2127,Police Identification and Records Officers,Perform emergency work during off-hours.,P4_exception,0,0,0,1
+7270,Emergency Management Directors,"Conduct surveys to determine the types of emergency-related needs to be addressed in disaster planning, or provide technical support to others conducting such surveys.",P4_exception,0,0,0,1
+21347,"Transportation, Storage, and Distribution Managers","Develop and document standard and emergency operating procedures for receiving, handling, storing, shipping, or salvaging products or materials.",P4_exception,0,0,0,1
+5385,Nuclear Engineers,Initiate corrective actions or order plant shutdowns in emergency situations.,P4_exception,0,0,0,1
+7755,Anesthesiologists,Provide and maintain life support and airway management and help prepare patients for emergency surgery.,P4_exception,0,0,0,1
+60,Medical and Health Services Managers,"Inspect facilities and recommend building or equipment modifications to ensure emergency readiness and compliance to access, safety, and sanitation regulations.",P4_exception,0,0,0,1
+2714,Public Safety Telecommunicators,"Maintain files of information relating to emergency calls, such as personnel rosters and emergency call-out and pager files.",P4_exception,0,0,0,1
+21768,Information Security Engineers,"Coordinate documentation of computer security or emergency measure policies, procedures, or tests.",P4_exception,0,0,0,1
+5045,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Complete and maintain records of weather and beach conditions, emergency medical treatments performed, and other relevant incident information.",P4_exception,0,0,0,1
+21363,"Transportation, Storage, and Distribution Managers",Evaluate contractors or business partners for operational efficiency or safety or environmental performance records.,control_none,0,0,0,0
+4268,Occupational Therapy Assistants,"Perform clerical duties, such as scheduling appointments, collecting data, or documenting health insurance billings.",control_none,0,0,0,0
+21463,Project Management Specialists,Communicate with key stakeholders to determine project requirements and objectives.,control_none,0,0,0,0
+8601,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,Dispatch personnel and vehicles in response to telephone or radio reports of emergencies.,control_none,0,0,0,0
+10772,Crane and Tower Operators,Direct helpers engaged in placing blocking or outrigging under cranes.,control_none,0,0,0,0
+6844,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors","Review instructional content, methods, and student evaluations to assess strengths and weaknesses, and to develop recommendations for course revision, development, or elimination.",control_none,0,0,0,0
+12365,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Inspect machines or equipment for hazards, operating efficiency, malfunctions, wear, or leaks.",control_none,0,0,0,0
+23380,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Identify plants, pests, and weeds to determine the selection and application of pesticides and fertilizers.",control_none,0,0,0,0
+21657,Database Architects,"Test programs or databases, correct errors, and make necessary modifications.",control_none,0,0,0,0
+21497,Security Management Specialists,Prepare documentation for case reports or court proceedings.,control_none,0,0,0,0
+23096,School Bus Monitors,"Respond to students' questions, requests, or complaints.",control_none,0,0,0,0
+5812,"Biological Science Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,control_none,0,0,0,0
+21992,Electrical and Electronic Engineering Technologists and Technicians,Procure parts and maintain inventory and related documentation.,control_none,0,0,0,0
+12486,"Inspectors, Testers, Sorters, Samplers, and Weighers",Read dials or meters to verify that equipment is functioning at specified levels.,control_none,0,0,0,0
+10563,"Airline Pilots, Copilots, and Flight Engineers",Respond to and report in-flight emergencies and malfunctions.,control_none,0,0,0,0
+17548,Intelligence Analysts,"Gather intelligence information by field observation, confidential information sources, or public records.",control_none,0,0,0,0
+19802,Precision Agriculture Technicians,"Participate in efforts to advance precision agriculture technology, such as developing advanced weed identification or automated spot spraying systems.",control_none,0,0,0,0
+17235,Radiologists,Develop treatment plans for radiology patients.,control_none,0,0,0,0
+15479,Biomass Power Plant Managers,"Monitor the operating status of biomass plants by observing control system parameters, distributed control systems, switchboard gauges, dials, or other indicators.",control_none,0,0,0,0
+17161,"Ophthalmologists, Except Pediatric","Instruct interns, residents, or others in ophthalmologic procedures and techniques.",control_none,0,0,0,0

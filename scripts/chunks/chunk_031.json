@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "21487",
+  "occupation": "Security Management Specialists",
+  "task_text": "Develop conceptual designs of security systems."
+ },
+ {
+  "task_id": "21488",
+  "occupation": "Security Management Specialists",
+  "task_text": "Develop or review specifications for design or construction of security systems."
+ },
+ {
+  "task_id": "21489",
+  "occupation": "Security Management Specialists",
+  "task_text": "Engineer, install, maintain, or repair security systems, programmable logic controls, or other security-related electronic systems."
+ },
+ {
+  "task_id": "21490",
+  "occupation": "Security Management Specialists",
+  "task_text": "Inspect fire, intruder detection, or other security systems."
+ },
+ {
+  "task_id": "21491",
+  "occupation": "Security Management Specialists",
+  "task_text": "Inspect physical security design features, installations, or programs to ensure compliance with applicable standards or regulations."
+ },
+ {
+  "task_id": "21492",
+  "occupation": "Security Management Specialists",
+  "task_text": "Interview witnesses or suspects to identify persons responsible for security breaches or to establish losses, pursue prosecutions, or obtain restitution."
+ },
+ {
+  "task_id": "21493",
+  "occupation": "Security Management Specialists",
+  "task_text": "Monitor tapes or digital recordings to identify the source of losses."
+ },
+ {
+  "task_id": "21494",
+  "occupation": "Security Management Specialists",
+  "task_text": "Monitor the work of contractors in the design, construction, and startup phases of security systems."
+ },
+ {
+  "task_id": "21495",
+  "occupation": "Security Management Specialists",
+  "task_text": "Outline system security criteria for pre-bid meetings with clients and companies to ensure comprehensiveness and appropriateness for implementation."
+ },
+ {
+  "task_id": "21496",
+  "occupation": "Security Management Specialists",
+  "task_text": "Perform risk analyses so that appropriate countermeasures can be developed."
+ },
+ {
+  "task_id": "21497",
+  "occupation": "Security Management Specialists",
+  "task_text": "Prepare documentation for case reports or court proceedings."
+ },
+ {
+  "task_id": "21498",
+  "occupation": "Security Management Specialists",
+  "task_text": "Prepare, maintain, or update security procedures, security system drawings, or related documentation."
+ },
+ {
+  "task_id": "21499",
+  "occupation": "Security Management Specialists",
+  "task_text": "Provide system design and integration recommendations."
+ },
+ {
+  "task_id": "21500",
+  "occupation": "Security Management Specialists",
+  "task_text": "Recommend improvements in security systems or procedures."
+ },
+ {
+  "task_id": "21501",
+  "occupation": "Security Management Specialists",
+  "task_text": "Respond to emergency situations on an on-call basis."
+ },
+ {
+  "task_id": "21502",
+  "occupation": "Security Management Specialists",
+  "task_text": "Review design drawings or technical documents for completeness, correctness, or appropriateness."
+ },
+ {
+  "task_id": "21503",
+  "occupation": "Security Management Specialists",
+  "task_text": "Test security measures for final acceptance and implement or provide procedures for ongoing monitoring and evaluation of the measures."
+ },
+ {
+  "task_id": "21504",
+  "occupation": "Security Management Specialists",
+  "task_text": "Train personnel in security procedures or use of security equipment."
+ },
+ {
+  "task_id": "21505",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Prepare detailed reports on audit findings."
+ },
+ {
+  "task_id": "21506",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Report to management about asset utilization and audit results, and recommend changes in operations and financial activities."
+ },
+ {
+  "task_id": "21507",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Collect and analyze data to detect deficient controls, duplicated effort, extravagance, fraud, or non-compliance with laws, regulations, and management policies."
+ },
+ {
+  "task_id": "21508",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Inspect account books and accounting systems for efficiency, effectiveness, and use of accepted accounting procedures to record transactions."
+ },
+ {
+  "task_id": "21509",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Supervise auditing of establishments, and determine scope of investigation required."
+ },
+ {
+  "task_id": "21510",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Confer with company officials about financial and regulatory matters."
+ },
+ {
+  "task_id": "21511",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Examine and evaluate financial and information systems, recommending controls to ensure system reliability and data integrity."
+ },
+ {
+  "task_id": "21512",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Inspect cash on hand, notes receivable and payable, negotiable securities, and canceled checks to confirm records are accurate."
+ },
+ {
+  "task_id": "21513",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Examine records and interview workers to ensure recording of transactions and compliance with laws and regulations."
+ },
+ {
+  "task_id": "21514",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Prepare, examine, or analyze accounting records, financial statements, or other financial reports to assess accuracy, completeness, and conformance to reporting and procedural standards."
+ },
+ {
+  "task_id": "21515",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Prepare adjusting journal entries."
+ },
+ {
+  "task_id": "21516",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Review accounts for discrepancies and reconcile differences."
+ },
+ {
+  "task_id": "21517",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Establish tables of accounts and assign entries to proper accounts."
+ },
+ {
+  "task_id": "21518",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Examine inventory to verify journal and ledger entries."
+ },
+ {
+  "task_id": "21519",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Analyze business operations, trends, costs, revenues, financial commitments, and obligations to project future revenues and expenses or to provide advice."
+ },
+ {
+  "task_id": "21520",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Report to management regarding the finances of establishment."
+ },
+ {
+  "task_id": "21521",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Develop, implement, modify, and document recordkeeping and accounting systems, making use of current computer technology."
+ },
+ {
+  "task_id": "21522",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Evaluate taxpayer finances to determine tax liability, using knowledge of interest and discount rates, annuities, valuation of stocks and bonds, and amortization valuation of depletable assets."
+ },
+ {
+  "task_id": "21523",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Examine whether the organization's objectives are reflected in its management activities, and whether employees understand the objectives."
+ },
+ {
+  "task_id": "21524",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Audit payroll and personnel records to determine unemployment insurance premiums, workers' compensation coverage, liabilities, and compliance with tax laws."
+ },
+ {
+  "task_id": "21525",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Review taxpayer accounts, and conduct audits on-site, by correspondence, or by summoning taxpayer to office."
+ },
+ {
+  "task_id": "21526",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Compute taxes owed and prepare tax returns, ensuring compliance with payment, reporting, or other tax requirements."
+ },
+ {
+  "task_id": "21527",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Advise clients in areas such as compensation, employee health care benefits, the design of accounting or data processing systems, or long-range tax or estate plans."
+ },
+ {
+  "task_id": "21529",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Direct activities of personnel engaged in filing, recording, compiling, and transmitting financial records."
+ },
+ {
+  "task_id": "21530",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Conduct pre-implementation audits to determine if systems and programs under development will work as planned."
+ },
+ {
+  "task_id": "21531",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Develop, maintain, or analyze budgets, preparing periodic reports that compare budgeted costs to actual costs."
+ },
+ {
+  "task_id": "21532",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Prepare, analyze, or verify annual reports, financial statements, and other records, using accepted accounting and statistical procedures to assess financial condition and facilitate financial plannin"
+ },
+ {
+  "task_id": "21533",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Process invoices for payment."
+ },
+ {
+  "task_id": "21534",
+  "occupation": "Accountants and Auditors",
+  "task_text": "Review data about material assets, net worth, liabilities, capital stock, surplus, income, or expenditures."
+ },
+ {
+  "task_id": "21535",
+  "occupation": "Appraisers of Personal and Business Property",
+  "task_text": "Calculate the value of property based on comparisons to recent sales, estimated cost to reproduce, and anticipated property income streams."
+ },
+ {
+  "task_id": "21536",
+  "occupation": "Appraisers of Personal and Business Property",
+  "task_text": "Create and maintain a database of completed appraisals."
+ },
+ {
+  "task_id": "21537",
+  "occupation": "Appraisers of Personal and Business Property",
+  "task_text": "Determine the appropriate type of valuation to make, such as fair market, replacement, or liquidation, based on the needs of the property owner."
+ },
+ {
+  "task_id": "21538",
+  "occupation": "Appraisers of Personal and Business Property",
+  "task_text": "Document physical characteristics of property such as measurements, quality, and design."
+ },
+ {
+  "task_id": "21539",
+  "occupation": "Appraisers of Personal and Business Property",
+  "task_text": "Forecast the value of property."
+ },
+ {
+  "task_id": "21540",
+  "occupation": "Appraisers of Personal and Business Property",
+  "task_text": "Inspect personal or business property."
+ },
+ {
+  "task_id": "21541",
+  "occupation": "Appraisers of Personal and Business Property",
+  "task_text": "Locate and record data on sales of comparable property using specialized software, internet searches, or personal records."
+ },
+ {
+  "task_id": "21542",
+  "occupation": "Appraisers of Personal and Business Property",
+  "task_text": "Recommend loan amounts based on the value of property being used as collateral."
+ },
+ {
+  "task_id": "21543",
+  "occupation": "Appraisers of Personal and Business Property",
+  "task_text": "Take photographs of property."
+ },
+ {
+  "task_id": "21544",
+  "occupation": "Appraisers of Personal and Business Property",
+  "task_text": "Testify in court as to the value of a piece of tangible property."
+ },
+ {
+  "task_id": "21545",
+  "occupation": "Appraisers of Personal and Business Property",
+  "task_text": "Update appraisals when property has been improved, damaged, or has otherwise changed."
+ },
+ {
+  "task_id": "21546",
+  "occupation": "Appraisers of Personal and Business Property",
+  "task_text": "Verify that property matches legal descriptions or certifications."
+ },
+ {
+  "task_id": "21547",
+  "occupation": "Appraisers of Personal and Business Property",
+  "task_text": "Write and submit appraisal reports for property, such as jewelry, art, antiques, collectibles, and equipment."
+ },
+ {
+  "task_id": "21548",
+  "occupation": "Appraisers of Personal and Business Property",
+  "task_text": "Write descriptions of the property being appraised."
+ },
+ {
+  "task_id": "21549",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Compute final estimation of property values, taking into account such factors as depreciation, replacement costs, value comparisons of similar properties, and income potential."
+ },
+ {
+  "task_id": "21550",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Prepare written reports that estimate property values, outline methods by which the estimations were made, and meet appraisal standards."
+ },
+ {
+  "task_id": "21551",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Inspect new construction and major improvements to existing structures to determine values."
+ },
+ {
+  "task_id": "21552",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Collect and analyze relevant data to identify real estate market trends."
+ },
+ {
+  "task_id": "21553",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Prepare and maintain current data on each parcel assessed, including maps of boundaries, inventories of land and structures, property characteristics, and any applicable exemptions."
+ },
+ {
+  "task_id": "21554",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Explain assessed values to property owners and defend appealed assessments at public hearings."
+ },
+ {
+  "task_id": "21555",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Identify the ownership of each piece of taxable property."
+ },
+ {
+  "task_id": "21556",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Inspect properties, considering factors such as market value, location, and building or replacement costs to determine appraisal value."
+ },
+ {
+  "task_id": "21558",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Review information about transfers of property to ensure its accuracy, checking basic information on buyers, sellers, and sales prices and making corrections as necessary."
+ },
+ {
+  "task_id": "21559",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Explain real and personal property taxes to property owners."
+ },
+ {
+  "task_id": "21560",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Conduct regular reviews of property within jurisdictions to determine changes in property due to construction or demolition."
+ },
+ {
+  "task_id": "21561",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Establish uniform and equitable systems for assessing all classes and kinds of property."
+ },
+ {
+  "task_id": "21562",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Examine income records and operating costs of income properties."
+ },
+ {
+  "task_id": "21563",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Evaluate land and neighborhoods where properties are situated, considering locations and trends or impending changes that could influence future values."
+ },
+ {
+  "task_id": "21564",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Maintain familiarity with aspects of local real estate markets."
+ },
+ {
+  "task_id": "21565",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Search public records for transactions such as sales, leases, and assessments."
+ },
+ {
+  "task_id": "21566",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Check building codes and zoning bylaws to determine any effects on the properties being appraised."
+ },
+ {
+  "task_id": "21567",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Verify legal descriptions of properties by comparing them to county records."
+ },
+ {
+  "task_id": "21568",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Interview persons familiar with properties and immediate surroundings, such as contractors, home owners, and realtors, to obtain pertinent information."
+ },
+ {
+  "task_id": "21569",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Photograph interiors and exteriors of properties to assist in estimating property value, substantiate findings, and complete appraisal reports."
+ },
+ {
+  "task_id": "21570",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Obtain county land values and sales information about nearby properties to aid in establishment of property values."
+ },
+ {
+  "task_id": "21571",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Examine the type and location of nearby services, such as shopping centers, schools, parks, and other neighborhood features, to evaluate their impact on property values."
+ },
+ {
+  "task_id": "21572",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Estimate building replacement costs, using building valuation manuals and professional cost estimators."
+ },
+ {
+  "task_id": "21573",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Draw land diagrams to be used in appraisal reports to support findings."
+ },
+ {
+  "task_id": "21574",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Testify in court as to the value of a piece of real estate property."
+ },
+ {
+  "task_id": "21575",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Calculate tax bills for properties by multiplying assessed values by jurisdiction tax rates."
+ },
+ {
+  "task_id": "21577",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Analyze trends in sales prices, construction costs, and rents, to assess property values or determine the accuracy of assessments."
+ },
+ {
+  "task_id": "21578",
+  "occupation": "Appraisers and Assessors of Real Estate",
+  "task_text": "Determine taxability of properties, using methods such as field inspection, structural measurement, calculation, sales analysis, market trend studies, and income and expense analysis."
+ },
+ {
+  "task_id": "21579",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Advise clients on aspects of capitalization, such as amounts, sources, or timing."
+ },
+ {
+  "task_id": "21580",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Analyze financial or operational performance of companies facing financial difficulties to identify or recommend remedies."
+ },
+ {
+  "task_id": "21581",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Assess companies as investments for clients by examining company facilities."
+ },
+ {
+  "task_id": "21582",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Collaborate on projects with other professionals, such as lawyers, accountants, or public relations experts."
+ },
+ {
+  "task_id": "21583",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Collaborate with investment bankers to attract new corporate clients."
+ },
+ {
+  "task_id": "21584",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Conduct financial analyses related to investments in green construction or green retrofitting projects."
+ },
+ {
+  "task_id": "21585",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Confer with clients to restructure debt, refinance debt, or raise new debt."
+ },
+ {
+  "task_id": "21586",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Create client presentations of plan details."
+ },
+ {
+  "task_id": "21587",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Determine the prices at which securities should be syndicated and offered to the public."
+ },
+ {
+  "task_id": "21588",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Develop and maintain client relationships."
+ },
+ {
+  "task_id": "21589",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Draw charts and graphs, using computer spreadsheets, to illustrate technical reports."
+ },
+ {
+  "task_id": "21590",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Employ financial models to develop solutions to financial problems or to assess the financial or capital impact of transactions."
+ },
+ {
+  "task_id": "21591",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Evaluate and compare the relative quality of various securities in a given industry."
+ },
+ {
+  "task_id": "21592",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Evaluate capital needs of clients and assess market conditions to inform structuring of financial packages."
+ },
+ {
+  "task_id": "21593",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Inform investment decisions by analyzing financial information to forecast business, industry, or economic conditions."
+ },
+ {
+  "task_id": "21594",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Interpret data on price, yield, stability, future investment-risk trends, economic influences, and other factors affecting investment programs."
+ },
+ {
+  "task_id": "21595",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Monitor developments in the fields of industrial technology, business, finance, and economic theory."
+ },
+ {
+  "task_id": "21596",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Monitor fundamental economic, industrial, and corporate developments by analyzing information from financial publications and services, investment banking firms, government agencies, trade publication"
+ },
+ {
+  "task_id": "21597",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Perform securities valuation or pricing."
+ },
+ {
+  "task_id": "21598",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Prepare all materials for transactions or execution of deals."
+ },
+ {
+  "task_id": "21599",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Prepare plans of action for investment, using financial analyses."
+ },
+ {
+  "task_id": "21600",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Present oral or written reports on general economic trends, individual corporations, and entire industries."
+ },
+ {
+  "task_id": "21601",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Purchase investments for companies in accordance with company policy."
+ },
+ {
+  "task_id": "21602",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Recommend investments and investment timing to companies, investment firm staff, or the public."
+ },
+ {
+  "task_id": "21603",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Specialize in green financial instruments, such as socially responsible mutual funds or exchange-traded funds (ETF) that are comprised of green companies."
+ },
+ {
+  "task_id": "21604",
+  "occupation": "Financial and Investment Analysts",
+  "task_text": "Supervise, train, or mentor junior team members."
+ },
+ {
+  "task_id": "21605",
+  "occupation": "Financial Risk Specialists",
+  "task_text": "Analyze areas of potential risk to the assets, earning capacity, or success of organizations."
+ },
+ {
+  "task_id": "21606",
+  "occupation": "Financial Risk Specialists",
+  "task_text": "Analyze new legislation to determine impact on risk exposure."
+ },
+ {
+  "task_id": "21607",
+  "occupation": "Financial Risk Specialists",
+  "task_text": "Conduct statistical analyses to quantify risk, using statistical analysis software or econometric models."
+ },
+ {
+  "task_id": "21608",
+  "occupation": "Financial Risk Specialists",
+  "task_text": "Confer with traders to identify and communicate risks associated with specific trading strategies or positions."
+ },
+ {
+  "task_id": "21609",
+  "occupation": "Financial Risk Specialists",
+  "task_text": "Consult financial literature to ensure use of the latest models or statistical techniques."
+ },
+ {
+  "task_id": "21610",
+  "occupation": "Financial Risk Specialists",
+  "task_text": "Contribute to development of risk management systems."
+ },
+ {
+  "task_id": "21611",
+  "occupation": "Financial Risk Specialists",
+  "task_text": "Determine potential environmental impacts of new products or processes on long-term growth and profitability."
+ },
+ {
+  "task_id": "21612",
+  "occupation": "Financial Risk Specialists",
+  "task_text": "Develop contingency plans to deal with emergencies."
+ },
+ {
+  "task_id": "21613",
+  "occupation": "Financial Risk Specialists",
+  "task_text": "Develop or implement risk-assessment models or methodologies."
+ },
+ {
+  "task_id": "21614",
+  "occupation": "Financial Risk Specialists",
+  "task_text": "Devise scenario analyses reflecting possible severe market events."
+ },
+ {
+  "task_id": "21615",
+  "occupation": "Financial Risk Specialists",
+  "task_text": "Devise systems or processes to monitor validity of risk assessments."
+ },
+ {
+  "task_id": "21616",
+  "occupation": "Financial Risk Specialists",
+  "task_text": "Document, and ensure communication of, key risks."
+ },
+ {
+  "task_id": "21617",
+  "occupation": "Financial Risk Specialists",
+  "task_text": "Draw charts and graphs, using computer spreadsheets, to illustrate technical reports."
+ },
+ {
+  "task_id": "21618",
+  "occupation": "Financial Risk Specialists",
+  "task_text": "Evaluate and compare the relative quality of various securities in a given industry."
+ },
+ {
+  "task_id": "21619",
+  "occupation": "Financial Risk Specialists",
+  "task_text": "Evaluate the risks and benefits involved in implementing green building technologies."
+ }
+]

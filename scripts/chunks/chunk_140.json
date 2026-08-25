@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "23748",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Prepare and submit reports that may include the number of passengers or trips, hours worked, mileage driven fuel consumed, or fares received."
+ },
+ {
+  "task_id": "23741",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Notify dispatchers or company mechanics of vehicle problems."
+ },
+ {
+  "task_id": "23749",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Provide passengers with assistance entering and exiting vehicles, and help them with any luggage."
+ },
+ {
+  "task_id": "23735",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Communicate with dispatchers by radio, telephone, or computer to exchange information and receive requests for passenger service."
+ },
+ {
+  "task_id": "23747",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Pick up or meet passengers according to requests, appointments, or schedules."
+ },
+ {
+  "task_id": "23732",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Arrange to pick up particular customers or groups on a regular schedule."
+ },
+ {
+  "task_id": "23755",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Report delays, accidents, or other traffic and transportation situations, using telephones or mobile two-way radios."
+ },
+ {
+  "task_id": "23736",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Complete accident reports when necessary."
+ },
+ {
+  "task_id": "23751",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Read maps and follow written and verbal geographic directions."
+ },
+ {
+  "task_id": "23740",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Maintain knowledge of first-aid procedures."
+ },
+ {
+  "task_id": "23753",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Regulate heating, lighting, and ventilation systems for passenger comfort."
+ },
+ {
+  "task_id": "23752",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Record vehicle routes."
+ },
+ {
+  "task_id": "23757",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Vacuum and clean interiors, and wash and polish exteriors of automobiles."
+ },
+ {
+  "task_id": "23750",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Provide passengers with information or advice about the local area, points of interest, hotels, or restaurants."
+ },
+ {
+  "task_id": "23734",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Collect fares or vouchers from passengers, and make change or issue receipts as necessary."
+ },
+ {
+  "task_id": "23744",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Perform minor vehicle repairs, such as cleaning spark plugs, or take vehicles to mechanics for servicing."
+ },
+ {
+  "task_id": "23743",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Perform errands for customers or employers, such as delivering or picking up mail and packages."
+ },
+ {
+  "task_id": "23758",
+  "occupation": "Taxi Drivers",
+  "task_text": "Collect fares or vouchers from passengers, and make change or issue receipts as necessary."
+ },
+ {
+  "task_id": "23759",
+  "occupation": "Taxi Drivers",
+  "task_text": "Communicate with dispatchers by radio, telephone, or computer to exchange information and receive requests for passenger service."
+ },
+ {
+  "task_id": "23760",
+  "occupation": "Taxi Drivers",
+  "task_text": "Complete accident reports when necessary."
+ },
+ {
+  "task_id": "23761",
+  "occupation": "Taxi Drivers",
+  "task_text": "Determine fares based on trip distances and times, using taximeters and fee schedules, and announce fares to passengers."
+ },
+ {
+  "task_id": "23762",
+  "occupation": "Taxi Drivers",
+  "task_text": "Drive taxicabs or privately owned vehicles to transport passengers."
+ },
+ {
+  "task_id": "23763",
+  "occupation": "Taxi Drivers",
+  "task_text": "Follow relevant safety regulations and state laws governing vehicle operation, and ensure that passengers follow safety regulations."
+ },
+ {
+  "task_id": "23764",
+  "occupation": "Taxi Drivers",
+  "task_text": "Notify dispatchers or company mechanics of vehicle problems."
+ },
+ {
+  "task_id": "23765",
+  "occupation": "Taxi Drivers",
+  "task_text": "Perform minor vehicle repairs, such as cleaning spark plugs, or take vehicles to mechanics for servicing."
+ },
+ {
+  "task_id": "23766",
+  "occupation": "Taxi Drivers",
+  "task_text": "Perform routine vehicle maintenance, such as regulating tire pressure and adding gasoline, oil, and water."
+ },
+ {
+  "task_id": "23767",
+  "occupation": "Taxi Drivers",
+  "task_text": "Pick up passengers at prearranged locations, at taxi stands, or by cruising streets in high-traffic areas."
+ },
+ {
+  "task_id": "23768",
+  "occupation": "Taxi Drivers",
+  "task_text": "Provide passengers with assistance entering and exiting vehicles, and help them with any luggage."
+ },
+ {
+  "task_id": "23769",
+  "occupation": "Taxi Drivers",
+  "task_text": "Provide passengers with information or advice about the local area, points of interest, hotels, or restaurants."
+ },
+ {
+  "task_id": "23770",
+  "occupation": "Taxi Drivers",
+  "task_text": "Report to taxicab services or garages to receive vehicle assignments."
+ },
+ {
+  "task_id": "23771",
+  "occupation": "Taxi Drivers",
+  "task_text": "Test vehicle equipment, such as lights, brakes, horns, or windshield wipers, to ensure proper operation."
+ },
+ {
+  "task_id": "23772",
+  "occupation": "Taxi Drivers",
+  "task_text": "Turn the taximeter on when passengers enter the cab, and turn it off when they reach the final destination."
+ },
+ {
+  "task_id": "23773",
+  "occupation": "Taxi Drivers",
+  "task_text": "Vacuum and clean interiors and wash and polish exteriors of automobiles."
+ },
+ {
+  "task_id": "12752",
+  "occupation": "Locomotive Engineers",
+  "task_text": "Interpret train orders, signals, or railroad rules and regulations that govern the operation of locomotives."
+ },
+ {
+  "task_id": "12754",
+  "occupation": "Locomotive Engineers",
+  "task_text": "Confer with conductors or traffic control center personnel via radiophones to issue or receive information concerning stops, delays, or oncoming trains."
+ },
+ {
+  "task_id": "12753",
+  "occupation": "Locomotive Engineers",
+  "task_text": "Receive starting signals from conductors and use controls such as throttles or air brakes to drive electric, diesel-electric, steam, or gas turbine-electric locomotives."
+ },
+ {
+  "task_id": "12750",
+  "occupation": "Locomotive Engineers",
+  "task_text": "Monitor gauges or meters that measure speed, amperage, battery charge, or air pressure in brake lines or in main reservoirs."
+ },
+ {
+  "task_id": "12751",
+  "occupation": "Locomotive Engineers",
+  "task_text": "Observe tracks to detect obstructions."
+ },
+ {
+  "task_id": "12758",
+  "occupation": "Locomotive Engineers",
+  "task_text": "Call out train signals to assistants to verify meanings."
+ },
+ {
+  "task_id": "12755",
+  "occupation": "Locomotive Engineers",
+  "task_text": "Operate locomotives to transport freight or passengers between stations or to assemble or disassemble trains within rail yards."
+ },
+ {
+  "task_id": "12757",
+  "occupation": "Locomotive Engineers",
+  "task_text": "Check to ensure that brake examination tests are conducted at shunting stations."
+ },
+ {
+  "task_id": "12756",
+  "occupation": "Locomotive Engineers",
+  "task_text": "Respond to emergency conditions or breakdowns, following applicable safety procedures and rules."
+ },
+ {
+  "task_id": "12759",
+  "occupation": "Locomotive Engineers",
+  "task_text": "Inspect locomotives to verify adequate fuel, sand, water, or other supplies before each run or to check for mechanical problems."
+ },
+ {
+  "task_id": "12762",
+  "occupation": "Locomotive Engineers",
+  "task_text": "Inspect locomotives after runs to detect damaged or defective equipment."
+ },
+ {
+  "task_id": "12760",
+  "occupation": "Locomotive Engineers",
+  "task_text": "Prepare reports regarding any problems encountered, such as accidents, signaling problems, unscheduled stops, or delays."
+ },
+ {
+  "task_id": "12761",
+  "occupation": "Locomotive Engineers",
+  "task_text": "Check to ensure that documentation, such as procedure manuals or logbooks, are in the driver's cab and available for staff use."
+ },
+ {
+  "task_id": "12764",
+  "occupation": "Locomotive Engineers",
+  "task_text": "Monitor train loading procedures to ensure that freight or rolling stock are loaded or unloaded without damage."
+ },
+ {
+  "task_id": "10667",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Observe and respond to wayside and cab signals, including color light signals, position signals, torpedoes, flags, and hot box detectors."
+ },
+ {
+  "task_id": "10669",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Inspect engines before and after use to ensure proper operation."
+ },
+ {
+  "task_id": "10670",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Apply and release hand brakes."
+ },
+ {
+  "task_id": "10666",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Signal crew members for movement of engines or trains, using lanterns, hand signals, radios, or telephones."
+ },
+ {
+  "task_id": "10665",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Confer with conductors and other workers via radiotelephones or computers to exchange switching information."
+ },
+ {
+  "task_id": "10675",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Inspect track for defects such as broken rails and switch malfunctions."
+ },
+ {
+  "task_id": "10673",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Observe water levels and oil, air, and steam pressure gauges to ensure proper operation of equipment."
+ },
+ {
+  "task_id": "10679",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Couple and uncouple air hoses and electrical connections between cars."
+ },
+ {
+  "task_id": "10668",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Drive engines within railroad yards or other establishments to couple, uncouple, or switch railroad cars."
+ },
+ {
+  "task_id": "10672",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Inspect the condition of stationary trains, rolling stock, and equipment."
+ },
+ {
+  "task_id": "10671",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Read switching instructions and daily car schedules to determine work to be performed, or receive orders from yard conductors."
+ },
+ {
+  "task_id": "10678",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Receive, relay, and act upon instructions and inquiries from train operations and customer service center personnel."
+ },
+ {
+  "task_id": "10674",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Spot cars for loading and unloading at customer locations."
+ },
+ {
+  "task_id": "10677",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Operate track switches, derails, automatic switches, and retarders to change routing of train or cars."
+ },
+ {
+  "task_id": "10680",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Report arrival and departure times, train delays, work order completion, and time on duty."
+ },
+ {
+  "task_id": "10685",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Perform routine repair and maintenance duties."
+ },
+ {
+  "task_id": "10683",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Drive locomotives to and from various stations in roundhouses to have locomotives cleaned, serviced, repaired, or supplied."
+ },
+ {
+  "task_id": "10681",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Pull knuckles to open them for coupling."
+ },
+ {
+  "task_id": "10682",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Provide assistance in aligning drawbars, using available equipment to lift, pull, or push on the drawbars."
+ },
+ {
+  "task_id": "10676",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Ride on moving cars by holding onto grab irons and standing on ladder steps."
+ },
+ {
+  "task_id": "10684",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Record numbers of cars available, numbers of cars sent to repair stations, and types of service needed."
+ },
+ {
+  "task_id": "10687",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Operate flatcars equipped with derricks or railcars to transport personnel or equipment."
+ },
+ {
+  "task_id": "10688",
+  "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+  "task_text": "Provide assistance in the installation or repair of rails and ties."
+ },
+ {
+  "task_id": "23774",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Observe train signals along routes and verify their meanings for engineers."
+ },
+ {
+  "task_id": "23775",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Signal locomotive engineers to start or stop trains when coupling or uncoupling cars, using hand signals, lanterns, or radio communication."
+ },
+ {
+  "task_id": "23776",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Pull or push track switches to reroute cars."
+ },
+ {
+  "task_id": "23777",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Observe signals from other crew members so that work activities can be coordinated."
+ },
+ {
+  "task_id": "23778",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Monitor trains as they go around curves to detect dragging equipment and smoking journal boxes."
+ },
+ {
+  "task_id": "23779",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Inspect couplings, air hoses, journal boxes, and handbrakes to ensure that they are securely fastened and functioning properly."
+ },
+ {
+  "task_id": "23780",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Observe tracks from left sides of locomotives to detect obstructions on tracks."
+ },
+ {
+  "task_id": "23781",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Operate locomotives in emergency situations."
+ },
+ {
+  "task_id": "23782",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Raise levers to couple and uncouple cars for makeup and breakup of trains."
+ },
+ {
+  "task_id": "23783",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Climb ladders to tops of cars to set brakes."
+ },
+ {
+  "task_id": "23784",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Receive oral or written instructions from yardmasters or yard conductors indicating track assignments and cars to be switched."
+ },
+ {
+  "task_id": "23785",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Inspect locomotives to detect damaged or worn parts."
+ },
+ {
+  "task_id": "23786",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Signal other workers to set brakes and to throw track switches when switching cars from trains to way stations."
+ },
+ {
+  "task_id": "23787",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Check to see that trains are equipped with supplies such as fuel, water, and sand."
+ },
+ {
+  "task_id": "23788",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Monitor oil, temperature, and pressure gauges on dashboards to determine if engines are operating safely and efficiently."
+ },
+ {
+  "task_id": "23789",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Set flares, flags, lanterns, or torpedoes in front and at rear of trains during emergency stops to warn oncoming trains."
+ },
+ {
+  "task_id": "23790",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Inspect tracks, cars, and engines for defects and to determine service needs, sending engines and cars for repairs as necessary."
+ },
+ {
+  "task_id": "23791",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Start diesel engines to warm engines before runs."
+ },
+ {
+  "task_id": "23792",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Make minor repairs to couplings, air hoses, and journal boxes, using hand tools."
+ },
+ {
+  "task_id": "23793",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Connect air hoses to cars, using wrenches."
+ },
+ {
+  "task_id": "23794",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Operate and drive locomotives, diesel switch engines, dinkey engines, flatcars, and railcars in train yards and at industrial sites."
+ },
+ {
+  "task_id": "23795",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Refuel and lubricate engines."
+ },
+ {
+  "task_id": "23796",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Ride atop cars that have been shunted, and turn handwheels to control speeds or stop cars at specified positions."
+ },
+ {
+  "task_id": "23798",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Record numbers of cars available, numbers of cars sent to repair stations, and types of service needed."
+ },
+ {
+  "task_id": "23799",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Provide passengers with assistance entering and exiting trains."
+ },
+ {
+  "task_id": "23801",
+  "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+  "task_text": "Conduct brake tests to determine the condition of brakes on trains."
+ },
+ {
+  "task_id": "10690",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Signal engineers to begin train runs, stop trains, or change speed, using telecommunications equipment or hand signals."
+ },
+ {
+  "task_id": "10699",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Confer with engineers regarding train routes, timetables, and cargoes, and to discuss alternative routes when there are rail defects or obstructions."
+ },
+ {
+  "task_id": "10691",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Receive information regarding train or rail problems from dispatchers or from electronic monitoring devices."
+ },
+ {
+  "task_id": "10697",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Receive instructions from dispatchers regarding trains' routes, timetables, and cargoes."
+ },
+ {
+  "task_id": "10692",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Direct and instruct workers engaged in yard activities, such as switching tracks, coupling and uncoupling cars, and routing inbound and outbound traffic."
+ },
+ {
+  "task_id": "10694",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Operate controls to activate track switches and traffic signals."
+ },
+ {
+  "task_id": "10693",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Keep records of the contents and destination of each train car, and make sure that cars are added or removed at proper points on routes."
+ },
+ {
+  "task_id": "10700",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Arrange for the removal of defective cars from trains at stations or stops."
+ },
+ {
+  "task_id": "10696",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Direct engineers to move cars to fit planned train configurations, combining or separating cars to make up or break up trains."
+ },
+ {
+  "task_id": "10701",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Inspect each car periodically during runs."
+ },
+ {
+  "task_id": "10698",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Review schedules, switching orders, way bills, and shipping records to obtain cargo loading and unloading information and to plan work."
+ },
+ {
+  "task_id": "10704",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Confirm routes and destination information for freight cars."
+ },
+ {
+  "task_id": "10710",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Verify accuracy of timekeeping instruments with engineers to ensure trains depart on time."
+ },
+ {
+  "task_id": "10703",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Document and prepare reports of accidents, unscheduled stops, or delays."
+ },
+ {
+  "task_id": "10695",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Instruct workers to set warning signals in front and at rear of trains during emergency stops."
+ },
+ {
+  "task_id": "10702",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Observe yard traffic to determine tracks available to accommodate inbound and outbound traffic."
+ },
+ {
+  "task_id": "10706",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Supervise workers in the inspection and maintenance of mechanical equipment to ensure efficient and safe train operation."
+ },
+ {
+  "task_id": "10705",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Supervise and coordinate crew activities to transport freight and passengers and to provide boarding, porter, maid, and meal services to passengers."
+ },
+ {
+  "task_id": "10707",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Record departure and arrival times, messages, tickets and revenue collected, and passenger accommodations and destinations."
+ },
+ {
+  "task_id": "10708",
+  "occupation": "Railroad Conductors and Yardmasters",
+  "task_text": "Inspect freight cars for compliance with sealing procedures, and record car numbers and seal numbers."
+ },
+ {
+  "task_id": "12767",
+  "occupation": "Subway and Streetcar Operators",
+  "task_text": "Monitor lights indicating obstructions or other trains ahead and watch for car and truck traffic at crossings to stay alert to potential hazards."
+ },
+ {
+  "task_id": "12765",
+  "occupation": "Subway and Streetcar Operators",
+  "task_text": "Operate controls to open and close transit vehicle doors."
+ },
+ {
+  "task_id": "12766",
+  "occupation": "Subway and Streetcar Operators",
+  "task_text": "Drive and control rail-guided public transportation, such as subways, elevated trains, and electric-powered streetcars, trams, or trolleys, to transport passengers."
+ },
+ {
+  "task_id": "12770",
+  "occupation": "Subway and Streetcar Operators",
+  "task_text": "Report delays, mechanical problems, and emergencies to supervisors or dispatchers, using radios."
+ },
+ {
+  "task_id": "12769",
+  "occupation": "Subway and Streetcar Operators",
+  "task_text": "Regulate vehicle speed and the time spent at each stop to maintain schedules."
+ },
+ {
+  "task_id": "12771",
+  "occupation": "Subway and Streetcar Operators",
+  "task_text": "Make announcements to passengers, such as notifications of upcoming stops or schedule delays."
+ },
+ {
+  "task_id": "12768",
+  "occupation": "Subway and Streetcar Operators",
+  "task_text": "Direct emergency evacuation procedures."
+ },
+ {
+  "task_id": "12772",
+  "occupation": "Subway and Streetcar Operators",
+  "task_text": "Complete reports, including shift summaries and incident or accident reports."
+ },
+ {
+  "task_id": "12773",
+  "occupation": "Subway and Streetcar Operators",
+  "task_text": "Greet passengers, provide information, and answer questions concerning fares, schedules, transfers, and routings."
+ },
+ {
+  "task_id": "12774",
+  "occupation": "Subway and Streetcar Operators",
+  "task_text": "Attend meetings on driver and passenger safety to learn ways in which job performance might be affected."
+ },
+ {
+  "task_id": "14482",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Tie barges together into tow units for tugboats to handle, inspecting barges periodically during voyages and disconnecting them when destinations are reached."
+ },
+ {
+  "task_id": "14479",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Attach hoses and operate pumps to transfer substances to and from liquid cargo tanks."
+ },
+ {
+  "task_id": "14461",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Handle lines to moor vessels to wharfs, to tie up vessels to other vessels, or to rig towing lines."
+ },
+ {
+  "task_id": "14475",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Read pressure and temperature gauges or displays and record data in engineering logs."
+ }
+]

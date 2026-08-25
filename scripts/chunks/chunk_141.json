@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "14462",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Stand watch in ships' bows or bridge wings to look for obstructions in a ship's path or to locate navigational aids, such as buoys or lighthouses."
+ },
+ {
+  "task_id": "14457",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Maintain government-issued certifications, as required."
+ },
+ {
+  "task_id": "14476",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Examine machinery to verify specified pressures or lubricant flows."
+ },
+ {
+  "task_id": "14480",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Maintain a ship's engines under the direction of the ship's engineering officers."
+ },
+ {
+  "task_id": "14468",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Break out, rig, and stow cargo-handling gear, stationary rigging, or running gear."
+ },
+ {
+  "task_id": "14467",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Lubricate machinery, equipment, or engine parts, such as gears, shafts, or bearings."
+ },
+ {
+  "task_id": "14458",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Lower and man lifeboats when emergencies occur."
+ },
+ {
+  "task_id": "14472",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Sweep, mop, and wash down decks to remove oil, dirt, and debris, using brooms, mops, brushes, and hoses."
+ },
+ {
+  "task_id": "14469",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Splice and repair ropes, wire cables, or cordage, using marlinespikes, wire cutters, twine, and hand tools."
+ },
+ {
+  "task_id": "20934",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Load or unload materials, vehicles, or passengers from vessels."
+ },
+ {
+  "task_id": "14473",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Chip and clean rust spots on decks, superstructures, or sides of ships, using wire brushes and hand or air chipping machines."
+ },
+ {
+  "task_id": "14470",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Provide engineers with assistance in repairing or adjusting machinery."
+ },
+ {
+  "task_id": "14465",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Operate, maintain, or repair ship equipment, such as winches, cranes, derricks, or weapons system."
+ },
+ {
+  "task_id": "14471",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Paint or varnish decks, superstructures, lifeboats, or sides of ships."
+ },
+ {
+  "task_id": "14474",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Give directions to crew members engaged in cleaning wheelhouses or quarterdecks."
+ },
+ {
+  "task_id": "14459",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Stand by wheels when ships are on automatic pilot, and verify accuracy of courses, using magnetic compasses."
+ },
+ {
+  "task_id": "14460",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Steer ships under the direction of commanders or navigating officers or direct helmsmen to steer, following designated courses."
+ },
+ {
+  "task_id": "14481",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Relay specified signals to other ships, using visual signaling devices, such as blinker lights or semaphores."
+ },
+ {
+  "task_id": "14464",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Overhaul lifeboats or lifeboat gear and lower or raise lifeboats with winches or falls."
+ },
+ {
+  "task_id": "14463",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Stand gangway watches to prevent unauthorized persons from boarding ships while in port."
+ },
+ {
+  "task_id": "20935",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Record data in ships' logs, such as weather conditions or distances traveled."
+ },
+ {
+  "task_id": "14477",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Measure depth of water in shallow or unfamiliar waters, using leadlines, and telephone or shout depth information to vessel bridges."
+ },
+ {
+  "task_id": "14484",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Clean and polish wood trim, brass, or other metal parts."
+ },
+ {
+  "task_id": "14483",
+  "occupation": "Sailors and Marine Oilers",
+  "task_text": "Participate in shore patrols."
+ },
+ {
+  "task_id": "23802",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Direct courses and speeds of ships, based on specialized knowledge of local winds, weather, water depths, tides, currents, and hazards."
+ },
+ {
+  "task_id": "23803",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Prevent ships under navigational control from engaging in unsafe operations."
+ },
+ {
+  "task_id": "23804",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Serve as a vessel's docking master upon arrival at a port or at a berth."
+ },
+ {
+  "task_id": "23805",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Consult maps, charts, weather reports, or navigation equipment to determine and direct ship movements."
+ },
+ {
+  "task_id": "23806",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Steer and operate vessels, using radios, depth finders, radars, lights, buoys, or lighthouses."
+ },
+ {
+  "task_id": "23807",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Operate ship-to-shore radios to exchange information needed for ship operations."
+ },
+ {
+  "task_id": "23808",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Dock or undock vessels, sometimes maneuvering through narrow spaces, such as locks."
+ },
+ {
+  "task_id": "23809",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Stand watches on vessels during specified periods while vessels are under way."
+ },
+ {
+  "task_id": "23810",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Inspect vessels to ensure efficient and safe operation of vessels and equipment and conformance to regulations."
+ },
+ {
+  "task_id": "23811",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Read gauges to verify sufficient levels of hydraulic fluid, air pressure, or oxygen."
+ },
+ {
+  "task_id": "23812",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Report to appropriate authorities any violations of federal or state pilotage laws."
+ },
+ {
+  "task_id": "23813",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Provide assistance in maritime rescue operations."
+ },
+ {
+  "task_id": "23814",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Signal passing vessels, using whistles, flashing lights, flags, or radios."
+ },
+ {
+  "task_id": "23815",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Measure depths of water, using depth-measuring equipment."
+ },
+ {
+  "task_id": "23817",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Signal crew members or deckhands to rig tow lines, open or close gates or ramps, or pull guard chains across entries."
+ },
+ {
+  "task_id": "23816",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Maintain boats or equipment on board, such as engines, winches, navigational systems, fire extinguishers, or life preservers."
+ },
+ {
+  "task_id": "23819",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Maintain records of daily activities, personnel reports, ship positions and movements, ports of call, weather and sea conditions, pollution control efforts, or cargo or passenger status."
+ },
+ {
+  "task_id": "23818",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Advise ships' masters on harbor rules and customs procedures."
+ },
+ {
+  "task_id": "23820",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Observe loading or unloading of cargo or equipment to ensure that handling and storage are performed according to specifications."
+ },
+ {
+  "task_id": "23821",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Calculate sightings of land, using electronic sounding devices and following contour lines on charts."
+ },
+ {
+  "task_id": "23822",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Learn to operate new technology systems and procedures through instruction, simulators, or models."
+ },
+ {
+  "task_id": "23823",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Direct or coordinate crew members or workers performing activities such as loading or unloading cargo, steering vessels, operating engines, or operating, maintaining, or repairing ship equipment."
+ },
+ {
+  "task_id": "23824",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Arrange for ships to be fueled, restocked with supplies, or repaired."
+ },
+ {
+  "task_id": "23825",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Supervise crews in cleaning or maintaining decks, superstructures, or bridges."
+ },
+ {
+  "task_id": "23826",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Purchase supplies or equipment."
+ },
+ {
+  "task_id": "23827",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Tow and maneuver barges or signal tugboats to tow barges to destinations."
+ },
+ {
+  "task_id": "23828",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Perform various marine duties, such as checking for oil spills or other pollutants around ports or harbors or patrolling beaches."
+ },
+ {
+  "task_id": "23829",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Assign watches or living quarters to crew members."
+ },
+ {
+  "task_id": "23830",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Interview and hire crew members."
+ },
+ {
+  "task_id": "23831",
+  "occupation": "Captains, Mates, and Pilots of Water Vessels",
+  "task_text": "Conduct safety drills such as man overboard or fire drills."
+ },
+ {
+  "task_id": "14537",
+  "occupation": "Motorboat Operators",
+  "task_text": "Operate engine throttles and steering mechanisms to guide boats on desired courses."
+ },
+ {
+  "task_id": "14538",
+  "occupation": "Motorboat Operators",
+  "task_text": "Direct safety operations in emergency situations."
+ },
+ {
+  "task_id": "14540",
+  "occupation": "Motorboat Operators",
+  "task_text": "Secure boats to docks with mooring lines, and cast off lines to enable departure."
+ },
+ {
+  "task_id": "14535",
+  "occupation": "Motorboat Operators",
+  "task_text": "Maintain desired courses, using compasses or electronic navigational aids."
+ },
+ {
+  "task_id": "14545",
+  "occupation": "Motorboat Operators",
+  "task_text": "Organize and direct the activities of crew members."
+ },
+ {
+  "task_id": "14536",
+  "occupation": "Motorboat Operators",
+  "task_text": "Follow safety procedures to ensure the protection of passengers, cargo, and vessels."
+ },
+ {
+  "task_id": "14541",
+  "occupation": "Motorboat Operators",
+  "task_text": "Maintain equipment such as range markers, fire extinguishers, boat fenders, lines, pumps, and fittings."
+ },
+ {
+  "task_id": "14542",
+  "occupation": "Motorboat Operators",
+  "task_text": "Report any observed navigational hazards to authorities."
+ },
+ {
+  "task_id": "14548",
+  "occupation": "Motorboat Operators",
+  "task_text": "Oversee operation of vessels used for carrying passengers, motor vehicles, or goods across rivers, harbors, lakes, and coastal waters."
+ },
+ {
+  "task_id": "14543",
+  "occupation": "Motorboat Operators",
+  "task_text": "Service motors by performing tasks such as changing oil and lubricating parts."
+ },
+ {
+  "task_id": "14544",
+  "occupation": "Motorboat Operators",
+  "task_text": "Arrange repairs, fuel, and supplies for vessels."
+ },
+ {
+  "task_id": "14539",
+  "occupation": "Motorboat Operators",
+  "task_text": "Issue directions for loading, unloading, and seating in boats."
+ },
+ {
+  "task_id": "14547",
+  "occupation": "Motorboat Operators",
+  "task_text": "Clean boats and repair hulls and superstructures, using hand tools, paint, and brushes."
+ },
+ {
+  "task_id": "14546",
+  "occupation": "Motorboat Operators",
+  "task_text": "Tow, push, or guide other boats, barges, logs, or rafts."
+ },
+ {
+  "task_id": "14549",
+  "occupation": "Motorboat Operators",
+  "task_text": "Take depth soundings in turning basins."
+ },
+ {
+  "task_id": "14550",
+  "occupation": "Motorboat Operators",
+  "task_text": "Perform general labor duties such as repairing booms."
+ },
+ {
+  "task_id": "14553",
+  "occupation": "Ship Engineers",
+  "task_text": "Monitor engine, machinery, or equipment indicators when vessels are underway, and report abnormalities to appropriate shipboard staff."
+ },
+ {
+  "task_id": "14552",
+  "occupation": "Ship Engineers",
+  "task_text": "Monitor the availability, use, or condition of lifesaving equipment or pollution preventatives to ensure that international regulations are followed."
+ },
+ {
+  "task_id": "14559",
+  "occupation": "Ship Engineers",
+  "task_text": "Monitor and test operations of engines or other equipment so that malfunctions and their causes can be identified."
+ },
+ {
+  "task_id": "14558",
+  "occupation": "Ship Engineers",
+  "task_text": "Start engines to propel ships, and regulate engines and power transmissions to control speeds of ships, according to directions from captains or bridge computers."
+ },
+ {
+  "task_id": "14556",
+  "occupation": "Ship Engineers",
+  "task_text": "Perform or participate in emergency drills, as required."
+ },
+ {
+  "task_id": "14561",
+  "occupation": "Ship Engineers",
+  "task_text": "Perform general marine vessel maintenance or repair work, such as repairing leaks, finishing interiors, refueling, or maintaining decks."
+ },
+ {
+  "task_id": "14560",
+  "occupation": "Ship Engineers",
+  "task_text": "Maintain or repair engines, electric motors, pumps, winches, or other mechanical or electrical equipment, or assist other crew members with maintenance or repair duties."
+ },
+ {
+  "task_id": "14557",
+  "occupation": "Ship Engineers",
+  "task_text": "Maintain complete records of engineering department activities, including machine operations."
+ },
+ {
+  "task_id": "14562",
+  "occupation": "Ship Engineers",
+  "task_text": "Operate or maintain off-loading liquid pumps or valves."
+ },
+ {
+  "task_id": "14554",
+  "occupation": "Ship Engineers",
+  "task_text": "Maintain electrical power, heating, ventilation, refrigeration, water, or sewerage systems."
+ },
+ {
+  "task_id": "14567",
+  "occupation": "Ship Engineers",
+  "task_text": "Install engine controls, propeller shafts, or propellers."
+ },
+ {
+  "task_id": "14563",
+  "occupation": "Ship Engineers",
+  "task_text": "Clean engine parts and keep engine rooms clean."
+ },
+ {
+  "task_id": "14555",
+  "occupation": "Ship Engineers",
+  "task_text": "Record orders for changes in ship speed or direction, and note gauge readings or test data, such as revolutions per minute or voltage output, in engineering logs or bellbooks."
+ },
+ {
+  "task_id": "14565",
+  "occupation": "Ship Engineers",
+  "task_text": "Order and receive engine room stores, such as oil or spare parts, maintain inventories, and record usage of supplies."
+ },
+ {
+  "task_id": "14566",
+  "occupation": "Ship Engineers",
+  "task_text": "Act as a liaison between a ship's captain and shore personnel to ensure that schedules and budgets are maintained and that the ship is operated safely and efficiently."
+ },
+ {
+  "task_id": "14564",
+  "occupation": "Ship Engineers",
+  "task_text": "Supervise marine engine technicians engaged in the maintenance or repair of mechanical or electrical marine vessels, and inspect their work to ensure that it is performed properly."
+ },
+ {
+  "task_id": "14568",
+  "occupation": "Ship Engineers",
+  "task_text": "Fabricate engine replacement parts, such as valves, stay rods, or bolts, using metalworking machinery."
+ },
+ {
+  "task_id": "7152",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Control machinery to open and close canal locks and dams, railroad or highway drawbridges, or horizontally or vertically adjustable bridges."
+ },
+ {
+  "task_id": "7153",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Direct movements of vessels in locks or bridge areas, using signals, telecommunication equipment, or loudspeakers."
+ },
+ {
+  "task_id": "7156",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Observe position and progress of vessels to ensure best use of lock spaces or bridge opening spaces."
+ },
+ {
+  "task_id": "7151",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Record names, types, and destinations of vessels passing through bridge openings or locks, and numbers of trains or vehicles crossing bridges."
+ },
+ {
+  "task_id": "7155",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Observe approaching vessels to determine size and speed, and listen for whistle signals indicating desire to pass."
+ },
+ {
+  "task_id": "7150",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Move levers to activate traffic signals, navigation lights, and alarms."
+ },
+ {
+  "task_id": "7161",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Write and submit maintenance work requisitions."
+ },
+ {
+  "task_id": "7160",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Log data, such as water levels and weather conditions."
+ },
+ {
+  "task_id": "7154",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Prepare accident reports."
+ },
+ {
+  "task_id": "7162",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Perform maintenance duties, such as sweeping, painting, and yard work to keep facilities clean and in order."
+ },
+ {
+  "task_id": "7164",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Turn valves to increase or decrease water levels in locks."
+ },
+ {
+  "task_id": "7163",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Check that bridges are clear of vehicles and pedestrians prior to opening."
+ },
+ {
+  "task_id": "7165",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Stop automobile and pedestrian traffic on bridges, and lower automobile gates prior to moving bridges."
+ },
+ {
+  "task_id": "7166",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Raise drawbridges and observe passage of water traffic or lower drawbridges and raise automobile gates."
+ },
+ {
+  "task_id": "7157",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Maintain and guard stations in bridges to check waterways for boat traffic."
+ },
+ {
+  "task_id": "7159",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Clean and lubricate equipment, and make minor repairs and adjustments."
+ },
+ {
+  "task_id": "7158",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Inspect canal and bridge equipment, and areas, such as roadbeds, for damage or defects, reporting problems to supervisors as necessary."
+ },
+ {
+  "task_id": "7169",
+  "occupation": "Bridge and Lock Tenders",
+  "task_text": "Attach ropes or cable lines to bitts on lock decks or wharfs to secure vessels."
+ },
+ {
+  "task_id": "3187",
+  "occupation": "Parking Attendants",
+  "task_text": "Take numbered tags from customers, locate vehicles, and deliver vehicles, or provide customers with instructions for locating vehicles."
+ },
+ {
+  "task_id": "3196",
+  "occupation": "Parking Attendants",
+  "task_text": "Inspect vehicles to detect any damage."
+ },
+ {
+  "task_id": "3192",
+  "occupation": "Parking Attendants",
+  "task_text": "Greet customers and open their car doors."
+ },
+ {
+  "task_id": "20835",
+  "occupation": "Parking Attendants",
+  "task_text": "Issue ticket stubs or place numbered tags on windshields, log tags or attach tag to customers' keys, and give customers matching tags for locating parked vehicles."
+ },
+ {
+  "task_id": "20836",
+  "occupation": "Parking Attendants",
+  "task_text": "Perform cash handling tasks, such as making change, balancing and recording cash drawer, or distributing tips."
+ },
+ {
+  "task_id": "20837",
+  "occupation": "Parking Attendants",
+  "task_text": "Explain and calculate parking charges, collect fees from customers, and respond to customer complaints."
+ },
+ {
+  "task_id": "3191",
+  "occupation": "Parking Attendants",
+  "task_text": "Park and retrieve automobiles for customers in parking lots, storage garages, or new car lots."
+ },
+ {
+  "task_id": "20838",
+  "occupation": "Parking Attendants",
+  "task_text": "Provide customer assistance and information, such as giving directions or handling wheelchairs."
+ },
+ {
+  "task_id": "3188",
+  "occupation": "Parking Attendants",
+  "task_text": "Keep parking areas clean and orderly to ensure that space usage is maximized."
+ },
+ {
+  "task_id": "20839",
+  "occupation": "Parking Attendants",
+  "task_text": "Call emergency responders or the proper authorities and provide motorist assistance, such as giving directions or helping jump start a stalled vehicle."
+ },
+ {
+  "task_id": "3190",
+  "occupation": "Parking Attendants",
+  "task_text": "Patrol parking areas to prevent vehicle damage and vehicle or property thefts."
+ },
+ {
+  "task_id": "3189",
+  "occupation": "Parking Attendants",
+  "task_text": "Direct motorists to parking areas or parking spaces, using hand signals or flashlights as necessary."
+ },
+ {
+  "task_id": "3198",
+  "occupation": "Parking Attendants",
+  "task_text": "Escort customers to their vehicles to ensure their safety."
+ },
+ {
+  "task_id": "3200",
+  "occupation": "Parking Attendants",
+  "task_text": "Perform maintenance on cars in storage to protect tires, batteries, or exteriors from deterioration."
+ },
+ {
+  "task_id": "3195",
+  "occupation": "Parking Attendants",
+  "task_text": "Lift, position, and remove barricades to open or close parking areas."
+ },
+ {
+  "task_id": "10712",
+  "occupation": "Automotive and Watercraft Service Attendants",
+  "task_text": "Collect cash payments from customers, and make change or charge purchases to customers' credit cards, providing customers with receipts."
+ },
+ {
+  "task_id": "20936",
+  "occupation": "Automotive and Watercraft Service Attendants",
+  "task_text": "Check tire pressure and levels of fuel, motor oil, transmission, radiator, battery, or other fluids, adding air or fluids as required."
+ },
+ {
+  "task_id": "10719",
+  "occupation": "Automotive and Watercraft Service Attendants",
+  "task_text": "Perform minor repairs, such as adjusting brakes, replacing spark plugs, or changing engine oil or filters."
+ },
+ {
+  "task_id": "10715",
+  "occupation": "Automotive and Watercraft Service Attendants",
+  "task_text": "Clean parking areas, offices, restrooms, or equipment, and remove trash."
+ },
+ {
+  "task_id": "10720",
+  "occupation": "Automotive and Watercraft Service Attendants",
+  "task_text": "Order stock, and price and shelve incoming goods."
+ },
+ {
+  "task_id": "10725",
+  "occupation": "Automotive and Watercraft Service Attendants",
+  "task_text": "Sell and install accessories, such as batteries, windshield wiper blades, fan belts, bulbs, or headlamps."
+ },
+ {
+  "task_id": "10724",
+  "occupation": "Automotive and Watercraft Service Attendants",
+  "task_text": "Grease and lubricate vehicles or specified units, such as springs, universal joints, or steering knuckles, using grease guns or spray lubricants."
+ },
+ {
+  "task_id": "10721",
+  "occupation": "Automotive and Watercraft Service Attendants",
+  "task_text": "Rotate, test, and repair or replace tires."
+ },
+ {
+  "task_id": "10714",
+  "occupation": "Automotive and Watercraft Service Attendants",
+  "task_text": "Prepare daily reports of fuel, oil, and accessory sales."
+ },
+ {
+  "task_id": "20937",
+  "occupation": "Automotive and Watercraft Service Attendants",
+  "task_text": "Clean windshields."
+ }
+]

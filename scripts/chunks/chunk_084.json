@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "22494",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Instruct and monitor students in the use and care of equipment and materials to prevent injuries and damage."
+ },
+ {
+  "task_id": "22505",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Present subject matter to students under the direction and guidance of teachers, using lectures, discussions, supervised role-playing methods, or by reading aloud."
+ },
+ {
+  "task_id": "22489",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Discuss assigned duties with classroom teachers to coordinate instructional efforts."
+ },
+ {
+  "task_id": "22495",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Instruct students in daily living skills required for independent maintenance and self-sufficiency, such as hygiene, safety, or food preparation."
+ },
+ {
+  "task_id": "22502",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Prepare classrooms with a variety of materials or resources for children to explore, manipulate, or use in learning activities or imaginative play."
+ },
+ {
+  "task_id": "22490",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Distribute teaching materials, such as textbooks, workbooks, papers, and pencils, to students."
+ },
+ {
+  "task_id": "22500",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Organize and supervise games and other recreational activities to promote physical, mental, and social development."
+ },
+ {
+  "task_id": "22513",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Use computers, audio-visual aids, and other equipment and materials to supplement presentations."
+ },
+ {
+  "task_id": "22488",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Clean classrooms."
+ },
+ {
+  "task_id": "22499",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Organize and label materials and display students' work in a manner appropriate for their eye levels and perceptual skills."
+ },
+ {
+  "task_id": "22503",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Prepare lesson materials, bulletin board displays, exhibits, equipment, and demonstrations."
+ },
+ {
+  "task_id": "22493",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Grade homework and tests, and compute and record results, using answer sheets or electronic marking devices."
+ },
+ {
+  "task_id": "22484",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Assist in bus loading and unloading."
+ },
+ {
+  "task_id": "22510",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Take class attendance and maintain attendance records."
+ },
+ {
+  "task_id": "22497",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Maintain computers in classrooms and laboratories, and assist students with hardware and software use."
+ },
+ {
+  "task_id": "22504",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Prepare lesson outlines and plans in assigned subject areas and submit outlines to teachers for review."
+ },
+ {
+  "task_id": "22501",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Participate in teacher-parent conferences regarding students' progress or problems."
+ },
+ {
+  "task_id": "22485",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Assist librarians in school libraries."
+ },
+ {
+  "task_id": "22508",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Requisition and stock teaching materials and supplies."
+ },
+ {
+  "task_id": "22486",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Attend staff meetings and serve on committees, as required."
+ },
+ {
+  "task_id": "22496",
+  "occupation": "Teaching Assistants, Special Education",
+  "task_text": "Laminate teaching materials to increase their durability under repeated use."
+ },
+ {
+  "task_id": "10965",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Teach undergraduate-level courses."
+ },
+ {
+  "task_id": "10956",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Evaluate and grade examinations, assignments, or papers, and record grades."
+ },
+ {
+  "task_id": "10955",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Lead discussion sections, tutorials, or laboratory sections."
+ },
+ {
+  "task_id": "10967",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Develop teaching materials, such as syllabi, visual aids, answer keys, supplementary notes, or course Web sites."
+ },
+ {
+  "task_id": "10959",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Inform students of the procedures for completing and submitting class work, such as lab reports."
+ },
+ {
+  "task_id": "10957",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Return assignments to students in accordance with established deadlines."
+ },
+ {
+  "task_id": "10960",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Prepare or proctor examinations."
+ },
+ {
+  "task_id": "20878",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Tutor or mentor students who need additional instruction."
+ },
+ {
+  "task_id": "10962",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Meet with supervisors to discuss students' grades or to complete required grade-related paperwork."
+ },
+ {
+  "task_id": "10958",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Schedule and maintain regular office hours to meet with students."
+ },
+ {
+  "task_id": "10971",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Order or obtain materials needed for classes."
+ },
+ {
+  "task_id": "10963",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Copy and distribute classroom materials."
+ },
+ {
+  "task_id": "10961",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Notify instructors of errors or problems with assignments."
+ },
+ {
+  "task_id": "10966",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Complete laboratory projects prior to assigning them to students so that any needed modifications can be made."
+ },
+ {
+  "task_id": "10968",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Provide assistance to faculty members or staff with laboratory or field research."
+ },
+ {
+  "task_id": "10964",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Demonstrate use of laboratory equipment and enforce laboratory rules."
+ },
+ {
+  "task_id": "20879",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Attend lectures given by the supervising instructor."
+ },
+ {
+  "task_id": "20880",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Arrange for supervisors to conduct teaching observations and provide feedback about teaching performance."
+ },
+ {
+  "task_id": "10972",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Provide instructors with assistance in the use of audiovisual equipment."
+ },
+ {
+  "task_id": "10973",
+  "occupation": "Teaching Assistants, Postsecondary",
+  "task_text": "Assist faculty members or staff with student conferences."
+ },
+ {
+  "task_id": "291",
+  "occupation": "Art Directors",
+  "task_text": "Work with creative directors to develop design solutions."
+ },
+ {
+  "task_id": "288",
+  "occupation": "Art Directors",
+  "task_text": "Present final layouts to clients for approval."
+ },
+ {
+  "task_id": "286",
+  "occupation": "Art Directors",
+  "task_text": "Manage own accounts and projects, working within budget and scheduling requirements."
+ },
+ {
+  "task_id": "287",
+  "occupation": "Art Directors",
+  "task_text": "Confer with creative, art, copywriting, or production department heads to discuss client requirements and presentation concepts and to coordinate creative activities."
+ },
+ {
+  "task_id": "289",
+  "occupation": "Art Directors",
+  "task_text": "Confer with clients to determine objectives, budget, background information, and presentation approaches, styles, and techniques."
+ },
+ {
+  "task_id": "284",
+  "occupation": "Art Directors",
+  "task_text": "Formulate basic layout design or presentation approach and specify material details, such as style and size of type, photographs, graphics, animation, video, and sound."
+ },
+ {
+  "task_id": "285",
+  "occupation": "Art Directors",
+  "task_text": "Review and approve art materials, copy materials, and proofs of printed copy developed by staff members."
+ },
+ {
+  "task_id": "294",
+  "occupation": "Art Directors",
+  "task_text": "Create custom illustrations or other graphic elements."
+ },
+ {
+  "task_id": "293",
+  "occupation": "Art Directors",
+  "task_text": "Attend photo shoots and printing sessions to ensure that the products needed are obtained."
+ },
+ {
+  "task_id": "292",
+  "occupation": "Art Directors",
+  "task_text": "Review illustrative material to determine if it conforms to standards and specifications."
+ },
+ {
+  "task_id": "290",
+  "occupation": "Art Directors",
+  "task_text": "Hire, train, and direct staff members who develop design concepts into art layouts or who prepare layouts for printing."
+ },
+ {
+  "task_id": "20242",
+  "occupation": "Art Directors",
+  "task_text": "Research current trends and new technology, such as printing production techniques, computer software, and design trends."
+ },
+ {
+  "task_id": "295",
+  "occupation": "Art Directors",
+  "task_text": "Mark up, paste, and complete layouts and write typography instructions to prepare materials for typesetting or printing."
+ },
+ {
+  "task_id": "297",
+  "occupation": "Art Directors",
+  "task_text": "Conceptualize and help design interfaces for multimedia games, products, and devices."
+ },
+ {
+  "task_id": "298",
+  "occupation": "Art Directors",
+  "task_text": "Prepare detailed storyboards showing sequence and timing of story development for television production."
+ },
+ {
+  "task_id": "296",
+  "occupation": "Art Directors",
+  "task_text": "Negotiate with printers and estimators to determine what services will be performed."
+ },
+ {
+  "task_id": "9250",
+  "occupation": "Craft Artists",
+  "task_text": "Select materials for use based on strength, color, texture, balance, weight, size, malleability and other characteristics."
+ },
+ {
+  "task_id": "9247",
+  "occupation": "Craft Artists",
+  "task_text": "Create functional or decorative objects by hand, using a variety of methods and materials."
+ },
+ {
+  "task_id": "9252",
+  "occupation": "Craft Artists",
+  "task_text": "Develop concepts or creative ideas for craft objects."
+ },
+ {
+  "task_id": "9251",
+  "occupation": "Craft Artists",
+  "task_text": "Apply finishes to objects being crafted."
+ },
+ {
+  "task_id": "9248",
+  "occupation": "Craft Artists",
+  "task_text": "Cut, shape, fit, join, mold, or otherwise process materials, using hand tools, power tools, or machinery."
+ },
+ {
+  "task_id": "9253",
+  "occupation": "Craft Artists",
+  "task_text": "Set specifications for materials, dimensions, and finishes."
+ },
+ {
+  "task_id": "9258",
+  "occupation": "Craft Artists",
+  "task_text": "Advertise products and work, using media such as internet advertising and brochures."
+ },
+ {
+  "task_id": "9257",
+  "occupation": "Craft Artists",
+  "task_text": "Sketch or draw objects to be crafted."
+ },
+ {
+  "task_id": "24006",
+  "occupation": "Craft Artists",
+  "task_text": "Pack products for shipping."
+ },
+ {
+  "task_id": "9255",
+  "occupation": "Craft Artists",
+  "task_text": "Fabricate patterns or templates to guide craft production."
+ },
+ {
+  "task_id": "9256",
+  "occupation": "Craft Artists",
+  "task_text": "Create prototypes or models of objects to be crafted."
+ },
+ {
+  "task_id": "9259",
+  "occupation": "Craft Artists",
+  "task_text": "Develop product packaging, display, and pricing strategies."
+ },
+ {
+  "task_id": "9254",
+  "occupation": "Craft Artists",
+  "task_text": "Confer with customers to assess customer needs or obtain feedback."
+ },
+ {
+  "task_id": "20881",
+  "occupation": "Craft Artists",
+  "task_text": "Plan and attend craft shows to market products."
+ },
+ {
+  "task_id": "9261",
+  "occupation": "Craft Artists",
+  "task_text": "Develop designs using specialized computer software."
+ },
+ {
+  "task_id": "9260",
+  "occupation": "Craft Artists",
+  "task_text": "Research craft trends, venues, and customer buying patterns to inspire designs and marketing strategies."
+ },
+ {
+  "task_id": "10989",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Use materials such as pens and ink, watercolors, charcoal, oil, or computer software to create artwork."
+ },
+ {
+  "task_id": "10990",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Integrate and develop visual elements, such as line, space, mass, color, and perspective, to produce desired effects, such as the illustration of ideas, emotions, or moods."
+ },
+ {
+  "task_id": "10991",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Confer with clients, editors, writers, art directors, and other interested parties regarding the nature and content of artwork to be produced."
+ },
+ {
+  "task_id": "10993",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Maintain portfolios of artistic work to demonstrate styles, interests, and abilities."
+ },
+ {
+  "task_id": "20990",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Market artwork through brochures, mailings, or Web sites."
+ },
+ {
+  "task_id": "10997",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Study different techniques to learn how to apply them to artistic endeavors."
+ },
+ {
+  "task_id": "10996",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Monitor events, trends, and other circumstances, research specific subject areas, attend art exhibitions, and read art publications to develop ideas and keep current on art world activities."
+ },
+ {
+  "task_id": "20991",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Photograph objects, places, or scenes for reference material."
+ },
+ {
+  "task_id": "11011",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Model substances such as clay or wax, using fingers and small hand tools to form objects."
+ },
+ {
+  "task_id": "11000",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Create sculptures, statues, and other three-dimensional artwork by using abrasives and tools to shape, carve, and fabricate materials such as clay, stone, wood, or metal."
+ },
+ {
+  "task_id": "20992",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Set up exhibitions of artwork for display or sale."
+ },
+ {
+  "task_id": "10998",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Render drawings, illustrations, and sketches of buildings, manufactured products, or models, working from sketches, blueprints, memory, models, or reference materials."
+ },
+ {
+  "task_id": "11003",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Shade and fill in sketch outlines and backgrounds, using a variety of media such as water colors, markers, and transparent washes, labeling designated colors when necessary."
+ },
+ {
+  "task_id": "20993",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Frame and mat artwork for display or sale."
+ },
+ {
+  "task_id": "20994",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Submit artwork to shows or galleries."
+ },
+ {
+  "task_id": "10992",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Submit preliminary or finished artwork or project plans to clients for approval, incorporating changes as necessary."
+ },
+ {
+  "task_id": "11004",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Collaborate with engineers, mechanics, and other technical experts as necessary to build and install creations."
+ },
+ {
+  "task_id": "10995",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Cut, bend, laminate, arrange, and fasten individual or mixed raw and manufactured materials and products to form works of art."
+ },
+ {
+  "task_id": "11013",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Provide entertainment at special events by performing activities such as drawing cartoons."
+ },
+ {
+  "task_id": "11002",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Develop project budgets for approval, estimating time lines and material costs."
+ },
+ {
+  "task_id": "11005",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Create and prepare sketches and model drawings of cartoon characters, providing details from memory, live models, manufactured products, or reference materials."
+ },
+ {
+  "task_id": "10994",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Create finished art work as decoration, or to elucidate or substitute for spoken or written messages."
+ },
+ {
+  "task_id": "10999",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Create sketches, profiles, or likenesses of posed subjects or photographs, using any combination of freehand drawing, mechanical assembly kits, and computer imaging."
+ },
+ {
+  "task_id": "11009",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Trace drawings onto clear acetate for painting or coloring, or trace them with ink to make final copies."
+ },
+ {
+  "task_id": "11010",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Apply solvents and cleaning agents to clean surfaces of paintings, and to remove accretions, discolorations, and deteriorated varnish."
+ },
+ {
+  "task_id": "11012",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Collaborate with writers who create ideas, stories, or captions that are combined with artists' work."
+ },
+ {
+  "task_id": "11008",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Brush or spray protective or decorative finishes on completed background panels, informational legends, exhibit accessories, or finished paintings."
+ },
+ {
+  "task_id": "20995",
+  "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+  "task_text": "Teach artistic techniques to children or adults."
+ },
+ {
+  "task_id": "6882",
+  "occupation": "Special Effects Artists and Animators",
+  "task_text": "Design complex graphics and animation, using independent judgment, creativity, and computer equipment."
+ },
+ {
+  "task_id": "6888",
+  "occupation": "Special Effects Artists and Animators",
+  "task_text": "Create basic designs, drawings, and illustrations for product labels, cartons, direct mail, or television."
+ },
+ {
+  "task_id": "6893",
+  "occupation": "Special Effects Artists and Animators",
+  "task_text": "Participate in design and production of multimedia campaigns, handling budgeting and scheduling, and assisting with such responsibilities as production coordination, background design, and progress tracking."
+ },
+ {
+  "task_id": "6883",
+  "occupation": "Special Effects Artists and Animators",
+  "task_text": "Create two-dimensional and three-dimensional images depicting objects in motion or illustrating a process, using computer animation or modeling programs."
+ },
+ {
+  "task_id": "6884",
+  "occupation": "Special Effects Artists and Animators",
+  "task_text": "Make objects or characters appear lifelike by manipulating light, color, texture, shadow, and transparency, or manipulating static images to give the illusion of motion."
+ },
+ {
+  "task_id": "6886",
+  "occupation": "Special Effects Artists and Animators",
+  "task_text": "Apply story development, directing, cinematography, and editing to animation to create storyboards that show the flow of the animation and map out key scenes and characters."
+ },
+ {
+  "task_id": "6895",
+  "occupation": "Special Effects Artists and Animators",
+  "task_text": "Implement and maintain configuration control systems."
+ },
+ {
+  "task_id": "6887",
+  "occupation": "Special Effects Artists and Animators",
+  "task_text": "Script, plan, and create animated narrative sequences under tight deadlines, using computer software and hand drawing techniques."
+ },
+ {
+  "task_id": "6890",
+  "occupation": "Special Effects Artists and Animators",
+  "task_text": "Develop briefings, brochures, multimedia presentations, web pages, promotional products, technical illustrations, and computer artwork for use in products, technical manuals, literature, newsletters, and slide shows."
+ },
+ {
+  "task_id": "6885",
+  "occupation": "Special Effects Artists and Animators",
+  "task_text": "Assemble, typeset, scan, and produce digital camera-ready art or film negatives and printer's proofs."
+ },
+ {
+  "task_id": "6894",
+  "occupation": "Special Effects Artists and Animators",
+  "task_text": "Convert real objects to animated objects through modeling, using techniques such as optical scanning."
+ },
+ {
+  "task_id": "6889",
+  "occupation": "Special Effects Artists and Animators",
+  "task_text": "Create pen-and-paper images to be scanned, edited, colored, textured, or animated by computer."
+ },
+ {
+  "task_id": "6891",
+  "occupation": "Special Effects Artists and Animators",
+  "task_text": "Use models to simulate the behavior of animated objects in the finished sequence."
+ },
+ {
+  "task_id": "6896",
+  "occupation": "Commercial and Industrial Designers",
+  "task_text": "Prepare sketches of ideas, detailed drawings, illustrations, artwork, or blueprints, using drafting instruments, paints and brushes, or computer-aided design equipment."
+ },
+ {
+  "task_id": "6898",
+  "occupation": "Commercial and Industrial Designers",
+  "task_text": "Modify and refine designs, using working models, to conform with customer specifications, production limitations, or changes in design trends."
+ },
+ {
+  "task_id": "6902",
+  "occupation": "Commercial and Industrial Designers",
+  "task_text": "Evaluate feasibility of design ideas, based on factors such as appearance, safety, function, serviceability, budget, production costs/methods, and market characteristics."
+ },
+ {
+  "task_id": "6900",
+  "occupation": "Commercial and Industrial Designers",
+  "task_text": "Confer with engineering, marketing, production, or sales departments, or with customers, to establish and evaluate design concepts for manufactured products."
+ },
+ {
+  "task_id": "6901",
+  "occupation": "Commercial and Industrial Designers",
+  "task_text": "Present designs and reports to customers or design committees for approval and discuss need for modification."
+ },
+ {
+  "task_id": "6904",
+  "occupation": "Commercial and Industrial Designers",
+  "task_text": "Research production specifications, costs, production materials, and manufacturing methods and provide cost estimates and itemized production requirements."
+ },
+ {
+  "task_id": "6897",
+  "occupation": "Commercial and Industrial Designers",
+  "task_text": "Direct and coordinate the fabrication of models or samples and the drafting of working drawings and specification sheets from sketches."
+ },
+ {
+  "task_id": "6909",
+  "occupation": "Commercial and Industrial Designers",
+  "task_text": "Investigate product characteristics such as the product's safety and handling qualities, its market appeal, how efficiently it can be produced, and ways of distributing, using, and maintaining it."
+ },
+ {
+  "task_id": "6906",
+  "occupation": "Commercial and Industrial Designers",
+  "task_text": "Develop manufacturing procedures and monitor the manufacture of their designs in a factory to improve operations and product quality."
+ },
+ {
+  "task_id": "6911",
+  "occupation": "Commercial and Industrial Designers",
+  "task_text": "Participate in new product planning or market research, including studying the potential need for new products."
+ },
+ {
+  "task_id": "6903",
+  "occupation": "Commercial and Industrial Designers",
+  "task_text": "Read publications, attend showings, and study competing products and design styles and motifs to obtain perspective and generate design concepts."
+ },
+ {
+  "task_id": "6908",
+  "occupation": "Commercial and Industrial Designers",
+  "task_text": "Fabricate models or samples in paper, wood, glass, fabric, plastic, metal, or other materials, using hand or power tools."
+ },
+ {
+  "task_id": "6910",
+  "occupation": "Commercial and Industrial Designers",
+  "task_text": "Develop industrial standards and regulatory guidelines."
+ },
+ {
+  "task_id": "6899",
+  "occupation": "Commercial and Industrial Designers",
+  "task_text": "Coordinate the look and function of product lines."
+ },
+ {
+  "task_id": "6907",
+  "occupation": "Commercial and Industrial Designers",
+  "task_text": "Supervise assistants' work throughout the design process."
+ },
+ {
+  "task_id": "6905",
+  "occupation": "Commercial and Industrial Designers",
+  "task_text": "Design graphic material for use as ornamentation, illustration, or advertising on manufactured materials and packaging or containers."
+ }
+]

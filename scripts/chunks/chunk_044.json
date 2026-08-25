@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "15794",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Perform or direct inventory investigations in response to shrink results outside of acceptable ranges."
+ },
+ {
+  "task_id": "15796",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Maintain documentation of all loss prevention activity."
+ },
+ {
+  "task_id": "15802",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Assess security needs across locations to ensure proper deployment of loss prevention resources, such as staff and technology."
+ },
+ {
+  "task_id": "15805",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Monitor compliance to operational, safety, or inventory control procedures, including physical security standards."
+ },
+ {
+  "task_id": "15790",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Verify correct use and maintenance of physical security systems, such as closed-circuit television, merchandise tags, and burglar alarms."
+ },
+ {
+  "task_id": "15789",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Visit stores to ensure compliance with company policies and procedures."
+ },
+ {
+  "task_id": "15803",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Analyze retail data to identify current or emerging trends in theft or fraud."
+ },
+ {
+  "task_id": "15798",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Direct loss prevention audit programs including target store audits, maintenance audits, safety audits, or electronic article surveillance (EAS) audits."
+ },
+ {
+  "task_id": "15801",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Collaborate with law enforcement to investigate and solve external theft or fraud cases."
+ },
+ {
+  "task_id": "15797",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Coordinate theft and fraud investigations involving career criminals or organized group activities."
+ },
+ {
+  "task_id": "15792",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Supervise surveillance, detection, or criminal processing related to theft and criminal cases."
+ },
+ {
+  "task_id": "15782",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Perform cash audits and deposit investigations to fully account for store cash."
+ },
+ {
+  "task_id": "15793",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Recommend improvements in loss prevention programs, staffing, scheduling, or training."
+ },
+ {
+  "task_id": "15787",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Direct installation of covert surveillance equipment, such as security cameras."
+ },
+ {
+  "task_id": "15784",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Monitor and review paperwork procedures and systems to prevent error-related shortages."
+ },
+ {
+  "task_id": "15788",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Advise retail establishments on development of loss-investigation procedures."
+ },
+ {
+  "task_id": "15785",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Maintain databases such as bad check logs, reports on multiple offenders, and alarm activation lists."
+ },
+ {
+  "task_id": "15822",
+  "occupation": "Wind Energy Operations Managers",
+  "task_text": "Supervise employees or subcontractors to ensure quality of work or adherence to safety regulations or policies."
+ },
+ {
+  "task_id": "15808",
+  "occupation": "Wind Energy Operations Managers",
+  "task_text": "Train or coordinate the training of employees in operations, safety, environmental issues, or technical issues."
+ },
+ {
+  "task_id": "15809",
+  "occupation": "Wind Energy Operations Managers",
+  "task_text": "Track and maintain records for wind operations, such as site performance, downtime events, parts usage, or substation events."
+ },
+ {
+  "task_id": "15823",
+  "occupation": "Wind Energy Operations Managers",
+  "task_text": "Oversee the maintenance of wind field equipment or structures, such as towers, transformers, electrical collector systems, roadways, or other site assets."
+ },
+ {
+  "task_id": "15821",
+  "occupation": "Wind Energy Operations Managers",
+  "task_text": "Prepare wind field operational budgets."
+ },
+ {
+  "task_id": "15819",
+  "occupation": "Wind Energy Operations Managers",
+  "task_text": "Develop relationships and communicate with customers, site managers, developers, land owners, authorities, utility representatives, or residents."
+ },
+ {
+  "task_id": "15813",
+  "occupation": "Wind Energy Operations Managers",
+  "task_text": "Maintain operations records, such as work orders, site inspection forms, or other documentation."
+ },
+ {
+  "task_id": "15815",
+  "occupation": "Wind Energy Operations Managers",
+  "task_text": "Recruit or select wind operations employees, contractors, or subcontractors."
+ },
+ {
+  "task_id": "15810",
+  "occupation": "Wind Energy Operations Managers",
+  "task_text": "Provide technical support to wind field customers, employees, or subcontractors."
+ },
+ {
+  "task_id": "15817",
+  "occupation": "Wind Energy Operations Managers",
+  "task_text": "Estimate costs associated with operations, including repairs or preventive maintenance."
+ },
+ {
+  "task_id": "15816",
+  "occupation": "Wind Energy Operations Managers",
+  "task_text": "Monitor and maintain records of daily facility operations."
+ },
+ {
+  "task_id": "15818",
+  "occupation": "Wind Energy Operations Managers",
+  "task_text": "Establish goals, objectives, or priorities for wind field operations."
+ },
+ {
+  "task_id": "15812",
+  "occupation": "Wind Energy Operations Managers",
+  "task_text": "Order parts, tools, or equipment needed to maintain, restore, or improve wind field operations."
+ },
+ {
+  "task_id": "15814",
+  "occupation": "Wind Energy Operations Managers",
+  "task_text": "Review, negotiate, or approve wind farm contracts."
+ },
+ {
+  "task_id": "15811",
+  "occupation": "Wind Energy Operations Managers",
+  "task_text": "Manage warranty repair or replacement services."
+ },
+ {
+  "task_id": "15820",
+  "occupation": "Wind Energy Operations Managers",
+  "task_text": "Develop processes or procedures for wind operations, including transitioning from construction to commercial operations."
+ },
+ {
+  "task_id": "15836",
+  "occupation": "Wind Energy Development Managers",
+  "task_text": "Coordinate or direct development, energy assessment, engineering, or construction activities to ensure that wind project needs and objectives are met."
+ },
+ {
+  "task_id": "15834",
+  "occupation": "Wind Energy Development Managers",
+  "task_text": "Manage wind project costs to stay within budget limits."
+ },
+ {
+  "task_id": "15827",
+  "occupation": "Wind Energy Development Managers",
+  "task_text": "Lead or support negotiations involving tax agreements or abatements, power purchase agreements, land use, or interconnection agreements."
+ },
+ {
+  "task_id": "15838",
+  "occupation": "Wind Energy Development Managers",
+  "task_text": "Create wind energy project plans, including project scope, goals, tasks, resources, schedules, costs, contingencies, or other project information."
+ },
+ {
+  "task_id": "15824",
+  "occupation": "Wind Energy Development Managers",
+  "task_text": "Supervise the work of subcontractors or consultants to ensure quality and conformance to specifications or budgets."
+ },
+ {
+  "task_id": "15835",
+  "occupation": "Wind Energy Development Managers",
+  "task_text": "Develop scope of work for wind project functions, such as design, site assessment, environmental studies, surveying, or field support services."
+ },
+ {
+  "task_id": "15830",
+  "occupation": "Wind Energy Development Managers",
+  "task_text": "Provide verbal or written project status reports to project teams, management, subcontractors, customers, or owners."
+ },
+ {
+  "task_id": "15828",
+  "occupation": "Wind Energy Development Managers",
+  "task_text": "Update schedules, estimates, forecasts, or budgets for wind projects."
+ },
+ {
+  "task_id": "15837",
+  "occupation": "Wind Energy Development Managers",
+  "task_text": "Prepare or assist in the preparation of applications for environmental, building, or other required permits."
+ },
+ {
+  "task_id": "15829",
+  "occupation": "Wind Energy Development Managers",
+  "task_text": "Review or evaluate proposals or bids to make recommendations regarding awarding of contracts."
+ },
+ {
+  "task_id": "15826",
+  "occupation": "Wind Energy Development Managers",
+  "task_text": "Manage site assessments or environmental studies for wind fields."
+ },
+ {
+  "task_id": "15833",
+  "occupation": "Wind Energy Development Managers",
+  "task_text": "Prepare wind project documentation, including diagrams or layouts."
+ },
+ {
+  "task_id": "15831",
+  "occupation": "Wind Energy Development Managers",
+  "task_text": "Review civil design, engineering, or construction technical documentation to ensure compliance with applicable government or industrial codes, standards, requirements, or regulations."
+ },
+ {
+  "task_id": "15825",
+  "occupation": "Wind Energy Development Managers",
+  "task_text": "Prepare requests for proposals (RFPs) for wind project construction or equipment acquisition."
+ },
+ {
+  "task_id": "15832",
+  "occupation": "Wind Energy Development Managers",
+  "task_text": "Provide technical support for the design, construction, or commissioning of wind farm projects."
+ },
+ {
+  "task_id": "15849",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Identify environmental contamination sources."
+ },
+ {
+  "task_id": "15857",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements."
+ },
+ {
+  "task_id": "23901",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Identify and apply for project funding."
+ },
+ {
+  "task_id": "15848",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Plan or implement brownfield redevelopment projects to ensure safety, quality, and compliance with applicable standards or requirements."
+ },
+ {
+  "task_id": "15850",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Estimate costs for environmental cleanup and remediation of land redevelopment projects."
+ },
+ {
+  "task_id": "15858",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Conduct quantitative risk assessments for human health, environmental, or other risks."
+ },
+ {
+  "task_id": "15852",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Design or implement plans for surface or ground water remediation."
+ },
+ {
+  "task_id": "15854",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Design or implement measures to improve the water, air, and soil quality of military test sites, abandoned mine land, or other contaminated sites."
+ },
+ {
+  "task_id": "15839",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Review or evaluate environmental remediation project proposals."
+ },
+ {
+  "task_id": "15843",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Prepare reports or presentations to communicate brownfield redevelopment needs, status, or progress."
+ },
+ {
+  "task_id": "15847",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Inspect sites to assess environmental damage or monitor cleanup progress."
+ },
+ {
+  "task_id": "15846",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Maintain records of decisions, actions, and progress related to environmental redevelopment projects."
+ },
+ {
+  "task_id": "15856",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Coordinate the disposal of hazardous waste."
+ },
+ {
+  "task_id": "15860",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Develop or implement plans for the sustainable regeneration of brownfield sites to ensure regeneration of a wider area by providing environmental protection or economic and social benefits."
+ },
+ {
+  "task_id": "15859",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Conduct feasibility or cost-benefit studies for environmental remediation projects."
+ },
+ {
+  "task_id": "15845",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Prepare and submit permit applications for demolition, cleanup, remediation, or construction projects."
+ },
+ {
+  "task_id": "15844",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Negotiate contracts for services or materials needed for environmental remediation."
+ },
+ {
+  "task_id": "15853",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Design or implement plans for structural demolition and debris removal."
+ },
+ {
+  "task_id": "15855",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Design or conduct environmental restoration studies."
+ },
+ {
+  "task_id": "15840",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Review or evaluate designs for contaminant treatment or disposal facilities."
+ },
+ {
+  "task_id": "15841",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Provide training on hazardous material or waste cleanup procedures and technologies."
+ },
+ {
+  "task_id": "15851",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Develop or implement plans for revegetation of brownfield sites."
+ },
+ {
+  "task_id": "15842",
+  "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+  "task_text": "Provide expert witness testimony on issues such as soil, air, or water contamination and associated cleanup measures."
+ },
+ {
+  "task_id": "20950",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Troubleshoot program and system malfunctions to restore normal functioning."
+ },
+ {
+  "task_id": "3464",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Provide staff and users with assistance solving computer-related problems, such as malfunctions and program problems."
+ },
+ {
+  "task_id": "3465",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Test, maintain, and monitor computer programs and systems, including coordinating the installation of computer programs and systems."
+ },
+ {
+  "task_id": "3482",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Use the computer in the analysis and solution of business problems, such as development of integrated production and inventory control and cost analysis systems."
+ },
+ {
+  "task_id": "3468",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Coordinate and link the computer systems within an organization to increase compatibility so that information can be shared."
+ },
+ {
+  "task_id": "3466",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Use object-oriented programming languages, as well as client and server applications development processes and multimedia and Internet technology."
+ },
+ {
+  "task_id": "3474",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Analyze information processing or computation needs and plan and design computer systems, using techniques such as structured analysis, data modeling, and information engineering."
+ },
+ {
+  "task_id": "3469",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Consult with management to ensure agreement on system principles."
+ },
+ {
+  "task_id": "3484",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Specify inputs accessed by the system and plan the distribution and use of the results."
+ },
+ {
+  "task_id": "3470",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Expand or modify system to serve new purposes or improve work flow."
+ },
+ {
+  "task_id": "3473",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Train staff and users to work with computer systems and programs."
+ },
+ {
+  "task_id": "3475",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Assess the usefulness of pre-developed application packages and adapt them to a user environment."
+ },
+ {
+  "task_id": "3472",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Determine computer software or hardware needed to set up or alter systems."
+ },
+ {
+  "task_id": "3480",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Read manuals, periodicals, and technical reports to learn how to develop programs that meet staff and user requirements."
+ },
+ {
+  "task_id": "3477",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Develop, document, and revise system design procedures, test procedures, and quality standards."
+ },
+ {
+  "task_id": "3479",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Recommend new equipment or software packages."
+ },
+ {
+  "task_id": "3476",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Define the goals of the system and devise flow charts and diagrams describing logical operational steps of programs."
+ },
+ {
+  "task_id": "3467",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Confer with clients regarding the nature of the information processing or computation needs a computer program is to address."
+ },
+ {
+  "task_id": "3478",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes."
+ },
+ {
+  "task_id": "3471",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Interview or survey workers, observe job performance, or perform the job to determine what information is processed and how it is processed."
+ },
+ {
+  "task_id": "3481",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Supervise computer programmers or other systems analysts or serve as project leaders for particular systems projects."
+ },
+ {
+  "task_id": "3483",
+  "occupation": "Computer Systems Analysts",
+  "task_text": "Prepare cost-benefit and return-on-investment analyses to aid in decisions on system implementation."
+ },
+ {
+  "task_id": "18090",
+  "occupation": "Health Informatics Specialists",
+  "task_text": "Translate nursing practice information between nurses and systems engineers, analysts, or designers, using object-oriented models or other techniques."
+ },
+ {
+  "task_id": "18092",
+  "occupation": "Health Informatics Specialists",
+  "task_text": "Use informatics science to design or implement health information technology applications for resolution of clinical or health care administrative problems."
+ },
+ {
+  "task_id": "18097",
+  "occupation": "Health Informatics Specialists",
+  "task_text": "Develop or implement policies or practices to ensure the privacy, confidentiality, or security of patient information."
+ },
+ {
+  "task_id": "18094",
+  "occupation": "Health Informatics Specialists",
+  "task_text": "Analyze and interpret patient, nursing, or information systems data to improve nursing services."
+ },
+ {
+  "task_id": "18101",
+  "occupation": "Health Informatics Specialists",
+  "task_text": "Identify, collect, record, or analyze data relevant to the nursing care of patients."
+ },
+ {
+  "task_id": "18096",
+  "occupation": "Health Informatics Specialists",
+  "task_text": "Apply knowledge of computer science, information science, nursing, and informatics theory to nursing practice, education, administration, or research, in collaboration with other health informatics specialists."
+ },
+ {
+  "task_id": "18093",
+  "occupation": "Health Informatics Specialists",
+  "task_text": "Develop, implement, or evaluate health information technology applications, tools, processes, or structures to assist nurses with data management."
+ },
+ {
+  "task_id": "18088",
+  "occupation": "Health Informatics Specialists",
+  "task_text": "Design, develop, select, test, implement, and evaluate new or modified informatics solutions, data structures, and decision-support mechanisms to support patients, health care professionals, and their information management and human-computer and human-technology interactions within health care contexts."
+ },
+ {
+  "task_id": "18089",
+  "occupation": "Health Informatics Specialists",
+  "task_text": "Disseminate information about nursing informatics science and practice to the profession, other health care professions, nursing students, and the public."
+ },
+ {
+  "task_id": "18095",
+  "occupation": "Health Informatics Specialists",
+  "task_text": "Analyze computer and information technologies to determine applicability to nursing practice, education, administration, and research."
+ },
+ {
+  "task_id": "18100",
+  "occupation": "Health Informatics Specialists",
+  "task_text": "Develop strategies, policies or procedures for introducing, evaluating, or modifying information technology applied to nursing practice, administration, education, or research."
+ },
+ {
+  "task_id": "18102",
+  "occupation": "Health Informatics Specialists",
+  "task_text": "Read current literature, talk with colleagues, and participate in professional organizations or conferences to keep abreast of developments in informatics."
+ },
+ {
+  "task_id": "18099",
+  "occupation": "Health Informatics Specialists",
+  "task_text": "Develop or deliver training programs for health information technology, creating operating manuals as needed."
+ },
+ {
+  "task_id": "18098",
+  "occupation": "Health Informatics Specialists",
+  "task_text": "Design, conduct, or provide support to nursing informatics research."
+ },
+ {
+  "task_id": "18104",
+  "occupation": "Health Informatics Specialists",
+  "task_text": "Inform local, state, national, and international health policies related to information management and communication, confidentiality and security, patient safety, infrastructure development, and economics."
+ },
+ {
+  "task_id": "18103",
+  "occupation": "Health Informatics Specialists",
+  "task_text": "Provide consultation to nurses regarding hardware or software configuration."
+ },
+ {
+  "task_id": "18091",
+  "occupation": "Health Informatics Specialists",
+  "task_text": "Plan, install, repair, or troubleshoot telehealth technology applications or systems in homes."
+ },
+ {
+  "task_id": "5314",
+  "occupation": "Information Security Analysts",
+  "task_text": "Develop plans to safeguard computer files against accidental or unauthorized modification, destruction, or disclosure and to meet emergency data processing needs."
+ },
+ {
+  "task_id": "5316",
+  "occupation": "Information Security Analysts",
+  "task_text": "Monitor current reports of computer viruses to determine when to update virus protection systems."
+ },
+ {
+  "task_id": "5321",
+  "occupation": "Information Security Analysts",
+  "task_text": "Encrypt data transmissions and erect firewalls to conceal confidential information as it is being transmitted and to keep out tainted digital transfers."
+ },
+ {
+  "task_id": "5320",
+  "occupation": "Information Security Analysts",
+  "task_text": "Perform risk assessments and execute tests of data processing system to ensure functioning of data processing activities and security measures."
+ },
+ {
+  "task_id": "5317",
+  "occupation": "Information Security Analysts",
+  "task_text": "Modify computer security files to incorporate new software, correct errors, or change individual access status."
+ },
+ {
+  "task_id": "5323",
+  "occupation": "Information Security Analysts",
+  "task_text": "Review violations of computer security procedures and discuss procedures with violators to ensure violations are not repeated."
+ },
+ {
+  "task_id": "5322",
+  "occupation": "Information Security Analysts",
+  "task_text": "Document computer security and emergency measures policies, procedures, and tests."
+ },
+ {
+  "task_id": "5315",
+  "occupation": "Information Security Analysts",
+  "task_text": "Confer with users to discuss issues such as computer data access needs, security violations, and programming changes."
+ },
+ {
+  "task_id": "5319",
+  "occupation": "Information Security Analysts",
+  "task_text": "Monitor use of data files and regulate access to safeguard information in computer files."
+ },
+ {
+  "task_id": "5318",
+  "occupation": "Information Security Analysts",
+  "task_text": "Coordinate implementation of computer system plan with establishment personnel and outside vendors."
+ },
+ {
+  "task_id": "5313",
+  "occupation": "Information Security Analysts",
+  "task_text": "Train users and promote security awareness to ensure system security and to improve server and network efficiency."
+ },
+ {
+  "task_id": "14623",
+  "occupation": "Computer and Information Research Scientists",
+  "task_text": "Analyze problems to develop solutions involving computer hardware and software."
+ },
+ {
+  "task_id": "14626",
+  "occupation": "Computer and Information Research Scientists",
+  "task_text": "Apply theoretical expertise and innovation to create or apply new technology, such as adapting principles for applying computers to new uses."
+ },
+ {
+  "task_id": "14624",
+  "occupation": "Computer and Information Research Scientists",
+  "task_text": "Assign or schedule tasks to meet work priorities and goals."
+ },
+ {
+  "task_id": "14628",
+  "occupation": "Computer and Information Research Scientists",
+  "task_text": "Meet with managers, vendors, and others to solicit cooperation and resolve problems."
+ },
+ {
+  "task_id": "14633",
+  "occupation": "Computer and Information Research Scientists",
+  "task_text": "Design computers and the software that runs them."
+ },
+ {
+  "task_id": "14629",
+  "occupation": "Computer and Information Research Scientists",
+  "task_text": "Conduct logical analyses of business, scientific, engineering, and other technical problems, formulating mathematical models of problems for solution by computers."
+ },
+ {
+  "task_id": "14625",
+  "occupation": "Computer and Information Research Scientists",
+  "task_text": "Evaluate project plans and proposals to assess feasibility issues."
+ },
+ {
+  "task_id": "14635",
+  "occupation": "Computer and Information Research Scientists",
+  "task_text": "Participate in multidisciplinary projects in areas such as virtual reality, human-computer interaction, or robotics."
+ },
+ {
+  "task_id": "14627",
+  "occupation": "Computer and Information Research Scientists",
+  "task_text": "Consult with users, management, vendors, and technicians to determine computing needs and system requirements."
+ }
+]

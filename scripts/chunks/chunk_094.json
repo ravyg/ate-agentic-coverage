@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "5051",
+  "occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+  "task_text": "Operate underwater recovery units."
+ },
+ {
+  "task_id": "5047",
+  "occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+  "task_text": "Provide assistance with staff selection, training, and supervision."
+ },
+ {
+  "task_id": "5050",
+  "occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+  "task_text": "Provide assistance in the safe use of equipment, such as ski lifts."
+ },
+ {
+  "task_id": "5052",
+  "occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+  "task_text": "Participate in recreational demonstrations to entertain resort guests."
+ },
+ {
+  "task_id": "15341",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Inspect carry-on items, using x-ray viewing equipment, to determine whether items contain objects that warrant further investigation."
+ },
+ {
+  "task_id": "15348",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Search carry-on or checked baggage by hand when it is suspected to contain prohibited items such as weapons."
+ },
+ {
+  "task_id": "15332",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Check passengers' tickets to ensure that they are valid, and to determine whether passengers have designations that require special handling, such as providing photo identification."
+ },
+ {
+  "task_id": "15350",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Test baggage for any explosive materials, using equipment such as explosive detection machines or chemical swab systems."
+ },
+ {
+  "task_id": "15346",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Perform pat-down or hand-held wand searches of passengers who have triggered machine alarms, who are unable to pass through metal detectors, or who have been randomly identified for such searches."
+ },
+ {
+  "task_id": "15345",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Notify supervisors or other appropriate personnel when security breaches occur."
+ },
+ {
+  "task_id": "15349",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Send checked baggage through automated screening machines, and set bags aside for searching or rescreening as indicated by equipment."
+ },
+ {
+  "task_id": "15337",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Decide whether baggage that triggers alarms should be searched or should be allowed to pass through."
+ },
+ {
+  "task_id": "15354",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Follow those who breach security until police or other security personnel arrive to apprehend them."
+ },
+ {
+  "task_id": "15339",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Inform other screeners when baggage should not be opened because it might contain explosives."
+ },
+ {
+  "task_id": "15342",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Inspect checked baggage for signs of tampering."
+ },
+ {
+  "task_id": "15331",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Ask passengers to remove shoes and divest themselves of metal objects prior to walking through metal detectors."
+ },
+ {
+  "task_id": "15333",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Close entry areas following security breaches or reopen areas after receiving notification that the airport is secure."
+ },
+ {
+  "task_id": "15353",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Challenge suspicious people, requesting their badges and asking what their business is in a particular areas."
+ },
+ {
+  "task_id": "15355",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Patrol work areas to detect any suspicious items."
+ },
+ {
+  "task_id": "15336",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Contact police directly in cases of urgent security issues, using phones or two-way radios."
+ },
+ {
+  "task_id": "15347",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Record information about any baggage that sets off alarms in monitoring equipment."
+ },
+ {
+  "task_id": "15352",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Watch for potentially dangerous persons whose pictures are posted at checkpoints."
+ },
+ {
+  "task_id": "15335",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Contact leads or supervisors to discuss objects of concern that are not on prohibited object lists."
+ },
+ {
+  "task_id": "15334",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Confiscate dangerous items and hazardous materials found in opened bags and turn them over to airlines for disposal."
+ },
+ {
+  "task_id": "15344",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Monitor passenger flow through screening checkpoints to ensure order and efficiency."
+ },
+ {
+  "task_id": "15340",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Inform passengers of how to mail prohibited items to themselves, or confiscate these items."
+ },
+ {
+  "task_id": "15356",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Provide directions and respond to passenger inquiries."
+ },
+ {
+  "task_id": "15338",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Direct passengers to areas where they can pick up their baggage after screening is complete."
+ },
+ {
+  "task_id": "15351",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "View images of checked bags and cargo, using remote screening equipment, and alert baggage screeners or handlers to any possible problems."
+ },
+ {
+  "task_id": "15343",
+  "occupation": "Transportation Security Screeners",
+  "task_text": "Locate suspicious bags pictured in printouts sent from remote monitoring areas, and set these bags aside for inspection."
+ },
+ {
+  "task_id": "23081",
+  "occupation": "School Bus Monitors",
+  "task_text": "Announce routes or stops."
+ },
+ {
+  "task_id": "23082",
+  "occupation": "School Bus Monitors",
+  "task_text": "Assist children with disabilities or children with psychological, emotional, or behavioral issues with boarding and exiting the school bus."
+ },
+ {
+  "task_id": "23083",
+  "occupation": "School Bus Monitors",
+  "task_text": "Buckle seatbelts or fasten wheelchair tie-down straps to secure passengers for transportation."
+ },
+ {
+  "task_id": "23084",
+  "occupation": "School Bus Monitors",
+  "task_text": "Clean school bus interiors by picking up waste, wiping down windows, or vacuuming."
+ },
+ {
+  "task_id": "23085",
+  "occupation": "School Bus Monitors",
+  "task_text": "Direct students boarding and exiting the school bus."
+ },
+ {
+  "task_id": "23086",
+  "occupation": "School Bus Monitors",
+  "task_text": "Direct students evacuating the bus during safety drills."
+ },
+ {
+  "task_id": "23087",
+  "occupation": "School Bus Monitors",
+  "task_text": "Escort young children across roads or highways."
+ },
+ {
+  "task_id": "23088",
+  "occupation": "School Bus Monitors",
+  "task_text": "Evacuate students from the school bus in emergency situations."
+ },
+ {
+  "task_id": "23089",
+  "occupation": "School Bus Monitors",
+  "task_text": "Guide the driver when the bus is moving in reverse gear."
+ },
+ {
+  "task_id": "23090",
+  "occupation": "School Bus Monitors",
+  "task_text": "Monitor for trains at railroad crossings and signal the bus driver when it is safe to proceed."
+ },
+ {
+  "task_id": "23091",
+  "occupation": "School Bus Monitors",
+  "task_text": "Monitor the conduct of students to maintain discipline and safety."
+ },
+ {
+  "task_id": "23092",
+  "occupation": "School Bus Monitors",
+  "task_text": "Open and close school bus doors for students."
+ },
+ {
+  "task_id": "23093",
+  "occupation": "School Bus Monitors",
+  "task_text": "Operate a wheelchair lift to load or unload wheelchairs."
+ },
+ {
+  "task_id": "23094",
+  "occupation": "School Bus Monitors",
+  "task_text": "Prevent or defuse altercations between students."
+ },
+ {
+  "task_id": "23095",
+  "occupation": "School Bus Monitors",
+  "task_text": "Report delays, accidents, or other traffic and transportation situations to dispatchers or other bus drivers, using phones or mobile two-way radios."
+ },
+ {
+  "task_id": "23096",
+  "occupation": "School Bus Monitors",
+  "task_text": "Respond to students' questions, requests, or complaints."
+ },
+ {
+  "task_id": "23097",
+  "occupation": "School Bus Monitors",
+  "task_text": "Talk to children's parents or guardians about problematic behaviors, emotional or developmental problems, or related issues."
+ },
+ {
+  "task_id": "23098",
+  "occupation": "School Bus Monitors",
+  "task_text": "Write and submit reports that include data such as the number of passengers or trips, hours worked, mileage driven, or fuel consumed."
+ },
+ {
+  "task_id": "17561",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Investigate known or suspected internal theft, external theft, or vendor fraud."
+ },
+ {
+  "task_id": "17560",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Implement or monitor processes to reduce property or financial losses."
+ },
+ {
+  "task_id": "17565",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Identify and report merchandise or stock shortages."
+ },
+ {
+  "task_id": "17567",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Maintain documentation or reports on security-related incidents or investigations."
+ },
+ {
+  "task_id": "17575",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Apprehend shoplifters in accordance with guidelines."
+ },
+ {
+  "task_id": "17573",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Verify proper functioning of physical security systems, such as closed-circuit televisions, alarms, sensor tag systems, or locks."
+ },
+ {
+  "task_id": "17578",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Identify and report safety concerns to maintain a safe shopping and working environment."
+ },
+ {
+  "task_id": "17563",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Conduct store audits to identify problem areas or procedural deficiencies."
+ },
+ {
+  "task_id": "17568",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Monitor compliance with standard operating procedures for loss prevention, physical security, or risk management."
+ },
+ {
+  "task_id": "17566",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Inspect buildings, equipment, or access points to determine security risks."
+ },
+ {
+  "task_id": "17569",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Perform covert surveillance of areas susceptible to loss, such loading docks, distribution centers, or warehouses."
+ },
+ {
+  "task_id": "17570",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Prepare written reports on investigations."
+ },
+ {
+  "task_id": "17562",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Collaborate with law enforcement agencies to report or investigate crimes."
+ },
+ {
+  "task_id": "17574",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Testify in civil or criminal court proceedings."
+ },
+ {
+  "task_id": "17579",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Recommend methods to reduce potential financial fraud losses."
+ },
+ {
+  "task_id": "17572",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Train establishment personnel in loss prevention activities."
+ },
+ {
+  "task_id": "17577",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Coordinate with risk management, human resources, or other departments to assist in company programs, investigations, or training."
+ },
+ {
+  "task_id": "17580",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Respond to critical incidents, such as catastrophic events, violent weather, or civil disorders."
+ },
+ {
+  "task_id": "17571",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Recommend new or improved processes or equipment to reduce risk exposure."
+ },
+ {
+  "task_id": "17564",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Direct work of contract security officers or other loss prevention agents."
+ },
+ {
+  "task_id": "17576",
+  "occupation": "Retail Loss Prevention Specialists",
+  "task_text": "Conduct employee background investigations and review reports with operational or human resources managers."
+ },
+ {
+  "task_id": "11129",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Monitor sanitation practices to ensure that employees follow standards and regulations."
+ },
+ {
+  "task_id": "11135",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Instruct cooks or other workers in the preparation, cooking, garnishing, or presentation of food."
+ },
+ {
+  "task_id": "11132",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Supervise or coordinate activities of cooks or workers engaged in food preparation."
+ },
+ {
+  "task_id": "11131",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Order or requisition food or other supplies needed to ensure efficient operation."
+ },
+ {
+  "task_id": "11133",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Inspect supplies, equipment, or work areas to ensure conformance to established standards."
+ },
+ {
+  "task_id": "11130",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Check the quantity and quality of received products."
+ },
+ {
+  "task_id": "11128",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Check the quality of raw or cooked food products to ensure that standards are met."
+ },
+ {
+  "task_id": "11136",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Estimate amounts and costs of required supplies, such as food and ingredients."
+ },
+ {
+  "task_id": "11148",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Coordinate planning, budgeting, or purchasing for all the food operations within establishments such as clubs, hotels, or restaurant chains."
+ },
+ {
+  "task_id": "11138",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Analyze recipes to assign prices to menu items, based on food, labor, and overhead costs."
+ },
+ {
+  "task_id": "11147",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Plan, direct, or supervise food preparation or cooking activities of multiple kitchens or restaurants in an establishment such as a restaurant chain, hospital, or hotel."
+ },
+ {
+  "task_id": "11134",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Determine how food should be presented and create decorative food displays."
+ },
+ {
+  "task_id": "11139",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Prepare and cook foods of all types, either on a regular basis or for special guests or functions."
+ },
+ {
+  "task_id": "11140",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Determine production schedules and staff requirements necessary to ensure timely delivery of services."
+ },
+ {
+  "task_id": "11142",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Meet with customers to discuss menus for special occasions, such as weddings, parties, or banquets."
+ },
+ {
+  "task_id": "11141",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Recruit and hire staff, such as cooks and other kitchen workers."
+ },
+ {
+  "task_id": "11146",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Record production or operational data on specified forms."
+ },
+ {
+  "task_id": "11144",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Meet with sales representatives to negotiate prices or order supplies."
+ },
+ {
+  "task_id": "11145",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Arrange for equipment purchases or repairs."
+ },
+ {
+  "task_id": "11143",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Demonstrate new cooking techniques or equipment to staff."
+ },
+ {
+  "task_id": "11137",
+  "occupation": "Chefs and Head Cooks",
+  "task_text": "Collaborate with other personnel to plan and develop recipes or menus, taking into account such factors as seasonal availability of ingredients or the likely number of customers."
+ },
+ {
+  "task_id": "2145",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Resolve customer complaints regarding food service."
+ },
+ {
+  "task_id": "2146",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Train workers in food preparation, and in service, sanitation, and safety procedures."
+ },
+ {
+  "task_id": "2150",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Assign duties, responsibilities, and work stations to employees in accordance with work requirements."
+ },
+ {
+  "task_id": "2157",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Present bills and accept payments."
+ },
+ {
+  "task_id": "18714",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Perform various financial activities, such as cash handling, deposit preparation, and payroll."
+ },
+ {
+  "task_id": "18715",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Supervise and participate in kitchen and dining area cleaning activities."
+ },
+ {
+  "task_id": "2155",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Recommend measures for improving work procedures and worker performance to increase service quality and enhance job safety."
+ },
+ {
+  "task_id": "2154",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Specify food portions and courses, production and time sequences, and workstation and equipment arrangements."
+ },
+ {
+  "task_id": "2148",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Control inventories of food, equipment, smallware, and liquor, and report shortages to designated personnel."
+ },
+ {
+  "task_id": "18716",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Observe and evaluate workers and work procedures to ensure quality standards and service, and complete disciplinary write-ups."
+ },
+ {
+  "task_id": "2153",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Analyze operational problems, such as theft and wastage, and establish procedures to alleviate these problems."
+ },
+ {
+  "task_id": "2147",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Inspect supplies, equipment, and work areas to ensure efficient service and conformance to standards."
+ },
+ {
+  "task_id": "2156",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Greet and seat guests, and present menus and wine lists."
+ },
+ {
+  "task_id": "2167",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Evaluate new products for usefulness and suitability."
+ },
+ {
+  "task_id": "2144",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Compile and balance cash receipts at the end of the day or shift."
+ },
+ {
+  "task_id": "2158",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Forecast staff, equipment, and supply requirements, based on a master menu."
+ },
+ {
+  "task_id": "18721",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Assess nutritional needs of patients, plan special menus, supervise the assembly of regular and special diet trays, and oversee the delivery of food trolleys to hospital patients."
+ },
+ {
+  "task_id": "18719",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Record production, operational, and personnel data on specified forms."
+ },
+ {
+  "task_id": "18717",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Perform personnel actions, such as hiring and firing staff, providing employee orientation and training, and conducting supervisory activities, such as creating work schedules or organizing employee time sheets."
+ },
+ {
+  "task_id": "2151",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Estimate ingredients and supplies required to prepare a recipe."
+ },
+ {
+  "task_id": "2161",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Purchase or requisition supplies and equipment needed to ensure quality and timely delivery of services."
+ },
+ {
+  "task_id": "18718",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Perform food preparation and serving duties, such as carving meat, preparing flambe dishes, or serving wine and liquor."
+ },
+ {
+  "task_id": "2164",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Schedule parties and take reservations."
+ },
+ {
+  "task_id": "2165",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Develop departmental objectives, budgets, policies, procedures, and strategies."
+ },
+ {
+  "task_id": "18720",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Conduct meetings and collaborate with other personnel for menu planning, serving arrangements, and related details."
+ },
+ {
+  "task_id": "2166",
+  "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+  "task_text": "Develop equipment maintenance schedules and arrange for repairs."
+ },
+ {
+  "task_id": "5070",
+  "occupation": "Cooks, Fast Food",
+  "task_text": "Order and take delivery of supplies."
+ },
+ {
+  "task_id": "5062",
+  "occupation": "Cooks, Fast Food",
+  "task_text": "Cook the exact number of items ordered by each customer, working on several different orders simultaneously."
+ },
+ {
+  "task_id": "5065",
+  "occupation": "Cooks, Fast Food",
+  "task_text": "Prepare specialty foods, such as pizzas, fish and chips, sandwiches, or tacos, following specific methods that usually require short preparation time."
+ },
+ {
+  "task_id": "5055",
+  "occupation": "Cooks, Fast Food",
+  "task_text": "Operate large-volume cooking equipment, such as grills, deep-fat fryers, or griddles."
+ },
+ {
+  "task_id": "5059",
+  "occupation": "Cooks, Fast Food",
+  "task_text": "Wash, cut, and prepare foods designated for cooking."
+ },
+ {
+  "task_id": "5068",
+  "occupation": "Cooks, Fast Food",
+  "task_text": "Prepare and serve beverages, such as coffee or fountain drinks."
+ },
+ {
+  "task_id": "5054",
+  "occupation": "Cooks, Fast Food",
+  "task_text": "Clean food preparation areas, cooking surfaces, and utensils."
+ },
+ {
+  "task_id": "5058",
+  "occupation": "Cooks, Fast Food",
+  "task_text": "Read food order slips or receive verbal instructions as to food required by patron, and prepare and cook food according to instructions."
+ },
+ {
+  "task_id": "5063",
+  "occupation": "Cooks, Fast Food",
+  "task_text": "Serve orders to customers at windows, counters, or tables."
+ },
+ {
+  "task_id": "5064",
+  "occupation": "Cooks, Fast Food",
+  "task_text": "Clean, stock, and restock workstations and display cases."
+ },
+ {
+  "task_id": "5053",
+  "occupation": "Cooks, Fast Food",
+  "task_text": "Maintain sanitation, health, and safety standards in work areas."
+ },
+ {
+  "task_id": "5061",
+  "occupation": "Cooks, Fast Food",
+  "task_text": "Cook and package batches of food, such as hamburgers or fried chicken, prepared to order or kept warm until sold."
+ },
+ {
+  "task_id": "5066",
+  "occupation": "Cooks, Fast Food",
+  "task_text": "Prepare dough, following recipe."
+ },
+ {
+  "task_id": "5057",
+  "occupation": "Cooks, Fast Food",
+  "task_text": "Take food and drink orders and receive payment from customers."
+ }
+]

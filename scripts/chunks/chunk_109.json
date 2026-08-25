@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "19850",
+  "occupation": "Roofers",
+  "task_text": "Apply modular soil- and plant-containing grids over existing roof membranes to create green roofs."
+ },
+ {
+  "task_id": "19854",
+  "occupation": "Roofers",
+  "task_text": "Install layers of vegetation-based green roofs, including protective membranes, drainage, aeration, water retention and filter layers, soil substrates, irrigation materials, and plants."
+ },
+ {
+  "task_id": "5177",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Maintain equipment, making repairs or modifications when necessary."
+ },
+ {
+  "task_id": "19858",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Fabricate ducts for high efficiency heating, ventilating, and air conditioning (HVAC) systems to maximize efficiency of systems."
+ },
+ {
+  "task_id": "5173",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Fasten seams or joints together with welds, bolts, cement, rivets, solder, caulks, metal drive clips, or bonds to assemble components into products or to repair sheet metal items."
+ },
+ {
+  "task_id": "5179",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Transport prefabricated parts to construction sites for assembly and installation."
+ },
+ {
+  "task_id": "5170",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Install assemblies, such as flashing, pipes, tubes, heating and air conditioning ducts, furnace casings, rain gutters, or downspouts in supportive frameworks."
+ },
+ {
+  "task_id": "18782",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Hire, train, or supervise new employees or apprentices."
+ },
+ {
+  "task_id": "20639",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Lay out, measure, and mark dimensions and reference lines on material, such as roofing panels, using calculators, scribes, dividers, squares, or rulers."
+ },
+ {
+  "task_id": "5174",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Fabricate or alter parts at construction sites, using shears, hammers, punches, or drills."
+ },
+ {
+  "task_id": "20638",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Determine project requirements, such as scope, assembly sequences, or required methods or materials, using blueprints, drawings, or written or verbal instructions."
+ },
+ {
+  "task_id": "20641",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Maneuver completed roofing units into position for installation."
+ },
+ {
+  "task_id": "5171",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Select gauges or types of sheet metal or nonmetallic material, according to product specifications."
+ },
+ {
+  "task_id": "5178",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Shape metal material over anvils, blocks, or other forms, using hand tools."
+ },
+ {
+  "task_id": "5175",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Trim, file, grind, deburr, buff, or smooth surfaces, seams, or joints of assembled parts, using hand tools or portable power tools."
+ },
+ {
+  "task_id": "20642",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Inspect individual parts, assemblies, or installations, using measuring instruments, such as calipers, scales, or micrometers."
+ },
+ {
+  "task_id": "5169",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Convert blueprints into shop drawings to be followed in the construction or assembly of sheet metal products."
+ },
+ {
+  "task_id": "19862",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Verify that heating, ventilating, and air conditioning (HVAC) systems are designed, installed, and calibrated in accordance with green certification standards, such as those of Leadership in Energy and Environmental Design (LEED)."
+ },
+ {
+  "task_id": "19860",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Perform building commissioning activities by completing mechanical inspections of a building's water, lighting, or heating, ventilating, and air conditioning (HVAC) systems."
+ },
+ {
+  "task_id": "20644",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Fasten roof panel edges or machine-made moldings to structures by nailing or welding."
+ },
+ {
+  "task_id": "5176",
+  "occupation": "Sheet Metal Workers",
+  "task_text": "Finish parts, using hacksaws or hand, rotary, or squaring shears."
+ },
+ {
+  "task_id": "11544",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Read specifications or blueprints to determine the locations, quantities, or sizes of materials required."
+ },
+ {
+  "task_id": "11546",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Connect columns, beams, and girders with bolts, following blueprints and instructions from supervisors."
+ },
+ {
+  "task_id": "11548",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Bolt aligned structural steel members in position for permanent riveting, bolting, or welding into place."
+ },
+ {
+  "task_id": "11553",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Fasten structural steel members to hoist cables, using chains, cables, or rope."
+ },
+ {
+  "task_id": "20795",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Hoist steel beams, girders, or columns into place, using cranes or signaling hoisting equipment operators to lift and position structural steel members."
+ },
+ {
+  "task_id": "11545",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Verify vertical and horizontal alignment of structural steel members, using plumb bobs, laser equipment, transits, or levels."
+ },
+ {
+  "task_id": "11552",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Cut, bend, or weld steel pieces, using metal shears, torches, or welding equipment."
+ },
+ {
+  "task_id": "11556",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Erect metal or precast concrete components for structures, such as buildings, bridges, dams, towers, storage tanks, fences, or highway guard rails."
+ },
+ {
+  "task_id": "11555",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Force structural steel members into final positions, using turnbuckles, crowbars, jacks, or hand tools."
+ },
+ {
+  "task_id": "11551",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Pull, push, or pry structural steel members into approximate positions for bolting into place."
+ },
+ {
+  "task_id": "11557",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Unload and position prefabricated steel units for hoisting, as needed."
+ },
+ {
+  "task_id": "11558",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Drive drift pins through rivet holes to align rivet holes in structural steel members with corresponding holes in previously placed members."
+ },
+ {
+  "task_id": "11554",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Assemble hoisting equipment or rigging, such as cables, pulleys, or hooks, to move heavy equipment or materials."
+ },
+ {
+  "task_id": "11550",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Fabricate metal parts, such as steel frames, columns, beams, or girders, according to blueprints or instructions from supervisors."
+ },
+ {
+  "task_id": "11559",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Dismantle structures or equipment."
+ },
+ {
+  "task_id": "11549",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Ride on girders or other structural steel members to position them, or use rope to guide them into position."
+ },
+ {
+  "task_id": "11563",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Hold rivets while riveters use air hammers to form heads on rivets."
+ },
+ {
+  "task_id": "11560",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Insert sealing strips, wiring, insulating material, ladders, flanges, gauges, or valves, depending on types of structures being assembled."
+ },
+ {
+  "task_id": "11562",
+  "occupation": "Structural Iron and Steel Workers",
+  "task_text": "Place blocks under reinforcing bars used to reinforce floors."
+ },
+ {
+  "task_id": "17742",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Install photovoltaic (PV) systems in accordance with codes and standards, using drawings, schematics, and instructions."
+ },
+ {
+  "task_id": "17746",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Check electrical installation for proper wiring, polarity, grounding, or integrity of terminations."
+ },
+ {
+  "task_id": "17753",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Identify electrical, environmental, and safety hazards associated with photovoltaic (PV) installations."
+ },
+ {
+  "task_id": "17754",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Identify installation locations with proper orientation, area, solar access, or structural integrity for photovoltaic (PV) arrays."
+ },
+ {
+  "task_id": "17740",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Assemble solar modules, panels, or support structures, as specified."
+ },
+ {
+  "task_id": "17745",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Apply weather sealing to array, building, or support mechanisms."
+ },
+ {
+  "task_id": "17756",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Install module array interconnect wiring, implementing measures to disable arrays during installation."
+ },
+ {
+  "task_id": "17757",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Install required labels on solar system components and hardware."
+ },
+ {
+  "task_id": "17750",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Diagram layouts and locations for photovoltaic (PV) arrays and equipment, including existing building or site features."
+ },
+ {
+  "task_id": "17765",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Determine materials, equipment, and installation sequences necessary to maximize installation efficiency."
+ },
+ {
+  "task_id": "17761",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Test operating voltages to ensure operation within acceptable limits for power conditioning equipment, such as inverters and controllers."
+ },
+ {
+  "task_id": "17747",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Determine appropriate sizes, ratings, and locations for all system overcurrent devices, disconnect devices, grounding equipment, and surge suppression equipment."
+ },
+ {
+  "task_id": "17744",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Activate photovoltaic (PV) systems to verify system functionality and conformity to performance expectations."
+ },
+ {
+  "task_id": "17752",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Identify and resolve any deficiencies in photovoltaic (PV) system installation or materials."
+ },
+ {
+  "task_id": "17762",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Visually inspect and test photovoltaic (PV) modules or systems."
+ },
+ {
+  "task_id": "17751",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Examine designs to determine current requirements for all parts of the photovoltaic (PV) system electrical circuit."
+ },
+ {
+  "task_id": "17764",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Demonstrate system functionality and performance, including start-up, shut-down, normal operation, and emergency or bypass operations."
+ },
+ {
+  "task_id": "17755",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Identify methods for laying out, orienting, and mounting modules or arrays to ensure efficient installation, electrical configuration, or system maintenance."
+ },
+ {
+  "task_id": "17758",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Measure and analyze system performance and operating parameters to assess operating condition of systems or equipment."
+ },
+ {
+  "task_id": "17759",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Program, adjust, or configure inverters and controls for desired set points and operating modes."
+ },
+ {
+  "task_id": "17748",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Determine connection interfaces for additional subpanels or for connecting photovoltaic (PV) systems with utility services or other power generation sources."
+ },
+ {
+  "task_id": "17749",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Determine photovoltaic (PV) system designs or configurations based on factors such as customer needs, expectations, and site conditions."
+ },
+ {
+  "task_id": "17760",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Select mechanical designs, installation equipment, or installation plans that conform to environmental, architectural, structural, site, and code requirements."
+ },
+ {
+  "task_id": "17743",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Perform routine photovoltaic (PV) system maintenance on modules, arrays, batteries, power conditioning equipment, safety systems, structural systems, weather sealing, or balance of systems equipment."
+ },
+ {
+  "task_id": "17763",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Compile or maintain records of system operation, performance, and maintenance."
+ },
+ {
+  "task_id": "17741",
+  "occupation": "Solar Photovoltaic Installers",
+  "task_text": "Install active solar systems, including solar collectors, concentrators, pumps, or fans."
+ },
+ {
+  "task_id": "13600",
+  "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+  "task_text": "Mix mortar, plaster, and grout, manually or using machines, according to standard formulas."
+ },
+ {
+  "task_id": "13598",
+  "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+  "task_text": "Erect scaffolding or other installation structures."
+ },
+ {
+  "task_id": "13597",
+  "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+  "task_text": "Cut materials to specified sizes for installation, using power saws or tile cutters."
+ },
+ {
+  "task_id": "13603",
+  "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+  "task_text": "Modify material moving, mixing, grouting, grinding, polishing, or cleaning procedures, according to installation or material requirements."
+ },
+ {
+  "task_id": "13606",
+  "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+  "task_text": "Transport materials, tools, or machines to installation sites, manually or using conveyance equipment."
+ },
+ {
+  "task_id": "13604",
+  "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+  "task_text": "Provide assistance in the preparation, installation, repair, or rebuilding of tile, brick, or stone surfaces."
+ },
+ {
+  "task_id": "13599",
+  "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+  "task_text": "Locate and supply materials to masons for installation, following drawings or numbered sequences."
+ },
+ {
+  "task_id": "13610",
+  "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+  "task_text": "Arrange or store materials, machines, tools, or equipment."
+ },
+ {
+  "task_id": "13605",
+  "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+  "task_text": "Clean installation surfaces, equipment, tools, work sites, or storage areas, using water, chemical solutions, oxygen lances, or polishing machines."
+ },
+ {
+  "task_id": "13607",
+  "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+  "task_text": "Move or position materials such as marble slabs, using cranes, hoists, or dollies."
+ },
+ {
+  "task_id": "13608",
+  "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+  "task_text": "Remove excess grout or residue from tile or brick joints, using sponges or trowels."
+ },
+ {
+  "task_id": "13601",
+  "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+  "task_text": "Apply grout between joints of bricks or tiles, using grouting trowels."
+ },
+ {
+  "task_id": "13611",
+  "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+  "task_text": "Apply caulk, sealants, or other agents to installed surfaces."
+ },
+ {
+  "task_id": "13609",
+  "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+  "task_text": "Remove damaged tile, brick, or mortar, and clean or prepare surfaces, using pliers, hammers, chisels, drills, wire brushes, or metal wire anchors."
+ },
+ {
+  "task_id": "13602",
+  "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+  "task_text": "Correct surface imperfections or fill chipped, cracked, or broken bricks or tiles, using fillers, adhesives, or grouting materials."
+ },
+ {
+  "task_id": "8271",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Clean work areas, machines, or equipment, to maintain a clean and safe job site."
+ },
+ {
+  "task_id": "8270",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Fasten timbers or lumber with glue, screws, pegs, or nails and install hardware."
+ },
+ {
+  "task_id": "8276",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Perform tie spacing layout and measure, mark, drill or cut."
+ },
+ {
+  "task_id": "8269",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Select tools, equipment, or materials from storage and transport items to work site."
+ },
+ {
+  "task_id": "20443",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Drill holes in timbers or lumber."
+ },
+ {
+  "task_id": "20444",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Cut timbers, lumber, or paneling to specified dimensions."
+ },
+ {
+  "task_id": "8267",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Position and hold timbers, lumber, or paneling in place for fastening or cutting."
+ },
+ {
+  "task_id": "8273",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Align, straighten, plumb, or square forms for installation."
+ },
+ {
+  "task_id": "8272",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Hold plumb bobs, sighting rods, or other equipment to aid in establishing reference points and lines."
+ },
+ {
+  "task_id": "8268",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Erect scaffolding, shoring, or braces."
+ },
+ {
+  "task_id": "8278",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Construct forms and assist in raising them to the required elevation."
+ },
+ {
+  "task_id": "8279",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Install handrails under the direction of a carpenter."
+ },
+ {
+  "task_id": "8280",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Glue and clamp edges or joints of assembled parts."
+ },
+ {
+  "task_id": "8275",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Smooth or sand surfaces to remove ridges, tool marks, glue, or caulking."
+ },
+ {
+  "task_id": "8277",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Secure stakes to grids for constructions of footings, nail scabs to footing forms, and vibrate and float concrete."
+ },
+ {
+  "task_id": "8281",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Cut and install insulating or sound-absorbing material."
+ },
+ {
+  "task_id": "8282",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Cut tile or linoleum to fit and spread adhesives on flooring for installation."
+ },
+ {
+  "task_id": "8283",
+  "occupation": "Helpers--Carpenters",
+  "task_text": "Cover surfaces with laminated plastic covering material."
+ },
+ {
+  "task_id": "4840",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Strip insulation from wire ends, using wire stripping pliers, and attach wires to terminals for subsequent soldering."
+ },
+ {
+  "task_id": "4832",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Trace out short circuits in wiring, using test meter."
+ },
+ {
+  "task_id": "4833",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Measure, cut, and bend wire and conduit, using measuring instruments and hand tools."
+ },
+ {
+  "task_id": "4839",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Examine electrical units for loose connections and broken insulation and tighten connections, using hand tools."
+ },
+ {
+  "task_id": "4834",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Maintain tools, vehicles, and equipment and keep parts and supplies in order."
+ },
+ {
+  "task_id": "4835",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Drill holes and pull or push wiring through openings, using hand and power tools."
+ },
+ {
+  "task_id": "4844",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Clean work area and wash parts."
+ },
+ {
+  "task_id": "4836",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Perform semi-skilled and unskilled laboring duties related to the installation, maintenance and repair of a wide variety of electrical systems and equipment."
+ },
+ {
+  "task_id": "4841",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Thread conduit ends, connect couplings, and fabricate and secure conduit support brackets, using hand tools."
+ },
+ {
+  "task_id": "4837",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Disassemble defective electrical equipment, replace defective or worn parts, and reassemble equipment, using hand tools."
+ },
+ {
+  "task_id": "4842",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Construct controllers and panels, using power drills, drill presses, taps, saws, and punches."
+ },
+ {
+  "task_id": "4838",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Transport tools, materials, equipment, and supplies to work site by hand, handtruck, or heavy, motorized truck."
+ },
+ {
+  "task_id": "4843",
+  "occupation": "Helpers--Electricians",
+  "task_text": "String transmission lines or cables through ducts or conduits, under the ground, through equipment, or to towers."
+ },
+ {
+  "task_id": "4846",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Install copper-clad ground rods, using a manual post driver."
+ },
+ {
+  "task_id": "4848",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Dig trenches or holes for installation of conduit or supports."
+ },
+ {
+  "task_id": "4847",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Raise, lower, or position equipment, tools, and materials, using hoist, hand line, or block and tackle."
+ },
+ {
+  "task_id": "4850",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Bolt component parts together to form tower assemblies, using hand tools."
+ },
+ {
+  "task_id": "4845",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Erect electrical system components and barricades, and rig scaffolds, hoists, and shoring."
+ },
+ {
+  "task_id": "4855",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Trim trees and clear undergrowth along right-of-way."
+ },
+ {
+  "task_id": "4849",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Requisition materials, using warehouse requisition or release forms."
+ },
+ {
+  "task_id": "4854",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Solder electrical connections, using soldering iron."
+ },
+ {
+  "task_id": "4851",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Paint a variety of objects related to electrical functions."
+ },
+ {
+  "task_id": "4853",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Break up concrete, using airhammer, to facilitate installation, construction, or repair of equipment."
+ },
+ {
+  "task_id": "23977",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Operate heavy equipment, such as backhoes."
+ },
+ {
+  "task_id": "4852",
+  "occupation": "Helpers--Electricians",
+  "task_text": "Operate cutting torches and welding equipment, while working with conduit and metal components to construct devices associated with electrical functions."
+ },
+ {
+  "task_id": "13612",
+  "occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+  "task_text": "Clean work areas and equipment."
+ },
+ {
+  "task_id": "13613",
+  "occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+  "task_text": "Perform support duties to assist painters, paperhangers, plasterers, or masons."
+ },
+ {
+  "task_id": "13614",
+  "occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+  "task_text": "Apply protective coverings, such as masking tape, to articles or areas that could be damaged or stained by work processes."
+ },
+ {
+  "task_id": "13615",
+  "occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+  "task_text": "Erect scaffolding."
+ },
+ {
+  "task_id": "13616",
+  "occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+  "task_text": "Fill cracks or breaks in surfaces of plaster articles or areas with putty or epoxy compounds."
+ },
+ {
+  "task_id": "13617",
+  "occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+  "task_text": "Supply or hold tools and materials."
+ }
+]

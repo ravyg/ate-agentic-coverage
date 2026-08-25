@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "10713",
+  "occupation": "Automotive and Watercraft Service Attendants",
+  "task_text": "Activate fuel pumps and fill fuel tanks of vehicles with gasoline or diesel fuel to specified levels."
+ },
+ {
+  "task_id": "10726",
+  "occupation": "Automotive and Watercraft Service Attendants",
+  "task_text": "Test and charge batteries."
+ },
+ {
+  "task_id": "10723",
+  "occupation": "Automotive and Watercraft Service Attendants",
+  "task_text": "Maintain customer records and follow up periodically with telephone, mail, or personal reminders of services due."
+ },
+ {
+  "task_id": "10718",
+  "occupation": "Automotive and Watercraft Service Attendants",
+  "task_text": "Provide customers with information about local roads or highways."
+ },
+ {
+  "task_id": "23832",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "Apply de-icing fluid to aircraft from baskets lifted by truck-mounted cranes."
+ },
+ {
+  "task_id": "23833",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "Change aircraft oil, coolant, or other fluids."
+ },
+ {
+  "task_id": "23834",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "Clean aircraft interiors by picking up waste, wiping down windows, or vacuuming."
+ },
+ {
+  "task_id": "23835",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "Climb ladders to reach aircraft surfaces to be cleaned."
+ },
+ {
+  "task_id": "23836",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "Complete forms describing tasks completed."
+ },
+ {
+  "task_id": "23837",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "De-grease aircraft exteriors."
+ },
+ {
+  "task_id": "23838",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "Empty aircraft lavatory systems or refill them with sanitizer fluid."
+ },
+ {
+  "task_id": "23839",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "Guide aircraft to designated areas using hand signals, batons, or other methods."
+ },
+ {
+  "task_id": "23840",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "Inspect aircraft components to locate cracks, breaks, leaks, or other problems."
+ },
+ {
+  "task_id": "23841",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "Load baggage or cargo for crew or passengers."
+ },
+ {
+  "task_id": "23842",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "Mix cleaning compounds or solutions."
+ },
+ {
+  "task_id": "23843",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "Polish aircraft exteriors."
+ },
+ {
+  "task_id": "23844",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "Radio to flight dispatchers or other personnel to discuss incoming or outgoing aircraft."
+ },
+ {
+  "task_id": "23845",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "Refill aircraft potable water tanks."
+ },
+ {
+  "task_id": "23846",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "Refuel aircraft using hoses connected to fuel trucks."
+ },
+ {
+  "task_id": "23847",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "Remove exhaust stains from aircraft using cleaning fluids."
+ },
+ {
+  "task_id": "23848",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "Tow aircraft to gates or hangars using tugs, tractors, or other vehicles."
+ },
+ {
+  "task_id": "23849",
+  "occupation": "Aircraft Service Attendants",
+  "task_text": "Wash the aircraft exteriors using lifts, cranes, detergent, or other equipment."
+ },
+ {
+  "task_id": "8643",
+  "occupation": "Traffic Technicians",
+  "task_text": "Study traffic delays by noting times of delays, the numbers of vehicles affected, and vehicle speed through the delay area."
+ },
+ {
+  "task_id": "8630",
+  "occupation": "Traffic Technicians",
+  "task_text": "Interact with the public to answer traffic-related questions, respond to complaints or requests, or discuss traffic control ordinances, plans, policies, or procedures."
+ },
+ {
+  "task_id": "8645",
+  "occupation": "Traffic Technicians",
+  "task_text": "Prepare graphs, charts, diagrams, or other aids to illustrate observations or conclusions."
+ },
+ {
+  "task_id": "8633",
+  "occupation": "Traffic Technicians",
+  "task_text": "Analyze data related to traffic flow, accident rates, or proposed development to determine the most efficient methods to expedite traffic flow."
+ },
+ {
+  "task_id": "8634",
+  "occupation": "Traffic Technicians",
+  "task_text": "Prepare work orders for repair, maintenance, or changes in traffic systems."
+ },
+ {
+  "task_id": "8632",
+  "occupation": "Traffic Technicians",
+  "task_text": "Plan, design, and improve components of traffic control systems to accommodate current or projected traffic and to increase usability and efficiency."
+ },
+ {
+  "task_id": "8647",
+  "occupation": "Traffic Technicians",
+  "task_text": "Compute time settings for traffic signals or speed restrictions, using standard formulas."
+ },
+ {
+  "task_id": "8631",
+  "occupation": "Traffic Technicians",
+  "task_text": "Prepare drawings of proposed signal installations or other control devices, using drafting instruments or computer-automated drafting equipment."
+ },
+ {
+  "task_id": "8635",
+  "occupation": "Traffic Technicians",
+  "task_text": "Study factors affecting traffic conditions, such as lighting or sign and marking visibility, to assess their effectiveness."
+ },
+ {
+  "task_id": "8640",
+  "occupation": "Traffic Technicians",
+  "task_text": "Gather and compile data from hand count sheets, machine count tapes, or radar speed checks and code data for computer input."
+ },
+ {
+  "task_id": "8642",
+  "occupation": "Traffic Technicians",
+  "task_text": "Measure and record the speed of vehicular traffic, using electrical timing devices or radar equipment."
+ },
+ {
+  "task_id": "8637",
+  "occupation": "Traffic Technicians",
+  "task_text": "Lay out pavement markings for striping crews."
+ },
+ {
+  "task_id": "8639",
+  "occupation": "Traffic Technicians",
+  "task_text": "Provide technical supervision regarding traffic control devices to other traffic technicians or laborers."
+ },
+ {
+  "task_id": "8638",
+  "occupation": "Traffic Technicians",
+  "task_text": "Operate counters and record data to assess the volume, type, and movement of vehicular or pedestrian traffic at specified times."
+ },
+ {
+  "task_id": "8641",
+  "occupation": "Traffic Technicians",
+  "task_text": "Place and secure automatic counters, using power tools, and retrieve counters after counting periods end."
+ },
+ {
+  "task_id": "8644",
+  "occupation": "Traffic Technicians",
+  "task_text": "Review traffic control or barricade plans to issue permits for parades or other special events or for construction work that affects rights of way, providing assistance with plan preparation or revision, as necessary."
+ },
+ {
+  "task_id": "8650",
+  "occupation": "Traffic Technicians",
+  "task_text": "Time stoplights or other delays, using stopwatches."
+ },
+ {
+  "task_id": "8649",
+  "occupation": "Traffic Technicians",
+  "task_text": "Maintain or make minor adjustments or field repairs to equipment used in surveys, including the replacement of parts on traffic data gathering devices."
+ },
+ {
+  "task_id": "8636",
+  "occupation": "Traffic Technicians",
+  "task_text": "Visit development or work sites to determine projects' effect on traffic and the adequacy of traffic control and safety plans or to suggest traffic control measures."
+ },
+ {
+  "task_id": "8646",
+  "occupation": "Traffic Technicians",
+  "task_text": "Establish procedures for street closures or for repair or construction projects."
+ },
+ {
+  "task_id": "20938",
+  "occupation": "Traffic Technicians",
+  "task_text": "Provide traffic information, such as road conditions, to the public."
+ },
+ {
+  "task_id": "8648",
+  "occupation": "Traffic Technicians",
+  "task_text": "Monitor street or utility projects for compliance to traffic control permit conditions."
+ },
+ {
+  "task_id": "8652",
+  "occupation": "Traffic Technicians",
+  "task_text": "Develop plans or long-range strategies for providing adequate parking space."
+ },
+ {
+  "task_id": "23850",
+  "occupation": "Transportation Inspectors",
+  "task_text": "Prepare and submit reports after completion of freight shipments."
+ },
+ {
+  "task_id": "23851",
+  "occupation": "Transportation Inspectors",
+  "task_text": "Inspect shipments to ensure that freight is securely braced and blocked."
+ },
+ {
+  "task_id": "23852",
+  "occupation": "Transportation Inspectors",
+  "task_text": "Record details about freight conditions, handling of freight, and any problems encountered."
+ },
+ {
+  "task_id": "23853",
+  "occupation": "Transportation Inspectors",
+  "task_text": "Advise crews in techniques of stowing dangerous and heavy cargo."
+ },
+ {
+  "task_id": "23854",
+  "occupation": "Transportation Inspectors",
+  "task_text": "Observe loading of freight to ensure that crews comply with procedures."
+ },
+ {
+  "task_id": "23855",
+  "occupation": "Transportation Inspectors",
+  "task_text": "Recommend remedial procedures to correct any violations found during inspections."
+ },
+ {
+  "task_id": "23856",
+  "occupation": "Transportation Inspectors",
+  "task_text": "Inspect loaded cargo, cargo lashed to decks or in storage facilities, and cargo handling devices to determine compliance with health and safety regulations and need for maintenance."
+ },
+ {
+  "task_id": "23857",
+  "occupation": "Transportation Inspectors",
+  "task_text": "Notify workers of any special treatment required for shipments."
+ },
+ {
+  "task_id": "23858",
+  "occupation": "Transportation Inspectors",
+  "task_text": "Direct crews to reload freight or to insert additional bracing or packing as necessary."
+ },
+ {
+  "task_id": "23859",
+  "occupation": "Transportation Inspectors",
+  "task_text": "Check temperatures and humidities of shipping and storage areas to ensure that they are at appropriate levels to protect cargo."
+ },
+ {
+  "task_id": "23860",
+  "occupation": "Transportation Inspectors",
+  "task_text": "Determine cargo transportation capabilities by reading documents that set forth cargo loading and securing procedures, capacities, and stability factors."
+ },
+ {
+  "task_id": "23861",
+  "occupation": "Transportation Inspectors",
+  "task_text": "Read draft markings to determine depths of vessels in water."
+ },
+ {
+  "task_id": "23864",
+  "occupation": "Transportation Inspectors",
+  "task_text": "Post warning signs on vehicles containing explosives or flammable or radioactive materials."
+ },
+ {
+  "task_id": "23865",
+  "occupation": "Transportation Inspectors",
+  "task_text": "Measure heights and widths of loads to ensure they will pass over bridges or through tunnels on scheduled routes."
+ },
+ {
+  "task_id": "23868",
+  "occupation": "Transportation Inspectors",
+  "task_text": "Calculate gross and net tonnage, hold capacities, volumes of stored fuel and water, cargo weights, and vessel stability factors, using mathematical formulas."
+ },
+ {
+  "task_id": "23869",
+  "occupation": "Transportation Inspectors",
+  "task_text": "Measure vessels' holds and depths of fuel and water in tanks, using sounding lines and tape measures."
+ },
+ {
+  "task_id": "23870",
+  "occupation": "Transportation Inspectors",
+  "task_text": "Visually inspect cargo for damage upon arrival or discharge."
+ },
+ {
+  "task_id": "10728",
+  "occupation": "Aviation Inspectors",
+  "task_text": "Inspect work of aircraft mechanics performing maintenance, modification, or repair and overhaul of aircraft and aircraft mechanical systems to ensure adherence to standards and procedures."
+ },
+ {
+  "task_id": "10734",
+  "occupation": "Aviation Inspectors",
+  "task_text": "Examine maintenance records and flight logs to determine if service and maintenance checks and overhauls were performed at prescribed intervals."
+ },
+ {
+  "task_id": "10733",
+  "occupation": "Aviation Inspectors",
+  "task_text": "Inspect new, repaired, or modified aircraft to identify damage or defects and to assess airworthiness and conformance to standards, using checklists, hand tools, and test instruments."
+ },
+ {
+  "task_id": "10741",
+  "occupation": "Aviation Inspectors",
+  "task_text": "Approve or deny issuance of certificates of airworthiness."
+ },
+ {
+  "task_id": "10732",
+  "occupation": "Aviation Inspectors",
+  "task_text": "Prepare and maintain detailed repair, inspection, investigation, and certification records and reports."
+ },
+ {
+  "task_id": "10731",
+  "occupation": "Aviation Inspectors",
+  "task_text": "Examine landing gear, tires, and exteriors of fuselage, wings, and engines for evidence of damage or corrosion and the need for repairs."
+ },
+ {
+  "task_id": "10735",
+  "occupation": "Aviation Inspectors",
+  "task_text": "Recommend replacement, repair, or modification of aircraft equipment."
+ },
+ {
+  "task_id": "10729",
+  "occupation": "Aviation Inspectors",
+  "task_text": "Start aircraft and observe gauges, meters, and other instruments to detect evidence of malfunctions."
+ },
+ {
+  "task_id": "10730",
+  "occupation": "Aviation Inspectors",
+  "task_text": "Examine aircraft access plates and doors for security."
+ },
+ {
+  "task_id": "10736",
+  "occupation": "Aviation Inspectors",
+  "task_text": "Recommend changes in rules, policies, standards, and regulations, based on knowledge of operating conditions, aircraft improvements, and other factors."
+ },
+ {
+  "task_id": "10738",
+  "occupation": "Aviation Inspectors",
+  "task_text": "Investigate air accidents and complaints to determine causes."
+ },
+ {
+  "task_id": "10742",
+  "occupation": "Aviation Inspectors",
+  "task_text": "Analyze training programs and conduct oral and written examinations to ensure the competency of persons operating, installing, and repairing aircraft equipment."
+ },
+ {
+  "task_id": "10740",
+  "occupation": "Aviation Inspectors",
+  "task_text": "Conduct flight test programs to test equipment, instruments, and systems under a variety of conditions, using both manual and automatic controls."
+ },
+ {
+  "task_id": "14569",
+  "occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+  "task_text": "Inspect vehicles or other equipment for evidence of abuse, damage, or mechanical malfunction."
+ },
+ {
+  "task_id": "14570",
+  "occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+  "task_text": "Inspect vehicles or equipment to ensure compliance with rules, standards, or regulations."
+ },
+ {
+  "task_id": "14573",
+  "occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+  "task_text": "Inspect repairs to transportation vehicles or equipment to ensure that repair work was performed properly."
+ },
+ {
+  "task_id": "19929",
+  "occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+  "task_text": "Identify modifications to engines, fuel systems, emissions control equipment, or other vehicle systems to determine the impact of modifications on inspection procedures or conclusions."
+ },
+ {
+  "task_id": "19926",
+  "occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+  "task_text": "Conduct remote inspections of motor vehicles, using handheld controllers and remotely directed vehicle inspection devices."
+ },
+ {
+  "task_id": "14574",
+  "occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+  "task_text": "Prepare reports on investigations or inspections and actions taken."
+ },
+ {
+  "task_id": "14575",
+  "occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+  "task_text": "Issue notices and recommend corrective actions when infractions or problems are found."
+ },
+ {
+  "task_id": "19927",
+  "occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+  "task_text": "Conduct visual inspections of emission control equipment and smoke emitted from gasoline or diesel vehicles."
+ },
+ {
+  "task_id": "14572",
+  "occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+  "task_text": "Conduct vehicle or transportation equipment tests, using diagnostic equipment."
+ },
+ {
+  "task_id": "14580",
+  "occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+  "task_text": "Investigate incidents or violations, such as delays, accidents, and equipment failures."
+ },
+ {
+  "task_id": "14579",
+  "occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+  "task_text": "Review commercial vehicle logs, shipping papers, or driver and equipment records to detect any problems or to ensure compliance with regulations."
+ },
+ {
+  "task_id": "19924",
+  "occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+  "task_text": "Attach onboard diagnostics (OBD) scanner cables to vehicles to conduct emissions inspections."
+ },
+ {
+  "task_id": "14576",
+  "occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+  "task_text": "Investigate complaints regarding safety violations."
+ },
+ {
+  "task_id": "14577",
+  "occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+  "task_text": "Examine carrier operating rules, employee qualification guidelines, or carrier training and testing programs for compliance with regulations or safety standards."
+ },
+ {
+  "task_id": "20841",
+  "occupation": "Passenger Attendants",
+  "task_text": "Secure passengers for transportation by buckling seatbelts or fastening wheelchairs with tie-down straps."
+ },
+ {
+  "task_id": "13172",
+  "occupation": "Passenger Attendants",
+  "task_text": "Provide boarding assistance to elderly, sick, or injured people."
+ },
+ {
+  "task_id": "13174",
+  "occupation": "Passenger Attendants",
+  "task_text": "Respond to passengers' questions, requests, or complaints."
+ },
+ {
+  "task_id": "13183",
+  "occupation": "Passenger Attendants",
+  "task_text": "Determine or facilitate seating arrangements."
+ },
+ {
+  "task_id": "13182",
+  "occupation": "Passenger Attendants",
+  "task_text": "Provide customers with information on routes, gates, prices, timetables, terminals, or concourses."
+ },
+ {
+  "task_id": "13176",
+  "occupation": "Passenger Attendants",
+  "task_text": "Perform equipment safety checks prior to departure."
+ },
+ {
+  "task_id": "13179",
+  "occupation": "Passenger Attendants",
+  "task_text": "Greet passengers boarding transportation equipment and announce routes and stops."
+ },
+ {
+  "task_id": "13178",
+  "occupation": "Passenger Attendants",
+  "task_text": "Count and verify tickets and seat reservations and record numbers of passengers boarding and disembarking."
+ },
+ {
+  "task_id": "13175",
+  "occupation": "Passenger Attendants",
+  "task_text": "Explain and demonstrate safety procedures and safety equipment use."
+ },
+ {
+  "task_id": "13173",
+  "occupation": "Passenger Attendants",
+  "task_text": "Open and close doors for passengers."
+ },
+ {
+  "task_id": "13177",
+  "occupation": "Passenger Attendants",
+  "task_text": "Signal transportation operators to stop or to proceed."
+ },
+ {
+  "task_id": "13184",
+  "occupation": "Passenger Attendants",
+  "task_text": "Adjust window shades or seat cushions at the request of passengers."
+ },
+ {
+  "task_id": "10748",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Inform supervisors of equipment malfunctions that need to be addressed."
+ },
+ {
+  "task_id": "10750",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Observe conveyor operations and monitor lights, dials, and gauges to maintain specified operating levels and to detect equipment malfunctions."
+ },
+ {
+  "task_id": "10747",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Record production data such as weights, types, quantities, and storage locations of materials, as well as equipment performance problems and downtime."
+ },
+ {
+  "task_id": "10757",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Load, unload, or adjust materials or products on conveyors by hand, by using lifts, hoists, and scoops, or by opening gates, chutes, or hoppers."
+ },
+ {
+  "task_id": "10755",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Stop equipment or machinery and clear jams, using poles, bars, and hand tools, or remove damaged materials from conveyors."
+ },
+ {
+  "task_id": "10760",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Distribute materials, supplies, and equipment to work stations, using lifts and trucks."
+ },
+ {
+  "task_id": "21030",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Observe packages moving along conveyors to identify packages, detect defective packaging, and perform quality control."
+ },
+ {
+  "task_id": "10756",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Collect samples of materials or products, checking them to ensure conformance to specifications or sending them to laboratories for analysis."
+ },
+ {
+  "task_id": "10744",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Position deflector bars, gates, chutes, or spouts to divert flow of materials from one conveyor onto another conveyor."
+ },
+ {
+  "task_id": "10753",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Repair or replace equipment components or parts such as blades, rolls, and pumps."
+ },
+ {
+  "task_id": "10746",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Manipulate controls, levers, and valves to start pumps, auxiliary equipment, or conveyors, and to adjust equipment positions, speeds, timing, and material flows."
+ },
+ {
+  "task_id": "10745",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Weigh or measure materials and products, using scales or other measuring instruments, or read scales on conveyors that continually weigh products, to verify specified tonnages and prevent overloads."
+ },
+ {
+  "task_id": "10752",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Read production and delivery schedules, and confer with supervisors, to determine sorting and transfer procedures, arrangement of packages on pallets, and destinations of loaded pallets."
+ },
+ {
+  "task_id": "10764",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Press console buttons to deflect packages to predetermined accumulators or reject lines."
+ },
+ {
+  "task_id": "10749",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Clean, sterilize, and maintain equipment, machinery, and work stations, using hand tools, shovels, brooms, chemicals, hoses, and lubricants."
+ },
+ {
+  "task_id": "10759",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Affix identifying information to materials or products, using hand tools."
+ },
+ {
+  "task_id": "10761",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Move, assemble, and connect hoses or nozzles to material hoppers, storage tanks, conveyor sections or chutes, and pumps."
+ },
+ {
+  "task_id": "10766",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Thread strapping through strapping tools and secure battens with strapping to form protective pallets around extrusions."
+ },
+ {
+  "task_id": "10754",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Contact workers in work stations or other departments to request movement of materials, products, or machinery, or to notify them of incoming shipments and their estimated delivery times."
+ },
+ {
+  "task_id": "10765",
+  "occupation": "Conveyor Operators and Tenders",
+  "task_text": "Join sections of conveyor frames at temporary working areas, and connect power units."
+ },
+ {
+  "task_id": "10767",
+  "occupation": "Crane and Tower Operators",
+  "task_text": "Determine load weights and check them against lifting capacities to prevent overload."
+ },
+ {
+  "task_id": "10768",
+  "occupation": "Crane and Tower Operators",
+  "task_text": "Move levers, depress foot pedals, or turn dials to operate cranes, cherry pickers, electromagnets, or other moving equipment for lifting, moving, or placing loads."
+ },
+ {
+  "task_id": "10771",
+  "occupation": "Crane and Tower Operators",
+  "task_text": "Inspect and adjust crane mechanisms or lifting accessories to prevent malfunctions or damage."
+ },
+ {
+  "task_id": "10769",
+  "occupation": "Crane and Tower Operators",
+  "task_text": "Inspect cables or grappling devices for wear and install or replace cables, as needed."
+ },
+ {
+  "task_id": "10772",
+  "occupation": "Crane and Tower Operators",
+  "task_text": "Direct helpers engaged in placing blocking or outrigging under cranes."
+ },
+ {
+  "task_id": "10770",
+  "occupation": "Crane and Tower Operators",
+  "task_text": "Clean, lubricate, and maintain mechanisms such as cables, pulleys, or grappling devices, making repairs, as necessary."
+ },
+ {
+  "task_id": "10773",
+  "occupation": "Crane and Tower Operators",
+  "task_text": "Load or unload bundles from trucks, or move containers to storage bins, using moving equipment."
+ },
+ {
+  "task_id": "10775",
+  "occupation": "Crane and Tower Operators",
+  "task_text": "Review daily work or delivery schedules to determine orders, sequences of deliveries, or special loading instructions."
+ },
+ {
+  "task_id": "10777",
+  "occupation": "Crane and Tower Operators",
+  "task_text": "Inspect bundle packaging for conformance to regulations or customer requirements, and remove and batch packaging tickets."
+ }
+]

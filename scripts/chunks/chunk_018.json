@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "15234",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Perform general administrative tasks, such as scheduling appointments or ordering supplies or equipment."
+ },
+ {
+  "task_id": "15235",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Maintain a proper sterile field during surgical procedures."
+ },
+ {
+  "task_id": "15236",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Assist physicians in the diagnosis and treatment of cardiac or peripheral vascular treatments, such as implanting pacemakers or assisting with balloon angioplasties to treat blood vessel blockages."
+ },
+ {
+  "task_id": "15237",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Transcribe, type, and distribute reports of diagnostic procedures for interpretation by physician."
+ },
+ {
+  "task_id": "15238",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Set up 24-hour Holter and event monitors, scan and interpret tapes, and report results to physicians."
+ },
+ {
+  "task_id": "15239",
+  "occupation": "Nuclear Medicine Technologists",
+  "task_text": "Administer radiopharmaceuticals or radiation intravenously to detect or treat diseases, using radioisotope equipment, under direction of a physician."
+ },
+ {
+  "task_id": "15240",
+  "occupation": "Nuclear Medicine Technologists",
+  "task_text": "Perform quality control checks on laboratory equipment or cameras."
+ },
+ {
+  "task_id": "15242",
+  "occupation": "Surgical Technologists",
+  "task_text": "Maintain a proper sterile field during surgical procedures."
+ },
+ {
+  "task_id": "15243",
+  "occupation": "Surgical Technologists",
+  "task_text": "Prepare patients for surgery, including positioning patients on the operating table and covering them with sterile surgical drapes to prevent exposure."
+ },
+ {
+  "task_id": "15244",
+  "occupation": "Surgical Technologists",
+  "task_text": "Clean and restock operating room, gathering and placing equipment and supplies and arranging instruments according to instructions, such as a preference card."
+ },
+ {
+  "task_id": "15245",
+  "occupation": "Surgical Technologists",
+  "task_text": "Order surgical supplies."
+ },
+ {
+  "task_id": "15247",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Observe patients during treatments to compile and evaluate data on their responses and progress and provide results to physical therapist in person or through progress notes."
+ },
+ {
+  "task_id": "15248",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Administer active or passive manual therapeutic exercises, therapeutic massage, aquatic physical therapy, or heat, light, sound, or electrical modality treatments, such as ultrasound."
+ },
+ {
+  "task_id": "15249",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Communicate with or instruct caregivers or family members on patient therapeutic activities or treatment plans."
+ },
+ {
+  "task_id": "15250",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Attend or conduct continuing education courses, seminars, or in-service activities."
+ },
+ {
+  "task_id": "15251",
+  "occupation": "Physical Therapist Aides",
+  "task_text": "Schedule patient appointments with physical therapists and coordinate therapists' schedules."
+ },
+ {
+  "task_id": "15702",
+  "occupation": "Online Merchants",
+  "task_text": "Participate in online forums or conferences to stay abreast of online retailing trends, techniques, or security threats."
+ },
+ {
+  "task_id": "15703",
+  "occupation": "Online Merchants",
+  "task_text": "Upload digital media, such as photos, video, or scanned images to online storefront, auction sites, or other shopping Web sites."
+ },
+ {
+  "task_id": "15704",
+  "occupation": "Online Merchants",
+  "task_text": "Order or purchase merchandise to maintain optimal inventory levels."
+ },
+ {
+  "task_id": "15705",
+  "occupation": "Online Merchants",
+  "task_text": "Maintain inventory of shipping supplies, such as boxes, labels, tape, bubble wrap, loose packing materials, or tape guns."
+ },
+ {
+  "task_id": "15706",
+  "occupation": "Online Merchants",
+  "task_text": "Integrate online retailing strategy with physical or catalogue retailing operations."
+ },
+ {
+  "task_id": "15707",
+  "occupation": "Online Merchants",
+  "task_text": "Determine and set product prices."
+ },
+ {
+  "task_id": "15708",
+  "occupation": "Online Merchants",
+  "task_text": "Disclose merchant information and terms and policies of transactions in online or offline materials."
+ },
+ {
+  "task_id": "15709",
+  "occupation": "Online Merchants",
+  "task_text": "Deliver e-mail confirmation of completed transactions and shipment."
+ },
+ {
+  "task_id": "15710",
+  "occupation": "Online Merchants",
+  "task_text": "Create, manage, or automate orders or invoices, using order management or invoicing software."
+ },
+ {
+  "task_id": "15711",
+  "occupation": "Online Merchants",
+  "task_text": "Create or maintain database of customer accounts."
+ },
+ {
+  "task_id": "15712",
+  "occupation": "Online Merchants",
+  "task_text": "Create or distribute offline promotional material, such as brochures, pamphlets, business cards, stationary, or signage."
+ },
+ {
+  "task_id": "15713",
+  "occupation": "Online Merchants",
+  "task_text": "Collaborate with search engine shopping specialists to place marketing content in desired online locations."
+ },
+ {
+  "task_id": "15714",
+  "occupation": "Online Merchants",
+  "task_text": "Cancel orders based on customer requests or inventory or delivery problems."
+ },
+ {
+  "task_id": "15715",
+  "occupation": "Online Merchants",
+  "task_text": "Transfer digital media, such as music, video, or software, to customers via the Internet."
+ },
+ {
+  "task_id": "15716",
+  "occupation": "Online Merchants",
+  "task_text": "Select and purchase technical web services, such as web hosting services, online merchant accounts, shopping cart software, payment gateway software, or spyware."
+ },
+ {
+  "task_id": "15717",
+  "occupation": "Online Merchants",
+  "task_text": "Promote products in online communities through weblog or discussion-forum postings, e-mail marketing programs, or online advertising."
+ },
+ {
+  "task_id": "15718",
+  "occupation": "Online Merchants",
+  "task_text": "Fill customer orders by packaging sold items and documentation for direct shipping or by transferring orders to manufacturers or third-party distributors."
+ },
+ {
+  "task_id": "15719",
+  "occupation": "Online Merchants",
+  "task_text": "Measure and analyze Web site usage data to maximize search engine returns or refine customer interfaces."
+ },
+ {
+  "task_id": "15720",
+  "occupation": "Online Merchants",
+  "task_text": "Investigate sources, such as auctions, estate sales, liquidators, wholesalers, or trade shows for new items, used items, or collectibles."
+ },
+ {
+  "task_id": "15721",
+  "occupation": "Online Merchants",
+  "task_text": "Investigate products or markets to determine areas for opportunity or viability for merchandising specific products, using online or offline sources."
+ },
+ {
+  "task_id": "15722",
+  "occupation": "Online Merchants",
+  "task_text": "Initiate online auctions through auction hosting sites or auction management software."
+ },
+ {
+  "task_id": "15723",
+  "occupation": "Online Merchants",
+  "task_text": "Implement security practices to preserve assets, minimize liabilities, or ensure customer privacy, using parallel servers, hardware redundancy, fail-safe technology, information encryption, or firewal"
+ },
+ {
+  "task_id": "15724",
+  "occupation": "Online Merchants",
+  "task_text": "Devise, select, or purchase domain name and web address."
+ },
+ {
+  "task_id": "15725",
+  "occupation": "Online Merchants",
+  "task_text": "Develop or revise business plans for online business, emphasizing factors such as product line, pricing, inventory, or marketing strategy."
+ },
+ {
+  "task_id": "15726",
+  "occupation": "Online Merchants",
+  "task_text": "Determine location for product listings to maximize exposure to online traffic."
+ },
+ {
+  "task_id": "15727",
+  "occupation": "Online Merchants",
+  "task_text": "Design customer interface of online storefront, using web programming or e-commerce software."
+ },
+ {
+  "task_id": "15728",
+  "occupation": "Online Merchants",
+  "task_text": "Correspond with online customers via electronic mail, telephone, or other electronic messaging to address questions or complaints about products, policies, or shipping methods."
+ },
+ {
+  "task_id": "15729",
+  "occupation": "Online Merchants",
+  "task_text": "Compose images of products, using video or still cameras, lighting equipment, props, or photo or video editing software."
+ },
+ {
+  "task_id": "15730",
+  "occupation": "Online Merchants",
+  "task_text": "Calculate purchase subtotals, taxes, and shipping costs for submission to customers."
+ },
+ {
+  "task_id": "15731",
+  "occupation": "Online Merchants",
+  "task_text": "Receive and process payments from customers, using electronic transaction services."
+ },
+ {
+  "task_id": "15732",
+  "occupation": "Online Merchants",
+  "task_text": "Prepare or organize online storefront marketing material, including product descriptions or subject lines, optimizing content to search engine criteria."
+ },
+ {
+  "task_id": "15733",
+  "occupation": "Online Merchants",
+  "task_text": "Purchase new or used items from online or physical sources for resale via retail or auction Web site."
+ },
+ {
+  "task_id": "15734",
+  "occupation": "Online Merchants",
+  "task_text": "Compose descriptions of merchandise for posting to online storefront, auction sites, or other shopping Web sites."
+ },
+ {
+  "task_id": "15735",
+  "occupation": "Online Merchants",
+  "task_text": "Calculate revenue, sales, and expenses, using financial accounting or spreadsheet software."
+ },
+ {
+  "task_id": "15861",
+  "occupation": "Logistics Engineers",
+  "task_text": "Propose logistics solutions for customers."
+ },
+ {
+  "task_id": "15863",
+  "occupation": "Logistics Engineers",
+  "task_text": "Interview key staff or tour facilities to identify efficiency-improvement, cost-reduction, or service-delivery opportunities."
+ },
+ {
+  "task_id": "15864",
+  "occupation": "Logistics Engineers",
+  "task_text": "Direct the work of logistics analysts."
+ },
+ {
+  "task_id": "15865",
+  "occupation": "Logistics Engineers",
+  "task_text": "Design plant distribution centers."
+ },
+ {
+  "task_id": "15866",
+  "occupation": "Logistics Engineers",
+  "task_text": "Develop specifications for equipment, tools, facility layouts, or material-handling systems."
+ },
+ {
+  "task_id": "15867",
+  "occupation": "Logistics Engineers",
+  "task_text": "Review contractual commitments, customer specifications, or related information to determine logistics or support requirements."
+ },
+ {
+  "task_id": "15868",
+  "occupation": "Logistics Engineers",
+  "task_text": "Prepare or validate documentation on automated logistics or maintenance-data reporting or management information systems."
+ },
+ {
+  "task_id": "15870",
+  "occupation": "Logistics Engineers",
+  "task_text": "Identify or develop business rules or standard operating procedures to streamline operating processes."
+ },
+ {
+  "task_id": "15872",
+  "occupation": "Logistics Engineers",
+  "task_text": "Develop or maintain cost estimates, forecasts, or cost models."
+ },
+ {
+  "task_id": "15873",
+  "occupation": "Logistics Engineers",
+  "task_text": "Determine feasibility of designing new facilities or modifying existing facilities, based on factors such as cost, available space, schedule, technical requirements, or ergonomics."
+ },
+ {
+  "task_id": "15874",
+  "occupation": "Logistics Engineers",
+  "task_text": "Determine logistics support requirements, such as facility details, staffing needs, or safety or maintenance plans."
+ },
+ {
+  "task_id": "15875",
+  "occupation": "Logistics Engineers",
+  "task_text": "Conduct logistics studies or analyses, such as time studies, zero-base analyses, rate analyses, network analyses, flow-path analyses, or supply chain analyses."
+ },
+ {
+  "task_id": "15876",
+  "occupation": "Logistics Engineers",
+  "task_text": "Analyze or interpret logistics data involving customer service, forecasting, procurement, manufacturing, inventory, transportation, or warehousing."
+ },
+ {
+  "task_id": "15877",
+  "occupation": "Logistics Engineers",
+  "task_text": "Provide logistics technology or information for effective and efficient support of product, equipment, or system manufacturing or service."
+ },
+ {
+  "task_id": "15879",
+  "occupation": "Logistics Engineers",
+  "task_text": "Evaluate effectiveness of current or future logistical processes."
+ },
+ {
+  "task_id": "15880",
+  "occupation": "Logistics Engineers",
+  "task_text": "Apply logistics modeling techniques to address issues, such as operational process improvement or facility design or layout."
+ },
+ {
+  "task_id": "15881",
+  "occupation": "Logistics Analysts",
+  "task_text": "Identify opportunities for inventory reductions."
+ },
+ {
+  "task_id": "15882",
+  "occupation": "Logistics Analysts",
+  "task_text": "Monitor industry standards, trends, or practices to identify developments in logistics planning or execution."
+ },
+ {
+  "task_id": "15883",
+  "occupation": "Logistics Analysts",
+  "task_text": "Enter logistics-related data into databases."
+ },
+ {
+  "task_id": "15884",
+  "occupation": "Logistics Analysts",
+  "task_text": "Develop or maintain payment systems to ensure accuracy of vendor payments."
+ },
+ {
+  "task_id": "15885",
+  "occupation": "Logistics Analysts",
+  "task_text": "Determine packaging requirements."
+ },
+ {
+  "task_id": "15886",
+  "occupation": "Logistics Analysts",
+  "task_text": "Develop or maintain freight rate databases for use by supply chain departments to determine the most economical modes of transportation."
+ },
+ {
+  "task_id": "15887",
+  "occupation": "Logistics Analysts",
+  "task_text": "Contact potential vendors to determine material availability."
+ },
+ {
+  "task_id": "15888",
+  "occupation": "Logistics Analysts",
+  "task_text": "Contact carriers for rates or schedules."
+ },
+ {
+  "task_id": "15889",
+  "occupation": "Logistics Analysts",
+  "task_text": "Communicate with or monitor service providers, such as ocean carriers, air freight forwarders, global consolidators, customs brokers, or trucking companies."
+ },
+ {
+  "task_id": "15890",
+  "occupation": "Logistics Analysts",
+  "task_text": "Track product flow from origin to final delivery."
+ },
+ {
+  "task_id": "15891",
+  "occupation": "Logistics Analysts",
+  "task_text": "Write or revise standard operating procedures for logistics processes."
+ },
+ {
+  "task_id": "15892",
+  "occupation": "Logistics Analysts",
+  "task_text": "Review procedures, such as distribution or inventory management, to ensure maximum efficiency or minimum cost."
+ },
+ {
+  "task_id": "15893",
+  "occupation": "Logistics Analysts",
+  "task_text": "Recommend improvements to existing or planned logistics processes."
+ },
+ {
+  "task_id": "15894",
+  "occupation": "Logistics Analysts",
+  "task_text": "Provide ongoing analyses in areas such as transportation costs, parts procurement, back orders, or delivery processes."
+ },
+ {
+  "task_id": "15895",
+  "occupation": "Logistics Analysts",
+  "task_text": "Prepare reports on logistics performance measures."
+ },
+ {
+  "task_id": "15896",
+  "occupation": "Logistics Analysts",
+  "task_text": "Manage systems to ensure that pricing structures adequately reflect logistics costing."
+ },
+ {
+  "task_id": "15897",
+  "occupation": "Logistics Analysts",
+  "task_text": "Monitor inventory transactions at warehouse facilities to assess receiving, storage, shipping, or inventory integrity."
+ },
+ {
+  "task_id": "15898",
+  "occupation": "Logistics Analysts",
+  "task_text": "Maintain databases of logistics information."
+ },
+ {
+  "task_id": "15899",
+  "occupation": "Logistics Analysts",
+  "task_text": "Maintain logistics records in accordance with corporate policies."
+ },
+ {
+  "task_id": "15900",
+  "occupation": "Logistics Analysts",
+  "task_text": "Develop or maintain models for logistics uses, such as cost estimating or demand forecasting."
+ },
+ {
+  "task_id": "15901",
+  "occupation": "Logistics Analysts",
+  "task_text": "Confer with logistics management teams to determine ways to optimize service levels, maintain supply-chain efficiency, or minimize cost."
+ },
+ {
+  "task_id": "15902",
+  "occupation": "Logistics Analysts",
+  "task_text": "Compute reporting metrics, such as on-time delivery rates, order fulfillment rates, or inventory turns."
+ },
+ {
+  "task_id": "15903",
+  "occupation": "Logistics Analysts",
+  "task_text": "Interpret data on logistics elements, such as availability, maintainability, reliability, supply chain management, strategic sourcing or distribution, supplier management, or transportation."
+ },
+ {
+  "task_id": "15904",
+  "occupation": "Logistics Analysts",
+  "task_text": "Apply analytic methods or tools to understand, predict, or control logistics operations or processes."
+ },
+ {
+  "task_id": "15905",
+  "occupation": "Logistics Analysts",
+  "task_text": "Analyze logistics data, using methods such as data mining, data modeling, or cost or benefit analysis."
+ },
+ {
+  "task_id": "15924",
+  "occupation": "Customs Brokers",
+  "task_text": "Sign documents on behalf of clients, using powers of attorney."
+ },
+ {
+  "task_id": "15925",
+  "occupation": "Customs Brokers",
+  "task_text": "Provide advice on transportation options, types of carriers, or shipping routes."
+ },
+ {
+  "task_id": "15926",
+  "occupation": "Customs Brokers",
+  "task_text": "Post bonds for the products being imported or assist clients in obtaining bonds."
+ },
+ {
+  "task_id": "15927",
+  "occupation": "Customs Brokers",
+  "task_text": "Insure cargo against loss, damage, or pilferage."
+ },
+ {
+  "task_id": "15928",
+  "occupation": "Customs Brokers",
+  "task_text": "Obtain line releases for frequent shippers of low-risk commodities, high-volume entries, or multiple-container loads."
+ },
+ {
+  "task_id": "15929",
+  "occupation": "Customs Brokers",
+  "task_text": "Contract with freight forwarders for destination services."
+ },
+ {
+  "task_id": "15930",
+  "occupation": "Customs Brokers",
+  "task_text": "Arrange for transportation, warehousing, or product distribution of imported or exported products."
+ },
+ {
+  "task_id": "15931",
+  "occupation": "Customs Brokers",
+  "task_text": "Suggest best methods of packaging or labeling products."
+ },
+ {
+  "task_id": "15932",
+  "occupation": "Customs Brokers",
+  "task_text": "Request or compile necessary import documentation, such as customs invoices, certificates of origin, and cargo-control documents."
+ },
+ {
+  "task_id": "15933",
+  "occupation": "Customs Brokers",
+  "task_text": "Stay abreast of changes in import or export laws or regulations by reading current literature, attending meetings or conferences, or conferring with colleagues."
+ },
+ {
+  "task_id": "15934",
+  "occupation": "Customs Brokers",
+  "task_text": "Quote duty and tax rates on goods to be imported, based on federal tariffs and excise taxes."
+ },
+ {
+  "task_id": "15935",
+  "occupation": "Customs Brokers",
+  "task_text": "Prepare papers for shippers to appeal duty charges."
+ },
+ {
+  "task_id": "15936",
+  "occupation": "Customs Brokers",
+  "task_text": "Pay, or arrange for payment of, taxes and duties on shipments."
+ },
+ {
+  "task_id": "15937",
+  "occupation": "Customs Brokers",
+  "task_text": "Monitor or trace the location of goods."
+ },
+ {
+  "task_id": "15938",
+  "occupation": "Customs Brokers",
+  "task_text": "Maintain relationships with customs brokers in other ports to expedite clearing of cargo."
+ },
+ {
+  "task_id": "15939",
+  "occupation": "Customs Brokers",
+  "task_text": "Inform importers and exporters of steps to reduce duties and taxes."
+ },
+ {
+  "task_id": "15940",
+  "occupation": "Customs Brokers",
+  "task_text": "Confer with officials in various agencies to facilitate clearance of goods through customs and quarantine."
+ },
+ {
+  "task_id": "15941",
+  "occupation": "Customs Brokers",
+  "task_text": "Classify goods according to tariff coding system."
+ },
+ {
+  "task_id": "15942",
+  "occupation": "Customs Brokers",
+  "task_text": "Calculate duty and tariff payments owed on shipments."
+ },
+ {
+  "task_id": "15943",
+  "occupation": "Customs Brokers",
+  "task_text": "Apply for tariff concessions or for duty drawbacks and other refunds."
+ },
+ {
+  "task_id": "15944",
+  "occupation": "Customs Brokers",
+  "task_text": "Advise customers on import and export restrictions, tariff systems, insurance requirements, quotas, or other customs-related matters."
+ },
+ {
+  "task_id": "15945",
+  "occupation": "Customs Brokers",
+  "task_text": "Prepare and process import and export documentation according to customs regulations, laws, or procedures."
+ },
+ {
+  "task_id": "15946",
+  "occupation": "Customs Brokers",
+  "task_text": "Clear goods through customs and to their destinations for clients."
+ },
+ {
+  "task_id": "15947",
+  "occupation": "Business Continuity Planners",
+  "task_text": "Write reports to summarize testing activities, including descriptions of goals, planning, scheduling, execution, results, analysis, conclusions, and recommendations."
+ },
+ {
+  "task_id": "15948",
+  "occupation": "Business Continuity Planners",
+  "task_text": "Maintain and update organization information technology applications and network systems blueprints."
+ },
+ {
+  "task_id": "15949",
+  "occupation": "Business Continuity Planners",
+  "task_text": "Interpret government regulations and applicable codes to ensure compliance."
+ },
+ {
+  "task_id": "15950",
+  "occupation": "Business Continuity Planners",
+  "task_text": "Identify individual or transaction targets to direct intelligence collection."
+ },
+ {
+  "task_id": "15951",
+  "occupation": "Business Continuity Planners",
+  "task_text": "Establish, maintain, or test call trees to ensure appropriate communication during disaster."
+ },
+ {
+  "task_id": "15952",
+  "occupation": "Business Continuity Planners",
+  "task_text": "Design or implement products and services to mitigate risk or facilitate use of technology-based tools and methods."
+ },
+ {
+  "task_id": "15953",
+  "occupation": "Business Continuity Planners",
+  "task_text": "Create business continuity and disaster recovery budgets."
+ },
+ {
+  "task_id": "15954",
+  "occupation": "Business Continuity Planners",
+  "task_text": "Create or administer training and awareness presentations or materials."
+ },
+ {
+  "task_id": "15955",
+  "occupation": "Business Continuity Planners",
+  "task_text": "Attend professional meetings, read literature, and participate in training or other educational offerings to keep abreast of new developments and technologies related to disaster recovery and business"
+ },
+ {
+  "task_id": "15956",
+  "occupation": "Business Continuity Planners",
+  "task_text": "Test documented disaster recovery strategies and plans."
+ },
+ {
+  "task_id": "15957",
+  "occupation": "Business Continuity Planners",
+  "task_text": "Review existing disaster recovery, crisis management, or business continuity plans."
+ },
+ {
+  "task_id": "15958",
+  "occupation": "Business Continuity Planners",
+  "task_text": "Recommend or implement methods to monitor, evaluate, or enable resolution of safety, operations, or compliance interruptions."
+ },
+ {
+  "task_id": "15959",
+  "occupation": "Business Continuity Planners",
+  "task_text": "Prepare reports summarizing operational results, financial performance, or accomplishments of specified objectives, goals, or plans."
+ },
+ {
+  "task_id": "15960",
+  "occupation": "Business Continuity Planners",
+  "task_text": "Analyze impact on, and risk to, essential business functions or information systems to identify acceptable recovery time periods and resource requirements."
+ },
+ {
+  "task_id": "15961",
+  "occupation": "Business Continuity Planners",
+  "task_text": "Identify opportunities for strategic improvement or mitigation of business interruption and other risks caused by business, regulatory, or industry-specific change initiatives."
+ },
+ {
+  "task_id": "15962",
+  "occupation": "Business Continuity Planners",
+  "task_text": "Develop disaster recovery plans for physical locations with critical assets, such as data centers."
+ }
+]

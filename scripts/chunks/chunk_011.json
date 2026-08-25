@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "5442",
+  "occupation": "Market Research Analysts and Marketing Specialists",
+  "task_text": "Monitor industry statistics and follow trends in trade literature."
+ },
+ {
+  "task_id": "5443",
+  "occupation": "Market Research Analysts and Marketing Specialists",
+  "task_text": "Devise and evaluate methods and procedures for collecting data, such as surveys, opinion polls, or questionnaires, or arrange to obtain existing data."
+ },
+ {
+  "task_id": "5444",
+  "occupation": "Market Research Analysts and Marketing Specialists",
+  "task_text": "Develop and implement procedures for identifying advertising needs."
+ },
+ {
+  "task_id": "5445",
+  "occupation": "Market Research Analysts and Marketing Specialists",
+  "task_text": "Direct trained survey interviewers."
+ },
+ {
+  "task_id": "5643",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Instruct juries on applicable laws, direct juries to deduce the facts from the evidence presented, and hear their verdicts."
+ },
+ {
+  "task_id": "5644",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Sentence defendants in criminal cases, on conviction by jury, according to applicable government statutes."
+ },
+ {
+  "task_id": "5645",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Rule on admissibility of evidence and methods of conducting testimony."
+ },
+ {
+  "task_id": "5646",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Preside over hearings and listen to allegations made by plaintiffs to determine whether the evidence supports the charges."
+ },
+ {
+  "task_id": "5647",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Read documents on pleadings and motions to ascertain facts and issues."
+ },
+ {
+  "task_id": "5648",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Interpret and enforce rules of procedure or establish new rules in situations where there are no procedures already established by law."
+ },
+ {
+  "task_id": "5649",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Monitor proceedings to ensure that all applicable rules and procedures are followed."
+ },
+ {
+  "task_id": "5650",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Advise attorneys, juries, litigants, and court personnel regarding conduct, issues, and proceedings."
+ },
+ {
+  "task_id": "5651",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Research legal issues and write opinions on the issues."
+ },
+ {
+  "task_id": "5652",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Conduct preliminary hearings to decide issues, such as whether there is reasonable and probable cause to hold defendants in felony cases."
+ },
+ {
+  "task_id": "5653",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Write decisions on cases."
+ },
+ {
+  "task_id": "5654",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Award compensation for damages to litigants in civil cases in relation to findings by juries or by the court."
+ },
+ {
+  "task_id": "5655",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Settle disputes between opposing attorneys."
+ },
+ {
+  "task_id": "5656",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Supervise other judges, court officers, and the court's administrative staff."
+ },
+ {
+  "task_id": "5657",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Impose restrictions upon parties in civil cases until trials can be held."
+ },
+ {
+  "task_id": "5658",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Rule on custody and access disputes, and enforce court orders regarding custody and support of children."
+ },
+ {
+  "task_id": "5659",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Grant divorces and divide assets between spouses."
+ },
+ {
+  "task_id": "5660",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Participate in judicial tribunals to help resolve disputes."
+ },
+ {
+  "task_id": "5661",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Perform wedding ceremonies."
+ },
+ {
+  "task_id": "6913",
+  "occupation": "Chiropractors",
+  "task_text": "Perform a series of manual adjustments to the spine or other articulations of the body to correct the musculoskeletal system."
+ },
+ {
+  "task_id": "6914",
+  "occupation": "Chiropractors",
+  "task_text": "Evaluate the functioning of the neuromuscularskeletal system and the spine using systems of chiropractic diagnosis."
+ },
+ {
+  "task_id": "6915",
+  "occupation": "Chiropractors",
+  "task_text": "Diagnose health problems by reviewing patients' health and medical histories, questioning, observing, and examining patients and interpreting x-rays."
+ },
+ {
+  "task_id": "6916",
+  "occupation": "Chiropractors",
+  "task_text": "Maintain accurate case histories of patients."
+ },
+ {
+  "task_id": "6917",
+  "occupation": "Chiropractors",
+  "task_text": "Advise patients about recommended courses of treatment."
+ },
+ {
+  "task_id": "6918",
+  "occupation": "Chiropractors",
+  "task_text": "Obtain and record patients' medical histories."
+ },
+ {
+  "task_id": "6919",
+  "occupation": "Chiropractors",
+  "task_text": "Analyze x-rays to locate the sources of patients' difficulties and to rule out fractures or diseases as sources of problems."
+ },
+ {
+  "task_id": "6920",
+  "occupation": "Chiropractors",
+  "task_text": "Counsel patients about nutrition, exercise, sleeping habits, stress management, or other matters."
+ },
+ {
+  "task_id": "6922",
+  "occupation": "Chiropractors",
+  "task_text": "Consult with or refer patients to appropriate health practitioners when necessary."
+ },
+ {
+  "task_id": "6923",
+  "occupation": "Chiropractors",
+  "task_text": "Suggest and apply the use of supports such as straps, tapes, bandages, or braces if necessary."
+ },
+ {
+  "task_id": "6925",
+  "occupation": "Dentists, General",
+  "task_text": "Administer anesthetics to limit the amount of pain experienced by patients during procedures."
+ },
+ {
+  "task_id": "6926",
+  "occupation": "Dentists, General",
+  "task_text": "Examine teeth, gums, and related tissues, using dental instruments, x-rays, or other diagnostic equipment, to evaluate dental health, diagnose diseases or abnormalities, and plan appropriate treatment"
+ },
+ {
+  "task_id": "6927",
+  "occupation": "Dentists, General",
+  "task_text": "Formulate plan of treatment for patient's teeth and mouth tissue."
+ },
+ {
+  "task_id": "6929",
+  "occupation": "Dentists, General",
+  "task_text": "Advise or instruct patients regarding preventive dental care, the causes and treatment of dental problems, or oral health care services."
+ },
+ {
+  "task_id": "6930",
+  "occupation": "Dentists, General",
+  "task_text": "Design, make, or fit prosthodontic appliances, such as space maintainers, bridges, or dentures, or write fabrication instructions or prescriptions for denturists or dental technicians."
+ },
+ {
+  "task_id": "6931",
+  "occupation": "Dentists, General",
+  "task_text": "Diagnose and treat diseases, injuries, or malformations of teeth, gums, or related oral structures and provide preventive or corrective services."
+ },
+ {
+  "task_id": "6932",
+  "occupation": "Dentists, General",
+  "task_text": "Fill pulp chamber and canal with endodontic materials."
+ },
+ {
+  "task_id": "6933",
+  "occupation": "Dentists, General",
+  "task_text": "Write prescriptions for antibiotics or other medications."
+ },
+ {
+  "task_id": "6934",
+  "occupation": "Dentists, General",
+  "task_text": "Analyze or evaluate dental needs to determine changes or trends in patterns of dental disease."
+ },
+ {
+  "task_id": "6935",
+  "occupation": "Dentists, General",
+  "task_text": "Treat exposure of pulp by pulp capping, removal of pulp from pulp chamber, or root canal, using dental instruments."
+ },
+ {
+  "task_id": "6936",
+  "occupation": "Dentists, General",
+  "task_text": "Eliminate irritating margins of fillings and correct occlusions, using dental instruments."
+ },
+ {
+  "task_id": "6937",
+  "occupation": "Dentists, General",
+  "task_text": "Perform oral or periodontal surgery on the jaw or mouth."
+ },
+ {
+  "task_id": "6938",
+  "occupation": "Dentists, General",
+  "task_text": "Remove diseased tissue, using surgical instruments."
+ },
+ {
+  "task_id": "6939",
+  "occupation": "Dentists, General",
+  "task_text": "Apply fluoride or sealants to teeth."
+ },
+ {
+  "task_id": "6941",
+  "occupation": "Dentists, General",
+  "task_text": "Bleach, clean, or polish teeth to restore natural color."
+ },
+ {
+  "task_id": "6942",
+  "occupation": "Dentists, General",
+  "task_text": "Plan, organize, or maintain dental health programs."
+ },
+ {
+  "task_id": "6943",
+  "occupation": "Dentists, General",
+  "task_text": "Produce or evaluate dental health educational materials."
+ },
+ {
+  "task_id": "6944",
+  "occupation": "Psychiatric Technicians",
+  "task_text": "Monitor patients' physical and emotional well-being and report unusual behavior or physical ailments to medical staff."
+ },
+ {
+  "task_id": "6945",
+  "occupation": "Psychiatric Technicians",
+  "task_text": "Provide nursing, psychiatric, or personal care to patients with cognitive, intellectual, or developmental disabilities."
+ },
+ {
+  "task_id": "6946",
+  "occupation": "Psychiatric Technicians",
+  "task_text": "Observe and influence patients' behavior, communicating and interacting with them and teaching, counseling, or befriending them."
+ },
+ {
+  "task_id": "6947",
+  "occupation": "Psychiatric Technicians",
+  "task_text": "Take and record measures of patients' physical condition, using devices such as thermometers or blood pressure gauges."
+ },
+ {
+  "task_id": "6948",
+  "occupation": "Psychiatric Technicians",
+  "task_text": "Encourage patients to develop work skills and to participate in social, recreational, or other therapeutic activities that enhance interpersonal skills or develop social relationships."
+ },
+ {
+  "task_id": "6949",
+  "occupation": "Psychiatric Technicians",
+  "task_text": "Collaborate with or assist doctors, psychologists, or rehabilitation therapists in working with patients with cognitive, intellectual, or developmental disabilities to treat, rehabilitate, and return "
+ },
+ {
+  "task_id": "6950",
+  "occupation": "Psychiatric Technicians",
+  "task_text": "Develop or teach strategies to promote client wellness and independence."
+ },
+ {
+  "task_id": "6951",
+  "occupation": "Psychiatric Technicians",
+  "task_text": "Restrain violent, potentially violent, or suicidal patients by verbal or physical means as required."
+ },
+ {
+  "task_id": "6952",
+  "occupation": "Psychiatric Technicians",
+  "task_text": "Aid patients in performing tasks, such as bathing or keeping beds, clothing, or living areas clean."
+ },
+ {
+  "task_id": "6953",
+  "occupation": "Psychiatric Technicians",
+  "task_text": "Administer oral medications or hypodermic injections, following physician's prescriptions and hospital procedures."
+ },
+ {
+  "task_id": "6954",
+  "occupation": "Psychiatric Technicians",
+  "task_text": "Issue medications from dispensary and maintain records in accordance with specified procedures."
+ },
+ {
+  "task_id": "6955",
+  "occupation": "Psychiatric Technicians",
+  "task_text": "Interview new patients to complete admission forms, to assess their mental health status, or to obtain their mental health and treatment history."
+ },
+ {
+  "task_id": "6956",
+  "occupation": "Psychiatric Technicians",
+  "task_text": "Lead prescribed individual or group therapy sessions as part of specific therapeutic procedures."
+ },
+ {
+  "task_id": "6957",
+  "occupation": "Psychiatric Technicians",
+  "task_text": "Contact patients' relatives to arrange family conferences."
+ },
+ {
+  "task_id": "6998",
+  "occupation": "Gambling Change Persons and Booth Cashiers",
+  "task_text": "Count money and audit money drawers."
+ },
+ {
+  "task_id": "6999",
+  "occupation": "Gambling Change Persons and Booth Cashiers",
+  "task_text": "Keep accurate records of monetary exchanges, authorization forms, and transaction reconciliations."
+ },
+ {
+  "task_id": "7002",
+  "occupation": "Gambling Change Persons and Booth Cashiers",
+  "task_text": "Listen for jackpot alarm bells and issue payoffs to winners."
+ },
+ {
+  "task_id": "7003",
+  "occupation": "Gambling Change Persons and Booth Cashiers",
+  "task_text": "Maintain cage security according to rules."
+ },
+ {
+  "task_id": "7004",
+  "occupation": "Gambling Change Persons and Booth Cashiers",
+  "task_text": "Obtain customers' signatures on receipts when winnings exceed the amount held in a slot machine."
+ },
+ {
+  "task_id": "7005",
+  "occupation": "Gambling Change Persons and Booth Cashiers",
+  "task_text": "Reconcile daily summaries of transactions to balance books."
+ },
+ {
+  "task_id": "7006",
+  "occupation": "Gambling Change Persons and Booth Cashiers",
+  "task_text": "Sell gambling chips, tokens, or tickets to patrons, or to other workers for resale to patrons."
+ },
+ {
+  "task_id": "7007",
+  "occupation": "Gambling Change Persons and Booth Cashiers",
+  "task_text": "Calculate the value of chips won or lost by players."
+ },
+ {
+  "task_id": "7008",
+  "occupation": "Gambling Change Persons and Booth Cashiers",
+  "task_text": "Furnish change persons with a money bank at the start of each shift."
+ },
+ {
+  "task_id": "7009",
+  "occupation": "Gambling Change Persons and Booth Cashiers",
+  "task_text": "Accept credit applications and verify credit references to provide check-cashing authorization or to establish house credit accounts."
+ },
+ {
+  "task_id": "7010",
+  "occupation": "Couriers and Messengers",
+  "task_text": "Walk, ride bicycles, drive vehicles, or use public conveyances to reach destinations to deliver messages or materials."
+ },
+ {
+  "task_id": "7011",
+  "occupation": "Couriers and Messengers",
+  "task_text": "Load vehicles with listed goods, ensuring goods are loaded correctly and taking precautions with hazardous goods."
+ },
+ {
+  "task_id": "7012",
+  "occupation": "Couriers and Messengers",
+  "task_text": "Unload and sort items collected along delivery routes."
+ },
+ {
+  "task_id": "7013",
+  "occupation": "Couriers and Messengers",
+  "task_text": "Receive messages or materials to be delivered, and information on recipients, such as names, addresses, telephone numbers, and delivery instructions, communicated via telephone, two-way radio, or in p"
+ },
+ {
+  "task_id": "7014",
+  "occupation": "Couriers and Messengers",
+  "task_text": "Plan and follow the most efficient routes for delivering goods."
+ },
+ {
+  "task_id": "7015",
+  "occupation": "Couriers and Messengers",
+  "task_text": "Deliver messages and items, such as newspapers, documents, and packages, between establishment departments and to other establishments and private homes."
+ },
+ {
+  "task_id": "7016",
+  "occupation": "Couriers and Messengers",
+  "task_text": "Sort items to be delivered according to the delivery route."
+ },
+ {
+  "task_id": "7017",
+  "occupation": "Couriers and Messengers",
+  "task_text": "Obtain signatures and payments, or arrange for recipients to make payments."
+ },
+ {
+  "task_id": "7018",
+  "occupation": "Couriers and Messengers",
+  "task_text": "Record information, such as items received and delivered and recipients' responses to messages."
+ },
+ {
+  "task_id": "7019",
+  "occupation": "Couriers and Messengers",
+  "task_text": "Check with home offices after completed deliveries to confirm deliveries and collections and to receive instructions for other deliveries."
+ },
+ {
+  "task_id": "7020",
+  "occupation": "Couriers and Messengers",
+  "task_text": "Perform routine maintenance on delivery vehicles, such as monitoring fluid levels and replenishing fuel."
+ },
+ {
+  "task_id": "7021",
+  "occupation": "Couriers and Messengers",
+  "task_text": "Use telephone to deliver verbal messages."
+ },
+ {
+  "task_id": "7023",
+  "occupation": "Couriers and Messengers",
+  "task_text": "Perform general office or clerical work, such as filing materials, operating duplicating machines, or running errands."
+ },
+ {
+  "task_id": "7024",
+  "occupation": "Couriers and Messengers",
+  "task_text": "Collect, seal, and stamp outgoing mail, using postage meters and envelope sealers."
+ },
+ {
+  "task_id": "7246",
+  "occupation": "Insurance Appraisers, Auto Damage",
+  "task_text": "Estimate parts and labor to repair damage, using standard automotive labor and parts cost manuals and knowledge of automotive repair."
+ },
+ {
+  "task_id": "7247",
+  "occupation": "Insurance Appraisers, Auto Damage",
+  "task_text": "Review repair cost estimates with automobile repair shop to secure agreement on cost of repairs."
+ },
+ {
+  "task_id": "7248",
+  "occupation": "Insurance Appraisers, Auto Damage",
+  "task_text": "Examine damaged vehicle to determine extent of structural, body, mechanical, electrical, or interior damage."
+ },
+ {
+  "task_id": "7249",
+  "occupation": "Insurance Appraisers, Auto Damage",
+  "task_text": "Evaluate practicality of repair as opposed to payment of market value of vehicle before accident."
+ },
+ {
+  "task_id": "7250",
+  "occupation": "Insurance Appraisers, Auto Damage",
+  "task_text": "Determine salvage value on total-loss vehicle."
+ },
+ {
+  "task_id": "7251",
+  "occupation": "Insurance Appraisers, Auto Damage",
+  "task_text": "Prepare insurance forms to indicate repair cost estimates and recommendations."
+ },
+ {
+  "task_id": "7252",
+  "occupation": "Insurance Appraisers, Auto Damage",
+  "task_text": "Arrange to have damage appraised by another appraiser to resolve disagreement with shop on repair cost."
+ },
+ {
+  "task_id": "7276",
+  "occupation": "Management Analysts",
+  "task_text": "Gather and organize information on problems or procedures."
+ },
+ {
+  "task_id": "7277",
+  "occupation": "Management Analysts",
+  "task_text": "Analyze data gathered and develop solutions or alternative methods of proceeding."
+ },
+ {
+  "task_id": "7278",
+  "occupation": "Management Analysts",
+  "task_text": "Confer with personnel concerned to ensure successful functioning of newly implemented systems or procedures."
+ },
+ {
+  "task_id": "7279",
+  "occupation": "Management Analysts",
+  "task_text": "Develop and implement records management program for filing, protection, and retrieval of records, and assure compliance with program."
+ },
+ {
+  "task_id": "7280",
+  "occupation": "Management Analysts",
+  "task_text": "Review forms and reports and confer with management and users about format, distribution, and purpose, identifying problems and improvements."
+ },
+ {
+  "task_id": "7281",
+  "occupation": "Management Analysts",
+  "task_text": "Interview personnel and conduct on-site observation to ascertain unit functions, work performed, and methods, equipment, and personnel used."
+ },
+ {
+  "task_id": "7282",
+  "occupation": "Management Analysts",
+  "task_text": "Document findings of study and prepare recommendations for implementation of new systems, procedures, or organizational changes."
+ },
+ {
+  "task_id": "7283",
+  "occupation": "Management Analysts",
+  "task_text": "Prepare manuals and train workers in use of new forms, reports, procedures or equipment, according to organizational policy."
+ },
+ {
+  "task_id": "7284",
+  "occupation": "Management Analysts",
+  "task_text": "Design, evaluate, recommend, and approve changes of forms and reports."
+ },
+ {
+  "task_id": "7285",
+  "occupation": "Management Analysts",
+  "task_text": "Plan study of work problems and procedures, such as organizational change, communications, information flow, integrated production methods, inventory control, or cost analysis."
+ },
+ {
+  "task_id": "7286",
+  "occupation": "Management Analysts",
+  "task_text": "Recommend purchase of storage equipment and design area layout to locate equipment in space available."
+ },
+ {
+  "task_id": "7314",
+  "occupation": "Financial Examiners",
+  "task_text": "Investigate activities of institutions to enforce laws and regulations and to ensure legality of transactions and operations or financial solvency."
+ },
+ {
+  "task_id": "7315",
+  "occupation": "Financial Examiners",
+  "task_text": "Review and analyze new, proposed, or revised laws, regulations, policies, and procedures to interpret their meaning and determine their impact."
+ },
+ {
+  "task_id": "7316",
+  "occupation": "Financial Examiners",
+  "task_text": "Plan, supervise, and review work of assigned subordinates."
+ },
+ {
+  "task_id": "7317",
+  "occupation": "Financial Examiners",
+  "task_text": "Recommend actions to ensure compliance with laws and regulations, or to protect solvency of institutions."
+ },
+ {
+  "task_id": "7318",
+  "occupation": "Financial Examiners",
+  "task_text": "Examine the minutes of meetings of directors, stockholders, and committees to investigate the specific authority extended at various levels of management."
+ },
+ {
+  "task_id": "7319",
+  "occupation": "Financial Examiners",
+  "task_text": "Prepare reports, exhibits, and other supporting schedules that detail an institution's safety and soundness, compliance with laws and regulations, and recommended solutions to questionable financial c"
+ },
+ {
+  "task_id": "7320",
+  "occupation": "Financial Examiners",
+  "task_text": "Review balance sheets, operating income and expense accounts, and loan documentation to confirm institution assets and liabilities."
+ },
+ {
+  "task_id": "7321",
+  "occupation": "Financial Examiners",
+  "task_text": "Review audit reports of internal and external auditors to monitor adequacy of scope of reports or to discover specific weaknesses in internal routines."
+ },
+ {
+  "task_id": "7322",
+  "occupation": "Financial Examiners",
+  "task_text": "Train other examiners in the financial examination process."
+ },
+ {
+  "task_id": "7323",
+  "occupation": "Financial Examiners",
+  "task_text": "Establish guidelines for procedures and policies that comply with new and revised regulations and direct their implementation."
+ },
+ {
+  "task_id": "7324",
+  "occupation": "Financial Examiners",
+  "task_text": "Direct and participate in formal and informal meetings with bank directors, trustees, senior management, counsels, outside accountants, and consultants to gather information and discuss findings."
+ },
+ {
+  "task_id": "7325",
+  "occupation": "Financial Examiners",
+  "task_text": "Verify and inspect cash reserves, assigned collateral, and bank-owned securities to check internal control procedures."
+ },
+ {
+  "task_id": "7326",
+  "occupation": "Financial Examiners",
+  "task_text": "Review applications for mergers, acquisitions, establishment of new institutions, acceptance in Federal Reserve System, or registration of securities sales to determine their public interest value and"
+ },
+ {
+  "task_id": "7327",
+  "occupation": "Financial Examiners",
+  "task_text": "Resolve problems concerning the overall financial integrity of banking institutions including loan investment portfolios, capital, earnings, and specific or large troubled accounts."
+ },
+ {
+  "task_id": "7328",
+  "occupation": "Financial Examiners",
+  "task_text": "Evaluate data processing applications for institutions under examination to develop recommendations for coordinating existing systems with examination procedures."
+ },
+ {
+  "task_id": "7329",
+  "occupation": "Financial Examiners",
+  "task_text": "Confer with officials of real estate, securities, or financial institution industries to exchange views and discuss issues or pending cases."
+ },
+ {
+  "task_id": "7358",
+  "occupation": "Tax Preparers",
+  "task_text": "Compute taxes owed or overpaid, using adding machines or personal computers, and complete entries on forms, following tax form instructions and tax tables."
+ },
+ {
+  "task_id": "7359",
+  "occupation": "Tax Preparers",
+  "task_text": "Prepare or assist in preparing simple to complex tax returns for individuals or small businesses."
+ },
+ {
+  "task_id": "7360",
+  "occupation": "Tax Preparers",
+  "task_text": "Use all appropriate adjustments, deductions, and credits to keep clients' taxes to a minimum."
+ },
+ {
+  "task_id": "7361",
+  "occupation": "Tax Preparers",
+  "task_text": "Interview clients to obtain additional information on taxable income and deductible expenses and allowances."
+ },
+ {
+  "task_id": "7362",
+  "occupation": "Tax Preparers",
+  "task_text": "Review financial records, such as income statements and documentation of expenditures to determine forms needed to prepare tax returns."
+ },
+ {
+  "task_id": "7363",
+  "occupation": "Tax Preparers",
+  "task_text": "Furnish taxpayers with sufficient information and advice to ensure correct tax form completion."
+ },
+ {
+  "task_id": "7364",
+  "occupation": "Tax Preparers",
+  "task_text": "Consult tax law handbooks or bulletins to determine procedures for preparation of atypical returns."
+ },
+ {
+  "task_id": "7365",
+  "occupation": "Tax Preparers",
+  "task_text": "Calculate form preparation fees according to return complexity and processing time required."
+ }
+]

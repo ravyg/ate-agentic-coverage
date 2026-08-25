@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "9094",
+  "occupation": "Materials Scientists",
+  "task_text": "Research methods of processing, forming, and firing materials to develop such products as ceramic dental fillings, unbreakable dinner plates, and telescope lenses."
+ },
+ {
+  "task_id": "20213",
+  "occupation": "Materials Scientists",
+  "task_text": "Perform experiments and computer modeling to study the nature, structure, and physical and chemical properties of metals and their alloys, and their responses to applied forces."
+ },
+ {
+  "task_id": "9089",
+  "occupation": "Materials Scientists",
+  "task_text": "Devise testing methods to evaluate the effects of various conditions on particular materials."
+ },
+ {
+  "task_id": "9092",
+  "occupation": "Materials Scientists",
+  "task_text": "Test individual parts and products to ensure that manufacturer and governmental quality and safety standards are met."
+ },
+ {
+  "task_id": "9086",
+  "occupation": "Materials Scientists",
+  "task_text": "Confer with customers to determine how to tailor materials to their needs."
+ },
+ {
+  "task_id": "9093",
+  "occupation": "Materials Scientists",
+  "task_text": "Visit suppliers of materials or users of products to gather specific information."
+ },
+ {
+  "task_id": "21175",
+  "occupation": "Materials Scientists",
+  "task_text": "Write research papers for publication in scientific journals."
+ },
+ {
+  "task_id": "9099",
+  "occupation": "Materials Scientists",
+  "task_text": "Teach in colleges and universities."
+ },
+ {
+  "task_id": "15219",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Communicate scientific or technical information to the public, organizations, or internal audiences through oral briefings, written documents, workshops, conferences, training sessions, or public hearings."
+ },
+ {
+  "task_id": "1530",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Monitor effects of pollution or land degradation and recommend means of prevention or control."
+ },
+ {
+  "task_id": "15218",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Collect, synthesize, analyze, manage, and report environmental data, such as pollution emission measurements, atmospheric monitoring measurements, meteorological or mineralogical information, or soil or water samples."
+ },
+ {
+  "task_id": "1517",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Review and implement environmental technical standards, guidelines, policies, and formal regulations that meet all appropriate requirements."
+ },
+ {
+  "task_id": "15220",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Provide scientific or technical guidance, support, coordination, or oversight to governmental agencies, environmental programs, industry, or the public."
+ },
+ {
+  "task_id": "15221",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Process and review environmental permits, licenses, or related materials."
+ },
+ {
+  "task_id": "1514",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Conduct environmental audits or inspections or investigations of violations."
+ },
+ {
+  "task_id": "1519",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Provide advice on proper standards and regulations or the development of policies, strategies, or codes of practice for environmental management."
+ },
+ {
+  "task_id": "1523",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Prepare charts or graphs from data samples, providing summary information on the environmental relevance of the data."
+ },
+ {
+  "task_id": "1529",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Research sources of pollution to determine their effects on the environment and to develop theories or methods of pollution abatement or control."
+ },
+ {
+  "task_id": "15222",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Supervise or train students, environmental technologists, technicians, or other related staff."
+ },
+ {
+  "task_id": "1526",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Monitor environmental impacts of development activities."
+ },
+ {
+  "task_id": "1515",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Evaluate violations or problems discovered during inspections to determine appropriate regulatory actions or to provide advice on the development and prosecution of regulatory cases."
+ },
+ {
+  "task_id": "1520",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Analyze data to determine validity, quality, and scientific significance and to interpret correlations between human activities and environmental effects."
+ },
+ {
+  "task_id": "1525",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Investigate and report on accidents affecting the environment."
+ },
+ {
+  "task_id": "1524",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Develop the technical portions of legal documents, administrative orders, or consent decrees."
+ },
+ {
+  "task_id": "1531",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Design or direct studies to obtain technical environmental information about planned projects."
+ },
+ {
+  "task_id": "1522",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Determine data collection methods to be employed in research projects or surveys."
+ },
+ {
+  "task_id": "15223",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Conduct applied research on environmental topics, such as waste control or treatment or pollution abatement methods."
+ },
+ {
+  "task_id": "1528",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Develop programs designed to obtain the most productive, non-damaging use of land."
+ },
+ {
+  "task_id": "1534",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Plan or develop research models, using knowledge of mathematical and statistical concepts."
+ },
+ {
+  "task_id": "1533",
+  "occupation": "Environmental Scientists and Specialists, Including Health",
+  "task_text": "Develop methods to minimize the impact of production processes on the environment, based on the study and assessment of industrial production, environmental legislation, and physical, biological, and social environments."
+ },
+ {
+  "task_id": "16849",
+  "occupation": "Climate Change Policy Analysts",
+  "task_text": "Provide analytical support for policy briefs related to renewable energy, energy efficiency, or climate change."
+ },
+ {
+  "task_id": "16853",
+  "occupation": "Climate Change Policy Analysts",
+  "task_text": "Propose new or modified policies involving use of traditional and alternative fuels, transportation of goods, and other factors relating to climate and climate change."
+ },
+ {
+  "task_id": "16850",
+  "occupation": "Climate Change Policy Analysts",
+  "task_text": "Prepare study reports, memoranda, briefs, testimonies, or other written materials to inform government or environmental groups on environmental issues, such as climate change."
+ },
+ {
+  "task_id": "16854",
+  "occupation": "Climate Change Policy Analysts",
+  "task_text": "Analyze and distill climate-related research findings to inform legislators, regulatory agencies, or other stakeholders."
+ },
+ {
+  "task_id": "16851",
+  "occupation": "Climate Change Policy Analysts",
+  "task_text": "Make legislative recommendations related to climate change or environmental management, based on climate change policies, principles, programs, practices, and processes."
+ },
+ {
+  "task_id": "16843",
+  "occupation": "Climate Change Policy Analysts",
+  "task_text": "Present climate-related information at public interest, governmental, or other meetings."
+ },
+ {
+  "task_id": "16846",
+  "occupation": "Climate Change Policy Analysts",
+  "task_text": "Gather and review climate-related studies from government agencies, research laboratories, and other organizations."
+ },
+ {
+  "task_id": "16848",
+  "occupation": "Climate Change Policy Analysts",
+  "task_text": "Review existing policies or legislation to identify environmental impacts."
+ },
+ {
+  "task_id": "16842",
+  "occupation": "Climate Change Policy Analysts",
+  "task_text": "Promote initiatives to mitigate climate change with government or environmental groups."
+ },
+ {
+  "task_id": "16852",
+  "occupation": "Climate Change Policy Analysts",
+  "task_text": "Research policies, practices, or procedures for climate or environmental management."
+ },
+ {
+  "task_id": "16841",
+  "occupation": "Climate Change Policy Analysts",
+  "task_text": "Write reports or academic papers to communicate findings of climate-related studies."
+ },
+ {
+  "task_id": "16847",
+  "occupation": "Climate Change Policy Analysts",
+  "task_text": "Develop, or contribute to the development of, educational or outreach programs on the environment or climate change."
+ },
+ {
+  "task_id": "16844",
+  "occupation": "Climate Change Policy Analysts",
+  "task_text": "Present and defend proposals for climate change research projects."
+ },
+ {
+  "task_id": "16845",
+  "occupation": "Climate Change Policy Analysts",
+  "task_text": "Prepare grant applications to obtain funding for programs related to climate change, environmental management, or sustainability."
+ },
+ {
+  "task_id": "16856",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Develop environmental restoration project schedules and budgets."
+ },
+ {
+  "task_id": "16862",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Provide technical direction on environmental planning to energy engineers, biologists, geologists, or other professionals working to develop restoration plans or strategies."
+ },
+ {
+  "task_id": "16875",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Create habitat management or restoration plans, such as native tree restoration and weed control."
+ },
+ {
+  "task_id": "16876",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Conduct site assessments to certify a habitat or to ascertain environmental damage or restoration needs."
+ },
+ {
+  "task_id": "16872",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Collect and analyze data to determine environmental conditions and restoration needs."
+ },
+ {
+  "task_id": "16861",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Supervise and provide technical guidance, training, or assistance to employees working in the field to restore habitats."
+ },
+ {
+  "task_id": "16865",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Plan environmental restoration projects, using biological databases, environmental strategies, and planning software."
+ },
+ {
+  "task_id": "16871",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Communicate findings of environmental studies or proposals for environmental remediation to other restoration professionals."
+ },
+ {
+  "task_id": "16859",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Apply for permits required for the implementation of environmental remediation projects."
+ },
+ {
+  "task_id": "16864",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Inspect active remediation sites to ensure compliance with environmental or safety policies, standards, or regulations."
+ },
+ {
+  "task_id": "16873",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Develop natural resource management plans, using knowledge of environmental planning or state and federal environmental regulatory requirements."
+ },
+ {
+  "task_id": "16867",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Identify environmental mitigation alternatives, ensuring compliance with applicable standards, laws, or regulations."
+ },
+ {
+  "task_id": "16866",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Identify short- and long-term impacts of environmental remediation activities."
+ },
+ {
+  "task_id": "16855",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Notify regulatory or permitting agencies of deviations from implemented remediation plans."
+ },
+ {
+  "task_id": "23907",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Write grants to obtain funding for restoration projects."
+ },
+ {
+  "task_id": "16863",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Plan or supervise environmental studies to achieve compliance with environmental regulations in construction, modification, operation, acquisition, or divestiture of facilities such as power plants."
+ },
+ {
+  "task_id": "16860",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Review existing environmental remediation designs."
+ },
+ {
+  "task_id": "16857",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Develop and communicate recommendations for landowners to maintain or restore environmental conditions."
+ },
+ {
+  "task_id": "16869",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Conduct feasibility and cost-benefit studies for environmental remediation projects."
+ },
+ {
+  "task_id": "16870",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Conduct environmental impact studies to examine the ecological effects of pollutants, disease, human activities, nature, and climate change."
+ },
+ {
+  "task_id": "16868",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Create environmental models or simulations, using geographic information system (GIS) data and knowledge of particular ecosystems or ecological regions."
+ },
+ {
+  "task_id": "16858",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Create diagrams to communicate environmental remediation planning, using geographic information systems (GIS), computer-aided design (CAD), or other mapping or diagramming software."
+ },
+ {
+  "task_id": "16874",
+  "occupation": "Environmental Restoration Planners",
+  "task_text": "Develop environmental management or restoration plans for sites with power transmission lines, natural gas pipelines, fuel refineries, geothermal plants, wind farms, or solar farms."
+ },
+ {
+  "task_id": "19972",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Identify environmental impacts caused by products, systems, or projects."
+ },
+ {
+  "task_id": "16888",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Identify or develop strategies or methods to minimize the environmental impact of industrial production processes."
+ },
+ {
+  "task_id": "19965",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Analyze changes designed to improve the environmental performance of complex systems and avoid unintended negative consequences."
+ },
+ {
+  "task_id": "19968",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Conduct environmental sustainability assessments, using material flow analysis (MFA) or substance flow analysis (SFA) techniques."
+ },
+ {
+  "task_id": "19974",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Identify sustainable alternatives to industrial or waste-management practices."
+ },
+ {
+  "task_id": "19982",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Review research literature to maintain knowledge on topics related to industrial ecology, such as physical science, technology, economy, and public policy."
+ },
+ {
+  "task_id": "19980",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Redesign linear, or open-loop, systems into cyclical, or closed-loop, systems so that waste products become inputs for new processes, modeling natural ecosystems."
+ },
+ {
+  "task_id": "19978",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Prepare technical and research reports, such as environmental impact reports, and communicate the results to individuals in industry, government, or the general public."
+ },
+ {
+  "task_id": "19970",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Examine local, regional, or global use and flow of materials or energy in industrial production processes."
+ },
+ {
+  "task_id": "16886",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Monitor the environmental impact of development activities, pollution, or land degradation."
+ },
+ {
+  "task_id": "16894",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Build and maintain databases of information about energy alternatives, pollutants, natural environments, industrial processes, and other information related to ecological change."
+ },
+ {
+  "task_id": "19975",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Perform analyses to determine how human behavior can affect, and be affected by, changes in the environment."
+ },
+ {
+  "task_id": "19963",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Recommend methods to protect the environment or minimize environmental damage from industrial production practices."
+ },
+ {
+  "task_id": "19983",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Translate the theories of industrial ecology into eco-industrial practices."
+ },
+ {
+  "task_id": "19964",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Develop alternative energy investment scenarios to compare economic and environmental costs and benefits."
+ },
+ {
+  "task_id": "16893",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Carry out environmental assessments in accordance with applicable standards, regulations, or laws."
+ },
+ {
+  "task_id": "19971",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Examine societal issues and their relationship with both technical systems and the environment."
+ },
+ {
+  "task_id": "16885",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Plan or conduct field research on topics such as industrial production, industrial ecology, population ecology, and environmental production or sustainability."
+ },
+ {
+  "task_id": "16891",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Create complex and dynamic mathematical models of population, community, or ecological systems."
+ },
+ {
+  "task_id": "19969",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Evaluate the effectiveness of industrial ecology programs, using statistical analysis and applications."
+ },
+ {
+  "task_id": "16895",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Forecast future status or condition of ecosystems, based on changing industrial practices or environmental conditions."
+ },
+ {
+  "task_id": "16881",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Review industrial practices, such as the methods and materials used in construction or production, to identify potential liabilities and environmental hazards."
+ },
+ {
+  "task_id": "19966",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Apply new or existing research about natural ecosystems to understand economic and industrial systems in the context of the environment."
+ },
+ {
+  "task_id": "19977",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Prepare plans to manage renewable resources."
+ },
+ {
+  "task_id": "19973",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Identify or compare the component parts or relationships between the parts of industrial, social, and natural systems."
+ },
+ {
+  "task_id": "16884",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Plan or conduct studies of the ecological implications of historic or projected changes in industrial processes or development."
+ },
+ {
+  "task_id": "16882",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Research sources of pollution to determine environmental impact or to develop methods of pollution abatement or control."
+ },
+ {
+  "task_id": "19976",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Perform environmentally extended input-output (EE I-O) analyses."
+ },
+ {
+  "task_id": "19979",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Promote use of environmental management systems (EMS) to reduce waste or to improve environmentally sound use of natural resources."
+ },
+ {
+  "task_id": "16889",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Investigate the impact of changed land management or land use practices on ecosystems."
+ },
+ {
+  "task_id": "16890",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Develop or test protocols to monitor ecosystem components and ecological processes."
+ },
+ {
+  "task_id": "19981",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Research environmental effects of land and water use to determine methods of improving environmental conditions or increasing outputs, such as crop yields."
+ },
+ {
+  "task_id": "16883",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Provide industrial managers with technical materials on environmental issues, regulatory guidelines, or compliance actions."
+ },
+ {
+  "task_id": "16896",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Conduct applied research on the effects of industrial processes on the protection, restoration, inventory, monitoring, or reintroduction of species to the natural environment."
+ },
+ {
+  "task_id": "16892",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Conduct scientific protection, mitigation, or restoration projects to prevent resource damage, maintain the integrity of critical habitats, and minimize the impact of human activities."
+ },
+ {
+  "task_id": "16879",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Investigate accidents affecting the environment to assess ecological impact."
+ },
+ {
+  "task_id": "19967",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Conduct analyses to determine the maximum amount of work that can be accomplished for a given amount of energy in a system, such as industrial production systems and waste treatment systems."
+ },
+ {
+  "task_id": "16880",
+  "occupation": "Industrial Ecologists",
+  "task_text": "Investigate the adaptability of various animal and plant species to changed environmental conditions."
+ },
+ {
+  "task_id": "3703",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Plan or conduct geological, geochemical, or geophysical field studies or surveys, sample collection, or drilling and testing programs used to collect data for research or application."
+ },
+ {
+  "task_id": "15224",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Analyze and interpret geological data, using computer software."
+ },
+ {
+  "task_id": "3704",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Investigate the composition, structure, or history of the Earth's crust through the collection, examination, measurement, or classification of soils, minerals, rocks, or fossil remains."
+ },
+ {
+  "task_id": "3702",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Analyze and interpret geological, geochemical, or geophysical information from sources, such as survey data, well logs, bore holes, or aerial photos."
+ },
+ {
+  "task_id": "20391",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Identify risks for natural disasters, such as mudslides, earthquakes, or volcanic eruptions."
+ },
+ {
+  "task_id": "3705",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Prepare geological maps, cross-sectional diagrams, charts, or reports concerning mineral extraction, land use, or resource management, using results of fieldwork or laboratory research."
+ },
+ {
+  "task_id": "3712",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Communicate geological findings by writing research papers, participating in conferences, or teaching geological science at universities."
+ },
+ {
+  "task_id": "3706",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Locate and estimate probable natural gas, oil, or mineral ore deposits or underground water resources, using aerial photographs, charts, or research or survey results."
+ },
+ {
+  "task_id": "3711",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Advise construction firms or government agencies on dam or road construction, foundation design, land use, or resource management."
+ },
+ {
+  "task_id": "3713",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Measure characteristics of the Earth, such as gravity or magnetic fields, using equipment such as seismographs, gravimeters, torsion balances, or magnetometers."
+ },
+ {
+  "task_id": "20390",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Locate and review research articles or environmental, historical, or technical reports."
+ },
+ {
+  "task_id": "3709",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Conduct geological or geophysical studies to provide information for use in regional development, site selection, or development of public works projects."
+ },
+ {
+  "task_id": "21176",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Review environmental, historical, or technical reports and publications for accuracy."
+ },
+ {
+  "task_id": "3707",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Assess ground or surface water movement to provide advice on issues, such as waste management, route and site selection, or the restoration of contaminated sites."
+ },
+ {
+  "task_id": "20392",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Inspect construction projects to analyze engineering problems, using test equipment or drilling machinery."
+ },
+ {
+  "task_id": "19768",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Provide advice on the safe siting of new nuclear reactor projects or methods of nuclear waste management."
+ },
+ {
+  "task_id": "15226",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Design geological mine maps, monitor mine structural integrity, or advise and monitor mining crews."
+ },
+ {
+  "task_id": "19771",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Review work plans to determine the effectiveness of activities for mitigating soil or groundwater contamination."
+ },
+ {
+  "task_id": "3714",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Test industrial diamonds or abrasives, soil, or rocks to determine their geological characteristics, using optical, x-ray, heat, acid, or precision instruments."
+ },
+ {
+  "task_id": "19772",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Study historical climate change indicators found in locations, such as ice sheets or rock formations to develop climate change models."
+ },
+ {
+  "task_id": "19763",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Develop strategies for more environmentally friendly resource extraction and reclamation."
+ },
+ {
+  "task_id": "20393",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Identify deposits of construction materials suitable for use as concrete aggregates, road fill, or other applications."
+ },
+ {
+  "task_id": "19765",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Identify new sources of platinum group elements for industrial applications, such as automotive fuel cells or pollution abatement systems."
+ },
+ {
+  "task_id": "19767",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Locate potential sources of geothermal energy."
+ },
+ {
+  "task_id": "19770",
+  "occupation": "Geoscientists, Except Hydrologists and Geographers",
+  "task_text": "Research ways to reduce the ecological footprint of increasingly prevalent megacities."
+ }
+]

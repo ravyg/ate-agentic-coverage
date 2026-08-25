@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "9382",
+  "occupation": "Oral and Maxillofacial Surgeons",
+  "task_text": "Treat snoring problems, using laser surgery."
+ },
+ {
+  "task_id": "9383",
+  "occupation": "Orthotists and Prosthetists",
+  "task_text": "Examine, interview, and measure patients to determine their appliance needs and to identify factors that could affect appliance fit."
+ },
+ {
+  "task_id": "9384",
+  "occupation": "Orthotists and Prosthetists",
+  "task_text": "Fit, test, and evaluate devices on patients, and make adjustments for proper fit, function, and comfort."
+ },
+ {
+  "task_id": "9385",
+  "occupation": "Orthotists and Prosthetists",
+  "task_text": "Instruct patients in the use and care of orthoses and prostheses."
+ },
+ {
+  "task_id": "9386",
+  "occupation": "Orthotists and Prosthetists",
+  "task_text": "Design orthopedic and prosthetic devices, based on physicians' prescriptions and examination and measurement of patients."
+ },
+ {
+  "task_id": "9387",
+  "occupation": "Orthotists and Prosthetists",
+  "task_text": "Maintain patients' records."
+ },
+ {
+  "task_id": "9388",
+  "occupation": "Orthotists and Prosthetists",
+  "task_text": "Make and modify plaster casts of areas to be fitted with prostheses or orthoses to guide the device construction process."
+ },
+ {
+  "task_id": "9389",
+  "occupation": "Orthotists and Prosthetists",
+  "task_text": "Select materials and components to be used, based on device design."
+ },
+ {
+  "task_id": "9390",
+  "occupation": "Orthotists and Prosthetists",
+  "task_text": "Confer with physicians to formulate specifications and prescriptions for orthopedic or prosthetic devices."
+ },
+ {
+  "task_id": "9391",
+  "occupation": "Orthotists and Prosthetists",
+  "task_text": "Repair, rebuild, and modify prosthetic and orthopedic appliances."
+ },
+ {
+  "task_id": "9392",
+  "occupation": "Orthotists and Prosthetists",
+  "task_text": "Construct and fabricate appliances, or supervise others constructing the appliances."
+ },
+ {
+  "task_id": "9393",
+  "occupation": "Orthotists and Prosthetists",
+  "task_text": "Train and supervise support staff, such as orthopedic and prosthetic assistants and technicians."
+ },
+ {
+  "task_id": "9394",
+  "occupation": "Orthotists and Prosthetists",
+  "task_text": "Update skills and knowledge by attending conferences and seminars."
+ },
+ {
+  "task_id": "9395",
+  "occupation": "Orthotists and Prosthetists",
+  "task_text": "Show and explain orthopedic and prosthetic appliances to healthcare workers."
+ },
+ {
+  "task_id": "9396",
+  "occupation": "Orthotists and Prosthetists",
+  "task_text": "Research new ways to construct and use orthopedic and prosthetic devices."
+ },
+ {
+  "task_id": "9397",
+  "occupation": "Orthotists and Prosthetists",
+  "task_text": "Publish research findings or present them at conferences and seminars."
+ },
+ {
+  "task_id": "9398",
+  "occupation": "Occupational Therapy Aides",
+  "task_text": "Encourage patients and attend to their physical needs to facilitate the attainment of therapeutic goals."
+ },
+ {
+  "task_id": "9399",
+  "occupation": "Occupational Therapy Aides",
+  "task_text": "Report to supervisors or therapists, verbally or in writing, on patients' progress, attitudes, attendance, and accomplishments."
+ },
+ {
+  "task_id": "9400",
+  "occupation": "Occupational Therapy Aides",
+  "task_text": "Observe patients' attendance, progress, attitudes, and accomplishments and record and maintain information in client records."
+ },
+ {
+  "task_id": "9401",
+  "occupation": "Occupational Therapy Aides",
+  "task_text": "Manage intradepartmental infection control and equipment security."
+ },
+ {
+  "task_id": "9402",
+  "occupation": "Occupational Therapy Aides",
+  "task_text": "Evaluate the living skills and capacities of clients with physical, developmental, or mental health disabilities."
+ },
+ {
+  "task_id": "9403",
+  "occupation": "Occupational Therapy Aides",
+  "task_text": "Prepare and maintain work area, materials, and equipment and maintain inventory of treatment and educational supplies."
+ },
+ {
+  "task_id": "9404",
+  "occupation": "Occupational Therapy Aides",
+  "task_text": "Instruct patients and families in work, social, and living skills, the care and use of adaptive equipment, and other skills to facilitate home and work adjustment to disability."
+ },
+ {
+  "task_id": "9405",
+  "occupation": "Occupational Therapy Aides",
+  "task_text": "Supervise patients in choosing and completing work assignments or arts and crafts projects."
+ },
+ {
+  "task_id": "9406",
+  "occupation": "Occupational Therapy Aides",
+  "task_text": "Assist occupational therapists in planning, implementing, and administering therapy programs to restore, reinforce, and enhance performance, using selected activities and special equipment."
+ },
+ {
+  "task_id": "9407",
+  "occupation": "Occupational Therapy Aides",
+  "task_text": "Perform clerical, administrative, and secretarial duties, such as answering phones, restocking and ordering supplies, filling out paperwork, and scheduling appointments."
+ },
+ {
+  "task_id": "9408",
+  "occupation": "Occupational Therapy Aides",
+  "task_text": "Demonstrate therapy techniques, such as manual and creative arts and games."
+ },
+ {
+  "task_id": "9409",
+  "occupation": "Occupational Therapy Aides",
+  "task_text": "Transport patients to and from the occupational therapy work area."
+ },
+ {
+  "task_id": "9410",
+  "occupation": "Occupational Therapy Aides",
+  "task_text": "Adjust and repair assistive devices and make adaptive changes to other equipment and to environments."
+ },
+ {
+  "task_id": "9411",
+  "occupation": "Occupational Therapy Aides",
+  "task_text": "Assist educational specialists or clinical psychologists in administering situational or diagnostic tests to measure client's abilities or progress."
+ },
+ {
+  "task_id": "9412",
+  "occupation": "Occupational Therapy Aides",
+  "task_text": "Accompany patients on outings, providing transportation when necessary."
+ },
+ {
+  "task_id": "9413",
+  "occupation": "Medical Transcriptionists",
+  "task_text": "Transcribe dictation for a variety of medical reports, such as patient histories, physical examinations, emergency room visits, operations, chart reviews, consultation, or discharge summaries."
+ },
+ {
+  "task_id": "9414",
+  "occupation": "Medical Transcriptionists",
+  "task_text": "Review and edit transcribed reports or dictated material for spelling, grammar, clarity, consistency, and proper medical terminology."
+ },
+ {
+  "task_id": "9415",
+  "occupation": "Medical Transcriptionists",
+  "task_text": "Distinguish between homonyms and recognize inconsistencies and mistakes in medical terms, referring to dictionaries, drug references, and other sources on anatomy, physiology, and medicine."
+ },
+ {
+  "task_id": "9416",
+  "occupation": "Medical Transcriptionists",
+  "task_text": "Return dictated reports in printed or electronic form for physician's review, signature, and corrections and for inclusion in patients' medical records."
+ },
+ {
+  "task_id": "9417",
+  "occupation": "Medical Transcriptionists",
+  "task_text": "Translate medical jargon and abbreviations into their expanded forms to ensure the accuracy of patient and health care facility records."
+ },
+ {
+  "task_id": "9419",
+  "occupation": "Medical Transcriptionists",
+  "task_text": "Identify mistakes in reports and check with doctors to obtain the correct information."
+ },
+ {
+  "task_id": "9420",
+  "occupation": "Medical Transcriptionists",
+  "task_text": "Perform data entry and data retrieval services, providing data for inclusion in medical records and for transmission to physicians."
+ },
+ {
+  "task_id": "9421",
+  "occupation": "Medical Transcriptionists",
+  "task_text": "Produce medical reports, correspondence, records, patient-care information, statistics, medical research, and administrative material."
+ },
+ {
+  "task_id": "9422",
+  "occupation": "Medical Transcriptionists",
+  "task_text": "Answer inquiries concerning the progress of medical cases, within the limits of confidentiality laws."
+ },
+ {
+  "task_id": "9423",
+  "occupation": "Medical Transcriptionists",
+  "task_text": "Set up and maintain medical files and databases, including records such as x-ray, lab, and procedure reports, medical histories, diagnostic workups, admission and discharge summaries, and clinical res"
+ },
+ {
+  "task_id": "9424",
+  "occupation": "Medical Transcriptionists",
+  "task_text": "Perform a variety of clerical and office tasks, such as handling incoming and outgoing mail, completing and submitting insurance claims, typing, filing, or operating office machines."
+ },
+ {
+  "task_id": "9425",
+  "occupation": "Medical Transcriptionists",
+  "task_text": "Decide which information should be included or excluded in reports."
+ },
+ {
+  "task_id": "9426",
+  "occupation": "Medical Transcriptionists",
+  "task_text": "Receive patients, schedule appointments, and maintain patient records."
+ },
+ {
+  "task_id": "9427",
+  "occupation": "Medical Transcriptionists",
+  "task_text": "Receive and screen telephone calls and visitors."
+ },
+ {
+  "task_id": "9660",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Listen to and resolve customer complaints regarding services, products, or personnel."
+ },
+ {
+  "task_id": "9661",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Monitor sales staff performance to ensure that goals are met."
+ },
+ {
+  "task_id": "9662",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Hire, train, and evaluate personnel."
+ },
+ {
+  "task_id": "9663",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Confer with company officials to develop methods and procedures to increase sales, expand markets, and promote business."
+ },
+ {
+  "task_id": "9665",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Provide staff with assistance in performing difficult or complicated duties."
+ },
+ {
+  "task_id": "9666",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Plan and prepare work schedules, and assign employees to specific duties."
+ },
+ {
+  "task_id": "9667",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Attend company meetings to exchange product information and coordinate work activities with other departments."
+ },
+ {
+  "task_id": "9668",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Prepare sales and inventory reports for management and budget departments."
+ },
+ {
+  "task_id": "9669",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Formulate pricing policies on merchandise according to profitability requirements."
+ },
+ {
+  "task_id": "9670",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Examine merchandise to ensure correct pricing and display, and that it functions as advertised."
+ },
+ {
+  "task_id": "9671",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Analyze details of sales territories to assess their growth potential and to set quotas."
+ },
+ {
+  "task_id": "9672",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Visit retailers and sales representatives to promote products and gather information."
+ },
+ {
+  "task_id": "9673",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Keep records pertaining to purchases, sales, and requisitions."
+ },
+ {
+  "task_id": "9674",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Coordinate sales promotion activities, such as preparing merchandise displays and advertising copy."
+ },
+ {
+  "task_id": "9675",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Prepare rental or lease agreements, specifying charges and payment procedures for use of machinery, tools, or other items."
+ },
+ {
+  "task_id": "9676",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Inventory stock and reorder when inventories drop to specified levels."
+ },
+ {
+  "task_id": "9677",
+  "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+  "task_text": "Examine products purchased for resale or received for storage to determine product condition."
+ },
+ {
+  "task_id": "9678",
+  "occupation": "Sales Engineers",
+  "task_text": "Plan and modify product configurations to meet customer needs."
+ },
+ {
+  "task_id": "9679",
+  "occupation": "Sales Engineers",
+  "task_text": "Confer with customers and engineers to assess equipment needs and to determine system requirements."
+ },
+ {
+  "task_id": "9680",
+  "occupation": "Sales Engineers",
+  "task_text": "Collaborate with sales teams to understand customer requirements, to promote the sale of company products, and to provide sales support."
+ },
+ {
+  "task_id": "9681",
+  "occupation": "Sales Engineers",
+  "task_text": "Secure and renew orders and arrange delivery."
+ },
+ {
+  "task_id": "9682",
+  "occupation": "Sales Engineers",
+  "task_text": "Develop, present, or respond to proposals for specific customer requirements, including request for proposal responses and industry-specific solutions."
+ },
+ {
+  "task_id": "9683",
+  "occupation": "Sales Engineers",
+  "task_text": "Sell products requiring extensive technical expertise and support for installation and use, such as material handling equipment, numerical-control machinery, or computer systems."
+ },
+ {
+  "task_id": "9684",
+  "occupation": "Sales Engineers",
+  "task_text": "Diagnose problems with installed equipment."
+ },
+ {
+  "task_id": "9685",
+  "occupation": "Sales Engineers",
+  "task_text": "Recommend improved materials or machinery to customers, documenting how such changes will lower costs or increase production."
+ },
+ {
+  "task_id": "9686",
+  "occupation": "Sales Engineers",
+  "task_text": "Prepare and deliver technical presentations that explain products or services to customers and prospective customers."
+ },
+ {
+  "task_id": "9687",
+  "occupation": "Sales Engineers",
+  "task_text": "Provide technical and non-technical support and services to clients or other staff members regarding the use, operation, and maintenance of equipment."
+ },
+ {
+  "task_id": "9688",
+  "occupation": "Sales Engineers",
+  "task_text": "Research and identify potential customers for products or services."
+ },
+ {
+  "task_id": "9689",
+  "occupation": "Sales Engineers",
+  "task_text": "Visit prospective buyers at commercial, industrial, or other establishments to show samples or catalogs, and to inform them about product pricing, availability, and advantages."
+ },
+ {
+  "task_id": "9690",
+  "occupation": "Sales Engineers",
+  "task_text": "Create sales or service contracts for products or services."
+ },
+ {
+  "task_id": "9691",
+  "occupation": "Sales Engineers",
+  "task_text": "Arrange for demonstrations or trial installations of equipment."
+ },
+ {
+  "task_id": "9692",
+  "occupation": "Sales Engineers",
+  "task_text": "Keep informed on industry news and trends, products, services, competitors, relevant information about legacy, existing, and emerging technologies, and the latest product-line developments."
+ },
+ {
+  "task_id": "9693",
+  "occupation": "Sales Engineers",
+  "task_text": "Attend company training seminars to become familiar with product lines."
+ },
+ {
+  "task_id": "9694",
+  "occupation": "Sales Engineers",
+  "task_text": "Provide information needed for the development of custom-made machinery."
+ },
+ {
+  "task_id": "9695",
+  "occupation": "Sales Engineers",
+  "task_text": "Write technical documentation for products."
+ },
+ {
+  "task_id": "9696",
+  "occupation": "Sales Engineers",
+  "task_text": "Develop sales plans to introduce products in new markets."
+ },
+ {
+  "task_id": "9697",
+  "occupation": "Sales Engineers",
+  "task_text": "Identify resale opportunities and support them to achieve sales plans."
+ },
+ {
+  "task_id": "9698",
+  "occupation": "Sales Engineers",
+  "task_text": "Document account activities, generate reports, and keep records of business transactions with customers and suppliers."
+ },
+ {
+  "task_id": "9699",
+  "occupation": "Sales Engineers",
+  "task_text": "Train team members in the customer applications of technologies."
+ },
+ {
+  "task_id": "9700",
+  "occupation": "Sales Engineers",
+  "task_text": "Maintain sales forecasting reports."
+ },
+ {
+  "task_id": "9701",
+  "occupation": "Sales Engineers",
+  "task_text": "Attend trade shows and seminars to promote products or to learn about industry developments."
+ },
+ {
+  "task_id": "9702",
+  "occupation": "Sales Engineers",
+  "task_text": "Report to supervisors about prospective firms' credit ratings."
+ },
+ {
+  "task_id": "9703",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Resolve customer complaints or answer customers' questions regarding policies and procedures."
+ },
+ {
+  "task_id": "9704",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Supervise the work of office, administrative, or customer service employees to ensure adherence to quality standards, deadlines, and proper procedures, correcting errors or problems."
+ },
+ {
+  "task_id": "9705",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Provide employees with guidance in handling difficult or complex problems or in resolving escalated complaints or disputes."
+ },
+ {
+  "task_id": "9706",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Implement corporate or departmental policies, procedures, and service standards in conjunction with management."
+ },
+ {
+  "task_id": "9707",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Discuss job performance problems with employees to identify causes and issues and to work on resolving problems."
+ },
+ {
+  "task_id": "9708",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Train or instruct employees in job duties or company policies or arrange for training to be provided."
+ },
+ {
+  "task_id": "9709",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Evaluate employees' job performance and conformance to regulations and recommend appropriate personnel action."
+ },
+ {
+  "task_id": "9710",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Review records or reports pertaining to activities such as production, payroll, or shipping to verify details, monitor work activities, or evaluate performance."
+ },
+ {
+  "task_id": "9711",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Recruit, interview, and select employees."
+ },
+ {
+  "task_id": "9712",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Interpret and communicate work procedures and company policies to staff."
+ },
+ {
+  "task_id": "9713",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Prepare and issue work schedules, deadlines, and duty assignments for office or administrative staff."
+ },
+ {
+  "task_id": "9714",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Maintain records pertaining to inventory, personnel, orders, supplies, or machine maintenance."
+ },
+ {
+  "task_id": "9715",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Compute figures such as balances, totals, or commissions."
+ },
+ {
+  "task_id": "9716",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Research, compile, and prepare reports, manuals, correspondence, or other information required by management or governmental agencies."
+ },
+ {
+  "task_id": "9717",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Coordinate activities with other supervisory personnel or with other work units or departments."
+ },
+ {
+  "task_id": "9718",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Analyze financial activities of establishments or departments and provide input into budget planning and preparation processes."
+ },
+ {
+  "task_id": "9719",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Develop or update procedures, policies, or standards."
+ },
+ {
+  "task_id": "9720",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Make recommendations to management concerning such issues as staffing decisions or procedural changes."
+ },
+ {
+  "task_id": "9721",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Consult with managers or other personnel to resolve problems in areas such as equipment performance, output quality, or work schedules."
+ },
+ {
+  "task_id": "9722",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Participate in the work of subordinates to facilitate productivity or to overcome difficult aspects of work."
+ },
+ {
+  "task_id": "9723",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Design, implement, or evaluate staff training and development programs, customer service initiatives, or performance measurement criteria."
+ },
+ {
+  "task_id": "9724",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Develop work schedules according to budgets and workloads."
+ },
+ {
+  "task_id": "9725",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Monitor inventory levels and requisition or purchase supplies as needed."
+ },
+ {
+  "task_id": "9727",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Plan for or coordinate office services, such as equipment or supply acquisition or organization, disposal of assets, relocation, parking, maintenance, or security services."
+ },
+ {
+  "task_id": "9728",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Arrange for necessary maintenance or repair work."
+ },
+ {
+  "task_id": "9729",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Keep informed of provisions of labor-management agreements and their effects on departmental operations."
+ },
+ {
+  "task_id": "9730",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Coordinate or perform activities associated with shipping, receiving, distribution, or transportation."
+ },
+ {
+  "task_id": "9731",
+  "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+  "task_text": "Plan layouts of stockrooms, warehouses, or other storage areas, considering turnover, size, weight, or related factors pertaining to items stored."
+ },
+ {
+  "task_id": "9732",
+  "occupation": "Eligibility Interviewers, Government Programs",
+  "task_text": "Answer applicants' questions about benefits and claim procedures."
+ },
+ {
+  "task_id": "9733",
+  "occupation": "Eligibility Interviewers, Government Programs",
+  "task_text": "Interview benefits recipients at specified intervals to certify their eligibility for continuing benefits."
+ },
+ {
+  "task_id": "9734",
+  "occupation": "Eligibility Interviewers, Government Programs",
+  "task_text": "Interpret and explain information such as eligibility requirements, application details, payment methods, and applicants' legal rights."
+ },
+ {
+  "task_id": "9735",
+  "occupation": "Eligibility Interviewers, Government Programs",
+  "task_text": "Initiate procedures to grant, modify, deny, or terminate assistance, or refer applicants to other agencies for assistance."
+ },
+ {
+  "task_id": "9736",
+  "occupation": "Eligibility Interviewers, Government Programs",
+  "task_text": "Compile, record, and evaluate personal and financial data to verify completeness and accuracy, and to determine eligibility status."
+ },
+ {
+  "task_id": "9737",
+  "occupation": "Eligibility Interviewers, Government Programs",
+  "task_text": "Interview and investigate applicants for public assistance to gather information pertinent to their applications."
+ },
+ {
+  "task_id": "9738",
+  "occupation": "Eligibility Interviewers, Government Programs",
+  "task_text": "Check with employers or other references to verify answers and obtain further information."
+ },
+ {
+  "task_id": "9739",
+  "occupation": "Eligibility Interviewers, Government Programs",
+  "task_text": "Keep records of assigned cases, and prepare required reports."
+ },
+ {
+  "task_id": "9740",
+  "occupation": "Eligibility Interviewers, Government Programs",
+  "task_text": "Schedule benefits claimants for adjudication interviews to address questions of eligibility."
+ },
+ {
+  "task_id": "9741",
+  "occupation": "Eligibility Interviewers, Government Programs",
+  "task_text": "Prepare applications and forms for applicants for such purposes as school enrollment, employment, and medical services."
+ },
+ {
+  "task_id": "9742",
+  "occupation": "Eligibility Interviewers, Government Programs",
+  "task_text": "Refer applicants to job openings or to interviews with other staff, in accordance with administrative guidelines or office procedures."
+ },
+ {
+  "task_id": "9743",
+  "occupation": "Eligibility Interviewers, Government Programs",
+  "task_text": "Provide social workers with pertinent information gathered during applicant interviews."
+ },
+ {
+  "task_id": "9744",
+  "occupation": "Eligibility Interviewers, Government Programs",
+  "task_text": "Compute and authorize amounts of assistance for programs, such as grants, monetary payments, and food stamps."
+ },
+ {
+  "task_id": "9745",
+  "occupation": "Eligibility Interviewers, Government Programs",
+  "task_text": "Monitor the payments of benefits throughout the duration of a claim."
+ },
+ {
+  "task_id": "9746",
+  "occupation": "Eligibility Interviewers, Government Programs",
+  "task_text": "Provide applicants with assistance in completing application forms, such as those for job referrals or unemployment compensation claims."
+ }
+]

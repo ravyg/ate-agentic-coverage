@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "12158",
+  "occupation": "Sewing Machine Operators",
+  "task_text": "Mount attachments, such as needles, cutting blades, or pattern plates, and adjust machine guides according to specifications."
+ },
+ {
+  "task_id": "12165",
+  "occupation": "Sewing Machine Operators",
+  "task_text": "Cut materials according to specifications, using blades, scissors, or electric knives."
+ },
+ {
+  "task_id": "12156",
+  "occupation": "Sewing Machine Operators",
+  "task_text": "Inspect garments, and examine repair tags and markings on garments to locate defects or damage, and mark errors as necessary."
+ },
+ {
+  "task_id": "12171",
+  "occupation": "Sewing Machine Operators",
+  "task_text": "Attach buttons, hooks, zippers, fasteners, or other accessories to fabric, using feeding hoppers or clamp holders."
+ },
+ {
+  "task_id": "12168",
+  "occupation": "Sewing Machine Operators",
+  "task_text": "Position material or articles in clamps, templates, or hoop frames prior to automatic operation of machines."
+ },
+ {
+  "task_id": "12174",
+  "occupation": "Sewing Machine Operators",
+  "task_text": "Draw markings or pin appliques on fabric to obtain variations in design."
+ },
+ {
+  "task_id": "12173",
+  "occupation": "Sewing Machine Operators",
+  "task_text": "Tape or twist together thread or cord to repair breaks."
+ },
+ {
+  "task_id": "12172",
+  "occupation": "Sewing Machine Operators",
+  "task_text": "Baste edges of material to align and temporarily secure parts for final assembly."
+ },
+ {
+  "task_id": "12167",
+  "occupation": "Sewing Machine Operators",
+  "task_text": "Position and mark patterns on materials to prepare for sewing."
+ },
+ {
+  "task_id": "12170",
+  "occupation": "Sewing Machine Operators",
+  "task_text": "Perform specialized or automatic sewing machine functions, such as buttonhole making or tacking."
+ },
+ {
+  "task_id": "14065",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Dye, soak, polish, paint, stamp, stitch, stain, buff, or engrave leather or other materials to obtain desired effects, decorations, or shapes."
+ },
+ {
+  "task_id": "14062",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Cut out parts, following patterns or outlines, using knives, shears, scissors, or machine presses."
+ },
+ {
+  "task_id": "14063",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Construct, decorate, or repair leather products according to specifications, using sewing machines, needles and thread, leather lacing, glue, clamps, hand tools, or rivets."
+ },
+ {
+  "task_id": "14074",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Repair and recondition leather products such as trunks, luggage, shoes, saddles, belts, purses, and baseball gloves."
+ },
+ {
+  "task_id": "14064",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Align and stitch or glue materials such as fabric, fleece, leather, or wood, to join parts."
+ },
+ {
+  "task_id": "14079",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Inspect articles for defects, and remove damaged or worn parts, using hand tools."
+ },
+ {
+  "task_id": "14080",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Drill or punch holes and insert or attach metal rings, handles, and fastening hardware, such as buckles."
+ },
+ {
+  "task_id": "14087",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Prepare inserts, heel pads, and lifts from casts of customers' feet."
+ },
+ {
+  "task_id": "14067",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Dress and otherwise finish boots or shoes, as by trimming the edges of new soles and heels to the shoe shape."
+ },
+ {
+  "task_id": "14069",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Attach insoles to shoe lasts, affix shoe uppers, and apply heels and outsoles."
+ },
+ {
+  "task_id": "14076",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Clean and polish shoes."
+ },
+ {
+  "task_id": "14070",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Cement, nail, or sew soles and heels to shoes."
+ },
+ {
+  "task_id": "14077",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Check the texture, color, and strength of leather to ensure that it is adequate for a particular purpose."
+ },
+ {
+  "task_id": "14071",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Shape shoe heels with a knife, and sand them on a buffing wheel for smoothness."
+ },
+ {
+  "task_id": "14075",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Place shoes on lasts to remove soles and heels, using knives or pliers."
+ },
+ {
+  "task_id": "14072",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Repair or replace soles, heels, and other parts of footwear, using sewing, buffing and other shoe repair machines, materials, and equipment."
+ },
+ {
+  "task_id": "14082",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Cut, insert, position, and secure paddings, cushioning, or linings, using stitches or glue."
+ },
+ {
+  "task_id": "14068",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Estimate the costs of requested products or services such as custom footwear or footwear repair, and receive payment from customers."
+ },
+ {
+  "task_id": "14083",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Draw patterns, using measurements, designs, plaster casts, or customer specifications, and position or outline patterns on work pieces."
+ },
+ {
+  "task_id": "14086",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Nail heel and toe cleats onto shoes."
+ },
+ {
+  "task_id": "14088",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Re-sew seams, and replace handles and linings of suitcases or handbags."
+ },
+ {
+  "task_id": "14085",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Stretch shoes, dampening parts and inserting and twisting parts, using an adjustable stretcher."
+ },
+ {
+  "task_id": "14078",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Read prescriptions or specifications, and take measurements to establish the type of product to be made, using calipers, tape measures, or rules."
+ },
+ {
+  "task_id": "14081",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Attach accessories or ornamentation to decorate or protect products."
+ },
+ {
+  "task_id": "14073",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Make, modify, and repair orthopedic or therapeutic footwear according to doctors' prescriptions, or modify existing footwear for people with foot problems and special needs."
+ },
+ {
+  "task_id": "14066",
+  "occupation": "Shoe and Leather Workers and Repairers",
+  "task_text": "Select materials and patterns, and trace patterns onto materials to be cut out."
+ },
+ {
+  "task_id": "24000",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Inspect finished products to ensure that shoes have been completed according to specifications."
+ },
+ {
+  "task_id": "14094",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Align parts to be stitched, following seams, edges, or markings, before positioning them under needles."
+ },
+ {
+  "task_id": "14100",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Operate or tend machines to join, decorate, reinforce, or finish shoes and shoe parts."
+ },
+ {
+  "task_id": "14090",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Remove and examine shoes, shoe parts, and designs to verify conformance to specifications such as proper embedding of stitches in channels."
+ },
+ {
+  "task_id": "14096",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Switch on machines, lower pressure feet or rollers to secure parts, and start machine stitching, using hand, foot, or knee controls."
+ },
+ {
+  "task_id": "14101",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Draw thread through machine guide slots, needles, and presser feet in preparation for stitching, or load rolls of wire through machine axles."
+ },
+ {
+  "task_id": "14089",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Study work orders or shoe part tags to obtain information about workloads, specifications, and the types of materials to be used."
+ },
+ {
+  "task_id": "14091",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Perform routine equipment maintenance such as cleaning and lubricating machines or replacing broken needles."
+ },
+ {
+  "task_id": "14099",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Test machinery to ensure proper functioning before beginning production."
+ },
+ {
+  "task_id": "14105",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Select and place spools of thread or pre-wound bobbins into shuttles, or onto spindles or loupers of stitching machines."
+ },
+ {
+  "task_id": "14092",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Cut excess thread or material from shoe parts, using scissors or knives."
+ },
+ {
+  "task_id": "14107",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Turn knobs to adjust stitch length and thread tension."
+ },
+ {
+  "task_id": "14102",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Fill shuttle spools with thread from a machine's bobbin winder by pressing a foot treadle."
+ },
+ {
+  "task_id": "14104",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Staple sides of shoes, pressing a foot treadle to position and hold each shoe under the feeder of the machine."
+ },
+ {
+  "task_id": "14098",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Position dies on material in a manner that will obtain the maximum number of parts from each portion of material."
+ },
+ {
+  "task_id": "14097",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Collect shoe parts from conveyer belts or racks and place them in machinery such as ovens or on molds for dressing, returning them to conveyers or racks to send them to the next work station."
+ },
+ {
+  "task_id": "14095",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Turn setscrews on needle bars, and position required numbers of needles in stitching machines."
+ },
+ {
+  "task_id": "14093",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Turn screws to regulate size of staples."
+ },
+ {
+  "task_id": "14106",
+  "occupation": "Shoe Machine Operators and Tenders",
+  "task_text": "Hammer loose staples for proper attachment."
+ },
+ {
+  "task_id": "14110",
+  "occupation": "Sewers, Hand",
+  "task_text": "Select thread, twine, cord, or yarn to be used, and thread needles."
+ },
+ {
+  "task_id": "14114",
+  "occupation": "Sewers, Hand",
+  "task_text": "Measure and align parts, fasteners, or trimmings, following seams, edges, or markings on parts."
+ },
+ {
+  "task_id": "14109",
+  "occupation": "Sewers, Hand",
+  "task_text": "Trim excess threads or edges of parts, using scissors or knives."
+ },
+ {
+  "task_id": "14108",
+  "occupation": "Sewers, Hand",
+  "task_text": "Sew, join, reinforce, or finish parts of articles, such as garments, books, mattresses, toys, and wigs, using needles and thread or other materials."
+ },
+ {
+  "task_id": "14115",
+  "occupation": "Sewers, Hand",
+  "task_text": "Use different sewing techniques such as felling, tacking, basting, embroidery, and fagoting."
+ },
+ {
+  "task_id": "24001",
+  "occupation": "Sewers, Hand",
+  "task_text": "Fit garments on clients, altering as needed."
+ },
+ {
+  "task_id": "14113",
+  "occupation": "Sewers, Hand",
+  "task_text": "Smooth seams with heated irons, flat bones, or rubbing sticks."
+ },
+ {
+  "task_id": "14111",
+  "occupation": "Sewers, Hand",
+  "task_text": "Draw and cut patterns according to specifications."
+ },
+ {
+  "task_id": "14112",
+  "occupation": "Sewers, Hand",
+  "task_text": "Fold, twist, stretch, or drape material, and secure articles in preparation for sewing."
+ },
+ {
+  "task_id": "14116",
+  "occupation": "Sewers, Hand",
+  "task_text": "Sew buttonholes, or add lace or other trimming."
+ },
+ {
+  "task_id": "14118",
+  "occupation": "Sewers, Hand",
+  "task_text": "Tie, knit, weave or knot ribbon, yarn, or decorative materials."
+ },
+ {
+  "task_id": "12177",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Measure parts, such as sleeves or pant legs, and mark or pin-fold alteration lines."
+ },
+ {
+  "task_id": "12181",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Remove stitches from garments to be altered, using rippers or razor blades."
+ },
+ {
+  "task_id": "12176",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Sew garments, using needles and thread or sewing machines."
+ },
+ {
+  "task_id": "12179",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Let out or take in seams in suits and other garments to improve fit."
+ },
+ {
+  "task_id": "12190",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Measure customers, using tape measures, and record measurements."
+ },
+ {
+  "task_id": "12175",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Fit and study garments on customers to determine required alterations."
+ },
+ {
+  "task_id": "12187",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Trim excess material, using scissors."
+ },
+ {
+  "task_id": "12180",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Assemble garment parts and join parts with basting stitches, using needles and thread or sewing machines."
+ },
+ {
+  "task_id": "12189",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Make garment style changes, such as tapering pant legs, narrowing lapels, and adding or removing padding."
+ },
+ {
+  "task_id": "12185",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Maintain garment drape and proportions as alterations are performed."
+ },
+ {
+  "task_id": "12178",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Take up or let down hems to shorten or lengthen garment parts, such as sleeves."
+ },
+ {
+  "task_id": "12192",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Repair or replace defective garment parts, such as pockets, zippers, snaps, buttons, and linings."
+ },
+ {
+  "task_id": "12186",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Press garments, using hand irons or pressing machines."
+ },
+ {
+  "task_id": "12184",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Fit, alter, repair, and make made-to-measure clothing, according to customers' and clothing manufacturers' specifications and fit, and applying principles of garment design, construction, and styling."
+ },
+ {
+  "task_id": "12191",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Estimate how much a garment will cost to make, based on factors such as time and material requirements."
+ },
+ {
+  "task_id": "12194",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Position patterns of garment parts on fabric, and cut fabric along outlines, using scissors."
+ },
+ {
+  "task_id": "12182",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Record required alterations and instructions on tags, and attach them to garments."
+ },
+ {
+  "task_id": "12193",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Confer with customers to determine types of material and garment styles desired."
+ },
+ {
+  "task_id": "12183",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Examine tags on garments to determine alterations that are needed."
+ },
+ {
+  "task_id": "12188",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Develop, copy, or adapt designs for garments, and design patterns to fit measurements, applying knowledge of garment design, construction, styling, and fabric."
+ },
+ {
+  "task_id": "12196",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Put in padding and shaping materials."
+ },
+ {
+  "task_id": "12195",
+  "occupation": "Tailors, Dressmakers, and Custom Sewers",
+  "task_text": "Sew buttonholes and attach buttons to finish garments."
+ },
+ {
+  "task_id": "23982",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Weigh ingredients, such as dye, to be mixed together for use in textile processing."
+ },
+ {
+  "task_id": "14127",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Start and control machines and equipment to wash, bleach, dye, or otherwise process and finish fabric, yarn, thread, or other textile goods."
+ },
+ {
+  "task_id": "14124",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Observe display screens, control panels, equipment, and cloth entering or exiting processes to determine if equipment is operating correctly."
+ },
+ {
+  "task_id": "14122",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Notify supervisors or mechanics of equipment malfunctions."
+ },
+ {
+  "task_id": "14126",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Monitor factors such as temperatures and dye flow rates to ensure that they are within specified ranges."
+ },
+ {
+  "task_id": "14121",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Add dyes, water, detergents, or chemicals to tanks to dilute or strengthen solutions, according to established formulas and solution test results."
+ },
+ {
+  "task_id": "14128",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Examine and feel products to identify defects and variations from coloring and other processing standards."
+ },
+ {
+  "task_id": "14123",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Adjust equipment controls to maintain specified heat, tension, and speed."
+ },
+ {
+  "task_id": "14138",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Soak specified textile products for designated times."
+ },
+ {
+  "task_id": "14134",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Inspect machinery to determine necessary adjustments and repairs."
+ },
+ {
+  "task_id": "14133",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Confer with coworkers to get information about order details, processing plans, or problems that occur."
+ },
+ {
+  "task_id": "14136",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Sew ends of cloth together, by hand or using machines, to form endless lengths of cloth to facilitate processing."
+ },
+ {
+  "task_id": "14142",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Ravel seams that connect cloth ends when processing is completed."
+ },
+ {
+  "task_id": "14131",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Remove dyed articles from tanks and machines for drying and further processing."
+ },
+ {
+  "task_id": "14132",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Study guides, charts, and specification sheets, and confer with supervisors to determine machine setup requirements."
+ },
+ {
+  "task_id": "14125",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Prepare dyeing machines for production runs, and conduct test runs of machines to ensure their proper operation."
+ },
+ {
+  "task_id": "14137",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Key in processing instructions to program electronic equipment."
+ },
+ {
+  "task_id": "14130",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Test solutions used to process textile goods to detect variations from standards."
+ },
+ {
+  "task_id": "14129",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Record production information such as fabric yardage processed, temperature readings, fabric tensions, and machine speeds."
+ },
+ {
+  "task_id": "14139",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Thread ends of cloth or twine through specified sections of equipment prior to processing."
+ },
+ {
+  "task_id": "14140",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Mount rolls of cloth on machines, using hoists, or place textile goods in machines or pieces of equipment."
+ },
+ {
+  "task_id": "14143",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Install, level, and align components such as gears, chains, dies, cutters, and needles."
+ },
+ {
+  "task_id": "14141",
+  "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+  "task_text": "Perform machine maintenance, such as cleaning and oiling equipment, and repair or replace worn or defective parts."
+ },
+ {
+  "task_id": "21156",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Inspect products to ensure that the quality standards and specifications are met."
+ },
+ {
+  "task_id": "14145",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Place patterns on top of layers of fabric and cut fabric following patterns, using electric or manual knives, cutters, or computer numerically controlled cutting devices."
+ },
+ {
+  "task_id": "14153",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Start machines, monitor operations, and make adjustments as needed."
+ },
+ {
+  "task_id": "14150",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Adjust machine controls, such as heating mechanisms, tensions, or speeds, to produce specified products."
+ },
+ {
+  "task_id": "14155",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Record information about work completed and machine settings."
+ },
+ {
+  "task_id": "14146",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Notify supervisors of mechanical malfunctions."
+ },
+ {
+  "task_id": "14149",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Inspect machinery to determine whether repairs are needed."
+ },
+ {
+  "task_id": "14152",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Confer with coworkers to obtain information about orders, processes, or problems."
+ },
+ {
+  "task_id": "14147",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Repair or replace worn or defective parts or components, using hand tools."
+ },
+ {
+  "task_id": "14154",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Clean, oil, and lubricate machines, using air hoses, cleaning solutions, rags, oilcans, and grease guns."
+ },
+ {
+  "task_id": "14162",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Thread yarn, thread, or fabric through guides, needles, and rollers of machines."
+ },
+ {
+  "task_id": "14156",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Operate machines to cut multiple layers of fabric into parts for articles such as canvas goods, house furnishings, garments, hats, or stuffed toys."
+ },
+ {
+  "task_id": "14148",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Adjust cutting techniques to types of fabrics and styles of garments."
+ },
+ {
+  "task_id": "14161",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Program electronic equipment."
+ },
+ {
+  "task_id": "14157",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Study guides, samples, charts, and specification sheets or confer with supervisors or engineering staff to determine set-up requirements."
+ },
+ {
+  "task_id": "14159",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Stop machines when specified amounts of product have been produced."
+ },
+ {
+  "task_id": "14158",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Operate machines for test runs to verify adjustments and to obtain product samples."
+ },
+ {
+  "task_id": "14160",
+  "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+  "task_text": "Install, level, and align components, such as gears, chains, guides, dies, cutters, or needles, to set up machinery for operation."
+ },
+ {
+  "task_id": "14165",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Observe woven cloth to detect weaving defects."
+ }
+]

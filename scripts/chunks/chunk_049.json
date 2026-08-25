@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "14682",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Develop system engineering, software engineering, system integration, or distributed system architectures."
+ },
+ {
+  "task_id": "14667",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Provide advice on project costs, design concepts, or design changes."
+ },
+ {
+  "task_id": "14671",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Evaluate current or emerging technologies to consider factors such as cost, portability, compatibility, or usability."
+ },
+ {
+  "task_id": "14680",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Develop or approve project plans, schedules, or budgets."
+ },
+ {
+  "task_id": "14687",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Communicate project information through presentations, technical reports, or white papers."
+ },
+ {
+  "task_id": "14690",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Train system users in system operation or maintenance."
+ },
+ {
+  "task_id": "14688",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Complete models and simulations, using manual or automated tools, to analyze or predict system performance under different operating conditions."
+ },
+ {
+  "task_id": "14693",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Develop efficient and effective system controllers."
+ },
+ {
+  "task_id": "14692",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Develop application-specific software."
+ },
+ {
+  "task_id": "16169",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Manage project execution to ensure adherence to budget, schedule, and scope."
+ },
+ {
+  "task_id": "16154",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Confer with project personnel to identify and resolve problems."
+ },
+ {
+  "task_id": "16157",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Monitor or track project milestones and deliverables."
+ },
+ {
+  "task_id": "16152",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Submit project deliverables, ensuring adherence to quality standards."
+ },
+ {
+  "task_id": "16155",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Assess current or future customer needs and priorities by communicating directly with customers, conducting surveys, or other methods."
+ },
+ {
+  "task_id": "16159",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Initiate, review, or approve modifications to project plans."
+ },
+ {
+  "task_id": "16156",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Schedule and facilitate meetings related to information technology projects."
+ },
+ {
+  "task_id": "16163",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Direct or coordinate activities of project personnel."
+ },
+ {
+  "task_id": "16164",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Develop implementation plans that include analyses such as cost-benefit or return on investment (ROI)."
+ },
+ {
+  "task_id": "16162",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Identify need for initial or supplemental project resources."
+ },
+ {
+  "task_id": "16170",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing."
+ },
+ {
+  "task_id": "16151",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Perform risk assessments to develop response strategies."
+ },
+ {
+  "task_id": "16168",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Prepare project status reports by collecting, analyzing, and summarizing information and trends."
+ },
+ {
+  "task_id": "16160",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Identify, review, or select vendors or consultants to meet project needs."
+ },
+ {
+  "task_id": "16166",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Develop and manage annual budgets for information technology projects."
+ },
+ {
+  "task_id": "16161",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Establish and execute a project communication plan."
+ },
+ {
+  "task_id": "16171",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Develop and manage work breakdown structure (WBS) of information technology projects."
+ },
+ {
+  "task_id": "16153",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Monitor the performance of project team members, providing and documenting performance feedback."
+ },
+ {
+  "task_id": "16165",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Coordinate recruitment or selection of project personnel."
+ },
+ {
+  "task_id": "16167",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Assign duties, responsibilities, and spans of authority to project personnel."
+ },
+ {
+  "task_id": "16158",
+  "occupation": "Information Technology Project Managers",
+  "task_text": "Negotiate with project stakeholders or suppliers to obtain resources or materials."
+ },
+ {
+  "task_id": "3500",
+  "occupation": "Actuaries",
+  "task_text": "Ascertain premium rates required and cash reserves and liabilities necessary to ensure payment of future benefits."
+ },
+ {
+  "task_id": "3503",
+  "occupation": "Actuaries",
+  "task_text": "Collaborate with programmers, underwriters, accounts, claims experts, and senior management to help companies develop plans for new lines of business or improvements to existing business."
+ },
+ {
+  "task_id": "3501",
+  "occupation": "Actuaries",
+  "task_text": "Analyze statistical information to estimate mortality, accident, sickness, disability, and retirement rates."
+ },
+ {
+  "task_id": "3502",
+  "occupation": "Actuaries",
+  "task_text": "Design, review, and help administer insurance, annuity and pension plans, determining financial soundness and calculating premiums."
+ },
+ {
+  "task_id": "3504",
+  "occupation": "Actuaries",
+  "task_text": "Determine, or help determine, company policy, and explain complex technical matters to company executives, government officials, shareholders, policyholders, or the public."
+ },
+ {
+  "task_id": "3508",
+  "occupation": "Actuaries",
+  "task_text": "Construct probability tables for events such as fires, natural disasters, and unemployment, based on analysis of statistical data and other pertinent information."
+ },
+ {
+  "task_id": "3506",
+  "occupation": "Actuaries",
+  "task_text": "Provide advice to clients on a contract basis, working as a consultant."
+ },
+ {
+  "task_id": "3512",
+  "occupation": "Actuaries",
+  "task_text": "Determine equitable basis for distributing surplus earnings under participating insurance and annuity contracts in mutual companies."
+ },
+ {
+  "task_id": "20951",
+  "occupation": "Actuaries",
+  "task_text": "Negotiate terms and conditions of reinsurance with other companies."
+ },
+ {
+  "task_id": "3511",
+  "occupation": "Actuaries",
+  "task_text": "Provide expertise to help financial institutions manage risks and maximize returns associated with investment products or credit offerings."
+ },
+ {
+  "task_id": "3505",
+  "occupation": "Actuaries",
+  "task_text": "Testify before public agencies on proposed legislation affecting businesses."
+ },
+ {
+  "task_id": "3509",
+  "occupation": "Actuaries",
+  "task_text": "Determine policy contract provisions for each type of insurance."
+ },
+ {
+  "task_id": "3507",
+  "occupation": "Actuaries",
+  "task_text": "Testify in court as expert witness or to provide legal evidence on matters such as the value of potential lifetime earnings of a person disabled or killed in an accident."
+ },
+ {
+  "task_id": "3513",
+  "occupation": "Actuaries",
+  "task_text": "Explain changes in contract provisions to customers."
+ },
+ {
+  "task_id": "3510",
+  "occupation": "Actuaries",
+  "task_text": "Manage credit and help price corporate security offerings."
+ },
+ {
+  "task_id": "24002",
+  "occupation": "Mathematicians",
+  "task_text": "Mentor others on mathematical techniques."
+ },
+ {
+  "task_id": "7369",
+  "occupation": "Mathematicians",
+  "task_text": "Maintain knowledge in the field by reading professional journals, talking with other mathematicians, and attending professional conferences."
+ },
+ {
+  "task_id": "7374",
+  "occupation": "Mathematicians",
+  "task_text": "Develop new principles and new relationships between existing mathematical principles to advance mathematical science."
+ },
+ {
+  "task_id": "20191",
+  "occupation": "Mathematicians",
+  "task_text": "Disseminate research by writing reports, publishing papers, or presenting at professional conferences."
+ },
+ {
+  "task_id": "7372",
+  "occupation": "Mathematicians",
+  "task_text": "Assemble sets of assumptions, and explore the consequences of each set."
+ },
+ {
+  "task_id": "7370",
+  "occupation": "Mathematicians",
+  "task_text": "Perform computations and apply methods of numerical analysis to data."
+ },
+ {
+  "task_id": "7373",
+  "occupation": "Mathematicians",
+  "task_text": "Address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols."
+ },
+ {
+  "task_id": "7376",
+  "occupation": "Mathematicians",
+  "task_text": "Conduct research to extend mathematical knowledge in traditional areas, such as algebra, geometry, probability, and logic."
+ },
+ {
+  "task_id": "7371",
+  "occupation": "Mathematicians",
+  "task_text": "Develop mathematical or statistical models of phenomena to be used for analysis or for computational simulation."
+ },
+ {
+  "task_id": "7367",
+  "occupation": "Mathematicians",
+  "task_text": "Apply mathematical theories and techniques to the solution of practical problems in business, engineering, the sciences, or other fields."
+ },
+ {
+  "task_id": "7368",
+  "occupation": "Mathematicians",
+  "task_text": "Develop computational methods for solving problems that occur in areas of science and engineering or that come from applications in business or industry."
+ },
+ {
+  "task_id": "7375",
+  "occupation": "Mathematicians",
+  "task_text": "Design, analyze, and decipher encryption systems designed to transmit military, political, financial, or law-enforcement-related information in code."
+ },
+ {
+  "task_id": "20952",
+  "occupation": "Operations Research Analysts",
+  "task_text": "Present the results of mathematical modeling and data analysis to management or other end users."
+ },
+ {
+  "task_id": "7382",
+  "occupation": "Operations Research Analysts",
+  "task_text": "Define data requirements, and gather and validate information, applying judgment and statistical tests."
+ },
+ {
+  "task_id": "7380",
+  "occupation": "Operations Research Analysts",
+  "task_text": "Perform validation and testing of models to ensure adequacy, and reformulate models, as necessary."
+ },
+ {
+  "task_id": "7384",
+  "occupation": "Operations Research Analysts",
+  "task_text": "Prepare management reports defining and evaluating problems and recommending solutions."
+ },
+ {
+  "task_id": "7378",
+  "occupation": "Operations Research Analysts",
+  "task_text": "Collaborate with others in the organization to ensure successful implementation of chosen problem solutions."
+ },
+ {
+  "task_id": "7377",
+  "occupation": "Operations Research Analysts",
+  "task_text": "Formulate mathematical or simulation models of problems, relating constants and variables, restrictions, alternatives, conflicting objectives, and their numerical parameters."
+ },
+ {
+  "task_id": "7387",
+  "occupation": "Operations Research Analysts",
+  "task_text": "Observe the current system in operation, and gather and analyze information about each of the component problems, using a variety of sources."
+ },
+ {
+  "task_id": "7379",
+  "occupation": "Operations Research Analysts",
+  "task_text": "Analyze information obtained from management to conceptualize and define operational problems."
+ },
+ {
+  "task_id": "7383",
+  "occupation": "Operations Research Analysts",
+  "task_text": "Study and analyze information about alternative courses of action to determine which plan will offer the best outcomes."
+ },
+ {
+  "task_id": "7381",
+  "occupation": "Operations Research Analysts",
+  "task_text": "Collaborate with senior managers and decision makers to identify and solve a variety of problems and to clarify management objectives."
+ },
+ {
+  "task_id": "7386",
+  "occupation": "Operations Research Analysts",
+  "task_text": "Specify manipulative or computational methods to be applied to models."
+ },
+ {
+  "task_id": "7388",
+  "occupation": "Operations Research Analysts",
+  "task_text": "Design, conduct, and evaluate experimental operational models in cases where models cannot be developed from existing data."
+ },
+ {
+  "task_id": "7389",
+  "occupation": "Operations Research Analysts",
+  "task_text": "Develop and apply time and cost networks to plan, control, and review large projects."
+ },
+ {
+  "task_id": "7385",
+  "occupation": "Operations Research Analysts",
+  "task_text": "Break systems into their components, assign numerical values to each component, and examine the mathematical relationships between them."
+ },
+ {
+  "task_id": "20953",
+  "occupation": "Operations Research Analysts",
+  "task_text": "Educate staff in the use of mathematical models."
+ },
+ {
+  "task_id": "7390",
+  "occupation": "Operations Research Analysts",
+  "task_text": "Develop business methods and procedures, including accounting systems, file systems, office systems, logistics systems, and production schedules."
+ },
+ {
+  "task_id": "23986",
+  "occupation": "Operations Research Analysts",
+  "task_text": "Review research literature."
+ },
+ {
+  "task_id": "8956",
+  "occupation": "Statisticians",
+  "task_text": "Analyze and interpret statistical data to identify significant differences in relationships among sources of information."
+ },
+ {
+  "task_id": "8958",
+  "occupation": "Statisticians",
+  "task_text": "Evaluate the statistical methods and procedures used to obtain data to ensure validity, applicability, efficiency, and accuracy."
+ },
+ {
+  "task_id": "8953",
+  "occupation": "Statisticians",
+  "task_text": "Report results of statistical analyses, including information in the form of graphs, charts, and tables."
+ },
+ {
+  "task_id": "21100",
+  "occupation": "Statisticians",
+  "task_text": "Determine whether statistical methods are appropriate, based on user needs or research questions of interest."
+ },
+ {
+  "task_id": "8957",
+  "occupation": "Statisticians",
+  "task_text": "Prepare data for processing by organizing information, checking for inaccuracies, and adjusting and weighting the raw data."
+ },
+ {
+  "task_id": "8966",
+  "occupation": "Statisticians",
+  "task_text": "Develop and test experimental designs, sampling techniques, and analytical methods."
+ },
+ {
+  "task_id": "8955",
+  "occupation": "Statisticians",
+  "task_text": "Identify relationships and trends in data, as well as any factors that could affect the results of research."
+ },
+ {
+  "task_id": "20194",
+  "occupation": "Statisticians",
+  "task_text": "Present statistical and nonstatistical results, using charts, bullets, and graphs, in meetings or conferences to audiences such as clients, peers, and students."
+ },
+ {
+  "task_id": "8961",
+  "occupation": "Statisticians",
+  "task_text": "Design research projects that apply valid scientific techniques, and use information obtained from baselines or historical data to structure uncompromised and efficient analyses."
+ },
+ {
+  "task_id": "8965",
+  "occupation": "Statisticians",
+  "task_text": "Adapt statistical methods to solve specific problems in many fields, such as economics, biology, and engineering."
+ },
+ {
+  "task_id": "8959",
+  "occupation": "Statisticians",
+  "task_text": "Evaluate sources of information to determine any limitations, in terms of reliability or usability."
+ },
+ {
+  "task_id": "8954",
+  "occupation": "Statisticians",
+  "task_text": "Process large amounts of data for statistical modeling and graphic analysis, using computers."
+ },
+ {
+  "task_id": "20193",
+  "occupation": "Statisticians",
+  "task_text": "Develop software applications or programming for statistical modeling and graphic analysis."
+ },
+ {
+  "task_id": "20192",
+  "occupation": "Statisticians",
+  "task_text": "Report results of statistical analyses in peer-reviewed papers and technical manuals."
+ },
+ {
+  "task_id": "8960",
+  "occupation": "Statisticians",
+  "task_text": "Plan data collection methods for specific projects, and determine the types and sizes of sample groups to be used."
+ },
+ {
+  "task_id": "8964",
+  "occupation": "Statisticians",
+  "task_text": "Apply sampling techniques, or use complete enumeration bases to determine and define groups to be surveyed."
+ },
+ {
+  "task_id": "8967",
+  "occupation": "Statisticians",
+  "task_text": "Examine theories, such as those of probability and inference, to discover mathematical bases for new or improved methods of obtaining and evaluating numerical data."
+ },
+ {
+  "task_id": "8963",
+  "occupation": "Statisticians",
+  "task_text": "Supervise and provide instructions for workers collecting and tabulating data."
+ },
+ {
+  "task_id": "21101",
+  "occupation": "Statisticians",
+  "task_text": "Prepare and structure data warehouses for storing data."
+ },
+ {
+  "task_id": "16254",
+  "occupation": "Biostatisticians",
+  "task_text": "Draw conclusions or make predictions, based on data summaries or statistical analyses."
+ },
+ {
+  "task_id": "16265",
+  "occupation": "Biostatisticians",
+  "task_text": "Analyze clinical or survey data, using statistical approaches such as longitudinal analysis, mixed-effect modeling, logistic regression analyses, and model-building techniques."
+ },
+ {
+  "task_id": "16250",
+  "occupation": "Biostatisticians",
+  "task_text": "Write detailed analysis plans and descriptions of analyses and findings for research protocols or reports."
+ },
+ {
+  "task_id": "16246",
+  "occupation": "Biostatisticians",
+  "task_text": "Calculate sample size requirements for clinical studies."
+ },
+ {
+  "task_id": "16243",
+  "occupation": "Biostatisticians",
+  "task_text": "Read current literature, attend meetings or conferences, and talk with colleagues to keep abreast of methodological or conceptual developments in fields such as biostatistics, pharmacology, life sciences, and social sciences."
+ },
+ {
+  "task_id": "16258",
+  "occupation": "Biostatisticians",
+  "task_text": "Design research studies in collaboration with physicians, life scientists, or other professionals."
+ },
+ {
+  "task_id": "16252",
+  "occupation": "Biostatisticians",
+  "task_text": "Prepare tables and graphs to present clinical data or results."
+ },
+ {
+  "task_id": "16249",
+  "occupation": "Biostatisticians",
+  "task_text": "Write program code to analyze data with statistical analysis software."
+ },
+ {
+  "task_id": "16263",
+  "occupation": "Biostatisticians",
+  "task_text": "Provide biostatistical consultation to clients or colleagues."
+ },
+ {
+  "task_id": "16262",
+  "occupation": "Biostatisticians",
+  "task_text": "Review clinical or other medical research protocols and recommend appropriate statistical analyses."
+ },
+ {
+  "task_id": "16257",
+  "occupation": "Biostatisticians",
+  "task_text": "Develop or implement data analysis algorithms."
+ },
+ {
+  "task_id": "16247",
+  "occupation": "Biostatisticians",
+  "task_text": "Determine project plans, timelines, or technical objectives for statistical aspects of biological research studies."
+ },
+ {
+  "task_id": "16244",
+  "occupation": "Biostatisticians",
+  "task_text": "Prepare statistical data for inclusion in reports to data monitoring committees, federal regulatory agencies, managers, or clients."
+ },
+ {
+  "task_id": "16251",
+  "occupation": "Biostatisticians",
+  "task_text": "Plan or direct research studies related to life sciences."
+ },
+ {
+  "task_id": "16245",
+  "occupation": "Biostatisticians",
+  "task_text": "Prepare articles for publication or presentation at professional conferences."
+ },
+ {
+  "task_id": "16253",
+  "occupation": "Biostatisticians",
+  "task_text": "Monitor clinical trials or experiments to ensure adherence to established procedures or to verify the quality of data collected."
+ },
+ {
+  "task_id": "16241",
+  "occupation": "Biostatisticians",
+  "task_text": "Write research proposals or grant applications for submission to external bodies."
+ },
+ {
+  "task_id": "16259",
+  "occupation": "Biostatisticians",
+  "task_text": "Design or maintain databases of biological data."
+ },
+ {
+  "task_id": "16260",
+  "occupation": "Biostatisticians",
+  "task_text": "Collect data through surveys or experimentation."
+ },
+ {
+  "task_id": "16264",
+  "occupation": "Biostatisticians",
+  "task_text": "Apply research or simulation results to extend biological theory or recommend new research projects."
+ },
+ {
+  "task_id": "16255",
+  "occupation": "Biostatisticians",
+  "task_text": "Develop or use mathematical models to track changes in biological phenomena, such as the spread of infectious diseases."
+ },
+ {
+  "task_id": "16248",
+  "occupation": "Biostatisticians",
+  "task_text": "Assign work to biostatistical assistants or programmers."
+ },
+ {
+  "task_id": "16261",
+  "occupation": "Biostatisticians",
+  "task_text": "Analyze archival data, such as birth, death, and disease records."
+ },
+ {
+  "task_id": "16256",
+  "occupation": "Biostatisticians",
+  "task_text": "Design surveys to assess health issues."
+ },
+ {
+  "task_id": "16242",
+  "occupation": "Biostatisticians",
+  "task_text": "Teach graduate or continuing education courses or seminars in biostatistics."
+ },
+ {
+  "task_id": "21823",
+  "occupation": "Data Scientists",
+  "task_text": "Analyze, manipulate, or process large sets of data using statistical software."
+ },
+ {
+  "task_id": "21824",
+  "occupation": "Data Scientists",
+  "task_text": "Apply feature selection algorithms to models predicting outcomes of interest, such as sales, attrition, and healthcare use."
+ },
+ {
+  "task_id": "21825",
+  "occupation": "Data Scientists",
+  "task_text": "Apply sampling techniques to determine groups to be surveyed or use complete enumeration methods."
+ },
+ {
+  "task_id": "21826",
+  "occupation": "Data Scientists",
+  "task_text": "Clean and manipulate raw data using statistical software."
+ },
+ {
+  "task_id": "21827",
+  "occupation": "Data Scientists",
+  "task_text": "Compare models using statistical performance metrics, such as loss functions or proportion of explained variance."
+ },
+ {
+  "task_id": "21828",
+  "occupation": "Data Scientists",
+  "task_text": "Create graphs, charts, or other visualizations to convey the results of data analysis using specialized software."
+ },
+ {
+  "task_id": "21829",
+  "occupation": "Data Scientists",
+  "task_text": "Deliver oral or written presentations of the results of mathematical modeling and data analysis to management or other end users."
+ },
+ {
+  "task_id": "21830",
+  "occupation": "Data Scientists",
+  "task_text": "Design surveys, opinion polls, or other instruments to collect data."
+ },
+ {
+  "task_id": "21831",
+  "occupation": "Data Scientists",
+  "task_text": "Identify business problems or management objectives that can be addressed through data analysis."
+ },
+ {
+  "task_id": "21832",
+  "occupation": "Data Scientists",
+  "task_text": "Identify relationships and trends or any factors that could affect the results of research."
+ },
+ {
+  "task_id": "21833",
+  "occupation": "Data Scientists",
+  "task_text": "Identify solutions to business problems, such as budgeting, staffing, and marketing decisions, using the results of data analysis."
+ },
+ {
+  "task_id": "21834",
+  "occupation": "Data Scientists",
+  "task_text": "Propose solutions in engineering, the sciences, and other fields using mathematical theories and techniques."
+ }
+]

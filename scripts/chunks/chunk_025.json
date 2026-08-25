@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "18552",
+  "occupation": "Dental Assistants",
+  "task_text": "Order and monitor dental supplies and equipment inventory."
+ },
+ {
+  "task_id": "18553",
+  "occupation": "Dental Assistants",
+  "task_text": "Fabricate and fit orthodontic appliances and materials for patients, such as retainers, wires, or bands."
+ },
+ {
+  "task_id": "18559",
+  "occupation": "Bill and Account Collectors",
+  "task_text": "Answer customer questions regarding problems with their accounts."
+ },
+ {
+  "task_id": "18560",
+  "occupation": "Bill and Account Collectors",
+  "task_text": "Contact insurance companies to check on status of claims payments and write appeal letters for denial on claims."
+ },
+ {
+  "task_id": "18561",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Prepare and process payroll information."
+ },
+ {
+  "task_id": "18562",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Process paperwork for new employees and enter employee information into the payroll system."
+ },
+ {
+  "task_id": "18563",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Keep track of leave time, such as vacation, personal, and sick leave, for employees."
+ },
+ {
+  "task_id": "18564",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Conduct verifications of employment."
+ },
+ {
+  "task_id": "18565",
+  "occupation": "Customer Service Representatives",
+  "task_text": "Confer with customers by telephone or in person to provide information about products or services, take or enter orders, cancel accounts, or obtain details of complaints."
+ },
+ {
+  "task_id": "18566",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Perform bookkeeping activities, such as balancing accounts and conducting nightly audits."
+ },
+ {
+  "task_id": "18567",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Answer inquiries pertaining to hotel services, guest registration, and travel directions, or make recommendations regarding shopping, dining, or entertainment."
+ },
+ {
+  "task_id": "18568",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Clean and maintain lobby and common areas, such as restocking supplies and watering plants."
+ },
+ {
+  "task_id": "18569",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Prepare for basic food service, such as setting up continental breakfast or coffee and tea supplies."
+ },
+ {
+  "task_id": "18570",
+  "occupation": "Hotel, Motel, and Resort Desk Clerks",
+  "task_text": "Plan, schedule or supervise the work of other employees."
+ },
+ {
+  "task_id": "18572",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Process, verify, and maintain personnel related documentation, including staffing, recruitment, training, grievances, performance evaluations, classifications, and employee leaves of absence."
+ },
+ {
+  "task_id": "18573",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Answer phone calls and direct calls to appropriate parties or take messages."
+ },
+ {
+  "task_id": "18574",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Perform general office duties, such as ordering supplies, maintaining records management database systems, and performing basic bookkeeping work."
+ },
+ {
+  "task_id": "18575",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Prepare agendas and make arrangements, such as coordinating catering for luncheons, for committee, board, and other meetings."
+ },
+ {
+  "task_id": "18576",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Coordinate and direct office services, such as records, departmental finances, budget preparation, personnel issues, and housekeeping, to aid executives."
+ },
+ {
+  "task_id": "18577",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Provide clerical support to other departments."
+ },
+ {
+  "task_id": "18578",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Process payroll information."
+ },
+ {
+  "task_id": "18579",
+  "occupation": "Executive Secretaries and Executive Administrative Assistants",
+  "task_text": "Supervise and train other clerical staff and arrange for employee training by scheduling training or organizing training material."
+ },
+ {
+  "task_id": "18672",
+  "occupation": "Audiologists",
+  "task_text": "Counsel and instruct patients and their families in techniques to improve hearing and communication related to hearing loss."
+ },
+ {
+  "task_id": "18673",
+  "occupation": "Audiologists",
+  "task_text": "Evaluate hearing and balance disorders to determine diagnoses and courses of treatment."
+ },
+ {
+  "task_id": "18674",
+  "occupation": "Audiologists",
+  "task_text": "Program and monitor cochlear implants to fit the needs of patients."
+ },
+ {
+  "task_id": "18675",
+  "occupation": "Audiologists",
+  "task_text": "Participate in conferences or training to update or share knowledge of new hearing or balance disorder treatment methods or technologies."
+ },
+ {
+  "task_id": "18676",
+  "occupation": "Audiologists",
+  "task_text": "Conduct or direct research on hearing or balance topics and report findings to help in the development of procedures, technology, or treatments."
+ },
+ {
+  "task_id": "18677",
+  "occupation": "Audiologists",
+  "task_text": "Plan and conduct treatment programs for patients' hearing or balance problems, consulting with educators, physicians, nurses, psychologists, speech-language pathologists, and other health care personn"
+ },
+ {
+  "task_id": "18678",
+  "occupation": "Audiologists",
+  "task_text": "Administer hearing tests and examine patients to collect information on type and degree of impairment, using specialized instruments and electronic equipment."
+ },
+ {
+  "task_id": "18679",
+  "occupation": "Audiologists",
+  "task_text": "Engage in marketing activities, such as developing marketing plans, to promote business for private practices."
+ },
+ {
+  "task_id": "18680",
+  "occupation": "Audiologists",
+  "task_text": "Recommend assistive devices according to patients' needs or nature of impairments."
+ },
+ {
+  "task_id": "18681",
+  "occupation": "Audiologists",
+  "task_text": "Fit, dispense, and repair assistive devices, such as hearing aids."
+ },
+ {
+  "task_id": "18682",
+  "occupation": "Audiologists",
+  "task_text": "Advise educators or other medical staff on hearing or balance topics."
+ },
+ {
+  "task_id": "18683",
+  "occupation": "Audiologists",
+  "task_text": "Provide information to the public on hearing or balance topics."
+ },
+ {
+  "task_id": "18684",
+  "occupation": "Audiologists",
+  "task_text": "Instruct patients, parents, teachers, or employers in communication strategies to maximize effective receptive communication."
+ },
+ {
+  "task_id": "18685",
+  "occupation": "Audiologists",
+  "task_text": "Work with multidisciplinary teams to assess and rehabilitate recipients of implanted hearing devices through auditory training and counseling."
+ },
+ {
+  "task_id": "18686",
+  "occupation": "Audiologists",
+  "task_text": "Monitor patients' progress and provide ongoing observation of hearing or balance status."
+ },
+ {
+  "task_id": "18687",
+  "occupation": "Audiologists",
+  "task_text": "Measure noise levels in workplaces and conduct hearing conservation programs in industry, military, schools, and communities."
+ },
+ {
+  "task_id": "18688",
+  "occupation": "Audiologists",
+  "task_text": "Refer patients to additional medical or educational services, if needed."
+ },
+ {
+  "task_id": "18689",
+  "occupation": "Audiologists",
+  "task_text": "Perform administrative tasks, such as managing office functions and finances."
+ },
+ {
+  "task_id": "18690",
+  "occupation": "Audiologists",
+  "task_text": "Maintain patient records at all stages, including initial and subsequent evaluation and treatment activities."
+ },
+ {
+  "task_id": "18691",
+  "occupation": "Athletic Trainers",
+  "task_text": "Perform general administrative tasks, such as keeping records or writing reports."
+ },
+ {
+  "task_id": "18692",
+  "occupation": "Athletic Trainers",
+  "task_text": "File athlete insurance claims and communicate with insurance providers."
+ },
+ {
+  "task_id": "18693",
+  "occupation": "Athletic Trainers",
+  "task_text": "Teach sports medicine courses to athletic training students."
+ },
+ {
+  "task_id": "18694",
+  "occupation": "Home Health Aides",
+  "task_text": "Care for patients by changing bed linens, washing and ironing laundry, cleaning, or assisting with their personal care."
+ },
+ {
+  "task_id": "18695",
+  "occupation": "Home Health Aides",
+  "task_text": "Administer prescribed oral medications, under the written direction of physician or as directed by home care nurse or aide, and ensure patients take their medicine."
+ },
+ {
+  "task_id": "18696",
+  "occupation": "Psychiatric Aides",
+  "task_text": "Complete physical checks and monitor patients to detect unusual or harmful behavior and report observations to professional staff."
+ },
+ {
+  "task_id": "18697",
+  "occupation": "Psychiatric Aides",
+  "task_text": "Record and maintain patient information, such as vital signs, eating habits, behavior, progress notes, treatments, or discharge plans."
+ },
+ {
+  "task_id": "18698",
+  "occupation": "Psychiatric Aides",
+  "task_text": "Complete administrative tasks, such as entering orders into computer, answering telephone calls, or maintaining medical or facility information."
+ },
+ {
+  "task_id": "18699",
+  "occupation": "Occupational Therapy Assistants",
+  "task_text": "Communicate and collaborate with other healthcare professionals involved with the care of a patient."
+ },
+ {
+  "task_id": "18700",
+  "occupation": "Occupational Therapy Assistants",
+  "task_text": "Attend continuing education classes."
+ },
+ {
+  "task_id": "18701",
+  "occupation": "Occupational Therapy Assistants",
+  "task_text": "Attend care plan meetings to review patient progress and update care plans."
+ },
+ {
+  "task_id": "18702",
+  "occupation": "Medical Equipment Preparers",
+  "task_text": "Stock crash carts or other medical supplies."
+ },
+ {
+  "task_id": "18703",
+  "occupation": "Medical Equipment Preparers",
+  "task_text": "Maintain records of inventory or equipment usage and order medical instruments or supplies when inventory is low."
+ },
+ {
+  "task_id": "18704",
+  "occupation": "Pharmacy Aides",
+  "task_text": "Receive, store, and inventory pharmaceutical supplies or medications, check for out-of-date medications, and notify pharmacist when inventory levels are low."
+ },
+ {
+  "task_id": "18765",
+  "occupation": "Cashiers",
+  "task_text": "Assist customers by providing information and resolving their complaints."
+ },
+ {
+  "task_id": "18766",
+  "occupation": "Cashiers",
+  "task_text": "Maintain clean and orderly checkout areas, and complete other general cleaning duties, such as mopping floors and emptying trash cans."
+ },
+ {
+  "task_id": "18767",
+  "occupation": "Cashiers",
+  "task_text": "Assist with duties in other areas of the store, such as monitoring fitting rooms or bagging and carrying out customers' items."
+ },
+ {
+  "task_id": "18768",
+  "occupation": "Cashiers",
+  "task_text": "Supervise others and provide on-the-job training."
+ },
+ {
+  "task_id": "18769",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Open and close library during specified hours and secure library equipment, such as computers and audio-visual equipment."
+ },
+ {
+  "task_id": "18770",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Perform clerical activities, such as answering phones, sorting mail, filing, typing, word processing, and photocopying and mailing out material."
+ },
+ {
+  "task_id": "18771",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Schedule, supervise, and train clerical workers, volunteers, student assistants, and other library employees."
+ },
+ {
+  "task_id": "18772",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Maintain library equipment, such as photocopiers, scanners, and computers, and instruct patrons in proper use of such equipment."
+ },
+ {
+  "task_id": "18773",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Manage reserve materials by placing items on reserve for library patrons, checking items in and out of library, and removing out-of-date items."
+ },
+ {
+  "task_id": "18774",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Lend, reserve, and collect books, periodicals, videotapes, and other materials at circulation desks and process materials for inter-library loans."
+ },
+ {
+  "task_id": "18775",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Perform accounting and bookkeeping activities, such as invoicing, maintaining financial records, budgeting, and handling cash."
+ },
+ {
+  "task_id": "18776",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Repair books using mending tape, paste, and brushes or prepare books to be sent to a bindery for repair."
+ },
+ {
+  "task_id": "18777",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Acquire books, pamphlets, periodicals, audio-visual materials, and other library supplies by checking prices, figuring costs, and preparing appropriate order forms and facilitating the ordering proces"
+ },
+ {
+  "task_id": "18778",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Prepare library statistics reports."
+ },
+ {
+  "task_id": "18779",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Design or maintain library web site and online catalogues."
+ },
+ {
+  "task_id": "18780",
+  "occupation": "Legal Secretaries and Administrative Assistants",
+  "task_text": "Prepare and distribute invoices to bill clients or pay account expenses."
+ },
+ {
+  "task_id": "18852",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Address employee relations issues, such as harassment allegations, work complaints, or other employee concerns."
+ },
+ {
+  "task_id": "18853",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Analyze employment-related data and prepare required reports."
+ },
+ {
+  "task_id": "18854",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Conduct exit interviews and ensure that necessary employment termination paperwork is completed."
+ },
+ {
+  "task_id": "18855",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Conduct reference or background checks on job applicants."
+ },
+ {
+  "task_id": "18856",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Confer with management to develop or implement personnel policies or procedures."
+ },
+ {
+  "task_id": "18857",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Contact job applicants to inform them of the status of their applications."
+ },
+ {
+  "task_id": "18858",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Develop or implement recruiting strategies to meet current or anticipated staffing needs."
+ },
+ {
+  "task_id": "18859",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Hire employees and process hiring-related paperwork."
+ },
+ {
+  "task_id": "18860",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Inform job applicants of details such as duties and responsibilities, compensation, benefits, schedules, working conditions, or promotion opportunities."
+ },
+ {
+  "task_id": "18861",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Interpret and explain human resources policies, procedures, laws, standards, or regulations."
+ },
+ {
+  "task_id": "18862",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Interview job applicants to obtain information on work history, training, education, or job skills."
+ },
+ {
+  "task_id": "18863",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Maintain and update human resources documents, such as organizational charts, employee handbooks or directories, or performance evaluation forms."
+ },
+ {
+  "task_id": "18864",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Maintain current knowledge of Equal Employment Opportunity (EEO) and affirmative action guidelines and laws, such as the Americans with Disabilities Act (ADA)."
+ },
+ {
+  "task_id": "18865",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Perform searches for qualified job candidates, using sources such as computer databases, networking, Internet recruiting resources, media advertisements, job fairs, recruiting firms, or employee refer"
+ },
+ {
+  "task_id": "18866",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Prepare or maintain employment records related to events, such as hiring, termination, leaves, transfers, or promotions, using human resources management system software."
+ },
+ {
+  "task_id": "18867",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Provide management with information or training related to interviewing, performance appraisals, counseling techniques, or documentation of performance issues."
+ },
+ {
+  "task_id": "18868",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Review employment applications and job orders to match applicants with job requirements."
+ },
+ {
+  "task_id": "18869",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Schedule or administer skill, intelligence, psychological, or drug tests for current or prospective employees."
+ },
+ {
+  "task_id": "18870",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Schedule or conduct new employee orientations."
+ },
+ {
+  "task_id": "18871",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Select qualified job applicants or refer them to managers, making hiring recommendations when appropriate."
+ },
+ {
+  "task_id": "18872",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Advise management on organizing, preparing, or implementing recruiting or retention programs."
+ },
+ {
+  "task_id": "18873",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Coordinate with outside staffing agencies to secure temporary employees, based on departmental needs."
+ },
+ {
+  "task_id": "18874",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Evaluate recruitment or selection criteria to ensure conformance to professional, statistical, or testing standards, recommending revisions, as needed."
+ },
+ {
+  "task_id": "18875",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Evaluate selection or testing techniques by conducting research or follow-up activities and conferring with management or supervisory personnel."
+ },
+ {
+  "task_id": "18876",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Review and evaluate applicant qualifications or eligibility for specified licensing, according to established guidelines and designated licensing codes."
+ },
+ {
+  "task_id": "18877",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Advise management on matters related to the administration of contracts or employee discipline or grievance procedures."
+ },
+ {
+  "task_id": "18878",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Call or meet with union, company, government, or other interested parties to discuss labor relations matters, such as contract negotiations or grievances."
+ },
+ {
+  "task_id": "18879",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Draft contract proposals or counter-proposals for collective bargaining or other labor negotiations."
+ },
+ {
+  "task_id": "18880",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Draft rules or regulations to govern collective bargaining activities in collaboration with company, government, or employee representatives."
+ },
+ {
+  "task_id": "18881",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Identify alternatives to proposals of unions, employees, companies, or government agencies."
+ },
+ {
+  "task_id": "18882",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Interpret contractual agreements for employers and employees engaged in collective bargaining or other labor relations processes."
+ },
+ {
+  "task_id": "18883",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Investigate and evaluate union complaints or arguments to determine viability."
+ },
+ {
+  "task_id": "18884",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Mediate discussions between employer and employee representatives in attempt to reconcile differences."
+ },
+ {
+  "task_id": "18885",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Monitor company or workforce adherence to labor agreements."
+ },
+ {
+  "task_id": "18886",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Negotiate collective bargaining agreements."
+ },
+ {
+  "task_id": "18887",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Prepare and submit required governmental reports or forms related to labor relations matters, such as equal employment opportunity (EEO) forms, new hire forms, or minority compensation reports."
+ },
+ {
+  "task_id": "18888",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Prepare reports or presentations to communicate employee satisfaction or related data to management."
+ },
+ {
+  "task_id": "18889",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Present the position of the company or of labor during arbitration or other labor negotiations."
+ },
+ {
+  "task_id": "18890",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Propose resolutions for collective bargaining or other labor or contract negotiations."
+ },
+ {
+  "task_id": "18891",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Recommend collective bargaining strategies, goals, or objectives."
+ },
+ {
+  "task_id": "18892",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Review and approve employee disciplinary actions, such as written reprimands, suspensions, or terminations."
+ },
+ {
+  "task_id": "18893",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Review employer practices or employee data to ensure compliance with contracts on matters such as wages, hours, or conditions of employment."
+ },
+ {
+  "task_id": "18894",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Schedule or coordinate the details of grievance hearings or other meetings."
+ },
+ {
+  "task_id": "18895",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Write letters related to labor relations activities, such as letters to amend collective bargaining agreements, letters of dispute or conciliation, or letters to seek clarification of contract terms."
+ },
+ {
+  "task_id": "18896",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Assess risk levels associated with collective bargaining strategies."
+ },
+ {
+  "task_id": "18897",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Assess the impact of union proposals on company or government operations."
+ },
+ {
+  "task_id": "18898",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Develop employee health and safety policies."
+ },
+ {
+  "task_id": "18899",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Develop methods to monitor employee satisfaction with policies or working conditions, including grievance or complaint procedures."
+ },
+ {
+  "task_id": "18900",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Prepare evidence for disciplinary hearings, including preparing witnesses to testify."
+ },
+ {
+  "task_id": "18901",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Provide expert testimony in legal proceedings related to labor relations or labor contracts."
+ },
+ {
+  "task_id": "18902",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Research case law or outcomes of previous case hearings."
+ },
+ {
+  "task_id": "18903",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Select mediators or arbitrators for labor disputes or contract negotiations."
+ },
+ {
+  "task_id": "18904",
+  "occupation": "Labor Relations Specialists",
+  "task_text": "Train managers or supervisors on topics related to labor relations, such as working conditions, safety, or equal opportunity practices."
+ },
+ {
+  "task_id": "18905",
+  "occupation": "Fundraisers",
+  "task_text": "Attend community events, meetings, or conferences to promote organizational goals or solicit donations or sponsorships."
+ },
+ {
+  "task_id": "18906",
+  "occupation": "Fundraisers",
+  "task_text": "Contact corporate representatives, government officials, or community leaders to increase awareness of organizational causes, activities, or needs."
+ },
+ {
+  "task_id": "18907",
+  "occupation": "Fundraisers",
+  "task_text": "Create or update donor databases."
+ },
+ {
+  "task_id": "18908",
+  "occupation": "Fundraisers",
+  "task_text": "Design or produce materials such as posters, Web sites, or newsletters to promote, market, or advertise fundraising events."
+ },
+ {
+  "task_id": "18909",
+  "occupation": "Fundraisers",
+  "task_text": "Develop corporate fundraising programs, such as employer gift-matching."
+ },
+ {
+  "task_id": "18910",
+  "occupation": "Fundraisers",
+  "task_text": "Develop fundraising activity plans that maximize participation or contributions and minimize costs."
+ }
+]

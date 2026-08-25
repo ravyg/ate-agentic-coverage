@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "1629",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Conduct prehearing and presentencing investigations and testify in court regarding offenders' backgrounds and recommended sentences and sentencing conditions."
+ },
+ {
+  "task_id": "1623",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Arrange for postrelease services, such as employment, housing, counseling, education, and social activities."
+ },
+ {
+  "task_id": "1622",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Provide offenders or inmates with assistance in matters concerning detainers, sentences in other jurisdictions, writs, and applications for social assistance."
+ },
+ {
+  "task_id": "1633",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Develop and prepare packets containing information about social service agencies, assistance organizations, and programs that might be useful for inmates or offenders."
+ },
+ {
+  "task_id": "1619",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Develop rehabilitation programs for assigned offenders or inmates, establishing rules of conduct, goals, and objectives."
+ },
+ {
+  "task_id": "1630",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Recommend appropriate penitentiary for initial placement of an offender."
+ },
+ {
+  "task_id": "1627",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Assess the suitability of penitentiary inmates for release under parole and statutory release programs and submit recommendations to parole boards."
+ },
+ {
+  "task_id": "1632",
+  "occupation": "Probation Officers and Correctional Treatment Specialists",
+  "task_text": "Identify and approve work placements for offenders with community service sentences."
+ },
+ {
+  "task_id": "21179",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Assess clients' cognitive abilities and physical and emotional needs to determine appropriate interventions."
+ },
+ {
+  "task_id": "21180",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Develop and implement behavioral management and care plans for clients."
+ },
+ {
+  "task_id": "3754",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Keep records or prepare reports for owner or management concerning visits with clients."
+ },
+ {
+  "task_id": "3755",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Visit individuals in homes or attend group meetings to provide information on agency services, requirements, or procedures."
+ },
+ {
+  "task_id": "3757",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Submit reports and review reports or problems with superior."
+ },
+ {
+  "task_id": "3759",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Interview individuals or family members to compile information on social, educational, criminal, institutional, or drug history."
+ },
+ {
+  "task_id": "3753",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Provide information or refer individuals to public or private agencies or community services for assistance."
+ },
+ {
+  "task_id": "3756",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Advise clients regarding food stamps, child care, food, money management, sanitation, or housekeeping."
+ },
+ {
+  "task_id": "3758",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Oversee day-to-day group activities of residents in institution."
+ },
+ {
+  "task_id": "3770",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Assist in locating housing for displaced individuals."
+ },
+ {
+  "task_id": "3765",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Consult with supervisor concerning programs for individual families."
+ },
+ {
+  "task_id": "3764",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Demonstrate use and care of equipment for tenant use."
+ },
+ {
+  "task_id": "3772",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Assist in planning food budgets, using charts or sample budgets."
+ },
+ {
+  "task_id": "3771",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Assist clients with preparation of forms, such as tax or rent forms."
+ },
+ {
+  "task_id": "3762",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Explain rules established by owner or management, such as sanitation or maintenance requirements or parking regulations."
+ },
+ {
+  "task_id": "3767",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Observe clients' food selections and recommend alternate economical and nutritional food choices."
+ },
+ {
+  "task_id": "3763",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Observe and discuss meal preparation and suggest alternate methods of food preparation."
+ },
+ {
+  "task_id": "3761",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Transport and accompany clients to shopping areas or to appointments, using automobile."
+ },
+ {
+  "task_id": "3768",
+  "occupation": "Social and Human Service Assistants",
+  "task_text": "Inform tenants of facilities, such as laundries or playgrounds."
+ },
+ {
+  "task_id": "19031",
+  "occupation": "Community Health Workers",
+  "task_text": "Maintain updated client records with plans, notes, appropriate forms, or related information."
+ },
+ {
+  "task_id": "19017",
+  "occupation": "Community Health Workers",
+  "task_text": "Advise clients or community groups on issues related to improving general health, such as diet or exercise."
+ },
+ {
+  "task_id": "19028",
+  "occupation": "Community Health Workers",
+  "task_text": "Identify or contact members of high-risk or otherwise targeted groups, such as members of minority populations, low-income populations, or pregnant women."
+ },
+ {
+  "task_id": "19026",
+  "occupation": "Community Health Workers",
+  "task_text": "Contact clients in person, by phone, or in writing to ensure they have completed required or recommended actions."
+ },
+ {
+  "task_id": "19027",
+  "occupation": "Community Health Workers",
+  "task_text": "Distribute flyers, brochures, or other informational or educational documents to inform members of a targeted community."
+ },
+ {
+  "task_id": "19036",
+  "occupation": "Community Health Workers",
+  "task_text": "Refer community members to needed health services."
+ },
+ {
+  "task_id": "19024",
+  "occupation": "Community Health Workers",
+  "task_text": "Attend community meetings or health fairs to understand community issues or build relationships with community members."
+ },
+ {
+  "task_id": "19033",
+  "occupation": "Community Health Workers",
+  "task_text": "Perform basic diagnostic procedures, such as blood pressure screening, breast cancer screening, or communicable disease screening."
+ },
+ {
+  "task_id": "19016",
+  "occupation": "Community Health Workers",
+  "task_text": "Advise clients or community groups on issues related to diagnostic screenings, such as breast cancer screening, pap smears, glaucoma tests, or diabetes screenings."
+ },
+ {
+  "task_id": "19018",
+  "occupation": "Community Health Workers",
+  "task_text": "Advise clients or community groups on issues related to risk or prevention of conditions, such as lead poisoning, human immunodeficiency virus (HIV), prenatal substance abuse, or domestic violence."
+ },
+ {
+  "task_id": "19015",
+  "occupation": "Community Health Workers",
+  "task_text": "Administer immunizations or other basic preventive treatments."
+ },
+ {
+  "task_id": "19029",
+  "occupation": "Community Health Workers",
+  "task_text": "Identify the particular health care needs of individuals in a community or target area."
+ },
+ {
+  "task_id": "19020",
+  "occupation": "Community Health Workers",
+  "task_text": "Advise clients or community groups on issues related to self-care, such as diabetes management."
+ },
+ {
+  "task_id": "19025",
+  "occupation": "Community Health Workers",
+  "task_text": "Conduct home visits for pregnant women, newborn infants, or other high-risk individuals to monitor their progress or assess their needs."
+ },
+ {
+  "task_id": "19043",
+  "occupation": "Community Health Workers",
+  "task_text": "Transport or accompany clients to scheduled health appointments or referral sites."
+ },
+ {
+  "task_id": "19023",
+  "occupation": "Community Health Workers",
+  "task_text": "Advocate for individual or community health needs with government agencies or health service providers."
+ },
+ {
+  "task_id": "19042",
+  "occupation": "Community Health Workers",
+  "task_text": "Report incidences of child or elder abuse, neglect, or threats of harm to authorities, as required."
+ },
+ {
+  "task_id": "19038",
+  "occupation": "Community Health Workers",
+  "task_text": "Teach classes or otherwise disseminate medical or dental health information to school groups, community groups, or targeted families or individuals, in a manner consistent with cultural norms."
+ },
+ {
+  "task_id": "19019",
+  "occupation": "Community Health Workers",
+  "task_text": "Advise clients or community groups on issues related to sanitation or hygiene, such as flossing or hand washing."
+ },
+ {
+  "task_id": "19040",
+  "occupation": "Community Health Workers",
+  "task_text": "Collect information from individuals to compile vital statistics about the general health of community members."
+ },
+ {
+  "task_id": "19039",
+  "occupation": "Community Health Workers",
+  "task_text": "Assist families to apply for social services, including Medicaid or Women, Infants, and Children (WIC)."
+ },
+ {
+  "task_id": "19021",
+  "occupation": "Community Health Workers",
+  "task_text": "Advise clients or community groups on issues related to social or intellectual development, such as education, childcare, or problem solving."
+ },
+ {
+  "task_id": "19034",
+  "occupation": "Community Health Workers",
+  "task_text": "Provide basic health services, such as first aid."
+ },
+ {
+  "task_id": "19030",
+  "occupation": "Community Health Workers",
+  "task_text": "Interpret, translate, or provide cultural mediation related to health services or information for community members."
+ },
+ {
+  "task_id": "19032",
+  "occupation": "Community Health Workers",
+  "task_text": "Monitor nutrition of children, elderly, or other high-risk groups."
+ },
+ {
+  "task_id": "19022",
+  "occupation": "Community Health Workers",
+  "task_text": "Advise clients or community groups to ensure parental understanding of the importance of childhood immunizations and how to access immunization services."
+ },
+ {
+  "task_id": "19041",
+  "occupation": "Community Health Workers",
+  "task_text": "Develop plans or formal contracts for individuals, families, or community groups to improve overall health."
+ },
+ {
+  "task_id": "19035",
+  "occupation": "Community Health Workers",
+  "task_text": "Provide feedback to health service providers regarding improving service accessibility or acceptability."
+ },
+ {
+  "task_id": "10934",
+  "occupation": "Clergy",
+  "task_text": "Pray and promote spirituality."
+ },
+ {
+  "task_id": "10936",
+  "occupation": "Clergy",
+  "task_text": "Prepare and deliver sermons or other talks."
+ },
+ {
+  "task_id": "10935",
+  "occupation": "Clergy",
+  "task_text": "Read from sacred texts, such as the Bible, Torah, or Koran."
+ },
+ {
+  "task_id": "10937",
+  "occupation": "Clergy",
+  "task_text": "Organize and lead regular religious services."
+ },
+ {
+  "task_id": "10939",
+  "occupation": "Clergy",
+  "task_text": "Instruct people who seek conversion to a particular faith."
+ },
+ {
+  "task_id": "10938",
+  "occupation": "Clergy",
+  "task_text": "Share information about religious issues by writing articles, giving speeches, or teaching."
+ },
+ {
+  "task_id": "10940",
+  "occupation": "Clergy",
+  "task_text": "Counsel individuals or groups concerning their spiritual, emotional, or personal needs."
+ },
+ {
+  "task_id": "10943",
+  "occupation": "Clergy",
+  "task_text": "Administer religious rites or ordinances."
+ },
+ {
+  "task_id": "10950",
+  "occupation": "Clergy",
+  "task_text": "Prepare people for participation in religious ceremonies."
+ },
+ {
+  "task_id": "10941",
+  "occupation": "Clergy",
+  "task_text": "Visit people in homes, hospitals, or prisons to provide them with comfort and support."
+ },
+ {
+  "task_id": "10942",
+  "occupation": "Clergy",
+  "task_text": "Train leaders of church, community, or youth groups."
+ },
+ {
+  "task_id": "20748",
+  "occupation": "Clergy",
+  "task_text": "Plan or lead religious education programs."
+ },
+ {
+  "task_id": "10944",
+  "occupation": "Clergy",
+  "task_text": "Study and interpret religious laws, doctrines, or traditions."
+ },
+ {
+  "task_id": "10947",
+  "occupation": "Clergy",
+  "task_text": "Respond to requests for assistance during emergencies or crises."
+ },
+ {
+  "task_id": "10945",
+  "occupation": "Clergy",
+  "task_text": "Conduct special ceremonies, such as weddings, funerals, or confirmations."
+ },
+ {
+  "task_id": "10948",
+  "occupation": "Clergy",
+  "task_text": "Devise ways in which congregational membership can be expanded."
+ },
+ {
+  "task_id": "10949",
+  "occupation": "Clergy",
+  "task_text": "Collaborate with committees or individuals to address financial or administrative issues pertaining to congregations."
+ },
+ {
+  "task_id": "10952",
+  "occupation": "Clergy",
+  "task_text": "Refer people to community support services, psychologists, or doctors."
+ },
+ {
+  "task_id": "20749",
+  "occupation": "Clergy",
+  "task_text": "Organize or engage in interfaith, community, civic, educational, or recreational activities sponsored by or related to religious programs."
+ },
+ {
+  "task_id": "10951",
+  "occupation": "Clergy",
+  "task_text": "Perform administrative duties, such as overseeing building management, ordering supplies, contracting for services or repairs, or supervising the work of staff members or volunteers."
+ },
+ {
+  "task_id": "10953",
+  "occupation": "Clergy",
+  "task_text": "Participate in fundraising activities to support congregational activities or facilities."
+ },
+ {
+  "task_id": "12977",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Develop or direct study courses or religious education programs within congregations."
+ },
+ {
+  "task_id": "12975",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Identify and recruit potential volunteer workers."
+ },
+ {
+  "task_id": "12978",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Select appropriate curricula or class structures for educational programs."
+ },
+ {
+  "task_id": "12983",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Schedule special events, such as camps, conferences, meetings, seminars, or retreats."
+ },
+ {
+  "task_id": "12980",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Counsel individuals regarding interpersonal, health, financial, or religious problems."
+ },
+ {
+  "task_id": "12982",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Collaborate with other ministry members to establish goals and objectives for religious education programs or to develop ways to encourage program participation."
+ },
+ {
+  "task_id": "12976",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Train and supervise religious education instructional staff."
+ },
+ {
+  "task_id": "12979",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Implement program plans by ordering needed materials, scheduling speakers, reserving space, or handling other administrative details."
+ },
+ {
+  "task_id": "12981",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Analyze member participation or changes in congregational emphasis to determine needs for religious education."
+ },
+ {
+  "task_id": "12986",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Analyze revenue and program cost data to determine budget priorities."
+ },
+ {
+  "task_id": "12987",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Attend workshops, seminars, or conferences to obtain program ideas, information, or resources."
+ },
+ {
+  "task_id": "12991",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Visit congregational members' homes or arrange for pastoral visits to provide information or resources regarding religious education programs."
+ },
+ {
+  "task_id": "12985",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Publicize programs through sources, such as newsletters, bulletins, or mailings."
+ },
+ {
+  "task_id": "12984",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Confer with clergy members, congregational officials, or congregational organizations to encourage support of or participation in religious education activities."
+ },
+ {
+  "task_id": "20750",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Plan fundraising activities for the church."
+ },
+ {
+  "task_id": "12988",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Locate and distribute resources, such as periodicals or curricula, to enhance the effectiveness of educational programs."
+ },
+ {
+  "task_id": "12989",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Participate in denominational activities aimed at goals, such as promoting interfaith understanding or providing aid to new or small congregations."
+ },
+ {
+  "task_id": "12992",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Interpret religious education activities to the public through speaking, leading discussions, or writing articles for local or national publications."
+ },
+ {
+  "task_id": "12990",
+  "occupation": "Directors, Religious Activities and Education",
+  "task_text": "Plan or conduct conferences dealing with the interpretation of religious ideas or convictions."
+ },
+ {
+  "task_id": "5662",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Prepare and deliver lectures to undergraduate or graduate students on topics such as financial accounting, principles of marketing, and operations management."
+ },
+ {
+  "task_id": "5663",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Evaluate and grade students' class work, assignments, and papers."
+ },
+ {
+  "task_id": "5667",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Initiate, facilitate, and moderate classroom discussions."
+ },
+ {
+  "task_id": "5665",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Prepare course materials, such as syllabi, homework assignments, and handouts."
+ },
+ {
+  "task_id": "5670",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional organizations and conferences."
+ },
+ {
+  "task_id": "5668",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Plan, evaluate, and revise curricula, course content, and course materials and methods of instruction."
+ },
+ {
+  "task_id": "5666",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Maintain student attendance records, grades, and other required records."
+ },
+ {
+  "task_id": "5681",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media."
+ },
+ {
+  "task_id": "5664",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Compile, administer, and grade examinations, or assign this work to others."
+ },
+ {
+  "task_id": "5669",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Maintain regularly scheduled office hours to advise and assist students."
+ },
+ {
+  "task_id": "5673",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Collaborate with colleagues to address teaching and research issues."
+ },
+ {
+  "task_id": "5671",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Advise students on academic and vocational curricula and career issues."
+ },
+ {
+  "task_id": "20058",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Develop and maintain course Web sites."
+ },
+ {
+  "task_id": "5674",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Collaborate with members of the business community to improve programs, to develop new programs, and to provide student access to learning opportunities, such as internships."
+ },
+ {
+  "task_id": "5676",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues."
+ },
+ {
+  "task_id": "5672",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Select and obtain materials and supplies, such as textbooks."
+ },
+ {
+  "task_id": "5678",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Compile bibliographies of specialized materials for outside reading assignments."
+ },
+ {
+  "task_id": "5677",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Participate in campus and community events."
+ },
+ {
+  "task_id": "21108",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Mentor new faculty."
+ },
+ {
+  "task_id": "5679",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Perform administrative duties, such as serving as department head."
+ },
+ {
+  "task_id": "5675",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Participate in student recruitment, registration, and placement activities."
+ },
+ {
+  "task_id": "5682",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Act as advisers to student organizations."
+ },
+ {
+  "task_id": "5680",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Supervise undergraduate or graduate teaching, internship, and research work."
+ },
+ {
+  "task_id": "5683",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Provide professional consulting services to government or industry."
+ },
+ {
+  "task_id": "5684",
+  "occupation": "Business Teachers, Postsecondary",
+  "task_text": "Write grant proposals to procure external research funding."
+ },
+ {
+  "task_id": "5688",
+  "occupation": "Computer Science Teachers, Postsecondary",
+  "task_text": "Prepare course materials, such as syllabi, homework assignments, and handouts."
+ },
+ {
+  "task_id": "5689",
+  "occupation": "Computer Science Teachers, Postsecondary",
+  "task_text": "Compile, administer, and grade examinations or assign this work to others."
+ },
+ {
+  "task_id": "5687",
+  "occupation": "Computer Science Teachers, Postsecondary",
+  "task_text": "Prepare and deliver lectures to undergraduate or graduate students on topics such as programming, data structures, and software design."
+ },
+ {
+  "task_id": "5685",
+  "occupation": "Computer Science Teachers, Postsecondary",
+  "task_text": "Evaluate and grade students' class work, laboratory work, assignments, and papers."
+ },
+ {
+  "task_id": "5686",
+  "occupation": "Computer Science Teachers, Postsecondary",
+  "task_text": "Maintain student attendance records, grades, and other required records."
+ },
+ {
+  "task_id": "5690",
+  "occupation": "Computer Science Teachers, Postsecondary",
+  "task_text": "Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences."
+ },
+ {
+  "task_id": "5692",
+  "occupation": "Computer Science Teachers, Postsecondary",
+  "task_text": "Plan, evaluate, and revise curricula, course content, and course materials and methods of instruction."
+ },
+ {
+  "task_id": "5694",
+  "occupation": "Computer Science Teachers, Postsecondary",
+  "task_text": "Maintain regularly scheduled office hours to advise and assist students."
+ },
+ {
+  "task_id": "5696",
+  "occupation": "Computer Science Teachers, Postsecondary",
+  "task_text": "Advise students on academic and vocational curricula and on career issues."
+ },
+ {
+  "task_id": "5691",
+  "occupation": "Computer Science Teachers, Postsecondary",
+  "task_text": "Initiate, facilitate, and moderate classroom discussions."
+ }
+]

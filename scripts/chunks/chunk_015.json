@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "9747",
+  "occupation": "Eligibility Interviewers, Government Programs",
+  "task_text": "Investigate claimants for the possibility of fraud or abuse."
+ },
+ {
+  "task_id": "9748",
+  "occupation": "Eligibility Interviewers, Government Programs",
+  "task_text": "Conduct annual, interim, and special housing reviews and home visits to ensure conformance to regulations."
+ },
+ {
+  "task_id": "9749",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Plan routes, itineraries, and accommodation details, and compute fares and fees, using schedules, rate books, and computers."
+ },
+ {
+  "task_id": "9750",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Make and confirm reservations for transportation and accommodations, using telephones, faxes, mail, and computers."
+ },
+ {
+  "task_id": "9751",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Prepare customer invoices and accept payment."
+ },
+ {
+  "task_id": "9752",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Answer inquiries regarding information, such as schedules, accommodations, procedures, or policies."
+ },
+ {
+  "task_id": "9753",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Assemble and issue required documentation, such as tickets, travel insurance policies, or itineraries."
+ },
+ {
+  "task_id": "9754",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Determine whether space is available on travel dates requested by customers, assigning requested spaces when available."
+ },
+ {
+  "task_id": "9755",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Inform clients of essential travel information, such as travel times, transportation connections, or medical and visa requirements."
+ },
+ {
+  "task_id": "9756",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Maintain computerized inventories of available passenger space and provide information on space reserved or available."
+ },
+ {
+  "task_id": "9757",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Confer with customers to determine their service requirements and travel preferences."
+ },
+ {
+  "task_id": "9758",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Examine passenger documentation to determine destinations and to assign boarding passes."
+ },
+ {
+  "task_id": "9759",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Provide boarding or disembarking assistance to passengers needing special assistance."
+ },
+ {
+  "task_id": "9760",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Check baggage and cargo and direct passengers to designated locations for loading."
+ },
+ {
+  "task_id": "9761",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Announce arrival and departure information, using public address systems."
+ },
+ {
+  "task_id": "9762",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Trace lost, delayed, or misdirected baggage for customers."
+ },
+ {
+  "task_id": "9763",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Promote particular destinations, tour packages, and other travel services."
+ },
+ {
+  "task_id": "9764",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Provide clients with assistance in preparing required travel documents and forms."
+ },
+ {
+  "task_id": "9766",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Provide customers with travel suggestions and information sources, such as guides, directories, brochures, or maps."
+ },
+ {
+  "task_id": "9767",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Contact customers or travel agents to advise them of travel conveyance changes or to confirm reservations."
+ },
+ {
+  "task_id": "9768",
+  "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+  "task_text": "Contact motel, hotel, resort, and travel operators to obtain current advertising literature."
+ },
+ {
+  "task_id": "9788",
+  "occupation": "Statistical Assistants",
+  "task_text": "Compute and analyze data, using statistical formulas and computers or calculators."
+ },
+ {
+  "task_id": "9789",
+  "occupation": "Statistical Assistants",
+  "task_text": "Enter data into computers for use in analyses or reports."
+ },
+ {
+  "task_id": "9790",
+  "occupation": "Statistical Assistants",
+  "task_text": "Compile statistics from source materials, such as production or sales records, quality-control or test records, time sheets, or survey sheets."
+ },
+ {
+  "task_id": "9791",
+  "occupation": "Statistical Assistants",
+  "task_text": "Compile reports, charts, or graphs that describe and interpret findings of analyses."
+ },
+ {
+  "task_id": "9792",
+  "occupation": "Statistical Assistants",
+  "task_text": "Check source data to verify completeness and accuracy."
+ },
+ {
+  "task_id": "9793",
+  "occupation": "Statistical Assistants",
+  "task_text": "Participate in the publication of data or information."
+ },
+ {
+  "task_id": "9794",
+  "occupation": "Statistical Assistants",
+  "task_text": "Discuss data presentation requirements with clients."
+ },
+ {
+  "task_id": "9795",
+  "occupation": "Statistical Assistants",
+  "task_text": "File data and related information, and maintain and update databases."
+ },
+ {
+  "task_id": "9796",
+  "occupation": "Statistical Assistants",
+  "task_text": "Select statistical tests for analyzing data."
+ },
+ {
+  "task_id": "9797",
+  "occupation": "Statistical Assistants",
+  "task_text": "Organize paperwork, such as survey forms or reports, for distribution or analysis."
+ },
+ {
+  "task_id": "9798",
+  "occupation": "Statistical Assistants",
+  "task_text": "Code data prior to computer entry, using lists of codes."
+ },
+ {
+  "task_id": "9799",
+  "occupation": "Statistical Assistants",
+  "task_text": "Check survey responses for errors, such as the use of pens instead of pencils, and set aside response forms that cannot be used."
+ },
+ {
+  "task_id": "9800",
+  "occupation": "Statistical Assistants",
+  "task_text": "Interview people and keep track of their responses."
+ },
+ {
+  "task_id": "9801",
+  "occupation": "Statistical Assistants",
+  "task_text": "Send out surveys."
+ },
+ {
+  "task_id": "10829",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Determine the nature of code violations and actions to be taken, and issue written notices of violation, participating in enforcement hearings, as necessary."
+ },
+ {
+  "task_id": "10830",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Examine permits, licenses, applications, and records to ensure compliance with licensing requirements."
+ },
+ {
+  "task_id": "10831",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Prepare, organize, and maintain inspection records."
+ },
+ {
+  "task_id": "10832",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Interview individuals to determine the nature of suspected violations and to obtain evidence of violations."
+ },
+ {
+  "task_id": "10833",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Prepare written, oral, tabular, and graphic reports summarizing requirements and regulations, including enforcement and chain of custody documentation."
+ },
+ {
+  "task_id": "10834",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Monitor follow-up actions in cases where violations were found, and review compliance monitoring reports."
+ },
+ {
+  "task_id": "10835",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Investigate complaints and suspected violations regarding illegal dumping, pollution, pesticides, product quality, or labeling laws."
+ },
+ {
+  "task_id": "10836",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Inspect waste pretreatment, treatment, and disposal facilities and systems for conformance to federal, state, or local regulations."
+ },
+ {
+  "task_id": "10837",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Inform individuals and groups of pollution control regulations and inspection findings, and explain how problems can be corrected."
+ },
+ {
+  "task_id": "10838",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Determine sampling locations and methods, and collect water or wastewater samples for analysis, preserving samples with appropriate containers and preservation methods."
+ },
+ {
+  "task_id": "10839",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Verify that hazardous chemicals are handled, stored, and disposed of in accordance with regulations."
+ },
+ {
+  "task_id": "10840",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Research and keep informed of pertinent information and developments in areas such as EPA laws and regulations."
+ },
+ {
+  "task_id": "10841",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Determine which sites and violation reports to investigate, and coordinate compliance and enforcement activities with other government agencies."
+ },
+ {
+  "task_id": "10842",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Observe and record field conditions, gathering, interpreting, and reporting data such as flow meter readings and chemical levels."
+ },
+ {
+  "task_id": "10843",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Learn and observe proper safety precautions, rules, regulations, and practices so that unsafe conditions can be recognized and proper safety protocols implemented."
+ },
+ {
+  "task_id": "10844",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Evaluate label information for accuracy and conformance to regulatory requirements."
+ },
+ {
+  "task_id": "10845",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Inform health professionals, property owners, and the public about harmful properties and related problems of water pollution and contaminated wastewater."
+ },
+ {
+  "task_id": "10846",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Analyze and implement state, federal or local requirements as necessary to maintain approved pretreatment, pollution prevention, and storm water runoff programs."
+ },
+ {
+  "task_id": "10847",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Perform laboratory tests on samples collected, such as analyzing the content of contaminated wastewater."
+ },
+ {
+  "task_id": "10848",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Review and evaluate applications for registration of products containing dangerous materials, or for pollution control discharge permits."
+ },
+ {
+  "task_id": "10849",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Research and perform calculations related to landscape allowances, discharge volumes, production-based and alternative limits, and wastewater strength classifications, making recommendations and compl"
+ },
+ {
+  "task_id": "10850",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Participate in the development of spill prevention programs and hazardous waste rules and regulations, and recommend corrective actions for hazardous waste problems."
+ },
+ {
+  "task_id": "10851",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Maintain and repair materials, work sites, and equipment."
+ },
+ {
+  "task_id": "10852",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Conduct research on hazardous waste management projects to determine the magnitude of problems and treatment or disposal alternatives and costs."
+ },
+ {
+  "task_id": "10853",
+  "occupation": "Environmental Compliance Inspectors",
+  "task_text": "Respond to questions and inquiries, such as those concerning service charges and capacity fees, or refer them to supervisors."
+ },
+ {
+  "task_id": "10865",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Investigate employment practices or alleged violations of laws to document and correct discriminatory factors."
+ },
+ {
+  "task_id": "10866",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Interpret civil rights laws and equal opportunity regulations for individuals or employers."
+ },
+ {
+  "task_id": "10867",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Study equal opportunity complaints to clarify issues."
+ },
+ {
+  "task_id": "10869",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Coordinate, monitor, or revise complaint procedures to ensure timely processing and review of complaints."
+ },
+ {
+  "task_id": "10870",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Prepare reports of selection, survey, or other statistics and recommendations for corrective action."
+ },
+ {
+  "task_id": "10871",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Conduct surveys and evaluate findings to determine if systematic discrimination exists."
+ },
+ {
+  "task_id": "10873",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Review company contracts to determine actions required to meet governmental equal opportunity provisions."
+ },
+ {
+  "task_id": "10874",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Counsel newly hired members of minority or disadvantaged groups, informing them about details of civil rights laws."
+ },
+ {
+  "task_id": "10875",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Provide information, technical assistance, or training to supervisors, managers, or employees on topics such as employee supervision, hiring, grievance procedures, or staff development."
+ },
+ {
+  "task_id": "10876",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Verify that all job descriptions are submitted for review and approval and that descriptions meet regulatory standards."
+ },
+ {
+  "task_id": "10878",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Consult with community representatives to develop technical assistance agreements in accordance with governmental regulations."
+ },
+ {
+  "task_id": "10879",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Meet with job search committees or coordinators to explain the role of the equal opportunity coordinator, to provide resources for advertising, or to explain expectations for future contacts."
+ },
+ {
+  "task_id": "10880",
+  "occupation": "Equal Opportunity Representatives and Officers",
+  "task_text": "Participate in the recruitment of employees through job fairs, career days, or advertising plans."
+ },
+ {
+  "task_id": "11237",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Answer customers' questions about products, prices, availability, or credit terms."
+ },
+ {
+  "task_id": "11238",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Quote prices, credit terms, or other bid specifications."
+ },
+ {
+  "task_id": "11239",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Emphasize product features, based on analyses of customers' needs and on technical knowledge of product capabilities and limitations."
+ },
+ {
+  "task_id": "11240",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Negotiate prices or terms of sales or service agreements."
+ },
+ {
+  "task_id": "11241",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Maintain customer records, using automated systems."
+ },
+ {
+  "task_id": "11245",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Collaborate with colleagues to exchange information, such as selling strategies or marketing information."
+ },
+ {
+  "task_id": "11246",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Prepare sales presentations or proposals to explain product specifications or applications."
+ },
+ {
+  "task_id": "11248",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Provide customers with ongoing technical support."
+ },
+ {
+  "task_id": "11249",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Inform customers of estimated delivery schedules, service contracts, warranties, or other information pertaining to purchased products."
+ },
+ {
+  "task_id": "11251",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Visit establishments to evaluate needs or to promote product or service sales."
+ },
+ {
+  "task_id": "11252",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Complete expense reports, sales reports, or other paperwork."
+ },
+ {
+  "task_id": "11256",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Provide feedback to product design teams so that products can be tailored to clients' needs."
+ },
+ {
+  "task_id": "11257",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Arrange for installation and testing of products or machinery."
+ },
+ {
+  "task_id": "11261",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Compute customer's installation or production costs and estimate savings from new services, products, or equipment."
+ },
+ {
+  "task_id": "11262",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Consult with engineers regarding technical problems with products."
+ },
+ {
+  "task_id": "11265",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Stock or distribute resources, such as samples or promotional or educational materials."
+ },
+ {
+  "task_id": "11267",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Visit establishments, such as pharmacies, to determine product sales."
+ },
+ {
+  "task_id": "11270",
+  "occupation": "Correspondence Clerks",
+  "task_text": "Prepare documents and correspondence, such as damage claims, credit and billing inquiries, invoices, and service complaints."
+ },
+ {
+  "task_id": "11271",
+  "occupation": "Correspondence Clerks",
+  "task_text": "Compile data from records to prepare periodic reports."
+ },
+ {
+  "task_id": "11272",
+  "occupation": "Correspondence Clerks",
+  "task_text": "Present clear and concise explanations of governing rules and regulations."
+ },
+ {
+  "task_id": "11273",
+  "occupation": "Correspondence Clerks",
+  "task_text": "Read incoming correspondence to ascertain nature of writers' concerns and to determine disposition of correspondence."
+ },
+ {
+  "task_id": "11274",
+  "occupation": "Correspondence Clerks",
+  "task_text": "Type acknowledgment letters to persons sending correspondence."
+ },
+ {
+  "task_id": "11275",
+  "occupation": "Correspondence Clerks",
+  "task_text": "Review correspondence for format and typographical accuracy, assemble the information into a prescribed form with the correct number of copies, and submit it to an authorized official for signature."
+ },
+ {
+  "task_id": "11276",
+  "occupation": "Correspondence Clerks",
+  "task_text": "Maintain files and control records to show correspondence activities."
+ },
+ {
+  "task_id": "11277",
+  "occupation": "Correspondence Clerks",
+  "task_text": "Gather records pertinent to specific problems, review them for completeness and accuracy, and attach records to correspondence as necessary."
+ },
+ {
+  "task_id": "11278",
+  "occupation": "Correspondence Clerks",
+  "task_text": "Complete form letters in response to requests or problems identified by correspondence."
+ },
+ {
+  "task_id": "11279",
+  "occupation": "Correspondence Clerks",
+  "task_text": "Route correspondence to other departments for reply."
+ },
+ {
+  "task_id": "11280",
+  "occupation": "Correspondence Clerks",
+  "task_text": "Compose letters in reply to correspondence concerning such items as requests for merchandise, damage claims, credit information requests, delinquent accounts, incorrect billing, or unsatisfactory serv"
+ },
+ {
+  "task_id": "11281",
+  "occupation": "Correspondence Clerks",
+  "task_text": "Ensure that money collected is properly recorded and secured."
+ },
+ {
+  "task_id": "11283",
+  "occupation": "Correspondence Clerks",
+  "task_text": "Compute costs of records furnished to requesters, and write letters to obtain payment."
+ },
+ {
+  "task_id": "11285",
+  "occupation": "Correspondence Clerks",
+  "task_text": "Prepare records for shipment by certified mail."
+ },
+ {
+  "task_id": "11287",
+  "occupation": "Correspondence Clerks",
+  "task_text": "Confer with company personnel regarding feasibility of complying with writers' requests."
+ },
+ {
+  "task_id": "11289",
+  "occupation": "Correspondence Clerks",
+  "task_text": "Process orders for goods requested in correspondence."
+ },
+ {
+  "task_id": "11290",
+  "occupation": "Correspondence Clerks",
+  "task_text": "Compile data pertinent to manufacture of special products for customers."
+ },
+ {
+  "task_id": "11291",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "Verify and examine information and accuracy of loan application and closing documents."
+ },
+ {
+  "task_id": "11292",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "Interview loan applicants to obtain personal and financial data and to assist in completing applications."
+ },
+ {
+  "task_id": "11293",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "Assemble and compile documents for loan closings, such as title abstracts, insurance forms, loan forms, and tax receipts."
+ },
+ {
+  "task_id": "11294",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "Answer questions and advise customers regarding loans and transactions."
+ },
+ {
+  "task_id": "11295",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "Contact customers by mail, telephone, or in person concerning acceptance or rejection of applications."
+ },
+ {
+  "task_id": "11296",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "Record applications for loan and credit, loan information, and disbursements of funds, using computers."
+ },
+ {
+  "task_id": "11297",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "Prepare and type loan applications, closing documents, legal documents, letters, forms, government notices, and checks, using computers."
+ },
+ {
+  "task_id": "11298",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "Present loan and repayment schedules to customers."
+ },
+ {
+  "task_id": "11299",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "Calculate, review, and correct errors on interest, principal, payment, and closing costs, using computers or calculators."
+ },
+ {
+  "task_id": "11300",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "Check value of customer collateral to be held as loan security."
+ },
+ {
+  "task_id": "11301",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "Contact credit bureaus, employers, and other sources to check applicants' credit and personal references."
+ },
+ {
+  "task_id": "11302",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "File and maintain loan records."
+ },
+ {
+  "task_id": "11303",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "Schedule and conduct closings of mortgage transactions."
+ },
+ {
+  "task_id": "11304",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "Accept payment on accounts."
+ },
+ {
+  "task_id": "11305",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "Submit loan applications with recommendation for underwriting approval."
+ },
+ {
+  "task_id": "11306",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "Order property insurance or mortgage insurance policies to ensure protection against loss on mortgaged property."
+ },
+ {
+  "task_id": "11307",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "Review customer accounts to determine whether payments are made on time and that other loan terms are being followed."
+ },
+ {
+  "task_id": "11308",
+  "occupation": "Loan Interviewers and Clerks",
+  "task_text": "Establish credit limits and grant extensions of credit on overdue accounts."
+ },
+ {
+  "task_id": "11309",
+  "occupation": "Meter Readers, Utilities",
+  "task_text": "Read electric, gas, water, or steam consumption meters and enter data in route books or hand-held computers."
+ },
+ {
+  "task_id": "11310",
+  "occupation": "Meter Readers, Utilities",
+  "task_text": "Walk or drive vehicles along established routes to take readings of meter dials."
+ },
+ {
+  "task_id": "11311",
+  "occupation": "Meter Readers, Utilities",
+  "task_text": "Upload into office computers all information collected on hand-held computers during meter rounds, or return route books or hand-held computers to business offices so that data can be compiled."
+ },
+ {
+  "task_id": "11312",
+  "occupation": "Meter Readers, Utilities",
+  "task_text": "Verify readings in cases where consumption appears to be abnormal, and record possible reasons for fluctuations."
+ },
+ {
+  "task_id": "11313",
+  "occupation": "Meter Readers, Utilities",
+  "task_text": "Inspect meters for unauthorized connections, defects, and damage, such as broken seals."
+ }
+]

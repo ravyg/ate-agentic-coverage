@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "12013",
+  "occupation": "Pourers and Casters, Metal",
+  "task_text": "Add metal to molds to compensate for shrinkage."
+ },
+ {
+  "task_id": "12020",
+  "occupation": "Pourers and Casters, Metal",
+  "task_text": "Stencil identifying information on ingots and pigs, using special hand tools."
+ },
+ {
+  "task_id": "12022",
+  "occupation": "Model Makers, Metal and Plastic",
+  "task_text": "Study blueprints, drawings, and sketches to determine material dimensions, required equipment, and operations sequences."
+ },
+ {
+  "task_id": "12023",
+  "occupation": "Model Makers, Metal and Plastic",
+  "task_text": "Set up and operate machines, such as lathes, drill presses, punch presses, or bandsaws, to fabricate prototypes or models."
+ },
+ {
+  "task_id": "20924",
+  "occupation": "Model Makers, Metal and Plastic",
+  "task_text": "Program computer numerical control (CNC) machines to fabricate model parts."
+ },
+ {
+  "task_id": "12024",
+  "occupation": "Model Makers, Metal and Plastic",
+  "task_text": "Inspect and test products to verify conformance to specifications, using precision measuring instruments or circuit testers."
+ },
+ {
+  "task_id": "12025",
+  "occupation": "Model Makers, Metal and Plastic",
+  "task_text": "Cut, shape, and form metal parts, using lathes, power saws, snips, power brakes and shears, files, and mallets."
+ },
+ {
+  "task_id": "12030",
+  "occupation": "Model Makers, Metal and Plastic",
+  "task_text": "Rework or alter component model or parts as required to ensure that products meet standards."
+ },
+ {
+  "task_id": "12027",
+  "occupation": "Model Makers, Metal and Plastic",
+  "task_text": "Drill, countersink, and ream holes in parts and assemblies for bolts, screws, and other fasteners, using power tools."
+ },
+ {
+  "task_id": "12028",
+  "occupation": "Model Makers, Metal and Plastic",
+  "task_text": "Grind, file, and sand parts to finished dimensions."
+ },
+ {
+  "task_id": "12034",
+  "occupation": "Model Makers, Metal and Plastic",
+  "task_text": "Devise and construct tools, dies, molds, jigs, and fixtures, or modify existing tools and equipment."
+ },
+ {
+  "task_id": "12029",
+  "occupation": "Model Makers, Metal and Plastic",
+  "task_text": "Record specifications, production operations, and final dimensions of models for use in establishing operating standards and procedures."
+ },
+ {
+  "task_id": "12031",
+  "occupation": "Model Makers, Metal and Plastic",
+  "task_text": "Align, fit, and join parts, using bolts and screws or by welding or gluing."
+ },
+ {
+  "task_id": "12026",
+  "occupation": "Model Makers, Metal and Plastic",
+  "task_text": "Lay out and mark reference points and dimensions on materials, using measuring instruments and drawing or scribing tools."
+ },
+ {
+  "task_id": "12032",
+  "occupation": "Model Makers, Metal and Plastic",
+  "task_text": "Consult and confer with engineering personnel to discuss developmental problems and to recommend product modifications."
+ },
+ {
+  "task_id": "20925",
+  "occupation": "Model Makers, Metal and Plastic",
+  "task_text": "Use computer-aided design (CAD) and computer-aided manufacturing (CAM) software or hardware to fabricate model parts."
+ },
+ {
+  "task_id": "12033",
+  "occupation": "Model Makers, Metal and Plastic",
+  "task_text": "Assemble mechanical, electrical, and electronic components into models or prototypes, using hand tools, power tools, and fabricating machines."
+ },
+ {
+  "task_id": "12035",
+  "occupation": "Model Makers, Metal and Plastic",
+  "task_text": "Wire and solder electrical and electronic connections and components."
+ },
+ {
+  "task_id": "12038",
+  "occupation": "Patternmakers, Metal and Plastic",
+  "task_text": "Verify conformance of patterns or template dimensions to specifications, using measuring instruments such as calipers, scales, and micrometers."
+ },
+ {
+  "task_id": "12036",
+  "occupation": "Patternmakers, Metal and Plastic",
+  "task_text": "Set up and operate machine tools, such as milling machines, lathes, drill presses, and grinders, to machine castings or patterns."
+ },
+ {
+  "task_id": "12042",
+  "occupation": "Patternmakers, Metal and Plastic",
+  "task_text": "Repair and rework templates and patterns."
+ },
+ {
+  "task_id": "12041",
+  "occupation": "Patternmakers, Metal and Plastic",
+  "task_text": "Assemble pattern sections, using hand tools, bolts, screws, rivets, glue, or welding equipment."
+ },
+ {
+  "task_id": "12037",
+  "occupation": "Patternmakers, Metal and Plastic",
+  "task_text": "Read and interpret blueprints or drawings of parts to be cast or patterns to be made, compute dimensions, and plan operational sequences."
+ },
+ {
+  "task_id": "12045",
+  "occupation": "Patternmakers, Metal and Plastic",
+  "task_text": "Construct platforms, fixtures, and jigs for holding and placing patterns."
+ },
+ {
+  "task_id": "12044",
+  "occupation": "Patternmakers, Metal and Plastic",
+  "task_text": "Clean and finish patterns or templates, using emery cloths, files, scrapers, and power grinders."
+ },
+ {
+  "task_id": "12046",
+  "occupation": "Patternmakers, Metal and Plastic",
+  "task_text": "Mark identification numbers or symbols onto patterns or templates."
+ },
+ {
+  "task_id": "12039",
+  "occupation": "Patternmakers, Metal and Plastic",
+  "task_text": "Program computerized numerical control machine tools."
+ },
+ {
+  "task_id": "21025",
+  "occupation": "Patternmakers, Metal and Plastic",
+  "task_text": "Create computer models of patterns or parts, using modeling software."
+ },
+ {
+  "task_id": "12040",
+  "occupation": "Patternmakers, Metal and Plastic",
+  "task_text": "Design and create templates, patterns, or coreboxes according to work orders, sample parts, or mockups."
+ },
+ {
+  "task_id": "12043",
+  "occupation": "Patternmakers, Metal and Plastic",
+  "task_text": "Lay out and draw or scribe patterns onto material, using compasses, protractors, rulers, scribes, or other instruments."
+ },
+ {
+  "task_id": "12049",
+  "occupation": "Patternmakers, Metal and Plastic",
+  "task_text": "Paint or lacquer patterns."
+ },
+ {
+  "task_id": "12047",
+  "occupation": "Patternmakers, Metal and Plastic",
+  "task_text": "Select pattern materials such as wood, resin, and fiberglass."
+ },
+ {
+  "task_id": "12048",
+  "occupation": "Patternmakers, Metal and Plastic",
+  "task_text": "Apply plastic-impregnated fabrics or coats of sealing wax or lacquer to patterns used to produce plastic."
+ },
+ {
+  "task_id": "12050",
+  "occupation": "Foundry Mold and Coremakers",
+  "task_text": "Clean and smooth molds, cores, and core boxes, and repair surface imperfections."
+ },
+ {
+  "task_id": "12055",
+  "occupation": "Foundry Mold and Coremakers",
+  "task_text": "Sift and pack sand into mold sections, core boxes, and pattern contours, using hand or pneumatic ramming tools."
+ },
+ {
+  "task_id": "12053",
+  "occupation": "Foundry Mold and Coremakers",
+  "task_text": "Position patterns inside mold sections, and clamp sections together."
+ },
+ {
+  "task_id": "12054",
+  "occupation": "Foundry Mold and Coremakers",
+  "task_text": "Position cores into lower sections of molds, and reassemble molds for pouring."
+ },
+ {
+  "task_id": "12052",
+  "occupation": "Foundry Mold and Coremakers",
+  "task_text": "Sprinkle or spray parting agents onto patterns and mold sections to facilitate removal of patterns from molds."
+ },
+ {
+  "task_id": "12059",
+  "occupation": "Foundry Mold and Coremakers",
+  "task_text": "Form and assemble slab cores around patterns, and position wire in mold sections to reinforce molds, using hand tools and glue."
+ },
+ {
+  "task_id": "12051",
+  "occupation": "Foundry Mold and Coremakers",
+  "task_text": "Move and position workpieces, such as mold sections, patterns, and bottom boards, using cranes, or signal others to move workpieces."
+ },
+ {
+  "task_id": "12058",
+  "occupation": "Foundry Mold and Coremakers",
+  "task_text": "Lift upper mold sections from lower sections, and remove molded patterns."
+ },
+ {
+  "task_id": "12057",
+  "occupation": "Foundry Mold and Coremakers",
+  "task_text": "Cut spouts, runner holes, and sprue holes into molds."
+ },
+ {
+  "task_id": "12056",
+  "occupation": "Foundry Mold and Coremakers",
+  "task_text": "Tend machines that bond cope and drag together to form completed shell molds."
+ },
+ {
+  "task_id": "12061",
+  "occupation": "Foundry Mold and Coremakers",
+  "task_text": "Rotate sweep boards around spindles to make symmetrical molds for convex impressions."
+ },
+ {
+  "task_id": "12060",
+  "occupation": "Foundry Mold and Coremakers",
+  "task_text": "Pour molten metal into molds, manually or with crane ladles."
+ },
+ {
+  "task_id": "12062",
+  "occupation": "Foundry Mold and Coremakers",
+  "task_text": "Operate ovens or furnaces to bake cores or to melt, skim, and flux metal."
+ },
+ {
+  "task_id": "10174",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Measure and visually inspect products for surface and dimension defects to ensure conformance to specifications, using precision measuring instruments."
+ },
+ {
+  "task_id": "10173",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Observe continuous operation of automatic machines to ensure that products meet specifications and to detect jams or malfunctions, making adjustments as necessary."
+ },
+ {
+  "task_id": "10175",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Set up, operate, or tend metal or plastic molding, casting, or coremaking machines to mold or cast metal or thermoplastic parts or products."
+ },
+ {
+  "task_id": "10177",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Turn valves and dials of machines to regulate pressure, temperature, and speed and feed rates, and to set cycle times."
+ },
+ {
+  "task_id": "10186",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Read specifications, blueprints, and work orders to determine setups, temperatures, and time settings required to mold, form, or cast plastic materials, as well as to plan production sequences."
+ },
+ {
+  "task_id": "10184",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Observe meters and gauges to verify and record temperatures, pressures, and press-cycle times."
+ },
+ {
+  "task_id": "10192",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Connect water hoses to cooling systems of dies, using hand tools."
+ },
+ {
+  "task_id": "10188",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Remove parts, such as dies, from machines after production runs are finished."
+ },
+ {
+  "task_id": "10197",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Perform maintenance work such as cleaning and oiling machines."
+ },
+ {
+  "task_id": "10195",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Smooth and clean inner surfaces of molds, using brushes, scrapers, air hoses, or grinding wheels, and fill imperfections with refractory material."
+ },
+ {
+  "task_id": "10194",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Operate hoists to position dies or patterns on foundry floors."
+ },
+ {
+  "task_id": "10181",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Cool products after processing to prevent distortion."
+ },
+ {
+  "task_id": "10182",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Install dies onto machines or presses and coat dies with parting agents, according to work order specifications."
+ },
+ {
+  "task_id": "10191",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Unload finished products from conveyor belts, pack them in containers, and place containers in warehouses."
+ },
+ {
+  "task_id": "10178",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Remove finished or cured products from dies or molds, using hand tools, air hoses, and other equipment, stamping identifying information on products when necessary."
+ },
+ {
+  "task_id": "10196",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Obtain and move specified patterns to work stations, manually or using hoists, and secure patterns to machines, using wrenches."
+ },
+ {
+  "task_id": "10203",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Select and install blades, tools, or other attachments for each operation."
+ },
+ {
+  "task_id": "10198",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Repair or replace damaged molds, pipes, belts, chains, or other equipment, using hand tools, hand-powered presses, or jib cranes."
+ },
+ {
+  "task_id": "10189",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Inventory and record quantities of materials and finished products, requisitioning additional supplies as necessary."
+ },
+ {
+  "task_id": "10200",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Select coolants and lubricants, and start their flow."
+ },
+ {
+  "task_id": "10187",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Adjust equipment and workpiece holding fixtures, such as mold frames, tubs, and cutting tables, to ensure proper functioning."
+ },
+ {
+  "task_id": "10199",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Maintain inventories of materials."
+ },
+ {
+  "task_id": "10176",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Position and secure workpieces on machines, and start feeding mechanisms."
+ },
+ {
+  "task_id": "10180",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Trim excess material from parts, using knives, and grind scrap plastic into powder for reuse."
+ },
+ {
+  "task_id": "10183",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Mix and measure compounds, or weigh premixed compounds, and dump them into machine tubs, cavities, or molds."
+ },
+ {
+  "task_id": "10185",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Spray, smoke, or coat molds with compounds to lubricate or insulate molds, using acetylene torches or sprayers."
+ },
+ {
+  "task_id": "10193",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Preheat tools, dies, plastic materials, or patterns, using blowtorches or other equipment."
+ },
+ {
+  "task_id": "10190",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Pour or load metal or sand into melting pots, furnaces, molds, or hoppers, using shovels, ladles, or machines."
+ },
+ {
+  "task_id": "10179",
+  "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Skim or pour dross, slag, or impurities from molten metal, using ladles, rakes, hoes, spatulas, or spoons."
+ },
+ {
+  "task_id": "10206",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Inspect workpieces for defects, and measure workpieces to determine accuracy of machine operation, using rules, templates, or other measuring instruments."
+ },
+ {
+  "task_id": "10210",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Position, adjust, and secure stock material or workpieces against stops, on arbors, or in chucks, fixtures, or automatic feeding mechanisms, manually or using hoists."
+ },
+ {
+  "task_id": "10208",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Read blueprints or job orders to determine product specifications and tooling instructions and to plan operational sequences."
+ },
+ {
+  "task_id": "10211",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Select, install, and adjust alignment of drills, cutters, dies, guides, and holding devices, using templates, measuring instruments, and hand tools."
+ },
+ {
+  "task_id": "10207",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Observe machine operation to detect workpiece defects or machine malfunctions, adjusting machines as necessary."
+ },
+ {
+  "task_id": "10209",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Set up and operate machines, such as lathes, cutters, shears, borers, millers, grinders, presses, drills, or auxiliary machines, to make metallic and plastic workpieces."
+ },
+ {
+  "task_id": "10212",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Change worn machine accessories, such as cutting tools or brushes, using hand tools."
+ },
+ {
+  "task_id": "10221",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Set machine stops or guides to specified lengths as indicated by scales, rules, or templates."
+ },
+ {
+  "task_id": "10216",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Select the proper coolants and lubricants and start their flow."
+ },
+ {
+  "task_id": "10217",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Remove burrs, sharp edges, rust, or scale from workpieces, using files, hand grinders, wire brushes, or power tools."
+ },
+ {
+  "task_id": "10215",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Perform minor machine maintenance, such as oiling or cleaning machines, dies, or workpieces, or adding coolant to machine reservoirs."
+ },
+ {
+  "task_id": "10213",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Make minor electrical and mechanical repairs and adjustments to machines and notify supervisors when major service is required."
+ },
+ {
+  "task_id": "10223",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Compute data, such as gear dimensions or machine settings, applying knowledge of shop mathematics."
+ },
+ {
+  "task_id": "10214",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Start machines and turn handwheels or valves to engage feeding, cooling, and lubricating mechanisms."
+ },
+ {
+  "task_id": "10222",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Move controls or mount gears, cams, or templates in machines to set feed rates and cutting speeds, depths, and angles."
+ },
+ {
+  "task_id": "10218",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Instruct other workers in machine set-up and operation."
+ },
+ {
+  "task_id": "10219",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Record operational data, such as pressure readings, lengths of strokes, feed rates, or speeds."
+ },
+ {
+  "task_id": "10220",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Extract or lift jammed pieces from machines, using fingers, wire hooks, or lift bars."
+ },
+ {
+  "task_id": "10225",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Measure and mark reference points and cutting lines on workpieces, using traced templates, compasses, and rules."
+ },
+ {
+  "task_id": "23937",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Write programs for computer numerical control (CNC) machines to cut metal and plastic materials."
+ },
+ {
+  "task_id": "10224",
+  "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+  "task_text": "Align layout marks with dies or blades."
+ },
+ {
+  "task_id": "8490",
+  "occupation": "Tool and Die Makers",
+  "task_text": "Verify dimensions, alignments, and clearances of finished parts for conformance to specifications, using measuring instruments such as calipers, gauge blocks, micrometers, or dial indicators."
+ },
+ {
+  "task_id": "8492",
+  "occupation": "Tool and Die Makers",
+  "task_text": "Set up and operate conventional or computer numerically controlled machine tools such as lathes, milling machines, or grinders to cut, bore, grind, or otherwise shape parts to prescribed dimensions and finishes."
+ },
+ {
+  "task_id": "8491",
+  "occupation": "Tool and Die Makers",
+  "task_text": "Visualize and compute dimensions, sizes, shapes, and tolerances of assemblies, based on specifications."
+ },
+ {
+  "task_id": "8489",
+  "occupation": "Tool and Die Makers",
+  "task_text": "Study blueprints, sketches, models, or specifications to plan sequences of operations for fabricating tools, dies, or assemblies."
+ },
+ {
+  "task_id": "23938",
+  "occupation": "Tool and Die Makers",
+  "task_text": "Fit and assemble parts to make, repair, or modify dies, jigs, gauges, and tools, using machine tools, hand tools, or welders."
+ },
+ {
+  "task_id": "8496",
+  "occupation": "Tool and Die Makers",
+  "task_text": "Inspect finished dies for smoothness, contour conformity, and defects."
+ },
+ {
+  "task_id": "8502",
+  "occupation": "Tool and Die Makers",
+  "task_text": "Select metals to be used from a range of metals and alloys, based on properties such as hardness or heat tolerance."
+ },
+ {
+  "task_id": "8498",
+  "occupation": "Tool and Die Makers",
+  "task_text": "Lift, position, and secure machined parts on surface plates or worktables, using hoists, vises, v-blocks, or angle plates."
+ },
+ {
+  "task_id": "8493",
+  "occupation": "Tool and Die Makers",
+  "task_text": "File, grind, shim, and adjust different parts to properly fit them together."
+ },
+ {
+  "task_id": "8497",
+  "occupation": "Tool and Die Makers",
+  "task_text": "Smooth and polish flat and contoured surfaces of parts or tools, using scrapers, abrasive stones, files, emery cloths, or power grinders."
+ },
+ {
+  "task_id": "8499",
+  "occupation": "Tool and Die Makers",
+  "task_text": "Measure, mark, and scribe metal or plastic stock to lay out machining, using instruments such as protractors, micrometers, scribes, or rulers."
+ },
+ {
+  "task_id": "8495",
+  "occupation": "Tool and Die Makers",
+  "task_text": "Conduct test runs with completed tools or dies to ensure that parts meet specifications, making adjustments as necessary."
+ },
+ {
+  "task_id": "8501",
+  "occupation": "Tool and Die Makers",
+  "task_text": "Design jigs, fixtures, and templates for use as work aids in the fabrication of parts or products."
+ },
+ {
+  "task_id": "8500",
+  "occupation": "Tool and Die Makers",
+  "task_text": "Cut, shape, and trim blanks or blocks to specified lengths or shapes, using power saws, power shears, rules, and hand tools."
+ },
+ {
+  "task_id": "8503",
+  "occupation": "Tool and Die Makers",
+  "task_text": "Set up and operate drill presses to drill and tap holes in parts for assembly."
+ },
+ {
+  "task_id": "8504",
+  "occupation": "Tool and Die Makers",
+  "task_text": "Develop and design new tools and dies, using computer-aided design software."
+ },
+ {
+  "task_id": "8505",
+  "occupation": "Tool and Die Makers",
+  "task_text": "Set pyrometer controls of heat-treating furnaces and feed or place parts, tools, or assemblies into furnaces to harden."
+ },
+ {
+  "task_id": "23583",
+  "occupation": "Welders, Cutters, Solderers, and Brazers",
+  "task_text": "Operate safety equipment and use safe work habits."
+ },
+ {
+  "task_id": "23584",
+  "occupation": "Welders, Cutters, Solderers, and Brazers",
+  "task_text": "Examine workpieces for defects and measure workpieces with straightedges or templates to ensure conformance with specifications."
+ },
+ {
+  "task_id": "23582",
+  "occupation": "Welders, Cutters, Solderers, and Brazers",
+  "task_text": "Weld components in flat, vertical, or overhead positions."
+ },
+ {
+  "task_id": "23600",
+  "occupation": "Welders, Cutters, Solderers, and Brazers",
+  "task_text": "Detect faulty operation of equipment or defective materials and notify supervisors."
+ },
+ {
+  "task_id": "23585",
+  "occupation": "Welders, Cutters, Solderers, and Brazers",
+  "task_text": "Recognize, set up, and operate hand and power tools common to the welding trade, such as shielded metal arc and gas metal arc welding equipment."
+ },
+ {
+  "task_id": "23587",
+  "occupation": "Welders, Cutters, Solderers, and Brazers",
+  "task_text": "Select and install torches, torch tips, filler rods, and flux, according to welding chart specifications or types and thicknesses of metals."
+ },
+ {
+  "task_id": "23592",
+  "occupation": "Welders, Cutters, Solderers, and Brazers",
+  "task_text": "Mark or tag material with proper job number, piece marks, and other identifying marks as required."
+ },
+ {
+  "task_id": "23590",
+  "occupation": "Welders, Cutters, Solderers, and Brazers",
+  "task_text": "Determine required equipment and welding methods, applying knowledge of metallurgy, geometry, and welding techniques."
+ },
+ {
+  "task_id": "23594",
+  "occupation": "Welders, Cutters, Solderers, and Brazers",
+  "task_text": "Prepare all material surfaces to be welded, ensuring that there is no loose or thick scale, slag, rust, moisture, grease, or other foreign matter."
+ },
+ {
+  "task_id": "23596",
+  "occupation": "Welders, Cutters, Solderers, and Brazers",
+  "task_text": "Align and clamp workpieces together, using rules, squares, or hand tools, or position items in fixtures, jigs, or vises."
+ },
+ {
+  "task_id": "23589",
+  "occupation": "Welders, Cutters, Solderers, and Brazers",
+  "task_text": "Connect and turn regulator valves to activate and adjust gas flow and pressure so that desired flames are obtained."
+ },
+ {
+  "task_id": "23599",
+  "occupation": "Welders, Cutters, Solderers, and Brazers",
+  "task_text": "Position and secure workpieces, using hoists, cranes, wire, and banding machines or hand tools."
+ },
+ {
+  "task_id": "23602",
+  "occupation": "Welders, Cutters, Solderers, and Brazers",
+  "task_text": "Melt and apply solder along adjoining edges of workpieces to solder joints, using soldering irons, gas torches, or electric-ultrasonic equipment."
+ },
+ {
+  "task_id": "23591",
+  "occupation": "Welders, Cutters, Solderers, and Brazers",
+  "task_text": "Monitor the fitting, burning, and welding processes to avoid overheating of parts or warping, shrinking, distortion, or expansion of material."
+ },
+ {
+  "task_id": "23603",
+  "occupation": "Welders, Cutters, Solderers, and Brazers",
+  "task_text": "Grind, cut, buff, or bend edges of workpieces to be joined to ensure snug fit, using power grinders and hand tools."
+ },
+ {
+  "task_id": "23586",
+  "occupation": "Welders, Cutters, Solderers, and Brazers",
+  "task_text": "Weld separately or in combination, using aluminum, stainless steel, cast iron, and other alloys."
+ },
+ {
+  "task_id": "23593",
+  "occupation": "Welders, Cutters, Solderers, and Brazers",
+  "task_text": "Chip or grind off excess weld, slag, or spatter, using hand scrapers or power chippers, portable grinders, or arc-cutting equipment."
+ }
+]

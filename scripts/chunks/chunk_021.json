@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "17280",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Examine, evaluate and treat athletes who have been injured or who have medical problems such as exercise-induced asthma."
+ },
+ {
+  "task_id": "17281",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Diagnose or treat disorders of the musculoskeletal system."
+ },
+ {
+  "task_id": "17282",
+  "occupation": "Urologists",
+  "task_text": "Teach or train medical and clinical staff."
+ },
+ {
+  "task_id": "17283",
+  "occupation": "Urologists",
+  "task_text": "Document or review patients' histories."
+ },
+ {
+  "task_id": "17284",
+  "occupation": "Urologists",
+  "task_text": "Provide urology consultation to physicians or other health care professionals."
+ },
+ {
+  "task_id": "17285",
+  "occupation": "Urologists",
+  "task_text": "Refer patients to specialists when condition exceeds experience, expertise, or scope of practice."
+ },
+ {
+  "task_id": "17286",
+  "occupation": "Urologists",
+  "task_text": "Direct the work of nurses, residents, or other staff to provide patient care."
+ },
+ {
+  "task_id": "17287",
+  "occupation": "Urologists",
+  "task_text": "Treat urologic disorders using alternatives to traditional surgery such as extracorporeal shock wave lithotripsy, laparoscopy, or laser techniques."
+ },
+ {
+  "task_id": "17288",
+  "occupation": "Urologists",
+  "task_text": "Treat lower urinary tract dysfunctions using equipment such as diathermy machines, catheters, cystoscopes, or radium emanation tubes."
+ },
+ {
+  "task_id": "17289",
+  "occupation": "Urologists",
+  "task_text": "Prescribe or administer antibiotics, antiseptics, or compresses to treat infection or injury."
+ },
+ {
+  "task_id": "17290",
+  "occupation": "Urologists",
+  "task_text": "Prescribe medications to treat patients with erectile dysfunction (ED), infertility, or ejaculation problems."
+ },
+ {
+  "task_id": "17291",
+  "occupation": "Urologists",
+  "task_text": "Perform abdominal, pelvic, or retroperitoneal surgeries."
+ },
+ {
+  "task_id": "17292",
+  "occupation": "Urologists",
+  "task_text": "Perform brachytherapy, cryotherapy, high intensity focused ultrasound (HIFU), or photodynamic therapy to treat prostate or other cancers."
+ },
+ {
+  "task_id": "17293",
+  "occupation": "Urologists",
+  "task_text": "Order and interpret the results of diagnostic tests, such as prostate specific antigen (PSA) screening, to detect prostate cancer."
+ },
+ {
+  "task_id": "17294",
+  "occupation": "Urologists",
+  "task_text": "Examine patients using equipment, such as radiograph (x-ray) machines or fluoroscopes, to determine the nature and extent of disorder or injury."
+ },
+ {
+  "task_id": "17295",
+  "occupation": "Urologists",
+  "task_text": "Diagnose or treat diseases or disorders of genitourinary organs and tracts including erectile dysfunction (ED), infertility, incontinence, bladder cancer, prostate cancer, urethral stones, or prematur"
+ },
+ {
+  "task_id": "17296",
+  "occupation": "Anesthesiologist Assistants",
+  "task_text": "Verify availability of operating room supplies, medications, and gases."
+ },
+ {
+  "task_id": "17297",
+  "occupation": "Anesthesiologist Assistants",
+  "task_text": "Provide clinical instruction, supervision or training to staff in areas such as anesthesia practices."
+ },
+ {
+  "task_id": "17298",
+  "occupation": "Anesthesiologist Assistants",
+  "task_text": "Collect samples or specimens for diagnostic testing."
+ },
+ {
+  "task_id": "17299",
+  "occupation": "Anesthesiologist Assistants",
+  "task_text": "Participate in seminars, workshops, or other professional activities to keep abreast of developments in anesthesiology."
+ },
+ {
+  "task_id": "17300",
+  "occupation": "Anesthesiologist Assistants",
+  "task_text": "Collect and document patients' pre-anesthetic health histories."
+ },
+ {
+  "task_id": "17301",
+  "occupation": "Anesthesiologist Assistants",
+  "task_text": "Provide airway management interventions including tracheal intubation, fiber optics, or ventilary support."
+ },
+ {
+  "task_id": "17302",
+  "occupation": "Anesthesiologist Assistants",
+  "task_text": "Respond to emergency situations by providing cardiopulmonary resuscitation (CPR), basic cardiac life support (BLS), advanced cardiac life support (ACLS), or pediatric advanced life support (PALS)."
+ },
+ {
+  "task_id": "17303",
+  "occupation": "Anesthesiologist Assistants",
+  "task_text": "Monitor and document patients' progress during post-anesthesia period."
+ },
+ {
+  "task_id": "17304",
+  "occupation": "Anesthesiologist Assistants",
+  "task_text": "Pretest and calibrate anesthesia delivery systems and monitors."
+ },
+ {
+  "task_id": "17305",
+  "occupation": "Anesthesiologist Assistants",
+  "task_text": "Assist anesthesiologists in monitoring of patients, including electrocardiogram (EKG), direct arterial pressure, central venous pressure, arterial blood gas, hematocrit, or routine measurement of temp"
+ },
+ {
+  "task_id": "17306",
+  "occupation": "Anesthesiologist Assistants",
+  "task_text": "Assist in the provision of advanced life support techniques including those procedures using high frequency ventilation or intra-arterial cardiovascular assistance devices."
+ },
+ {
+  "task_id": "17307",
+  "occupation": "Anesthesiologist Assistants",
+  "task_text": "Assist anesthesiologists in performing anesthetic procedures, such as epidural or spinal injections."
+ },
+ {
+  "task_id": "17308",
+  "occupation": "Anesthesiologist Assistants",
+  "task_text": "Assist in the application of monitoring techniques, such as pulmonary artery catheterization, electroencephalographic spectral analysis, echocardiography, or evoked potentials."
+ },
+ {
+  "task_id": "17309",
+  "occupation": "Anesthesiologist Assistants",
+  "task_text": "Administer blood, blood products, or supportive fluids."
+ },
+ {
+  "task_id": "17310",
+  "occupation": "Anesthesiologist Assistants",
+  "task_text": "Control anesthesia levels during procedures."
+ },
+ {
+  "task_id": "17311",
+  "occupation": "Anesthesiologist Assistants",
+  "task_text": "Administer anesthetic, adjuvant, or accessory drugs under the direction of an anesthesiologist."
+ },
+ {
+  "task_id": "17312",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Teach classes in mental health topics, such as stress reduction."
+ },
+ {
+  "task_id": "17313",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Participate in activities aimed at professional growth and development, including conferences or continuing education activities."
+ },
+ {
+  "task_id": "17314",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Direct or provide home health services."
+ },
+ {
+  "task_id": "17315",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Monitor the use and status of medical and pharmaceutical supplies."
+ },
+ {
+  "task_id": "17316",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Develop practice protocols for mental health problems, based on review and evaluation of published research."
+ },
+ {
+  "task_id": "17317",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Develop, implement, or evaluate programs such as outreach activities, community mental health programs, and crisis situation response activities."
+ },
+ {
+  "task_id": "17318",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Treat patients for routine physical health problems."
+ },
+ {
+  "task_id": "17319",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Write prescriptions for psychotropic medications as allowed by state regulations and collaborative practice agreements."
+ },
+ {
+  "task_id": "17320",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Refer patients requiring more specialized or complex treatment to psychiatrists, primary care physicians, or other medical specialists."
+ },
+ {
+  "task_id": "17321",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Provide routine physical health screenings to detect or monitor problems such as heart disease and diabetes."
+ },
+ {
+  "task_id": "17322",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Participate in treatment team conferences regarding diagnosis or treatment of difficult cases."
+ },
+ {
+  "task_id": "17323",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Interpret diagnostic or laboratory tests, such as electrocardiograms (EKGs) and renal functioning tests."
+ },
+ {
+  "task_id": "17324",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Evaluate patients' behavior to formulate diagnoses or assess treatments."
+ },
+ {
+  "task_id": "17325",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Develop and implement treatment plans."
+ },
+ {
+  "task_id": "17326",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Monitor patients' medication usage and results."
+ },
+ {
+  "task_id": "17327",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Educate patients and family members about mental health and medical conditions, preventive health measures, medications, or treatment plans."
+ },
+ {
+  "task_id": "17328",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Distinguish between physiologically- and psychologically-based disorders, and diagnose appropriately."
+ },
+ {
+  "task_id": "17329",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Document patients' medical and psychological histories, physical assessment results, diagnoses, treatment plans, prescriptions, or outcomes."
+ },
+ {
+  "task_id": "17330",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Consult with psychiatrists or other professionals when unusual or complex cases are encountered."
+ },
+ {
+  "task_id": "17331",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Assess patients' mental and physical status, based on the presenting symptoms and complaints."
+ },
+ {
+  "task_id": "17332",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Collaborate with interdisciplinary team members, including psychiatrists, psychologists, or nursing staff, to develop, implement, or evaluate treatment plans."
+ },
+ {
+  "task_id": "17333",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Administer medications, including those administered by injection."
+ },
+ {
+  "task_id": "17334",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Diagnose psychiatric disorders and mental health conditions."
+ },
+ {
+  "task_id": "17335",
+  "occupation": "Advanced Practice Psychiatric Nurses",
+  "task_text": "Conduct individual, group, or family psychotherapy for those with chronic or acute mental disorders."
+ },
+ {
+  "task_id": "17336",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Teach cane skills, including cane use with a guide, diagonal techniques, and two-point touches."
+ },
+ {
+  "task_id": "17337",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Refer clients to services, such as eye care, health care, rehabilitation, and counseling, to enhance visual and life functioning or when condition exceeds scope of practice."
+ },
+ {
+  "task_id": "17338",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Provide consultation, support, or education to groups such as parents and teachers."
+ },
+ {
+  "task_id": "17339",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Participate in professional development activities, such as reading literature, continuing education, attending conferences, and collaborating with colleagues."
+ },
+ {
+  "task_id": "17340",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Obtain, distribute, or maintain low vision devices."
+ },
+ {
+  "task_id": "17341",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Design instructional programs to improve communication, using devices such as slates and styluses, braillers, keyboards, adaptive handwriting devices, talking book machines, digital books, and optical"
+ },
+ {
+  "task_id": "17342",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Collaborate with specialists, such as rehabilitation counselors, speech pathologists, and occupational therapists, to provide client solutions."
+ },
+ {
+  "task_id": "17343",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Administer tests and interpret test results to develop rehabilitation plans for clients."
+ },
+ {
+  "task_id": "17344",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Train clients to read or write Braille."
+ },
+ {
+  "task_id": "17345",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Teach clients to travel independently, using a variety of actual or simulated travel situations or exercises."
+ },
+ {
+  "task_id": "17346",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Train clients to use tactile, auditory, kinesthetic, olfactory, and proprioceptive information."
+ },
+ {
+  "task_id": "17347",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Train clients to use adaptive equipment, such as large print, reading stands, lamps, writing implements, software, and electronic devices."
+ },
+ {
+  "task_id": "17348",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Monitor clients' progress to determine whether changes in rehabilitation plans are needed."
+ },
+ {
+  "task_id": "17349",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Write reports or complete forms to document assessments, training, progress, or follow-up outcomes."
+ },
+ {
+  "task_id": "17350",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Develop rehabilitation or instructional plans collaboratively with clients, based on results of assessments, needs, and goals."
+ },
+ {
+  "task_id": "17351",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Assess clients' functioning in areas such as vision, orientation and mobility skills, social and emotional issues, cognition, physical abilities, and personal goals."
+ },
+ {
+  "task_id": "17352",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Train clients with visual impairments to use mobility devices or systems, such as human guides, dog guides, electronic travel aids (ETAs), and other adaptive mobility devices (AMDs)."
+ },
+ {
+  "task_id": "17353",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Identify visual impairments related to basic life skills in areas such as self care, literacy, communication, health management, home management, and meal preparation."
+ },
+ {
+  "task_id": "17354",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Teach independent living skills or techniques, such as adaptive eating, medication management, diabetes management, and personal management."
+ },
+ {
+  "task_id": "17355",
+  "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+  "task_text": "Recommend appropriate mobility devices or systems, such as human guides, dog guides, long canes, electronic travel aids (ETAs), and other adaptive mobility devices (AMDs)."
+ },
+ {
+  "task_id": "17356",
+  "occupation": "Acupuncturists",
+  "task_text": "Formulate herbal preparations to treat conditions considering herbal properties, such as taste, toxicity, effects of preparation, contraindications, and incompatibilities."
+ },
+ {
+  "task_id": "17357",
+  "occupation": "Acupuncturists",
+  "task_text": "Maintain and follow standard quality, safety, environmental, and infection control policies and procedures."
+ },
+ {
+  "task_id": "17358",
+  "occupation": "Acupuncturists",
+  "task_text": "Maintain detailed and complete records of health care plans and prognoses."
+ },
+ {
+  "task_id": "17359",
+  "occupation": "Acupuncturists",
+  "task_text": "Dispense herbal formulas and inform patients of dosages and frequencies, treatment duration, possible side effects, and drug interactions."
+ },
+ {
+  "task_id": "17360",
+  "occupation": "Acupuncturists",
+  "task_text": "Consider Western medical procedures in health assessment, health care team communication, and care referrals."
+ },
+ {
+  "task_id": "17361",
+  "occupation": "Acupuncturists",
+  "task_text": "Adhere to local, state, and federal laws, regulations, and statutes."
+ },
+ {
+  "task_id": "17362",
+  "occupation": "Acupuncturists",
+  "task_text": "Treat patients using tools, such as needles, cups, ear balls, seeds, pellets, or nutritional supplements."
+ },
+ {
+  "task_id": "17363",
+  "occupation": "Acupuncturists",
+  "task_text": "Educate patients on topics, such as meditation, ergonomics, stretching, exercise, nutrition, the healing process, breathing, or relaxation techniques."
+ },
+ {
+  "task_id": "17364",
+  "occupation": "Acupuncturists",
+  "task_text": "Evaluate treatment outcomes and recommend new or altered treatments as necessary to further promote, restore, or maintain health."
+ },
+ {
+  "task_id": "17365",
+  "occupation": "Acupuncturists",
+  "task_text": "Assess patients' general physical appearance to make diagnoses."
+ },
+ {
+  "task_id": "17366",
+  "occupation": "Acupuncturists",
+  "task_text": "Collect medical histories and general health and lifestyle information from patients."
+ },
+ {
+  "task_id": "17367",
+  "occupation": "Acupuncturists",
+  "task_text": "Apply moxibustion directly or indirectly to patients using Chinese, non-scarring, stick, or pole moxa."
+ },
+ {
+  "task_id": "17368",
+  "occupation": "Acupuncturists",
+  "task_text": "Apply heat or cold therapy to patients using materials, such as heat pads, hydrocollator packs, warm compresses, cold compresses, heat lamps, or vapor coolants."
+ },
+ {
+  "task_id": "17369",
+  "occupation": "Acupuncturists",
+  "task_text": "Analyze physical findings and medical histories to make diagnoses according to Oriental medicine traditions."
+ },
+ {
+  "task_id": "17370",
+  "occupation": "Acupuncturists",
+  "task_text": "Develop individual treatment plans and strategies."
+ },
+ {
+  "task_id": "17371",
+  "occupation": "Acupuncturists",
+  "task_text": "Treat medical conditions, using techniques such as acupressure, shiatsu, or tuina."
+ },
+ {
+  "task_id": "17372",
+  "occupation": "Acupuncturists",
+  "task_text": "Insert needles to provide acupuncture treatment."
+ },
+ {
+  "task_id": "17373",
+  "occupation": "Acupuncturists",
+  "task_text": "Identify correct anatomical and proportional point locations based on patients' anatomy and positions, contraindications, and precautions related to treatments, such as intradermal needles, moxibustio"
+ },
+ {
+  "task_id": "17374",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Develop and implement training programs for trainees, medical students, resident physicians or post-doctoral fellows."
+ },
+ {
+  "task_id": "17375",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Stain slides to make chromosomes visible for microscopy."
+ },
+ {
+  "task_id": "17376",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Summarize test results and report to appropriate authorities."
+ },
+ {
+  "task_id": "17377",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Select or prepare specimens and media for cell cultures using aseptic techniques, knowledge of medium components, or cell nutritional requirements."
+ },
+ {
+  "task_id": "17378",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Select banding methods to permit identification of chromosome pairs."
+ },
+ {
+  "task_id": "17379",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Identify appropriate methods of specimen collection, preservation, or transport."
+ },
+ {
+  "task_id": "17380",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Prepare slides of cell cultures following standard procedures."
+ },
+ {
+  "task_id": "17381",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Select appropriate methods of preparation and storage of media to maintain potential of hydrogen (pH), sterility, or ability to support growth."
+ },
+ {
+  "task_id": "17382",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Harvest cell cultures using substances such as mitotic arrestants, cell releasing agents, and cell fixatives."
+ },
+ {
+  "task_id": "17383",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Create chromosome images using computer imaging systems."
+ },
+ {
+  "task_id": "17384",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Determine optimal time sequences and methods for manual or robotic cell harvests."
+ },
+ {
+  "task_id": "17385",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Examine chromosomes found in biological specimens to detect abnormalities."
+ },
+ {
+  "task_id": "17386",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Recognize and report abnormalities in the color, size, shape, composition, or pattern of cells."
+ },
+ {
+  "task_id": "17387",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Communicate test results or technical information to patients, physicians, family members, or researchers."
+ },
+ {
+  "task_id": "17388",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Prepare biological specimens such as amniotic fluids, bone marrow, tumors, chorionic villi, and blood, for chromosome examinations."
+ },
+ {
+  "task_id": "17389",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Count numbers of chromosomes and identify the structural abnormalities by viewing culture slides through microscopes, light microscopes, or photomicroscopes."
+ },
+ {
+  "task_id": "17390",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Arrange and attach chromosomes in numbered pairs on karyotype charts, using standard genetics laboratory practices and nomenclature, to identify normal or abnormal chromosomes."
+ },
+ {
+  "task_id": "17391",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Analyze chromosomes found in biological specimens to aid diagnoses and treatments for genetic diseases such as congenital disabilities, fertility problems, and hematological disorders."
+ },
+ {
+  "task_id": "17392",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Input details of specimens into logs or computer systems."
+ },
+ {
+  "task_id": "17393",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Maintain laboratory equipment such as photomicroscopes, inverted microscopes, and standard darkroom equipment."
+ },
+ {
+  "task_id": "17394",
+  "occupation": "Cytogenetic Technologists",
+  "task_text": "Supervise subordinate laboratory staff."
+ },
+ {
+  "task_id": "17395",
+  "occupation": "Cytotechnologists",
+  "task_text": "Examine cell samples to detect abnormalities in the color, shape, or size of cellular components and patterns."
+ },
+ {
+  "task_id": "17396",
+  "occupation": "Cytotechnologists",
+  "task_text": "Examine specimens, using microscopes, to evaluate specimen quality."
+ },
+ {
+  "task_id": "17397",
+  "occupation": "Cytotechnologists",
+  "task_text": "Prepare and analyze samples, such as Papanicolaou (PAP) smear body fluids and fine needle aspirations (FNAs), to detect abnormal conditions."
+ },
+ {
+  "task_id": "17398",
+  "occupation": "Cytotechnologists",
+  "task_text": "Provide patient clinical data or microscopic findings to assist pathologists in the preparation of pathology reports."
+ },
+ {
+  "task_id": "17399",
+  "occupation": "Cytotechnologists",
+  "task_text": "Assist pathologists or other physicians to collect cell samples by fine needle aspiration (FNA) biopsy or other method."
+ },
+ {
+  "task_id": "17400",
+  "occupation": "Cytotechnologists",
+  "task_text": "Examine specimens to detect abnormal hormone conditions."
+ },
+ {
+  "task_id": "17401",
+  "occupation": "Cytotechnologists",
+  "task_text": "Document specimens by verifying patients' and specimens' information."
+ },
+ {
+  "task_id": "17402",
+  "occupation": "Cytotechnologists",
+  "task_text": "Maintain effective laboratory operations by adhering to standards of specimen collection, preparation, or laboratory safety."
+ },
+ {
+  "task_id": "17404",
+  "occupation": "Cytotechnologists",
+  "task_text": "Prepare cell samples by applying special staining techniques, such as chromosomal staining, to differentiate cells or cell components."
+ },
+ {
+  "task_id": "17405",
+  "occupation": "Cytotechnologists",
+  "task_text": "Submit slides with abnormal cell structures to pathologists for further examination."
+ },
+ {
+  "task_id": "17406",
+  "occupation": "Cytotechnologists",
+  "task_text": "Adjust, maintain, or repair laboratory equipment, such as microscopes."
+ },
+ {
+  "task_id": "17407",
+  "occupation": "Cytotechnologists",
+  "task_text": "Assign tasks or coordinate task assignments to ensure adequate performance of laboratory activities."
+ },
+ {
+  "task_id": "17408",
+  "occupation": "Cytotechnologists",
+  "task_text": "Attend continuing education programs that address laboratory issues."
+ },
+ {
+  "task_id": "17423",
+  "occupation": "Neurodiagnostic Technologists",
+  "task_text": "Attach electrodes to patients, using adhesives."
+ },
+ {
+  "task_id": "17424",
+  "occupation": "Neurodiagnostic Technologists",
+  "task_text": "Summarize technical data to assist physicians to diagnose brain, sleep, or nervous system disorders."
+ }
+]

@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "6688",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Guide and counsel students with adjustments, academic problems, or special academic interests."
+ },
+ {
+  "task_id": "6672",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Maintain accurate and complete student records as required by law, district policy, and administrative regulations."
+ },
+ {
+  "task_id": "6677",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Plan and conduct activities for a balanced program of instruction, demonstration, and work time that provides students with opportunities to observe, question, and investigate."
+ },
+ {
+  "task_id": "6678",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Prepare, administer, and grade tests and assignments to evaluate students' progress."
+ },
+ {
+  "task_id": "6680",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Assign and grade class work and homework."
+ },
+ {
+  "task_id": "6679",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Enforce all administration policies and rules governing students."
+ },
+ {
+  "task_id": "6703",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Provide students with disabilities with assistive devices, supportive technology, and assistance accessing facilities, such as restrooms."
+ },
+ {
+  "task_id": "6685",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Prepare students for later grades by encouraging them to explore learning opportunities and to persevere with challenging tasks."
+ },
+ {
+  "task_id": "6695",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Plan and supervise class projects, field trips, visits by guest speakers or other experiential activities, and guide students in learning from those activities."
+ },
+ {
+  "task_id": "6686",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Confer with parents or guardians, other teachers, counselors, and administrators to resolve students' behavioral and academic problems."
+ },
+ {
+  "task_id": "6690",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Keep informed about trends in education and subject matter specialties."
+ },
+ {
+  "task_id": "6684",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Plan and supervise work-experience programs in businesses, industrial shops, and school laboratories."
+ },
+ {
+  "task_id": "6691",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Meet with other professionals to discuss individual students' needs and progress."
+ },
+ {
+  "task_id": "6692",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Prepare and implement remedial programs for students requiring extra help."
+ },
+ {
+  "task_id": "6687",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Prepare objectives and outlines for courses of study, following curriculum guidelines or requirements of states and schools."
+ },
+ {
+  "task_id": "6694",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Meet with parents and guardians to discuss their children's progress and to determine priorities for their children and their resource needs."
+ },
+ {
+  "task_id": "6699",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Place students in jobs, or make referrals to job placement services."
+ },
+ {
+  "task_id": "6689",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Select, order, store, issue, and inventory classroom equipment, materials, and supplies."
+ },
+ {
+  "task_id": "6697",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Sponsor extracurricular activities, such as clubs, student organizations, and academic contests."
+ },
+ {
+  "task_id": "6698",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Collaborate with other teachers and administrators in the development, evaluation, and revision of secondary school programs."
+ },
+ {
+  "task_id": "6696",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Attend professional meetings, educational conferences, and teacher training workshops to maintain and improve professional competence."
+ },
+ {
+  "task_id": "6700",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Confer with other staff members to plan and schedule lessons promoting learning, following approved curricula."
+ },
+ {
+  "task_id": "6693",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Prepare reports on students and activities as required by administration."
+ },
+ {
+  "task_id": "6701",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Attend staff meetings and serve on committees, as required."
+ },
+ {
+  "task_id": "6702",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Perform administrative duties, such as school library assistance, hall and cafeteria monitoring, and bus loading and unloading."
+ },
+ {
+  "task_id": "19069",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Employ special educational strategies or techniques during instruction to improve the development of sensory- and perceptual-motor skills, language, cognition, or memory."
+ },
+ {
+  "task_id": "19085",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Teach socially acceptable behavior, employing techniques such as behavior modification or positive reinforcement."
+ },
+ {
+  "task_id": "19065",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Communicate nonverbally with children to provide them with comfort, encouragement, or positive reinforcement."
+ },
+ {
+  "task_id": "19084",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Teach basic skills, such as color, shape, number and letter recognition, personal hygiene, or social skills, to preschool students with special needs."
+ },
+ {
+  "task_id": "19067",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Develop individual educational plans (IEPs) designed to promote students' educational, physical, or social development."
+ },
+ {
+  "task_id": "19090",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Confer with parents, administrators, testing specialists, social workers, or other professionals to develop individual education plans (IEPs)."
+ },
+ {
+  "task_id": "19086",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Teach students personal development skills, such as goal setting, independence, or self-advocacy."
+ },
+ {
+  "task_id": "19068",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Develop or implement strategies to meet the needs of students with a variety of disabilities."
+ },
+ {
+  "task_id": "19076",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Observe and evaluate students' performance, behavior, social development, and physical health."
+ },
+ {
+  "task_id": "19073",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Instruct and monitor students in the use and care of equipment or materials to prevent injuries and damage."
+ },
+ {
+  "task_id": "19087",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Administer tests to help determine children's developmental levels, needs, or potential."
+ },
+ {
+  "task_id": "19072",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Establish and enforce rules for behavior and procedures for maintaining order among students."
+ },
+ {
+  "task_id": "19064",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Attend to children's basic needs by feeding them, dressing them, or changing their diapers."
+ },
+ {
+  "task_id": "19079",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Prepare classrooms with a variety of materials or resources for children to explore, manipulate, or use in learning activities or imaginative play."
+ },
+ {
+  "task_id": "19075",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Monitor teachers or teacher assistants to ensure adherence to special education program requirements."
+ },
+ {
+  "task_id": "19070",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Encourage students to explore learning opportunities or persevere with challenging tasks to prepare them for later grades."
+ },
+ {
+  "task_id": "19094",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Meet with parents or guardians to discuss their children's progress, advise them on using community resources, or teach skills for dealing with students' impairments."
+ },
+ {
+  "task_id": "19066",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Confer with parents, guardians, teachers, counselors, or administrators to resolve students' behavioral or academic problems."
+ },
+ {
+  "task_id": "19093",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Maintain accurate and complete student records as required by laws, district policies, or administrative regulations."
+ },
+ {
+  "task_id": "19071",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Establish and communicate clear objectives for all lessons, units, and projects to students, parents, or guardians."
+ },
+ {
+  "task_id": "19074",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Modify the general preschool curriculum for students with disabilities."
+ },
+ {
+  "task_id": "19098",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Provide assistive devices, supportive technology, or assistance accessing facilities, such as restrooms."
+ },
+ {
+  "task_id": "19077",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Organize and supervise games or other recreational activities to promote physical, mental, or social development."
+ },
+ {
+  "task_id": "19080",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Prepare objectives, outlines, or other materials for courses of study, following curriculum guidelines or requirements."
+ },
+ {
+  "task_id": "19088",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Attend professional meetings, educational conferences, or teacher training workshops to maintain or improve professional competence."
+ },
+ {
+  "task_id": "19082",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Read books to entire classes or to small groups."
+ },
+ {
+  "task_id": "19097",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Prepare reports on students and activities as required by administration."
+ },
+ {
+  "task_id": "19063",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Arrange indoor or outdoor space to facilitate creative play, motor-skill activities, or safety."
+ },
+ {
+  "task_id": "19095",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Organize and display students' work in a manner appropriate for their perceptual skills."
+ },
+ {
+  "task_id": "19081",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Present information in audio-visual or interactive formats, using computers, television, audio-visual aids, or other equipment, materials, or technologies."
+ },
+ {
+  "task_id": "19089",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Collaborate with other teachers or administrators to develop, evaluate, or revise preschool programs."
+ },
+ {
+  "task_id": "19078",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Plan and supervise experiential learning activities, such as class projects, field trips, or demonstrations."
+ },
+ {
+  "task_id": "19096",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Prepare assignments for teacher assistants or volunteers."
+ },
+ {
+  "task_id": "19091",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Control the inventory or distribution of classroom equipment, materials, or supplies."
+ },
+ {
+  "task_id": "19092",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Coordinate placement of students with special needs into mainstream classes."
+ },
+ {
+  "task_id": "19083",
+  "occupation": "Special Education Teachers, Preschool",
+  "task_text": "Serve meals or snacks in accordance with nutritional guidelines."
+ },
+ {
+  "task_id": "22329",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Administer standardized ability and achievement tests to kindergarten students with special needs."
+ },
+ {
+  "task_id": "22330",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Attend professional meetings, educational conferences, or teacher training workshops to maintain or improve professional competence."
+ },
+ {
+  "task_id": "22331",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Collaborate with other teachers or administrators to develop, evaluate, or revise kindergarten programs."
+ },
+ {
+  "task_id": "22332",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Confer with other staff members to plan, schedule, or conduct activities for a balanced program of instruction, demonstration, and work time that provides students with opportunities to observe, question, and investigate."
+ },
+ {
+  "task_id": "22333",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Confer with parents, administrators, testing specialists, social workers, or other professionals to develop individual educational plans (IEPs) for students' educational, physical, or social development."
+ },
+ {
+  "task_id": "22334",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Confer with parents, guardians, teachers, counselors, or administrators to resolve students' behavioral or academic problems."
+ },
+ {
+  "task_id": "22335",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Control the inventory or distribution of classroom equipment, materials, or supplies."
+ },
+ {
+  "task_id": "22336",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Develop or implement strategies to meet the needs of students with a variety of disabilities."
+ },
+ {
+  "task_id": "22337",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Employ special educational strategies or techniques during instruction to improve the development of sensory- and perceptual-motor skills, language, cognition, or memory."
+ },
+ {
+  "task_id": "22338",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Establish and enforce rules for behavior and procedures for maintaining order among students."
+ },
+ {
+  "task_id": "22339",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Instruct and monitor students in the use and care of equipment or materials to prevent injuries and damage."
+ },
+ {
+  "task_id": "22340",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Instruct students with disabilities in academic subjects, using a variety of techniques, such as phonetics, multisensory learning, or repetition to reinforce learning and meet students' varying needs."
+ },
+ {
+  "task_id": "22341",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Interpret or transcribe classroom materials into Braille or sign language."
+ },
+ {
+  "task_id": "22342",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Maintain accurate and complete student records as required by laws, district policies, or administrative regulations."
+ },
+ {
+  "task_id": "22343",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Meet with parents or guardians to discuss their children's progress, advise them on using community resources, or teach skills for dealing with students' impairments."
+ },
+ {
+  "task_id": "22344",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Modify the general kindergarten education curriculum for students with disabilities."
+ },
+ {
+  "task_id": "22345",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Monitor teachers or teacher assistants to ensure adherence to special education program requirements."
+ },
+ {
+  "task_id": "22346",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Observe and evaluate students' performance, behavior, social development, and physical health."
+ },
+ {
+  "task_id": "22347",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Organize and display students' work in a manner appropriate for their perceptual skills."
+ },
+ {
+  "task_id": "22348",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Organize and supervise games or other recreational activities to promote physical, mental, or social development."
+ },
+ {
+  "task_id": "22349",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Perform administrative duties, such as school library assistance, hall and cafeteria monitoring, and bus loading and unloading."
+ },
+ {
+  "task_id": "22350",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Plan or supervise experiential learning activities, such as class projects, field trips, demonstrations, or visits by guest speakers."
+ },
+ {
+  "task_id": "22351",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Prepare assignments for teacher assistants or volunteers."
+ },
+ {
+  "task_id": "22352",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Prepare classrooms with a variety of materials or resources for children to explore, manipulate, or use in learning activities or imaginative play."
+ },
+ {
+  "task_id": "22353",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Prepare objectives, outlines, or other materials for courses of study, following curriculum guidelines or school or state requirements."
+ },
+ {
+  "task_id": "22354",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Prepare, administer, or grade assignments to evaluate students' progress."
+ },
+ {
+  "task_id": "22355",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Present information in audio-visual or interactive formats, using computers, televisions, audio-visual aids, or other equipment, materials, or technologies."
+ },
+ {
+  "task_id": "22356",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Provide assistive devices, supportive technology, or assistance accessing facilities, such as restrooms."
+ },
+ {
+  "task_id": "22357",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Teach socially acceptable behavior, employing techniques such as behavior modification or positive reinforcement."
+ },
+ {
+  "task_id": "22358",
+  "occupation": "Special Education Teachers, Kindergarten",
+  "task_text": "Visit schools to tutor students with sensory impairments or to consult with teachers regarding students' special needs."
+ },
+ {
+  "task_id": "22371",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Instruct students with disabilities in academic subjects, using a variety of techniques, such as phonetics, multisensory learning, or repetition to reinforce learning and meet students' varying needs."
+ },
+ {
+  "task_id": "22365",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Develop or implement strategies to meet the needs of students with a variety of disabilities."
+ },
+ {
+  "task_id": "22387",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Teach socially acceptable behavior, employing techniques such as behavior modification or positive reinforcement."
+ },
+ {
+  "task_id": "22376",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Modify the general elementary education curriculum for students with disabilities."
+ },
+ {
+  "task_id": "22374",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Maintain accurate and complete student records as required by laws, district policies, or administrative regulations."
+ },
+ {
+  "task_id": "22383",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Prepare classrooms with a variety of materials or resources for children to explore, manipulate, or use in learning activities or imaginative play."
+ },
+ {
+  "task_id": "22368",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Establish and enforce rules for behavior and procedures for maintaining order among students."
+ },
+ {
+  "task_id": "22386",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Provide assistive devices, supportive technology, or assistance accessing facilities, such as restrooms."
+ },
+ {
+  "task_id": "22364",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Coordinate placement of students with special needs into mainstream classes."
+ },
+ {
+  "task_id": "22378",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Observe and evaluate students' performance, behavior, social development, and physical health."
+ },
+ {
+  "task_id": "22366",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Encourage students to explore learning opportunities or persevere with challenging tasks to prepare them for later grades."
+ },
+ {
+  "task_id": "22363",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Confer with parents, administrators, testing specialists, social workers, or other professionals to develop individual educational plans (IEPs) for students' educational, physical, or social development."
+ },
+ {
+  "task_id": "22375",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Meet with parents or guardians to discuss their children's progress, advise them on using community resources, or teach skills for dealing with students' impairments."
+ },
+ {
+  "task_id": "22377",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Monitor teachers or teacher assistants to ensure adherence to special education program requirements."
+ },
+ {
+  "task_id": "22388",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Teach students personal development skills, such as goal setting, independence, or self-advocacy."
+ },
+ {
+  "task_id": "22367",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Establish and communicate clear objectives for all lessons, units, and projects to students."
+ },
+ {
+  "task_id": "22369",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Guide or counsel students with adjustment problems, academic problems, or special academic interests."
+ },
+ {
+  "task_id": "22381",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Plan or conduct activities for a balanced program of instruction, demonstration, and work time that provides students with opportunities to observe, question, and investigate."
+ },
+ {
+  "task_id": "22384",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Prepare objectives, outlines, or other materials for courses of study, following curriculum guidelines or school or state requirements."
+ },
+ {
+  "task_id": "22372",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Instruct students in daily living skills required for independent maintenance and self-sufficiency, such as hygiene, safety, or food preparation."
+ },
+ {
+  "task_id": "22361",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Collaborate with other teachers or administrators to develop, evaluate, or revise elementary school programs."
+ },
+ {
+  "task_id": "22362",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Confer with other staff members to plan or schedule lessons promoting learning, following approved curricula."
+ },
+ {
+  "task_id": "22370",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Instruct and monitor students in the use and care of equipment or materials to prevent injuries and damage."
+ },
+ {
+  "task_id": "22385",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Prepare, administer, or grade tests or assignments to evaluate students' progress."
+ },
+ {
+  "task_id": "22379",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Organize and display students' work in a manner appropriate for their perceptual skills."
+ },
+ {
+  "task_id": "22360",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Attend professional meetings, educational conferences, or teacher training workshops to maintain or improve professional competence."
+ },
+ {
+  "task_id": "22373",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Interpret the results of standardized tests to determine students' strengths and areas of need."
+ },
+ {
+  "task_id": "22380",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Organize and supervise games or other recreational activities to promote physical, mental, or social development."
+ },
+ {
+  "task_id": "22359",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Administer standardized ability and achievement tests to elementary students with special needs."
+ },
+ {
+  "task_id": "22382",
+  "occupation": "Special Education Teachers, Elementary School",
+  "task_text": "Plan or supervise experiential learning activities, such as class projects, field trips, demonstrations, or visits by guest speakers."
+ },
+ {
+  "task_id": "21063",
+  "occupation": "Special Education Teachers, Middle School",
+  "task_text": "Develop or write Individualized Education Programs (IEPs) for students."
+ },
+ {
+  "task_id": "6744",
+  "occupation": "Special Education Teachers, Middle School",
+  "task_text": "Establish and enforce rules for behavior and policies and procedures to maintain order among students."
+ },
+ {
+  "task_id": "6748",
+  "occupation": "Special Education Teachers, Middle School",
+  "task_text": "Develop and implement strategies to meet the needs of students with a variety of handicapping conditions."
+ },
+ {
+  "task_id": "6746",
+  "occupation": "Special Education Teachers, Middle School",
+  "task_text": "Prepare materials and classrooms for class activities."
+ },
+ {
+  "task_id": "6778",
+  "occupation": "Special Education Teachers, Middle School",
+  "task_text": "Instruct students in daily living skills required for independent maintenance and self-sufficiency, such as hygiene, safety, and food preparation."
+ },
+ {
+  "task_id": "6752",
+  "occupation": "Special Education Teachers, Middle School",
+  "task_text": "Confer with parents or guardians, other teachers, counselors, and administrators to resolve students' behavioral and academic problems."
+ },
+ {
+  "task_id": "6754",
+  "occupation": "Special Education Teachers, Middle School",
+  "task_text": "Coordinate placement of students with special needs into mainstream classes."
+ },
+ {
+  "task_id": "6747",
+  "occupation": "Special Education Teachers, Middle School",
+  "task_text": "Confer with parents, administrators, testing specialists, social workers, and professionals to develop individual educational plans (IEPs) for students' educational, physical, and social development."
+ },
+ {
+  "task_id": "6750",
+  "occupation": "Special Education Teachers, Middle School",
+  "task_text": "Modify the general education curriculum for students with disabilities, based upon a variety of instructional techniques and instructional technology."
+ }
+]

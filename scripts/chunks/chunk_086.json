@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "7650",
+  "occupation": "Actors",
+  "task_text": "Work with other crew members responsible for lighting, costumes, make-up, and props."
+ },
+ {
+  "task_id": "7656",
+  "occupation": "Actors",
+  "task_text": "Tell jokes, perform comic dances, songs and skits, impersonate mannerisms and voices of others, contort face, and use other devices to amuse audiences."
+ },
+ {
+  "task_id": "7652",
+  "occupation": "Actors",
+  "task_text": "Read from scripts or books to narrate action or to inform or entertain audiences, utilizing few or no stage props."
+ },
+ {
+  "task_id": "7653",
+  "occupation": "Actors",
+  "task_text": "Promote productions using means such as interviews about plays or movies."
+ },
+ {
+  "task_id": "7655",
+  "occupation": "Actors",
+  "task_text": "Prepare and perform action stunts for motion picture, television, or stage productions."
+ },
+ {
+  "task_id": "7654",
+  "occupation": "Actors",
+  "task_text": "Write original or adapted material for dramas, comedies, puppet shows, narration, or other performances."
+ },
+ {
+  "task_id": "7657",
+  "occupation": "Actors",
+  "task_text": "Introduce performances and performers to stimulate excitement and coordinate smooth transition of acts during events."
+ },
+ {
+  "task_id": "7659",
+  "occupation": "Actors",
+  "task_text": "Dress in comical clown costumes and makeup, and perform comedy routines to entertain audiences."
+ },
+ {
+  "task_id": "7661",
+  "occupation": "Actors",
+  "task_text": "Construct puppets and ventriloquist dummies, and sew accessory clothing, using hand tools and machines."
+ },
+ {
+  "task_id": "7660",
+  "occupation": "Actors",
+  "task_text": "Perform original and stock tricks of illusion to entertain and mystify audiences, occasionally including audience members as participants."
+ },
+ {
+  "task_id": "22515",
+  "occupation": "Producers and Directors",
+  "task_text": "Plan details such as framing, composition, camera movement, sound, and actor movement for each shot or scene."
+ },
+ {
+  "task_id": "22516",
+  "occupation": "Producers and Directors",
+  "task_text": "Communicate to actors the approach, characterization, and movement needed for each scene in such a way that rehearsals and takes are minimized."
+ },
+ {
+  "task_id": "22517",
+  "occupation": "Producers and Directors",
+  "task_text": "Direct live broadcasts, films and recordings, or non-broadcast programming for public entertainment or education."
+ },
+ {
+  "task_id": "22522",
+  "occupation": "Producers and Directors",
+  "task_text": "Research production topics using the internet, video archives, and other informational sources."
+ },
+ {
+  "task_id": "22523",
+  "occupation": "Producers and Directors",
+  "task_text": "Review film, recordings, or rehearsals to ensure conformance to production and broadcast standards."
+ },
+ {
+  "task_id": "22519",
+  "occupation": "Producers and Directors",
+  "task_text": "Study and research scripts to determine how they should be directed."
+ },
+ {
+  "task_id": "22520",
+  "occupation": "Producers and Directors",
+  "task_text": "Supervise and coordinate the work of camera, lighting, design, and sound crew members."
+ },
+ {
+  "task_id": "22521",
+  "occupation": "Producers and Directors",
+  "task_text": "Confer with technical directors, managers, crew members, and writers to discuss details of production, such as photography, script, music, sets, and costumes."
+ },
+ {
+  "task_id": "22532",
+  "occupation": "Producers and Directors",
+  "task_text": "Perform management activities, such as budgeting, scheduling, planning, and marketing."
+ },
+ {
+  "task_id": "22524",
+  "occupation": "Producers and Directors",
+  "task_text": "Consult with writers, producers, or actors about script changes or \"workshop\" scripts, through rehearsal with writers and actors to create final drafts."
+ },
+ {
+  "task_id": "22525",
+  "occupation": "Producers and Directors",
+  "task_text": "Identify and approve equipment and elements required for productions, such as scenery, lights, props, costumes, choreography, and music."
+ },
+ {
+  "task_id": "22526",
+  "occupation": "Producers and Directors",
+  "task_text": "Establish pace of programs and sequences of scenes according to time requirements and cast and set accessibility."
+ },
+ {
+  "task_id": "22527",
+  "occupation": "Producers and Directors",
+  "task_text": "Conduct meetings with staff to discuss production progress and to ensure production objectives are attained."
+ },
+ {
+  "task_id": "22528",
+  "occupation": "Producers and Directors",
+  "task_text": "Compile scripts, program notes, and other material related to productions."
+ },
+ {
+  "task_id": "22530",
+  "occupation": "Producers and Directors",
+  "task_text": "Resolve personnel problems that arise during the production process by acting as liaisons between dissenting parties when necessary."
+ },
+ {
+  "task_id": "22518",
+  "occupation": "Producers and Directors",
+  "task_text": "Coordinate the activities of writers, directors, managers, and other personnel throughout the production process."
+ },
+ {
+  "task_id": "22538",
+  "occupation": "Producers and Directors",
+  "task_text": "Obtain rights to scripts or to such items as existing video footage."
+ },
+ {
+  "task_id": "22539",
+  "occupation": "Producers and Directors",
+  "task_text": "Write and submit proposals to bid on contracts for projects."
+ },
+ {
+  "task_id": "22533",
+  "occupation": "Producers and Directors",
+  "task_text": "Compose and edit scripts or provide screenwriters with story outlines from which scripts can be written."
+ },
+ {
+  "task_id": "22535",
+  "occupation": "Producers and Directors",
+  "task_text": "Cut and edit film or tape to integrate component parts into desired sequences."
+ },
+ {
+  "task_id": "22514",
+  "occupation": "Producers and Directors",
+  "task_text": "Write and edit news stories from information collected by reporters and other sources."
+ },
+ {
+  "task_id": "22536",
+  "occupation": "Producers and Directors",
+  "task_text": "Choose settings and locations for films and determine how scenes will be shot in these settings."
+ },
+ {
+  "task_id": "22537",
+  "occupation": "Producers and Directors",
+  "task_text": "Review film daily to check on work in progress and to plan for future filming."
+ },
+ {
+  "task_id": "22534",
+  "occupation": "Producers and Directors",
+  "task_text": "Negotiate with parties, including independent producers and the distributors and broadcasters who will be handling completed productions."
+ },
+ {
+  "task_id": "22529",
+  "occupation": "Producers and Directors",
+  "task_text": "Perform administrative duties, such as preparing operational reports, distributing rehearsal call sheets and script copies, and arranging for rehearsal quarters."
+ },
+ {
+  "task_id": "22540",
+  "occupation": "Producers and Directors",
+  "task_text": "Develop marketing plans for finished products, collaborating with sales associates to supervise product distribution."
+ },
+ {
+  "task_id": "22531",
+  "occupation": "Producers and Directors",
+  "task_text": "Arrange financing for productions."
+ },
+ {
+  "task_id": "22541",
+  "occupation": "Producers and Directors",
+  "task_text": "Hire principal cast members and crew members, such as art directors, cinematographers, and costume designers."
+ },
+ {
+  "task_id": "22542",
+  "occupation": "Producers and Directors",
+  "task_text": "Hold auditions for parts or negotiate contracts with actors determined suitable for specific roles."
+ },
+ {
+  "task_id": "22543",
+  "occupation": "Producers and Directors",
+  "task_text": "Select plays, scripts, books, news content, or ideas to be produced."
+ },
+ {
+  "task_id": "7680",
+  "occupation": "Media Programming Directors",
+  "task_text": "Operate and maintain on-air and production audio equipment."
+ },
+ {
+  "task_id": "7665",
+  "occupation": "Media Programming Directors",
+  "task_text": "Check completed program logs for accuracy and conformance with Federal Communications Commission (FCC) rules and regulations and resolve program log inaccuracies."
+ },
+ {
+  "task_id": "7679",
+  "occupation": "Media Programming Directors",
+  "task_text": "Read news, read or record public service and promotional announcements, or perform other on-air duties."
+ },
+ {
+  "task_id": "7664",
+  "occupation": "Media Programming Directors",
+  "task_text": "Direct and coordinate activities of personnel engaged in broadcast news, sports, or programming."
+ },
+ {
+  "task_id": "7663",
+  "occupation": "Media Programming Directors",
+  "task_text": "Monitor and review programming to ensure that schedules are met, guidelines are adhered to, and performances are of adequate quality."
+ },
+ {
+  "task_id": "7675",
+  "occupation": "Media Programming Directors",
+  "task_text": "Prepare copy and edit tape so that material is ready for broadcasting."
+ },
+ {
+  "task_id": "7667",
+  "occupation": "Media Programming Directors",
+  "task_text": "Coordinate activities between departments, such as news and programming."
+ },
+ {
+  "task_id": "7668",
+  "occupation": "Media Programming Directors",
+  "task_text": "Perform personnel duties, such as hiring staff and evaluating work performance."
+ },
+ {
+  "task_id": "7666",
+  "occupation": "Media Programming Directors",
+  "task_text": "Establish work schedules and assign work to staff members."
+ },
+ {
+  "task_id": "7674",
+  "occupation": "Media Programming Directors",
+  "task_text": "Develop promotions for current programs and specials."
+ },
+ {
+  "task_id": "7662",
+  "occupation": "Media Programming Directors",
+  "task_text": "Plan and schedule programming and event coverage, based on broadcast length, time availability, and other factors, such as community needs, ratings data, and viewer demographics."
+ },
+ {
+  "task_id": "7673",
+  "occupation": "Media Programming Directors",
+  "task_text": "Monitor network transmissions for advisories concerning daily program schedules, program content, special feeds, or program changes."
+ },
+ {
+  "task_id": "7676",
+  "occupation": "Media Programming Directors",
+  "task_text": "Develop ideas for programs and features that a station could produce."
+ },
+ {
+  "task_id": "7672",
+  "occupation": "Media Programming Directors",
+  "task_text": "Select, acquire, and maintain programs, music, films, and other needed materials and obtain legal clearances for their use as necessary."
+ },
+ {
+  "task_id": "7669",
+  "occupation": "Media Programming Directors",
+  "task_text": "Evaluate new and existing programming to assess suitability and the need for changes, using information such as audience surveys and feedback."
+ },
+ {
+  "task_id": "7683",
+  "occupation": "Media Programming Directors",
+  "task_text": "Conduct interviews for broadcasts."
+ },
+ {
+  "task_id": "7671",
+  "occupation": "Media Programming Directors",
+  "task_text": "Confer with directors and production staff to discuss issues, such as production and casting problems, budgets, policies, and news coverage."
+ },
+ {
+  "task_id": "7678",
+  "occupation": "Media Programming Directors",
+  "task_text": "Review information about programs and schedules to ensure accuracy and provide such information to local media outlets."
+ },
+ {
+  "task_id": "7681",
+  "occupation": "Media Programming Directors",
+  "task_text": "Direct setup of remote facilities and install or cancel programs at remote stations."
+ },
+ {
+  "task_id": "7670",
+  "occupation": "Media Programming Directors",
+  "task_text": "Develop budgets for programming and broadcasting activities and monitor expenditures to ensure that they remain within budgetary limits."
+ },
+ {
+  "task_id": "7682",
+  "occupation": "Media Programming Directors",
+  "task_text": "Cue announcers, actors, performers, and guests."
+ },
+ {
+  "task_id": "7684",
+  "occupation": "Media Programming Directors",
+  "task_text": "Act as a liaison between talent and directors, providing information that performers or guests need to prepare for appearances and communicating relevant information from guests, performers, or staff to directors."
+ },
+ {
+  "task_id": "7677",
+  "occupation": "Media Programming Directors",
+  "task_text": "Participate in the planning and execution of fundraising activities."
+ },
+ {
+  "task_id": "11018",
+  "occupation": "Talent Directors",
+  "task_text": "Audition and interview performers to match their attributes to specific roles or to increase the pool of available acting talent."
+ },
+ {
+  "task_id": "11020",
+  "occupation": "Talent Directors",
+  "task_text": "Prepare actors for auditions by providing scripts and information about roles and casting requirements."
+ },
+ {
+  "task_id": "11017",
+  "occupation": "Talent Directors",
+  "task_text": "Select performers for roles or submit lists of suitable performers to producers or directors for final selection."
+ },
+ {
+  "task_id": "11024",
+  "occupation": "Talent Directors",
+  "task_text": "Contact agents and actors to provide notification of audition and performance opportunities and to set up audition times."
+ },
+ {
+  "task_id": "11021",
+  "occupation": "Talent Directors",
+  "task_text": "Serve as liaisons between directors, actors, and agents."
+ },
+ {
+  "task_id": "11023",
+  "occupation": "Talent Directors",
+  "task_text": "Negotiate contract agreements with performers, with agents, or between performers and agents or production companies."
+ },
+ {
+  "task_id": "11026",
+  "occupation": "Talent Directors",
+  "task_text": "Arrange for or design screen tests or auditions for prospective performers."
+ },
+ {
+  "task_id": "11015",
+  "occupation": "Talent Directors",
+  "task_text": "Review performer information, such as photos, resumes, voice tapes, videos, and union membership, to decide whom to audition for parts."
+ },
+ {
+  "task_id": "11019",
+  "occupation": "Talent Directors",
+  "task_text": "Maintain talent files that include information such as performers' specialties, past performances, and availability."
+ },
+ {
+  "task_id": "11016",
+  "occupation": "Talent Directors",
+  "task_text": "Read scripts and confer with producers to determine the types and numbers of performers required for a given production."
+ },
+ {
+  "task_id": "11022",
+  "occupation": "Talent Directors",
+  "task_text": "Attend or view productions to maintain knowledge of available actors."
+ },
+ {
+  "task_id": "21139",
+  "occupation": "Talent Directors",
+  "task_text": "Direct shows, productions, and plays."
+ },
+ {
+  "task_id": "11025",
+  "occupation": "Talent Directors",
+  "task_text": "Hire and supervise workers who help locate people with specified attributes and talents."
+ },
+ {
+  "task_id": "21140",
+  "occupation": "Talent Directors",
+  "task_text": "Teach acting classes."
+ },
+ {
+  "task_id": "11027",
+  "occupation": "Talent Directors",
+  "task_text": "Locate performers or extras for crowd and background scenes, and stand-ins or photo doubles for actors, by direct contact or through agents."
+ },
+ {
+  "task_id": "3904",
+  "occupation": "Media Technical Directors/Managers",
+  "task_text": "Switch between video sources in a studio or on multi-camera remotes, using equipment such as switchers, video slide projectors, and video effects generators."
+ },
+ {
+  "task_id": "3897",
+  "occupation": "Media Technical Directors/Managers",
+  "task_text": "Observe pictures through monitors and direct camera and video staff concerning shading and composition."
+ },
+ {
+  "task_id": "3899",
+  "occupation": "Media Technical Directors/Managers",
+  "task_text": "Supervise and assign duties to workers engaged in technical control and production of radio and television programs."
+ },
+ {
+  "task_id": "3896",
+  "occupation": "Media Technical Directors/Managers",
+  "task_text": "Monitor broadcasts to ensure that programs conform to station or network policies and regulations."
+ },
+ {
+  "task_id": "3902",
+  "occupation": "Media Technical Directors/Managers",
+  "task_text": "Operate equipment to produce programs or broadcast live programs from remote locations."
+ },
+ {
+  "task_id": "3895",
+  "occupation": "Media Technical Directors/Managers",
+  "task_text": "Test equipment to ensure proper operation."
+ },
+ {
+  "task_id": "3903",
+  "occupation": "Media Technical Directors/Managers",
+  "task_text": "Train workers in use of equipment, such as switchers, cameras, monitors, microphones, and lights."
+ },
+ {
+  "task_id": "3898",
+  "occupation": "Media Technical Directors/Managers",
+  "task_text": "Act as liaisons between engineering and production departments."
+ },
+ {
+  "task_id": "3906",
+  "occupation": "Media Technical Directors/Managers",
+  "task_text": "Collaborate with promotions directors to produce on-air station promotions."
+ },
+ {
+  "task_id": "3901",
+  "occupation": "Media Technical Directors/Managers",
+  "task_text": "Confer with operations directors to formulate and maintain fair and attainable technical policies for programs."
+ },
+ {
+  "task_id": "3900",
+  "occupation": "Media Technical Directors/Managers",
+  "task_text": "Schedule use of studio and editing facilities for producers and engineering and maintenance staff."
+ },
+ {
+  "task_id": "3894",
+  "occupation": "Media Technical Directors/Managers",
+  "task_text": "Direct technical aspects of newscasts and other productions, checking and switching between video sources and taking responsibility for the on-air product, including camera shots and graphics."
+ },
+ {
+  "task_id": "3908",
+  "occupation": "Media Technical Directors/Managers",
+  "task_text": "Follow instructions from production managers and directors during productions, such as commands for camera cuts, effects, graphics, and takes."
+ },
+ {
+  "task_id": "3905",
+  "occupation": "Media Technical Directors/Managers",
+  "task_text": "Set up and execute video transitions and special effects, such as fades, dissolves, cuts, keys, and supers, using computers to manipulate pictures as necessary."
+ },
+ {
+  "task_id": "3907",
+  "occupation": "Media Technical Directors/Managers",
+  "task_text": "Discuss filter options, lens choices, and the visual effects of objects being filmed with photography directors and video operators."
+ },
+ {
+  "task_id": "13038",
+  "occupation": "Athletes and Sports Competitors",
+  "task_text": "Assess performance following athletic competition, identifying strengths and weaknesses and making adjustments to improve future performance."
+ },
+ {
+  "task_id": "13036",
+  "occupation": "Athletes and Sports Competitors",
+  "task_text": "Maintain equipment used in a particular sport."
+ },
+ {
+  "task_id": "13033",
+  "occupation": "Athletes and Sports Competitors",
+  "task_text": "Attend scheduled practice or training sessions."
+ },
+ {
+  "task_id": "13037",
+  "occupation": "Athletes and Sports Competitors",
+  "task_text": "Maintain optimum physical fitness levels by training regularly, following nutrition plans, or consulting with health professionals."
+ },
+ {
+  "task_id": "13034",
+  "occupation": "Athletes and Sports Competitors",
+  "task_text": "Participate in athletic events or competitive sports, according to established rules and regulations."
+ },
+ {
+  "task_id": "13035",
+  "occupation": "Athletes and Sports Competitors",
+  "task_text": "Exercise or practice under the direction of athletic trainers or professional coaches to develop skills, improve physical condition, or prepare for competitions."
+ },
+ {
+  "task_id": "20882",
+  "occupation": "Athletes and Sports Competitors",
+  "task_text": "Receive instructions from coaches or other sports staff prior to events and discuss performance afterwards."
+ },
+ {
+  "task_id": "13040",
+  "occupation": "Athletes and Sports Competitors",
+  "task_text": "Represent teams or professional sports clubs, performing such activities as meeting with members of the media, making speeches, or participating in charity events."
+ },
+ {
+  "task_id": "13041",
+  "occupation": "Athletes and Sports Competitors",
+  "task_text": "Lead teams by serving as captain."
+ },
+ {
+  "task_id": "1742",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Plan, organize, and conduct practice sessions."
+ },
+ {
+  "task_id": "20109",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Provide training direction, encouragement, motivation, and nutritional advice to prepare athletes for games, competitive events, or tours."
+ },
+ {
+  "task_id": "1747",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Adjust coaching techniques, based on the strengths and weaknesses of athletes."
+ },
+ {
+  "task_id": "1750",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Instruct individuals or groups in sports rules, game strategies, and performance principles, such as specific ways of moving the body, hands, or feet, to achieve desired results."
+ },
+ {
+  "task_id": "1745",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Plan strategies and choose team members for individual games or sports seasons."
+ },
+ {
+  "task_id": "20117",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Monitor the academic eligibility of student athletes."
+ },
+ {
+  "task_id": "20115",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Counsel student athletes on academic, athletic, and personal issues."
+ },
+ {
+  "task_id": "1751",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Analyze the strengths and weaknesses of opposing teams to develop game strategies."
+ },
+ {
+  "task_id": "20112",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Coordinate travel arrangements and travel with team to away contests."
+ },
+ {
+  "task_id": "1752",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Evaluate athletes' skills and review performance records to determine their fitness and potential in a particular area of athletics."
+ },
+ {
+  "task_id": "1754",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Monitor athletes' use of equipment to ensure safe and proper use."
+ },
+ {
+  "task_id": "1753",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Keep abreast of changing rules, techniques, technologies, and philosophies relevant to their sport."
+ },
+ {
+  "task_id": "1756",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Explain and enforce safety rules and regulations."
+ },
+ {
+  "task_id": "20111",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Contact the parents of players to provide information and answer questions."
+ },
+ {
+  "task_id": "1760",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Arrange and conduct sports-related activities, such as training camps, skill-improvement courses, clinics, and pre-season try-outs."
+ },
+ {
+  "task_id": "1758",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Explain and demonstrate the use of sports and training equipment, such as trampolines or weights."
+ },
+ {
+  "task_id": "20116",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Perform activities that support a team or a specific sport, such as participating in community outreach activities, meeting with media representatives, and appearing at fundraising events."
+ },
+ {
+  "task_id": "1746",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Plan and direct physical conditioning programs that will enable athletes to achieve maximum performance."
+ },
+ {
+  "task_id": "20118",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Identify and recruit potential athletes by sending recruitment letters, meeting with recruits, and arranging and offering incentives, such as athletic scholarships."
+ },
+ {
+  "task_id": "20113",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Hire, supervise, and work with extended coaching staff."
+ },
+ {
+  "task_id": "1757",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Serve as organizer, leader, instructor, or referee for outdoor and indoor games, such as volleyball, football, and soccer."
+ },
+ {
+  "task_id": "20110",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Teach instructional courses and advise students."
+ },
+ {
+  "task_id": "20119",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Oversee the development and management of the sports program budget and fundraising activities."
+ },
+ {
+  "task_id": "1755",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Develop and arrange competition schedules and programs."
+ },
+ {
+  "task_id": "20114",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Keep and review paper, computerized, and video records of athlete, team, and opposing team performance."
+ },
+ {
+  "task_id": "1748",
+  "occupation": "Coaches and Scouts",
+  "task_text": "File scouting reports that detail player assessments, provide recommendations on athlete recruitment, and identify locations and individuals to be targeted for future recruitment efforts."
+ },
+ {
+  "task_id": "1761",
+  "occupation": "Coaches and Scouts",
+  "task_text": "Select, acquire, store, and issue equipment and other materials as necessary."
+ },
+ {
+  "task_id": "3909",
+  "occupation": "Umpires, Referees, and Other Sports Officials",
+  "task_text": "Officiate at sporting events, games, or competitions, to maintain standards of play and to ensure that game rules are observed."
+ }
+]

@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "20197",
+  "occupation": "Environmental Engineers",
+  "task_text": "Prepare, maintain, or revise quality assurance documentation or procedures."
+ },
+ {
+  "task_id": "1379",
+  "occupation": "Environmental Engineers",
+  "task_text": "Develop site-specific health and safety protocols, such as spill contingency plans or methods for loading or transporting waste."
+ },
+ {
+  "task_id": "1369",
+  "occupation": "Environmental Engineers",
+  "task_text": "Provide technical support for environmental remediation or litigation projects, including remediation system design or determination of regulatory applicability."
+ },
+ {
+  "task_id": "19625",
+  "occupation": "Environmental Engineers",
+  "task_text": "Prepare or present public briefings on the status of environmental engineering projects."
+ },
+ {
+  "task_id": "1378",
+  "occupation": "Environmental Engineers",
+  "task_text": "Assist in budget implementation, forecasts, or administration."
+ },
+ {
+  "task_id": "1380",
+  "occupation": "Environmental Engineers",
+  "task_text": "Coordinate or manage environmental protection programs or projects, assigning or evaluating work."
+ },
+ {
+  "task_id": "1375",
+  "occupation": "Environmental Engineers",
+  "task_text": "Advise industries or government agencies about environmental policies and standards."
+ },
+ {
+  "task_id": "1368",
+  "occupation": "Environmental Engineers",
+  "task_text": "Obtain, update, or maintain plans, permits, or standard operating procedures."
+ },
+ {
+  "task_id": "19624",
+  "occupation": "Environmental Engineers",
+  "task_text": "Direct installation or operation of environmental monitoring devices or supervise related data collection programs."
+ },
+ {
+  "task_id": "1371",
+  "occupation": "Environmental Engineers",
+  "task_text": "Inspect industrial or municipal facilities or programs to evaluate operational effectiveness or ensure compliance with environmental regulations."
+ },
+ {
+  "task_id": "1389",
+  "occupation": "Environmental Engineers",
+  "task_text": "Request bids from suppliers or consultants."
+ },
+ {
+  "task_id": "1376",
+  "occupation": "Environmental Engineers",
+  "task_text": "Inform company employees or other interested parties of environmental issues."
+ },
+ {
+  "task_id": "1381",
+  "occupation": "Environmental Engineers",
+  "task_text": "Serve as liaison with federal, state, or local agencies or officials on issues pertaining to solid or hazardous waste program requirements."
+ },
+ {
+  "task_id": "1372",
+  "occupation": "Environmental Engineers",
+  "task_text": "Provide administrative support for projects by collecting data, providing project documentation, training staff, or performing other general administrative duties."
+ },
+ {
+  "task_id": "1390",
+  "occupation": "Environmental Engineers",
+  "task_text": "Provide environmental engineering assistance in network analysis, regulatory analysis, or planning or reviewing database development."
+ },
+ {
+  "task_id": "1385",
+  "occupation": "Environmental Engineers",
+  "task_text": "Develop or present environmental compliance training or orientation sessions."
+ },
+ {
+  "task_id": "20196",
+  "occupation": "Environmental Engineers",
+  "task_text": "Provide assistance with planning, quality assurance, safety inspection protocols, or sampling as part of a team conducting multimedia inspections at complex facilities."
+ },
+ {
+  "task_id": "1387",
+  "occupation": "Environmental Engineers",
+  "task_text": "Develop, implement, or manage plans or programs related to conservation or management of natural resources."
+ },
+ {
+  "task_id": "1383",
+  "occupation": "Environmental Engineers",
+  "task_text": "Prepare hazardous waste manifests or land disposal restriction notifications."
+ },
+ {
+  "task_id": "23987",
+  "occupation": "Environmental Engineers",
+  "task_text": "Attend professional conferences to share information."
+ },
+ {
+  "task_id": "19626",
+  "occupation": "Environmental Engineers",
+  "task_text": "Write reports or articles for Web sites or newsletters related to environmental engineering issues."
+ },
+ {
+  "task_id": "1388",
+  "occupation": "Environmental Engineers",
+  "task_text": "Assess, sort, characterize, or pack known or unknown materials."
+ },
+ {
+  "task_id": "21860",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Investigate industrial accidents, injuries, or occupational diseases to determine causes and preventive measures."
+ },
+ {
+  "task_id": "21861",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Conduct research to evaluate safety levels for products."
+ },
+ {
+  "task_id": "21862",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Evaluate product designs for safety."
+ },
+ {
+  "task_id": "21863",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Conduct or coordinate worker training in areas such as safety laws and regulations, hazardous condition monitoring, and use of safety equipment."
+ },
+ {
+  "task_id": "21864",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Maintain and apply knowledge of current policies, regulations, and industrial processes."
+ },
+ {
+  "task_id": "21865",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Recommend procedures for detection, prevention, and elimination of physical, chemical, or other product hazards."
+ },
+ {
+  "task_id": "21866",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Report or review findings from accident investigations, facilities inspections, or environmental testing."
+ },
+ {
+  "task_id": "21867",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Evaluate potential health hazards or damage that could occur from product misuse."
+ },
+ {
+  "task_id": "21868",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Evaluate adequacy of actions taken to correct health inspection violations."
+ },
+ {
+  "task_id": "21869",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Interpret safety regulations for others interested in industrial safety, such as safety engineers, labor representatives, and safety inspectors."
+ },
+ {
+  "task_id": "21870",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Review plans and specifications for construction of new machinery or equipment to determine whether all safety requirements have been met."
+ },
+ {
+  "task_id": "21871",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Participate in preparation of product usage and precautionary label instructions."
+ },
+ {
+  "task_id": "21872",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Interview employers and employees to obtain information about work environments and workplace incidents."
+ },
+ {
+  "task_id": "21873",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Provide expert testimony in litigation cases."
+ },
+ {
+  "task_id": "21874",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Review employee safety programs to determine their adequacy."
+ },
+ {
+  "task_id": "21875",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Conduct or direct testing of air quality, noise, temperature, or radiation levels to verify compliance with health and safety regulations."
+ },
+ {
+  "task_id": "21876",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Provide technical advice and guidance to organizations on how to handle health-related problems and make needed changes."
+ },
+ {
+  "task_id": "21877",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Develop industry standards of product safety."
+ },
+ {
+  "task_id": "21878",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Maintain liaisons with outside organizations, such as fire departments, mutual aid societies, and rescue teams, so that emergency responses can be facilitated."
+ },
+ {
+  "task_id": "21879",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Plan and conduct industrial hygiene research."
+ },
+ {
+  "task_id": "21880",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Compile, analyze, and interpret statistical data related to occupational illnesses and accidents."
+ },
+ {
+  "task_id": "21881",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Write and revise safety regulations and codes."
+ },
+ {
+  "task_id": "21882",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Confer with medical professionals to assess health risks and to develop ways to manage health issues and concerns."
+ },
+ {
+  "task_id": "21883",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Design and build safety equipment."
+ },
+ {
+  "task_id": "21884",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Check floors of plants to ensure that they are strong enough to support heavy machinery."
+ },
+ {
+  "task_id": "21885",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Inspect facilities, machinery, or safety equipment to identify and correct potential hazards, and to ensure safety regulation compliance."
+ },
+ {
+  "task_id": "21886",
+  "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+  "task_text": "Install safety devices on machinery or direct device installation."
+ },
+ {
+  "task_id": "8984",
+  "occupation": "Fire-Prevention and Protection Engineers",
+  "task_text": "Advise architects, builders, and other construction personnel on fire prevention equipment and techniques and on fire code and standard interpretation and compliance."
+ },
+ {
+  "task_id": "8982",
+  "occupation": "Fire-Prevention and Protection Engineers",
+  "task_text": "Design fire detection equipment, alarm systems, and fire extinguishing devices and systems."
+ },
+ {
+  "task_id": "8983",
+  "occupation": "Fire-Prevention and Protection Engineers",
+  "task_text": "Inspect buildings or building designs to determine fire protection system requirements and potential problems in areas such as water supplies, exit locations, and construction materials."
+ },
+ {
+  "task_id": "24004",
+  "occupation": "Fire-Prevention and Protection Engineers",
+  "task_text": "Review building plans to verify compliance with fire code."
+ },
+ {
+  "task_id": "20383",
+  "occupation": "Fire-Prevention and Protection Engineers",
+  "task_text": "Prepare and write reports detailing specific fire prevention and protection issues, such as work performed, revised codes or standards, and proposed review schedules."
+ },
+ {
+  "task_id": "8988",
+  "occupation": "Fire-Prevention and Protection Engineers",
+  "task_text": "Consult with authorities to discuss safety regulations and to recommend changes as necessary."
+ },
+ {
+  "task_id": "8993",
+  "occupation": "Fire-Prevention and Protection Engineers",
+  "task_text": "Evaluate fire department performance and the laws and regulations affecting fire prevention or fire safety."
+ },
+ {
+  "task_id": "23902",
+  "occupation": "Fire-Prevention and Protection Engineers",
+  "task_text": "Direct the purchase, modification, installation, testing, maintenance, and operation of fire prevention and protection systems."
+ },
+ {
+  "task_id": "8991",
+  "occupation": "Fire-Prevention and Protection Engineers",
+  "task_text": "Attend workshops, seminars, or conferences to present or obtain information regarding fire prevention and protection."
+ },
+ {
+  "task_id": "8986",
+  "occupation": "Fire-Prevention and Protection Engineers",
+  "task_text": "Determine causes of fires and ways in which they could have been prevented."
+ },
+ {
+  "task_id": "8992",
+  "occupation": "Fire-Prevention and Protection Engineers",
+  "task_text": "Develop training materials and conduct training sessions on fire protection."
+ },
+ {
+  "task_id": "8990",
+  "occupation": "Fire-Prevention and Protection Engineers",
+  "task_text": "Study the relationships between ignition sources and materials to determine how fires start."
+ },
+ {
+  "task_id": "8989",
+  "occupation": "Fire-Prevention and Protection Engineers",
+  "task_text": "Develop plans for the prevention of destruction by fire, wind, and water."
+ },
+ {
+  "task_id": "8994",
+  "occupation": "Fire-Prevention and Protection Engineers",
+  "task_text": "Conduct research on fire retardants and the fire safety of materials and devices."
+ },
+ {
+  "task_id": "18607",
+  "occupation": "Industrial Engineers",
+  "task_text": "Estimate production costs, cost saving methods, and the effects of product design changes on expenditures for management review, action, and control."
+ },
+ {
+  "task_id": "1394",
+  "occupation": "Industrial Engineers",
+  "task_text": "Plan and establish sequence of operations to fabricate and assemble parts or products and to promote efficient utilization."
+ },
+ {
+  "task_id": "1391",
+  "occupation": "Industrial Engineers",
+  "task_text": "Analyze statistical data and product specifications to determine standards and establish quality and reliability objectives of finished product."
+ },
+ {
+  "task_id": "18609",
+  "occupation": "Industrial Engineers",
+  "task_text": "Confer with clients, vendors, staff, and management personnel regarding purchases, product and production specifications, manufacturing capabilities, or project status."
+ },
+ {
+  "task_id": "1400",
+  "occupation": "Industrial Engineers",
+  "task_text": "Communicate with management and user personnel to develop production and design standards."
+ },
+ {
+  "task_id": "1407",
+  "occupation": "Industrial Engineers",
+  "task_text": "Evaluate precision and accuracy of production and testing equipment and engineering drawings to formulate corrective action plan."
+ },
+ {
+  "task_id": "1393",
+  "occupation": "Industrial Engineers",
+  "task_text": "Recommend methods for improving utilization of personnel, material, and utilities."
+ },
+ {
+  "task_id": "1403",
+  "occupation": "Industrial Engineers",
+  "task_text": "Record or oversee recording of information to ensure currency of engineering drawings and documentation of production problems."
+ },
+ {
+  "task_id": "1398",
+  "occupation": "Industrial Engineers",
+  "task_text": "Draft and design layout of equipment, materials, and workspace to illustrate maximum efficiency using drafting tools and computer."
+ },
+ {
+  "task_id": "1405",
+  "occupation": "Industrial Engineers",
+  "task_text": "Direct workers engaged in product measurement, inspection, and testing activities to ensure quality control and reliability."
+ },
+ {
+  "task_id": "1392",
+  "occupation": "Industrial Engineers",
+  "task_text": "Develop manufacturing methods, labor utilization standards, and cost analysis systems to promote efficient staff and facility utilization."
+ },
+ {
+  "task_id": "1399",
+  "occupation": "Industrial Engineers",
+  "task_text": "Review production schedules, engineering specifications, orders, and related information to obtain knowledge of manufacturing methods, procedures, and activities."
+ },
+ {
+  "task_id": "1408",
+  "occupation": "Industrial Engineers",
+  "task_text": "Complete production reports, purchase orders, and material, tool, and equipment lists."
+ },
+ {
+  "task_id": "18608",
+  "occupation": "Industrial Engineers",
+  "task_text": "Coordinate and implement quality control objectives, activities, or procedures to resolve production problems, maximize product reliability, or minimize costs."
+ },
+ {
+  "task_id": "1406",
+  "occupation": "Industrial Engineers",
+  "task_text": "Implement methods and procedures for disposition of discrepant material and defective or damaged parts, and assess cost and responsibility."
+ },
+ {
+  "task_id": "1395",
+  "occupation": "Industrial Engineers",
+  "task_text": "Apply statistical methods and perform mathematical calculations to determine manufacturing processes, staff requirements, and production standards."
+ },
+ {
+  "task_id": "1404",
+  "occupation": "Industrial Engineers",
+  "task_text": "Study operations sequence, material flow, functional statements, organization charts, and project information to determine worker functions and responsibilities."
+ },
+ {
+  "task_id": "1402",
+  "occupation": "Industrial Engineers",
+  "task_text": "Formulate sampling procedures and designs and develop forms and instructions for recording, evaluating, and reporting quality and reliability data."
+ },
+ {
+  "task_id": "1410",
+  "occupation": "Industrial Engineers",
+  "task_text": "Regulate and alter workflow schedules according to established manufacturing sequences and lead times to expedite production operations."
+ },
+ {
+  "task_id": "1409",
+  "occupation": "Industrial Engineers",
+  "task_text": "Schedule deliveries based on production forecasts, material substitutions, storage and handling facilities, and maintenance requirements."
+ },
+ {
+  "task_id": "16393",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Collect data through direct observation of work activities or witnessing the conduct of tests."
+ },
+ {
+  "task_id": "16378",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Conduct interviews or surveys of users or customers to collect information on topics, such as requirements, needs, fatigue, ergonomics, or interfaces."
+ },
+ {
+  "task_id": "16396",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Advocate for end users in collaboration with other professionals, including engineers, designers, managers, or customers."
+ },
+ {
+  "task_id": "16387",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Inspect work sites to identify physical hazards."
+ },
+ {
+  "task_id": "16381",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Prepare reports or presentations summarizing results or conclusions of human factors engineering or ergonomics activities, such as testing, investigation, or validation."
+ },
+ {
+  "task_id": "16379",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Recommend workplace changes to improve health and safety, using knowledge of potentially harmful factors, such as heavy loads or repetitive motions."
+ },
+ {
+  "task_id": "16383",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Perform functional, task, or anthropometric analysis, using tools, such as checklists, surveys, videotaping, or force measurement."
+ },
+ {
+  "task_id": "16380",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Provide technical support to clients through activities, such as rearranging workplace fixtures to reduce physical hazards or discomfort or modifying task sequences to reduce cycle time."
+ },
+ {
+  "task_id": "16392",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Assess the user-interface or usability characteristics of products."
+ },
+ {
+  "task_id": "16386",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Establish system operating or training requirements to ensure optimized human-machine interfaces."
+ },
+ {
+  "task_id": "16385",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Integrate human factors requirements into operational hardware."
+ },
+ {
+  "task_id": "16374",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Review health, safety, accident, or worker compensation records to evaluate safety program effectiveness or to identify jobs with high incidence of injury."
+ },
+ {
+  "task_id": "16397",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Design or evaluate human work systems, using human factors engineering and ergonomic principles to optimize usability, cost, quality, safety, or performance."
+ },
+ {
+  "task_id": "16372",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Write, review, or comment on documents, such as proposals, test plans, or procedures."
+ },
+ {
+  "task_id": "16373",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Train users in task techniques or ergonomic principles."
+ },
+ {
+  "task_id": "16391",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Conduct research to evaluate potential solutions related to changes in equipment design, procedures, manpower, personnel, or training."
+ },
+ {
+  "task_id": "16375",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Provide human factors technical expertise on topics, such as advanced user-interface technology development or the role of human users in automated or autonomous sub-systems in advanced vehicle systems."
+ },
+ {
+  "task_id": "16388",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Develop or implement human performance research, investigation, or analysis protocols."
+ },
+ {
+  "task_id": "16389",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Develop or implement research methodologies or statistical analysis plans to test and evaluate developmental prototypes used in new products or processes, such as cockpit designs, user workstations, or computerized human models."
+ },
+ {
+  "task_id": "16377",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Estimate time or resource requirements for ergonomic or human factors research or development projects."
+ },
+ {
+  "task_id": "16390",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Design cognitive aids, such as procedural storyboards or decision support systems."
+ },
+ {
+  "task_id": "16395",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Analyze complex systems to determine potential for further development, production, interoperability, compatibility, or usefulness in a particular area, such as aviation."
+ },
+ {
+  "task_id": "16376",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Investigate theoretical or conceptual issues, such as the human design considerations of lunar landers or habitats."
+ },
+ {
+  "task_id": "16384",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Operate testing equipment, such as heat stress meters, octave band analyzers, motion analysis equipment, inclinometers, light meters, thermoanemometers, sling psychrometers, or colorimetric detection tubes."
+ },
+ {
+  "task_id": "16382",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Perform statistical analyses, such as social network pattern analysis, network modeling, discrete event simulation, agent-based modeling, statistical natural language processing, computational sociology, mathematical optimization, or systems dynamics."
+ },
+ {
+  "task_id": "16394",
+  "occupation": "Human Factors Engineers and Ergonomists",
+  "task_text": "Apply modeling or quantitative analysis to forecast events, such as human decisions or behaviors, the structure or processes of organizations, or the attitudes or actions of human groups."
+ },
+ {
+  "task_id": "21051",
+  "occupation": "Validation Engineers",
+  "task_text": "Study product characteristics or customer requirements to determine validation objectives and standards."
+ },
+ {
+  "task_id": "18131",
+  "occupation": "Validation Engineers",
+  "task_text": "Analyze validation test data to determine whether systems or processes have met validation criteria or to identify root causes of production problems."
+ },
+ {
+  "task_id": "18129",
+  "occupation": "Validation Engineers",
+  "task_text": "Develop validation master plans, process flow diagrams, test cases, or standard operating procedures."
+ },
+ {
+  "task_id": "18137",
+  "occupation": "Validation Engineers",
+  "task_text": "Prepare detailed reports or design statements, based on results of validation and qualification tests or reviews of procedures and protocols."
+ },
+ {
+  "task_id": "18144",
+  "occupation": "Validation Engineers",
+  "task_text": "Maintain validation test equipment."
+ },
+ {
+  "task_id": "18127",
+  "occupation": "Validation Engineers",
+  "task_text": "Conduct validation or qualification tests of new or existing processes, equipment, or software in accordance with internal protocols or external standards."
+ },
+ {
+  "task_id": "18142",
+  "occupation": "Validation Engineers",
+  "task_text": "Communicate with regulatory agencies regarding compliance documentation or validation results."
+ },
+ {
+  "task_id": "18146",
+  "occupation": "Validation Engineers",
+  "task_text": "Prepare, maintain, or review validation and compliance documentation, such as engineering change notices, schematics, or protocols."
+ },
+ {
+  "task_id": "21052",
+  "occupation": "Validation Engineers",
+  "task_text": "Recommend resolution of identified deviations from established product or process standards."
+ },
+ {
+  "task_id": "18128",
+  "occupation": "Validation Engineers",
+  "task_text": "Design validation study features, such as sampling, testing, or analytical methodologies."
+ },
+ {
+  "task_id": "18130",
+  "occupation": "Validation Engineers",
+  "task_text": "Prepare validation or performance qualification protocols for new or modified manufacturing processes, systems, or equipment for production of pharmaceuticals, electronics, or other products."
+ },
+ {
+  "task_id": "18133",
+  "occupation": "Validation Engineers",
+  "task_text": "Create, populate, or maintain databases for tracking validation activities, test results, or validated systems."
+ },
+ {
+  "task_id": "18139",
+  "occupation": "Validation Engineers",
+  "task_text": "Resolve testing problems by modifying testing methods or revising test objectives and standards."
+ },
+ {
+  "task_id": "18132",
+  "occupation": "Validation Engineers",
+  "task_text": "Conduct audits of validation or performance qualification processes to ensure compliance with internal or regulatory requirements."
+ },
+ {
+  "task_id": "21053",
+  "occupation": "Validation Engineers",
+  "task_text": "Draw samples of raw materials, intermediate products, or finished products for validation testing."
+ },
+ {
+  "task_id": "18134",
+  "occupation": "Validation Engineers",
+  "task_text": "Direct validation activities, such as protocol creation or testing."
+ },
+ {
+  "task_id": "18143",
+  "occupation": "Validation Engineers",
+  "task_text": "Coordinate the implementation or scheduling of validation testing with affected departments and personnel."
+ },
+ {
+  "task_id": "18145",
+  "occupation": "Validation Engineers",
+  "task_text": "Participate in internal or external training programs to maintain knowledge of validation principles, industry trends, or novel technologies."
+ },
+ {
+  "task_id": "19647",
+  "occupation": "Validation Engineers",
+  "task_text": "Validate or characterize sustainable or environmentally friendly products, using electronic testing platforms."
+ },
+ {
+  "task_id": "18141",
+  "occupation": "Validation Engineers",
+  "task_text": "Assist in training equipment operators or other staff on validation protocols and standard operating procedures."
+ },
+ {
+  "task_id": "21054",
+  "occupation": "Validation Engineers",
+  "task_text": "Devise automated lab validation test stations or other test fixtures or equipment."
+ }
+]

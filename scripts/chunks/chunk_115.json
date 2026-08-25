@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "11747",
+  "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+  "task_text": "Prepare and maintain records detailing tests, repairs, and maintenance."
+ },
+ {
+  "task_id": "11744",
+  "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+  "task_text": "Consult manuals, schematics, wiring diagrams, and engineering personnel to troubleshoot and solve equipment problems and to determine optimum equipment functioning."
+ },
+ {
+  "task_id": "11748",
+  "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+  "task_text": "Analyze test data to diagnose malfunctions, to determine performance characteristics of systems, or to evaluate effects of system modifications."
+ },
+ {
+  "task_id": "11746",
+  "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+  "task_text": "Open and close switches to isolate defective relays, performing adjustments or repairs."
+ },
+ {
+  "task_id": "11745",
+  "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+  "task_text": "Notify facility personnel of equipment shutdowns."
+ },
+ {
+  "task_id": "11750",
+  "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+  "task_text": "Repair, replace, and clean equipment and components such as circuit breakers, brushes, and commutators."
+ },
+ {
+  "task_id": "11753",
+  "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+  "task_text": "Run signal quality and connectivity tests for individual cables, and record results."
+ },
+ {
+  "task_id": "11756",
+  "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+  "task_text": "Maintain inventories of spare parts for all equipment, requisitioning parts as necessary."
+ },
+ {
+  "task_id": "11742",
+  "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+  "task_text": "Construct, test, maintain, and repair substation relay and control systems."
+ },
+ {
+  "task_id": "11749",
+  "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+  "task_text": "Test insulators and bushings of equipment by inducing voltage across insulation, testing current, and calculating insulation loss."
+ },
+ {
+  "task_id": "11752",
+  "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+  "task_text": "Schedule and supervise the construction and testing of special devices and the implementation of unique monitoring or control systems."
+ },
+ {
+  "task_id": "11754",
+  "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+  "task_text": "Schedule and supervise splicing or termination of cables in color-code order."
+ },
+ {
+  "task_id": "11755",
+  "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+  "task_text": "Test oil in circuit breakers and transformers for dielectric strength, refilling oil periodically."
+ },
+ {
+  "task_id": "11751",
+  "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+  "task_text": "Disconnect voltage regulators, bolts, and screws, and connect replacement regulators to high-voltage lines."
+ },
+ {
+  "task_id": "13728",
+  "occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+  "task_text": "Install equipment and accessories, such as stereos, navigation equipment, communication equipment, and security systems."
+ },
+ {
+  "task_id": "13727",
+  "occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+  "task_text": "Inspect and test electrical or electronic systems to locate and diagnose malfunctions, using visual inspections and testing instruments, such as oscilloscopes and voltmeters."
+ },
+ {
+  "task_id": "13732",
+  "occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+  "task_text": "Cut openings and drill holes for fixtures and equipment, using electric drills and routers."
+ },
+ {
+  "task_id": "13725",
+  "occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+  "task_text": "Splice wires with knives or cutting pliers, and solder connections to fixtures and equipment."
+ },
+ {
+  "task_id": "13726",
+  "occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+  "task_text": "Diagnose or repair problems with electronic equipment, such as sound, navigation, communication, and security equipment, in motor vehicles."
+ },
+ {
+  "task_id": "13731",
+  "occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+  "task_text": "Run new speaker and electrical cables."
+ },
+ {
+  "task_id": "13730",
+  "occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+  "task_text": "Confer with customers to determine the nature of malfunctions."
+ },
+ {
+  "task_id": "13734",
+  "occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+  "task_text": "Remove seats, carpeting, and interiors of doors and add sound-absorbing material in empty spaces, reinstalling interior parts."
+ },
+ {
+  "task_id": "13735",
+  "occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+  "task_text": "Record results of diagnostic tests."
+ },
+ {
+  "task_id": "13729",
+  "occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+  "task_text": "Estimate costs of repairs, based on parts and labor charges."
+ },
+ {
+  "task_id": "13733",
+  "occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+  "task_text": "Replace and clean electrical or electronic components."
+ },
+ {
+  "task_id": "13736",
+  "occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+  "task_text": "Build fiberglass or wooden enclosures for sound components, and fit them to automobile dimensions."
+ },
+ {
+  "task_id": "13738",
+  "occupation": "Audiovisual Equipment Installers and Repairers",
+  "task_text": "Install, service, and repair electronic equipment or instruments such as televisions, radios, and videocassette recorders."
+ },
+ {
+  "task_id": "13739",
+  "occupation": "Audiovisual Equipment Installers and Repairers",
+  "task_text": "Calibrate and test equipment, and locate circuit and component faults, using hand and power tools and measuring and testing instruments such as resistance meters and oscilloscopes."
+ },
+ {
+  "task_id": "13740",
+  "occupation": "Audiovisual Equipment Installers and Repairers",
+  "task_text": "Confer with customers to determine the nature of problems or to explain repairs."
+ },
+ {
+  "task_id": "13747",
+  "occupation": "Audiovisual Equipment Installers and Repairers",
+  "task_text": "Position or mount speakers, and wire speakers to consoles."
+ },
+ {
+  "task_id": "13742",
+  "occupation": "Audiovisual Equipment Installers and Repairers",
+  "task_text": "Instruct customers on the safe and proper use of equipment."
+ },
+ {
+  "task_id": "13746",
+  "occupation": "Audiovisual Equipment Installers and Repairers",
+  "task_text": "Make service calls to repair units in customers' homes, or return units to shops for major repairs."
+ },
+ {
+  "task_id": "13744",
+  "occupation": "Audiovisual Equipment Installers and Repairers",
+  "task_text": "Read and interpret electronic circuit diagrams, function block diagrams, specifications, engineering drawings, and service manuals."
+ },
+ {
+  "task_id": "13741",
+  "occupation": "Audiovisual Equipment Installers and Repairers",
+  "task_text": "Tune or adjust equipment and instruments to obtain optimum visual or auditory reception, according to specifications, manuals, and drawings."
+ },
+ {
+  "task_id": "13745",
+  "occupation": "Audiovisual Equipment Installers and Repairers",
+  "task_text": "Keep records of work orders and test and maintenance reports."
+ },
+ {
+  "task_id": "13737",
+  "occupation": "Audiovisual Equipment Installers and Repairers",
+  "task_text": "Disassemble entertainment equipment and repair or replace loose, worn, or defective components and wiring, using hand tools and soldering irons."
+ },
+ {
+  "task_id": "13743",
+  "occupation": "Audiovisual Equipment Installers and Repairers",
+  "task_text": "Compute cost estimates for labor and materials."
+ },
+ {
+  "task_id": "11761",
+  "occupation": "Security and Fire Alarm Systems Installers",
+  "task_text": "Install, maintain, or repair security systems, alarm devices, or related equipment, following blueprints of electrical layouts and building plans."
+ },
+ {
+  "task_id": "11760",
+  "occupation": "Security and Fire Alarm Systems Installers",
+  "task_text": "Mount and fasten control panels, door and window contacts, sensors, or video cameras, and attach electrical and telephone wiring to connect components."
+ },
+ {
+  "task_id": "11767",
+  "occupation": "Security and Fire Alarm Systems Installers",
+  "task_text": "Demonstrate systems for customers and explain details, such as the causes and consequences of false alarms."
+ },
+ {
+  "task_id": "11765",
+  "occupation": "Security and Fire Alarm Systems Installers",
+  "task_text": "Test and repair circuits and sensors, following wiring and system specifications."
+ },
+ {
+  "task_id": "20799",
+  "occupation": "Security and Fire Alarm Systems Installers",
+  "task_text": "Feed cables through access holes, roof spaces, or cavity walls to reach fixture outlets, positioning and terminating cables, wires, or strapping."
+ },
+ {
+  "task_id": "11758",
+  "occupation": "Security and Fire Alarm Systems Installers",
+  "task_text": "Examine systems to locate problems, such as loose connections or broken insulation."
+ },
+ {
+  "task_id": "20800",
+  "occupation": "Security and Fire Alarm Systems Installers",
+  "task_text": "Test backup batteries, keypad programming, sirens, or other security features to ensure proper functioning or to diagnose malfunctions."
+ },
+ {
+  "task_id": "11766",
+  "occupation": "Security and Fire Alarm Systems Installers",
+  "task_text": "Drill holes for wiring in wall studs, joists, ceilings, or floors."
+ },
+ {
+  "task_id": "11763",
+  "occupation": "Security and Fire Alarm Systems Installers",
+  "task_text": "Inspect installation sites and study work orders, building plans, and installation manuals to determine materials requirements and installation procedures."
+ },
+ {
+  "task_id": "11768",
+  "occupation": "Security and Fire Alarm Systems Installers",
+  "task_text": "Consult with clients to assess risks and to determine security requirements."
+ },
+ {
+  "task_id": "11770",
+  "occupation": "Security and Fire Alarm Systems Installers",
+  "task_text": "Mount raceways and conduits and fasten wires to wood framing, using staplers."
+ },
+ {
+  "task_id": "11764",
+  "occupation": "Security and Fire Alarm Systems Installers",
+  "task_text": "Adjust sensitivity of units, based on room structures and manufacturers' recommendations, using programming keypads."
+ },
+ {
+  "task_id": "11769",
+  "occupation": "Security and Fire Alarm Systems Installers",
+  "task_text": "Keep informed of new products and developments."
+ },
+ {
+  "task_id": "11773",
+  "occupation": "Security and Fire Alarm Systems Installers",
+  "task_text": "Order replacement parts."
+ },
+ {
+  "task_id": "11772",
+  "occupation": "Security and Fire Alarm Systems Installers",
+  "task_text": "Prepare documents, such as invoices or warranties."
+ },
+ {
+  "task_id": "11771",
+  "occupation": "Security and Fire Alarm Systems Installers",
+  "task_text": "Provide customers with cost estimates for equipment installation."
+ },
+ {
+  "task_id": "9947",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Inspect completed work to certify that maintenance meets standards and that aircraft are ready for operation."
+ },
+ {
+  "task_id": "9946",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Read and interpret maintenance manuals, service bulletins, and other specifications to determine the feasibility and method of repairing or replacing malfunctioning or damaged components."
+ },
+ {
+  "task_id": "9948",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Maintain repair logs, documenting all preventive and corrective aircraft maintenance."
+ },
+ {
+  "task_id": "9950",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Examine and inspect aircraft components, including landing gear, hydraulic systems, and deicers to locate cracks, breaks, leaks, or other problems."
+ },
+ {
+  "task_id": "9949",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Conduct routine and special inspections as required by regulations."
+ },
+ {
+  "task_id": "9954",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Replace or repair worn, defective, or damaged components, using hand tools, gauges, and testing equipment."
+ },
+ {
+  "task_id": "9951",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Inspect airframes for wear or other defects."
+ },
+ {
+  "task_id": "9977",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Check for corrosion, distortion, and invisible cracks in the fuselage, wings, and tail, using x-ray and magnetic inspection equipment."
+ },
+ {
+  "task_id": "9955",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Measure parts for wear, using precision instruments."
+ },
+ {
+  "task_id": "9967",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Remove or install aircraft engines, using hoists or forklift trucks."
+ },
+ {
+  "task_id": "9965",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Service and maintain aircraft and related apparatus by performing activities such as flushing crankcases, cleaning screens, and or moving parts."
+ },
+ {
+  "task_id": "9957",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Test operation of engines and other systems, using test equipment, such as ignition analyzers, compression checkers, distributor timers, or ammeters."
+ },
+ {
+  "task_id": "9956",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Assemble and install electrical, plumbing, mechanical, hydraulic, and structural components and accessories, using hand or power tools."
+ },
+ {
+  "task_id": "9959",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Reassemble engines following repair or inspection and reinstall engines in aircraft."
+ },
+ {
+  "task_id": "9952",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Maintain, repair, and rebuild aircraft structures, functional components, and parts, such as wings and fuselage, rigging, hydraulic units, oxygen systems, fuel systems, electrical systems, gaskets, or seals."
+ },
+ {
+  "task_id": "9953",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Measure the tension of control cables."
+ },
+ {
+  "task_id": "9960",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Read and interpret pilots' descriptions of problems to diagnose causes."
+ },
+ {
+  "task_id": "9958",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Obtain fuel and oil samples and check them for contamination."
+ },
+ {
+  "task_id": "9966",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Examine engines through specially designed openings while working from ladders or scaffolds, or use hoists or lifts to remove the entire engine from an aircraft."
+ },
+ {
+  "task_id": "9981",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Listen to operating engines to detect and diagnose malfunctions, such as sticking or burned valves."
+ },
+ {
+  "task_id": "9970",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Remove or cut out defective parts or drill holes to gain access to internal defects or damage, using drills and punches."
+ },
+ {
+  "task_id": "9972",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Communicate with other workers to coordinate fitting and alignment of heavy parts, or to facilitate processing of repair parts."
+ },
+ {
+  "task_id": "9968",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Inventory and requisition or order supplies, parts, materials, and equipment."
+ },
+ {
+  "task_id": "9971",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Clean, refuel, and change oil in line service aircraft."
+ },
+ {
+  "task_id": "9961",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Modify aircraft structures, space vehicles, systems, or components, following drawings, schematics, charts, engineering orders, and technical publications."
+ },
+ {
+  "task_id": "9974",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Clean engines, sediment bulk and screens, and carburetors, adjusting carburetor float levels."
+ },
+ {
+  "task_id": "9962",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Install and align repaired or replacement parts for subsequent riveting or welding, using clamps and wrenches."
+ },
+ {
+  "task_id": "9982",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Accompany aircraft on flights to make in-flight adjustments and corrections."
+ },
+ {
+  "task_id": "9963",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Locate and mark dimensions and reference lines on defective or replacement parts, using templates, scribes, compasses, and steel rules."
+ },
+ {
+  "task_id": "9976",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Spread plastic film over areas to be repaired to prevent damage to surrounding areas."
+ },
+ {
+  "task_id": "9969",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Fabricate defective sections or parts, using metal fabricating machines, saws, brakes, shears, and grinders."
+ },
+ {
+  "task_id": "9964",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Clean, strip, prime, and sand structural surfaces and materials to prepare them for bonding."
+ },
+ {
+  "task_id": "9979",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Determine repair limits for engine hot section parts."
+ },
+ {
+  "task_id": "9978",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Disassemble engines and inspect parts, such as turbine blades or cylinders, for corrosion, wear, warping, cracks, and leaks, using precision measuring instruments, x-rays, and magnetic inspection equipment."
+ },
+ {
+  "task_id": "9983",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Remove, inspect, repair, and install in-flight refueling stores and external fuel tanks."
+ },
+ {
+  "task_id": "9973",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Trim and shape replacement body sections to specified sizes and fits and secure sections in place, using adhesives, hand tools, and power tools."
+ },
+ {
+  "task_id": "9980",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Cure bonded structures, using portable or stationary curing equipment."
+ },
+ {
+  "task_id": "9975",
+  "occupation": "Aircraft Mechanics and Service Technicians",
+  "task_text": "Prepare and paint aircraft surfaces."
+ },
+ {
+  "task_id": "2933",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "File, grind, sand, and smooth filled or repaired surfaces, using power tools and hand tools."
+ },
+ {
+  "task_id": "18580",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Inspect repaired vehicles for proper functioning, completion of work, dimensional accuracy, and overall appearance of paint job, and test-drive vehicles to ensure proper alignment and handling."
+ },
+ {
+  "task_id": "2943",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Fit and weld replacement parts into place, using wrenches and welding equipment, and grind down welds to smooth them, using power grinders and other tools."
+ },
+ {
+  "task_id": "2938",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Prime and paint repaired surfaces, using paint sprayguns and motorized sanders."
+ },
+ {
+  "task_id": "2935",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Follow supervisors' instructions as to which parts to restore or replace and how much time the job should take."
+ },
+ {
+  "task_id": "2934",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Sand body areas to be painted and cover bumpers, windows, and trim with masking tape or paper to protect them from the paint."
+ },
+ {
+  "task_id": "2941",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Chain or clamp frames and sections to alignment machines that use hydraulic pressure to align damaged components."
+ },
+ {
+  "task_id": "2944",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Position dolly blocks against surfaces of dented areas and beat opposite surfaces to remove dents, using hammers."
+ },
+ {
+  "task_id": "2937",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Cut and tape plastic separating film to outside repair areas to avoid damaging surrounding surfaces during repair procedure and remove tape and wash surfaces after repairs are complete."
+ },
+ {
+  "task_id": "2946",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Review damage reports, prepare or review repair cost estimates, and plan work to be performed."
+ },
+ {
+  "task_id": "2942",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Fill small dents that cannot be worked out with plastic or solder."
+ },
+ {
+  "task_id": "2936",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Remove damaged sections of vehicles using metal-cutting guns, air grinders and wrenches, and install replacement parts using wrenches or welding equipment."
+ },
+ {
+  "task_id": "2947",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Remove small pits and dimples in body metal, using pick hammers and punches."
+ },
+ {
+  "task_id": "2948",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Remove upholstery, accessories, electrical window-and-seat-operating equipment, and trim to gain access to vehicle bodies and fenders."
+ },
+ {
+  "task_id": "2940",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Mix polyester resins and hardeners to be used in restoring damaged areas."
+ },
+ {
+  "task_id": "2954",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Fit and secure windows, vinyl roofs, and metal trim to vehicle bodies, using caulking guns, adhesive brushes, and mallets."
+ },
+ {
+  "task_id": "2950",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Adjust or align headlights, wheels, and brake systems."
+ },
+ {
+  "task_id": "2956",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Replace damaged glass on vehicles."
+ },
+ {
+  "task_id": "2945",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Remove damaged panels, and identify the family and properties of the plastic used on a vehicle."
+ },
+ {
+  "task_id": "2951",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Apply heat to plastic panels, using hot-air welding guns or immersion in hot water, and press the softened panels back into shape by hand."
+ },
+ {
+  "task_id": "2949",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Clean work areas, using air hoses, to remove damaged material and discarded fiberglass strips used in repair procedures."
+ },
+ {
+  "task_id": "2952",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Soak fiberglass matting in resin mixtures and apply layers of matting over repair areas to specified thicknesses."
+ },
+ {
+  "task_id": "2955",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Read specifications or confer with customers to determine the desired custom modifications for altering the appearance of vehicles."
+ },
+ {
+  "task_id": "2953",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Cut openings in vehicle bodies for the installation of customized windows, using templates and power shears or chisels."
+ },
+ {
+  "task_id": "2957",
+  "occupation": "Automotive Body and Related Repairers",
+  "task_text": "Measure and mark vinyl material and cut material to size for roof installation, using rules, straightedges, and hand shears."
+ },
+ {
+  "task_id": "20645",
+  "occupation": "Automotive Glass Installers and Repairers",
+  "task_text": "Prime all scratches on pinchwelds with primer and allow to dry."
+ },
+ {
+  "task_id": "8318",
+  "occupation": "Automotive Glass Installers and Repairers",
+  "task_text": "Remove all dirt, foreign matter, and loose glass from damaged areas, apply primer along windshield or window edges, and allow primer to dry."
+ },
+ {
+  "task_id": "8320",
+  "occupation": "Automotive Glass Installers and Repairers",
+  "task_text": "Allow all glass parts installed with urethane ample time to cure, taking temperature and humidity into account."
+ },
+ {
+  "task_id": "8324",
+  "occupation": "Automotive Glass Installers and Repairers",
+  "task_text": "Apply a bead of urethane around the perimeter of each pinchweld and dress the remaining urethane on the pinchwelds so that it is of uniform level and thickness."
+ },
+ {
+  "task_id": "8325",
+  "occupation": "Automotive Glass Installers and Repairers",
+  "task_text": "Select appropriate tools, safety equipment, and parts, according to job requirements."
+ },
+ {
+  "task_id": "20646",
+  "occupation": "Automotive Glass Installers and Repairers",
+  "task_text": "Install replacement glass in vehicles."
+ },
+ {
+  "task_id": "8322",
+  "occupation": "Automotive Glass Installers and Repairers",
+  "task_text": "Obtain windshields or windows for specific automobile makes and models from stock and examine them for defects prior to installation."
+ },
+ {
+  "task_id": "8323",
+  "occupation": "Automotive Glass Installers and Repairers",
+  "task_text": "Check for and remove moisture or contamination in damaged areas and keep areas dry until repairs are complete."
+ },
+ {
+  "task_id": "8327",
+  "occupation": "Automotive Glass Installers and Repairers",
+  "task_text": "Replace all moldings, clips, windshield wipers, or other parts that were removed prior to glass replacement or repair."
+ },
+ {
+  "task_id": "8326",
+  "occupation": "Automotive Glass Installers and Repairers",
+  "task_text": "Remove broken or damaged glass windshields or window glass from motor vehicles, using hand tools to remove screws from frames holding glass."
+ },
+ {
+  "task_id": "8328",
+  "occupation": "Automotive Glass Installers and Repairers",
+  "task_text": "Remove moldings, clips, windshield wipers, screws, bolts, and inside A-pillar moldings and lower headliners in preparation for installation or repair work."
+ },
+ {
+  "task_id": "8329",
+  "occupation": "Automotive Glass Installers and Repairers",
+  "task_text": "Install, repair, or replace safety glass and related materials, such as back glass heating elements, on vehicles or equipment."
+ },
+ {
+  "task_id": "8335",
+  "occupation": "Automotive Glass Installers and Repairers",
+  "task_text": "Cool or warm glass in the event of temperature extremes."
+ },
+ {
+  "task_id": "8333",
+  "occupation": "Automotive Glass Installers and Repairers",
+  "task_text": "Replace or adjust motorized or manual window-raising mechanisms."
+ }
+]

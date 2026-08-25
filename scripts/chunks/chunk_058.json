@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "22003",
+  "occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+  "task_text": "Participate in the development or testing of electrical aspects of new green technologies, such as lighting, optical data storage devices, and energy efficient televisions."
+ },
+ {
+  "task_id": "22004",
+  "occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+  "task_text": "Review, develop, or prepare maintenance standards."
+ },
+ {
+  "task_id": "10892",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Test performance of electromechanical assemblies, using test instruments such as oscilloscopes, electronic voltmeters, or bridges."
+ },
+ {
+  "task_id": "22014",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Install or program computer hardware or machine or instrumentation software in microprocessor-based systems."
+ },
+ {
+  "task_id": "10893",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Read blueprints, schematics, diagrams, or technical orders to determine methods and sequences of assembly."
+ },
+ {
+  "task_id": "22015",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Modify, maintain, or repair electrical, electronic, or mechanical components, equipment, or systems to ensure proper functioning."
+ },
+ {
+  "task_id": "10896",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Inspect parts for surface defects."
+ },
+ {
+  "task_id": "10894",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Install electrical or electronic parts and hardware in housings or assemblies, using soldering equipment and hand tools."
+ },
+ {
+  "task_id": "10898",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Verify part dimensions or clearances to ensure conformance to specifications, using precision measuring instruments."
+ },
+ {
+  "task_id": "22012",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Fabricate or assemble mechanical, electrical, or electronic components or assemblies."
+ },
+ {
+  "task_id": "10895",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Align, fit, or assemble component parts, using hand or power tools, fixtures, templates, or microscopes."
+ },
+ {
+  "task_id": "22016",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Produce electrical, electronic, or mechanical drawings or other related documents or graphics necessary for electromechanical design, using computer-aided design (CAD) software."
+ },
+ {
+  "task_id": "22018",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Select electromechanical equipment, materials, components, or systems to meet functional specifications."
+ },
+ {
+  "task_id": "22011",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Establish and maintain inventory, records, or documentation systems."
+ },
+ {
+  "task_id": "10902",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Develop, test, or program new robots."
+ },
+ {
+  "task_id": "20743",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Prepare written documentation of electromechanical test results."
+ },
+ {
+  "task_id": "10900",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Repair, rework, or calibrate hydraulic or pneumatic assemblies or systems to meet operational specifications or tolerances."
+ },
+ {
+  "task_id": "22017",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Select and use laboratory, operational, or diagnostic techniques or test equipment to assess electromechanical circuits, equipment, processes, systems, or subsystems."
+ },
+ {
+  "task_id": "19683",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Operate, test, or maintain robotic equipment used for green production applications, such as waste-to-energy conversion systems, minimization of material waste, or replacement of human operators in dangerous work environments."
+ },
+ {
+  "task_id": "22009",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Determine whether selected electromechanical components comply with environmental standards and regulations."
+ },
+ {
+  "task_id": "22010",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Develop or implement programs related to the environmental impact of engineering activities."
+ },
+ {
+  "task_id": "10901",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Train others to install, use, or maintain robots."
+ },
+ {
+  "task_id": "22005",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Analyze engineering designs of logic or digital circuitry, motor controls, instrumentation, or data acquisition for implementation into new or existing automated, servomechanical, or other electromechanical systems."
+ },
+ {
+  "task_id": "22007",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs."
+ },
+ {
+  "task_id": "22019",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Specify, coordinate, or conduct quality-control or quality-assurance programs and procedures."
+ },
+ {
+  "task_id": "10899",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Operate metalworking machines to fabricate housings, jigs, fittings, or fixtures."
+ },
+ {
+  "task_id": "22021",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Translate electromechanical drawings into design specifications, applying principles of engineering, thermal or fluid sciences, mathematics, or statistics."
+ },
+ {
+  "task_id": "22013",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Identify energy-conserving production or fabrication methods, such as by bending metal rather than cutting and welding or casting metal."
+ },
+ {
+  "task_id": "23943",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Assist engineers to implement electromechanical designs in industrial or other settings."
+ },
+ {
+  "task_id": "22008",
+  "occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+  "task_text": "Consult with machinists to ensure that electromechanical equipment or systems meet design specifications."
+ },
+ {
+  "task_id": "21059",
+  "occupation": "Robotics Technicians",
+  "task_text": "Make repairs to robots or peripheral equipment, such as replacement of defective circuit boards, sensors, controllers, encoders, or servomotors."
+ },
+ {
+  "task_id": "16589",
+  "occupation": "Robotics Technicians",
+  "task_text": "Troubleshoot robotic systems, using knowledge of microprocessors, programmable controllers, electronics, circuit analysis, mechanics, sensor or feedback systems, hydraulics, or pneumatics."
+ },
+ {
+  "task_id": "16593",
+  "occupation": "Robotics Technicians",
+  "task_text": "Install, program, or repair programmable controllers, robot controllers, end-of-arm tools, or conveyors."
+ },
+ {
+  "task_id": "16579",
+  "occupation": "Robotics Technicians",
+  "task_text": "Maintain service records of robotic equipment or automated production systems."
+ },
+ {
+  "task_id": "16584",
+  "occupation": "Robotics Technicians",
+  "task_text": "Modify computer-controlled robot movements."
+ },
+ {
+  "task_id": "16592",
+  "occupation": "Robotics Technicians",
+  "task_text": "Perform preventive or corrective maintenance on robotic systems or components."
+ },
+ {
+  "task_id": "16588",
+  "occupation": "Robotics Technicians",
+  "task_text": "Align, fit, or assemble components, using hand tools, power tools, fixtures, templates, or microscopes."
+ },
+ {
+  "task_id": "16586",
+  "occupation": "Robotics Technicians",
+  "task_text": "Attach wires between controllers."
+ },
+ {
+  "task_id": "19684",
+  "occupation": "Robotics Technicians",
+  "task_text": "Evaluate the efficiency and reliability of industrial robotic systems, reprogramming or calibrating to achieve maximum quantity and quality."
+ },
+ {
+  "task_id": "16591",
+  "occupation": "Robotics Technicians",
+  "task_text": "Test performance of robotic assemblies, using instruments such as oscilloscopes, electronic voltmeters, or bridges."
+ },
+ {
+  "task_id": "16576",
+  "occupation": "Robotics Technicians",
+  "task_text": "Train customers or other personnel to install, use, or maintain robots."
+ },
+ {
+  "task_id": "16596",
+  "occupation": "Robotics Technicians",
+  "task_text": "Build or assemble robotic devices or systems."
+ },
+ {
+  "task_id": "16581",
+  "occupation": "Robotics Technicians",
+  "task_text": "Document robotics test procedures and results."
+ },
+ {
+  "task_id": "16587",
+  "occupation": "Robotics Technicians",
+  "task_text": "Assist engineers in the design, configuration, or application of robotic systems."
+ },
+ {
+  "task_id": "16594",
+  "occupation": "Robotics Technicians",
+  "task_text": "Install new robotic systems in stationary positions or on tracks."
+ },
+ {
+  "task_id": "16577",
+  "occupation": "Robotics Technicians",
+  "task_text": "Program complex robotic systems, such as vision systems."
+ },
+ {
+  "task_id": "16585",
+  "occupation": "Robotics Technicians",
+  "task_text": "Develop robotic path motions to maximize efficiency, safety, and quality."
+ },
+ {
+  "task_id": "16580",
+  "occupation": "Robotics Technicians",
+  "task_text": "Fabricate housings, jigs, fittings, or fixtures, using metalworking machines."
+ },
+ {
+  "task_id": "16590",
+  "occupation": "Robotics Technicians",
+  "task_text": "Train robots, using artificial intelligence software or interactive training techniques, to perform simple or complex tasks, such as designing and carrying out a series of iterative tests of chemical samples."
+ },
+ {
+  "task_id": "16583",
+  "occupation": "Robotics Technicians",
+  "task_text": "Inspect installation sites."
+ },
+ {
+  "task_id": "21060",
+  "occupation": "Robotics Technicians",
+  "task_text": "Maintain inventories of robotic production supplies, such as sensors or cables."
+ },
+ {
+  "task_id": "16582",
+  "occupation": "Robotics Technicians",
+  "task_text": "Develop three-dimensional simulations of automation systems."
+ },
+ {
+  "task_id": "3641",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Maintain project logbook records or computer program files."
+ },
+ {
+  "task_id": "20513",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Record laboratory or field data, including numerical data, test results, photographs, or summaries of visual observations."
+ },
+ {
+  "task_id": "3643",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Perform environmental quality work in field or office settings."
+ },
+ {
+  "task_id": "3654",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Produce environmental assessment reports, tabulating data and preparing charts, graphs, or sketches."
+ },
+ {
+  "task_id": "20514",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Collect and analyze pollution samples, such as air or ground water."
+ },
+ {
+  "task_id": "19688",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Decontaminate or test field equipment used to clean or test pollutants from soil, air, or water."
+ },
+ {
+  "task_id": "19691",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Prepare and package environmental samples for shipping or testing."
+ },
+ {
+  "task_id": "3655",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Maintain process parameters and evaluate process anomalies."
+ },
+ {
+  "task_id": "3644",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Review technical documents to ensure completeness and conformance to requirements."
+ },
+ {
+  "task_id": "3640",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Receive, set up, test, or decontaminate equipment."
+ },
+ {
+  "task_id": "20033",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Prepare permit applications or review compliance with environmental permits."
+ },
+ {
+  "task_id": "3646",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Review work plans to schedule activities."
+ },
+ {
+  "task_id": "3653",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Assist in the cleanup of hazardous material spills."
+ },
+ {
+  "task_id": "3649",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Inspect facilities to monitor compliance with regulations governing substances, such as asbestos, lead, or wastewater."
+ },
+ {
+  "task_id": "3658",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Develop work plans, including writing specifications or establishing material, manpower, or facilities needs."
+ },
+ {
+  "task_id": "3657",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Perform statistical analysis and correction of air or water pollution data submitted by industry or other agencies."
+ },
+ {
+  "task_id": "3648",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Arrange for the disposal of lead, asbestos, or other hazardous materials."
+ },
+ {
+  "task_id": "19689",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Evaluate and select technologies to clean up polluted sites, restore polluted air, water, or soil, or rehabilitate degraded ecosystems."
+ },
+ {
+  "task_id": "19686",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Assess the ability of environments to naturally remove or reduce conventional or emerging contaminants from air, water, or soil."
+ },
+ {
+  "task_id": "3656",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Work with customers to assess the environmental impact of proposed construction or to develop pollution prevention programs."
+ },
+ {
+  "task_id": "3650",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Provide technical engineering support in the planning of projects, such as wastewater treatment plants, to ensure compliance with environmental regulations and policies."
+ },
+ {
+  "task_id": "19690",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Model biological, chemical, or physical treatment processes to remove or degrade pollutants."
+ },
+ {
+  "task_id": "3652",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Oversee support staff."
+ },
+ {
+  "task_id": "19687",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Create models to demonstrate or predict the process by which pollutants move through or impact an environment."
+ },
+ {
+  "task_id": "3651",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Improve chemical processes to reduce toxic emissions."
+ },
+ {
+  "task_id": "3647",
+  "occupation": "Environmental Engineering Technologists and Technicians",
+  "task_text": "Obtain product information, identify vendors or suppliers, or order materials or equipment to maintain inventory."
+ },
+ {
+  "task_id": "20516",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Test selected products at specified stages in the production process for performance characteristics or adherence to specifications."
+ },
+ {
+  "task_id": "3672",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Compile and evaluate statistical data to determine and maintain quality and reliability of products."
+ },
+ {
+  "task_id": "3660",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Study time, motion, methods, or speed involved in maintenance, production, or other operations to establish standard production rate or improve efficiency."
+ },
+ {
+  "task_id": "3668",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Read worker logs, product processing sheets, or specification sheets to verify that records adhere to quality assurance specifications."
+ },
+ {
+  "task_id": "20518",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Verify that equipment is being operated and maintained according to quality assurance standards by observing worker performance."
+ },
+ {
+  "task_id": "3663",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Aid in planning work assignments in accordance with worker performance, machine capacity, production schedules, or anticipated delays."
+ },
+ {
+  "task_id": "19692",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Evaluate industrial operations for compliance with permits or regulations related to the generation, storage, treatment, transportation, or disposal of hazardous materials or waste."
+ },
+ {
+  "task_id": "22022",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Adhere to all applicable regulations, policies, and procedures for health, safety, and environmental compliance."
+ },
+ {
+  "task_id": "22023",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Analyze, estimate, or report production costs."
+ },
+ {
+  "task_id": "22024",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Assist engineers in developing, building, or testing prototypes or new products, processes, or procedures."
+ },
+ {
+  "task_id": "22025",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Calibrate or adjust equipment to ensure quality production, using tools such as calipers, micrometers, height gauges, protractors, or ring gauges."
+ },
+ {
+  "task_id": "22026",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs."
+ },
+ {
+  "task_id": "22027",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Coordinate equipment purchases, installations, or transfers."
+ },
+ {
+  "task_id": "22028",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Create or interpret engineering drawings, schematic diagrams, formulas, or blueprints for management or engineering staff."
+ },
+ {
+  "task_id": "22029",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Design plant layouts or production facilities."
+ },
+ {
+  "task_id": "22030",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Develop manufacturing infrastructure to integrate or deploy new manufacturing processes."
+ },
+ {
+  "task_id": "22031",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Develop or implement programs to address problems related to production, materials, safety, or quality."
+ },
+ {
+  "task_id": "22032",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Develop production, inventory, or quality assurance programs."
+ },
+ {
+  "task_id": "22033",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Develop sustainable manufacturing technologies to reduce greenhouse gas emissions, minimize raw material use, replace toxic materials with non-toxic materials, replace non-renewable materials with renewable materials, or reduce waste."
+ },
+ {
+  "task_id": "22034",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Identify opportunities for improvements in quality, cost, or efficiency of automation equipment."
+ },
+ {
+  "task_id": "22035",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Monitor and adjust production processes or equipment for quality and productivity."
+ },
+ {
+  "task_id": "22036",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Oversee equipment start-up, characterization, qualification, or release."
+ },
+ {
+  "task_id": "22037",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Oversee or inspect production processes."
+ },
+ {
+  "task_id": "22038",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Prepare layouts, drawings, or sketches of machinery or equipment, such as shop tooling, scale layouts, or new equipment design, using drafting equipment or computer-aided design (CAD) software."
+ },
+ {
+  "task_id": "22039",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Prepare production documents, such as standard operating procedures, manufacturing batch records, inventory reports, or productivity reports."
+ },
+ {
+  "task_id": "22040",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Provide advice or training to other technicians."
+ },
+ {
+  "task_id": "22041",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Recommend corrective or preventive actions to assure or improve product quality or reliability."
+ },
+ {
+  "task_id": "22042",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Select cleaning materials, tools, or equipment."
+ },
+ {
+  "task_id": "22043",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Select material quantities or processing methods needed to achieve efficient production."
+ },
+ {
+  "task_id": "22044",
+  "occupation": "Industrial Engineering Technologists and Technicians",
+  "task_text": "Set up and operate production equipment in accordance with current good manufacturing practices and standard operating procedures."
+ },
+ {
+  "task_id": "22047",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Produce images or measurements, using tools or techniques such as atomic force microscopy, scanning electron microscopy, optical microscopy, particle size analysis, or zeta potential analysis."
+ },
+ {
+  "task_id": "22063",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Maintain accurate record or batch-record documentation of nanoproduction."
+ },
+ {
+  "task_id": "22053",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Calibrate nanotechnology equipment, such as weighing, testing, or production equipment."
+ },
+ {
+  "task_id": "22046",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Maintain work area according to cleanroom or other processing standards."
+ },
+ {
+  "task_id": "22049",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Repair nanotechnology processing or testing equipment or submit work orders for equipment repair."
+ },
+ {
+  "task_id": "22068",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Assist nanoscientists or engineers in processing or characterizing materials according to physical or chemical properties."
+ },
+ {
+  "task_id": "22048",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Collaborate with scientists or engineers to design or conduct experiments for the development of nanotechnology materials, components, devices, or systems."
+ },
+ {
+  "task_id": "22045",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Operate nanotechnology compounding, testing, processing, or production equipment in accordance with appropriate standard operating procedures, good manufacturing practices, hazardous material restrictions, or health and safety requirements."
+ },
+ {
+  "task_id": "22054",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Monitor hazardous waste cleanup procedures to ensure proper application of nanocomposites or accomplishment of objectives."
+ },
+ {
+  "task_id": "22051",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Monitor equipment during operation to ensure adherence to specifications for characteristics such as pressure, temperature, or flow."
+ },
+ {
+  "task_id": "22050",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Measure or mix chemicals or compounds in accordance with detailed instructions or formulas."
+ },
+ {
+  "task_id": "22056",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Inspect or measure thin films of carbon nanotubes, polymers, or inorganic coatings, using a variety of techniques or analytical tools."
+ },
+ {
+  "task_id": "22065",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Prepare capability data, training materials, or other documentation for transfer of processes to production."
+ },
+ {
+  "task_id": "22052",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Collect or compile nanotechnology research or engineering data."
+ },
+ {
+  "task_id": "22061",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Prepare detailed verbal or written presentations for scientists, engineers, project managers, or upper management."
+ },
+ {
+  "task_id": "22055",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Contribute written material or data for grant or patent applications."
+ },
+ {
+  "task_id": "22060",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Implement new or enhanced methods or processes for the processing, testing, or manufacture of nanotechnology materials or products."
+ },
+ {
+  "task_id": "22058",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Develop or modify wet chemical or industrial laboratory experimental techniques for nanoscale use."
+ },
+ {
+  "task_id": "22069",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Assist nanoscientists or engineers in writing process specifications or documentation."
+ },
+ {
+  "task_id": "22067",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Measure emission of nanodust or nanoparticles during nanocomposite or other nano-scale production processes, using systems such as aerosol detection systems."
+ },
+ {
+  "task_id": "22062",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Perform functional tests of nano-enhanced assemblies, components, or systems, using equipment such as torque gauges or conductivity meters."
+ },
+ {
+  "task_id": "22057",
+  "occupation": "Nanotechnology Engineering Technologists and Technicians",
+  "task_text": "Compare the performance or environmental impact of nanomaterials by nanoparticle size, shape, or organization."
+ }
+]

@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "17112",
+  "occupation": "Neurologists",
+  "task_text": "Supervise medical technicians in the performance of neurological diagnostic or therapeutic activities."
+ },
+ {
+  "task_id": "17113",
+  "occupation": "Neurologists",
+  "task_text": "Counsel patients or others on the background of neurological disorders including risk factors, or genetic or environmental concerns."
+ },
+ {
+  "task_id": "17114",
+  "occupation": "Neurologists",
+  "task_text": "Interpret the results of neuroimaging studies, such as Magnetic Resonance Imaging (MRI), Single Photon Emission Computed Tomography (SPECT), and Positron Emission Tomography (PET) scans."
+ },
+ {
+  "task_id": "17115",
+  "occupation": "Neurologists",
+  "task_text": "Refer patients to other health care practitioners as necessary."
+ },
+ {
+  "task_id": "17116",
+  "occupation": "Neurologists",
+  "task_text": "Advise other physicians on the treatment of neurological problems."
+ },
+ {
+  "task_id": "17117",
+  "occupation": "Neurologists",
+  "task_text": "Prescribe or administer medications, such as anti-epileptic drugs, and monitor patients for behavioral and cognitive side effects."
+ },
+ {
+  "task_id": "17118",
+  "occupation": "Neurologists",
+  "task_text": "Prescribe or administer treatments, such as transcranial magnetic stimulation, vagus nerve stimulation, and deep brain stimulation."
+ },
+ {
+  "task_id": "17119",
+  "occupation": "Neurologists",
+  "task_text": "Prepare, maintain, or review records that include patients' histories, neurological examination findings, treatment plans, or outcomes."
+ },
+ {
+  "task_id": "17120",
+  "occupation": "Neurologists",
+  "task_text": "Perform specialized treatments in areas such as sleep disorders, neuroimmunology, neuro-oncology, behavioral neurology, and neurogenetics."
+ },
+ {
+  "task_id": "17121",
+  "occupation": "Neurologists",
+  "task_text": "Order or interpret results of laboratory analyses of patients' blood or cerebrospinal fluid."
+ },
+ {
+  "task_id": "17122",
+  "occupation": "Neurologists",
+  "task_text": "Order supportive care services, such as physical therapy, specialized nursing care, and social services."
+ },
+ {
+  "task_id": "17123",
+  "occupation": "Neurologists",
+  "task_text": "Interview patients to obtain information, such as complaints, symptoms, medical histories, and family histories."
+ },
+ {
+  "task_id": "17124",
+  "occupation": "Neurologists",
+  "task_text": "Inform patients or families of neurological diagnoses and prognoses, or benefits, risks and costs of various treatment plans."
+ },
+ {
+  "task_id": "17125",
+  "occupation": "Neurologists",
+  "task_text": "Diagnose neurological conditions based on interpretation of examination findings, histories, or test results."
+ },
+ {
+  "task_id": "17126",
+  "occupation": "Neurologists",
+  "task_text": "Develop treatment plans based on diagnoses and on evaluation of factors, such as age and general health, or procedural risks and costs."
+ },
+ {
+  "task_id": "17127",
+  "occupation": "Neurologists",
+  "task_text": "Determine brain death using accepted tests and procedures."
+ },
+ {
+  "task_id": "17128",
+  "occupation": "Neurologists",
+  "task_text": "Communicate with other health care professionals regarding patients' conditions and care."
+ },
+ {
+  "task_id": "17129",
+  "occupation": "Neurologists",
+  "task_text": "Coordinate neurological services with other health care team activities."
+ },
+ {
+  "task_id": "17130",
+  "occupation": "Neurologists",
+  "task_text": "Perform or interpret the outcomes of procedures or diagnostic tests, such as lumbar punctures, electroencephalography, electromyography, and nerve conduction velocity tests."
+ },
+ {
+  "task_id": "17131",
+  "occupation": "Neurologists",
+  "task_text": "Identify and treat major neurological system diseases and disorders, such as central nervous system infection, cranio spinal trauma, dementia, and stroke."
+ },
+ {
+  "task_id": "17132",
+  "occupation": "Neurologists",
+  "task_text": "Examine patients to obtain information about functional status of areas, such as vision, physical strength, coordination, reflexes, sensations, language skills, cognitive abilities, and mental status."
+ },
+ {
+  "task_id": "17159",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Provide ophthalmic consultation to other medical professionals."
+ },
+ {
+  "task_id": "17160",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Refer patients for more specialized treatments when conditions exceed the experience, expertise, or scope of practice of practitioner."
+ },
+ {
+  "task_id": "17161",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Instruct interns, residents, or others in ophthalmologic procedures and techniques."
+ },
+ {
+  "task_id": "17162",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Develop or implement plans and procedures for ophthalmologic services."
+ },
+ {
+  "task_id": "17163",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Educate patients about maintenance and promotion of healthy vision."
+ },
+ {
+  "task_id": "17164",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Conduct clinical or laboratory-based research in ophthalmology."
+ },
+ {
+  "task_id": "17165",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Collaborate with multidisciplinary teams of health professionals to provide optimal patient care."
+ },
+ {
+  "task_id": "17166",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Provide or direct the provision of postoperative care."
+ },
+ {
+  "task_id": "17167",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Document or evaluate patients' medical histories."
+ },
+ {
+  "task_id": "17168",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Prescribe corrective lenses such as glasses or contact lenses."
+ },
+ {
+  "task_id": "17169",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Prescribe or administer topical or systemic medications to treat ophthalmic conditions and to manage pain."
+ },
+ {
+  "task_id": "17170",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Perform, order, or interpret the results of diagnostic or clinical tests."
+ },
+ {
+  "task_id": "17171",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Develop treatment plans based on patients' histories and goals, the nature and severity of disorders, and treatment risks and benefits."
+ },
+ {
+  "task_id": "17172",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Perform laser surgeries to alter, remove, reshape, or replace ocular tissue."
+ },
+ {
+  "task_id": "17173",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Perform ophthalmic surgeries such as cataract, glaucoma, refractive, corneal, vitro-retinal, eye muscle, or oculoplastic surgeries."
+ },
+ {
+  "task_id": "17174",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Prescribe ophthalmologic treatments or therapies such as chemotherapy, cryotherapy, or low vision therapy."
+ },
+ {
+  "task_id": "17175",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Perform comprehensive examinations of the visual system to determine the nature or extent of ocular disorders."
+ },
+ {
+  "task_id": "17176",
+  "occupation": "Ophthalmologists, Except Pediatric",
+  "task_text": "Diagnose or treat injuries, disorders, or diseases of the eye and eye structures including the cornea, sclera, conjunctiva, or eyelids."
+ },
+ {
+  "task_id": "17177",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Testify in depositions or trials as an expert witness."
+ },
+ {
+  "task_id": "17178",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Review cases by analyzing autopsies, laboratory findings, or case investigation reports."
+ },
+ {
+  "task_id": "17179",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Manage medical laboratories."
+ },
+ {
+  "task_id": "17180",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments in pathology."
+ },
+ {
+  "task_id": "17181",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Develop or adopt new tests or instruments to improve diagnosis of diseases."
+ },
+ {
+  "task_id": "17182",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Educate physicians, students, and other personnel in medical laboratory professions, such as medical technology, cytotechnology, or histotechnology."
+ },
+ {
+  "task_id": "17183",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Conduct research and present scientific findings."
+ },
+ {
+  "task_id": "17184",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Perform autopsies to determine causes of deaths."
+ },
+ {
+  "task_id": "17185",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Plan and supervise the work of the pathology staff, residents, or visiting pathologists."
+ },
+ {
+  "task_id": "17186",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Obtain specimens by performing procedures, such as biopsies or fine needle aspirations (FNAs) of superficial nodules."
+ },
+ {
+  "task_id": "17187",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Identify the etiology, pathogenesis, morphological change, and clinical significance of diseases."
+ },
+ {
+  "task_id": "17188",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Diagnose infections, such as Hepatitis B and Acquired Immune Deficiency Syndrome (AIDS), by conducting tests to detect the antibodies that patients' immune systems make to fight such infections."
+ },
+ {
+  "task_id": "17189",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Conduct genetic analyses of deoxyribonucleic acid (DNA) or chromosomes to diagnose small biopsies and cell samples."
+ },
+ {
+  "task_id": "17190",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Write pathology reports summarizing analyses, results, and conclusions."
+ },
+ {
+  "task_id": "17191",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Analyze and interpret results from tests, such as microbial or parasite tests, urine analyses, hormonal assays, fine needle aspirations (FNAs), and polymerase chain reactions (PCRs)."
+ },
+ {
+  "task_id": "17192",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Communicate pathologic findings to surgeons or other physicians."
+ },
+ {
+  "task_id": "17193",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Consult with physicians about ordering and interpreting tests or providing treatments."
+ },
+ {
+  "task_id": "17194",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Examine microscopic samples to identify diseases or other abnormalities."
+ },
+ {
+  "task_id": "17195",
+  "occupation": "Physicians, Pathologists",
+  "task_text": "Diagnose diseases or study medical conditions, using techniques such as gross pathology, histology, cytology, cytopathology, clinical chemistry, immunology, flow cytometry, or molecular biology."
+ },
+ {
+  "task_id": "17196",
+  "occupation": "Physical Medicine and Rehabilitation Physicians",
+  "task_text": "Instruct interns and residents in the diagnosis and treatment of temporary or permanent physically disabling conditions."
+ },
+ {
+  "task_id": "17197",
+  "occupation": "Physical Medicine and Rehabilitation Physicians",
+  "task_text": "Conduct physical tests, such as functional capacity evaluations, to determine injured workers' capabilities to perform the physical demands of their jobs."
+ },
+ {
+  "task_id": "17198",
+  "occupation": "Physical Medicine and Rehabilitation Physicians",
+  "task_text": "Assess characteristics of patients' pain, such as intensity, location, or duration, using standardized clinical measures."
+ },
+ {
+  "task_id": "17199",
+  "occupation": "Physical Medicine and Rehabilitation Physicians",
+  "task_text": "Monitor effectiveness of pain management interventions, such as medication or spinal injections."
+ },
+ {
+  "task_id": "17200",
+  "occupation": "Physical Medicine and Rehabilitation Physicians",
+  "task_text": "Examine patients to assess mobility, strength, communication, or cognition."
+ },
+ {
+  "task_id": "17201",
+  "occupation": "Physical Medicine and Rehabilitation Physicians",
+  "task_text": "Document examination results, treatment plans, and patients' outcomes."
+ },
+ {
+  "task_id": "17202",
+  "occupation": "Physical Medicine and Rehabilitation Physicians",
+  "task_text": "Diagnose or treat performance-related conditions, such as sports injuries or repetitive-motion injuries."
+ },
+ {
+  "task_id": "17203",
+  "occupation": "Physical Medicine and Rehabilitation Physicians",
+  "task_text": "Develop comprehensive plans for immediate and long-term rehabilitation, including therapeutic exercise, speech and occupational therapy, counseling, cognitive retraining, patient, family or caregiver "
+ },
+ {
+  "task_id": "17204",
+  "occupation": "Physical Medicine and Rehabilitation Physicians",
+  "task_text": "Prescribe physical therapy to relax the muscles and improve strength."
+ },
+ {
+  "task_id": "17205",
+  "occupation": "Physical Medicine and Rehabilitation Physicians",
+  "task_text": "Coordinate physical medicine and rehabilitation services with other medical activities."
+ },
+ {
+  "task_id": "17206",
+  "occupation": "Physical Medicine and Rehabilitation Physicians",
+  "task_text": "Consult or coordinate with other rehabilitative professionals, including physical and occupational therapists, rehabilitation nurses, speech pathologists, neuropsychologists, behavioral psychologists,"
+ },
+ {
+  "task_id": "17207",
+  "occupation": "Physical Medicine and Rehabilitation Physicians",
+  "task_text": "Perform electrodiagnosis, including electromyography, nerve conduction studies, or somatosensory evoked potentials of neuromuscular disorders or damage."
+ },
+ {
+  "task_id": "17208",
+  "occupation": "Physical Medicine and Rehabilitation Physicians",
+  "task_text": "Prescribe therapy services, such as electrotherapy, ultrasonography, heat or cold therapy, hydrotherapy, debridement, short-wave or microwave diathermy, and infrared or ultraviolet radiation, to enhan"
+ },
+ {
+  "task_id": "17209",
+  "occupation": "Physical Medicine and Rehabilitation Physicians",
+  "task_text": "Prescribe orthotic and prosthetic applications and adaptive equipment, such as wheelchairs, bracing, or communication devices, to maximize patient function and self-sufficiency."
+ },
+ {
+  "task_id": "17210",
+  "occupation": "Physical Medicine and Rehabilitation Physicians",
+  "task_text": "Provide inpatient or outpatient medical management of neuromuscular disorders, musculoskeletal trauma, acute and chronic pain, deformity or amputation, cardiac or pulmonary disease, or other disabling"
+ },
+ {
+  "task_id": "17211",
+  "occupation": "Preventive Medicine Physicians",
+  "task_text": "Teach or train medical staff regarding preventive medicine issues."
+ },
+ {
+  "task_id": "17212",
+  "occupation": "Preventive Medicine Physicians",
+  "task_text": "Document or review comprehensive patients' histories with an emphasis on occupation or environmental risks."
+ },
+ {
+  "task_id": "17213",
+  "occupation": "Preventive Medicine Physicians",
+  "task_text": "Prepare preventive health reports, including problem descriptions, analyses, alternative solutions, and recommendations."
+ },
+ {
+  "task_id": "17214",
+  "occupation": "Preventive Medicine Physicians",
+  "task_text": "Supervise or coordinate the work of physicians, nurses, statisticians, or other professional staff members."
+ },
+ {
+  "task_id": "17215",
+  "occupation": "Preventive Medicine Physicians",
+  "task_text": "Deliver presentations to lay or professional audiences."
+ },
+ {
+  "task_id": "17216",
+  "occupation": "Preventive Medicine Physicians",
+  "task_text": "Evaluate the effectiveness of prescribed risk reduction measures or other interventions."
+ },
+ {
+  "task_id": "17217",
+  "occupation": "Preventive Medicine Physicians",
+  "task_text": "Identify groups at risk for specific preventable diseases or injuries."
+ },
+ {
+  "task_id": "17218",
+  "occupation": "Preventive Medicine Physicians",
+  "task_text": "Design or use surveillance tools, such as screening, lab reports, and vital records, to identify health risks."
+ },
+ {
+  "task_id": "17219",
+  "occupation": "Preventive Medicine Physicians",
+  "task_text": "Direct public health education programs dealing with topics such as preventable diseases, injuries, nutrition, food service sanitation, water supply safety, sewage and waste disposal, insect control, "
+ },
+ {
+  "task_id": "17220",
+  "occupation": "Preventive Medicine Physicians",
+  "task_text": "Perform epidemiological investigations of acute and chronic diseases."
+ },
+ {
+  "task_id": "17221",
+  "occupation": "Preventive Medicine Physicians",
+  "task_text": "Develop or implement interventions to address behavioral causes of diseases."
+ },
+ {
+  "task_id": "17222",
+  "occupation": "Preventive Medicine Physicians",
+  "task_text": "Direct or manage prevention programs in specialty areas such as aerospace, occupational, infectious disease, and environmental medicine."
+ },
+ {
+  "task_id": "17223",
+  "occupation": "Preventive Medicine Physicians",
+  "task_text": "Design, implement, or evaluate health service delivery systems to improve the health of targeted populations."
+ },
+ {
+  "task_id": "17224",
+  "occupation": "Preventive Medicine Physicians",
+  "task_text": "Coordinate or integrate the resources of health care institutions, social service agencies, public safety workers, or other organizations to improve community health."
+ },
+ {
+  "task_id": "17225",
+  "occupation": "Preventive Medicine Physicians",
+  "task_text": "Provide information about potential health hazards and possible interventions to the media, the public, other health care professionals, or local, state, and federal health authorities."
+ },
+ {
+  "task_id": "17231",
+  "occupation": "Radiologists",
+  "task_text": "Participate in quality improvement activities including discussions of areas where risk of error is high."
+ },
+ {
+  "task_id": "17234",
+  "occupation": "Radiologists",
+  "task_text": "Participate in continuing education activities to maintain and develop expertise."
+ },
+ {
+  "task_id": "17235",
+  "occupation": "Radiologists",
+  "task_text": "Develop treatment plans for radiology patients."
+ },
+ {
+  "task_id": "17236",
+  "occupation": "Radiologists",
+  "task_text": "Establish or enforce standards for protection of patients or personnel."
+ },
+ {
+  "task_id": "17239",
+  "occupation": "Radiologists",
+  "task_text": "Review or transmit images and information using picture archiving or communications systems."
+ },
+ {
+  "task_id": "17241",
+  "occupation": "Radiologists",
+  "task_text": "Recognize or treat complications during and after procedures, including blood pressure problems, pain, oversedation, or bleeding."
+ },
+ {
+  "task_id": "17242",
+  "occupation": "Radiologists",
+  "task_text": "Prepare comprehensive interpretive reports of findings."
+ },
+ {
+  "task_id": "17243",
+  "occupation": "Radiologists",
+  "task_text": "Obtain patients' histories from electronic records, patient interviews, dictated reports, or by communicating with referring clinicians."
+ },
+ {
+  "task_id": "17245",
+  "occupation": "Radiologists",
+  "task_text": "Confer with medical professionals regarding image-based diagnoses."
+ },
+ {
+  "task_id": "17246",
+  "occupation": "Radiologists",
+  "task_text": "Instruct radiologic staff in desired techniques, positions, or projections."
+ },
+ {
+  "task_id": "17248",
+  "occupation": "Radiologists",
+  "task_text": "Document the performance, interpretation, or outcomes of all procedures performed."
+ },
+ {
+  "task_id": "17249",
+  "occupation": "Radiologists",
+  "task_text": "Develop or monitor procedures to ensure adequate quality control of images."
+ },
+ {
+  "task_id": "17250",
+  "occupation": "Radiologists",
+  "task_text": "Coordinate radiological services with other medical activities."
+ },
+ {
+  "task_id": "17251",
+  "occupation": "Radiologists",
+  "task_text": "Provide counseling to radiologic patients to explain the processes, risks, benefits, or alternative treatments."
+ },
+ {
+  "task_id": "17252",
+  "occupation": "Radiologists",
+  "task_text": "Communicate examination results or diagnostic information to referring physicians, patients, or families."
+ },
+ {
+  "task_id": "17253",
+  "occupation": "Radiologists",
+  "task_text": "Perform interventional procedures such as image-guided biopsy, percutaneous transluminal angioplasty, transhepatic biliary drainage, or nephrostomy catheter placement."
+ },
+ {
+  "task_id": "17254",
+  "occupation": "Radiologists",
+  "task_text": "Perform or interpret the outcomes of diagnostic imaging procedures including magnetic resonance imaging (MRI), computer tomography (CT), positron emission tomography (PET), nuclear cardiology treadmil"
+ },
+ {
+  "task_id": "17255",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Select and prepare medical equipment or medications to be taken to athletic competition sites."
+ },
+ {
+  "task_id": "17256",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Provide coaches and therapists with assistance in selecting and fitting protective equipment."
+ },
+ {
+  "task_id": "17257",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Advise against injured athletes returning to games or competition if resuming activity could lead to further injury."
+ },
+ {
+  "task_id": "17258",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Observe and evaluate athletes' mental well-being."
+ },
+ {
+  "task_id": "17259",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Participate in continuing education activities to improve and maintain knowledge and skills."
+ },
+ {
+  "task_id": "17260",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Develop and prescribe exercise programs, such as off-season conditioning regimens."
+ },
+ {
+  "task_id": "17261",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Advise athletes on ways that substances, such as herbal remedies, could affect drug testing results."
+ },
+ {
+  "task_id": "17262",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Conduct research in the prevention or treatment of injuries or medical conditions related to sports and exercise."
+ },
+ {
+  "task_id": "17263",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Advise athletes, trainers, or coaches to alter or cease sports practices that are potentially harmful."
+ },
+ {
+  "task_id": "17264",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Attend games and competitions to provide evaluation and treatment of activity-related injuries or medical conditions."
+ },
+ {
+  "task_id": "17265",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Record athletes' medical histories, and perform physical examinations."
+ },
+ {
+  "task_id": "17266",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Supervise the rehabilitation of injured athletes."
+ },
+ {
+  "task_id": "17267",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Refer athletes for specialized consultation, physical therapy, or diagnostic testing."
+ },
+ {
+  "task_id": "17268",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Record athletes' medical care information, and maintain medical records."
+ },
+ {
+  "task_id": "17269",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Inform coaches, trainers, or other interested parties regarding the medical conditions of athletes."
+ },
+ {
+  "task_id": "17270",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Provide education and counseling on illness and injury prevention."
+ },
+ {
+  "task_id": "17271",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Prescribe orthotics, prosthetics, and adaptive equipment."
+ },
+ {
+  "task_id": "17272",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Prescribe medications for the treatment of athletic-related injuries."
+ },
+ {
+  "task_id": "17273",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Order and interpret the results of laboratory tests and diagnostic imaging procedures."
+ },
+ {
+  "task_id": "17274",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Inform athletes about nutrition, hydration, dietary supplements, or uses and possible consequences of medication."
+ },
+ {
+  "task_id": "17275",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Evaluate and manage chronic pain conditions."
+ },
+ {
+  "task_id": "17276",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Examine and evaluate athletes prior to participation in sports activities to determine level of physical fitness or predisposition to injuries."
+ },
+ {
+  "task_id": "17277",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Develop and test procedures for dealing with emergencies during practices or competitions."
+ },
+ {
+  "task_id": "17278",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Coordinate sports care activities with other experts, including specialty physicians and surgeons, athletic trainers, physical therapists, or coaches."
+ },
+ {
+  "task_id": "17279",
+  "occupation": "Sports Medicine Physicians",
+  "task_text": "Advise coaches, trainers, or physical therapists on the proper use of exercises and other therapeutic techniques, and alert them to potentially dangerous practices."
+ }
+]

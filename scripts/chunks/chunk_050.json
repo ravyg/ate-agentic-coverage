@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "21835",
+  "occupation": "Data Scientists",
+  "task_text": "Read scientific articles, conference papers, or other sources of research to identify emerging analytic trends and technologies."
+ },
+ {
+  "task_id": "21836",
+  "occupation": "Data Scientists",
+  "task_text": "Recommend data-driven solutions to key stakeholders."
+ },
+ {
+  "task_id": "21837",
+  "occupation": "Data Scientists",
+  "task_text": "Test, validate, and reformulate models to ensure accurate prediction of outcomes of interest."
+ },
+ {
+  "task_id": "21838",
+  "occupation": "Data Scientists",
+  "task_text": "Write new functions or applications in programming languages to conduct analyses."
+ },
+ {
+  "task_id": "16150",
+  "occupation": "Business Intelligence Analysts",
+  "task_text": "Generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders."
+ },
+ {
+  "task_id": "16139",
+  "occupation": "Business Intelligence Analysts",
+  "task_text": "Maintain or update business intelligence tools, databases, dashboards, systems, or methods."
+ },
+ {
+  "task_id": "16140",
+  "occupation": "Business Intelligence Analysts",
+  "task_text": "Manage timely flow of business intelligence information to users."
+ },
+ {
+  "task_id": "16134",
+  "occupation": "Business Intelligence Analysts",
+  "task_text": "Provide technical support for existing reports, dashboards, or other tools."
+ },
+ {
+  "task_id": "16141",
+  "occupation": "Business Intelligence Analysts",
+  "task_text": "Identify and analyze industry or geographic trends with business strategy implications."
+ },
+ {
+  "task_id": "16142",
+  "occupation": "Business Intelligence Analysts",
+  "task_text": "Document specifications for business intelligence or information technology reports, dashboards, or other outputs."
+ },
+ {
+  "task_id": "16144",
+  "occupation": "Business Intelligence Analysts",
+  "task_text": "Create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs."
+ },
+ {
+  "task_id": "16146",
+  "occupation": "Business Intelligence Analysts",
+  "task_text": "Collect business intelligence data from available industry reports, public information, field reports, or purchased sources."
+ },
+ {
+  "task_id": "16143",
+  "occupation": "Business Intelligence Analysts",
+  "task_text": "Disseminate information regarding tools, reports, or metadata enhancements."
+ },
+ {
+  "task_id": "16145",
+  "occupation": "Business Intelligence Analysts",
+  "task_text": "Conduct or coordinate tests to ensure that intelligence is consistent with defined needs."
+ },
+ {
+  "task_id": "16149",
+  "occupation": "Business Intelligence Analysts",
+  "task_text": "Synthesize current business intelligence or trend data to support recommendations for action."
+ },
+ {
+  "task_id": "16148",
+  "occupation": "Business Intelligence Analysts",
+  "task_text": "Analyze competitive market strategies through analysis of related product, market, or share trends."
+ },
+ {
+  "task_id": "16136",
+  "occupation": "Business Intelligence Analysts",
+  "task_text": "Identify or monitor current and potential customers, using business intelligence tools."
+ },
+ {
+  "task_id": "16138",
+  "occupation": "Business Intelligence Analysts",
+  "task_text": "Communicate with customers, competitors, suppliers, professional organizations, or others to stay abreast of industry or business trends."
+ },
+ {
+  "task_id": "16135",
+  "occupation": "Business Intelligence Analysts",
+  "task_text": "Maintain library of model documents, templates, or other reusable knowledge assets."
+ },
+ {
+  "task_id": "16137",
+  "occupation": "Business Intelligence Analysts",
+  "task_text": "Create or review technical design documentation to ensure the accurate development of reporting solutions."
+ },
+ {
+  "task_id": "16147",
+  "occupation": "Business Intelligence Analysts",
+  "task_text": "Analyze technology trends to identify markets for future product development or to improve sales of existing products."
+ },
+ {
+  "task_id": "16281",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Design and validate clinical databases, including designing or testing logic checks."
+ },
+ {
+  "task_id": "16284",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Process clinical data, including receipt, entry, verification, or filing of information."
+ },
+ {
+  "task_id": "16280",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems."
+ },
+ {
+  "task_id": "16285",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes."
+ },
+ {
+  "task_id": "16279",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Monitor work productivity or quality to ensure compliance with standard operating procedures."
+ },
+ {
+  "task_id": "16268",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Prepare appropriate formatting to data sets as requested."
+ },
+ {
+  "task_id": "16286",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Design forms for receiving, processing, or tracking data."
+ },
+ {
+  "task_id": "16277",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Prepare data analysis listings and activity, performance, or progress reports."
+ },
+ {
+  "task_id": "16282",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Confer with end users to define or implement clinical system requirements such as data release formats, delivery schedules, and testing protocols."
+ },
+ {
+  "task_id": "16278",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Perform quality control audits to ensure accuracy, completeness, or proper usage of clinical systems and data."
+ },
+ {
+  "task_id": "16283",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Analyze clinical data using appropriate statistical tools."
+ },
+ {
+  "task_id": "16269",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Evaluate processes and technologies, and suggest revisions to increase productivity and efficiency."
+ },
+ {
+  "task_id": "16270",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Develop technical specifications for data management programming and communicate needs to information technology staff."
+ },
+ {
+  "task_id": "16273",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Write work instruction manuals, data capture guidelines, or standard operating procedures."
+ },
+ {
+  "task_id": "16274",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Track the flow of work forms, including in-house data flow or electronic forms transfer."
+ },
+ {
+  "task_id": "16276",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Supervise the work of data management project staff."
+ },
+ {
+  "task_id": "16272",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Contribute to the compilation, organization, and production of protocols, clinical study reports, regulatory submissions, or other controlled documentation."
+ },
+ {
+  "task_id": "16266",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Read technical literature and participate in continuing education or professional associations to maintain awareness of current database technology and best practices."
+ },
+ {
+  "task_id": "16275",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Train staff on technical procedures or software program usage."
+ },
+ {
+  "task_id": "16271",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Develop or select specific software programs for various research scenarios."
+ },
+ {
+  "task_id": "16267",
+  "occupation": "Clinical Data Managers",
+  "task_text": "Provide support and information to functional areas such as marketing, clinical monitoring, and medical affairs."
+ },
+ {
+  "task_id": "17709",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Analyze or manipulate bioinformatics data using software packages, statistical applications, or data mining techniques."
+ },
+ {
+  "task_id": "17715",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Extend existing software programs, web-based interactive tools, or database queries as sequence management and analysis needs evolve."
+ },
+ {
+  "task_id": "17716",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Maintain awareness of new and emerging computational methods and technologies."
+ },
+ {
+  "task_id": "17721",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Conduct quality analyses of data inputs and resulting analyses or predictions."
+ },
+ {
+  "task_id": "17707",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Enter or retrieve information from structural databases, protein sequence motif databases, mutation databases, genomic databases or gene expression databases."
+ },
+ {
+  "task_id": "17706",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Develop or maintain applications that process biologically based data into searchable databases for purposes of analysis, calculation, or presentation."
+ },
+ {
+  "task_id": "17710",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Confer with researchers, clinicians, or information technology staff to determine data needs and programming requirements and to provide assistance with database-related research activities."
+ },
+ {
+  "task_id": "17717",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Participate in the preparation of reports or scientific publications."
+ },
+ {
+  "task_id": "17720",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Write computer programs or scripts to be used in querying databases."
+ },
+ {
+  "task_id": "17714",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Document all database changes, modifications, or problems."
+ },
+ {
+  "task_id": "17711",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Create data management or error-checking procedures and user manuals."
+ },
+ {
+  "task_id": "17713",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Develop or apply data mining and machine learning algorithms."
+ },
+ {
+  "task_id": "17712",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Design or implement web-based tools for querying large-scale biological databases."
+ },
+ {
+  "task_id": "17708",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Monitor database performance and perform any necessary maintenance, upgrades, or repairs."
+ },
+ {
+  "task_id": "17722",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Confer with database users about project timelines and changes."
+ },
+ {
+  "task_id": "17724",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Perform routine system administrative functions, such as troubleshooting, back-ups, or upgrades."
+ },
+ {
+  "task_id": "17723",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Package bioinformatics data for submission to public repositories."
+ },
+ {
+  "task_id": "17719",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Train bioinformatics staff or researchers in the use of databases."
+ },
+ {
+  "task_id": "17718",
+  "occupation": "Bioinformatics Technicians",
+  "task_text": "Test new or updated software or tools and provide feedback to developers."
+ },
+ {
+  "task_id": "20483",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Develop final construction plans that include aesthetic representations of the structure or details for its construction."
+ },
+ {
+  "task_id": "20479",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Prepare scale drawings or architectural designs, using computer-aided design or other tools."
+ },
+ {
+  "task_id": "130",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Prepare information regarding design, structure specifications, materials, color, equipment, estimated costs, or construction time."
+ },
+ {
+  "task_id": "131",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Consult with clients to determine functional or spatial requirements of structures."
+ },
+ {
+  "task_id": "20481",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Meet with clients to review or discuss architectural drawings."
+ },
+ {
+  "task_id": "20485",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Monitor the work of specialists, such as electrical engineers, mechanical engineers, interior designers, or sound specialists to ensure optimal form or function of designs or final structures."
+ },
+ {
+  "task_id": "136",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Integrate engineering elements into unified architectural designs."
+ },
+ {
+  "task_id": "20486",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Plan layouts of structural architectural projects."
+ },
+ {
+  "task_id": "20484",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Conduct periodic on-site observations of construction work to monitor compliance with plans."
+ },
+ {
+  "task_id": "134",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Prepare contract documents for building contractors."
+ },
+ {
+  "task_id": "19596",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Plan or design structures such as residences, office buildings, theatres, factories, or other structural properties in accordance with environmental, safety, or other regulations."
+ },
+ {
+  "task_id": "20480",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Direct activities of technicians engaged in preparing drawings or specification documents."
+ },
+ {
+  "task_id": "138",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Administer construction contracts."
+ },
+ {
+  "task_id": "20488",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Create three-dimensional or interactive representations of designs, using computer-assisted design software."
+ },
+ {
+  "task_id": "139",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Represent clients in obtaining bids or awarding construction contracts."
+ },
+ {
+  "task_id": "20482",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Develop marketing materials, proposals, or presentations to generate new work opportunities."
+ },
+ {
+  "task_id": "19595",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Perform predesign services, such as feasibility or environmental impact studies."
+ },
+ {
+  "task_id": "19593",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Design structures that incorporate environmentally friendly building practices or concepts, such as Leadership in Energy and Environmental Design (LEED) standards."
+ },
+ {
+  "task_id": "19592",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Design or plan construction of green building projects to minimize adverse environmental impact or conserve energy."
+ },
+ {
+  "task_id": "19594",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Gather information related to projects' environmental sustainability or operational efficiency."
+ },
+ {
+  "task_id": "20487",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Inspect proposed building sites to determine suitability for construction."
+ },
+ {
+  "task_id": "19591",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Design environmentally sound structural upgrades to existing buildings, such as natural lighting systems, green roofs, or rainwater collection systems."
+ },
+ {
+  "task_id": "19590",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Calculate potential energy savings by comparing estimated energy consumption of proposed design to baseline standards."
+ },
+ {
+  "task_id": "140",
+  "occupation": "Architects, Except Landscape and Naval",
+  "task_text": "Prepare operating and maintenance manuals, studies, or reports."
+ },
+ {
+  "task_id": "20369",
+  "occupation": "Landscape Architects",
+  "task_text": "Confer with clients, engineering personnel, or architects on landscape projects."
+ },
+ {
+  "task_id": "20371",
+  "occupation": "Landscape Architects",
+  "task_text": "Analyze data on conditions such as site location, drainage, or structure location for environmental reports or landscaping plans."
+ },
+ {
+  "task_id": "20373",
+  "occupation": "Landscape Architects",
+  "task_text": "Inspect landscape work to ensure compliance with specifications, evaluate quality of materials or work, or advise clients or construction personnel."
+ },
+ {
+  "task_id": "20370",
+  "occupation": "Landscape Architects",
+  "task_text": "Prepare site plans, specifications, or cost estimates for land development."
+ },
+ {
+  "task_id": "20375",
+  "occupation": "Landscape Architects",
+  "task_text": "Integrate existing land features or landscaping into designs."
+ },
+ {
+  "task_id": "19597",
+  "occupation": "Landscape Architects",
+  "task_text": "Collaborate with architects or related professionals on whole building design to maximize the aesthetic features of structures or surrounding land and to improve energy efficiency."
+ },
+ {
+  "task_id": "18470",
+  "occupation": "Landscape Architects",
+  "task_text": "Prepare graphic representations or drawings of proposed plans or designs."
+ },
+ {
+  "task_id": "20378",
+  "occupation": "Landscape Architects",
+  "task_text": "Inspect proposed sites to identify structural elements of land areas or other important site information, such as soil condition, existing landscaping, or the proximity of water management facilities."
+ },
+ {
+  "task_id": "20380",
+  "occupation": "Landscape Architects",
+  "task_text": "Collaborate with estimators to cost projects, create project plans, or coordinate bids from landscaping contractors."
+ },
+ {
+  "task_id": "19598",
+  "occupation": "Landscape Architects",
+  "task_text": "Create landscapes that minimize water consumption such as by incorporating drought-resistant grasses or indigenous plants."
+ },
+ {
+  "task_id": "20379",
+  "occupation": "Landscape Architects",
+  "task_text": "Develop planting plans to help clients garden productively or to achieve particular aesthetic effects."
+ },
+ {
+  "task_id": "20376",
+  "occupation": "Landscape Architects",
+  "task_text": "Manage the work of subcontractors to ensure quality control."
+ },
+ {
+  "task_id": "20374",
+  "occupation": "Landscape Architects",
+  "task_text": "Present project plans or designs to public stakeholders, such as government agencies or community groups."
+ },
+ {
+  "task_id": "20372",
+  "occupation": "Landscape Architects",
+  "task_text": "Develop marketing materials, proposals, or presentations to generate new work opportunities."
+ },
+ {
+  "task_id": "20381",
+  "occupation": "Landscape Architects",
+  "task_text": "Prepare conceptual drawings, graphics, or other visual representations of land areas to show predicted growth or development of land areas over time."
+ },
+ {
+  "task_id": "19600",
+  "occupation": "Landscape Architects",
+  "task_text": "Identify and select appropriate sustainable materials for use in landscape designs, such as recycled wood or recycled concrete boards for structural elements or recycled tires for playground bedding."
+ },
+ {
+  "task_id": "20377",
+  "occupation": "Landscape Architects",
+  "task_text": "Research latest products, technology, or design trends to stay current in the field."
+ },
+ {
+  "task_id": "19599",
+  "occupation": "Landscape Architects",
+  "task_text": "Design and integrate rainwater harvesting or gray and reclaimed water systems to conserve water into building or land designs."
+ },
+ {
+  "task_id": "20382",
+  "occupation": "Landscape Architects",
+  "task_text": "Provide follow-up consultations for clients to ensure landscape designs are maturing or developing as planned."
+ },
+ {
+  "task_id": "3517",
+  "occupation": "Cartographers and Photogrammetrists",
+  "task_text": "Compile data required for map preparation, including aerial photographs, survey notes, records, reports, and original maps."
+ },
+ {
+  "task_id": "3522",
+  "occupation": "Cartographers and Photogrammetrists",
+  "task_text": "Delineate aerial photographic detail, such as control points, hydrography, topography, and cultural features, using precision stereoplotting apparatus or drafting instruments."
+ },
+ {
+  "task_id": "3524",
+  "occupation": "Cartographers and Photogrammetrists",
+  "task_text": "Prepare and alter trace maps, charts, tables, detailed drawings, and three-dimensional optical models of terrain using stereoscopic plotting and computer graphics equipment."
+ },
+ {
+  "task_id": "3526",
+  "occupation": "Cartographers and Photogrammetrists",
+  "task_text": "Study legal records to establish boundaries of local, national, and international properties."
+ },
+ {
+  "task_id": "3518",
+  "occupation": "Cartographers and Photogrammetrists",
+  "task_text": "Inspect final compositions to ensure completeness and accuracy."
+ },
+ {
+  "task_id": "3516",
+  "occupation": "Cartographers and Photogrammetrists",
+  "task_text": "Revise existing maps and charts, making all necessary corrections and adjustments."
+ },
+ {
+  "task_id": "3514",
+  "occupation": "Cartographers and Photogrammetrists",
+  "task_text": "Identify, scale, and orient geodetic points, elevations, and other planimetric or topographic features, applying standard mathematical formulas."
+ },
+ {
+  "task_id": "3515",
+  "occupation": "Cartographers and Photogrammetrists",
+  "task_text": "Collect information about specific features of the Earth, using aerial photography and other digital remote sensing techniques."
+ },
+ {
+  "task_id": "3520",
+  "occupation": "Cartographers and Photogrammetrists",
+  "task_text": "Examine and analyze data from ground surveys, reports, aerial photographs, and satellite images to prepare topographic maps, aerial-photograph mosaics, and related charts."
+ },
+ {
+  "task_id": "3523",
+  "occupation": "Cartographers and Photogrammetrists",
+  "task_text": "Build and update digital databases."
+ },
+ {
+  "task_id": "3519",
+  "occupation": "Cartographers and Photogrammetrists",
+  "task_text": "Determine map content and layout, as well as production specifications such as scale, size, projection, and colors, and direct production to ensure that specifications are followed."
+ },
+ {
+  "task_id": "3525",
+  "occupation": "Cartographers and Photogrammetrists",
+  "task_text": "Determine guidelines that specify which source material is acceptable for use."
+ },
+ {
+  "task_id": "3521",
+  "occupation": "Cartographers and Photogrammetrists",
+  "task_text": "Select aerial photographic and remote sensing techniques and plotting equipment needed to meet required standards of accuracy."
+ },
+ {
+  "task_id": "3527",
+  "occupation": "Cartographers and Photogrammetrists",
+  "task_text": "Travel over photographed areas to observe, identify, record, and verify all relevant features."
+ },
+ {
+  "task_id": "3530",
+  "occupation": "Surveyors",
+  "task_text": "Direct or conduct surveys to establish legal boundaries for properties, based on legal deeds and titles."
+ },
+ {
+  "task_id": "3528",
+  "occupation": "Surveyors",
+  "task_text": "Prepare and maintain sketches, maps, reports, and legal descriptions of surveys to describe, certify, and assume liability for work performed."
+ },
+ {
+  "task_id": "3534",
+  "occupation": "Surveyors",
+  "task_text": "Write descriptions of property boundary surveys for use in deeds, leases, or other legal documents."
+ },
+ {
+  "task_id": "3529",
+  "occupation": "Surveyors",
+  "task_text": "Verify the accuracy of survey data, including measurements and calculations conducted at survey sites."
+ },
+ {
+  "task_id": "3536",
+  "occupation": "Surveyors",
+  "task_text": "Search legal records, survey records, and land titles to obtain information about property boundaries in areas to be surveyed."
+ },
+ {
+  "task_id": "3531",
+  "occupation": "Surveyors",
+  "task_text": "Record the results of surveys, including the shape, contour, location, elevation, and dimensions of land or land features."
+ },
+ {
+  "task_id": "3533",
+  "occupation": "Surveyors",
+  "task_text": "Prepare, or supervise preparation of, all data, charts, plots, maps, records, and documents related to surveys."
+ },
+ {
+  "task_id": "3543",
+  "occupation": "Surveyors",
+  "task_text": "Compute geodetic measurements and interpret survey data to determine positions, shapes, and elevations of geomorphic and topographic features."
+ },
+ {
+  "task_id": "3532",
+  "occupation": "Surveyors",
+  "task_text": "Calculate heights, depths, relative positions, property lines, and other characteristics of terrain."
+ },
+ {
+  "task_id": "3535",
+  "occupation": "Surveyors",
+  "task_text": "Plan and conduct ground surveys designed to establish baselines, elevations, and other geodetic measurements."
+ },
+ {
+  "task_id": "3539",
+  "occupation": "Surveyors",
+  "task_text": "Establish fixed points for use in making maps, using geodetic and engineering instruments."
+ },
+ {
+  "task_id": "3540",
+  "occupation": "Surveyors",
+  "task_text": "Determine longitudes and latitudes of important features and boundaries in survey areas, using theodolites, transits, levels, and satellite-based global positioning systems (GPS)."
+ }
+]

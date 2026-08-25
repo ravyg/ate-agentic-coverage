@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "21735",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Make recommendations regarding upgrades, considering implications of new or revised Geographic Information Systems (GIS) software, equipment, or applications."
+ },
+ {
+  "task_id": "21736",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Assist users in formulating Geographic Information Systems (GIS) requirements or understanding the implications of alternatives."
+ },
+ {
+  "task_id": "21737",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Create visual representations of geospatial data, using complex procedures such as analytical modeling, three-dimensional renderings, or plot creation."
+ },
+ {
+  "task_id": "21738",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Transfer or rescale information from original photographs onto maps or other photographs."
+ },
+ {
+  "task_id": "21739",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Prepare training materials for, or make presentations to, Geographic Information Systems (GIS) users."
+ },
+ {
+  "task_id": "21740",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Apply three-dimensional (3D) or four-dimensional (4D) technologies to geospatial data to allow for new or different analyses or applications."
+ },
+ {
+  "task_id": "21741",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Conduct research, data analysis, systems design, or support for software such as Geographic Information Systems (GIS) or Global Positioning Systems (GPS) mapping software."
+ },
+ {
+  "task_id": "21742",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Read current literature, talk with colleagues, continue education, or participate in professional organizations or conferences to keep abreast of developments in Geographic Information Systems (GIS) technology, equipment, or systems."
+ },
+ {
+  "task_id": "21743",
+  "occupation": "Geographic Information Systems Technologists and Technicians",
+  "task_text": "Recommend procedures, equipment, or software upgrades to increase data accessibility or ease of use."
+ },
+ {
+  "task_id": "16234",
+  "occupation": "Document Management Specialists",
+  "task_text": "Assist in determining document management policies to facilitate efficient, legal, and secure access to electronic content."
+ },
+ {
+  "task_id": "16232",
+  "occupation": "Document Management Specialists",
+  "task_text": "Assist in the development of document or content classification taxonomies to facilitate information capture, search, and retrieval."
+ },
+ {
+  "task_id": "16238",
+  "occupation": "Document Management Specialists",
+  "task_text": "Implement electronic document processing, retrieval, and distribution systems in collaboration with other information technology specialists."
+ },
+ {
+  "task_id": "16239",
+  "occupation": "Document Management Specialists",
+  "task_text": "Identify and classify documents or other electronic content according to characteristics such as security level, function, and metadata."
+ },
+ {
+  "task_id": "16229",
+  "occupation": "Document Management Specialists",
+  "task_text": "Develop, document, or maintain standards, best practices, or system usage procedures."
+ },
+ {
+  "task_id": "16233",
+  "occupation": "Document Management Specialists",
+  "task_text": "Assist in the assessment, acquisition, or deployment of new electronic document management systems."
+ },
+ {
+  "task_id": "16237",
+  "occupation": "Document Management Specialists",
+  "task_text": "Administer document and system access rights and revision control to ensure security of system and integrity of master documents."
+ },
+ {
+  "task_id": "20368",
+  "occupation": "Document Management Specialists",
+  "task_text": "Prepare and record changes to official documents and confirm changes with legal and compliance management staff, including enterprise-wide records management staff."
+ },
+ {
+  "task_id": "16220",
+  "occupation": "Document Management Specialists",
+  "task_text": "Write, review, or execute plans for testing new or established document management systems."
+ },
+ {
+  "task_id": "16219",
+  "occupation": "Document Management Specialists",
+  "task_text": "Monitor regulatory activity to maintain compliance with records and document management laws."
+ },
+ {
+  "task_id": "16222",
+  "occupation": "Document Management Specialists",
+  "task_text": "Retrieve electronic assets from repository for distribution to users, collecting and returning to repository, if necessary."
+ },
+ {
+  "task_id": "20367",
+  "occupation": "Document Management Specialists",
+  "task_text": "Keep abreast of developments in document management technologies and techniques by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences."
+ },
+ {
+  "task_id": "16231",
+  "occupation": "Document Management Specialists",
+  "task_text": "Conduct needs assessments to identify document management requirements of departments or end users."
+ },
+ {
+  "task_id": "16240",
+  "occupation": "Document Management Specialists",
+  "task_text": "Develop or configure document management system features, such as user interfaces, access profiles, and document workflow procedures."
+ },
+ {
+  "task_id": "16228",
+  "occupation": "Document Management Specialists",
+  "task_text": "Document technical functions and specifications for new or proposed content management systems."
+ },
+ {
+  "task_id": "16226",
+  "occupation": "Document Management Specialists",
+  "task_text": "Exercise security surveillance over document processing, reproduction, distribution, storage, or archiving."
+ },
+ {
+  "task_id": "16230",
+  "occupation": "Document Management Specialists",
+  "task_text": "Consult with end users regarding problems in accessing electronic content."
+ },
+ {
+  "task_id": "16223",
+  "occupation": "Document Management Specialists",
+  "task_text": "Propose recommendations for improving content management system capabilities."
+ },
+ {
+  "task_id": "16236",
+  "occupation": "Document Management Specialists",
+  "task_text": "Operate data capture technology to import digitized documents into document management system."
+ },
+ {
+  "task_id": "16224",
+  "occupation": "Document Management Specialists",
+  "task_text": "Prepare support documentation and training materials for end users of document management systems."
+ },
+ {
+  "task_id": "16221",
+  "occupation": "Document Management Specialists",
+  "task_text": "Search electronic sources, such as databases or repositories, or manual sources for information."
+ },
+ {
+  "task_id": "16227",
+  "occupation": "Document Management Specialists",
+  "task_text": "Implement scanning or other automated data entry procedures, using imaging devices and document imaging software."
+ },
+ {
+  "task_id": "16235",
+  "occupation": "Document Management Specialists",
+  "task_text": "Analyze, interpret, or disseminate system performance data."
+ },
+ {
+  "task_id": "21744",
+  "occupation": "Penetration Testers",
+  "task_text": "Assess the physical security of servers, systems, or network devices to identify vulnerability to temperature, vandalism, or natural disasters."
+ },
+ {
+  "task_id": "21745",
+  "occupation": "Penetration Testers",
+  "task_text": "Collect stakeholder data to evaluate risk and to develop mitigation strategies."
+ },
+ {
+  "task_id": "21746",
+  "occupation": "Penetration Testers",
+  "task_text": "Conduct network and security system audits, using established criteria."
+ },
+ {
+  "task_id": "21747",
+  "occupation": "Penetration Testers",
+  "task_text": "Configure information systems to incorporate principles of least functionality and least access."
+ },
+ {
+  "task_id": "21748",
+  "occupation": "Penetration Testers",
+  "task_text": "Design security solutions to address known device vulnerabilities."
+ },
+ {
+  "task_id": "21749",
+  "occupation": "Penetration Testers",
+  "task_text": "Develop and execute tests that simulate the techniques of known cyber threat actors."
+ },
+ {
+  "task_id": "21750",
+  "occupation": "Penetration Testers",
+  "task_text": "Develop infiltration tests that exploit device vulnerabilities."
+ },
+ {
+  "task_id": "21751",
+  "occupation": "Penetration Testers",
+  "task_text": "Develop presentations on threat intelligence."
+ },
+ {
+  "task_id": "21752",
+  "occupation": "Penetration Testers",
+  "task_text": "Develop security penetration testing processes, such as wireless, data networks, and telecommunication security tests."
+ },
+ {
+  "task_id": "21753",
+  "occupation": "Penetration Testers",
+  "task_text": "Discuss security solutions with information technology teams or management."
+ },
+ {
+  "task_id": "21754",
+  "occupation": "Penetration Testers",
+  "task_text": "Document penetration test findings."
+ },
+ {
+  "task_id": "21755",
+  "occupation": "Penetration Testers",
+  "task_text": "Evaluate vulnerability assessments of local computing environments, networks, infrastructures, or enclave boundaries."
+ },
+ {
+  "task_id": "21756",
+  "occupation": "Penetration Testers",
+  "task_text": "Gather cyber intelligence to identify vulnerabilities."
+ },
+ {
+  "task_id": "21757",
+  "occupation": "Penetration Testers",
+  "task_text": "Identify new threat tactics, techniques, or procedures used by cyber threat actors."
+ },
+ {
+  "task_id": "21758",
+  "occupation": "Penetration Testers",
+  "task_text": "Identify security system weaknesses, using penetration tests."
+ },
+ {
+  "task_id": "21759",
+  "occupation": "Penetration Testers",
+  "task_text": "Investigate security incidents, using computer forensics, network forensics, root cause analysis, or malware analysis."
+ },
+ {
+  "task_id": "21760",
+  "occupation": "Penetration Testers",
+  "task_text": "Keep up with new penetration testing tools and methods."
+ },
+ {
+  "task_id": "21761",
+  "occupation": "Penetration Testers",
+  "task_text": "Maintain up-to-date knowledge of hacking trends."
+ },
+ {
+  "task_id": "21762",
+  "occupation": "Penetration Testers",
+  "task_text": "Prepare and submit reports describing the results of security fixes."
+ },
+ {
+  "task_id": "21763",
+  "occupation": "Penetration Testers",
+  "task_text": "Test the security of systems by attempting to gain access to networks, Web-based applications, or computers."
+ },
+ {
+  "task_id": "21764",
+  "occupation": "Penetration Testers",
+  "task_text": "Update corporate policies to improve cyber security."
+ },
+ {
+  "task_id": "21765",
+  "occupation": "Penetration Testers",
+  "task_text": "Write audit reports to communicate technical and procedural findings and recommend solutions."
+ },
+ {
+  "task_id": "21776",
+  "occupation": "Information Security Engineers",
+  "task_text": "Identify security system weaknesses, using penetration tests."
+ },
+ {
+  "task_id": "21769",
+  "occupation": "Information Security Engineers",
+  "task_text": "Coordinate monitoring of networks or systems for security breaches or intrusions."
+ },
+ {
+  "task_id": "21766",
+  "occupation": "Information Security Engineers",
+  "task_text": "Assess the quality of security controls, using performance indicators."
+ },
+ {
+  "task_id": "21783",
+  "occupation": "Information Security Engineers",
+  "task_text": "Train staff on, and oversee the use of, information security standards, policies, and best practices."
+ },
+ {
+  "task_id": "21782",
+  "occupation": "Information Security Engineers",
+  "task_text": "Scan networks, using vulnerability assessment tools to identify vulnerabilities."
+ },
+ {
+  "task_id": "21774",
+  "occupation": "Information Security Engineers",
+  "task_text": "Develop response and recovery strategies for security breaches."
+ },
+ {
+  "task_id": "21767",
+  "occupation": "Information Security Engineers",
+  "task_text": "Conduct investigations of information security breaches to identify vulnerabilities and evaluate the damage."
+ },
+ {
+  "task_id": "21773",
+  "occupation": "Information Security Engineers",
+  "task_text": "Develop or install software, such as firewalls and data encryption programs, to protect sensitive information."
+ },
+ {
+  "task_id": "21777",
+  "occupation": "Information Security Engineers",
+  "task_text": "Oversee development of plans to safeguard computer files against accidental or unauthorized modification, destruction, or disclosure or to meet emergency data processing needs."
+ },
+ {
+  "task_id": "21775",
+  "occupation": "Information Security Engineers",
+  "task_text": "Identify or implement solutions to information security problems."
+ },
+ {
+  "task_id": "21771",
+  "occupation": "Information Security Engineers",
+  "task_text": "Develop information security standards and best practices."
+ },
+ {
+  "task_id": "21780",
+  "occupation": "Information Security Engineers",
+  "task_text": "Recommend information security enhancements to management."
+ },
+ {
+  "task_id": "21778",
+  "occupation": "Information Security Engineers",
+  "task_text": "Oversee performance of risk assessment or execution of system tests to ensure the functioning of data processing activities or security measures."
+ },
+ {
+  "task_id": "21770",
+  "occupation": "Information Security Engineers",
+  "task_text": "Coordinate vulnerability assessments or analysis of information security systems."
+ },
+ {
+  "task_id": "21781",
+  "occupation": "Information Security Engineers",
+  "task_text": "Review security assessments for computing environments or check for compliance with cybersecurity standards and regulations."
+ },
+ {
+  "task_id": "21784",
+  "occupation": "Information Security Engineers",
+  "task_text": "Troubleshoot security and network problems."
+ },
+ {
+  "task_id": "21768",
+  "occupation": "Information Security Engineers",
+  "task_text": "Coordinate documentation of computer security or emergency measure policies, procedures, or tests."
+ },
+ {
+  "task_id": "21772",
+  "occupation": "Information Security Engineers",
+  "task_text": "Develop or implement software tools to assist in the detection, prevention, and analysis of security threats."
+ },
+ {
+  "task_id": "21785",
+  "occupation": "Information Security Engineers",
+  "task_text": "Write reports regarding investigations of information security breaches or network evaluations."
+ },
+ {
+  "task_id": "21779",
+  "occupation": "Information Security Engineers",
+  "task_text": "Provide technical support to computer users for installation and use of security products."
+ },
+ {
+  "task_id": "21786",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Adhere to legal policies and procedures related to handling digital media."
+ },
+ {
+  "task_id": "21787",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Analyze log files or other digital information to identify the perpetrators of network intrusions."
+ },
+ {
+  "task_id": "21788",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Conduct predictive or reactive analyses on security measures to support cyber security initiatives."
+ },
+ {
+  "task_id": "21789",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Create system images or capture network settings from information technology environments to preserve as evidence."
+ },
+ {
+  "task_id": "21790",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Develop plans for investigating alleged computer crimes, violations, or suspicious activity."
+ },
+ {
+  "task_id": "21791",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Develop policies or requirements for data collection, processing, or reporting."
+ },
+ {
+  "task_id": "21792",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Duplicate digital evidence to use for data recovery and analysis procedures."
+ },
+ {
+  "task_id": "21793",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Identify or develop reverse-engineering tools to improve system capabilities or detect vulnerabilities."
+ },
+ {
+  "task_id": "21794",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Maintain cyber defense software or hardware to support responses to cyber incidents."
+ },
+ {
+  "task_id": "21795",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Maintain knowledge of laws, regulations, policies or other issuances pertaining to digital forensics or information privacy."
+ },
+ {
+  "task_id": "21796",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Perform file signature analysis to verify files on storage media or discover potential hidden files."
+ },
+ {
+  "task_id": "21797",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Perform forensic investigations of operating or file systems."
+ },
+ {
+  "task_id": "21798",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Perform web service network traffic analysis or waveform analysis to detect anomalies, such as unusual events or trends."
+ },
+ {
+  "task_id": "21799",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Preserve and maintain digital forensic evidence for analysis."
+ },
+ {
+  "task_id": "21800",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Recommend cyber defense software or hardware to support responses to cyber incidents."
+ },
+ {
+  "task_id": "21801",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Recover data or decrypt seized data."
+ },
+ {
+  "task_id": "21802",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Write and execute scripts to automate tasks, such as parsing large data files."
+ },
+ {
+  "task_id": "21803",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Write cyber defense recommendations, reports, or white papers using research or experience."
+ },
+ {
+  "task_id": "21804",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Write reports, sign affidavits, or give depositions for legal proceedings."
+ },
+ {
+  "task_id": "21805",
+  "occupation": "Digital Forensics Analysts",
+  "task_text": "Write technical summaries to report findings."
+ },
+ {
+  "task_id": "21806",
+  "occupation": "Blockchain Engineers",
+  "task_text": "Assess blockchain threats, such as untested code and unprotected keys."
+ },
+ {
+  "task_id": "21807",
+  "occupation": "Blockchain Engineers",
+  "task_text": "Automate the deployment of software updates over geographically distributed network nodes."
+ },
+ {
+  "task_id": "21808",
+  "occupation": "Blockchain Engineers",
+  "task_text": "Design and deploy blockchain design patterns to make transactions secure, transparent, and immutable."
+ },
+ {
+  "task_id": "21809",
+  "occupation": "Blockchain Engineers",
+  "task_text": "Design and develop blockchain technologies for industries such as finance and music."
+ },
+ {
+  "task_id": "21810",
+  "occupation": "Blockchain Engineers",
+  "task_text": "Design and implement dashboard and data visualizations to meet customer reporting needs."
+ },
+ {
+  "task_id": "21811",
+  "occupation": "Blockchain Engineers",
+  "task_text": "Design and implement data repositories to integrate data."
+ },
+ {
+  "task_id": "21812",
+  "occupation": "Blockchain Engineers",
+  "task_text": "Design and verify cryptographic protocols to protect private information."
+ },
+ {
+  "task_id": "21813",
+  "occupation": "Blockchain Engineers",
+  "task_text": "Determine specifications for, or implement, logging."
+ },
+ {
+  "task_id": "21814",
+  "occupation": "Blockchain Engineers",
+  "task_text": "Develop a maintainable code base using object-oriented design principles, practices, or patterns."
+ },
+ {
+  "task_id": "21815",
+  "occupation": "Blockchain Engineers",
+  "task_text": "Discuss and plan systems with solution architects, system engineers, or cybersecurity experts to meet customer requirements."
+ },
+ {
+  "task_id": "21816",
+  "occupation": "Blockchain Engineers",
+  "task_text": "Discuss data needs with engineers, product managers, or data scientists to identify blockchain requirements."
+ },
+ {
+  "task_id": "21817",
+  "occupation": "Blockchain Engineers",
+  "task_text": "Evaluate blockchain processes or risks based on security assessments or control matrix reviews."
+ },
+ {
+  "task_id": "21818",
+  "occupation": "Blockchain Engineers",
+  "task_text": "Evaluate new blockchain technologies and vendor products."
+ },
+ {
+  "task_id": "21819",
+  "occupation": "Blockchain Engineers",
+  "task_text": "Implement catastrophic failure handlers to identify security breaches and prevent serious damage."
+ },
+ {
+  "task_id": "21820",
+  "occupation": "Blockchain Engineers",
+  "task_text": "Run infrastructure tests to examine the behavior of large peer-to-peer networks."
+ },
+ {
+  "task_id": "21821",
+  "occupation": "Blockchain Engineers",
+  "task_text": "Test the security and performance of blockchain infrastructures."
+ },
+ {
+  "task_id": "21822",
+  "occupation": "Blockchain Engineers",
+  "task_text": "Update client and server applications responsible for integration and business logic."
+ },
+ {
+  "task_id": "14666",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Communicate with staff or clients to understand specific system requirements."
+ },
+ {
+  "task_id": "14677",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Investigate system component suitability for specified purposes, and make recommendations regarding component use."
+ },
+ {
+  "task_id": "14674",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Provide customers or installation teams guidelines for implementing secure systems."
+ },
+ {
+  "task_id": "14676",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Direct the analysis, development, and operation of complete computer systems."
+ },
+ {
+  "task_id": "14689",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Direct the installation of operating systems, network or application software, or computer or network hardware."
+ },
+ {
+  "task_id": "14675",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Monitor system operation to detect potential problems."
+ },
+ {
+  "task_id": "14673",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Identify system data, hardware, or software components required to meet user needs."
+ },
+ {
+  "task_id": "14678",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Perform ongoing hardware and software maintenance operations, including installing or upgrading hardware or software."
+ },
+ {
+  "task_id": "14669",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Verify stability, interoperability, portability, security, or scalability of system architecture."
+ },
+ {
+  "task_id": "14686",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Research, test, or verify proper functioning of software patches and fixes."
+ },
+ {
+  "task_id": "14679",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Configure servers to meet functional specifications."
+ },
+ {
+  "task_id": "14670",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components."
+ },
+ {
+  "task_id": "14683",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Design and conduct hardware or software tests."
+ },
+ {
+  "task_id": "14685",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Evaluate existing systems to determine effectiveness, and suggest changes to meet organizational requirements."
+ },
+ {
+  "task_id": "14668",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Document design specifications, installation instructions, and other system-related information."
+ },
+ {
+  "task_id": "14691",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Perform security analyses of developed or packaged software components."
+ },
+ {
+  "task_id": "14672",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Provide technical guidance or support for the development or troubleshooting of systems."
+ },
+ {
+  "task_id": "14681",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Define and analyze objectives, scope, issues, or organizational impact of information systems."
+ },
+ {
+  "task_id": "14684",
+  "occupation": "Computer Systems Engineers/Architects",
+  "task_text": "Establish functional or system standards to address operational requirements, quality requirements, and design constraints."
+ }
+]

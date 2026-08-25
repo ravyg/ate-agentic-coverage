@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "20775",
+  "occupation": "Parts Salespersons",
+  "task_text": "Fill customer orders from stock, and place orders when requested items are out of stock."
+ },
+ {
+  "task_id": "20776",
+  "occupation": "Parts Salespersons",
+  "task_text": "Assist customers, such as responding to customer complaints and updating them about back-ordered parts."
+ },
+ {
+  "task_id": "20777",
+  "occupation": "Parts Salespersons",
+  "task_text": "Locate and label parts, and maintain inventory of stock."
+ },
+ {
+  "task_id": "20778",
+  "occupation": "Parts Salespersons",
+  "task_text": "Pick up and deliver parts."
+ },
+ {
+  "task_id": "20779",
+  "occupation": "Parts Salespersons",
+  "task_text": "Maintain and clean work and inventory areas."
+ },
+ {
+  "task_id": "20780",
+  "occupation": "Parts Salespersons",
+  "task_text": "Manage shipments by researching shipping methods or costs and tracking packages."
+ },
+ {
+  "task_id": "20785",
+  "occupation": "Procurement Clerks",
+  "task_text": "Train and supervise subordinates and other staff."
+ },
+ {
+  "task_id": "20786",
+  "occupation": "Procurement Clerks",
+  "task_text": "Approve and pay bills."
+ },
+ {
+  "task_id": "20843",
+  "occupation": "Government Property Inspectors and Investigators",
+  "task_text": "Inspect government property, such as construction sites or public housing, to ensure compliance with contract specifications or legal requirements."
+ },
+ {
+  "task_id": "20844",
+  "occupation": "Government Property Inspectors and Investigators",
+  "task_text": "Investigate alleged license or permit violations."
+ },
+ {
+  "task_id": "20845",
+  "occupation": "Government Property Inspectors and Investigators",
+  "task_text": "Investigate applications for special licenses or permits."
+ },
+ {
+  "task_id": "20846",
+  "occupation": "Cost Estimators",
+  "task_text": "Collect historical cost data to estimate costs for current or future products."
+ },
+ {
+  "task_id": "20847",
+  "occupation": "Logisticians",
+  "task_text": "Perform managerial duties such as hiring and training employees and overseeing facility needs or requirements."
+ },
+ {
+  "task_id": "20877",
+  "occupation": "Lawyers",
+  "task_text": "Prepare, draft, and review legal documents, such as wills, deeds, patent applications, mortgages, leases, and contracts."
+ },
+ {
+  "task_id": "20893",
+  "occupation": "Recreational Therapists",
+  "task_text": "Develop discharge plans for patients."
+ },
+ {
+  "task_id": "20900",
+  "occupation": "Travel Agents",
+  "task_text": "Record and maintain information on clients, vendors, and travel packages."
+ },
+ {
+  "task_id": "20901",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Balance cash and payroll accounts."
+ },
+ {
+  "task_id": "20902",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Train employees on organizations' timekeeping systems."
+ },
+ {
+  "task_id": "20903",
+  "occupation": "Couriers and Messengers",
+  "task_text": "Deliver and pick up medical records, lab specimens, and medications to and from hospitals and other medical facilities."
+ },
+ {
+  "task_id": "20904",
+  "occupation": "Meter Readers, Utilities",
+  "task_text": "Perform preventative maintenance or minor repairs on meters."
+ },
+ {
+  "task_id": "20905",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Order retail items and other supplies for office use."
+ },
+ {
+  "task_id": "20906",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Scan labels on letters or parcels to confirm receipt."
+ },
+ {
+  "task_id": "20907",
+  "occupation": "Proofreaders and Copy Markers",
+  "task_text": "Consult with authors and editors regarding manuscript changes and suggestions."
+ },
+ {
+  "task_id": "20908",
+  "occupation": "Proofreaders and Copy Markers",
+  "task_text": "Archive documents, conduct research, and read copy, using the internet and various computer programs."
+ },
+ {
+  "task_id": "20909",
+  "occupation": "Proofreaders and Copy Markers",
+  "task_text": "Write original content, such as headlines, cutlines, captions, and cover copy."
+ },
+ {
+  "task_id": "20910",
+  "occupation": "Proofreaders and Copy Markers",
+  "task_text": "Typeset and measure dimensions, spacing, and positioning of page elements, such as copy and illustrations, to verify conformance to specifications, using printer's ruler or layout software."
+ },
+ {
+  "task_id": "21013",
+  "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+  "task_text": "Prepare and set up for new employee orientations."
+ },
+ {
+  "task_id": "21014",
+  "occupation": "Word Processors and Typists",
+  "task_text": "Manage schedules and set dates, times, and locations for meetings and appointments."
+ },
+ {
+  "task_id": "21045",
+  "occupation": "Insurance Underwriters",
+  "task_text": "Examine documents to determine degree of risk from factors such as applicant health, financial standing and value, and condition of property."
+ },
+ {
+  "task_id": "21062",
+  "occupation": "Paralegals and Legal Assistants",
+  "task_text": "Investigate facts and law of cases and search pertinent sources, such as public records and internet sources, to determine causes of action and to prepare cases."
+ },
+ {
+  "task_id": "21072",
+  "occupation": "Cashiers",
+  "task_text": "Help customers find the location of products."
+ },
+ {
+  "task_id": "21073",
+  "occupation": "Cashiers",
+  "task_text": "Answer incoming phone calls."
+ },
+ {
+  "task_id": "21074",
+  "occupation": "Cashiers",
+  "task_text": "Stock shelves, sort and reshelve returned items, and mark prices on items and shelves."
+ },
+ {
+  "task_id": "21075",
+  "occupation": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+  "task_text": "Persuade customers to purchase merchandise or services."
+ },
+ {
+  "task_id": "21076",
+  "occupation": "Tellers",
+  "task_text": "Answer telephones and assist customers with their questions."
+ },
+ {
+  "task_id": "21077",
+  "occupation": "Library Assistants, Clerical",
+  "task_text": "Plan or participate in library events and programs, such as story time with children."
+ },
+ {
+  "task_id": "21078",
+  "occupation": "Legal Secretaries and Administrative Assistants",
+  "task_text": "Prepare, proofread, or process legal documents, such as summonses, subpoenas, complaints, appeals, motions, or pretrial agreements."
+ },
+ {
+  "task_id": "21079",
+  "occupation": "Legal Secretaries and Administrative Assistants",
+  "task_text": "Make travel arrangements for attorneys."
+ },
+ {
+  "task_id": "21094",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Identify relevant guidance documents, international standards, or consensus standards."
+ },
+ {
+  "task_id": "21095",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Provide pre-, ongoing, and post-inspection follow-up assistance to governmental inspectors."
+ },
+ {
+  "task_id": "21096",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Recommend adjudication of product complaints."
+ },
+ {
+  "task_id": "21097",
+  "occupation": "Human Resources Specialists",
+  "task_text": "Administer employee benefit plans."
+ },
+ {
+  "task_id": "21152",
+  "occupation": "Gambling Change Persons and Booth Cashiers",
+  "task_text": "Exchange money, credit, tickets, or casino chips and make change for customers."
+ },
+ {
+  "task_id": "21153",
+  "occupation": "Gambling Change Persons and Booth Cashiers",
+  "task_text": "Check identifications to verify age of players."
+ },
+ {
+  "task_id": "21154",
+  "occupation": "Gambling Change Persons and Booth Cashiers",
+  "task_text": "Clean casino areas."
+ },
+ {
+  "task_id": "21155",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Contact previous clients for prospecting of referral business."
+ },
+ {
+  "task_id": "21163",
+  "occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
+  "task_text": "Send samples of clients' work and other promotional material to potential employers to obtain auditions, sponsorships, or endorsement deals."
+ },
+ {
+  "task_id": "21164",
+  "occupation": "Credit Analysts",
+  "task_text": "Contact customers to collect payments on delinquent accounts."
+ },
+ {
+  "task_id": "21165",
+  "occupation": "Tax Preparers",
+  "task_text": "Schedule appointments with clients."
+ },
+ {
+  "task_id": "21181",
+  "occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+  "task_text": "Schedule hearings."
+ },
+ {
+  "task_id": "21182",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Issue arrest warrants."
+ },
+ {
+  "task_id": "21187",
+  "occupation": "Pediatricians, General",
+  "task_text": "Teach residents or medical students about pediatric topics."
+ },
+ {
+  "task_id": "21188",
+  "occupation": "Clinical Nurse Specialists",
+  "task_text": "Provide coaching and mentoring to other caregivers to help facilitate their professional growth and development."
+ },
+ {
+  "task_id": "21189",
+  "occupation": "Hearing Aid Specialists",
+  "task_text": "Counsel patients and families on communication strategies and the effects of hearing loss."
+ },
+ {
+  "task_id": "21190",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Perform ophthalmic triage, in the office or by phone, to assess severity of patients' conditions."
+ },
+ {
+  "task_id": "21191",
+  "occupation": "Ophthalmic Medical Technologists",
+  "task_text": "Educate patients on ophthalmic medical procedures, conditions of the eye, and appropriate use of medications."
+ },
+ {
+  "task_id": "21192",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Document patient information, such as notes on their progress."
+ },
+ {
+  "task_id": "21193",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Instruct patients in proper body mechanics and in ways to improve functional mobility, such as aquatic exercise."
+ },
+ {
+  "task_id": "21194",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Perform therapeutic wound care."
+ },
+ {
+  "task_id": "21195",
+  "occupation": "Veterinary Assistants and Laboratory Animal Caretakers",
+  "task_text": "Place orders to restock inventory of hospital or laboratory supplies."
+ },
+ {
+  "task_id": "21417",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Examine claims forms and other records to determine insurance coverage."
+ },
+ {
+  "task_id": "21418",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Analyze information gathered by investigation and report findings and recommendations."
+ },
+ {
+  "task_id": "21419",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Review police reports, medical treatment records, medical bills, or physical property damage to determine the extent of liability."
+ },
+ {
+  "task_id": "21420",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Investigate and assess damage to property and create or review property damage estimates."
+ },
+ {
+  "task_id": "21421",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Interview or correspond with agents and claimants to correct errors or omissions and to investigate questionable claims."
+ },
+ {
+  "task_id": "21422",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Interview or correspond with claimants, witnesses, police, physicians, or other relevant parties to determine claim settlement, denial, or review."
+ },
+ {
+  "task_id": "21423",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Investigate, evaluate, and settle claims, applying technical knowledge and human relations skills to effect fair and prompt disposal of cases and to contribute to a reduced loss ratio."
+ },
+ {
+  "task_id": "21424",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Adjust reserves or provide reserve recommendations to ensure that reserve activities are consistent with corporate policies."
+ },
+ {
+  "task_id": "21425",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Resolve complex, severe exposure claims, using high service oriented file handling."
+ },
+ {
+  "task_id": "21426",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Pay and process claims within designated authority level."
+ },
+ {
+  "task_id": "21427",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Examine claims investigated by insurance adjusters, further investigating questionable claims to determine whether to authorize payments."
+ },
+ {
+  "task_id": "21428",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Verify and analyze data used in settling claims to ensure that claims are valid and that settlements are made according to company practices and procedures."
+ },
+ {
+  "task_id": "21429",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Enter claim payments, reserves and new claims on computer system, inputting concise yet sufficient file documentation."
+ },
+ {
+  "task_id": "21430",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Refer questionable claims to investigator or claims adjuster for investigation or settlement."
+ },
+ {
+  "task_id": "21431",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Collect evidence to support contested claims in court."
+ },
+ {
+  "task_id": "21432",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Confer with legal counsel on claims requiring litigation."
+ },
+ {
+  "task_id": "21433",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Contact or interview claimants, doctors, medical specialists, or employers to get additional information."
+ },
+ {
+  "task_id": "21434",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Maintain claim files, such as records of settled claims and an inventory of claims requiring detailed analysis."
+ },
+ {
+  "task_id": "21435",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Present cases and participate in their discussion at claim committee meetings."
+ },
+ {
+  "task_id": "21436",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Supervise claims adjusters to ensure that adjusters have followed proper methods."
+ },
+ {
+  "task_id": "21437",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Conduct detailed bill reviews to implement sound litigation management and expense control."
+ },
+ {
+  "task_id": "21438",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Examine titles to property to determine validity and act as company agent in transactions with property owners."
+ },
+ {
+  "task_id": "21439",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Report overpayments, underpayments, and other irregularities."
+ },
+ {
+  "task_id": "21440",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Communicate with reinsurance brokers to obtain information necessary for processing claims."
+ },
+ {
+  "task_id": "21441",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Prepare reports to be submitted to company's data processing department."
+ },
+ {
+  "task_id": "21442",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Obtain credit information from banks and other credit services."
+ },
+ {
+  "task_id": "21443",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Attend mediations or trials."
+ },
+ {
+  "task_id": "21444",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Communicate with former associates to verify employment record or to obtain background information regarding persons or businesses applying for credit."
+ },
+ {
+  "task_id": "21445",
+  "occupation": "Claims Adjusters, Examiners, and Investigators",
+  "task_text": "Negotiate claim settlements or recommend litigation when settlement cannot be negotiated."
+ },
+ {
+  "task_id": "21446",
+  "occupation": "Compliance Officers",
+  "task_text": "Warn violators of infractions or penalties."
+ },
+ {
+  "task_id": "21447",
+  "occupation": "Compliance Officers",
+  "task_text": "Evaluate applications, records, or documents to gather information about eligibility or liability issues."
+ },
+ {
+  "task_id": "21448",
+  "occupation": "Compliance Officers",
+  "task_text": "Advise licensees or other individuals or groups concerning licensing, permit, or passport regulations."
+ },
+ {
+  "task_id": "21449",
+  "occupation": "Compliance Officers",
+  "task_text": "Prepare reports of activities, evaluations, recommendations, or decisions."
+ },
+ {
+  "task_id": "21450",
+  "occupation": "Compliance Officers",
+  "task_text": "Report law or regulation violations to appropriate boards or agencies."
+ },
+ {
+  "task_id": "21451",
+  "occupation": "Compliance Officers",
+  "task_text": "Confer with or interview officials, technical or professional specialists, or applicants to obtain information or to clarify facts relevant to licensing decisions."
+ },
+ {
+  "task_id": "21452",
+  "occupation": "Compliance Officers",
+  "task_text": "Issue licenses to individuals meeting standards."
+ },
+ {
+  "task_id": "21453",
+  "occupation": "Compliance Officers",
+  "task_text": "Collect fees for licenses."
+ },
+ {
+  "task_id": "21454",
+  "occupation": "Compliance Officers",
+  "task_text": "Administer oral, written, road, or flight tests to license applicants."
+ },
+ {
+  "task_id": "21455",
+  "occupation": "Compliance Officers",
+  "task_text": "Visit establishments to verify that valid licenses or permits are displayed and that licensing standards are being upheld."
+ },
+ {
+  "task_id": "21456",
+  "occupation": "Compliance Officers",
+  "task_text": "Score tests and observe equipment operation and control to rate ability of applicants."
+ },
+ {
+  "task_id": "21457",
+  "occupation": "Compliance Officers",
+  "task_text": "Prepare correspondence to inform concerned parties of licensing decisions or appeals processes."
+ },
+ {
+  "task_id": "21458",
+  "occupation": "Compliance Officers",
+  "task_text": "Identify compliance issues that require follow-up or investigation."
+ },
+ {
+  "task_id": "21459",
+  "occupation": "Compliance Officers",
+  "task_text": "Keep informed regarding pending industry changes, trends, or best practices."
+ },
+ {
+  "task_id": "21460",
+  "occupation": "Compliance Officers",
+  "task_text": "Provide assistance to internal or external auditors in compliance reviews."
+ },
+ {
+  "task_id": "21461",
+  "occupation": "Compliance Officers",
+  "task_text": "Verify that all firm and regulatory policies and procedures have been documented, implemented, and communicated."
+ },
+ {
+  "task_id": "21462",
+  "occupation": "Project Management Specialists",
+  "task_text": "Assign duties or responsibilities to project personnel."
+ },
+ {
+  "task_id": "21463",
+  "occupation": "Project Management Specialists",
+  "task_text": "Communicate with key stakeholders to determine project requirements and objectives."
+ },
+ {
+  "task_id": "21464",
+  "occupation": "Project Management Specialists",
+  "task_text": "Confer with project personnel to identify and resolve problems."
+ },
+ {
+  "task_id": "21465",
+  "occupation": "Project Management Specialists",
+  "task_text": "Create project status presentations for delivery to customers or project personnel."
+ },
+ {
+  "task_id": "21466",
+  "occupation": "Project Management Specialists",
+  "task_text": "Develop or update project plans including information such as objectives, technologies, schedules, funding, and staffing."
+ },
+ {
+  "task_id": "21467",
+  "occupation": "Project Management Specialists",
+  "task_text": "Identify project needs such as resources, staff, or finances by reviewing project objectives and schedules."
+ },
+ {
+  "task_id": "21468",
+  "occupation": "Project Management Specialists",
+  "task_text": "Identify, review, or select vendors or consultants to meet project needs."
+ },
+ {
+  "task_id": "21469",
+  "occupation": "Project Management Specialists",
+  "task_text": "Monitor costs incurred by project staff to identify budget issues."
+ },
+ {
+  "task_id": "21470",
+  "occupation": "Project Management Specialists",
+  "task_text": "Monitor project milestones and deliverables."
+ },
+ {
+  "task_id": "21471",
+  "occupation": "Project Management Specialists",
+  "task_text": "Monitor the performance of project team members to provide performance feedback."
+ },
+ {
+  "task_id": "21472",
+  "occupation": "Project Management Specialists",
+  "task_text": "Negotiate with project stakeholders or suppliers to obtain resources or materials."
+ },
+ {
+  "task_id": "21473",
+  "occupation": "Project Management Specialists",
+  "task_text": "Plan, schedule, or coordinate project activities to meet deadlines."
+ },
+ {
+  "task_id": "21474",
+  "occupation": "Project Management Specialists",
+  "task_text": "Prepare and submit budget estimates, progress reports, or cost tracking reports."
+ },
+ {
+  "task_id": "21475",
+  "occupation": "Project Management Specialists",
+  "task_text": "Produce and distribute project documents."
+ },
+ {
+  "task_id": "21476",
+  "occupation": "Project Management Specialists",
+  "task_text": "Propose, review, or approve modifications to project plans."
+ },
+ {
+  "task_id": "21477",
+  "occupation": "Project Management Specialists",
+  "task_text": "Recruit or hire project personnel."
+ },
+ {
+  "task_id": "21478",
+  "occupation": "Project Management Specialists",
+  "task_text": "Report project status, such as budget, resources, technical issues, or customer satisfaction, to managers."
+ },
+ {
+  "task_id": "21479",
+  "occupation": "Project Management Specialists",
+  "task_text": "Request and review project updates to ensure deadlines are met."
+ },
+ {
+  "task_id": "21480",
+  "occupation": "Project Management Specialists",
+  "task_text": "Schedule or facilitate project meetings."
+ },
+ {
+  "task_id": "21481",
+  "occupation": "Project Management Specialists",
+  "task_text": "Submit project deliverables to clients, ensuring adherence to quality standards."
+ },
+ {
+  "task_id": "21482",
+  "occupation": "Security Management Specialists",
+  "task_text": "Assess the nature and level of physical security threats so that the scope of the problem can be determined."
+ },
+ {
+  "task_id": "21483",
+  "occupation": "Security Management Specialists",
+  "task_text": "Budget and schedule security design work."
+ },
+ {
+  "task_id": "21484",
+  "occupation": "Security Management Specialists",
+  "task_text": "Conduct security audits to identify potential vulnerabilities related to physical security or staff safety."
+ },
+ {
+  "task_id": "21485",
+  "occupation": "Security Management Specialists",
+  "task_text": "Design security policies, programs, or practices to ensure adequate security relating to alarm response, access card use, and other security needs."
+ },
+ {
+  "task_id": "21486",
+  "occupation": "Security Management Specialists",
+  "task_text": "Design, implement, or establish requirements for security systems, video surveillance, motion detection, or closed-circuit television systems to ensure proper installation and operation."
+ }
+]

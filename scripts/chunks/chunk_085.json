@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "6912",
+  "occupation": "Commercial and Industrial Designers",
+  "task_text": "Advise corporations on issues involving corporate image projects or problems."
+ },
+ {
+  "task_id": "13015",
+  "occupation": "Fashion Designers",
+  "task_text": "Sketch rough and detailed drawings of apparel or accessories, and write specifications such as color schemes, construction, material types, and accessory requirements."
+ },
+ {
+  "task_id": "13014",
+  "occupation": "Fashion Designers",
+  "task_text": "Examine sample garments on and off models, modifying designs to achieve desired effects."
+ },
+ {
+  "task_id": "13016",
+  "occupation": "Fashion Designers",
+  "task_text": "Confer with sales and management executives or with clients to discuss design ideas."
+ },
+ {
+  "task_id": "13019",
+  "occupation": "Fashion Designers",
+  "task_text": "Select materials and production techniques to be used for products."
+ },
+ {
+  "task_id": "13020",
+  "occupation": "Fashion Designers",
+  "task_text": "Provide sample garments to agents and sales representatives, and arrange for showings of sample garments at sales meetings or fashion shows."
+ },
+ {
+  "task_id": "13013",
+  "occupation": "Fashion Designers",
+  "task_text": "Direct and coordinate workers involved in drawing and cutting patterns and constructing samples or finished garments."
+ },
+ {
+  "task_id": "13017",
+  "occupation": "Fashion Designers",
+  "task_text": "Identify target markets for designs, looking at factors such as age, gender, and socioeconomic status."
+ },
+ {
+  "task_id": "13024",
+  "occupation": "Fashion Designers",
+  "task_text": "Collaborate with other designers to coordinate special products and designs."
+ },
+ {
+  "task_id": "13018",
+  "occupation": "Fashion Designers",
+  "task_text": "Attend fashion shows and review garment magazines and manuals to gather information about fashion trends and consumer preferences."
+ },
+ {
+  "task_id": "13022",
+  "occupation": "Fashion Designers",
+  "task_text": "Purchase new or used clothing and accessory items as needed to complete designs."
+ },
+ {
+  "task_id": "13023",
+  "occupation": "Fashion Designers",
+  "task_text": "Visit textile showrooms to keep up-to-date on the latest fabrics."
+ },
+ {
+  "task_id": "13021",
+  "occupation": "Fashion Designers",
+  "task_text": "Adapt other designers' ideas for the mass market."
+ },
+ {
+  "task_id": "13030",
+  "occupation": "Fashion Designers",
+  "task_text": "Test fabrics or oversee testing so that garment care labels can be created."
+ },
+ {
+  "task_id": "13026",
+  "occupation": "Fashion Designers",
+  "task_text": "Determine prices for styles."
+ },
+ {
+  "task_id": "13028",
+  "occupation": "Fashion Designers",
+  "task_text": "Develop a group of products or accessories, and market them through venues such as boutiques or mail-order catalogs."
+ },
+ {
+  "task_id": "13027",
+  "occupation": "Fashion Designers",
+  "task_text": "Draw patterns for articles designed, cut patterns, and cut material according to patterns, using measuring instruments and scissors."
+ },
+ {
+  "task_id": "13031",
+  "occupation": "Fashion Designers",
+  "task_text": "Sew together sections of material to form mockups or samples of garments or articles, using sewing equipment."
+ },
+ {
+  "task_id": "13025",
+  "occupation": "Fashion Designers",
+  "task_text": "Design custom clothing and accessories for individuals, retailers, or theatrical, television, or film productions."
+ },
+ {
+  "task_id": "13032",
+  "occupation": "Fashion Designers",
+  "task_text": "Research the styles and periods of clothing needed for film or theatrical productions."
+ },
+ {
+  "task_id": "13029",
+  "occupation": "Fashion Designers",
+  "task_text": "Read scripts and consult directors and other production staff to develop design concepts and plan productions."
+ },
+ {
+  "task_id": "1719",
+  "occupation": "Floral Designers",
+  "task_text": "Confer with clients regarding price and type of arrangement desired and the date, time, and place of delivery."
+ },
+ {
+  "task_id": "1722",
+  "occupation": "Floral Designers",
+  "task_text": "Select flora and foliage for arrangements, working with numerous combinations to synthesize and develop new creations."
+ },
+ {
+  "task_id": "1723",
+  "occupation": "Floral Designers",
+  "task_text": "Order and purchase flowers and supplies from wholesalers and growers."
+ },
+ {
+  "task_id": "20751",
+  "occupation": "Floral Designers",
+  "task_text": "Deliver arrangements to customers, or oversee employees responsible for deliveries."
+ },
+ {
+  "task_id": "1720",
+  "occupation": "Floral Designers",
+  "task_text": "Plan arrangement according to client's requirements, using knowledge of design and properties of materials, or select appropriate standard design pattern."
+ },
+ {
+  "task_id": "1721",
+  "occupation": "Floral Designers",
+  "task_text": "Water plants, and cut, condition, and clean flowers and foliage for storage."
+ },
+ {
+  "task_id": "1725",
+  "occupation": "Floral Designers",
+  "task_text": "Trim material and arrange bouquets, wreaths, terrariums, and other items, using trimmers, shapers, wire, pins, floral tape, foam, and other materials."
+ },
+ {
+  "task_id": "1724",
+  "occupation": "Floral Designers",
+  "task_text": "Wrap and price completed arrangements."
+ },
+ {
+  "task_id": "1726",
+  "occupation": "Floral Designers",
+  "task_text": "Perform office and retail service duties, such as keeping financial records, serving customers, answering telephones, selling giftware items, and receiving payment."
+ },
+ {
+  "task_id": "1730",
+  "occupation": "Floral Designers",
+  "task_text": "Unpack stock as it comes into the shop."
+ },
+ {
+  "task_id": "1731",
+  "occupation": "Floral Designers",
+  "task_text": "Create and change in-store and window displays, designs, and looks to enhance a shop's image."
+ },
+ {
+  "task_id": "1727",
+  "occupation": "Floral Designers",
+  "task_text": "Inform customers about the care, maintenance, and handling of various flowers and foliage, indoor plants, and other items."
+ },
+ {
+  "task_id": "1729",
+  "occupation": "Floral Designers",
+  "task_text": "Perform general cleaning duties in the store to ensure the shop is clean and tidy."
+ },
+ {
+  "task_id": "1728",
+  "occupation": "Floral Designers",
+  "task_text": "Decorate, or supervise the decoration of, buildings, halls, churches, or other facilities for parties, weddings and other occasions."
+ },
+ {
+  "task_id": "1732",
+  "occupation": "Floral Designers",
+  "task_text": "Conduct classes or demonstrations, or train other workers."
+ },
+ {
+  "task_id": "307",
+  "occupation": "Graphic Designers",
+  "task_text": "Key information into computer equipment to create layouts for client or supervisor."
+ },
+ {
+  "task_id": "304",
+  "occupation": "Graphic Designers",
+  "task_text": "Review final layouts and suggest improvements, as needed."
+ },
+ {
+  "task_id": "300",
+  "occupation": "Graphic Designers",
+  "task_text": "Determine size and arrangement of illustrative material and copy, and select style and size of type."
+ },
+ {
+  "task_id": "306",
+  "occupation": "Graphic Designers",
+  "task_text": "Develop graphics and layouts for product illustrations, company logos, and Web sites."
+ },
+ {
+  "task_id": "299",
+  "occupation": "Graphic Designers",
+  "task_text": "Create designs, concepts, and sample layouts, based on knowledge of layout principles and esthetic design concepts."
+ },
+ {
+  "task_id": "301",
+  "occupation": "Graphic Designers",
+  "task_text": "Use computer software to generate new images."
+ },
+ {
+  "task_id": "23970",
+  "occupation": "Graphic Designers",
+  "task_text": "Prepare digital files for printing."
+ },
+ {
+  "task_id": "305",
+  "occupation": "Graphic Designers",
+  "task_text": "Confer with clients to discuss and determine layout design."
+ },
+ {
+  "task_id": "23971",
+  "occupation": "Graphic Designers",
+  "task_text": "Research the target audience of projects."
+ },
+ {
+  "task_id": "303",
+  "occupation": "Graphic Designers",
+  "task_text": "Draw and print charts, graphs, illustrations, and other artwork, using computer."
+ },
+ {
+  "task_id": "302",
+  "occupation": "Graphic Designers",
+  "task_text": "Mark up, paste, and assemble final layouts to prepare layouts for printer."
+ },
+ {
+  "task_id": "309",
+  "occupation": "Graphic Designers",
+  "task_text": "Study illustrations and photographs to plan presentation of materials, products, or services."
+ },
+ {
+  "task_id": "15228",
+  "occupation": "Graphic Designers",
+  "task_text": "Maintain archive of images, photos, or previous work products."
+ },
+ {
+  "task_id": "310",
+  "occupation": "Graphic Designers",
+  "task_text": "Prepare notes and instructions for workers who assemble and prepare final layouts for printing."
+ },
+ {
+  "task_id": "308",
+  "occupation": "Graphic Designers",
+  "task_text": "Prepare illustrations or rough sketches of material, discussing them with clients or supervisors and making necessary changes."
+ },
+ {
+  "task_id": "15229",
+  "occupation": "Graphic Designers",
+  "task_text": "Research new software or design concepts."
+ },
+ {
+  "task_id": "313",
+  "occupation": "Graphic Designers",
+  "task_text": "Produce still and animated graphics for on-air and taped portions of television news broadcasts, using electronic video equipment."
+ },
+ {
+  "task_id": "312",
+  "occupation": "Graphic Designers",
+  "task_text": "Photograph layouts, using camera, to make layout prints for supervisors or clients."
+ },
+ {
+  "task_id": "23972",
+  "occupation": "Graphic Designers",
+  "task_text": "Write or edit copy for clients."
+ },
+ {
+  "task_id": "20996",
+  "occupation": "Interior Designers",
+  "task_text": "Design plans to be safe and to be compliant with the American Disabilities Act (ADA)."
+ },
+ {
+  "task_id": "18521",
+  "occupation": "Interior Designers",
+  "task_text": "Use computer-aided drafting (CAD) and related software to produce construction documents."
+ },
+ {
+  "task_id": "23995",
+  "occupation": "Interior Designers",
+  "task_text": "Research health and safety code requirements to inform design."
+ },
+ {
+  "task_id": "1735",
+  "occupation": "Interior Designers",
+  "task_text": "Confer with client to determine factors affecting planning of interior environments, such as budget, architectural preferences, purpose, and function."
+ },
+ {
+  "task_id": "1736",
+  "occupation": "Interior Designers",
+  "task_text": "Advise client on interior design factors, such as space planning, layout and use of furnishings or equipment, and color coordination."
+ },
+ {
+  "task_id": "18519",
+  "occupation": "Interior Designers",
+  "task_text": "Coordinate with other professionals, such as contractors, architects, engineers, and plumbers, to ensure job success."
+ },
+ {
+  "task_id": "18520",
+  "occupation": "Interior Designers",
+  "task_text": "Review and detail shop drawings for construction plans."
+ },
+ {
+  "task_id": "20997",
+  "occupation": "Interior Designers",
+  "task_text": "Inspect construction work on site to ensure its adherence to the design plans."
+ },
+ {
+  "task_id": "1740",
+  "occupation": "Interior Designers",
+  "task_text": "Render design ideas in form of paste-ups or drawings."
+ },
+ {
+  "task_id": "1739",
+  "occupation": "Interior Designers",
+  "task_text": "Subcontract fabrication, installation, and arrangement of carpeting, fixtures, accessories, draperies, paint and wall coverings, art work, furniture, and related items."
+ },
+ {
+  "task_id": "1737",
+  "occupation": "Interior Designers",
+  "task_text": "Select or design, and purchase furnishings, art work, and accessories."
+ },
+ {
+  "task_id": "1734",
+  "occupation": "Interior Designers",
+  "task_text": "Estimate material requirements and costs, and present design to client for approval."
+ },
+ {
+  "task_id": "20999",
+  "occupation": "Interior Designers",
+  "task_text": "Research and explore the use of new materials, technologies, and products to incorporate into designs."
+ },
+ {
+  "task_id": "20998",
+  "occupation": "Interior Designers",
+  "task_text": "Design spaces to be environmentally friendly, using sustainable, recycled materials when feasible."
+ },
+ {
+  "task_id": "1738",
+  "occupation": "Interior Designers",
+  "task_text": "Formulate environmental plan to be practical, esthetic, and conducive to intended purposes, such as raising productivity or selling merchandise."
+ },
+ {
+  "task_id": "1741",
+  "occupation": "Interior Designers",
+  "task_text": "Plan and design interior environments for boats, planes, buses, trains, and other enclosed spaces."
+ },
+ {
+  "task_id": "9263",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Plan commercial displays to entice and appeal to customers."
+ },
+ {
+  "task_id": "9269",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Arrange properties, furniture, merchandise, backdrops, or other accessories, as shown in prepared sketches."
+ },
+ {
+  "task_id": "9265",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Change or rotate window displays, interior display areas, or signage to reflect changes in inventory or promotion."
+ },
+ {
+  "task_id": "9264",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Place prices or descriptive signs on backdrops, fixtures, merchandise, or floor."
+ },
+ {
+  "task_id": "20752",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Consult with store managers, buyers, sales associates, housekeeping staff, or engineering staff to determine appropriate placement of displays or products."
+ },
+ {
+  "task_id": "20753",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Maintain props, products, or mannequins, inspecting them for imperfections, doing touch-ups, cleaning up after customers, or applying preservative coatings as necessary."
+ },
+ {
+  "task_id": "9267",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Develop ideas or plans for merchandise displays or window decorations."
+ },
+ {
+  "task_id": "20754",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Assemble or set up displays, furniture, or products in store space, using colors, lights, pictures, or other accessories to display the product."
+ },
+ {
+  "task_id": "9281",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Install booths, exhibits, displays, carpets, or drapes, as guided by floor plan of building or specifications."
+ },
+ {
+  "task_id": "9275",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Select themes, lighting, colors, or props to be used."
+ },
+ {
+  "task_id": "9268",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Consult with advertising or sales staff to determine type of merchandise to be featured and time and place for each display."
+ },
+ {
+  "task_id": "9276",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Attend training sessions or corporate planning meetings to obtain new ideas for product launches."
+ },
+ {
+  "task_id": "9271",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Collaborate with others to obtain products or other display items."
+ },
+ {
+  "task_id": "9270",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Construct or assemble displays or display components from fabric, glass, paper, or plastic, using hand tools or woodworking power tools, according to specifications."
+ },
+ {
+  "task_id": "9266",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Obtain plans from display designers or display managers and discuss their implementation with clients or supervisors."
+ },
+ {
+  "task_id": "9262",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Take photographs of displays or signage."
+ },
+ {
+  "task_id": "9273",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Dress mannequins for displays."
+ },
+ {
+  "task_id": "20755",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Supervise or train staff members on daily tasks, such as visual merchandising."
+ },
+ {
+  "task_id": "20756",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Store, pack, and maintain inventory records of props, products, or display items."
+ },
+ {
+  "task_id": "9272",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Use computers to produce signage."
+ },
+ {
+  "task_id": "9279",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Prepare sketches, floor plans, or models of proposed displays."
+ },
+ {
+  "task_id": "9277",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Instruct sales staff in color coordination of clothing racks or counter displays."
+ },
+ {
+  "task_id": "9282",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Install decorations, such as flags, banners, festive lights, or bunting on or in building, street, exhibit hall, or booth."
+ },
+ {
+  "task_id": "9280",
+  "occupation": "Merchandise Displayers and Window Trimmers",
+  "task_text": "Cut out designs on cardboard, hardboard, or plywood, according to motif of event."
+ },
+ {
+  "task_id": "9289",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Develop set designs, based on evaluation of scripts, budgets, research information, and available locations."
+ },
+ {
+  "task_id": "9286",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Prepare rough drafts and scale working drawings of sets, including floor plans, scenery, and properties to be constructed."
+ },
+ {
+  "task_id": "9294",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Prepare preliminary renderings of proposed exhibits, including detailed construction, layout, and material specifications, and diagrams relating to aspects such as special effects or lighting."
+ },
+ {
+  "task_id": "9305",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Read scripts to determine location, set, and design requirements."
+ },
+ {
+  "task_id": "9293",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Submit plans for approval, and adapt plans to serve intended purposes, or to conform to budget or fabrication restrictions."
+ },
+ {
+  "task_id": "9306",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Attend rehearsals and production meetings to obtain and share information related to sets."
+ },
+ {
+  "task_id": "9287",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Confer with clients and staff to gather information about exhibit space, proposed themes and content, timelines, budgets, materials, or promotion requirements."
+ },
+ {
+  "task_id": "9297",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Research architectural and stylistic elements appropriate to the time period to be depicted, consulting experts for information, as necessary."
+ },
+ {
+  "task_id": "9303",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Observe sets during rehearsals in order to ensure that set elements do not interfere with performance aspects such as cast movement and camera angles."
+ },
+ {
+  "task_id": "9296",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Collaborate with those in charge of lighting and sound so that those production aspects can be coordinated with set designs or exhibit layouts."
+ },
+ {
+  "task_id": "9300",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Select set props, such as furniture, pictures, lamps, and rugs."
+ },
+ {
+  "task_id": "9304",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Design and build scale models of set designs, or miniature sets used in filming backgrounds or special effects."
+ },
+ {
+  "task_id": "9284",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Examine objects to be included in exhibits to plan where and how to display them."
+ },
+ {
+  "task_id": "9302",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Assign staff to complete design ideas and prepare sketches, illustrations, and detailed drawings of sets, or graphics and animation."
+ },
+ {
+  "task_id": "9291",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Inspect installed exhibits for conformance to specifications and satisfactory operation of special-effects components."
+ },
+ {
+  "task_id": "9288",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Estimate set- or exhibit-related costs, including materials, construction, and rental of props or locations."
+ },
+ {
+  "task_id": "9292",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Plan for location-specific issues, such as space limitations, traffic flow patterns, and safety concerns."
+ },
+ {
+  "task_id": "9285",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Acquire, or arrange for acquisition of, specimens or graphics required to complete exhibits."
+ },
+ {
+  "task_id": "9298",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Design and produce displays and materials that can be used to decorate windows, interior displays, or event locations, such as streets and fairgrounds."
+ },
+ {
+  "task_id": "9290",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Direct and coordinate construction, erection, or decoration activities to ensure that sets or exhibits meet design, budget, and schedule requirements."
+ },
+ {
+  "task_id": "9310",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Coordinate the transportation of sets that are built off-site, and coordinate their setup at the site of use."
+ },
+ {
+  "task_id": "9301",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Confer with conservators to determine how to handle an exhibit's environmental aspects, such as lighting, temperature, and humidity, so that objects will be protected and exhibits will be enhanced."
+ },
+ {
+  "task_id": "9295",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Select and purchase lumber and hardware necessary for set construction."
+ },
+ {
+  "task_id": "9307",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Arrange for outside contractors to construct exhibit structures."
+ },
+ {
+  "task_id": "9309",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Incorporate security systems into exhibit layouts."
+ },
+ {
+  "task_id": "9299",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Coordinate the removal of sets, props, and exhibits after productions or events are complete."
+ },
+ {
+  "task_id": "9308",
+  "occupation": "Set and Exhibit Designers",
+  "task_text": "Provide supportive materials for exhibits and displays, such as press kits, advertising, publicity notices, posters, brochures, catalogues, and invitations."
+ },
+ {
+  "task_id": "7646",
+  "occupation": "Actors",
+  "task_text": "Collaborate with other actors as part of an ensemble."
+ },
+ {
+  "task_id": "7649",
+  "occupation": "Actors",
+  "task_text": "Portray and interpret roles, using speech, gestures, and body movements, to entertain, inform, or instruct radio, film, television, or live audiences."
+ },
+ {
+  "task_id": "7644",
+  "occupation": "Actors",
+  "task_text": "Work closely with directors, other actors, and playwrights to find the interpretation most suited to the role."
+ },
+ {
+  "task_id": "7647",
+  "occupation": "Actors",
+  "task_text": "Perform humorous and serious interpretations of emotions, actions, and situations, using body movements, facial expressions, and gestures."
+ },
+ {
+  "task_id": "7643",
+  "occupation": "Actors",
+  "task_text": "Study and rehearse roles from scripts to interpret, learn and memorize lines, stunts, and cues as directed."
+ },
+ {
+  "task_id": "7645",
+  "occupation": "Actors",
+  "task_text": "Learn about characters in scripts and their relationships to each other to develop role interpretations."
+ },
+ {
+  "task_id": "7648",
+  "occupation": "Actors",
+  "task_text": "Attend auditions and casting calls to audition for roles."
+ },
+ {
+  "task_id": "7651",
+  "occupation": "Actors",
+  "task_text": "Sing or dance during dramatic or comedic performances."
+ }
+]

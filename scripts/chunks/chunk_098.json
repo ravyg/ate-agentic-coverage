@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "9607",
+  "occupation": "Landscaping and Groundskeeping Workers",
+  "task_text": "Haul or spread topsoil, or spread straw over seeded soil to hold soil in place."
+ },
+ {
+  "task_id": "9614",
+  "occupation": "Landscaping and Groundskeeping Workers",
+  "task_text": "Build forms and mix and pour cement to form garden borders."
+ },
+ {
+  "task_id": "11228",
+  "occupation": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+  "task_text": "Mix pesticides, herbicides, or fungicides for application to trees, shrubs, lawns, or botanical crops."
+ },
+ {
+  "task_id": "11227",
+  "occupation": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+  "task_text": "Fill sprayer tanks with water and chemicals, according to formulas."
+ },
+ {
+  "task_id": "11230",
+  "occupation": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+  "task_text": "Lift, push, and swing nozzles, hoses, and tubes to direct spray over designated areas."
+ },
+ {
+  "task_id": "20762",
+  "occupation": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+  "task_text": "Identify lawn or plant diseases to determine the appropriate course of treatment."
+ },
+ {
+  "task_id": "11229",
+  "occupation": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+  "task_text": "Cover areas to specified depths with pesticides, applying knowledge of weather conditions, droplet sizes, elevation-to-distance ratios, and obstructions."
+ },
+ {
+  "task_id": "11231",
+  "occupation": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+  "task_text": "Start motors and engage machinery, such as sprayer agitators or pumps or portable spray equipment."
+ },
+ {
+  "task_id": "11232",
+  "occupation": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+  "task_text": "Connect hoses and nozzles selected according to terrain, distribution pattern requirements, types of infestations, and velocities."
+ },
+ {
+  "task_id": "11233",
+  "occupation": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+  "task_text": "Clean or service machinery to ensure operating efficiency, using water, gasoline, lubricants, or hand tools."
+ },
+ {
+  "task_id": "11234",
+  "occupation": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+  "task_text": "Provide driving instructions to truck drivers to ensure complete coverage of designated areas, using hand and horn signals."
+ },
+ {
+  "task_id": "11235",
+  "occupation": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+  "task_text": "Plant grass with seed spreaders, and operate straw blowers to cover seeded areas with mixtures of asphalt and straw."
+ },
+ {
+  "task_id": "13120",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Operate shredding and chipping equipment, and feed limbs and brush into the machines."
+ },
+ {
+  "task_id": "13113",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Operate boom trucks, loaders, stump chippers, brush chippers, tractors, power saws, trucks, sprayers, and other equipment and tools."
+ },
+ {
+  "task_id": "13116",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Cut away dead and excess branches from trees, or clear branches around power lines, using climbing equipment or buckets of extended truck booms, or chainsaws, hooks, handsaws, shears, and clippers."
+ },
+ {
+  "task_id": "13115",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Clean, sharpen, and lubricate tools and equipment."
+ },
+ {
+  "task_id": "13119",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Hoist tools and equipment to tree trimmers, and lower branches with ropes or block and tackle."
+ },
+ {
+  "task_id": "13114",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Climb trees, using climbing hooks and belts, or climb ladders to gain access to work areas."
+ },
+ {
+  "task_id": "13112",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Supervise others engaged in tree trimming work and train lower-level employees."
+ },
+ {
+  "task_id": "13117",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Trim, top, and reshape trees to achieve attractive shapes or to remove low-hanging branches."
+ },
+ {
+  "task_id": "13121",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Load debris and refuse onto trucks and haul it away for disposal."
+ },
+ {
+  "task_id": "13122",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Inspect trees to determine if they have diseases or pest problems."
+ },
+ {
+  "task_id": "13125",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Provide information to the public regarding trees, such as advice on tree care."
+ },
+ {
+  "task_id": "13128",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Trim jagged stumps, using saws or pruning shears."
+ },
+ {
+  "task_id": "13126",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Clear sites, streets, and grounds of woody and herbaceous materials, such as tree stumps and fallen trees and limbs."
+ },
+ {
+  "task_id": "13124",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Collect debris and refuse from tree trimming and removal operations into piles, using shovels, rakes, or other tools."
+ },
+ {
+  "task_id": "13123",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Cable, brace, tie, bolt, stake, and guy trees and branches to provide support."
+ },
+ {
+  "task_id": "13131",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Plan and develop budgets for tree work, and estimate the monetary value of trees."
+ },
+ {
+  "task_id": "13118",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Prune, cut down, fertilize, and spray trees as directed by tree surgeons."
+ },
+ {
+  "task_id": "13127",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Remove broken limbs from wires, using hooked extension poles."
+ },
+ {
+  "task_id": "13132",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Water, root-feed, and fertilize trees."
+ },
+ {
+  "task_id": "13135",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Scrape decayed matter from cavities in trees and fill holes with cement to promote healing and to prevent further deterioration."
+ },
+ {
+  "task_id": "13130",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Spray trees to treat diseased or unhealthy trees, including mixing chemicals and calibrating spray equipment."
+ },
+ {
+  "task_id": "13133",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Apply tar or other protective substances to cut surfaces or seal surfaces and to protect them from fungi and insects."
+ },
+ {
+  "task_id": "13129",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Transplant and remove trees and shrubs, and prepare trees for moving."
+ },
+ {
+  "task_id": "13136",
+  "occupation": "Tree Trimmers and Pruners",
+  "task_text": "Split logs or wooden blocks into bolts, pickets, posts, or stakes, using hand tools such as ax wedges, sledgehammers, and mallets."
+ },
+ {
+  "task_id": "23127",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Monitor game operations to ensure that house rules are followed, that tribal, state, and federal regulations are adhered to, and that employees provide prompt and courteous service."
+ },
+ {
+  "task_id": "23129",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Observe gamblers' behavior for signs of cheating, such as marking, switching, or counting cards, and notify security staff of suspected cheating."
+ },
+ {
+  "task_id": "23133",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Perform paperwork required for monetary transactions."
+ },
+ {
+  "task_id": "23128",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Respond to and resolve patrons' complaints."
+ },
+ {
+  "task_id": "23132",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Greet customers and ask about the quality of service they are receiving."
+ },
+ {
+  "task_id": "23130",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Perform minor repairs or make adjustments to slot machines, resolving problems such as machine tilts and coin jams."
+ },
+ {
+  "task_id": "23135",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Maintain familiarity with the games at a facility and with strategies or tricks used by cheaters at such games."
+ },
+ {
+  "task_id": "23131",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Monitor payment of hand-delivered jackpots to ensure promptness."
+ },
+ {
+  "task_id": "23134",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Explain and interpret house rules, such as game rules or betting limits, for patrons."
+ },
+ {
+  "task_id": "23140",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Establish and maintain banks and table limits for each game."
+ },
+ {
+  "task_id": "23136",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Reset slot machines after payoffs."
+ },
+ {
+  "task_id": "23137",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Answer patrons' questions about gaming machine functions and payouts."
+ },
+ {
+  "task_id": "23138",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Record the specifics of malfunctioning machines and document malfunctions needing repair."
+ },
+ {
+  "task_id": "23147",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Monitor patrons for signs of compulsive gambling, offering assistance if necessary."
+ },
+ {
+  "task_id": "23152",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Supervise the distribution of complimentary meals, hotel rooms, discounts, or other items given to players, based on length of play and amount bet."
+ },
+ {
+  "task_id": "23139",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Report customer-related incidents occurring in gaming areas to supervisors."
+ },
+ {
+  "task_id": "23141",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Attach \"out of order\" signs to malfunctioning machines, and notify technicians when machines need to be repaired or removed."
+ },
+ {
+  "task_id": "23142",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Enforce safety rules, and report or remove safety hazards as well as guests who are underage, intoxicated, disruptive, or cheating."
+ },
+ {
+  "task_id": "23143",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Exchange currency for customers, converting currency into requested combinations of bills and coins."
+ },
+ {
+  "task_id": "23146",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Evaluate workers' performance and prepare written performance evaluations."
+ },
+ {
+  "task_id": "23144",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Monitor stations and games and move dealers from game to game to ensure adequate staffing."
+ },
+ {
+  "task_id": "23145",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Clean and maintain slot machines and surrounding areas."
+ },
+ {
+  "task_id": "23149",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Monitor functioning of slot machine coin dispensers and fill coin hoppers when necessary."
+ },
+ {
+  "task_id": "23148",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Record, issue receipts for, and pay off bets."
+ },
+ {
+  "task_id": "23150",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Determine how many gaming tables to open each day and schedule staff accordingly."
+ },
+ {
+  "task_id": "23151",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Direct workers compiling summary sheets for each race or event to record amounts wagered and amounts to be paid to winners."
+ },
+ {
+  "task_id": "23154",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Establish policies on types of gambling offered, odds, or extension of credit."
+ },
+ {
+  "task_id": "23153",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Review operational expenses, budget estimates, betting accounts, or collection reports for accuracy."
+ },
+ {
+  "task_id": "23155",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Interview and hire workers."
+ },
+ {
+  "task_id": "23156",
+  "occupation": "First-Line Supervisors of Gambling Services Workers",
+  "task_text": "Train, supervise, schedule, and evaluate workers."
+ },
+ {
+  "task_id": "23157",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Analyze and record personnel or operational data and write related activity reports."
+ },
+ {
+  "task_id": "23158",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Apply customer feedback to service improvement efforts."
+ },
+ {
+  "task_id": "23159",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Assign work schedules, following work requirements, to ensure quality and timely delivery of service."
+ },
+ {
+  "task_id": "23160",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Collaborate with staff members to plan or develop programs of events or schedules of activities."
+ },
+ {
+  "task_id": "23161",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Direct or coordinate the activities of entertainment and recreation related workers."
+ },
+ {
+  "task_id": "23162",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Furnish customers with information on events or activities."
+ },
+ {
+  "task_id": "23163",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Inform workers about interests or special needs of specific groups."
+ },
+ {
+  "task_id": "23164",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Inspect work areas or operating equipment to ensure conformance to established standards in areas such as cleanliness or maintenance."
+ },
+ {
+  "task_id": "23165",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Meet with managers or other supervisors to stay informed of changes affecting workers or operations."
+ },
+ {
+  "task_id": "23166",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Observe and evaluate workers' appearance and performance to ensure quality service and compliance with specifications."
+ },
+ {
+  "task_id": "23167",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Participate in continuing education to stay abreast of industry trends and developments."
+ },
+ {
+  "task_id": "23168",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Plan, direct, or supervise recreational and entertainment activities led by staff, such as sports, aquatics, games, or performing arts."
+ },
+ {
+  "task_id": "23169",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Provide staff with assistance in performing difficult or complicated duties."
+ },
+ {
+  "task_id": "23170",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Recruit and hire staff members."
+ },
+ {
+  "task_id": "23171",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Requisition supplies and equipment necessary for workers to facilitate recreational or entertainment activities, such as safety harnesses, flash lights, or first aid kits."
+ },
+ {
+  "task_id": "23172",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Resolve customer complaints regarding worker performance or services rendered."
+ },
+ {
+  "task_id": "23173",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Serve as a point of contact between managerial staff and leaders of recreational or entertainment activities."
+ },
+ {
+  "task_id": "23174",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Take disciplinary action to address performance problems."
+ },
+ {
+  "task_id": "23175",
+  "occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+  "task_text": "Train workers in proper operational procedures and functions and explain company policies."
+ },
+ {
+  "task_id": "13140",
+  "occupation": "First-Line Supervisors of Personal Service Workers",
+  "task_text": "Train workers in proper operational procedures and functions and explain company policies."
+ },
+ {
+  "task_id": "13142",
+  "occupation": "First-Line Supervisors of Personal Service Workers",
+  "task_text": "Meet with managers or other supervisors to stay informed of changes affecting operations."
+ },
+ {
+  "task_id": "13138",
+  "occupation": "First-Line Supervisors of Personal Service Workers",
+  "task_text": "Assign work schedules, following work requirements, to ensure quality and timely delivery of service."
+ },
+ {
+  "task_id": "13151",
+  "occupation": "First-Line Supervisors of Personal Service Workers",
+  "task_text": "Recruit and hire staff members."
+ },
+ {
+  "task_id": "13145",
+  "occupation": "First-Line Supervisors of Personal Service Workers",
+  "task_text": "Resolve customer complaints regarding worker performance or services rendered."
+ },
+ {
+  "task_id": "13150",
+  "occupation": "First-Line Supervisors of Personal Service Workers",
+  "task_text": "Take disciplinary action to address performance problems."
+ },
+ {
+  "task_id": "13139",
+  "occupation": "First-Line Supervisors of Personal Service Workers",
+  "task_text": "Inspect work areas or operating equipment to ensure conformance to established standards in areas such as cleanliness or maintenance."
+ },
+ {
+  "task_id": "23179",
+  "occupation": "First-Line Supervisors of Personal Service Workers",
+  "task_text": "Investigate employee complaints and resolve problems following management rules and regulations."
+ },
+ {
+  "task_id": "13141",
+  "occupation": "First-Line Supervisors of Personal Service Workers",
+  "task_text": "Observe and evaluate workers' appearance and performance to ensure quality service and compliance with specifications."
+ },
+ {
+  "task_id": "23177",
+  "occupation": "First-Line Supervisors of Personal Service Workers",
+  "task_text": "Direct or coordinate the activities of workers, such as hotel staff or hair stylists."
+ },
+ {
+  "task_id": "13152",
+  "occupation": "First-Line Supervisors of Personal Service Workers",
+  "task_text": "Participate in continuing education to stay abreast of industry trends and developments."
+ },
+ {
+  "task_id": "23178",
+  "occupation": "First-Line Supervisors of Personal Service Workers",
+  "task_text": "Inform management about problems, such as employee disputes."
+ },
+ {
+  "task_id": "23176",
+  "occupation": "First-Line Supervisors of Personal Service Workers",
+  "task_text": "Arrange worker breaks to ensure services are adequately staffed throughout each shift."
+ },
+ {
+  "task_id": "20763",
+  "occupation": "First-Line Supervisors of Personal Service Workers",
+  "task_text": "Apply customer feedback to service improvement efforts."
+ },
+ {
+  "task_id": "13143",
+  "occupation": "First-Line Supervisors of Personal Service Workers",
+  "task_text": "Inform workers about interests or special needs of specific groups."
+ },
+ {
+  "task_id": "13146",
+  "occupation": "First-Line Supervisors of Personal Service Workers",
+  "task_text": "Requisition necessary supplies, equipment, or services."
+ },
+ {
+  "task_id": "13154",
+  "occupation": "First-Line Supervisors of Personal Service Workers",
+  "task_text": "Direct marketing, advertising, or other customer recruitment efforts."
+ },
+ {
+  "task_id": "7989",
+  "occupation": "Animal Trainers",
+  "task_text": "Cue or signal animals during performances."
+ },
+ {
+  "task_id": "7993",
+  "occupation": "Animal Trainers",
+  "task_text": "Talk to or interact with animals to familiarize them to human voices or contact."
+ },
+ {
+  "task_id": "20593",
+  "occupation": "Animal Trainers",
+  "task_text": "Conduct training programs to develop or maintain desired animal behaviors for competition, entertainment, obedience, security, riding, or related purposes."
+ },
+ {
+  "task_id": "7992",
+  "occupation": "Animal Trainers",
+  "task_text": "Feed or exercise animals or provide other general care, such as cleaning or maintaining holding or performance areas."
+ },
+ {
+  "task_id": "7988",
+  "occupation": "Animal Trainers",
+  "task_text": "Observe animals' physical conditions to detect illness or unhealthy conditions requiring medical care."
+ },
+ {
+  "task_id": "7991",
+  "occupation": "Animal Trainers",
+  "task_text": "Evaluate animals to determine their temperaments, abilities, or aptitude for training."
+ },
+ {
+  "task_id": "7990",
+  "occupation": "Animal Trainers",
+  "task_text": "Administer prescribed medications to animals."
+ },
+ {
+  "task_id": "7995",
+  "occupation": "Animal Trainers",
+  "task_text": "Keep records documenting animal health, diet, or behavior."
+ },
+ {
+  "task_id": "20594",
+  "occupation": "Animal Trainers",
+  "task_text": "Evaluate animals for trainability and ability to perform."
+ },
+ {
+  "task_id": "7996",
+  "occupation": "Animal Trainers",
+  "task_text": "Advise animal owners regarding the purchase of specific animals."
+ },
+ {
+  "task_id": "7998",
+  "occupation": "Animal Trainers",
+  "task_text": "Train horses or other equines for riding, harness, show, racing, or other work, using knowledge of breed characteristics, training methods, performance standards, and the peculiarities of each animal."
+ },
+ {
+  "task_id": "7999",
+  "occupation": "Animal Trainers",
+  "task_text": "Use oral, spur, rein, or hand commands to condition horses to carry riders or to pull horse-drawn equipment."
+ },
+ {
+  "task_id": "8002",
+  "occupation": "Animal Trainers",
+  "task_text": "Retrain horses to break bad habits, such as kicking, bolting, or resisting bridling or grooming."
+ },
+ {
+  "task_id": "8001",
+  "occupation": "Animal Trainers",
+  "task_text": "Train dogs in human assistance or property protection duties."
+ },
+ {
+  "task_id": "8004",
+  "occupation": "Animal Trainers",
+  "task_text": "Organize or conduct animal shows."
+ },
+ {
+  "task_id": "5072",
+  "occupation": "Animal Caretakers",
+  "task_text": "Feed and water animals according to schedules and feeding instructions."
+ },
+ {
+  "task_id": "5077",
+  "occupation": "Animal Caretakers",
+  "task_text": "Provide treatment to sick or injured animals, or contact veterinarians to secure treatment."
+ },
+ {
+  "task_id": "5075",
+  "occupation": "Animal Caretakers",
+  "task_text": "Examine and observe animals to detect signs of illness, disease, or injury."
+ },
+ {
+  "task_id": "5082",
+  "occupation": "Animal Caretakers",
+  "task_text": "Mix food, liquid formulas, medications, or food supplements according to instructions, prescriptions, and knowledge of animal species."
+ },
+ {
+  "task_id": "20132",
+  "occupation": "Animal Caretakers",
+  "task_text": "Do facility laundry and clean, organize, maintain, and disinfect animal quarters, such as pens and stables, and equipment, such as saddles and bridles."
+ },
+ {
+  "task_id": "5080",
+  "occupation": "Animal Caretakers",
+  "task_text": "Exercise animals to maintain their physical and mental health."
+ },
+ {
+  "task_id": "5078",
+  "occupation": "Animal Caretakers",
+  "task_text": "Collect and record animal information, such as weight, size, physical condition, treatments received, medications given, and food intake."
+ },
+ {
+  "task_id": "5076",
+  "occupation": "Animal Caretakers",
+  "task_text": "Respond to questions from patrons, and provide information about animals, such as behavior, habitat, breeding habits, or facility activities."
+ },
+ {
+  "task_id": "5074",
+  "occupation": "Animal Caretakers",
+  "task_text": "Answer telephones and schedule appointments."
+ },
+ {
+  "task_id": "21150",
+  "occupation": "Animal Caretakers",
+  "task_text": "Advise pet owners on how to care for their pets' health."
+ },
+ {
+  "task_id": "5079",
+  "occupation": "Animal Caretakers",
+  "task_text": "Perform animal grooming duties, such as washing, brushing, clipping, and trimming coats, cutting nails, and cleaning ears."
+ },
+ {
+  "task_id": "5085",
+  "occupation": "Animal Caretakers",
+  "task_text": "Observe and caution children petting and feeding animals in designated areas to ensure the safety of humans and animals."
+ },
+ {
+  "task_id": "5083",
+  "occupation": "Animal Caretakers",
+  "task_text": "Clean and disinfect surgical equipment."
+ }
+]

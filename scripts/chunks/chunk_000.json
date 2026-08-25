@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "66",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Monitor and analyze sales records, trends, or economic conditions to anticipate consumer buying patterns, company sales, and needed inventory."
+ },
+ {
+  "task_id": "68",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Authorize payment of invoices or return of merchandise."
+ },
+ {
+  "task_id": "72",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Consult with store or merchandise managers about budgets or goods to be purchased."
+ },
+ {
+  "task_id": "76",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Train or supervise sales or clerical staff."
+ },
+ {
+  "task_id": "77",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Provide clerks with information to print on price tags, such as price, mark-ups or mark-downs, manufacturer number, season code, or style number."
+ },
+ {
+  "task_id": "78",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Determine which products should be featured in advertising, the advertising medium to be used, or when the ads should be run."
+ },
+ {
+  "task_id": "79",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Monitor competitors' sales activities by following their advertisements in newspapers or other media."
+ },
+ {
+  "task_id": "80",
+  "occupation": "Cost Estimators",
+  "task_text": "Analyze blueprints and other documentation to prepare time, cost, materials, and labor estimates."
+ },
+ {
+  "task_id": "81",
+  "occupation": "Cost Estimators",
+  "task_text": "Assess cost effectiveness of products, projects or services, tracking actual costs relative to bids as the project develops."
+ },
+ {
+  "task_id": "82",
+  "occupation": "Cost Estimators",
+  "task_text": "Consult with clients, vendors, personnel in other departments, or construction foremen to discuss and formulate estimates and resolve issues."
+ },
+ {
+  "task_id": "83",
+  "occupation": "Cost Estimators",
+  "task_text": "Confer with engineers, architects, owners, contractors, and subcontractors on changes and adjustments to cost estimates."
+ },
+ {
+  "task_id": "84",
+  "occupation": "Cost Estimators",
+  "task_text": "Prepare estimates used by management for purposes such as planning, organizing, and scheduling work."
+ },
+ {
+  "task_id": "85",
+  "occupation": "Cost Estimators",
+  "task_text": "Prepare estimates for use in selecting vendors or subcontractors."
+ },
+ {
+  "task_id": "86",
+  "occupation": "Cost Estimators",
+  "task_text": "Review material and labor requirements to decide whether it is more cost-effective to produce or purchase components."
+ },
+ {
+  "task_id": "87",
+  "occupation": "Cost Estimators",
+  "task_text": "Prepare cost and expenditure statements and other necessary documentation at regular intervals for the duration of the project."
+ },
+ {
+  "task_id": "88",
+  "occupation": "Cost Estimators",
+  "task_text": "Prepare and maintain a directory of suppliers, contractors and subcontractors."
+ },
+ {
+  "task_id": "89",
+  "occupation": "Cost Estimators",
+  "task_text": "Set up cost monitoring and reporting systems and procedures."
+ },
+ {
+  "task_id": "90",
+  "occupation": "Cost Estimators",
+  "task_text": "Establish and maintain tendering process, and conduct negotiations."
+ },
+ {
+  "task_id": "91",
+  "occupation": "Cost Estimators",
+  "task_text": "Conduct special studies to develop and establish standard hour and related cost data or to reduce cost."
+ },
+ {
+  "task_id": "92",
+  "occupation": "Cost Estimators",
+  "task_text": "Visit site and record information about access, drainage and topography, and availability of utility services."
+ },
+ {
+  "task_id": "93",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Keep up with developments in area of expertise by reading current journals, books, or magazine articles."
+ },
+ {
+  "task_id": "94",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Present information with a variety of instructional techniques or formats, such as role playing, simulations, team exercises, group discussions, videos, or lectures."
+ },
+ {
+  "task_id": "95",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Schedule classes based on availability of classrooms, equipment, or instructors."
+ },
+ {
+  "task_id": "97",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Offer specific training programs to help workers maintain or improve job skills."
+ },
+ {
+  "task_id": "98",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Monitor, evaluate, or record training activities or program effectiveness."
+ },
+ {
+  "task_id": "99",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Attend meetings or seminars to obtain information for use in training programs or to inform management of training program status."
+ },
+ {
+  "task_id": "100",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Coordinate recruitment and placement of training program participants."
+ },
+ {
+  "task_id": "101",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Evaluate training materials prepared by instructors, such as outlines, text, or handouts."
+ },
+ {
+  "task_id": "102",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Develop alternative training methods if expected improvements are not seen."
+ },
+ {
+  "task_id": "103",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Assess training needs through surveys, interviews with employees, focus groups, or consultation with managers, instructors, or customer representatives."
+ },
+ {
+  "task_id": "105",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Select and assign instructors to conduct training."
+ },
+ {
+  "task_id": "106",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Devise programs to develop executive potential among employees in lower-level positions."
+ },
+ {
+  "task_id": "108",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Negotiate contracts with clients for desired training outcomes, fees, or expenses."
+ },
+ {
+  "task_id": "111",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Refer trainees to employer relations representatives, to locations offering job placement assistance, or to appropriate social services agencies, if warranted."
+ },
+ {
+  "task_id": "314",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Assess nutritional needs, diet restrictions, and current health plans to develop and implement dietary-care plans and provide nutritional counseling."
+ },
+ {
+  "task_id": "315",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Consult with physicians and health care personnel to determine nutritional needs and diet restrictions of patient or client."
+ },
+ {
+  "task_id": "316",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Advise patients and their families on nutritional principles, dietary plans, diet modifications, and food selection and preparation."
+ },
+ {
+  "task_id": "317",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Counsel individuals and groups on basic rules of good nutrition, healthy eating habits, and nutrition monitoring to improve their quality of life."
+ },
+ {
+  "task_id": "318",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Monitor food service operations to ensure conformance to nutritional, safety, sanitation and quality standards."
+ },
+ {
+  "task_id": "319",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Coordinate recipe development and standardization and develop new menus for independent food service operations."
+ },
+ {
+  "task_id": "320",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Develop policies for food service or nutritional programs to assist in health promotion and disease control."
+ },
+ {
+  "task_id": "321",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Inspect meals served for conformance to prescribed diets and standards of palatability and appearance."
+ },
+ {
+  "task_id": "322",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Develop curriculum and prepare manuals, visual aids, course outlines, and other materials used in teaching."
+ },
+ {
+  "task_id": "323",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Prepare and administer budgets for food, equipment, and supplies."
+ },
+ {
+  "task_id": "324",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Purchase food in accordance with health and safety codes."
+ },
+ {
+  "task_id": "325",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Select, train, and supervise workers who plan, prepare, and serve meals."
+ },
+ {
+  "task_id": "326",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Manage quantity food service departments or clinical and community nutrition services."
+ },
+ {
+  "task_id": "327",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Coordinate diet counseling services."
+ },
+ {
+  "task_id": "328",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Advise food service managers and organizations on sanitation, safety procedures, menu development, budgeting, and planning to assist with establishment, operation, and evaluation of food service facil"
+ },
+ {
+  "task_id": "329",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Organize, develop, analyze, test, and prepare special meals, such as low-fat, low-cholesterol, or chemical-free meals."
+ },
+ {
+  "task_id": "330",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Plan, conduct, and evaluate dietary, nutritional, and epidemiological research."
+ },
+ {
+  "task_id": "331",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Plan and conduct training programs in dietetics, nutrition, and institutional management and administration for medical students, health-care personnel, and the general public."
+ },
+ {
+  "task_id": "332",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Make recommendations regarding public policy, such as nutrition labeling, food fortification, or nutrition standards for school programs."
+ },
+ {
+  "task_id": "333",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Write research reports and other publications to document and communicate research findings."
+ },
+ {
+  "task_id": "334",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Plan and prepare grant proposals to request program funding."
+ },
+ {
+  "task_id": "335",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Test new food products and equipment."
+ },
+ {
+  "task_id": "336",
+  "occupation": "Dietitians and Nutritionists",
+  "task_text": "Confer with design, building, and equipment personnel to plan for construction and remodeling of food service units."
+ },
+ {
+  "task_id": "337",
+  "occupation": "Optometrists",
+  "task_text": "Examine eyes, using observation, instruments, and pharmaceutical agents, to determine visual acuity and perception, focus, and coordination and to diagnose diseases and other abnormalities, such as gl"
+ },
+ {
+  "task_id": "338",
+  "occupation": "Optometrists",
+  "task_text": "Analyze test results and develop a treatment plan."
+ },
+ {
+  "task_id": "339",
+  "occupation": "Optometrists",
+  "task_text": "Prescribe, supply, fit and adjust eyeglasses, contact lenses, and other vision aids."
+ },
+ {
+  "task_id": "340",
+  "occupation": "Optometrists",
+  "task_text": "Prescribe medications to treat eye diseases if state laws permit."
+ },
+ {
+  "task_id": "341",
+  "occupation": "Optometrists",
+  "task_text": "Educate and counsel patients on contact lens care, visual hygiene, lighting arrangements, and safety factors."
+ },
+ {
+  "task_id": "342",
+  "occupation": "Optometrists",
+  "task_text": "Consult with and refer patients to ophthalmologist or other health care practitioner if additional medical treatment is determined necessary."
+ },
+ {
+  "task_id": "343",
+  "occupation": "Optometrists",
+  "task_text": "Remove foreign bodies from the eye."
+ },
+ {
+  "task_id": "344",
+  "occupation": "Optometrists",
+  "task_text": "Provide patients undergoing eye surgeries, such as cataract and laser vision correction, with pre- and post-operative care."
+ },
+ {
+  "task_id": "345",
+  "occupation": "Optometrists",
+  "task_text": "Prescribe therapeutic procedures to correct or conserve vision."
+ },
+ {
+  "task_id": "346",
+  "occupation": "Optometrists",
+  "task_text": "Provide vision therapy and low-vision rehabilitation."
+ },
+ {
+  "task_id": "347",
+  "occupation": "Occupational Therapists",
+  "task_text": "Complete and maintain necessary records."
+ },
+ {
+  "task_id": "348",
+  "occupation": "Occupational Therapists",
+  "task_text": "Evaluate patients' progress and prepare reports that detail progress."
+ },
+ {
+  "task_id": "349",
+  "occupation": "Occupational Therapists",
+  "task_text": "Test and evaluate patients' physical and mental abilities and analyze medical data to determine realistic rehabilitation goals for patients."
+ },
+ {
+  "task_id": "350",
+  "occupation": "Occupational Therapists",
+  "task_text": "Select activities that will help individuals learn work and life-management skills within limits of their mental or physical capabilities."
+ },
+ {
+  "task_id": "351",
+  "occupation": "Occupational Therapists",
+  "task_text": "Plan, organize, and conduct occupational therapy programs in hospital, institutional, or community settings to help rehabilitate persons with disabilities because of illness, injury or psychological o"
+ },
+ {
+  "task_id": "352",
+  "occupation": "Occupational Therapists",
+  "task_text": "Recommend changes in patients' work or living environments, consistent with their needs and capabilities."
+ },
+ {
+  "task_id": "353",
+  "occupation": "Occupational Therapists",
+  "task_text": "Consult with rehabilitation team to select activity programs or coordinate occupational therapy with other therapeutic activities."
+ },
+ {
+  "task_id": "354",
+  "occupation": "Occupational Therapists",
+  "task_text": "Help clients improve decision making, abstract reasoning, memory, sequencing, coordination, and perceptual skills, using computer programs."
+ },
+ {
+  "task_id": "355",
+  "occupation": "Occupational Therapists",
+  "task_text": "Develop and participate in health promotion programs, group activities, or discussions to promote client health, facilitate social adjustment, alleviate stress, and prevent physical or mental disabili"
+ },
+ {
+  "task_id": "356",
+  "occupation": "Occupational Therapists",
+  "task_text": "Provide training and supervision in therapy techniques and objectives for students or nurses and other medical staff."
+ },
+ {
+  "task_id": "357",
+  "occupation": "Occupational Therapists",
+  "task_text": "Design and create, or requisition, special supplies and equipment, such as splints, braces, and computer-aided adaptive equipment."
+ },
+ {
+  "task_id": "358",
+  "occupation": "Occupational Therapists",
+  "task_text": "Plan and implement programs and social activities to help patients learn work or school skills and adjust to handicaps."
+ },
+ {
+  "task_id": "359",
+  "occupation": "Occupational Therapists",
+  "task_text": "Lay out materials such as puzzles, scissors and eating utensils for use in therapy, and clean and repair these tools after therapy sessions."
+ },
+ {
+  "task_id": "360",
+  "occupation": "Occupational Therapists",
+  "task_text": "Advise on health risks in the workplace or on health-related transition to retirement."
+ },
+ {
+  "task_id": "361",
+  "occupation": "Occupational Therapists",
+  "task_text": "Conduct research in occupational therapy."
+ },
+ {
+  "task_id": "362",
+  "occupation": "Occupational Therapists",
+  "task_text": "Provide patients with assistance in locating or holding jobs."
+ },
+ {
+  "task_id": "363",
+  "occupation": "Physical Therapists",
+  "task_text": "Plan, prepare, or carry out individually designed programs of physical treatment to maintain, improve, or restore physical functioning, alleviate pain, or prevent physical dysfunction in patients."
+ },
+ {
+  "task_id": "364",
+  "occupation": "Physical Therapists",
+  "task_text": "Perform and document an initial exam, evaluating data to identify problems and determine a diagnosis prior to intervention."
+ },
+ {
+  "task_id": "365",
+  "occupation": "Physical Therapists",
+  "task_text": "Evaluate effects of treatment at various stages and adjust treatments to achieve maximum benefit."
+ },
+ {
+  "task_id": "366",
+  "occupation": "Physical Therapists",
+  "task_text": "Administer manual exercises, massage, or traction to help relieve pain, increase patient strength, or decrease or prevent deformity or crippling."
+ },
+ {
+  "task_id": "367",
+  "occupation": "Physical Therapists",
+  "task_text": "Instruct patient and family in treatment procedures to be continued at home."
+ },
+ {
+  "task_id": "368",
+  "occupation": "Physical Therapists",
+  "task_text": "Confer with the patient, medical practitioners, or appropriate others to plan, implement, or assess the intervention program."
+ },
+ {
+  "task_id": "369",
+  "occupation": "Physical Therapists",
+  "task_text": "Review physician's referral and patient's medical records to help determine diagnosis and physical therapy treatment required."
+ },
+ {
+  "task_id": "370",
+  "occupation": "Physical Therapists",
+  "task_text": "Record prognosis, treatment, response, and progress in patient's chart or enter information into computer."
+ },
+ {
+  "task_id": "371",
+  "occupation": "Physical Therapists",
+  "task_text": "Obtain patients' informed consent to proposed interventions."
+ },
+ {
+  "task_id": "372",
+  "occupation": "Physical Therapists",
+  "task_text": "Discharge patient from physical therapy when goals or projected outcomes have been attained and provide for appropriate follow-up care or referrals."
+ },
+ {
+  "task_id": "373",
+  "occupation": "Physical Therapists",
+  "task_text": "Test and measure patient's strength, motor development and function, sensory perception, functional capacity, or respiratory or circulatory efficiency and record data."
+ },
+ {
+  "task_id": "374",
+  "occupation": "Physical Therapists",
+  "task_text": "Identify and document goals, anticipated progress, and plans for reevaluation."
+ },
+ {
+  "task_id": "375",
+  "occupation": "Physical Therapists",
+  "task_text": "Provide information to the patient about the proposed intervention, its material risks and expected benefits, and any reasonable alternatives."
+ },
+ {
+  "task_id": "377",
+  "occupation": "Physical Therapists",
+  "task_text": "Direct, supervise, assess, and communicate with supportive personnel."
+ },
+ {
+  "task_id": "378",
+  "occupation": "Physical Therapists",
+  "task_text": "Administer treatment involving application of physical agents, using equipment, moist packs, ultraviolet or infrared lamps, or ultrasound machines."
+ },
+ {
+  "task_id": "379",
+  "occupation": "Physical Therapists",
+  "task_text": "Teach physical therapy students or those in other health professions."
+ },
+ {
+  "task_id": "380",
+  "occupation": "Physical Therapists",
+  "task_text": "Evaluate, fit, or adjust prosthetic or orthotic devices or recommend modification to orthotist."
+ },
+ {
+  "task_id": "381",
+  "occupation": "Physical Therapists",
+  "task_text": "Provide educational information about physical therapy or physical therapists, injury prevention, ergonomics, or ways to promote health."
+ },
+ {
+  "task_id": "382",
+  "occupation": "Physical Therapists",
+  "task_text": "Refer clients to community resources or services."
+ },
+ {
+  "task_id": "383",
+  "occupation": "Physical Therapists",
+  "task_text": "Conduct or support research and apply research findings to practice."
+ },
+ {
+  "task_id": "384",
+  "occupation": "Physical Therapists",
+  "task_text": "Participate in community or community agency activities or help to formulate public policy."
+ },
+ {
+  "task_id": "385",
+  "occupation": "Physical Therapists",
+  "task_text": "Construct, maintain, or repair medical supportive devices."
+ },
+ {
+  "task_id": "386",
+  "occupation": "Physical Therapists",
+  "task_text": "Direct group rehabilitation activities."
+ },
+ {
+  "task_id": "387",
+  "occupation": "Recreational Therapists",
+  "task_text": "Observe, analyze, and record patients' participation, reactions, and progress during treatment sessions, modifying treatment programs as needed."
+ },
+ {
+  "task_id": "388",
+  "occupation": "Recreational Therapists",
+  "task_text": "Develop treatment plan to meet needs of patient, based on needs assessment, patient interests, and objectives of therapy."
+ },
+ {
+  "task_id": "389",
+  "occupation": "Recreational Therapists",
+  "task_text": "Encourage clients with special needs and circumstances to acquire new skills and get involved in health-promoting leisure activities, such as sports, games, arts and crafts, and gardening."
+ },
+ {
+  "task_id": "390",
+  "occupation": "Recreational Therapists",
+  "task_text": "Counsel and encourage patients to develop leisure activities."
+ },
+ {
+  "task_id": "391",
+  "occupation": "Recreational Therapists",
+  "task_text": "Confer with members of treatment team to plan and evaluate therapy programs."
+ },
+ {
+  "task_id": "392",
+  "occupation": "Recreational Therapists",
+  "task_text": "Conduct therapy sessions to improve patients' mental and physical well-being."
+ },
+ {
+  "task_id": "393",
+  "occupation": "Recreational Therapists",
+  "task_text": "Instruct patient in activities and techniques, such as sports, dance, music, art, or relaxation techniques, designed to meet their specific physical or psychological needs."
+ },
+ {
+  "task_id": "394",
+  "occupation": "Recreational Therapists",
+  "task_text": "Obtain information from medical records, medical staff, family members and the patients, themselves, to assess patients' capabilities, needs and interests."
+ },
+ {
+  "task_id": "395",
+  "occupation": "Recreational Therapists",
+  "task_text": "Plan, organize, direct, and participate in treatment programs and activities to facilitate patients' rehabilitation, help them integrate into the community, and prevent further medical problems."
+ },
+ {
+  "task_id": "396",
+  "occupation": "Recreational Therapists",
+  "task_text": "Prepare and submit reports and charts to treatment team to reflect patients' reactions and evidence of progress or regression."
+ },
+ {
+  "task_id": "397",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Set up and operate devices, such as mechanical ventilators, therapeutic gas administration apparatus, environmental control systems, or aerosol generators, following specified parameters of treatment."
+ },
+ {
+  "task_id": "398",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Provide emergency care, such as artificial respiration, external cardiac massage, or assistance with cardiopulmonary resuscitation."
+ },
+ {
+  "task_id": "399",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Determine requirements for treatment, such as type, method and duration of therapy, precautions to be taken, or medication and dosages, compatible with physicians' orders."
+ },
+ {
+  "task_id": "400",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Monitor patient's physiological responses to therapy, such as vital signs, arterial blood gases, or blood chemistry changes, and consult with physician if adverse reactions occur."
+ },
+ {
+  "task_id": "401",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Read prescription, measure arterial blood gases, and review patient information to assess patient condition."
+ },
+ {
+  "task_id": "403",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Enforce safety rules and ensure careful adherence to physicians' orders."
+ },
+ {
+  "task_id": "404",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Maintain charts that contain patients' pertinent identification and therapy information."
+ },
+ {
+  "task_id": "405",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Inspect, clean, test, and maintain respiratory therapy equipment to ensure equipment is functioning safely and efficiently, ordering repairs when necessary."
+ },
+ {
+  "task_id": "406",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Educate patients and their families about their conditions and teach appropriate disease management techniques, such as breathing exercises or the use of medications or respiratory equipment."
+ },
+ {
+  "task_id": "407",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Explain treatment procedures to patients to gain cooperation and allay fears."
+ },
+ {
+  "task_id": "408",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Relay blood analysis results to a physician."
+ },
+ {
+  "task_id": "409",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Perform pulmonary function and adjust equipment to obtain optimum results in therapy."
+ },
+ {
+  "task_id": "410",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Perform bronchopulmonary drainage and assist or instruct patients in performance of breathing exercises."
+ },
+ {
+  "task_id": "411",
+  "occupation": "Respiratory Therapists",
+  "task_text": "Demonstrate respiratory care procedures to trainees or other healthcare personnel."
+ }
+]

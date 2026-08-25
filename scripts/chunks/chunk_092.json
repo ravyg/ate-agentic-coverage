@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "2107",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Use weapons, handcuffs, and physical force to maintain discipline and order among prisoners."
+ },
+ {
+  "task_id": "15261",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Use nondisciplinary tools and equipment, such as a computer."
+ },
+ {
+  "task_id": "2108",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Conduct fire, safety, and sanitation inspections."
+ },
+ {
+  "task_id": "2105",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Take prisoners into custody and escort to locations within and outside of facility, such as visiting room, courtroom, or airport."
+ },
+ {
+  "task_id": "15258",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Participate in required job training."
+ },
+ {
+  "task_id": "15259",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Serve meals, distribute commissary items, and dispense prescribed medication to prisoners."
+ },
+ {
+  "task_id": "2110",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Settle disputes between inmates."
+ },
+ {
+  "task_id": "2109",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Provide to supervisors oral and written reports of the quality and quantity of work performed by inmates, inmate disturbances and rule violations, and unusual occurrences."
+ },
+ {
+  "task_id": "2111",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Drive passenger vehicles and trucks used to transport inmates to other institutions, courtrooms, hospitals, and work sites."
+ },
+ {
+  "task_id": "15260",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Counsel inmates and respond to legitimate questions, concerns, and requests."
+ },
+ {
+  "task_id": "2113",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Assign duties to inmates, providing instructions as needed."
+ },
+ {
+  "task_id": "2114",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Issue clothing, tools, and other authorized items to inmates."
+ },
+ {
+  "task_id": "2112",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Arrange daily schedules for prisoners, including library visits, work assignments, family visits, and counseling appointments."
+ },
+ {
+  "task_id": "2103",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Search for and recapture escapees."
+ },
+ {
+  "task_id": "15257",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Process or book convicted individuals into prison."
+ },
+ {
+  "task_id": "2118",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Supervise and coordinate work of other correctional service officers."
+ },
+ {
+  "task_id": "23976",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Take fingerprints of arrestees, prisoners, or the general public."
+ },
+ {
+  "task_id": "2116",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Investigate crimes that have occurred within an institution, or assist police in their investigations of crimes and inmates."
+ },
+ {
+  "task_id": "2119",
+  "occupation": "Correctional Officers and Jailers",
+  "task_text": "Sponsor inmate recreational activities, such as newspapers and self-help groups."
+ },
+ {
+  "task_id": "23021",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Check victims for signs of life, such as breathing and pulse."
+ },
+ {
+  "task_id": "23022",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Obtain facts or statements from complainants, witnesses, and accused persons and record interviews, using recording device."
+ },
+ {
+  "task_id": "23023",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Secure deceased body and obtain evidence from it, preventing bystanders from tampering with it prior to medical examiner's arrival."
+ },
+ {
+  "task_id": "23024",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Record progress of investigation, maintain informational files on suspects, and submit reports to commanding officer or magistrate to authorize warrants."
+ },
+ {
+  "task_id": "23029",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Prepare reports that detail investigation findings."
+ },
+ {
+  "task_id": "23025",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Prepare charges or responses to charges, or information for court cases, according to formalized procedures."
+ },
+ {
+  "task_id": "23026",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Preserve, process, and analyze items of evidence obtained from crime scenes and suspects, placing them in proper containers and destroying evidence no longer needed."
+ },
+ {
+  "task_id": "23027",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Obtain summary of incident from officer in charge at crime scene, taking care to avoid disturbing evidence."
+ },
+ {
+  "task_id": "23028",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Note, mark, and photograph location of objects found, such as footprints, tire tracks, bullets and bloodstains, and take measurements of the scene."
+ },
+ {
+  "task_id": "23030",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Examine records and governmental agency files to find identifying data about suspects."
+ },
+ {
+  "task_id": "23031",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Secure persons at scene, keeping witnesses from conversing or leaving the scene before investigators arrive."
+ },
+ {
+  "task_id": "23032",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Provide information to lab personnel concerning the source of an item of evidence and tests to be performed."
+ },
+ {
+  "task_id": "23033",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Analyze completed police reports to determine what additional information and investigative work is needed."
+ },
+ {
+  "task_id": "23050",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Examine records to locate links in chains of evidence or information."
+ },
+ {
+  "task_id": "23045",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Search for and collect evidence, such as fingerprints, using investigative equipment."
+ },
+ {
+  "task_id": "23035",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Prepare and serve search and arrest warrants."
+ },
+ {
+  "task_id": "23036",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Question individuals or observe persons and establishments to confirm information given to patrol officers."
+ },
+ {
+  "task_id": "23046",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Determine scope, timing, and direction of investigations."
+ },
+ {
+  "task_id": "23034",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Obtain and verify evidence by interviewing and observing suspects and witnesses or by analyzing records."
+ },
+ {
+  "task_id": "23038",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Participate or assist in raids and arrests."
+ },
+ {
+  "task_id": "23039",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Organize scene search, assigning specific tasks and areas of search to individual officers and obtaining adequate lighting as necessary."
+ },
+ {
+  "task_id": "23040",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Summon medical help for injured individuals and alert medical personnel to take statements from them."
+ },
+ {
+  "task_id": "23041",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Notify command of situation and request assistance."
+ },
+ {
+  "task_id": "23043",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Block or rope off scene and check perimeter to ensure that entire scene is secured."
+ },
+ {
+  "task_id": "23037",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Identify case issues and evidence needed, based on analysis of charges, complaints, or allegations of law violations."
+ },
+ {
+  "task_id": "23044",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Notify, or request notification of, medical examiner or district attorney representative."
+ },
+ {
+  "task_id": "23048",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Collaborate with other offices and agencies to exchange information and coordinate activities."
+ },
+ {
+  "task_id": "23047",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Maintain surveillance of establishments to obtain identifying information on suspects."
+ },
+ {
+  "task_id": "23042",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Testify before grand juries concerning criminal activity investigations."
+ },
+ {
+  "task_id": "23049",
+  "occupation": "Detectives and Criminal Investigators",
+  "task_text": "Perform undercover assignments and maintain surveillance, including monitoring authorized wiretaps."
+ },
+ {
+  "task_id": "2120",
+  "occupation": "Police Identification and Records Officers",
+  "task_text": "Photograph crime or accident scenes for evidence records."
+ },
+ {
+  "task_id": "18708",
+  "occupation": "Police Identification and Records Officers",
+  "task_text": "Maintain records of evidence and write and review reports."
+ },
+ {
+  "task_id": "18709",
+  "occupation": "Police Identification and Records Officers",
+  "task_text": "Submit evidence to supervisors, crime labs, or court officials for legal proceedings."
+ },
+ {
+  "task_id": "2121",
+  "occupation": "Police Identification and Records Officers",
+  "task_text": "Testify in court and present evidence."
+ },
+ {
+  "task_id": "2123",
+  "occupation": "Police Identification and Records Officers",
+  "task_text": "Look for trace evidence, such as fingerprints, hairs, fibers, or shoe impressions, using alternative light sources when necessary."
+ },
+ {
+  "task_id": "2122",
+  "occupation": "Police Identification and Records Officers",
+  "task_text": "Dust selected areas of crime scene and lift latent fingerprints, adhering to proper preservation procedures."
+ },
+ {
+  "task_id": "21036",
+  "occupation": "Police Identification and Records Officers",
+  "task_text": "Analyze and process evidence at crime scenes, during autopsies, or in the laboratory, wearing protective equipment and using powders and chemicals."
+ },
+ {
+  "task_id": "2125",
+  "occupation": "Police Identification and Records Officers",
+  "task_text": "Package, store and retrieve evidence."
+ },
+ {
+  "task_id": "2129",
+  "occupation": "Police Identification and Records Officers",
+  "task_text": "Process film and prints from crime or accident scenes."
+ },
+ {
+  "task_id": "24007",
+  "occupation": "Police Identification and Records Officers",
+  "task_text": "Take fingerprints."
+ },
+ {
+  "task_id": "2127",
+  "occupation": "Police Identification and Records Officers",
+  "task_text": "Perform emergency work during off-hours."
+ },
+ {
+  "task_id": "18711",
+  "occupation": "Police Identification and Records Officers",
+  "task_text": "Serve as technical advisor and coordinate with other law enforcement workers or legal personnel to exchange information on crime scene collection activities."
+ },
+ {
+  "task_id": "21037",
+  "occupation": "Police Identification and Records Officers",
+  "task_text": "Create sketches and diagrams, by hand or computer software, to depict crime scenes."
+ },
+ {
+  "task_id": "18712",
+  "occupation": "Police Identification and Records Officers",
+  "task_text": "Coordinate or conduct instructional classes or in-services, such as citizen police academy classes and crime scene training for other officers."
+ },
+ {
+  "task_id": "18710",
+  "occupation": "Police Identification and Records Officers",
+  "task_text": "Identify, compare, classify, and file fingerprints, using systems such as Automated Fingerprint Identification System (AFIS) or the Henry Classification System."
+ },
+ {
+  "task_id": "18713",
+  "occupation": "Police Identification and Records Officers",
+  "task_text": "Interview survivors, witnesses, suspects, and other law enforcement personnel."
+ },
+ {
+  "task_id": "17555",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Validate known intelligence with data from other sources."
+ },
+ {
+  "task_id": "17549",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Gather, analyze, correlate, or evaluate information from a variety of resources, such as law enforcement databases."
+ },
+ {
+  "task_id": "17546",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Evaluate records of communications, such as telephone calls, to plot activity and determine the size and location of criminal groups and members."
+ },
+ {
+  "task_id": "17548",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Gather intelligence information by field observation, confidential information sources, or public records."
+ },
+ {
+  "task_id": "21199",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Analyze intelligence data to identify patterns and trends in criminal activity."
+ },
+ {
+  "task_id": "17552",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Prepare comprehensive written reports, presentations, maps, or charts, based on research, collection, and analysis of intelligence data."
+ },
+ {
+  "task_id": "17556",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Collaborate with representatives from other government and intelligence organizations to share information or coordinate intelligence activities."
+ },
+ {
+  "task_id": "17550",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Link or chart suspects to criminal organizations or events to determine activities and interrelationships."
+ },
+ {
+  "task_id": "17545",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Establish criminal profiles to aid in connecting criminal organizations with their members."
+ },
+ {
+  "task_id": "23997",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Identify gaps in information."
+ },
+ {
+  "task_id": "17544",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Design, use, or maintain databases and software applications, such as geographic information systems (GIS) mapping and artificial intelligence tools."
+ },
+ {
+  "task_id": "17542",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Predict future gang, organized crime, or terrorist activity, using analyses of intelligence data."
+ },
+ {
+  "task_id": "17543",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Study activities relating to narcotics, money laundering, gangs, auto theft rings, terrorism, or other national security threats."
+ },
+ {
+  "task_id": "17554",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Study the assets of criminal suspects to determine the flow of money from or to targeted groups."
+ },
+ {
+  "task_id": "21200",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Conduct presentations of analytic findings."
+ },
+ {
+  "task_id": "17557",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Develop defense plans or tactics, using intelligence and other information."
+ },
+ {
+  "task_id": "17558",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Interview, interrogate, or interact with witnesses or crime suspects to collect human intelligence."
+ },
+ {
+  "task_id": "17553",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Prepare plans to intercept foreign communications transmissions."
+ },
+ {
+  "task_id": "17559",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Study communication code languages or foreign languages to translate intelligence."
+ },
+ {
+  "task_id": "17547",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Gather and evaluate information, using tools such as aerial photographs, radar equipment, or sensitive radio equipment."
+ },
+ {
+  "task_id": "17551",
+  "occupation": "Intelligence Analysts",
+  "task_text": "Operate cameras, radios, or other surveillance equipment to intercept communications or document activities."
+ },
+ {
+  "task_id": "7915",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Patrol assigned areas by car, boat, airplane, horse, or on foot to enforce game, fish, or boating laws or to manage wildlife programs, lakes, or land."
+ },
+ {
+  "task_id": "20582",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Compile and present evidence for court actions."
+ },
+ {
+  "task_id": "20583",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Investigate hunting accidents or reports of fish or game law violations."
+ },
+ {
+  "task_id": "7918",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Protect and preserve native wildlife, plants, or ecosystems."
+ },
+ {
+  "task_id": "20584",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Issue warnings or citations and file reports as necessary."
+ },
+ {
+  "task_id": "20585",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Serve warrants and make arrests."
+ },
+ {
+  "task_id": "7921",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Provide assistance to other local law enforcement agencies as required."
+ },
+ {
+  "task_id": "7919",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Promote or provide hunter or trapper safety training."
+ },
+ {
+  "task_id": "20586",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Participate in search-and-rescue operations."
+ },
+ {
+  "task_id": "20587",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Arrange for disposition of fish or game illegally taken or possessed."
+ },
+ {
+  "task_id": "20588",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Seize equipment used in fish and game law violations."
+ },
+ {
+  "task_id": "7922",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Address schools, civic groups, sporting clubs, or the media to disseminate information concerning wildlife conservation and regulations."
+ },
+ {
+  "task_id": "7923",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Recommend revisions in hunting and trapping regulations or in animal management programs so that wildlife balances or habitats can be maintained."
+ },
+ {
+  "task_id": "7924",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Inspect commercial operations relating to fish or wildlife, recreation, or protected areas."
+ },
+ {
+  "task_id": "7926",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Survey areas and compile figures of bag counts of hunters to determine the effectiveness of control measures."
+ },
+ {
+  "task_id": "7925",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Collect and report information on populations or conditions of fish and wildlife in their habitats, availability of game food or cover, or suspected pollution."
+ },
+ {
+  "task_id": "7929",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Design or implement control measures to prevent or counteract damage caused by wildlife or people."
+ },
+ {
+  "task_id": "7933",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Provide advice or information to park or reserve visitors."
+ },
+ {
+  "task_id": "7928",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Investigate crop, property, or habitat damage or destruction or instances of water pollution to determine causes and to advise property owners of preventive measures."
+ },
+ {
+  "task_id": "7932",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Issue licenses, permits, or other documentation."
+ },
+ {
+  "task_id": "7930",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Document the extent of crop, property, or habitat damage and make financial loss estimates or compensation recommendations."
+ },
+ {
+  "task_id": "7931",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Supervise the activities of seasonal workers."
+ },
+ {
+  "task_id": "7934",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Perform facilities maintenance work, such as constructing or repairing structures or controlling weeds or pests."
+ },
+ {
+  "task_id": "20589",
+  "occupation": "Fish and Game Wardens",
+  "task_text": "Participate in firefighting efforts."
+ },
+ {
+  "task_id": "7951",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Enter and retrieve information pertaining to vehicle registration, identification, and status, using hand-held computers."
+ },
+ {
+  "task_id": "7935",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Patrol an assigned area by vehicle or on foot to ensure public compliance with existing parking ordinance."
+ },
+ {
+  "task_id": "7937",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Write warnings and citations for illegally parked vehicles."
+ },
+ {
+  "task_id": "7947",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Appear in court at hearings regarding contested traffic citations."
+ },
+ {
+  "task_id": "7945",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Maintain assigned equipment and supplies, such as hand-held citation computers, citation books, rain gear, tire-marking chalk, and street cones."
+ },
+ {
+  "task_id": "7939",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Respond to and make radio dispatch calls regarding parking violations and complaints."
+ },
+ {
+  "task_id": "7936",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Maintain close communications with dispatching personnel, using two-way radios or cell phones."
+ },
+ {
+  "task_id": "7942",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Perform simple vehicle maintenance procedures, such as checking oil and gas, and report mechanical problems to supervisors."
+ },
+ {
+  "task_id": "7943",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Observe and report hazardous conditions, such as missing traffic signals or signs, and street markings that need to be repainted."
+ },
+ {
+  "task_id": "7941",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Identify vehicles in violation of parking codes, checking with dispatchers when necessary to confirm identities or to determine whether vehicles need to be booted or towed."
+ },
+ {
+  "task_id": "7940",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Train new or temporary staff."
+ },
+ {
+  "task_id": "7948",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Make arrangements for illegally parked or abandoned vehicles to be towed, and direct tow-truck drivers to the correct vehicles."
+ },
+ {
+  "task_id": "7944",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Investigate and answer complaints regarding contested parking citations, determining their validity and routing them appropriately."
+ },
+ {
+  "task_id": "7946",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Provide information to the public regarding parking regulations and facilities, and the location of streets, buildings and points of interest."
+ },
+ {
+  "task_id": "7953",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Prepare and maintain required records, including logs of parking enforcement activities, and records of contested citations."
+ },
+ {
+  "task_id": "7949",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Perform traffic control duties such as setting up barricades and temporary signs, placing bags on parking meters to limit their use, or directing traffic."
+ },
+ {
+  "task_id": "7938",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Mark tires of parked vehicles with chalk and record time of marking, and return at regular intervals to ensure that parking time limits are not exceeded."
+ },
+ {
+  "task_id": "7954",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Locate lost, stolen, and counterfeit parking permits, and take necessary enforcement action."
+ },
+ {
+  "task_id": "7952",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Collect coins deposited in meters."
+ },
+ {
+  "task_id": "7955",
+  "occupation": "Parking Enforcement Workers",
+  "task_text": "Wind parking meter clocks."
+ }
+]

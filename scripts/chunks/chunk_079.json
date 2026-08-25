@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "6542",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Assign and grade class work and homework."
+ },
+ {
+  "task_id": "6544",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Prepare, administer, and grade tests and assignments to evaluate students' progress."
+ },
+ {
+  "task_id": "6548",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Prepare students for later grades by encouraging them to explore learning opportunities and to persevere with challenging tasks."
+ },
+ {
+  "task_id": "6547",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Maintain accurate and complete student records as required by laws, district policies, and administrative regulations."
+ },
+ {
+  "task_id": "6553",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Enforce administration policies and rules governing students."
+ },
+ {
+  "task_id": "6561",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Organize and lead activities designed to promote physical, mental, and social development, such as games, arts and crafts, music, and storytelling."
+ },
+ {
+  "task_id": "6552",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Provide a variety of materials and resources for children to explore, manipulate, and use, both in learning activities and in imaginative play."
+ },
+ {
+  "task_id": "6551",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Prepare objectives and outlines for courses of study, following curriculum guidelines or requirements of states and schools."
+ },
+ {
+  "task_id": "6557",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Prepare for assigned classes and show written evidence of preparation upon request of immediate supervisors."
+ },
+ {
+  "task_id": "6560",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Instruct and monitor students in the use and care of equipment and materials to prevent injuries and damage."
+ },
+ {
+  "task_id": "6554",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Confer with other staff members to plan and schedule lessons promoting learning, following approved curricula."
+ },
+ {
+  "task_id": "6558",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Collaborate with other teachers and administrators in the development, evaluation, and revision of elementary school programs."
+ },
+ {
+  "task_id": "6562",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Attend professional meetings, educational conferences, and teacher training workshops to maintain and improve professional competence."
+ },
+ {
+  "task_id": "6566",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Administer standardized ability and achievement tests, and interpret results to determine student strengths and needs."
+ },
+ {
+  "task_id": "6563",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Plan and supervise class projects, field trips, visits by guest speakers or other experiential activities, and guide students in learning from those activities."
+ },
+ {
+  "task_id": "6559",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Prepare reports on students and activities as required by administration."
+ },
+ {
+  "task_id": "6567",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Supervise, evaluate, and plan assignments for teacher assistants and volunteers."
+ },
+ {
+  "task_id": "6564",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Organize and label materials and display students' work."
+ },
+ {
+  "task_id": "6569",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Perform administrative duties, such as school library assistance, hall and cafeteria monitoring, and bus loading and unloading."
+ },
+ {
+  "task_id": "6565",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Attend staff meetings and serve on committees, as required."
+ },
+ {
+  "task_id": "6570",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Select, store, order, issue, and inventory classroom equipment, materials, and supplies."
+ },
+ {
+  "task_id": "6568",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Involve parent volunteers and older students in children's activities to facilitate involvement in focused, complex play."
+ },
+ {
+  "task_id": "6571",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Provide students with disabilities with assistive devices, supportive technology, and assistance accessing facilities, such as restrooms."
+ },
+ {
+  "task_id": "6572",
+  "occupation": "Elementary School Teachers, Except Special Education",
+  "task_text": "Sponsor extracurricular activities, such as clubs, student organizations, and academic contests."
+ },
+ {
+  "task_id": "6581",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Prepare materials and classrooms for class activities."
+ },
+ {
+  "task_id": "6580",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Observe and evaluate students' performance, behavior, social development, and physical health."
+ },
+ {
+  "task_id": "6575",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Instruct through lectures, discussions, and demonstrations in one or more subjects, such as English, mathematics, or social studies."
+ },
+ {
+  "task_id": "6576",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Prepare, administer, and grade tests and assignments to evaluate students' progress."
+ },
+ {
+  "task_id": "6573",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Establish and enforce rules for behavior and procedures for maintaining order among students."
+ },
+ {
+  "task_id": "6577",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Establish clear objectives for all lessons, units, and projects, and communicate these objectives to students."
+ },
+ {
+  "task_id": "6582",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Assign lessons and correct homework."
+ },
+ {
+  "task_id": "18638",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Assist students who need extra help, such as by tutoring and preparing and implementing remedial programs."
+ },
+ {
+  "task_id": "6584",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Confer with parents or guardians, other teachers, counselors, and administrators to resolve students' behavioral and academic problems."
+ },
+ {
+  "task_id": "6579",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Maintain accurate, complete, and correct student records as required by laws, district policies, and administrative regulations."
+ },
+ {
+  "task_id": "6578",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Plan and conduct activities for a balanced program of instruction, demonstration, and work time that provides students with opportunities to observe, question, and investigate."
+ },
+ {
+  "task_id": "6574",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Adapt teaching methods and instructional materials to meet students' varying needs and interests."
+ },
+ {
+  "task_id": "6583",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Enforce all administration policies and rules governing students."
+ },
+ {
+  "task_id": "6585",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Prepare students for later grades by encouraging them to explore learning opportunities and to persevere with challenging tasks."
+ },
+ {
+  "task_id": "6592",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Use computers, audio-visual aids, and other equipment and materials to supplement presentations."
+ },
+ {
+  "task_id": "6596",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Collaborate with other teachers and administrators in the development, evaluation, and revision of middle school programs."
+ },
+ {
+  "task_id": "6588",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Guide and counsel students with adjustment or academic problems, or special academic interests."
+ },
+ {
+  "task_id": "18639",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Meet or correspond with parents or guardians to discuss children's progress and to determine priorities and resource needs."
+ },
+ {
+  "task_id": "6593",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Instruct and monitor students in the use and care of equipment and materials to prevent injury and damage."
+ },
+ {
+  "task_id": "6589",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Meet with other professionals to discuss individual students' needs and progress."
+ },
+ {
+  "task_id": "6594",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Prepare reports on students and activities as required by administration."
+ },
+ {
+  "task_id": "6591",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Prepare for assigned classes and show written evidence of preparation upon request of immediate supervisors."
+ },
+ {
+  "task_id": "6586",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Prepare objectives and outlines for courses of study, following curriculum guidelines or requirements of states and schools."
+ },
+ {
+  "task_id": "6602",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Attend staff meetings and serve on staff committees, as required."
+ },
+ {
+  "task_id": "6603",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Plan and supervise class projects, field trips, visits by guest speakers, or other experiential activities, and guide students in learning from such activities."
+ },
+ {
+  "task_id": "6595",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Confer with other staff members to plan and schedule lessons promoting learning, following approved curricula."
+ },
+ {
+  "task_id": "6597",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Attend professional meetings, educational conferences, and teacher training workshops to maintain and improve professional competence."
+ },
+ {
+  "task_id": "6601",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Organize and supervise games and other recreational activities to promote physical, mental, and social development."
+ },
+ {
+  "task_id": "6598",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Perform administrative duties, such as school library assistance, hall and cafeteria monitoring, and bus loading and unloading."
+ },
+ {
+  "task_id": "18640",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Coordinate and supervise extracurricular activities, such as clubs, student organizations, and academic contests."
+ },
+ {
+  "task_id": "6600",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Organize and label materials and display students' work."
+ },
+ {
+  "task_id": "6604",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Select, store, order, issue, and inventory classroom equipment, materials, and supplies."
+ },
+ {
+  "task_id": "6599",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Administer standardized ability and achievement tests, and interpret results to determine student strengths and needs."
+ },
+ {
+  "task_id": "6606",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Provide students with disabilities with assistive devices, supportive technology, and assistance accessing facilities, such as restrooms."
+ },
+ {
+  "task_id": "6607",
+  "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Supervise, evaluate, and plan assignments for teacher assistants and volunteers."
+ },
+ {
+  "task_id": "6610",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Instruct students individually and in groups, using various teaching methods, such as lectures, discussions, and demonstrations."
+ },
+ {
+  "task_id": "6612",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Prepare materials and classrooms for class activities."
+ },
+ {
+  "task_id": "6615",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Adapt teaching methods and instructional materials to meet students' varying needs and interests."
+ },
+ {
+  "task_id": "6608",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Establish and enforce rules for behavior and procedures for maintaining order among students."
+ },
+ {
+  "task_id": "6613",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Establish clear objectives for all lessons, units, and projects, and communicate those objectives to students."
+ },
+ {
+  "task_id": "6622",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Prepare students for later educational experiences by encouraging them to explore learning opportunities and to persevere with challenging tasks."
+ },
+ {
+  "task_id": "6611",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Maintain accurate and complete student records as required by laws, district policies, and administrative regulations."
+ },
+ {
+  "task_id": "6609",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Instruct and monitor students in the use and care of equipment and materials to prevent injuries and damage."
+ },
+ {
+  "task_id": "6618",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Assign and grade class work and homework."
+ },
+ {
+  "task_id": "6617",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Enforce all administration policies and rules governing students."
+ },
+ {
+  "task_id": "6616",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Prepare, administer, and grade tests and assignments to evaluate students' progress."
+ },
+ {
+  "task_id": "6621",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Prepare objectives and outlines for courses of study, following curriculum guidelines or requirements of states and schools."
+ },
+ {
+  "task_id": "6624",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Confer with parents or guardians, other teachers, counselors, and administrators to resolve students' behavioral and academic problems."
+ },
+ {
+  "task_id": "6620",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Use computers, audio-visual aids, and other equipment and materials to supplement presentations."
+ },
+ {
+  "task_id": "6614",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Plan and conduct activities for a balanced program of instruction, demonstration, and work time that provides students with opportunities to observe, question, and investigate."
+ },
+ {
+  "task_id": "6623",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Guide and counsel students with adjustments, academic problems, or special academic interests."
+ },
+ {
+  "task_id": "6619",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Observe and evaluate students' performance, behavior, social development, and physical health."
+ },
+ {
+  "task_id": "20241",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Select, store, order, issue, inventory, and maintain classroom equipment, materials, and supplies."
+ },
+ {
+  "task_id": "6625",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Meet with parents and guardians to discuss their children's progress and to determine priorities for their children and their resource needs."
+ },
+ {
+  "task_id": "6628",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Provide students with disabilities with assistive devices, supportive technology, and assistance accessing facilities, such as restrooms."
+ },
+ {
+  "task_id": "6626",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Prepare for assigned classes and show written evidence of preparation upon request of immediate supervisors."
+ },
+ {
+  "task_id": "6627",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Prepare and implement remedial programs for students requiring extra help."
+ },
+ {
+  "task_id": "6629",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Meet with other professionals to discuss individual students' needs and progress."
+ },
+ {
+  "task_id": "6631",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Prepare reports on students and activities as required by administration."
+ },
+ {
+  "task_id": "6634",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Confer with other staff members to plan and schedule lessons promoting learning, following approved curricula."
+ },
+ {
+  "task_id": "6635",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Collaborate with other teachers and administrators in the development, evaluation, and revision of middle school programs."
+ },
+ {
+  "task_id": "6632",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Plan and supervise class projects, field trips, visits by guest speakers or other experiential activities, and guide students in learning from those activities."
+ },
+ {
+  "task_id": "6633",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Attend professional meetings, educational conferences, and teacher training workshops to maintain and improve professional competence."
+ },
+ {
+  "task_id": "6636",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Attend staff meetings and serve on committees, as required."
+ },
+ {
+  "task_id": "6638",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Sponsor extracurricular activities, such as clubs, student organizations, and academic contests."
+ },
+ {
+  "task_id": "6637",
+  "occupation": "Career/Technical Education Teachers, Middle School",
+  "task_text": "Perform administrative duties, such as school library assistance, hall and cafeteria monitoring, and bus loading and unloading."
+ },
+ {
+  "task_id": "6650",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Prepare students for later grades by encouraging them to explore learning opportunities and to persevere with challenging tasks."
+ },
+ {
+  "task_id": "6640",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Instruct through lectures, discussions, and demonstrations in one or more subjects, such as English, mathematics, or social studies."
+ },
+ {
+  "task_id": "6639",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Establish and enforce rules for behavior and procedures for maintaining order among students."
+ },
+ {
+  "task_id": "6643",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Prepare materials and classrooms for class activities."
+ },
+ {
+  "task_id": "6644",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Adapt teaching methods and instructional materials to meet students' varying needs and interests."
+ },
+ {
+  "task_id": "6642",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Prepare, administer, and grade tests and assignments to evaluate students' progress."
+ },
+ {
+  "task_id": "6641",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Establish clear objectives for all lessons, units, and projects, and communicate those objectives to students."
+ },
+ {
+  "task_id": "6647",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Observe and evaluate students' performance, behavior, social development, and physical health."
+ },
+ {
+  "task_id": "6649",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Plan and conduct activities for a balanced program of instruction, demonstration, and work time that provides students with opportunities to observe, question, and investigate."
+ },
+ {
+  "task_id": "6651",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Guide and counsel students with adjustments, academic problems, or special academic interests."
+ },
+ {
+  "task_id": "6654",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Use computers, audio-visual aids, and other equipment and materials to supplement presentations."
+ },
+ {
+  "task_id": "6657",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Prepare objectives and outlines for courses of study, following curriculum guidelines or requirements of states and schools."
+ },
+ {
+  "task_id": "6646",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Assign and grade class work and homework."
+ },
+ {
+  "task_id": "6645",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Maintain accurate and complete student records as required by laws, district policies, and administrative regulations."
+ },
+ {
+  "task_id": "6648",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Enforce all administration policies and rules governing students."
+ },
+ {
+  "task_id": "6656",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Confer with parents or guardians, other teachers, counselors, and administrators to resolve students' behavioral and academic problems."
+ },
+ {
+  "task_id": "6661",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Confer with other staff members to plan and schedule lessons promoting learning, following approved curricula."
+ },
+ {
+  "task_id": "6659",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Prepare and implement remedial programs for students requiring extra help."
+ },
+ {
+  "task_id": "6670",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Provide students with disabilities with assistive devices, supportive technology, and assistance accessing facilities such as restrooms."
+ },
+ {
+  "task_id": "6658",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Meet with other professionals to discuss individual students' needs and progress."
+ },
+ {
+  "task_id": "6655",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Meet with parents and guardians to discuss their children's progress and to determine priorities for their children and their resource needs."
+ },
+ {
+  "task_id": "6663",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Prepare reports on students and activities as required by administration."
+ },
+ {
+  "task_id": "6652",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Instruct and monitor students in the use of equipment and materials to prevent injuries and damage."
+ },
+ {
+  "task_id": "6662",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Collaborate with other teachers and administrators in the development, evaluation, and revision of secondary school programs."
+ },
+ {
+  "task_id": "6653",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Prepare for assigned classes, and show written evidence of preparation upon request of immediate supervisors."
+ },
+ {
+  "task_id": "6660",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Attend professional meetings, educational conferences, and teacher training workshops to maintain and improve professional competence."
+ },
+ {
+  "task_id": "6665",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Plan and supervise class projects, field trips, visits by guest speakers, or other experiential activities, and guide students in learning from those activities."
+ },
+ {
+  "task_id": "6668",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Attend staff meetings and serve on committees, as required."
+ },
+ {
+  "task_id": "6667",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Sponsor extracurricular activities, such as clubs, student organizations, and academic contests."
+ },
+ {
+  "task_id": "6666",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Administer standardized ability and achievement tests, and interpret results to determine students' strengths and needs."
+ },
+ {
+  "task_id": "6664",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Select, store, order, issue, and inventory classroom equipment, materials, and supplies."
+ },
+ {
+  "task_id": "6669",
+  "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "task_text": "Perform administrative duties, such as school library assistance, hall and cafeteria monitoring, and bus loading and unloading."
+ },
+ {
+  "task_id": "6673",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Instruct students individually and in groups, using various teaching methods, such as lectures, discussions, and demonstrations."
+ },
+ {
+  "task_id": "6674",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Establish and enforce rules for behavior and procedures for maintaining order among students."
+ },
+ {
+  "task_id": "6671",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Prepare materials and classroom for class activities."
+ },
+ {
+  "task_id": "6675",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Observe and evaluate students' performance, behavior, social development, and physical health."
+ },
+ {
+  "task_id": "6681",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Instruct students in the knowledge and skills required in a specific occupation or occupational field, using a systematic plan of lectures, discussions, audio-visual presentations, and laboratory, shop, and field studies."
+ },
+ {
+  "task_id": "6676",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Instruct and monitor students in the use and care of equipment and materials to prevent injury and damage."
+ },
+ {
+  "task_id": "6682",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Establish clear objectives for all lessons, units, and projects, and communicate those objectives to students."
+ },
+ {
+  "task_id": "6683",
+  "occupation": "Career/Technical Education Teachers, Secondary School",
+  "task_text": "Use computers, audio-visual aids, and other equipment and materials to supplement presentations."
+ }
+]

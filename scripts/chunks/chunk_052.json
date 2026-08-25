@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "16316",
+  "occupation": "Transportation Engineers",
+  "task_text": "Inspect completed transportation projects to ensure safety or compliance with applicable standards or regulations."
+ },
+ {
+  "task_id": "16304",
+  "occupation": "Transportation Engineers",
+  "task_text": "Review development plans to determine potential traffic impact."
+ },
+ {
+  "task_id": "16306",
+  "occupation": "Transportation Engineers",
+  "task_text": "Evaluate transportation systems or traffic control devices or lighting systems to determine need for modification or expansion."
+ },
+ {
+  "task_id": "16321",
+  "occupation": "Transportation Engineers",
+  "task_text": "Analyze environmental impact statements for transportation projects."
+ },
+ {
+  "task_id": "16322",
+  "occupation": "Transportation Engineers",
+  "task_text": "Supervise the maintenance or repair of transportation systems or system components."
+ },
+ {
+  "task_id": "16313",
+  "occupation": "Transportation Engineers",
+  "task_text": "Model transportation scenarios to evaluate the impacts of activities such as new development or to identify possible solutions to transportation problems."
+ },
+ {
+  "task_id": "19616",
+  "occupation": "Transportation Engineers",
+  "task_text": "Inspect completed transportation projects to ensure compliance with environmental regulations."
+ },
+ {
+  "task_id": "16312",
+  "occupation": "Transportation Engineers",
+  "task_text": "Participate in contract bidding, negotiation, or administration."
+ },
+ {
+  "task_id": "19615",
+  "occupation": "Transportation Engineers",
+  "task_text": "Evaluate construction project materials for compliance with environmental standards."
+ },
+ {
+  "task_id": "16317",
+  "occupation": "Transportation Engineers",
+  "task_text": "Direct the surveying, staking, or laying-out of construction projects."
+ },
+ {
+  "task_id": "19613",
+  "occupation": "Transportation Engineers",
+  "task_text": "Design transportation systems or structures with sustainable materials or products, such as porous pavement or bioretention structures."
+ },
+ {
+  "task_id": "16315",
+  "occupation": "Transportation Engineers",
+  "task_text": "Investigate or test specific construction project materials to determine compliance to specifications or standards."
+ },
+ {
+  "task_id": "16308",
+  "occupation": "Transportation Engineers",
+  "task_text": "Develop or assist in the development of transportation-related computer software or computer processes."
+ },
+ {
+  "task_id": "19614",
+  "occupation": "Transportation Engineers",
+  "task_text": "Develop plans to deconstruct damaged or obsolete roadways or other transportation structures in a manner that is environmentally sound or prepares the land for sustainable development."
+ },
+ {
+  "task_id": "16327",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Provide technical direction or supervision to junior engineers, engineering or computer-aided design (CAD) technicians, or other technical personnel."
+ },
+ {
+  "task_id": "16325",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Review and critique proposals, plans, or designs related to water or wastewater treatment systems."
+ },
+ {
+  "task_id": "16350",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Design domestic or industrial water or wastewater treatment plants, including advanced facilities with sequencing batch reactors (SBR), membranes, lift stations, headworks, surge overflow basins, ultraviolet disinfection systems, aerobic digesters, sludge lagoons, or control buildings."
+ },
+ {
+  "task_id": "21166",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Evaluate the operation and maintenance of water or wastewater systems to identify ways to improve their efficiency."
+ },
+ {
+  "task_id": "16330",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Design or select equipment for use in wastewater processing to ensure compliance with government standards."
+ },
+ {
+  "task_id": "16349",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Design pumping systems, pumping stations, pipelines, force mains, or sewers for the collection of wastewater."
+ },
+ {
+  "task_id": "16347",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Design water distribution systems for potable or non-potable water."
+ },
+ {
+  "task_id": "16331",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Conduct water quality studies to identify and characterize water pollutant sources."
+ },
+ {
+  "task_id": "16343",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Analyze and recommend chemical, biological, or other wastewater treatment methods to prepare water for industrial or domestic use."
+ },
+ {
+  "task_id": "16328",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Identify design alternatives for the development of new water resources."
+ },
+ {
+  "task_id": "16345",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Design water runoff collection networks, water supply channels, or water supply system networks."
+ },
+ {
+  "task_id": "16346",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Design water or wastewater lift stations, including water wells."
+ },
+ {
+  "task_id": "16339",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Conduct cost-benefit analyses for the construction of water supply systems, runoff collection networks, water and wastewater treatment plants, or wastewater collection systems."
+ },
+ {
+  "task_id": "16326",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Provide technical support on water resource or treatment issues to government agencies."
+ },
+ {
+  "task_id": "16337",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Conduct feasibility studies for the construction of facilities, such as water supply systems, runoff collection networks, water and wastewater treatment plants, or wastewater collection systems."
+ },
+ {
+  "task_id": "16341",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Analyze storm water or floodplain drainage systems to control erosion, stabilize river banks, repair channel streams, or design bridges."
+ },
+ {
+  "task_id": "16335",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Oversee the construction of decentralized or on-site wastewater treatment systems, including reclaimed water facilities."
+ },
+ {
+  "task_id": "16329",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Develop plans for new water resources or water efficiency programs."
+ },
+ {
+  "task_id": "16333",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Perform hydrological analyses, using three-dimensional simulation software, to model the movement of water or forecast the dispersion of chemical pollutants in the water supply."
+ },
+ {
+  "task_id": "16334",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Perform hydraulic analyses of water supply systems or water distribution networks to model flow characteristics, test for pressure losses, or to identify opportunities to mitigate risks and improve operational efficiency."
+ },
+ {
+  "task_id": "16324",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Write technical reports or publications related to water resources development or water use efficiency."
+ },
+ {
+  "task_id": "16344",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Design water storage tanks or other water storage facilities."
+ },
+ {
+  "task_id": "16342",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Analyze and recommend sludge treatment or disposal methods."
+ },
+ {
+  "task_id": "16348",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Design sludge treatment plants."
+ },
+ {
+  "task_id": "16336",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Gather and analyze water use data to forecast water demand."
+ },
+ {
+  "task_id": "16338",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Conduct environmental impact studies related to water and wastewater collection, treatment, or distribution."
+ },
+ {
+  "task_id": "16340",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Analyze the efficiency of water delivery structures, such as dams, tainter gates, canals, pipes, penstocks, or cofferdams."
+ },
+ {
+  "task_id": "16332",
+  "occupation": "Water/Wastewater Engineers",
+  "task_text": "Perform mathematical modeling of underground or surface water resources, such as floodplains, ocean coastlines, streams, rivers, or wetlands."
+ },
+ {
+  "task_id": "7391",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Update knowledge and skills to keep up with rapid advancements in computer technology."
+ },
+ {
+  "task_id": "7407",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Design and develop computer hardware and support peripherals, including central processing units (CPUs), support logic, microprocessors, custom integrated circuits, and printers and disk drives."
+ },
+ {
+  "task_id": "7399",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Confer with engineering staff and consult specifications to evaluate interface between hardware and software and operational and performance requirements of overall system."
+ },
+ {
+  "task_id": "7396",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Build, test, and modify product prototypes, using working models or theoretical models constructed with computer simulation."
+ },
+ {
+  "task_id": "7402",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Write detailed functional specifications that document the hardware development process and support hardware introduction."
+ },
+ {
+  "task_id": "7393",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Test and verify hardware and support peripherals to ensure that they meet specifications and requirements, by recording and analyzing test data."
+ },
+ {
+  "task_id": "7398",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Direct technicians, engineering designers or other technical support personnel as needed."
+ },
+ {
+  "task_id": "7392",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Provide technical support to designers, marketing and sales departments, suppliers, engineers and other team members throughout the product development and implementation process."
+ },
+ {
+  "task_id": "7400",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Select hardware and material, assuring compliance with specifications and product requirements."
+ },
+ {
+  "task_id": "7401",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Store, retrieve, and manipulate data for analysis of system capabilities and requirements."
+ },
+ {
+  "task_id": "7397",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Analyze user needs and recommend appropriate hardware."
+ },
+ {
+  "task_id": "7406",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Evaluate factors such as reporting formats required, cost constraints, and need for security restrictions to determine hardware configuration."
+ },
+ {
+  "task_id": "7404",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Provide training and support to system designers and users."
+ },
+ {
+  "task_id": "7394",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Monitor functioning of equipment and make necessary modifications to ensure system operates in conformance with specifications."
+ },
+ {
+  "task_id": "7403",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Specify power supply requirements and configuration, drawing on system performance expectations and design specifications."
+ },
+ {
+  "task_id": "7405",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Assemble and modify existing pieces of equipment to meet special needs."
+ },
+ {
+  "task_id": "7395",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Analyze information to determine, recommend, and plan layout, including type of computers and peripheral equipment modifications."
+ },
+ {
+  "task_id": "7408",
+  "occupation": "Computer Hardware Engineers",
+  "task_text": "Recommend purchase of equipment to control dust, temperature, and humidity in area of system installation."
+ },
+ {
+  "task_id": "1348",
+  "occupation": "Electrical Engineers",
+  "task_text": "Design, implement, maintain, or improve electrical instruments, equipment, facilities, components, products, or systems for commercial, industrial, or domestic purposes."
+ },
+ {
+  "task_id": "1357",
+  "occupation": "Electrical Engineers",
+  "task_text": "Oversee project production efforts to assure projects are completed on time and within budget."
+ },
+ {
+  "task_id": "1350",
+  "occupation": "Electrical Engineers",
+  "task_text": "Direct or coordinate manufacturing, construction, installation, maintenance, support, documentation, or testing activities to ensure compliance with specifications, codes, or customer requirements."
+ },
+ {
+  "task_id": "1351",
+  "occupation": "Electrical Engineers",
+  "task_text": "Perform detailed calculations to compute and establish manufacturing, construction, or installation standards or specifications."
+ },
+ {
+  "task_id": "1349",
+  "occupation": "Electrical Engineers",
+  "task_text": "Operate computer-assisted engineering or design software or equipment to perform engineering tasks."
+ },
+ {
+  "task_id": "1347",
+  "occupation": "Electrical Engineers",
+  "task_text": "Confer with engineers, customers, or others to discuss existing or potential engineering projects or products."
+ },
+ {
+  "task_id": "1356",
+  "occupation": "Electrical Engineers",
+  "task_text": "Investigate or test vendors' or competitors' products."
+ },
+ {
+  "task_id": "20731",
+  "occupation": "Electrical Engineers",
+  "task_text": "Inspect completed installations and observe operations to ensure conformance to design and equipment specifications and compliance with operational, safety, or environmental standards."
+ },
+ {
+  "task_id": "20730",
+  "occupation": "Electrical Engineers",
+  "task_text": "Investigate customer or public complaints to determine the nature and extent of problems."
+ },
+ {
+  "task_id": "1358",
+  "occupation": "Electrical Engineers",
+  "task_text": "Prepare technical drawings, specifications of electrical systems, or topographical maps to ensure that installation and operations conform to standards and customer requirements."
+ },
+ {
+  "task_id": "1363",
+  "occupation": "Electrical Engineers",
+  "task_text": "Compile data and write reports regarding existing or potential electrical engineering studies or projects."
+ },
+ {
+  "task_id": "1354",
+  "occupation": "Electrical Engineers",
+  "task_text": "Prepare specifications for purchases of materials or equipment."
+ },
+ {
+  "task_id": "20729",
+  "occupation": "Electrical Engineers",
+  "task_text": "Estimate labor, material, or construction costs for budget preparation purposes."
+ },
+ {
+  "task_id": "1353",
+  "occupation": "Electrical Engineers",
+  "task_text": "Plan or implement research methodology or procedures to apply principles of electrical theory to engineering projects."
+ },
+ {
+  "task_id": "1355",
+  "occupation": "Electrical Engineers",
+  "task_text": "Supervise or train project team members, as necessary."
+ },
+ {
+  "task_id": "1361",
+  "occupation": "Electrical Engineers",
+  "task_text": "Assist in developing capital project programs for new equipment or major repairs."
+ },
+ {
+  "task_id": "1364",
+  "occupation": "Electrical Engineers",
+  "task_text": "Collect data relating to commercial or residential development, population, or power system interconnection to determine operating efficiency of electrical systems."
+ },
+ {
+  "task_id": "19618",
+  "occupation": "Electrical Engineers",
+  "task_text": "Develop systems that produce electricity with renewable energy sources, such as wind, solar, or biofuels."
+ },
+ {
+  "task_id": "23956",
+  "occupation": "Electrical Engineers",
+  "task_text": "Develop software to control electrical systems."
+ },
+ {
+  "task_id": "19619",
+  "occupation": "Electrical Engineers",
+  "task_text": "Integrate electrical systems with renewable energy systems to improve overall efficiency."
+ },
+ {
+  "task_id": "1365",
+  "occupation": "Electrical Engineers",
+  "task_text": "Conduct field surveys or study maps, graphs, diagrams, or other data to identify and correct power system problems."
+ },
+ {
+  "task_id": "19617",
+  "occupation": "Electrical Engineers",
+  "task_text": "Design electrical systems or components that minimize electric energy requirements, such as lighting systems designed to account for natural lighting."
+ },
+ {
+  "task_id": "5339",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Design electronic components, software, products, or systems for commercial, industrial, medical, military, or scientific applications."
+ },
+ {
+  "task_id": "20497",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Operate computer-assisted engineering or design software or equipment to perform electronics engineering tasks."
+ },
+ {
+  "task_id": "20494",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Evaluate project work to ensure effectiveness, technical adequacy, or compatibility in the resolution of complex electronics engineering problems."
+ },
+ {
+  "task_id": "5349",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Direct or coordinate activities concerned with manufacture, construction, installation, maintenance, operation, or modification of electronic equipment, products, or systems."
+ },
+ {
+  "task_id": "20496",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Confer with engineers, customers, vendors, or others to discuss existing or potential electronics engineering projects or products."
+ },
+ {
+  "task_id": "20499",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Provide technical support or instruction to staff or customers regarding electronics equipment standards."
+ },
+ {
+  "task_id": "20498",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Recommend repair or design modifications of electronics components or systems, based on factors such as environment, service, cost, or system capabilities."
+ },
+ {
+  "task_id": "5348",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Prepare documentation containing information such as confidential descriptions or specifications of proprietary hardware or software, product development or introduction schedules, product costs, or information about product performance weaknesses."
+ },
+ {
+  "task_id": "5350",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Develop or perform operational, maintenance, or testing procedures for electronic products, components, equipment, or systems."
+ },
+ {
+  "task_id": "20495",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Analyze electronics system requirements, capacity, cost, or customer needs to determine project feasibility."
+ },
+ {
+  "task_id": "5354",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Prepare, review, or maintain maintenance schedules, design documentation, or operational reports or charts."
+ },
+ {
+  "task_id": "5346",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Inspect electronic equipment, instruments, products, or systems to ensure conformance to specifications, safety standards, or applicable codes or regulations."
+ },
+ {
+  "task_id": "20493",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Determine project material or equipment needs."
+ },
+ {
+  "task_id": "5355",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Prepare necessary criteria, procedures, reports, or plans for successful conduct of the project with consideration given to site preparation, facility validation, installation, quality assurance, or testing."
+ },
+ {
+  "task_id": "5351",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Plan or develop applications or modifications for electronic properties used in components, products, or systems to improve technical performance."
+ },
+ {
+  "task_id": "5352",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Prepare engineering sketches or specifications for construction, relocation, or installation of equipment, facilities, products, or systems."
+ },
+ {
+  "task_id": "20500",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Prepare budget or cost estimates for equipment, construction, or installation projects or control expenditures."
+ },
+ {
+  "task_id": "19621",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Investigate green consumer electronics applications for consumer electronic devices, power saving devices for computers or televisions, or energy efficient power chargers."
+ },
+ {
+  "task_id": "5357",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Represent employer at conferences, meetings, boards, panels, committees, or working groups to present, explain, or defend findings or recommendations, negotiate compromises or agreements, or exchange information."
+ },
+ {
+  "task_id": "19623",
+  "occupation": "Electronics Engineers, Except Computer",
+  "task_text": "Research or develop new green electronics technologies, such as lighting, optical data storage devices, or energy efficient televisions."
+ },
+ {
+  "task_id": "16363",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Identify operational requirements for new systems to inform selection of technological solutions."
+ },
+ {
+  "task_id": "16370",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Integrate tags, readers, or software in radio frequency identification device (RFID) designs."
+ },
+ {
+  "task_id": "16354",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Perform systems analysis or programming of radio frequency identification device (RFID) technology."
+ },
+ {
+  "task_id": "16359",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Test radio frequency identification device (RFID) software to ensure proper functioning."
+ },
+ {
+  "task_id": "16360",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Select appropriate radio frequency identification device (RFID) tags and determine placement locations."
+ },
+ {
+  "task_id": "16361",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Perform site analyses to determine system configurations, processes to be impacted, or on-site obstacles to technology implementation."
+ },
+ {
+  "task_id": "16362",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Perform acceptance testing on newly installed or updated systems."
+ },
+ {
+  "task_id": "16366",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Determine means of integrating radio frequency identification device (RFID) into other applications."
+ },
+ {
+  "task_id": "16353",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Provide technical support for radio frequency identification device (RFID) technology."
+ },
+ {
+  "task_id": "16371",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Collect data about existing client hardware, software, networking, or key business processes to inform implementation of radio frequency identification device (RFID) technology."
+ },
+ {
+  "task_id": "16369",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Install, test, or maintain radio frequency identification device (RFID) systems."
+ },
+ {
+  "task_id": "16358",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Test tags or labels to ensure readability."
+ },
+ {
+  "task_id": "16364",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Determine usefulness of new radio frequency identification device (RFID) technologies."
+ },
+ {
+  "task_id": "16351",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Verify compliance of developed applications with architectural standards and established practices."
+ },
+ {
+  "task_id": "16356",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Train users in details of system operation."
+ },
+ {
+  "task_id": "16365",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Develop process flows, work instructions, or standard operating procedures for radio frequency identification device (RFID) systems."
+ },
+ {
+  "task_id": "16352",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of industry research about new technologies."
+ },
+ {
+  "task_id": "16355",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Document equipment or process details of radio frequency identification device (RFID) technology."
+ },
+ {
+  "task_id": "16367",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Define and compare possible radio frequency identification device (RFID) solutions to inform selection for specific projects."
+ },
+ {
+  "task_id": "16368",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Create simulations or models of radio frequency identification device (RFID) systems to provide information for selection and configuration."
+ },
+ {
+  "task_id": "16357",
+  "occupation": "Radio Frequency Identification Device Specialists",
+  "task_text": "Analyze radio frequency identification device (RFID)-related supply chain data."
+ },
+ {
+  "task_id": "15210",
+  "occupation": "Environmental Engineers",
+  "task_text": "Design, or supervise the design of, systems, processes, or equipment for control, management, or remediation of water, air, or soil quality."
+ },
+ {
+  "task_id": "1377",
+  "occupation": "Environmental Engineers",
+  "task_text": "Assess the existing or potential environmental impact of land use projects on air, water, or land."
+ },
+ {
+  "task_id": "20195",
+  "occupation": "Environmental Engineers",
+  "task_text": "Collaborate with environmental scientists, planners, hazardous waste technicians, engineers, experts in law or business, or other specialists to address environmental problems."
+ },
+ {
+  "task_id": "1374",
+  "occupation": "Environmental Engineers",
+  "task_text": "Advise corporations or government agencies of procedures to follow in cleaning up contaminated sites to protect people and the environment."
+ },
+ {
+  "task_id": "1373",
+  "occupation": "Environmental Engineers",
+  "task_text": "Develop proposed project objectives and targets and report to management on progress in attaining them."
+ },
+ {
+  "task_id": "1370",
+  "occupation": "Environmental Engineers",
+  "task_text": "Monitor progress of environmental improvement programs."
+ },
+ {
+  "task_id": "1366",
+  "occupation": "Environmental Engineers",
+  "task_text": "Prepare, review, or update environmental investigation or recommendation reports."
+ }
+]

@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "14304",
+  "occupation": "Gas Plant Operators",
+  "task_text": "Operate construction equipment to install and maintain gas distribution systems."
+ },
+ {
+  "task_id": "14298",
+  "occupation": "Gas Plant Operators",
+  "task_text": "Change charts in recording meters."
+ },
+ {
+  "task_id": "14309",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Signal other workers by telephone or radio to operate pumps, open and close valves, and check temperatures."
+ },
+ {
+  "task_id": "14318",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Maintain and repair equipment, or report malfunctioning equipment to supervisors so that repairs can be scheduled."
+ },
+ {
+  "task_id": "14305",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Monitor process indicators, instruments, gauges, and meters to detect and report any possible problems."
+ },
+ {
+  "task_id": "14306",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Start pumps and open valves or use automated equipment to regulate the flow of oil in pipelines and into and out of tanks."
+ },
+ {
+  "task_id": "14308",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Operate control panels to coordinate and regulate process variables such as temperature and pressure, and to direct product flow rate, according to process schedules."
+ },
+ {
+  "task_id": "14310",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Verify that incoming and outgoing products are moving through the correct meters, and that meters are working properly."
+ },
+ {
+  "task_id": "14317",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Patrol units to monitor the amount of oil in storage tanks, and to verify that activities and operations are safe, efficient, and in compliance with regulations."
+ },
+ {
+  "task_id": "14313",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Plan movement of products through lines to processing, storage, and shipping units, using knowledge of system interconnections and capacities."
+ },
+ {
+  "task_id": "14307",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Control or operate manifold and pumping systems to circulate liquids through a petroleum refinery."
+ },
+ {
+  "task_id": "14312",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Operate auxiliary equipment and control multiple processing units during distilling or treating operations, moving controls that regulate valves, pumps, compressors, and auxiliary equipment."
+ },
+ {
+  "task_id": "14319",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Collect product samples by turning bleeder valves, or by lowering containers into tanks to obtain oil samples."
+ },
+ {
+  "task_id": "14311",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Read automatic gauges at specified intervals to determine the flow rate of oil into or from tanks, and the amount of oil in tanks."
+ },
+ {
+  "task_id": "14316",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Synchronize activities with other pumphouses to ensure a continuous flow of products and a minimum of contamination between products."
+ },
+ {
+  "task_id": "14315",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Record and compile operating data, instrument readings, documentation, and results of laboratory analyses."
+ },
+ {
+  "task_id": "14321",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Conduct general housekeeping of units, including wiping up oil spills and performing general cleaning duties."
+ },
+ {
+  "task_id": "14320",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Inspect pipelines, tightening connections and lubricating valves as necessary."
+ },
+ {
+  "task_id": "14314",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Read and analyze specifications, schedules, logs, test results, and laboratory recommendations to determine how to set equipment controls to produce the required qualities and quantities of products."
+ },
+ {
+  "task_id": "14323",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Perform tests to check the qualities and grades of products, such as assessing levels of bottom sediment, water, and foreign materials in oil samples, using centrifugal testers."
+ },
+ {
+  "task_id": "14328",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Calculate test result values, using standard formulas."
+ },
+ {
+  "task_id": "14326",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Clean interiors of processing units by circulating chemicals and solvents within units."
+ },
+ {
+  "task_id": "14327",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Clamp seals around valves to secure tanks."
+ },
+ {
+  "task_id": "14322",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Coordinate shutdowns and major projects."
+ },
+ {
+  "task_id": "14324",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Prepare calculations for receipts and deliveries of oil and oil products."
+ },
+ {
+  "task_id": "14325",
+  "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+  "task_text": "Lower thermometers into tanks to obtain temperature readings."
+ },
+ {
+  "task_id": "17830",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Monitor batch, continuous flow, or hybrid biofuels production processes."
+ },
+ {
+  "task_id": "17821",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Operate valves, pumps, engines, or generators to control and adjust biofuels production."
+ },
+ {
+  "task_id": "17828",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Monitor and record biofuels processing data."
+ },
+ {
+  "task_id": "17825",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Collect biofuels samples and perform routine laboratory tests or analyses to assess biofuels quality."
+ },
+ {
+  "task_id": "17820",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Operate equipment, such as a centrifuge, to extract biofuels products and secondary by-products or reusable fractions."
+ },
+ {
+  "task_id": "17822",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Process refined feedstock with additives in fermentation or reaction process vessels."
+ },
+ {
+  "task_id": "17819",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Operate chemical processing equipment for the production of biofuels."
+ },
+ {
+  "task_id": "17829",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Monitor and record flow meter performance."
+ },
+ {
+  "task_id": "17826",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Inspect biofuels plant or processing equipment regularly, recording or reporting damage and mechanical problems."
+ },
+ {
+  "task_id": "17827",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Measure and monitor raw biofuels feedstock."
+ },
+ {
+  "task_id": "17832",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Preprocess feedstock in preparation for physical, chemical, or biological fuel production processes."
+ },
+ {
+  "task_id": "17818",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Calculate, measure, load, or mix refined feedstock used in biofuels production."
+ },
+ {
+  "task_id": "17831",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Monitor stored biofuels products or secondary by-products until reused or transferred to users."
+ },
+ {
+  "task_id": "17823",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Assess the quality of biofuels additives for reprocessing."
+ },
+ {
+  "task_id": "17833",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Clean biofuels processing work area, ensuring compliance with safety regulations."
+ },
+ {
+  "task_id": "17835",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Perform routine maintenance on mechanical, electrical, or electronic equipment or instruments used in the processing of biofuels."
+ },
+ {
+  "task_id": "17824",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Calibrate liquid flow devices and meters, including fuel, chemical, and water meters."
+ },
+ {
+  "task_id": "17836",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Rebuild, repair, or replace biofuels processing equipment components."
+ },
+ {
+  "task_id": "17834",
+  "occupation": "Biofuels Processing Technicians",
+  "task_text": "Coordinate raw product sourcing or collection."
+ },
+ {
+  "task_id": "12334",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Observe safety precautions to prevent fires or explosions."
+ },
+ {
+  "task_id": "12342",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Record operational data, such as temperatures, pressures, ingredients used, processing times, or test results."
+ },
+ {
+  "task_id": "12336",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Control or operate equipment in which chemical changes or reactions take place during the processing of industrial or consumer products."
+ },
+ {
+  "task_id": "12339",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Patrol work areas to detect leaks or equipment malfunctions or to monitor operating conditions."
+ },
+ {
+  "task_id": "12341",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Draw samples of products at specified stages so that analyses can be performed."
+ },
+ {
+  "task_id": "12333",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Adjust controls to regulate temperature, pressure, feed, or flow of liquids or gases and times of prescribed reactions, according to knowledge of equipment and processes."
+ },
+ {
+  "task_id": "12335",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Monitor gauges, recording instruments, flowmeters, or products to ensure that specified conditions are maintained."
+ },
+ {
+  "task_id": "12340",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Test product samples for specific gravity, chemical characteristics, pH levels, concentrations, or viscosities, or send them to laboratories for testing."
+ },
+ {
+  "task_id": "12338",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Inspect equipment or units to detect leaks or malfunctions, shutting equipment down, if necessary."
+ },
+ {
+  "task_id": "12345",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Open valves or start pumps, agitators, reactors, blowers, or automatic feed of materials."
+ },
+ {
+  "task_id": "12346",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Read plant specifications to determine products, ingredients, or prescribed modifications of plant procedures."
+ },
+ {
+  "task_id": "12351",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Implement appropriate industrial emergency response procedures."
+ },
+ {
+  "task_id": "12337",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Measure, weigh, and mix chemical ingredients, according to specifications."
+ },
+ {
+  "task_id": "12352",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Dump or scoop prescribed solid, granular, or powdered materials into equipment."
+ },
+ {
+  "task_id": "12343",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Notify maintenance engineers of equipment malfunctions."
+ },
+ {
+  "task_id": "12353",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Estimate materials required for production and manufacturing of products."
+ },
+ {
+  "task_id": "12344",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Add treating or neutralizing agents to products, and pump products through filters or centrifuges to remove impurities or to precipitate products."
+ },
+ {
+  "task_id": "12350",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Observe and compare colors and consistencies of products to instrument readings and to laboratory and standard test results."
+ },
+ {
+  "task_id": "12355",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Direct activities of workers assisting in control or verification of processes or in unloading of materials."
+ },
+ {
+  "task_id": "12347",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Drain equipment, and pump water or other solutions through to flush and clean tanks or equipment."
+ },
+ {
+  "task_id": "12349",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Flush or clean equipment, using steam hoses or mechanical reamers."
+ },
+ {
+  "task_id": "12348",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Make minor repairs, lubricate, and maintain equipment, using hand tools."
+ },
+ {
+  "task_id": "12354",
+  "occupation": "Chemical Equipment Operators and Tenders",
+  "task_text": "Inventory supplies received and consumed."
+ },
+ {
+  "task_id": "12366",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Dump, pour, or load specified amounts of refined or unrefined materials into equipment or containers for further processing or storage."
+ },
+ {
+  "task_id": "19918",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Operate machines to process materials in compliance with applicable safety, energy, or environmental regulations."
+ },
+ {
+  "task_id": "12357",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Monitor material flow or instruments, such as temperature or pressure gauges, indicators, or meters, to ensure optimal processing conditions."
+ },
+ {
+  "task_id": "20824",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Turn valves or move controls to admit, drain, separate, filter, clarify, mix, or transfer materials."
+ },
+ {
+  "task_id": "12356",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Set up or adjust machine controls to regulate conditions such as material flow, temperature, or pressure."
+ },
+ {
+  "task_id": "20825",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Examine samples to verify qualities such as clarity, cleanliness, consistency, dryness, or texture."
+ },
+ {
+  "task_id": "20826",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Start agitators, shakers, conveyors, pumps, or centrifuge machines."
+ },
+ {
+  "task_id": "12365",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Inspect machines or equipment for hazards, operating efficiency, malfunctions, wear, or leaks."
+ },
+ {
+  "task_id": "12360",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Collect samples of materials or products for laboratory analysis."
+ },
+ {
+  "task_id": "12368",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Communicate processing instructions to other workers."
+ },
+ {
+  "task_id": "12372",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Turn valves to pump sterilizing solutions or rinse water through pipes or equipment or to spray vats with atomizers."
+ },
+ {
+  "task_id": "20827",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Maintain logs of instrument readings, test results, or shift production for entry in computer databases."
+ },
+ {
+  "task_id": "12369",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Remove clogs, defects, or impurities from machines, tanks, conveyors, screens, or other processing equipment."
+ },
+ {
+  "task_id": "12364",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Clean or sterilize tanks, screens, inflow pipes, production areas, or equipment, using hoses, brushes, scrapers, or chemical solutions."
+ },
+ {
+  "task_id": "12363",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Measure or weigh materials to be refined, mixed, transferred, stored, or otherwise processed."
+ },
+ {
+  "task_id": "12362",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Test samples to determine viscosity, acidity, specific gravity, or degree of concentration, using test equipment such as viscometers, pH meters, or hydrometers."
+ },
+ {
+  "task_id": "12371",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Install, maintain, or repair hoses, pumps, filters, or screens to maintain processing equipment, using hand tools."
+ },
+ {
+  "task_id": "12367",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Connect pipes between vats and processing equipment."
+ },
+ {
+  "task_id": "20828",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Assemble fittings, valves, bowls, plates, disks, impeller shafts, or other parts to prepare equipment for operation."
+ },
+ {
+  "task_id": "12373",
+  "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+  "task_text": "Remove full containers from discharge outlets and replace them with empty containers."
+ },
+ {
+  "task_id": "12376",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Observe operation of equipment to ensure continuity of flow, safety, and efficient operation, and to detect malfunctions."
+ },
+ {
+  "task_id": "12381",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Clean, adjust, and maintain equipment, using hand tools."
+ },
+ {
+  "task_id": "12389",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Tend accessory equipment, such as pumps and conveyors, to move materials or ingredients through production processes."
+ },
+ {
+  "task_id": "12377",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Move controls to start, stop, or adjust machinery and equipment that crushes, grinds, polishes, or blends materials."
+ },
+ {
+  "task_id": "12382",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Notify supervisors of needed repairs."
+ },
+ {
+  "task_id": "12380",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Weigh or measure materials, ingredients, or products at specified intervals to ensure conformance to requirements."
+ },
+ {
+  "task_id": "12378",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Record data from operations, testing, and production on specified forms."
+ },
+ {
+  "task_id": "12384",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Reject defective products and readjust equipment to eliminate problems."
+ },
+ {
+  "task_id": "12388",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Inspect chains, belts, or scrolls for signs of wear."
+ },
+ {
+  "task_id": "12385",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Clean work areas."
+ },
+ {
+  "task_id": "12379",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Examine materials, ingredients, or products, visually or with hands, to ensure conformance to established standards."
+ },
+ {
+  "task_id": "12375",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Read work orders to determine production specifications and information."
+ },
+ {
+  "task_id": "12387",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Dislodge and clear jammed materials or other items from machinery and equipment, using hand tools."
+ },
+ {
+  "task_id": "12390",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Test samples of materials or products to ensure compliance with specifications, using test equipment."
+ },
+ {
+  "task_id": "12392",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Mark bins as to types of mixtures stored."
+ },
+ {
+  "task_id": "12386",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Transfer materials, supplies, and products between work areas, using moving equipment and hand tools."
+ },
+ {
+  "task_id": "12395",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Add or mix chemicals and ingredients for processing, using hand tools or other devices."
+ },
+ {
+  "task_id": "12391",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Collect samples of materials or products for laboratory testing."
+ },
+ {
+  "task_id": "12394",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Load materials into machinery and equipment, using hand tools."
+ },
+ {
+  "task_id": "12393",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Turn valves to regulate the moisture contents of materials."
+ },
+ {
+  "task_id": "12383",
+  "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+  "task_text": "Set mill gauges to specified fineness of grind."
+ },
+ {
+  "task_id": "14334",
+  "occupation": "Grinding and Polishing Workers, Hand",
+  "task_text": "Verify quality of finished workpieces by inspecting them, comparing them to templates, measuring their dimensions, or testing them in working machinery."
+ },
+ {
+  "task_id": "14329",
+  "occupation": "Grinding and Polishing Workers, Hand",
+  "task_text": "Grind, sand, clean, or polish objects or parts to correct defects or to prepare surfaces for further finishing, using hand tools and power tools."
+ },
+ {
+  "task_id": "14333",
+  "occupation": "Grinding and Polishing Workers, Hand",
+  "task_text": "Measure and mark equipment, objects, or parts to ensure grinding and polishing standards are met."
+ },
+ {
+  "task_id": "14336",
+  "occupation": "Grinding and Polishing Workers, Hand",
+  "task_text": "Trim, scrape, or deburr objects or parts, using chisels, scrapers, and other hand tools and equipment."
+ },
+ {
+  "task_id": "14330",
+  "occupation": "Grinding and Polishing Workers, Hand",
+  "task_text": "Mark defects, such as knotholes, cracks, and splits, for repair."
+ },
+ {
+  "task_id": "14340",
+  "occupation": "Grinding and Polishing Workers, Hand",
+  "task_text": "Study blueprints or layouts to determine how to lay out workpieces or saw out templates."
+ },
+ {
+  "task_id": "14331",
+  "occupation": "Grinding and Polishing Workers, Hand",
+  "task_text": "Move controls to adjust, start, or stop equipment during grinding and polishing processes."
+ },
+ {
+  "task_id": "14338",
+  "occupation": "Grinding and Polishing Workers, Hand",
+  "task_text": "Load and adjust workpieces onto equipment or work tables, using hand tools."
+ },
+ {
+  "task_id": "14344",
+  "occupation": "Grinding and Polishing Workers, Hand",
+  "task_text": "Repair and maintain equipment, objects, or parts, using hand tools."
+ },
+ {
+  "task_id": "14332",
+  "occupation": "Grinding and Polishing Workers, Hand",
+  "task_text": "Select files or other abrasives, according to materials, sizes and shapes of workpieces, amount of stock to be removed, finishes specified, and steps in finishing processes."
+ },
+ {
+  "task_id": "14346",
+  "occupation": "Grinding and Polishing Workers, Hand",
+  "task_text": "File grooved, contoured, and irregular surfaces of metal objects, such as metalworking dies and machine parts, to conform to templates, other parts, layouts, or blueprint specifications."
+ },
+ {
+  "task_id": "14345",
+  "occupation": "Grinding and Polishing Workers, Hand",
+  "task_text": "Sharpen abrasive grinding tools, using machines and hand tools."
+ },
+ {
+  "task_id": "14339",
+  "occupation": "Grinding and Polishing Workers, Hand",
+  "task_text": "Transfer equipment, objects, or parts to specified work areas, using moving devices."
+ },
+ {
+  "task_id": "14337",
+  "occupation": "Grinding and Polishing Workers, Hand",
+  "task_text": "Remove completed workpieces from equipment or work tables, using hand tools, and place workpieces in containers."
+ },
+ {
+  "task_id": "14335",
+  "occupation": "Grinding and Polishing Workers, Hand",
+  "task_text": "Record product and processing data on specified forms."
+ },
+ {
+  "task_id": "14341",
+  "occupation": "Grinding and Polishing Workers, Hand",
+  "task_text": "Apply solutions and chemicals to equipment, objects, or parts, using hand tools."
+ },
+ {
+  "task_id": "14348",
+  "occupation": "Grinding and Polishing Workers, Hand",
+  "task_text": "Clean brass particles from files by drawing file cards through file grooves."
+ },
+ {
+  "task_id": "12397",
+  "occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+  "task_text": "Weigh or measure materials, ingredients, or products to ensure conformance to requirements."
+ },
+ {
+  "task_id": "12410",
+  "occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+  "task_text": "Read work orders to determine production specifications or information."
+ },
+ {
+  "task_id": "12402",
+  "occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+  "task_text": "Observe production or monitor equipment to ensure safe and efficient operation."
+ },
+ {
+  "task_id": "20682",
+  "occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+  "task_text": "Mix or blend ingredients by starting machines and mixing for specified times."
+ }
+]

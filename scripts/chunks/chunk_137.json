@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "15129",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Start machine units and conveyors and observe lights and gauges on panel board to verify operational efficiency."
+ },
+ {
+  "task_id": "15128",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Operate drying chambers to dry or finish molded ceramic ware."
+ },
+ {
+  "task_id": "15130",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Adjust pressures, temperatures, and trimming tool settings as required."
+ },
+ {
+  "task_id": "15121",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Design clay forms and molds, and decorations for forms."
+ },
+ {
+  "task_id": "15133",
+  "occupation": "Potters, Manufacturing",
+  "task_text": "Teach pottery classes."
+ },
+ {
+  "task_id": "12678",
+  "occupation": "Paper Goods Machine Setters, Operators, and Tenders",
+  "task_text": "Examine completed work to detect defects and verify conformance to work orders, and adjust machinery as necessary to correct production problems."
+ },
+ {
+  "task_id": "12683",
+  "occupation": "Paper Goods Machine Setters, Operators, and Tenders",
+  "task_text": "Observe operation of various machines to detect and correct machine malfunctions such as improper forming, glue flow, or pasteboard tension."
+ },
+ {
+  "task_id": "12679",
+  "occupation": "Paper Goods Machine Setters, Operators, and Tenders",
+  "task_text": "Start machines and move controls to regulate tension on pressure rolls, to synchronize speed of machine components, and to adjust temperatures of glue or paraffin."
+ },
+ {
+  "task_id": "12689",
+  "occupation": "Paper Goods Machine Setters, Operators, and Tenders",
+  "task_text": "Disassemble machines to maintain, repair, or replace broken or worn parts, using hand or power tools."
+ },
+ {
+  "task_id": "12681",
+  "occupation": "Paper Goods Machine Setters, Operators, and Tenders",
+  "task_text": "Install attachments to machines for gluing, folding, printing, or cutting."
+ },
+ {
+  "task_id": "12687",
+  "occupation": "Paper Goods Machine Setters, Operators, and Tenders",
+  "task_text": "Cut products to specified dimensions, using hand or power cutters."
+ },
+ {
+  "task_id": "12685",
+  "occupation": "Paper Goods Machine Setters, Operators, and Tenders",
+  "task_text": "Place rolls of paper or cardboard on machine feed tracks, and thread paper through gluing, coating, and slitting rollers."
+ },
+ {
+  "task_id": "12688",
+  "occupation": "Paper Goods Machine Setters, Operators, and Tenders",
+  "task_text": "Monitor finished cartons as they drop from forming machines into rotating hoppers and into gravity feed chutes to prevent jamming."
+ },
+ {
+  "task_id": "12680",
+  "occupation": "Paper Goods Machine Setters, Operators, and Tenders",
+  "task_text": "Adjust guide assemblies, forming bars, and folding mechanisms according to specifications, using hand tools."
+ },
+ {
+  "task_id": "12682",
+  "occupation": "Paper Goods Machine Setters, Operators, and Tenders",
+  "task_text": "Measure, space, and set saw blades, cutters, and perforators, according to product specifications."
+ },
+ {
+  "task_id": "12686",
+  "occupation": "Paper Goods Machine Setters, Operators, and Tenders",
+  "task_text": "Fill glue and paraffin reservoirs, and position rollers to dispense glue onto paperboard."
+ },
+ {
+  "task_id": "12684",
+  "occupation": "Paper Goods Machine Setters, Operators, and Tenders",
+  "task_text": "Stamp products with information such as dates, using hand stamps or automatic stamping devices."
+ },
+ {
+  "task_id": "12690",
+  "occupation": "Paper Goods Machine Setters, Operators, and Tenders",
+  "task_text": "Remove finished cores, and stack or place them on conveyors for transfer to other work areas."
+ },
+ {
+  "task_id": "12691",
+  "occupation": "Paper Goods Machine Setters, Operators, and Tenders",
+  "task_text": "Lift tote boxes of finished cartons, and dump cartons into feed hoppers."
+ },
+ {
+  "task_id": "14418",
+  "occupation": "Tire Builders",
+  "task_text": "Build semi-raw rubber treads onto buffed tire casings to prepare tires for vulcanization in recapping or retreading processes."
+ },
+ {
+  "task_id": "14430",
+  "occupation": "Tire Builders",
+  "task_text": "Trim excess rubber and imperfections during retreading processes."
+ },
+ {
+  "task_id": "14425",
+  "occupation": "Tire Builders",
+  "task_text": "Fill cuts and holes in tires, using hot rubber."
+ },
+ {
+  "task_id": "14431",
+  "occupation": "Tire Builders",
+  "task_text": "Place tires into molds for new tread."
+ },
+ {
+  "task_id": "14423",
+  "occupation": "Tire Builders",
+  "task_text": "Fit inner tubes and final layers of rubber onto tires."
+ },
+ {
+  "task_id": "21215",
+  "occupation": "Tire Builders",
+  "task_text": "Buff tires according to specifications for width and undertread depth."
+ },
+ {
+  "task_id": "14426",
+  "occupation": "Tire Builders",
+  "task_text": "Brush or spray solvents onto plies to ensure adhesion, and repeat process as specified, alternating direction of each ply to strengthen tires."
+ },
+ {
+  "task_id": "14411",
+  "occupation": "Tire Builders",
+  "task_text": "Start rollers that bond tread and plies as drums revolve."
+ },
+ {
+  "task_id": "14415",
+  "occupation": "Tire Builders",
+  "task_text": "Align treads with guides, start drums to wind treads onto plies, and slice ends."
+ },
+ {
+  "task_id": "14413",
+  "occupation": "Tire Builders",
+  "task_text": "Inspect worn tires for faults, cracks, cuts, and nail holes, and to determine if tires are suitable for retreading."
+ },
+ {
+  "task_id": "14428",
+  "occupation": "Tire Builders",
+  "task_text": "Measure tires to determine mold size requirements."
+ },
+ {
+  "task_id": "14427",
+  "occupation": "Tire Builders",
+  "task_text": "Roll hand rollers over rebuilt casings, exerting pressure to ensure adhesion between camelbacks and casings."
+ },
+ {
+  "task_id": "14417",
+  "occupation": "Tire Builders",
+  "task_text": "Position ply stitcher rollers and drums according to width of stock, using hand tools and gauges."
+ },
+ {
+  "task_id": "14414",
+  "occupation": "Tire Builders",
+  "task_text": "Cut plies at splice points, and press ends together to form continuous bands."
+ },
+ {
+  "task_id": "14410",
+  "occupation": "Tire Builders",
+  "task_text": "Depress pedals to rotate drums, and wind specified numbers of plies around drums to form tire bodies."
+ },
+ {
+  "task_id": "14422",
+  "occupation": "Tire Builders",
+  "task_text": "Clean and paint completed tires."
+ },
+ {
+  "task_id": "14424",
+  "occupation": "Tire Builders",
+  "task_text": "Rub cement sticks on drum edges to provide adhesive surfaces for plies."
+ },
+ {
+  "task_id": "14429",
+  "occupation": "Tire Builders",
+  "task_text": "Depress pedals to collapse drums after processing is complete."
+ },
+ {
+  "task_id": "14419",
+  "occupation": "Tire Builders",
+  "task_text": "Wind chafers and breakers onto plies."
+ },
+ {
+  "task_id": "14420",
+  "occupation": "Tire Builders",
+  "task_text": "Pull plies from supply racks, and align plies with edges of drums."
+ },
+ {
+  "task_id": "12699",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Load and unload items from machines, conveyors, and conveyances."
+ },
+ {
+  "task_id": "12693",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Operate machinery used in the production process, or assist machine operators."
+ },
+ {
+  "task_id": "12706",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Place products in equipment or on work surfaces for further processing, inspecting, or wrapping."
+ },
+ {
+  "task_id": "12694",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Examine products to verify conformance to quality standards."
+ },
+ {
+  "task_id": "12703",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Start machines or equipment to begin production processes."
+ },
+ {
+  "task_id": "12695",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Observe equipment operations so that malfunctions can be detected, and notify operators of any malfunctions."
+ },
+ {
+  "task_id": "12707",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Remove products, machine attachments, or waste material from machines."
+ },
+ {
+  "task_id": "12696",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Lift raw materials, finished products, and packed items, manually or using hoists."
+ },
+ {
+  "task_id": "12710",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Transfer finished products, raw materials, tools, or equipment between storage and work areas of plants and warehouses, by hand or using hand trucks or powered lift trucks."
+ },
+ {
+  "task_id": "12708",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Pack and store materials and products."
+ },
+ {
+  "task_id": "12700",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Help production workers by performing duties of lesser skill, such as supplying or holding materials or tools, or cleaning work areas and equipment."
+ },
+ {
+  "task_id": "12697",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Count finished products to determine if product orders are complete."
+ },
+ {
+  "task_id": "12713",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Measure amounts of products, lengths of extruded articles, or weights of filled containers to ensure conformance to specifications."
+ },
+ {
+  "task_id": "12704",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Separate products according to weight, grade, size, or composition of materials used to produce them."
+ },
+ {
+  "task_id": "12705",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Turn valves to regulate flow of liquids or air, to reverse machines, to start pumps, or to regulate equipment."
+ },
+ {
+  "task_id": "12698",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Mark or tag identification on parts."
+ },
+ {
+  "task_id": "12716",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Mix ingredients according to specified procedures or formulas."
+ },
+ {
+  "task_id": "12709",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Tie products in bundles for further processing or shipment, following prescribed procedures."
+ },
+ {
+  "task_id": "12702",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Record information, such as the number of products tested, meter readings, or dates and times of product production."
+ },
+ {
+  "task_id": "12715",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Read gauges or charts, and record data obtained."
+ },
+ {
+  "task_id": "12720",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Unclamp and hoist full reels from braiding, winding, or other fabricating machines, using power hoists."
+ },
+ {
+  "task_id": "12711",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Signal coworkers to direct them to move products during the production process."
+ },
+ {
+  "task_id": "12701",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Clean and lubricate equipment."
+ },
+ {
+  "task_id": "12712",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Prepare raw materials for processing."
+ },
+ {
+  "task_id": "12725",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Perform minor repairs to machines, such as replacing damaged or worn parts."
+ },
+ {
+  "task_id": "12726",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Attach slings, ropes, or cables to objects such as pipes, hoses, or bundles."
+ },
+ {
+  "task_id": "12717",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Position spouts or chutes of storage bins so that containers can be filled."
+ },
+ {
+  "task_id": "12719",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Wash work areas, machines, equipment, vehicles, or products."
+ },
+ {
+  "task_id": "12722",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Break up defective products for reprocessing."
+ },
+ {
+  "task_id": "12724",
+  "occupation": "Helpers--Production Workers",
+  "task_text": "Cut or break flashing from materials or products."
+ },
+ {
+  "task_id": "14435",
+  "occupation": "Aircraft Cargo Handling Supervisors",
+  "task_text": "Determine the quantity and orientation of cargo, and compute an aircraft's center of gravity."
+ },
+ {
+  "task_id": "14434",
+  "occupation": "Aircraft Cargo Handling Supervisors",
+  "task_text": "Direct ground crews in the loading, unloading, securing, or staging of aircraft cargo or baggage."
+ },
+ {
+  "task_id": "20933",
+  "occupation": "Aircraft Cargo Handling Supervisors",
+  "task_text": "Train new employees in areas such as safety procedures or equipment operation."
+ },
+ {
+  "task_id": "14432",
+  "occupation": "Aircraft Cargo Handling Supervisors",
+  "task_text": "Distribute cargo to maximize use of space."
+ },
+ {
+  "task_id": "14433",
+  "occupation": "Aircraft Cargo Handling Supervisors",
+  "task_text": "Calculate load weights for different aircraft compartments, using charts and computers."
+ },
+ {
+  "task_id": "14436",
+  "occupation": "Aircraft Cargo Handling Supervisors",
+  "task_text": "Accompany aircraft as a member of the flight crew to monitor and handle cargo in flight."
+ },
+ {
+  "task_id": "20830",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Maintain a safe working environment by monitoring safety procedures and equipment."
+ },
+ {
+  "task_id": "8562",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Collaborate with workers and managers to solve work-related problems."
+ },
+ {
+  "task_id": "8563",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Review work throughout the work process and at completion to ensure that it has been performed properly."
+ },
+ {
+  "task_id": "8566",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Inform designated employees or departments of items loaded or problems encountered."
+ },
+ {
+  "task_id": "8573",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Inspect equipment for wear and for conformance to specifications."
+ },
+ {
+  "task_id": "8570",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Prepare and maintain work records and reports of information such as employee time and wages, daily receipts, or inspection results."
+ },
+ {
+  "task_id": "8564",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Transmit and explain work orders to laborers."
+ },
+ {
+  "task_id": "8561",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Plan work schedules and assign duties to maintain adequate staff for effective performance of activities and response to fluctuating workloads."
+ },
+ {
+  "task_id": "8582",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Participate in the hiring process by reviewing credentials, conducting interviews, or making hiring decisions or recommendations."
+ },
+ {
+  "task_id": "8579",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Estimate material, time, and staffing requirements for a given project, based on work orders, job specifications, and experience."
+ },
+ {
+  "task_id": "8572",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Counsel employees in work-related activities, personal growth, or career development."
+ },
+ {
+  "task_id": "8576",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Assess training needs of staff and arrange for or provide appropriate instruction."
+ },
+ {
+  "task_id": "8571",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Conduct staff meetings to relay general information or to address specific topics, such as safety."
+ },
+ {
+  "task_id": "8565",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Check specifications of materials loaded or unloaded against information contained in work orders."
+ },
+ {
+  "task_id": "8569",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Perform the same work duties as those supervised, or perform more difficult or skilled tasks or assist in their performance."
+ },
+ {
+  "task_id": "8574",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Resolve personnel problems, complaints, or formal grievances when possible, or refer them to higher-level supervisors for resolution."
+ },
+ {
+  "task_id": "8575",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Recommend or initiate personnel actions, such as promotions, transfers, or disciplinary measures."
+ },
+ {
+  "task_id": "8568",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Evaluate employee performance and prepare performance appraisals."
+ },
+ {
+  "task_id": "8567",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Examine freight to determine loading sequences."
+ },
+ {
+  "task_id": "8577",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Schedule times of shipment and modes of transportation for materials."
+ },
+ {
+  "task_id": "8583",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Inventory supplies and requisition or purchase additional items, as necessary."
+ },
+ {
+  "task_id": "8578",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Quote prices to customers."
+ },
+ {
+  "task_id": "8580",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Provide assistance in balancing books, tracking, monitoring, or projecting a unit's budget needs, and in developing unit policies and procedures."
+ },
+ {
+  "task_id": "8581",
+  "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+  "task_text": "Inspect job sites to determine the extent of maintenance or repairs needed."
+ },
+ {
+  "task_id": "17888",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Oversee recycling pick-up or drop-off programs to ensure compliance with community ordinances."
+ },
+ {
+  "task_id": "17907",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Maintain logs of recycling materials received or shipped to processing companies."
+ },
+ {
+  "task_id": "17889",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Supervise recycling technicians, community service workers, or other recycling operations employees or volunteers."
+ },
+ {
+  "task_id": "17910",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Review customer requests for service to determine service needs and deploy appropriate resources to provide service."
+ },
+ {
+  "task_id": "17909",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Provide training to recycling technicians or community service workers on topics such as safety, solid waste processing, or general recycling operations."
+ },
+ {
+  "task_id": "17905",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Identify or investigate new opportunities for materials to be collected and recycled."
+ },
+ {
+  "task_id": "17890",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Assign truck drivers or recycling technicians to routes."
+ },
+ {
+  "task_id": "17893",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Create or manage recycling operations budgets."
+ },
+ {
+  "task_id": "17908",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Prepare bills of lading, statements of shipping records, or customer receipts related to recycling or hazardous material services."
+ },
+ {
+  "task_id": "17906",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Inspect physical condition of recycling or hazardous waste facility for compliance with safety, quality, and service standards."
+ },
+ {
+  "task_id": "17899",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Negotiate contracts with waste management or other firms."
+ },
+ {
+  "task_id": "17892",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Coordinate shipments of recycling materials with shipping brokers or processing companies."
+ },
+ {
+  "task_id": "17901",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Operate recycling processing equipment, such as sorters, balers, crushers, and granulators to sort and process materials."
+ },
+ {
+  "task_id": "17900",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Operate fork lifts, skid loaders, or trucks to move or store recyclable materials."
+ },
+ {
+  "task_id": "17904",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Schedule movement of recycling materials into and out of storage areas."
+ },
+ {
+  "task_id": "17902",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Oversee campaigns to promote recycling or waste reduction programs in communities or private companies."
+ },
+ {
+  "task_id": "17891",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Coordinate recycling collection schedules to optimize service and efficiency."
+ },
+ {
+  "task_id": "17895",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Develop community or corporate recycling plans and goals to minimize waste and conform to resource constraints."
+ },
+ {
+  "task_id": "17903",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Prepare grant applications to fund recycling programs or program enhancements."
+ },
+ {
+  "task_id": "17897",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Investigate violations of solid waste or recycling ordinances."
+ },
+ {
+  "task_id": "17896",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Implement grant-funded projects, monitoring and reporting progress in accordance with sponsoring agency requirements."
+ },
+ {
+  "task_id": "17898",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Make presentations to educate the public on how to recycle or on the environmental advantages of recycling."
+ },
+ {
+  "task_id": "17894",
+  "occupation": "Recycling Coordinators",
+  "task_text": "Design community solid and hazardous waste management programs."
+ },
+ {
+  "task_id": "8584",
+  "occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+  "task_text": "Enforce safety rules and regulations."
+ },
+ {
+  "task_id": "8593",
+  "occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+  "task_text": "Interpret transportation or tariff regulations, shipping orders, safety regulations, or company policies and procedures for workers."
+ },
+ {
+  "task_id": "8588",
+  "occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+  "task_text": "Resolve worker problems or collaborate with employees to assist in problem resolution."
+ },
+ {
+  "task_id": "8586",
+  "occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+  "task_text": "Confer with customers, supervisors, contractors, or other personnel to exchange information or to resolve problems."
+ },
+ {
+  "task_id": "8585",
+  "occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+  "task_text": "Plan work assignments and equipment allocations to meet transportation, operations or production goals."
+ },
+ {
+  "task_id": "8603",
+  "occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+  "task_text": "Examine, measure, or weigh cargo or materials to determine specific handling requirements."
+ },
+ {
+  "task_id": "8594",
+  "occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+  "task_text": "Explain and demonstrate work tasks to new workers or assign training tasks to experienced workers."
+ },
+ {
+  "task_id": "8589",
+  "occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+  "task_text": "Review orders, production schedules, blueprints, or shipping or receiving notices to determine work sequences and material shipping dates, types, volumes, or destinations."
+ }
+]

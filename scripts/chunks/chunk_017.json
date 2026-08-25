@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "12916",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Meet with clients' other advisors, such as attorneys, accountants, trust officers, or investment bankers, to fully understand clients' financial goals and circumstances."
+ },
+ {
+  "task_id": "12917",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Devise debt liquidation plans that include payoff priorities and timelines."
+ },
+ {
+  "task_id": "12918",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Open accounts for clients, and disburse funds from accounts to creditors as agent for clients."
+ },
+ {
+  "task_id": "12919",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Conduct seminars or workshops on financial planning topics, such as retirement planning, estate planning, or the evaluation of severance packages."
+ },
+ {
+  "task_id": "12993",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Confer with disputants to clarify issues, identify underlying concerns, and develop an understanding of their respective needs and interests."
+ },
+ {
+  "task_id": "12994",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Use mediation techniques to facilitate communication between disputants, to further parties' understanding of different perspectives, and to guide parties toward mutual agreement."
+ },
+ {
+  "task_id": "12995",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Set up appointments for parties to meet for mediation."
+ },
+ {
+  "task_id": "12996",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Prepare settlement agreements for disputants to sign."
+ },
+ {
+  "task_id": "12997",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Organize or deliver public presentations about mediation to organizations, such as community agencies or schools."
+ },
+ {
+  "task_id": "12999",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Prepare written opinions or decisions regarding cases."
+ },
+ {
+  "task_id": "13001",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Rule on exceptions, motions, or admissibility of evidence."
+ },
+ {
+  "task_id": "13003",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Evaluate information from documents, such as claim applications, birth or death certificates, or physician or employer records."
+ },
+ {
+  "task_id": "13004",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Interview claimants, agents, or witnesses to obtain information about disputed issues."
+ },
+ {
+  "task_id": "13005",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Research laws, regulations, policies, or precedent decisions to prepare for hearings."
+ },
+ {
+  "task_id": "13007",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Recommend acceptance or rejection of compromise settlement offers."
+ },
+ {
+  "task_id": "13008",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Conduct initial meetings with disputants to outline the arbitration process, settle procedural matters, such as fees, or determine details, such as witness numbers or time requirements."
+ },
+ {
+  "task_id": "13009",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Participate in court proceedings."
+ },
+ {
+  "task_id": "13010",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Issue subpoenas or administer oaths to prepare for formal hearings."
+ },
+ {
+  "task_id": "13011",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Authorize payment of valid claims."
+ },
+ {
+  "task_id": "13012",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Conduct studies of appeals procedures to ensure adherence to legal requirements or to facilitate disposition of cases."
+ },
+ {
+  "task_id": "13190",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Demonstrate or explain products, methods, or services to persuade customers to purchase products or use services."
+ },
+ {
+  "task_id": "13191",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Provide product samples, coupons, informational brochures, or other incentives to persuade people to buy products."
+ },
+ {
+  "task_id": "13192",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Keep areas neat while working and return items to correct locations following demonstrations."
+ },
+ {
+  "task_id": "13193",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Record and report demonstration-related information, such as the number of questions asked by the audience or the number of coupons distributed."
+ },
+ {
+  "task_id": "13194",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Sell products being promoted and keep records of sales."
+ },
+ {
+  "task_id": "13195",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Set up and arrange displays or demonstration areas to attract the attention of prospective customers."
+ },
+ {
+  "task_id": "13196",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Suggest specific product purchases to meet customers' needs."
+ },
+ {
+  "task_id": "13197",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Transport, assemble, and disassemble materials used in presentations."
+ },
+ {
+  "task_id": "13198",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Identify interested and qualified customers to provide them with additional information."
+ },
+ {
+  "task_id": "13199",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Practice demonstrations to ensure that they will run smoothly."
+ },
+ {
+  "task_id": "13200",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Prepare or alter presentation contents to target specific audiences."
+ },
+ {
+  "task_id": "13201",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Learn about competitors' products or consumers' interests or concerns to answer questions or provide more complete information."
+ },
+ {
+  "task_id": "13202",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Work as part of a team of demonstrators to accommodate large crowds."
+ },
+ {
+  "task_id": "13203",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Visit trade shows, stores, community organizations, or other venues to demonstrate products or services or to answer questions from potential customers."
+ },
+ {
+  "task_id": "13204",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Train demonstrators to present a company's products or services."
+ },
+ {
+  "task_id": "13205",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Instruct customers in alteration of products."
+ },
+ {
+  "task_id": "13206",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Research or investigate products to be presented to prepare for demonstrations."
+ },
+ {
+  "task_id": "13207",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Recommend product or service improvements to employers."
+ },
+ {
+  "task_id": "13208",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Provide product information, using lectures, films, charts, or slide shows."
+ },
+ {
+  "task_id": "13210",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Wear costumes or sign boards and walk in public to promote merchandise, services, or events."
+ },
+ {
+  "task_id": "13211",
+  "occupation": "Demonstrators and Product Promoters",
+  "task_text": "Stock shelves with products."
+ },
+ {
+  "task_id": "13215",
+  "occupation": "Models",
+  "task_text": "Gather information from agents concerning the pay, dates, times, provisions, and lengths of jobs."
+ },
+ {
+  "task_id": "13216",
+  "occupation": "Models",
+  "task_text": "Follow strict routines of diet, sleep, and exercise to maintain appearance."
+ },
+ {
+  "task_id": "13217",
+  "occupation": "Models",
+  "task_text": "Record rates of pay and durations of jobs on vouchers."
+ },
+ {
+  "task_id": "13218",
+  "occupation": "Models",
+  "task_text": "Report job completions to agencies and obtain information about future appointments."
+ },
+ {
+  "task_id": "13219",
+  "occupation": "Models",
+  "task_text": "Assemble and maintain portfolios, print composite cards, and travel to go-sees to obtain jobs."
+ },
+ {
+  "task_id": "13220",
+  "occupation": "Models",
+  "task_text": "Work closely with photographers, fashion coordinators, directors, producers, stylists, make-up artists, other models, and clients to produce the desired looks, and to finish photo shoots on schedule."
+ },
+ {
+  "task_id": "13221",
+  "occupation": "Models",
+  "task_text": "Apply makeup to face and style hair to enhance appearance, considering such factors as color, camera techniques, and facial features."
+ },
+ {
+  "task_id": "13225",
+  "occupation": "Models",
+  "task_text": "Pose as directed, or strike suitable interpretive poses for promoting and selling merchandise or fashions during appearances, filming, or photo sessions."
+ },
+ {
+  "task_id": "13226",
+  "occupation": "Models",
+  "task_text": "Dress in sample or completed garments, and select accessories."
+ },
+ {
+  "task_id": "13231",
+  "occupation": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+  "task_text": "Deliver merchandise and collect payment."
+ },
+ {
+  "task_id": "13232",
+  "occupation": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+  "task_text": "Write and record orders for merchandise or enter orders into computers."
+ },
+ {
+  "task_id": "13233",
+  "occupation": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+  "task_text": "Explain products or services and prices and demonstrate use of products."
+ },
+ {
+  "task_id": "13235",
+  "occupation": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+  "task_text": "Arrange buying parties and solicit sponsorship of such parties to sell merchandise."
+ },
+ {
+  "task_id": "13236",
+  "occupation": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+  "task_text": "Answer questions about product features and benefits."
+ },
+ {
+  "task_id": "13237",
+  "occupation": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+  "task_text": "Circulate among potential customers or travel by foot, truck, automobile, or bicycle to deliver or sell merchandise or services."
+ },
+ {
+  "task_id": "13238",
+  "occupation": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+  "task_text": "Develop prospect lists."
+ },
+ {
+  "task_id": "13239",
+  "occupation": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+  "task_text": "Distribute product samples or literature that details products or services."
+ },
+ {
+  "task_id": "13240",
+  "occupation": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+  "task_text": "Order or purchase supplies."
+ },
+ {
+  "task_id": "13241",
+  "occupation": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+  "task_text": "Set up and display sample merchandise at parties or stands."
+ },
+ {
+  "task_id": "13242",
+  "occupation": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+  "task_text": "Stock carts or stands."
+ },
+ {
+  "task_id": "13243",
+  "occupation": "Telephone Operators",
+  "task_text": "Listen to customer requests, referring to alphabetical or geographical directories to answer questions and provide telephone information."
+ },
+ {
+  "task_id": "13244",
+  "occupation": "Telephone Operators",
+  "task_text": "Suggest and check alternate spellings, locations, or listing formats to customers lacking details or complete information."
+ },
+ {
+  "task_id": "13245",
+  "occupation": "Telephone Operators",
+  "task_text": "Offer special assistance to persons such as those who are unable to dial or who are in emergency situations."
+ },
+ {
+  "task_id": "13246",
+  "occupation": "Telephone Operators",
+  "task_text": "Observe signal lights on switchboards, and dial or press buttons to make connections."
+ },
+ {
+  "task_id": "13247",
+  "occupation": "Telephone Operators",
+  "task_text": "Operate telephone switchboards and systems to advance and complete connections, including those for local, long distance, pay telephone, mobile, person-to-person, and emergency calls."
+ },
+ {
+  "task_id": "13248",
+  "occupation": "Telephone Operators",
+  "task_text": "Provide assistance for customers with special billing requests."
+ },
+ {
+  "task_id": "13250",
+  "occupation": "Telephone Operators",
+  "task_text": "Monitor automated systems for placing collect calls and intervene for a callers needing assistance."
+ },
+ {
+  "task_id": "13251",
+  "occupation": "Telephone Operators",
+  "task_text": "Perform clerical duties such as typing, proofreading, and sorting mail."
+ },
+ {
+  "task_id": "13253",
+  "occupation": "Telephone Operators",
+  "task_text": "Interrupt busy lines if an emergency warrants."
+ },
+ {
+  "task_id": "13254",
+  "occupation": "Telephone Operators",
+  "task_text": "Provide relay service for users who are deaf or hard of hearing."
+ },
+ {
+  "task_id": "13255",
+  "occupation": "Telephone Operators",
+  "task_text": "Promote company products, services, and savings plans when appropriate."
+ },
+ {
+  "task_id": "13256",
+  "occupation": "Telephone Operators",
+  "task_text": "Operate paging systems or other systems of bells or buzzers to notify recipients of incoming calls."
+ },
+ {
+  "task_id": "13257",
+  "occupation": "Telephone Operators",
+  "task_text": "Update directory information."
+ },
+ {
+  "task_id": "13258",
+  "occupation": "Telephone Operators",
+  "task_text": "Keep records of calls placed and received, and of related toll charges."
+ },
+ {
+  "task_id": "13259",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Seal or open envelopes, by hand or by using machines."
+ },
+ {
+  "task_id": "13260",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Affix postage to packages or letters by hand, or stamp materials, using postage meters."
+ },
+ {
+  "task_id": "13261",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Verify that items are addressed correctly, marked with the proper postage, and in suitable condition for processing."
+ },
+ {
+  "task_id": "13262",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Place incoming or outgoing letters or packages into sacks or bins based on destination or type, and place identifying tags on sacks or bins."
+ },
+ {
+  "task_id": "13263",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Clear jams in sortation equipment."
+ },
+ {
+  "task_id": "13264",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Sort and route incoming mail, and collect outgoing mail, using carts as necessary."
+ },
+ {
+  "task_id": "13265",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Weigh packages or letters to determine postage needed, using weighing scales and rate charts."
+ },
+ {
+  "task_id": "13266",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Determine manner in which mail is to be sent, and prepare it for delivery to mailing facilities."
+ },
+ {
+  "task_id": "13267",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Lift and unload containers of mail or parcels onto equipment for transportation to sortation stations."
+ },
+ {
+  "task_id": "13268",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Wrap packages or bundles by hand, or by using tying machines."
+ },
+ {
+  "task_id": "13269",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Fold letters or circulars and insert them in envelopes."
+ },
+ {
+  "task_id": "13270",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Remove from machines printed materials, such as labeled articles, postmarked envelopes or tape, and folded sheets."
+ },
+ {
+  "task_id": "13271",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Add ink, fill paste reservoirs, and change machine ribbons when necessary."
+ },
+ {
+  "task_id": "13272",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Start machines that automatically feed plates, stencils, or tapes through mechanisms, and observe machine operations to detect any malfunctions."
+ },
+ {
+  "task_id": "13273",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Read production orders to determine types and sizes of items scheduled for printing and mailing."
+ },
+ {
+  "task_id": "13274",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Mail merchandise samples or promotional literature in response to requests."
+ },
+ {
+  "task_id": "13275",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Inspect mail machine output for defects and determine how to eliminate causes of any defects."
+ },
+ {
+  "task_id": "13276",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Remove containers of sorted mail or parcels and transfer them to designated areas according to established procedures."
+ },
+ {
+  "task_id": "13277",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Contact delivery or courier services to arrange delivery of letters and parcels."
+ },
+ {
+  "task_id": "13279",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Stamp dates and times of receipt of incoming mail."
+ },
+ {
+  "task_id": "13280",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Operate computer-controlled keyboards or voice recognition equipment to direct items according to established routing schemes."
+ },
+ {
+  "task_id": "13281",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Adjust guides, rollers, loose card inserters, weighing machines, and tying arms, using rules and hand tools."
+ },
+ {
+  "task_id": "13282",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Accept and check containers of mail or parcels from large volume mailers, couriers, and contractors."
+ },
+ {
+  "task_id": "13283",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Release packages or letters to customers upon presentation of written notices or other identification."
+ },
+ {
+  "task_id": "13284",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Answer inquiries regarding shipping or mailing policies."
+ },
+ {
+  "task_id": "13286",
+  "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+  "task_text": "Sell mail products, and accept payment for products and mailing charges."
+ },
+ {
+  "task_id": "13288",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "Read job orders to determine the type of work to be done, the quantities to be produced, and the materials needed."
+ },
+ {
+  "task_id": "13289",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "Operate office machines such as high speed business photocopiers, readers, scanners, addressing machines, stencil-cutting machines, microfilm readers or printers, folding and inserting machines, burst"
+ },
+ {
+  "task_id": "13290",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "Place original copies in feed trays, feed originals into feed rolls, or position originals on tables beneath camera lenses."
+ },
+ {
+  "task_id": "13291",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "Compute prices for services and receive payment, or provide supervisors with billing information."
+ },
+ {
+  "task_id": "13292",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "Sort, assemble, and proof completed work."
+ },
+ {
+  "task_id": "13293",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "Set up and adjust machines, regulating factors such as speed, ink flow, focus, and number of copies."
+ },
+ {
+  "task_id": "13294",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "Monitor machine operation, and make adjustments as necessary to ensure proper operation."
+ },
+ {
+  "task_id": "13295",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "Load machines with materials such as blank paper or film."
+ },
+ {
+  "task_id": "13296",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "Maintain stock of supplies, and requisition any needed items."
+ },
+ {
+  "task_id": "13297",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "File and store completed documents."
+ },
+ {
+  "task_id": "13298",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "Clean machines, perform minor repairs, and report major repair needs."
+ },
+ {
+  "task_id": "13299",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "Operate auxiliary machines such as collators, pad and tablet making machines, staplers, and paper punching, folding, cutting, and perforating machines."
+ },
+ {
+  "task_id": "13300",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "Complete records of production, including work volumes and outputs, materials used, and any backlogs."
+ },
+ {
+  "task_id": "13301",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "Deliver completed work."
+ },
+ {
+  "task_id": "13302",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "Prepare and process papers for use in scanning, microfilming, and microfiche."
+ },
+ {
+  "task_id": "13303",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "Cut copies apart and write identifying information, such as page numbers or titles, on copies."
+ },
+ {
+  "task_id": "13304",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "Clean and file master copies or plates."
+ },
+ {
+  "task_id": "13305",
+  "occupation": "Office Machine Operators, Except Computer",
+  "task_text": "Move heat units and clamping frames over screen beds to form Braille impressions on pages, raising frames to release individual copies."
+ },
+ {
+  "task_id": "14838",
+  "occupation": "Farm Labor Contractors",
+  "task_text": "Pay wages of contracted farm laborers."
+ },
+ {
+  "task_id": "14839",
+  "occupation": "Farm Labor Contractors",
+  "task_text": "Provide food, drinking water, and field sanitation facilities to contracted workers."
+ },
+ {
+  "task_id": "14840",
+  "occupation": "Farm Labor Contractors",
+  "task_text": "Recruit and hire agricultural workers."
+ },
+ {
+  "task_id": "14841",
+  "occupation": "Farm Labor Contractors",
+  "task_text": "Employ foremen to deal directly with workers when recruiting, hiring, instructing, assigning tasks, and enforcing work rules."
+ },
+ {
+  "task_id": "14842",
+  "occupation": "Farm Labor Contractors",
+  "task_text": "Supervise the work of contracted employees."
+ },
+ {
+  "task_id": "14843",
+  "occupation": "Farm Labor Contractors",
+  "task_text": "Furnish tools for employee use."
+ },
+ {
+  "task_id": "14844",
+  "occupation": "Farm Labor Contractors",
+  "task_text": "Direct and transport workers to appropriate work sites."
+ },
+ {
+  "task_id": "15230",
+  "occupation": "Psychiatrists",
+  "task_text": "Teach, take continuing education classes, attend conferences or seminars, or conduct research and publish findings to increase understanding of mental, emotional, or behavioral states or disorders."
+ },
+ {
+  "task_id": "15231",
+  "occupation": "Occupational Therapists",
+  "task_text": "Train caregivers in providing for the needs of a patient during and after therapy."
+ },
+ {
+  "task_id": "15232",
+  "occupation": "Medical and Clinical Laboratory Technologists",
+  "task_text": "Establish or monitor quality assurance programs or activities to ensure the accuracy of laboratory results."
+ },
+ {
+  "task_id": "15233",
+  "occupation": "Medical and Clinical Laboratory Technologists",
+  "task_text": "Collect and study blood samples to determine the number of cells, their morphology, or their blood group, blood type, or compatibility for transfusion purposes, using microscopic techniques."
+ }
+]

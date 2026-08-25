@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "20334",
+  "occupation": "Construction Managers",
+  "task_text": "Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors."
+ },
+ {
+  "task_id": "3323",
+  "occupation": "Construction Managers",
+  "task_text": "Study job specifications to determine appropriate construction methods."
+ },
+ {
+  "task_id": "3315",
+  "occupation": "Construction Managers",
+  "task_text": "Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems."
+ },
+ {
+  "task_id": "20339",
+  "occupation": "Construction Managers",
+  "task_text": "Contract or oversee craft work, such as painting or plumbing."
+ },
+ {
+  "task_id": "20333",
+  "occupation": "Construction Managers",
+  "task_text": "Investigate damage, accidents, or delays at construction sites to ensure that proper construction procedures are being followed."
+ },
+ {
+  "task_id": "20336",
+  "occupation": "Construction Managers",
+  "task_text": "Interpret and explain plans and contract terms to representatives of the owner or developer, including administrative staff, workers, or clients."
+ },
+ {
+  "task_id": "20335",
+  "occupation": "Construction Managers",
+  "task_text": "Implement new or modified plans in response to delays, bad weather, or construction site emergencies."
+ },
+ {
+  "task_id": "3325",
+  "occupation": "Construction Managers",
+  "task_text": "Requisition supplies or materials to complete construction projects."
+ },
+ {
+  "task_id": "20337",
+  "occupation": "Construction Managers",
+  "task_text": "Apply for and obtain all necessary permits or licenses."
+ },
+ {
+  "task_id": "19523",
+  "occupation": "Construction Managers",
+  "task_text": "Perform, or contract others to perform, pre-building assessments, such as conceptual cost estimating, rough order of magnitude estimating, feasibility, or energy efficiency, environmental, and sustainability assessments."
+ },
+ {
+  "task_id": "20338",
+  "occupation": "Construction Managers",
+  "task_text": "Evaluate construction methods and determine cost-effectiveness of plans, using computer models."
+ },
+ {
+  "task_id": "19522",
+  "occupation": "Construction Managers",
+  "task_text": "Inspect or review projects to monitor compliance with environmental regulations."
+ },
+ {
+  "task_id": "19520",
+  "occupation": "Construction Managers",
+  "task_text": "Develop or implement environmental protection programs."
+ },
+ {
+  "task_id": "19524",
+  "occupation": "Construction Managers",
+  "task_text": "Secure third-party verification from sources, such as Leadership in Energy Efficient Design (LEED), to ensure responsible design and building activities or to achieve favorable LEED ratings for building projects."
+ },
+ {
+  "task_id": "19521",
+  "occupation": "Construction Managers",
+  "task_text": "Implement training programs on environmentally responsible building topics to update employee skills and knowledge."
+ },
+ {
+  "task_id": "19519",
+  "occupation": "Construction Managers",
+  "task_text": "Develop construction budgets to compare green and non-green construction alternatives, in terms of short-term costs, long-term costs, or environmental impacts."
+ },
+ {
+  "task_id": "19518",
+  "occupation": "Construction Managers",
+  "task_text": "Apply green building strategies to reduce energy costs or minimize carbon output or other sources of harm to the environment."
+ },
+ {
+  "task_id": "3331",
+  "occupation": "Construction Managers",
+  "task_text": "Direct acquisition of land for construction projects."
+ },
+ {
+  "task_id": "5193",
+  "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+  "task_text": "Confer with parents and staff to discuss educational activities and policies and students' behavioral or learning problems."
+ },
+ {
+  "task_id": "5196",
+  "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+  "task_text": "Monitor students' progress and provide students and teachers with assistance in resolving any problems."
+ },
+ {
+  "task_id": "5198",
+  "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+  "task_text": "Recruit, hire, train, and evaluate primary and supplemental staff and recommend personnel actions for programs and services."
+ },
+ {
+  "task_id": "5204",
+  "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+  "task_text": "Teach classes or courses or provide direct care to children."
+ },
+ {
+  "task_id": "5195",
+  "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+  "task_text": "Set educational standards and goals and help establish policies, procedures, and programs to carry them out."
+ },
+ {
+  "task_id": "5202",
+  "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+  "task_text": "Determine the scope of educational program offerings and prepare drafts of program schedules and descriptions to estimate staffing and facility requirements."
+ },
+ {
+  "task_id": "5197",
+  "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+  "task_text": "Determine allocations of funds for staff, supplies, materials, and equipment and authorize purchases."
+ },
+ {
+  "task_id": "5199",
+  "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+  "task_text": "Direct and coordinate activities of teachers or administrators at daycare centers, schools, public agencies, or institutions."
+ },
+ {
+  "task_id": "5194",
+  "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+  "task_text": "Prepare and maintain attendance, activity, planning, accounting, or personnel reports and records for officials and agencies, or direct preparation and maintenance activities."
+ },
+ {
+  "task_id": "5200",
+  "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+  "task_text": "Plan, direct, and monitor instructional methods and content of educational, vocational, or student activity programs."
+ },
+ {
+  "task_id": "5201",
+  "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+  "task_text": "Review and interpret government codes and develop procedures to meet codes and to ensure facility safety, security, and maintenance."
+ },
+ {
+  "task_id": "5203",
+  "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+  "task_text": "Review and evaluate new and current programs to determine their efficiency, effectiveness, and compliance with state, local, and federal regulations and recommend any necessary modifications."
+ },
+ {
+  "task_id": "5207",
+  "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+  "task_text": "Collect and analyze survey data, regulatory information, and demographic and employment trends to forecast enrollment patterns and the need for curriculum changes."
+ },
+ {
+  "task_id": "5208",
+  "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+  "task_text": "Inform businesses, community groups, and governmental agencies about educational needs, available programs, and program policies."
+ },
+ {
+  "task_id": "5206",
+  "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+  "task_text": "Write articles, manuals, and other publications and assist in the distribution of promotional literature about programs and facilities."
+ },
+ {
+  "task_id": "5205",
+  "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+  "task_text": "Prepare and submit budget requests or grant proposals to solicit program funding."
+ },
+ {
+  "task_id": "5209",
+  "occupation": "Education and Childcare Administrators, Preschool and Daycare",
+  "task_text": "Organize and direct committees of specialists, volunteers, and staff to provide technical and advisory assistance for programs."
+ },
+ {
+  "task_id": "5215",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Counsel and provide guidance to students regarding personal, academic, vocational, or behavioral issues."
+ },
+ {
+  "task_id": "5212",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Confer with parents and staff to discuss educational activities, policies, and student behavior or learning problems."
+ },
+ {
+  "task_id": "5234",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Determine the scope of educational program offerings, and prepare drafts of course schedules and descriptions to estimate staffing and facility requirements."
+ },
+ {
+  "task_id": "5226",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Observe teaching methods and examine learning materials to evaluate and standardize curricula and teaching techniques and to determine areas for improvement."
+ },
+ {
+  "task_id": "5232",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Collaborate with teachers to develop and maintain curriculum standards, develop mission statements, and set performance goals and objectives."
+ },
+ {
+  "task_id": "5225",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Enforce discipline and attendance rules."
+ },
+ {
+  "task_id": "5224",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Recruit, hire, train, and evaluate primary and supplemental staff."
+ },
+ {
+  "task_id": "18587",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Plan and lead professional development activities for teachers, administrators, and support staff."
+ },
+ {
+  "task_id": "5221",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Direct and coordinate activities of teachers, administrators, and support staff at schools, public agencies, and institutions."
+ },
+ {
+  "task_id": "5223",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Set educational standards and goals, and help establish policies and procedures to carry them out."
+ },
+ {
+  "task_id": "5222",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Evaluate curricula, teaching methods, and programs to determine their effectiveness, efficiency, and use, and to ensure compliance with federal, state, and local regulations."
+ },
+ {
+  "task_id": "21040",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Create school improvement plans, using student performance data."
+ },
+ {
+  "task_id": "5229",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Determine allocations of funds for staff, supplies, materials, and equipment, and authorize purchases."
+ },
+ {
+  "task_id": "5213",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Prepare and submit budget requests and recommendations, or grant proposals to solicit program funding."
+ },
+ {
+  "task_id": "5219",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Plan and develop instructional methods and content for educational, vocational, or student activity programs."
+ },
+ {
+  "task_id": "18588",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Participate in special education-related activities, such as attending meetings and providing support to special educators throughout the district."
+ },
+ {
+  "task_id": "5231",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Recommend personnel actions related to programs and services."
+ },
+ {
+  "task_id": "5211",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Prepare, maintain, or oversee the preparation and maintenance of attendance, activity, planning, or personnel reports and records."
+ },
+ {
+  "task_id": "5217",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Teach classes or courses to students."
+ },
+ {
+  "task_id": "5210",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Review and approve new programs, or recommend modifications to existing programs, submitting program proposals for school board approval as necessary."
+ },
+ {
+  "task_id": "18589",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Meet with federal, state, and local agencies to stay abreast of policies and to discuss improvements for education programs."
+ },
+ {
+  "task_id": "5230",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Write articles, manuals, and other publications, and assist in the distribution of promotional literature about facilities and programs."
+ },
+ {
+  "task_id": "18591",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Coordinate and direct extracurricular activities and programs, such as after-school events and athletic contests."
+ },
+ {
+  "task_id": "5216",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Organize and direct committees of specialists, volunteers, and staff to provide technical and advisory assistance for programs."
+ },
+ {
+  "task_id": "5227",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Establish, coordinate, and oversee particular programs across school districts, such as programs to evaluate student academic achievement."
+ },
+ {
+  "task_id": "18592",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Mentor and support administrative staff members, such as superintendents and principals."
+ },
+ {
+  "task_id": "5233",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Collect and analyze survey data, regulatory information, and data on demographic and employment trends to forecast enrollment patterns and curriculum change needs."
+ },
+ {
+  "task_id": "5218",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Advocate for new schools to be built, or for existing facilities to be repaired or remodeled."
+ },
+ {
+  "task_id": "18590",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Plan, coordinate, and oversee school logistics programs, such as bus and food services."
+ },
+ {
+  "task_id": "5228",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Review and interpret government codes, and develop programs to ensure adherence to codes and facility safety, security, and maintenance."
+ },
+ {
+  "task_id": "5220",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Develop partnerships with businesses, communities, and other organizations to help meet identified educational needs and to provide school-to-work programs."
+ },
+ {
+  "task_id": "5214",
+  "occupation": "Education Administrators, Kindergarten through Secondary",
+  "task_text": "Direct and coordinate school maintenance services and the use of school facilities."
+ },
+ {
+  "task_id": "21041",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Design or use assessments to monitor student learning outcomes."
+ },
+ {
+  "task_id": "5235",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Recruit, hire, train, and terminate departmental personnel."
+ },
+ {
+  "task_id": "18594",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Direct, coordinate, and evaluate the activities of personnel, including support staff engaged in administering academic institutions, departments, or alumni organizations."
+ },
+ {
+  "task_id": "18593",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Advise students on issues such as course selection, progress toward graduation, and career decisions."
+ },
+ {
+  "task_id": "5236",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Plan, administer, and control budgets, maintain financial records, and produce financial reports."
+ },
+ {
+  "task_id": "18595",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Formulate strategic plans for the institution."
+ },
+ {
+  "task_id": "5240",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Establish operational policies and procedures and make any necessary modifications, based on analysis of operations, demographics, and other research information."
+ },
+ {
+  "task_id": "5239",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Provide assistance to faculty and staff in duties such as teaching classes, conducting orientation programs, issuing transcripts, and scheduling events."
+ },
+ {
+  "task_id": "5237",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Represent institutions at community and campus events, in meetings with other institution personnel, and during accreditation processes."
+ },
+ {
+  "task_id": "21042",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Prepare reports on academic or institutional data."
+ },
+ {
+  "task_id": "18596",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Promote the university by participating in community, state, and national events or meetings, and by developing partnerships with industry and secondary education institutions."
+ },
+ {
+  "task_id": "5238",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Participate in faculty and college committee activities."
+ },
+ {
+  "task_id": "5243",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Direct activities of administrative departments, such as admissions, registration, and career services."
+ },
+ {
+  "task_id": "5242",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Appoint individuals to faculty positions, and evaluate their performance."
+ },
+ {
+  "task_id": "5244",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Develop curricula, and recommend curricula revisions and additions."
+ },
+ {
+  "task_id": "5246",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Consult with government regulatory and licensing agencies to ensure the institution's conformance with applicable standards."
+ },
+ {
+  "task_id": "5249",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Participate in student recruitment, selection, and admission, making admissions recommendations when required to do so."
+ },
+ {
+  "task_id": "5245",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Determine course schedules, and coordinate teaching assignments and room assignments to ensure optimum use of buildings and equipment."
+ },
+ {
+  "task_id": "5248",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Teach courses within their department."
+ },
+ {
+  "task_id": "5250",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Review student misconduct reports requiring disciplinary action, and counsel students regarding such reports."
+ },
+ {
+  "task_id": "5255",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Review registration statistics, and consult with faculty officials to develop registration policies."
+ },
+ {
+  "task_id": "5241",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Confer with other academic staff to explain and formulate admission requirements and course credit policies."
+ },
+ {
+  "task_id": "5253",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Direct scholarship, fellowship, and loan programs, performing activities such as selecting recipients and distributing aid."
+ },
+ {
+  "task_id": "5259",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Direct and participate in institutional fundraising activities, and encourage alumni participation in such activities."
+ },
+ {
+  "task_id": "5254",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Coordinate the production and dissemination of university publications, such as course catalogs and class schedules."
+ },
+ {
+  "task_id": "18597",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Write grants to procure external funding, and supervise grant-funded projects."
+ },
+ {
+  "task_id": "5258",
+  "occupation": "Education Administrators, Postsecondary",
+  "task_text": "Plan and promote sporting events and social, cultural, and recreational activities."
+ },
+ {
+  "task_id": "20170",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Manage the coordination and overall integration of technical activities in architecture or engineering projects."
+ },
+ {
+  "task_id": "20171",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Direct, review, or approve project design changes."
+ },
+ {
+  "task_id": "1071",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Consult or negotiate with clients to prepare project specifications."
+ },
+ {
+  "task_id": "20172",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Prepare budgets, bids, or contracts."
+ },
+ {
+  "task_id": "1070",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Present and explain proposals, reports, or findings to clients."
+ },
+ {
+  "task_id": "1060",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Confer with management, production, or marketing staff to discuss project specifications or procedures."
+ },
+ {
+  "task_id": "20173",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Assess project feasibility by analyzing technology, resource needs, or market demand."
+ },
+ {
+  "task_id": "20175",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Review, recommend, or approve contracts or cost estimates."
+ },
+ {
+  "task_id": "20176",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Develop or implement policies, standards, or procedures for engineering and technical work."
+ },
+ {
+  "task_id": "20178",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Establish scientific or technical goals within broad outlines provided by top management."
+ },
+ {
+  "task_id": "20174",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Direct recruitment, placement, and evaluation of architecture or engineering project staff."
+ },
+ {
+  "task_id": "20177",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Perform administrative functions, such as reviewing or writing reports, approving expenditures, enforcing rules, or purchasing of materials or services."
+ },
+ {
+  "task_id": "19525",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Develop or implement programs to improve sustainability or reduce the environmental impacts of engineering or architecture activities or operations."
+ },
+ {
+  "task_id": "19527",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Evaluate the environmental impacts of engineering, architecture, or research and development activities."
+ },
+ {
+  "task_id": "1063",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Plan or direct the installation, testing, operation, maintenance, or repair of facilities or equipment."
+ },
+ {
+  "task_id": "19528",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Identify environmental threats or opportunities associated with the development and launch of new technologies."
+ },
+ {
+  "task_id": "20180",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Plan, direct, or coordinate survey work with other project activities."
+ },
+ {
+  "task_id": "19526",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Evaluate environmental regulations or social pressures related to environmental issues to inform strategic or operational decision-making."
+ },
+ {
+  "task_id": "20179",
+  "occupation": "Architectural and Engineering Managers",
+  "task_text": "Solicit project support by conferring with officials or providing information to the public."
+ },
+ {
+  "task_id": "15574",
+  "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+  "task_text": "Design or conduct applied biodiesel or biofuels research projects on topics, such as transport, thermodynamics, mixing, filtration, distillation, fermentation, extraction, and separation."
+ },
+ {
+  "task_id": "15578",
+  "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+  "task_text": "Analyze data from biofuels studies, such as fluid dynamics, water treatments, or solvent extraction and recovery processes."
+ },
+ {
+  "task_id": "15567",
+  "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+  "task_text": "Prepare, or oversee the preparation of, experimental plans for biofuels research or development."
+ },
+ {
+  "task_id": "15566",
+  "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+  "task_text": "Provide technical or scientific guidance to technical staff in the conduct of biofuels research or development."
+ },
+ {
+  "task_id": "15580",
+  "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+  "task_text": "Propose new biofuels products, processes, technologies or applications based on findings from applied biofuels or biomass research projects."
+ },
+ {
+  "task_id": "15576",
+  "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+  "task_text": "Conduct experiments on biomass or pretreatment technologies."
+ },
+ {
+  "task_id": "15568",
+  "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+  "task_text": "Prepare biofuels research and development reports for senior management or technical professionals."
+ },
+ {
+  "task_id": "15563",
+  "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+  "task_text": "Develop lab scale models of industrial scale processes, such as fermentation."
+ },
+ {
+  "task_id": "15579",
+  "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+  "task_text": "Oversee biodiesel/biofuels prototyping or development projects."
+ },
+ {
+  "task_id": "15577",
+  "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+  "task_text": "Conduct experiments to test new or alternate feedstock fermentation processes."
+ },
+ {
+  "task_id": "15572",
+  "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+  "task_text": "Develop methods to estimate the efficiency of biomass pretreatments."
+ },
+ {
+  "task_id": "15569",
+  "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+  "task_text": "Perform protein functional analysis and engineering for processing of feedstock and creation of biofuels."
+ },
+ {
+  "task_id": "15581",
+  "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+  "task_text": "Conduct research to breed or develop energy crops with improved biomass yield, environmental adaptability, pest resistance, production efficiency, bioprocessing characteristics, or reduced environmental impacts."
+ },
+ {
+  "task_id": "15564",
+  "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+  "task_text": "Develop computational tools or approaches to improve biofuels research and development activities."
+ },
+ {
+  "task_id": "15570",
+  "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+  "task_text": "Develop separation processes to recover biofuels."
+ },
+ {
+  "task_id": "15575",
+  "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+  "task_text": "Design chemical conversion processes, such as etherification, esterification, interesterification, transesterification, distillation, hydrogenation, oxidation or reduction of fats and oils, and vegetable oil refining."
+ },
+ {
+  "task_id": "15573",
+  "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+  "task_text": "Design or execute solvent or product recovery experiments in laboratory or field settings."
+ }
+]

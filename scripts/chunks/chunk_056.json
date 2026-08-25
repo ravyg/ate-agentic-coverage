@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "16497",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Investigate characteristics such as cost, performance, or process capability of potential microelectromechanical systems (MEMS) device designs, using simulation or modeling software."
+ },
+ {
+  "task_id": "16492",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Create or maintain formal engineering documents, such as schematics, bills of materials, components or materials specifications, or packaging requirements."
+ },
+ {
+  "task_id": "16505",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Conduct analyses addressing issues such as failure, reliability, or yield improvement."
+ },
+ {
+  "task_id": "16485",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Plan or schedule engineering research or development projects involving microelectromechanical systems (MEMS) technology."
+ },
+ {
+  "task_id": "16495",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Propose product designs involving microelectromechanical systems (MEMS) technology, considering market data or customer requirements."
+ },
+ {
+  "task_id": "16502",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Develop formal documentation for microelectromechanical systems (MEMS) devices, including quality assurance guidance, quality control protocols, process control checklists, data collection, or reporting."
+ },
+ {
+  "task_id": "16490",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Communicate operating characteristics or performance experience to other engineers or designers for training or new product development purposes."
+ },
+ {
+  "task_id": "16498",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Evaluate materials, fabrication methods, joining methods, surface treatments, or packaging to ensure acceptable processing, performance, cost, sustainability, or availability."
+ },
+ {
+  "task_id": "16494",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Refine final microelectromechanical systems (MEMS) design to optimize design for target dimensions, physical tolerances, or processing constraints."
+ },
+ {
+  "task_id": "16508",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Conduct harsh environmental testing, accelerated aging, device characterization, or field trials to validate devices, using inspection tools, testing protocols, peripheral instrumentation, or modeling and simulation software."
+ },
+ {
+  "task_id": "16489",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Develop or file intellectual property and patent disclosure or application documents related to microelectromechanical systems (MEMS) devices, products, or systems."
+ },
+ {
+  "task_id": "16504",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Conduct or oversee the conduct of prototype development or microfabrication activities to ensure compliance to specifications and promote effective production processes."
+ },
+ {
+  "task_id": "16506",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Conduct experimental or virtual studies to investigate characteristics and processing principles of potential microelectromechanical systems (MEMS) technology."
+ },
+ {
+  "task_id": "16499",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Devise microelectromechanical systems (MEMS) production methods, such as integrated circuit fabrication, lithographic electroform modeling, or micromachining."
+ },
+ {
+  "task_id": "16500",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Develop or validate specialized materials characterization procedures, such as thermal withstand, fatigue, notch sensitivity, abrasion, or hardness tests."
+ },
+ {
+  "task_id": "16507",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Validate fabrication processes for microelectromechanical systems (MEMS), using statistical process control implementation, virtual process simulations, data mining, or life testing."
+ },
+ {
+  "task_id": "16491",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Demonstrate miniaturized systems that contain components, such as microsensors, microactuators, or integrated electronic circuits, fabricated on silicon or silicon carbide wafers."
+ },
+ {
+  "task_id": "16484",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Manage new product introduction projects to ensure effective deployment of microelectromechanical systems (MEMS) devices or applications."
+ },
+ {
+  "task_id": "16493",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Conduct acceptance tests, vendor-qualification protocols, surveys, audits, corrective-action reviews, or performance monitoring of incoming materials or components to ensure conformance to specifications."
+ },
+ {
+  "task_id": "16486",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Develop or implement microelectromechanical systems (MEMS) processing tools, fixtures, gages, dies, molds, or trays."
+ },
+ {
+  "task_id": "16488",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Develop customer documentation, such as performance specifications, training manuals, or operating instructions."
+ },
+ {
+  "task_id": "16487",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Identify, procure, or develop test equipment, instrumentation, or facilities for characterization of microelectromechanical systems (MEMS) applications."
+ },
+ {
+  "task_id": "16501",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Develop or validate product-specific test protocols, acceptance thresholds, or inspection tools for quality control testing or performance measurement."
+ },
+ {
+  "task_id": "16496",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Oversee operation of microelectromechanical systems (MEMS) fabrication or assembly equipment, such as handling, singulation, assembly, wire-bonding, soldering, or package sealing."
+ },
+ {
+  "task_id": "19656",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Consider environmental issues when proposing product designs involving microelectromechanical systems (MEMS) technology."
+ },
+ {
+  "task_id": "19657",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Design or develop energy products using nanomaterials or nanoprocesses, such as micro-nano machining."
+ },
+ {
+  "task_id": "19658",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Design or develop industrial air quality microsystems, such as carbon dioxide fixing devices."
+ },
+ {
+  "task_id": "19659",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Design or develop sensors to reduce the energy or resource requirements to operate appliances, such as washing machines or dishwashing machines."
+ },
+ {
+  "task_id": "19660",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Design sensors or switches that require little or no power to operate for environmental monitoring or industrial metering applications."
+ },
+ {
+  "task_id": "19661",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Research or develop emerging microelectromechanical (MEMS) systems to convert nontraditional energy sources into power, such as ambient energy harvesters that convert environmental vibrations into usable energy."
+ },
+ {
+  "task_id": "18195",
+  "occupation": "Photonics Engineers",
+  "task_text": "Analyze system performance or operational requirements."
+ },
+ {
+  "task_id": "18200",
+  "occupation": "Photonics Engineers",
+  "task_text": "Develop optical or imaging systems, such as optical imaging products, optical components, image processes, signal process technologies, or optical systems."
+ },
+ {
+  "task_id": "18199",
+  "occupation": "Photonics Engineers",
+  "task_text": "Develop or test photonic prototypes or models."
+ },
+ {
+  "task_id": "18194",
+  "occupation": "Photonics Engineers",
+  "task_text": "Design, integrate, or test photonics systems or components."
+ },
+ {
+  "task_id": "18202",
+  "occupation": "Photonics Engineers",
+  "task_text": "Assist in the transition of photonic prototypes to production."
+ },
+ {
+  "task_id": "18205",
+  "occupation": "Photonics Engineers",
+  "task_text": "Read current literature, talk with colleagues, continue education, or participate in professional organizations or conferences to keep abreast of developments in the field."
+ },
+ {
+  "task_id": "21055",
+  "occupation": "Photonics Engineers",
+  "task_text": "Write reports or proposals related to photonics research or development projects."
+ },
+ {
+  "task_id": "18196",
+  "occupation": "Photonics Engineers",
+  "task_text": "Conduct testing to determine functionality or optimization or to establish limits of photonics systems or components."
+ },
+ {
+  "task_id": "18198",
+  "occupation": "Photonics Engineers",
+  "task_text": "Determine applications of photonics appropriate to meet product objectives or features."
+ },
+ {
+  "task_id": "18193",
+  "occupation": "Photonics Engineers",
+  "task_text": "Conduct research on new photonics technologies."
+ },
+ {
+  "task_id": "18189",
+  "occupation": "Photonics Engineers",
+  "task_text": "Design electro-optical sensing or imaging systems."
+ },
+ {
+  "task_id": "21056",
+  "occupation": "Photonics Engineers",
+  "task_text": "Document photonics system or component design processes, including objectives, issues, or outcomes."
+ },
+ {
+  "task_id": "19664",
+  "occupation": "Photonics Engineers",
+  "task_text": "Design photonics products, such as light sources, displays, or photovoltaics, to achieve increased energy efficiency."
+ },
+ {
+  "task_id": "18206",
+  "occupation": "Photonics Engineers",
+  "task_text": "Train operators, engineers, or other personnel."
+ },
+ {
+  "task_id": "18188",
+  "occupation": "Photonics Engineers",
+  "task_text": "Analyze, fabricate, or test fiber-optic links."
+ },
+ {
+  "task_id": "18197",
+  "occupation": "Photonics Engineers",
+  "task_text": "Design gas lasers, solid state lasers, infrared, or other light emitting or light sensitive devices."
+ },
+ {
+  "task_id": "18203",
+  "occupation": "Photonics Engineers",
+  "task_text": "Create or maintain photonic design histories."
+ },
+ {
+  "task_id": "18204",
+  "occupation": "Photonics Engineers",
+  "task_text": "Oversee or provide expertise on manufacturing, assembly, or fabrication processes."
+ },
+ {
+  "task_id": "18192",
+  "occupation": "Photonics Engineers",
+  "task_text": "Determine commercial, industrial, scientific, or other uses for electro-optical applications or devices."
+ },
+ {
+  "task_id": "19665",
+  "occupation": "Photonics Engineers",
+  "task_text": "Design solar energy photonics or other materials or devices to generate energy."
+ },
+ {
+  "task_id": "19663",
+  "occupation": "Photonics Engineers",
+  "task_text": "Design or redesign optical fibers to minimize energy loss."
+ },
+ {
+  "task_id": "19666",
+  "occupation": "Photonics Engineers",
+  "task_text": "Develop photonics sensing or manufacturing technologies to improve the efficiency of manufacturing or related processes."
+ },
+ {
+  "task_id": "18191",
+  "occupation": "Photonics Engineers",
+  "task_text": "Develop laser-processed designs, such as laser-cut medical devices."
+ },
+ {
+  "task_id": "19662",
+  "occupation": "Photonics Engineers",
+  "task_text": "Design or develop new crystals for photonics applications."
+ },
+ {
+  "task_id": "18190",
+  "occupation": "Photonics Engineers",
+  "task_text": "Design laser machining equipment for purposes such as high-speed ablation."
+ },
+ {
+  "task_id": "18187",
+  "occupation": "Photonics Engineers",
+  "task_text": "Select, purchase, set up, operate, or troubleshoot state-of-the-art laser cutting equipment."
+ },
+ {
+  "task_id": "16512",
+  "occupation": "Robotics Engineers",
+  "task_text": "Review or approve designs, calculations, or cost estimates."
+ },
+ {
+  "task_id": "16517",
+  "occupation": "Robotics Engineers",
+  "task_text": "Process or interpret signals or sensor data."
+ },
+ {
+  "task_id": "16521",
+  "occupation": "Robotics Engineers",
+  "task_text": "Debug robotics programs."
+ },
+ {
+  "task_id": "21057",
+  "occupation": "Robotics Engineers",
+  "task_text": "Build, configure, or test robots or robotic applications."
+ },
+ {
+  "task_id": "16516",
+  "occupation": "Robotics Engineers",
+  "task_text": "Create back-ups of robot programs or parameters."
+ },
+ {
+  "task_id": "16511",
+  "occupation": "Robotics Engineers",
+  "task_text": "Provide technical support for robotic systems."
+ },
+ {
+  "task_id": "16522",
+  "occupation": "Robotics Engineers",
+  "task_text": "Design end-of-arm tooling."
+ },
+ {
+  "task_id": "16530",
+  "occupation": "Robotics Engineers",
+  "task_text": "Design robotic systems, such as automatic vehicle control, autonomous vehicles, advanced displays, advanced sensing, robotic platforms, computer vision, or telematics systems."
+ },
+ {
+  "task_id": "16509",
+  "occupation": "Robotics Engineers",
+  "task_text": "Supervise technologists, technicians, or other engineers."
+ },
+ {
+  "task_id": "16528",
+  "occupation": "Robotics Engineers",
+  "task_text": "Design software to control robotic systems for applications, such as military defense or manufacturing."
+ },
+ {
+  "task_id": "16523",
+  "occupation": "Robotics Engineers",
+  "task_text": "Conduct research on robotic technology to create new robotic systems or system capabilities."
+ },
+ {
+  "task_id": "16519",
+  "occupation": "Robotics Engineers",
+  "task_text": "Investigate mechanical failures or unexpected maintenance problems."
+ },
+ {
+  "task_id": "16510",
+  "occupation": "Robotics Engineers",
+  "task_text": "Integrate robotics with peripherals, such as welders, controllers, or other equipment."
+ },
+ {
+  "task_id": "21058",
+  "occupation": "Robotics Engineers",
+  "task_text": "Evaluate robotic systems or prototypes."
+ },
+ {
+  "task_id": "16520",
+  "occupation": "Robotics Engineers",
+  "task_text": "Install, calibrate, operate, or maintain robots."
+ },
+ {
+  "task_id": "16525",
+  "occupation": "Robotics Engineers",
+  "task_text": "Conduct research into the feasibility, design, operation, or performance of robotic mechanisms, components, or systems, such as planetary rovers, multiple mobile robots, reconfigurable robots, or man-machine interactions."
+ },
+ {
+  "task_id": "16514",
+  "occupation": "Robotics Engineers",
+  "task_text": "Document robotic application development, maintenance, or changes."
+ },
+ {
+  "task_id": "16527",
+  "occupation": "Robotics Engineers",
+  "task_text": "Design automated robotic systems to increase production volume or precision in high-throughput operations, such as automated ribonucleic acid (RNA) analysis or sorting, moving, or stacking production materials."
+ },
+ {
+  "task_id": "16515",
+  "occupation": "Robotics Engineers",
+  "task_text": "Write algorithms or programming code for ad hoc robotic applications."
+ },
+ {
+  "task_id": "16513",
+  "occupation": "Robotics Engineers",
+  "task_text": "Make system device lists or event timing charts."
+ },
+ {
+  "task_id": "19667",
+  "occupation": "Robotics Engineers",
+  "task_text": "Design or program robotics systems for environmental clean-up applications to minimize human exposure to toxic or hazardous materials or to improve the quality or speed of clean-up operations."
+ },
+ {
+  "task_id": "16518",
+  "occupation": "Robotics Engineers",
+  "task_text": "Plan mobile robot paths and teach path plans to robots."
+ },
+ {
+  "task_id": "19668",
+  "occupation": "Robotics Engineers",
+  "task_text": "Design robotics applications for manufacturers of green products, such as wind turbines or solar panels, to increase production time, eliminate waste, or reduce costs."
+ },
+ {
+  "task_id": "16524",
+  "occupation": "Robotics Engineers",
+  "task_text": "Automate assays on laboratory robotics."
+ },
+ {
+  "task_id": "16540",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Provide scientific or technical guidance or expertise to scientists, engineers, technologists, technicians, or others, using knowledge of chemical, analytical, or biological processes as applied to micro and nanoscale systems."
+ },
+ {
+  "task_id": "16532",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Supervise technologists or technicians engaged in nanotechnology research or production."
+ },
+ {
+  "task_id": "16546",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Conduct research related to a range of nanotechnology topics, such as packaging, heat transfer, fluorescence detection, nanoparticle dispersion, hybrid systems, liquid systems, nanocomposites, nanofabrication, optoelectronics, or nanolithography."
+ },
+ {
+  "task_id": "16533",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Synthesize, process, or characterize nanomaterials, using advanced tools or techniques."
+ },
+ {
+  "task_id": "16537",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Prepare reports, deliver presentations, or participate in program review activities to communicate engineering results or recommendations."
+ },
+ {
+  "task_id": "16542",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Design or conduct tests of new nanotechnology products, processes, or systems."
+ },
+ {
+  "task_id": "16545",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Create designs or prototypes for nanosystem applications, such as biomedical delivery systems or atomic force microscopes."
+ },
+ {
+  "task_id": "16531",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Write proposals to secure external funding or to partner with other companies."
+ },
+ {
+  "task_id": "16536",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Generate high-resolution images or measure force-distance curves, using techniques such as atomic force microscopy."
+ },
+ {
+  "task_id": "16539",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Develop processes or identify equipment needed for pilot or commercial nanoscale scale production."
+ },
+ {
+  "task_id": "16535",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Provide technical guidance or support to customers on topics such as nanosystem start-up, maintenance, or use."
+ },
+ {
+  "task_id": "16541",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Engineer production processes for specific nanotechnology applications, such as electroplating, nanofabrication, or epoxy."
+ },
+ {
+  "task_id": "19669",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Apply nanotechnology to improve the performance or reduce the environmental impact of energy products, such as fuel cells or solar cells."
+ },
+ {
+  "task_id": "16534",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Identify new applications for existing nanotechnologies."
+ },
+ {
+  "task_id": "16544",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Design or engineer nanomaterials, nanodevices, nano-enabled products, or nanosystems, using three-dimensional computer-aided design (CAD) software."
+ },
+ {
+  "task_id": "19671",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Design nano-enabled products with reduced toxicity, increased durability, or improved energy efficiency."
+ },
+ {
+  "task_id": "16543",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Coordinate or supervise the work of suppliers or vendors in the designing, building, or testing of nanosystem devices, such as lenses or probes."
+ },
+ {
+  "task_id": "19670",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Design nano-based manufacturing processes to minimize water, chemical, or energy use, as well as to reduce waste production."
+ },
+ {
+  "task_id": "19673",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Design nanosystems with components such as nanocatalysts or nanofiltration devices to clean specific pollutants from hazardous waste sites."
+ },
+ {
+  "task_id": "16538",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Prepare nanotechnology-related invention disclosures or patent applications."
+ },
+ {
+  "task_id": "19677",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Reengineer nanomaterials to improve biodegradability."
+ },
+ {
+  "task_id": "19676",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Integrate nanotechnology with antimicrobial properties into products, such as household or medical appliances, to reduce the development of bacteria or other microbes."
+ },
+ {
+  "task_id": "19674",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Develop catalysis or other green chemistry methods to synthesize nanomaterials, such as nanotubes, nanocrystals, nanorods, or nanowires."
+ },
+ {
+  "task_id": "19672",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Design nanoparticle catalysts to detect or remove chemical or other pollutants from water, soil, or air."
+ },
+ {
+  "task_id": "19675",
+  "occupation": "Nanosystems Engineers",
+  "task_text": "Develop green building nanocoatings, such as self-cleaning, anti-stain, depolluting, anti-fogging, anti-icing, antimicrobial, moisture-resistant, or ultraviolet protectant coatings."
+ },
+ {
+  "task_id": "16559",
+  "occupation": "Wind Energy Engineers",
+  "task_text": "Create or maintain wind farm layouts, schematics, or other visual documentation for wind farms."
+ },
+ {
+  "task_id": "16549",
+  "occupation": "Wind Energy Engineers",
+  "task_text": "Recommend process or infrastructure changes to improve wind turbine performance, reduce operational costs, or comply with regulations."
+ },
+ {
+  "task_id": "16560",
+  "occupation": "Wind Energy Engineers",
+  "task_text": "Create models to optimize the layout of wind farm access roads, crane pads, crane paths, collection systems, substations, switchyards, or transmission lines."
+ },
+ {
+  "task_id": "16553",
+  "occupation": "Wind Energy Engineers",
+  "task_text": "Provide engineering technical support to designers of prototype wind turbines."
+ },
+ {
+  "task_id": "16550",
+  "occupation": "Wind Energy Engineers",
+  "task_text": "Investigate experimental wind turbines or wind turbine technologies for properties such as aerodynamics, production, noise, and load."
+ },
+ {
+  "task_id": "16558",
+  "occupation": "Wind Energy Engineers",
+  "task_text": "Develop active control algorithms, electronics, software, electromechanical, or electrohydraulic systems for wind turbines."
+ },
+ {
+  "task_id": "16557",
+  "occupation": "Wind Energy Engineers",
+  "task_text": "Develop specifications for wind technology components, such as gearboxes, blades, generators, frequency converters, or pad transformers."
+ },
+ {
+  "task_id": "16552",
+  "occupation": "Wind Energy Engineers",
+  "task_text": "Test wind turbine components, using mechanical or electronic testing equipment."
+ },
+ {
+  "task_id": "16548",
+  "occupation": "Wind Energy Engineers",
+  "task_text": "Oversee the work activities of wind farm consultants or subcontractors."
+ },
+ {
+  "task_id": "16551",
+  "occupation": "Wind Energy Engineers",
+  "task_text": "Test wind turbine equipment to determine effects of stress or fatigue."
+ },
+ {
+  "task_id": "16555",
+  "occupation": "Wind Energy Engineers",
+  "task_text": "Monitor wind farm construction to ensure compliance with regulatory standards or environmental requirements."
+ },
+ {
+  "task_id": "16556",
+  "occupation": "Wind Energy Engineers",
+  "task_text": "Direct balance of plant (BOP) construction, generator installation, testing, commissioning, or supervisory control and data acquisition (SCADA) to ensure compliance with specifications."
+ },
+ {
+  "task_id": "16562",
+  "occupation": "Wind Energy Engineers",
+  "task_text": "Analyze operation of wind farms or wind farm components to determine reliability, performance, and compliance with specifications."
+ },
+ {
+  "task_id": "16554",
+  "occupation": "Wind Energy Engineers",
+  "task_text": "Perform root cause analysis on wind turbine tower component failures."
+ },
+ {
+  "task_id": "16561",
+  "occupation": "Wind Energy Engineers",
+  "task_text": "Design underground or overhead wind farm collector systems."
+ },
+ {
+  "task_id": "16547",
+  "occupation": "Wind Energy Engineers",
+  "task_text": "Write reports to document wind farm collector system test results."
+ },
+ {
+  "task_id": "16575",
+  "occupation": "Solar Energy Systems Engineers",
+  "task_text": "Conduct engineering site audits to collect structural, electrical, and related site information for use in the design of residential or commercial solar power systems."
+ },
+ {
+  "task_id": "16571",
+  "occupation": "Solar Energy Systems Engineers",
+  "task_text": "Create plans for solar energy system development, monitoring, and evaluation activities."
+ },
+ {
+  "task_id": "16574",
+  "occupation": "Solar Energy Systems Engineers",
+  "task_text": "Design or coordinate design of photovoltaic (PV) or solar thermal systems, including system components, for residential and commercial buildings."
+ },
+ {
+  "task_id": "16568",
+  "occupation": "Solar Energy Systems Engineers",
+  "task_text": "Provide technical direction or support to installation teams during installation, start-up, testing, system commissioning, or performance monitoring."
+ },
+ {
+  "task_id": "16572",
+  "occupation": "Solar Energy Systems Engineers",
+  "task_text": "Create electrical single-line diagrams, panel schedules, or connection diagrams for solar electric systems, using computer-aided design (CAD) software."
+ },
+ {
+  "task_id": "16569",
+  "occupation": "Solar Energy Systems Engineers",
+  "task_text": "Perform computer simulation of solar photovoltaic (PV) generation system performance or energy production to optimize efficiency."
+ },
+ {
+  "task_id": "16564",
+  "occupation": "Solar Energy Systems Engineers",
+  "task_text": "Review specifications and recommend engineering or manufacturing changes to achieve solar design objectives."
+ },
+ {
+  "task_id": "16570",
+  "occupation": "Solar Energy Systems Engineers",
+  "task_text": "Develop design specifications and functional requirements for residential, commercial, or industrial solar energy systems or components."
+ },
+ {
+  "task_id": "16566",
+  "occupation": "Solar Energy Systems Engineers",
+  "task_text": "Develop standard operation procedures and quality or safety standards for solar installation work."
+ }
+]

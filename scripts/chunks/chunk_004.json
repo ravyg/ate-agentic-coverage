@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "1915",
+  "occupation": "Medical and Clinical Laboratory Technicians",
+  "task_text": "Prepare standard volumetric solutions or reagents to be combined with samples, following standardized formulas or experimental procedures."
+ },
+ {
+  "task_id": "1917",
+  "occupation": "Medical and Clinical Laboratory Technicians",
+  "task_text": "Test raw materials, processes, or finished products to determine quality or quantity of materials or characteristics of a substance."
+ },
+ {
+  "task_id": "1939",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Receive written prescription or refill requests and verify that information is complete and accurate."
+ },
+ {
+  "task_id": "1940",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Maintain proper storage and security conditions for drugs."
+ },
+ {
+  "task_id": "1941",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Answer telephones, responding to questions or requests."
+ },
+ {
+  "task_id": "1943",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Assist customers by answering simple questions, locating items, or referring them to the pharmacist for medication information."
+ },
+ {
+  "task_id": "1944",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Price and file prescriptions that have been filled."
+ },
+ {
+  "task_id": "1945",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Clean and help maintain equipment or work areas and sterilize glassware, according to prescribed methods."
+ },
+ {
+  "task_id": "1946",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Establish or maintain patient profiles, including lists of medications taken by individual patients."
+ },
+ {
+  "task_id": "1947",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Order, label, and count stock of medications, chemicals, or supplies and enter inventory data into computer."
+ },
+ {
+  "task_id": "1949",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Transfer medication from vials to the appropriate number of sterile, disposable syringes, using aseptic techniques."
+ },
+ {
+  "task_id": "1951",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Supply and monitor robotic machines that dispense medicine into containers and label the containers."
+ },
+ {
+  "task_id": "1952",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Prepare and process medical insurance claim forms and records."
+ },
+ {
+  "task_id": "1953",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Mix pharmaceutical preparations, according to written prescriptions."
+ },
+ {
+  "task_id": "1954",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Operate cash registers to accept payment from customers."
+ },
+ {
+  "task_id": "1955",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Compute charges for medication or equipment dispensed to hospital patients and enter data in computer."
+ },
+ {
+  "task_id": "1956",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Deliver medications or pharmaceutical supplies to patients, nursing stations, or surgery."
+ },
+ {
+  "task_id": "1957",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Price stock and mark items for sale."
+ },
+ {
+  "task_id": "1958",
+  "occupation": "Pharmacy Technicians",
+  "task_text": "Maintain and merchandise home healthcare products or services."
+ },
+ {
+  "task_id": "1959",
+  "occupation": "Surgical Technologists",
+  "task_text": "Count sponges, needles, and instruments before and after operation."
+ },
+ {
+  "task_id": "1960",
+  "occupation": "Surgical Technologists",
+  "task_text": "Hand instruments and supplies to surgeons and surgeons' assistants, hold retractors and cut sutures, and perform other tasks as directed by surgeon during operation."
+ },
+ {
+  "task_id": "1961",
+  "occupation": "Surgical Technologists",
+  "task_text": "Scrub arms and hands and assist the surgical team to scrub and put on gloves, masks, and surgical clothing."
+ },
+ {
+  "task_id": "1963",
+  "occupation": "Surgical Technologists",
+  "task_text": "Provide technical assistance to surgeons, surgical nurses, or anesthesiologists."
+ },
+ {
+  "task_id": "1964",
+  "occupation": "Surgical Technologists",
+  "task_text": "Wash and sterilize equipment, using germicides and sterilizers."
+ },
+ {
+  "task_id": "1965",
+  "occupation": "Surgical Technologists",
+  "task_text": "Prepare, care for, and dispose of tissue specimens taken for laboratory analysis."
+ },
+ {
+  "task_id": "1967",
+  "occupation": "Surgical Technologists",
+  "task_text": "Prepare dressings or bandages and apply or assist with their application following surgery."
+ },
+ {
+  "task_id": "1968",
+  "occupation": "Surgical Technologists",
+  "task_text": "Operate, assemble, adjust, or monitor sterilizers, lights, suction machines, or diagnostic equipment to ensure proper operation."
+ },
+ {
+  "task_id": "1969",
+  "occupation": "Surgical Technologists",
+  "task_text": "Monitor and continually assess operating room conditions, including patient and surgical team needs."
+ },
+ {
+  "task_id": "1970",
+  "occupation": "Surgical Technologists",
+  "task_text": "Observe patients' vital signs to assess physical condition."
+ },
+ {
+  "task_id": "1971",
+  "occupation": "Surgical Technologists",
+  "task_text": "Maintain supply of fluids, such as plasma, saline, blood, or glucose, for use during operations."
+ },
+ {
+  "task_id": "1972",
+  "occupation": "Surgical Technologists",
+  "task_text": "Maintain files and records of surgical procedures."
+ },
+ {
+  "task_id": "1994",
+  "occupation": "Psychiatric Aides",
+  "task_text": "Provide patients with cognitive, intellectual, or developmental disabilities with routine physical, emotional, psychological, or rehabilitation care under the direction of nursing or medical staff."
+ },
+ {
+  "task_id": "1996",
+  "occupation": "Psychiatric Aides",
+  "task_text": "Work as part of a team that may include psychiatrists, psychologists, psychiatric nurses, or social workers."
+ },
+ {
+  "task_id": "1997",
+  "occupation": "Psychiatric Aides",
+  "task_text": "Aid patients in becoming accustomed to hospital routines."
+ },
+ {
+  "task_id": "1998",
+  "occupation": "Psychiatric Aides",
+  "task_text": "Organize, supervise, or encourage patient participation in social, educational, or recreational activities."
+ },
+ {
+  "task_id": "1999",
+  "occupation": "Psychiatric Aides",
+  "task_text": "Perform nursing duties, such as administering medications, measuring vital signs, collecting specimens, or drawing blood samples."
+ },
+ {
+  "task_id": "2000",
+  "occupation": "Psychiatric Aides",
+  "task_text": "Serve meals or feed patients needing assistance or persuasion."
+ },
+ {
+  "task_id": "2001",
+  "occupation": "Psychiatric Aides",
+  "task_text": "Restrain or aid patients as necessary to prevent injury."
+ },
+ {
+  "task_id": "2002",
+  "occupation": "Psychiatric Aides",
+  "task_text": "Interview patients upon admission and record information."
+ },
+ {
+  "task_id": "2003",
+  "occupation": "Psychiatric Aides",
+  "task_text": "Provide patients with assistance in bathing, dressing, or grooming, demonstrating these skills as necessary."
+ },
+ {
+  "task_id": "2004",
+  "occupation": "Psychiatric Aides",
+  "task_text": "Participate in recreational activities with patients, including card games, sports, or television viewing."
+ },
+ {
+  "task_id": "2005",
+  "occupation": "Psychiatric Aides",
+  "task_text": "Maintain patients' restrictions to assigned areas."
+ },
+ {
+  "task_id": "2006",
+  "occupation": "Psychiatric Aides",
+  "task_text": "Accompany patients to and from wards for medical or dental treatments, shopping trips, or religious or recreational events."
+ },
+ {
+  "task_id": "2007",
+  "occupation": "Psychiatric Aides",
+  "task_text": "Clean and disinfect rooms and furnishings to maintain a safe and orderly environment."
+ },
+ {
+  "task_id": "2008",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Instruct, motivate, safeguard, and assist patients as they practice exercises or functional activities."
+ },
+ {
+  "task_id": "2009",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Confer with physical therapy staff or others to discuss and evaluate patient information for planning, modifying, or coordinating treatment."
+ },
+ {
+  "task_id": "2012",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Measure patients' range-of-joint motion, body parts, or vital signs to determine effects of treatments or for patient evaluations."
+ },
+ {
+  "task_id": "2013",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Secure patients into or onto therapy equipment."
+ },
+ {
+  "task_id": "2014",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Fit patients for orthopedic braces, prostheses, or supportive devices, such as crutches."
+ },
+ {
+  "task_id": "2015",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Train patients in the use of orthopedic braces, prostheses, or supportive devices."
+ },
+ {
+  "task_id": "2016",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Transport patients to and from treatment areas, lifting and transferring them according to positioning requirements."
+ },
+ {
+  "task_id": "2017",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Monitor operation of equipment and record use of equipment and administration of treatment."
+ },
+ {
+  "task_id": "2018",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Clean work area and check and store equipment after treatment."
+ },
+ {
+  "task_id": "2019",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Assist patients to dress, undress, or put on and remove supportive devices, such as braces, splints, or slings."
+ },
+ {
+  "task_id": "2020",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Administer traction to relieve neck or back pain, using intermittent or static traction equipment."
+ },
+ {
+  "task_id": "2021",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Perform clerical duties, such as taking inventory, ordering supplies, answering telephone, taking messages, or filling out forms."
+ },
+ {
+  "task_id": "2022",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Prepare treatment areas and electrotherapy equipment for use by physiotherapists."
+ },
+ {
+  "task_id": "2023",
+  "occupation": "Physical Therapist Assistants",
+  "task_text": "Perform postural drainage, percussions, or vibrations or teach deep breathing exercises to treat respiratory conditions."
+ },
+ {
+  "task_id": "2024",
+  "occupation": "Medical Assistants",
+  "task_text": "Interview patients to obtain medical information and measure their vital signs, weight, and height."
+ },
+ {
+  "task_id": "2025",
+  "occupation": "Medical Assistants",
+  "task_text": "Show patients to examination rooms and prepare them for the physician."
+ },
+ {
+  "task_id": "2026",
+  "occupation": "Medical Assistants",
+  "task_text": "Record patients' medical history, vital statistics, or information such as test results in medical records."
+ },
+ {
+  "task_id": "2027",
+  "occupation": "Medical Assistants",
+  "task_text": "Prepare and administer medications as directed by a physician."
+ },
+ {
+  "task_id": "2028",
+  "occupation": "Medical Assistants",
+  "task_text": "Collect blood, tissue, or other laboratory specimens, log the specimens, and prepare them for testing."
+ },
+ {
+  "task_id": "2029",
+  "occupation": "Medical Assistants",
+  "task_text": "Explain treatment procedures, medications, diets, or physicians' instructions to patients."
+ },
+ {
+  "task_id": "2030",
+  "occupation": "Medical Assistants",
+  "task_text": "Help physicians examine and treat patients, handing them instruments or materials or performing such tasks as giving injections or removing sutures."
+ },
+ {
+  "task_id": "2031",
+  "occupation": "Medical Assistants",
+  "task_text": "Authorize drug refills and provide prescription information to pharmacies."
+ },
+ {
+  "task_id": "2032",
+  "occupation": "Medical Assistants",
+  "task_text": "Prepare treatment rooms for patient examinations, keeping the rooms neat and clean."
+ },
+ {
+  "task_id": "2033",
+  "occupation": "Medical Assistants",
+  "task_text": "Clean and sterilize instruments and dispose of contaminated supplies."
+ },
+ {
+  "task_id": "2034",
+  "occupation": "Medical Assistants",
+  "task_text": "Schedule appointments for patients."
+ },
+ {
+  "task_id": "2035",
+  "occupation": "Medical Assistants",
+  "task_text": "Change dressings on wounds."
+ },
+ {
+  "task_id": "2036",
+  "occupation": "Medical Assistants",
+  "task_text": "Greet and log in patients arriving at office or clinic."
+ },
+ {
+  "task_id": "2037",
+  "occupation": "Medical Assistants",
+  "task_text": "Contact medical facilities or departments to schedule patients for tests or admission."
+ },
+ {
+  "task_id": "2038",
+  "occupation": "Medical Assistants",
+  "task_text": "Perform general office duties, such as answering telephones, taking dictation, or completing insurance forms."
+ },
+ {
+  "task_id": "2039",
+  "occupation": "Medical Assistants",
+  "task_text": "Inventory and order medical, lab, or office supplies or equipment."
+ },
+ {
+  "task_id": "2040",
+  "occupation": "Medical Assistants",
+  "task_text": "Perform routine laboratory tests and sample analyses."
+ },
+ {
+  "task_id": "2041",
+  "occupation": "Medical Assistants",
+  "task_text": "Set up medical laboratory equipment."
+ },
+ {
+  "task_id": "2042",
+  "occupation": "Medical Assistants",
+  "task_text": "Keep financial records or perform other bookkeeping duties, such as handling credit or collections or mailing monthly statements to patients."
+ },
+ {
+  "task_id": "2043",
+  "occupation": "Medical Assistants",
+  "task_text": "Operate x-ray, electrocardiogram (EKG), or other equipment to administer routine diagnostic tests."
+ },
+ {
+  "task_id": "2045",
+  "occupation": "Pharmacy Aides",
+  "task_text": "Accept prescriptions for filling, gathering and processing necessary information."
+ },
+ {
+  "task_id": "2046",
+  "occupation": "Pharmacy Aides",
+  "task_text": "Answer telephone inquiries, referring callers to pharmacist when necessary."
+ },
+ {
+  "task_id": "2048",
+  "occupation": "Pharmacy Aides",
+  "task_text": "Greet customers and help them locate merchandise."
+ },
+ {
+  "task_id": "2049",
+  "occupation": "Pharmacy Aides",
+  "task_text": "Unpack, sort, count, and label incoming merchandise, including items requiring special handling or refrigeration."
+ },
+ {
+  "task_id": "2050",
+  "occupation": "Pharmacy Aides",
+  "task_text": "Prepare prescription labels by typing or operating a computer and printer."
+ },
+ {
+  "task_id": "2052",
+  "occupation": "Pharmacy Aides",
+  "task_text": "Operate cash register to process cash or credit sales."
+ },
+ {
+  "task_id": "2053",
+  "occupation": "Pharmacy Aides",
+  "task_text": "Restock storage areas, replenishing items on shelves."
+ },
+ {
+  "task_id": "2054",
+  "occupation": "Pharmacy Aides",
+  "task_text": "Perform clerical tasks, such as filing, compiling and maintaining prescription records, or composing letters."
+ },
+ {
+  "task_id": "2055",
+  "occupation": "Pharmacy Aides",
+  "task_text": "Maintain and clean equipment, work areas, or shelves."
+ },
+ {
+  "task_id": "2057",
+  "occupation": "Pharmacy Aides",
+  "task_text": "Prepare, maintain, and record records of inventories, receipts, purchases, or deliveries, using a variety of computer screen formats."
+ },
+ {
+  "task_id": "2058",
+  "occupation": "Pharmacy Aides",
+  "task_text": "Process medical insurance claims, posting bill amounts and calculating copayments."
+ },
+ {
+  "task_id": "2059",
+  "occupation": "Pharmacy Aides",
+  "task_text": "Compound, package, and label pharmaceutical products, under direction of pharmacist."
+ },
+ {
+  "task_id": "2062",
+  "occupation": "Pharmacy Aides",
+  "task_text": "Deliver medication to treatment areas, living units, residences, or clinics, using various means of transportation."
+ },
+ {
+  "task_id": "2369",
+  "occupation": "Personal Care Aides",
+  "task_text": "Perform healthcare-related tasks, such as monitoring vital signs and medication, under the direction of registered nurses or physiotherapists."
+ },
+ {
+  "task_id": "2370",
+  "occupation": "Personal Care Aides",
+  "task_text": "Administer bedside or personal care, such as ambulation or personal hygiene assistance."
+ },
+ {
+  "task_id": "2371",
+  "occupation": "Personal Care Aides",
+  "task_text": "Prepare and maintain records of client progress and services performed, reporting changes in client condition to manager or supervisor."
+ },
+ {
+  "task_id": "2372",
+  "occupation": "Personal Care Aides",
+  "task_text": "Perform housekeeping duties, such as cooking, cleaning, washing clothes or dishes, or running errands."
+ },
+ {
+  "task_id": "2373",
+  "occupation": "Personal Care Aides",
+  "task_text": "Care for individuals or families during periods of incapacitation, family disruption, or convalescence, providing companionship, personal care, or help in adjusting to new lifestyles."
+ },
+ {
+  "task_id": "2374",
+  "occupation": "Personal Care Aides",
+  "task_text": "Instruct or advise clients on issues, such as household cleanliness, utilities, hygiene, nutrition, or infant care."
+ },
+ {
+  "task_id": "2375",
+  "occupation": "Personal Care Aides",
+  "task_text": "Plan, shop for, or prepare nutritious meals or assist families in planning, shopping for, or preparing nutritious meals."
+ },
+ {
+  "task_id": "2376",
+  "occupation": "Personal Care Aides",
+  "task_text": "Participate in case reviews, consulting with the team caring for the client, to evaluate the client's needs and plan for continuing services."
+ },
+ {
+  "task_id": "2377",
+  "occupation": "Personal Care Aides",
+  "task_text": "Transport clients to locations outside the home, such as to physicians' offices or on outings, using a motor vehicle."
+ },
+ {
+  "task_id": "2378",
+  "occupation": "Personal Care Aides",
+  "task_text": "Train family members to provide bedside care."
+ },
+ {
+  "task_id": "2379",
+  "occupation": "Personal Care Aides",
+  "task_text": "Provide clients with communication assistance, typing their correspondence or obtaining information for them."
+ },
+ {
+  "task_id": "2400",
+  "occupation": "Cashiers",
+  "task_text": "Receive payment by cash, check, credit cards, vouchers, or automatic debits."
+ },
+ {
+  "task_id": "2401",
+  "occupation": "Cashiers",
+  "task_text": "Issue receipts, refunds, credits, or change due to customers."
+ },
+ {
+  "task_id": "2402",
+  "occupation": "Cashiers",
+  "task_text": "Count money in cash drawers at the beginning of shifts to ensure that amounts are correct and that there is adequate change."
+ },
+ {
+  "task_id": "2403",
+  "occupation": "Cashiers",
+  "task_text": "Greet customers entering establishments."
+ },
+ {
+  "task_id": "2405",
+  "occupation": "Cashiers",
+  "task_text": "Establish or identify prices of goods, services, or admission, and tabulate bills, using calculators, cash registers, or optical price scanners."
+ },
+ {
+  "task_id": "2406",
+  "occupation": "Cashiers",
+  "task_text": "Issue trading stamps, and redeem food stamps and coupons."
+ },
+ {
+  "task_id": "2408",
+  "occupation": "Cashiers",
+  "task_text": "Answer customers' questions, and provide information on procedures or policies."
+ },
+ {
+  "task_id": "2409",
+  "occupation": "Cashiers",
+  "task_text": "Cash checks for customers."
+ },
+ {
+  "task_id": "2410",
+  "occupation": "Cashiers",
+  "task_text": "Weigh items sold by weight to determine prices."
+ },
+ {
+  "task_id": "2411",
+  "occupation": "Cashiers",
+  "task_text": "Calculate total payments received during a time period, and reconcile this with total sales."
+ },
+ {
+  "task_id": "2412",
+  "occupation": "Cashiers",
+  "task_text": "Compute and record totals of transactions."
+ },
+ {
+  "task_id": "2413",
+  "occupation": "Cashiers",
+  "task_text": "Sell tickets and other items to customers."
+ },
+ {
+  "task_id": "2414",
+  "occupation": "Cashiers",
+  "task_text": "Keep periodic balance sheets of amounts and numbers of transactions."
+ },
+ {
+  "task_id": "2415",
+  "occupation": "Cashiers",
+  "task_text": "Bag, box, wrap, or gift-wrap merchandise, and prepare packages for shipment."
+ },
+ {
+  "task_id": "2416",
+  "occupation": "Cashiers",
+  "task_text": "Sort, count, and wrap currency and coins."
+ },
+ {
+  "task_id": "2417",
+  "occupation": "Cashiers",
+  "task_text": "Process merchandise returns and exchanges."
+ },
+ {
+  "task_id": "2419",
+  "occupation": "Cashiers",
+  "task_text": "Request information or assistance, using paging systems."
+ },
+ {
+  "task_id": "2421",
+  "occupation": "Cashiers",
+  "task_text": "Compile and maintain non-monetary reports and records."
+ },
+ {
+  "task_id": "2422",
+  "occupation": "Cashiers",
+  "task_text": "Monitor checkout stations to ensure they have adequate cash available and are staffed appropriately."
+ },
+ {
+  "task_id": "2423",
+  "occupation": "Cashiers",
+  "task_text": "Post charges against guests' or patients' accounts."
+ },
+ {
+  "task_id": "2424",
+  "occupation": "Cashiers",
+  "task_text": "Offer customers carry-out service at the completion of transactions."
+ },
+ {
+  "task_id": "2425",
+  "occupation": "Parts Salespersons",
+  "task_text": "Read catalogs, microfiche viewers, or computer displays to determine replacement part stock numbers and prices."
+ },
+ {
+  "task_id": "2426",
+  "occupation": "Parts Salespersons",
+  "task_text": "Determine replacement parts required, according to inspections of old parts, customer requests, or customers' descriptions of malfunctions."
+ },
+ {
+  "task_id": "2427",
+  "occupation": "Parts Salespersons",
+  "task_text": "Receive and fill telephone orders for parts."
+ },
+ {
+  "task_id": "2429",
+  "occupation": "Parts Salespersons",
+  "task_text": "Prepare sales slips or sales contracts."
+ },
+ {
+  "task_id": "2430",
+  "occupation": "Parts Salespersons",
+  "task_text": "Receive payment or obtain credit authorization."
+ },
+ {
+  "task_id": "2432",
+  "occupation": "Parts Salespersons",
+  "task_text": "Advise customers on substitution or modification of parts when identical replacements are not available."
+ },
+ {
+  "task_id": "2433",
+  "occupation": "Parts Salespersons",
+  "task_text": "Examine returned parts for defects, and exchange defective parts or refund money."
+ }
+]

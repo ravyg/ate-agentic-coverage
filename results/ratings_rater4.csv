@@ -1,0 +1,101 @@
+task_id,coverage,reason
+6624,0.15,live multi-party conferences to resolve student behavior need human presence and authority
+9743,0.75,gathered info can be compiled and relayed as text but formal handoff often needs human
+1147,0.35,drafting/negotiating text is doable but binding contract execution needs human authority
+1772,0.20,live coaching of people requires human presence and interpersonal trust
+21451,0.30,can prepare and draft but licensing interviews and fact-clarification need human interaction
+19227,0.00,physically providing headphones to a patient requires a body on site
+19045,0.55,drafting procedural communications is doable but formal counsel exchange needs human standing
+15863,0.20,facility tours and key-staff interviews require physical presence
+22630,0.55,research and writing strong but firsthand interviews and observation need a human
+9384,0.00,fitting and adjusting devices on a patient is hands-on physical work
+6842,0.20,counseling students on academic/adjustment issues needs human presence and trust
+9195,0.45,can synthesize gathered info into recommendations but court-facing role needs human authority
+6946,0.05,observing and interacting with psychiatric patients requires human presence
+275,0.30,can draft coordinated plans but clinical collaboration needs licensed humans
+20966,0.30,drafting negotiation positions doable but binding contract negotiation needs human
+2002,0.10,in-person admission interview requires human presence; recording is trivial
+1831,0.05,counseling patients in office visits requires human presence and clinical authority
+7361,0.35,can prepare questions and process data but client interview needs human interaction
+18940,0.85,maintaining and updating client account records is text and data work
+19181,0.10,building rapport and reflecting with clients requires human presence
+1827,0.55,analyzing patient data to diagnose is analytic but clinical diagnosis needs licensed human
+18364,0.00,preparing and administering anesthetics requires physical clinical action
+7065,0.00,sprinkling finish materials over a surface is physical on-site work
+18454,0.10,prescribing medications requires human prescriptive authority
+9960,0.65,interpreting pilot problem descriptions to diagnose is a reasoning/text task
+22888,0.45,code resolution is analytic but consulting doctors and team meetings need humans
+340,0.10,prescribing medications requires human prescriptive authority
+17260,0.70,developing and prescribing exercise programs is largely knowledge work but prescribing needs authority
+2874,0.10,diagnosing with test equipment and hand tools requires on-site physical work
+16505,0.75,failure/reliability/yield analysis is data and engineering reasoning
+17216,0.60,evaluating intervention effectiveness is analytic but clinical judgment needs licensed human
+18430,0.10,diagnosing and treating visual disorders requires physical clinical exam
+20734,0.55,investigating equipment failures involves physical inspection but analysis/recommendation is doable
+17066,0.10,prescribing medication requires human prescriptive authority
+8931,0.00,witnessing and certifying deaths requires legal authority and physical presence
+22211,0.15,diagnosing and treating CNS conditions requires clinical presence and authority
+11357,0.05,registering, certifying, insuring parcels is physical postal handling
+15212,0.00,isolating and maintaining microbial cultures requires physical lab work
+10881,0.10,inspecting and operating test equipment requires physical on-site work
+22748,0.05,diagnosing and treating musculoskeletal disorders requires clinical presence
+18448,0.60,documenting physical exam findings is text work but exam itself needs a human
+10198,0.00,repairing or replacing molds and equipment with tools is physical work
+23824,0.45,arranging fueling, restocking, repairs is coordination but execution needs humans on site
+16555,0.15,monitoring construction for compliance requires on-site presence
+5185,0.00,assembling bicycles is physical manual work
+20315,0.35,program planning is doable but running fitness/CPR sessions needs human presence
+4996,0.00,cleaning and polishing vehicle windows is physical work
+4865,0.00,disassembling and removing pipe is physical manual work
+23550,0.00,repairing or rebuilding transmissions is physical mechanical work
+9489,0.00,cleaning, cutting, cooking food is physical kitchen work
+1007,0.35,drafting vendor contracts is doable but binding contracting needs human authority
+19046,0.50,legal analysis and drafting doable but conferring with judges needs human standing
+2364,0.00,housekeeping and childcare duties require physical presence
+4836,0.00,electrical installation and repair labor is physical on-site work
+15817,0.85,estimating operations and maintenance costs is analytic and data work
+23373,0.00,repairing and maintaining farm equipment is physical work
+16296,0.80,computing and adjusting survey data is a computational task
+5190,0.00,repairing tire tube holes with tools is physical manual work
+5177,0.00,maintaining and repairing equipment is physical work
+3121,0.00,installing experimental parts into machines is physical work
+22599,0.30,generating improvised music is doable but live performance needs a human performer
+22726,0.00,performing emergency resuscitation requires physical clinical action
+22911,0.00,emergency medical services and rescue require physical presence
+23908,0.05,crisis intervention for safety requires human presence and responsibility
+21297,0.55,directing and participating in emergency planning is partly planning but direction needs authority
+7259,0.85,tracking regulations and ensuring plan compliance is research and document work
+13245,0.25,special assistance and emergency handling for callers needs human judgment/presence
+22730,0.30,selecting and interpreting diagnostic tests is analytic but performing them needs a human
+20839,0.05,calling responders and jump-starting cars requires physical presence on site
+7256,0.90,maintaining and updating emergency plan resource materials is document work
+12351,0.05,implementing industrial emergency response procedures requires physical action
+2127,0.05,performing emergency field work off-hours requires physical presence
+7270,0.55,designing surveys and technical support is doable but conducting field surveys needs humans
+21347,0.85,developing and documenting operating procedures is writing work
+5385,0.05,initiating corrective actions or plant shutdowns requires authority and physical control
+7755,0.00,providing life support and airway management requires physical clinical action
+60,0.20,inspecting facilities requires physical presence though recommendations are text
+2714,0.85,maintaining files of emergency-call information is records work
+21768,0.85,coordinating documentation of security policies and tests is document work
+5045,0.55,completing and maintaining incident records is text work but observing conditions needs presence
+21363,0.75,evaluating contractors on efficiency/safety records is analytic research
+4268,0.80,clerical scheduling, data collection, billing documentation is office work
+21463,0.60,communicating requirements is doable but stakeholder alignment often needs a human
+8601,0.40,dispatching personnel and vehicles is coordination but authority and radio ops need human
+10772,0.00,directing helpers placing blocking under cranes is on-site physical supervision
+6844,0.85,reviewing content and evaluations to recommend revisions is analytic writing
+12365,0.05,inspecting machines for hazards and wear requires physical presence
+23380,0.35,identifying plants/pests to select treatments is analytic but field inspection needs presence
+21657,0.85,testing and debugging databases is software work
+21497,0.80,preparing documentation for case or court reports is writing work
+23096,0.20,responding to student questions on a bus requires human presence
+5812,0.55,collaborating with colleagues on teaching/research is partly doable but needs human peers
+21992,0.35,procuring parts is orderable but physical inventory maintenance needs a human
+12486,0.10,reading dials/meters to verify equipment requires physical on-site presence
+10563,0.00,responding to in-flight emergencies requires a pilot physically aboard
+17548,0.30,public-records research is doable but field observation and sources need humans
+19802,0.65,advancing precision-ag tech like weed-ID systems is largely software/research
+17235,0.55,developing radiology treatment plans is analytic but clinical responsibility needs a physician
+15479,0.15,monitoring plant control parameters requires physical or on-site observation
+17161,0.20,instructing interns in ophthalmologic procedures needs hands-on human teaching

@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "18835",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Monitor funeral service operations to ensure that they comply with applicable policies, regulations, and laws."
+ },
+ {
+  "task_id": "18833",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Direct and supervise work of embalmers, funeral attendants, death certificate clerks, cosmetologists, or other staff."
+ },
+ {
+  "task_id": "18846",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Complete and maintain records, such as state-required documents, tracking documents, or product inventories."
+ },
+ {
+  "task_id": "18843",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Sell funeral services, products, or merchandise to clients."
+ },
+ {
+  "task_id": "18838",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Plan and implement changes to service offerings to meet community needs or increase funeral home revenues."
+ },
+ {
+  "task_id": "18840",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Respond to customer complaints, legal inquiries, payment negotiations, or other post-service matters."
+ },
+ {
+  "task_id": "18836",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Negotiate contracts for prearranged funeral services."
+ },
+ {
+  "task_id": "18848",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Explain goals, policies, or procedures to staff members."
+ },
+ {
+  "task_id": "18851",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Schedule work hours for funeral home or contract employees."
+ },
+ {
+  "task_id": "18845",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Set prices or credit terms for funeral products or services."
+ },
+ {
+  "task_id": "18841",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Review financial statements, sales or activity reports, or other performance data to identify opportunities for cost reductions or service improvements."
+ },
+ {
+  "task_id": "18850",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Interview and hire new employees."
+ },
+ {
+  "task_id": "18849",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Identify skill development needs for funeral home staff."
+ },
+ {
+  "task_id": "18834",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Direct or monitor administrative, support, repair, or maintenance services for funeral homes."
+ },
+ {
+  "task_id": "18844",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Set marketing, sales, or other financial goals for funeral service establishments and monitor progress toward these goals."
+ },
+ {
+  "task_id": "18830",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Attend or make presentations at community events to promote funeral home services or build community relationships."
+ },
+ {
+  "task_id": "18847",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Evaluate the performance of vendors, contract employees, or other service providers to ensure quality and cost-efficiency."
+ },
+ {
+  "task_id": "18831",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Conduct market research and analyze industry trends."
+ },
+ {
+  "task_id": "18839",
+  "occupation": "Funeral Home Managers",
+  "task_text": "Plan and implement sales promotions or other marketing strategies and activities for funeral home operations."
+ },
+ {
+  "task_id": "15558",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Maintain wellness- and fitness-related schedules, records, or reports."
+ },
+ {
+  "task_id": "15562",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Develop or coordinate fitness and wellness programs or services."
+ },
+ {
+  "task_id": "15552",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Recommend or approve new program or service offerings to promote wellness and fitness, produce revenues, or minimize costs."
+ },
+ {
+  "task_id": "15557",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Manage or oversee fitness or recreation facilities, ensuring safe and clean facilities and equipment."
+ },
+ {
+  "task_id": "15561",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Supervise fitness or wellness specialists, such as fitness instructors, nutritionists, or health educators."
+ },
+ {
+  "task_id": "15544",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Track attendance, participation, or performance data related to wellness events."
+ },
+ {
+  "task_id": "15559",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Conduct or facilitate training sessions or seminars for wellness and fitness staff."
+ },
+ {
+  "task_id": "15546",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Maintain or arrange for maintenance of fitness equipment or facilities."
+ },
+ {
+  "task_id": "15553",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Prepare or implement budgets and strategic, operational, purchasing, or maintenance plans."
+ },
+ {
+  "task_id": "23945",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Evaluate fitness and wellness programs to determine their effectiveness."
+ },
+ {
+  "task_id": "15560",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Develop fitness or wellness classes, such as yoga, aerobics, strength training, or aquatics, ensuring a diversity of class offerings."
+ },
+ {
+  "task_id": "15556",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Demonstrate proper operation of fitness equipment, such as resistance machines, cardio machines, free weights, or fitness assessment devices."
+ },
+ {
+  "task_id": "15548",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Conduct needs assessments or surveys to determine interest in, or satisfaction with, wellness and fitness programs, events, or services."
+ },
+ {
+  "task_id": "15549",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Teach fitness classes to improve strength, flexibility, cardiovascular conditioning, or general fitness of participants."
+ },
+ {
+  "task_id": "15547",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Develop marketing campaigns to promote a healthy lifestyle or participation in fitness or wellness programs."
+ },
+ {
+  "task_id": "15550",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Select or supervise contractors, such as event hosts or health, fitness, and wellness practitioners."
+ },
+ {
+  "task_id": "20316",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Track cost-containment strategies and programs to evaluate effectiveness."
+ },
+ {
+  "task_id": "15545",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Provide individual support or counseling in general wellness or nutrition."
+ },
+ {
+  "task_id": "20317",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Use computer skills and software to manage Web sites or databases, publish newsletters, or provide webinars."
+ },
+ {
+  "task_id": "15551",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Respond to customer, public, or media requests for information about wellness programs or services."
+ },
+ {
+  "task_id": "20315",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Organize and oversee fitness or wellness programs, such as information presentations, blood drives, or training in first aid or cardiopulmonary resuscitation (CPR)."
+ },
+ {
+  "task_id": "15555",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Organize and oversee events such as organized runs or walks."
+ },
+ {
+  "task_id": "15554",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Organize and oversee health screenings or other preventive measures, such as mammography, blood pressure, or cholesterol screenings or flu vaccinations."
+ },
+ {
+  "task_id": "20314",
+  "occupation": "Fitness and Wellness Coordinators",
+  "task_text": "Interpret insurance data or Health Reimbursement Account (HRA) data to develop programs that address specific needs of target populations."
+ },
+ {
+  "task_id": "17612",
+  "occupation": "Spa Managers",
+  "task_text": "Respond to customer inquiries or complaints."
+ },
+ {
+  "task_id": "17619",
+  "occupation": "Spa Managers",
+  "task_text": "Schedule guest appointments."
+ },
+ {
+  "task_id": "17617",
+  "occupation": "Spa Managers",
+  "task_text": "Maintain client databases."
+ },
+ {
+  "task_id": "17605",
+  "occupation": "Spa Managers",
+  "task_text": "Coordinate facility schedules to maximize usage and efficiency."
+ },
+ {
+  "task_id": "17610",
+  "occupation": "Spa Managers",
+  "task_text": "Perform accounting duties, such as recording daily cash flow, preparing bank deposits, or generating financial statements."
+ },
+ {
+  "task_id": "17609",
+  "occupation": "Spa Managers",
+  "task_text": "Monitor operations to ensure compliance with applicable health, safety, or hygiene standards."
+ },
+ {
+  "task_id": "17601",
+  "occupation": "Spa Managers",
+  "task_text": "Plan or direct spa services and programs."
+ },
+ {
+  "task_id": "17615",
+  "occupation": "Spa Managers",
+  "task_text": "Develop or implement marketing strategies."
+ },
+ {
+  "task_id": "17620",
+  "occupation": "Spa Managers",
+  "task_text": "Sell products, services, or memberships."
+ },
+ {
+  "task_id": "17611",
+  "occupation": "Spa Managers",
+  "task_text": "Recruit, interview, or hire employees."
+ },
+ {
+  "task_id": "17603",
+  "occupation": "Spa Managers",
+  "task_text": "Assess employee performance and suggest ways to improve work."
+ },
+ {
+  "task_id": "17608",
+  "occupation": "Spa Managers",
+  "task_text": "Inventory products and order new supplies."
+ },
+ {
+  "task_id": "17607",
+  "occupation": "Spa Managers",
+  "task_text": "Establish spa budgets and financial goals."
+ },
+ {
+  "task_id": "17600",
+  "occupation": "Spa Managers",
+  "task_text": "Inform staff of job responsibilities, performance expectations, client service standards, or corporate policies and guidelines."
+ },
+ {
+  "task_id": "17602",
+  "occupation": "Spa Managers",
+  "task_text": "Train staff in the use or sale of products, programs, or activities."
+ },
+ {
+  "task_id": "17618",
+  "occupation": "Spa Managers",
+  "task_text": "Participate in continuing education classes to maintain current knowledge of industry."
+ },
+ {
+  "task_id": "17616",
+  "occupation": "Spa Managers",
+  "task_text": "Direct facility maintenance or repair."
+ },
+ {
+  "task_id": "17614",
+  "occupation": "Spa Managers",
+  "task_text": "Verify staff credentials, such as educational and certification requirements."
+ },
+ {
+  "task_id": "17613",
+  "occupation": "Spa Managers",
+  "task_text": "Schedule staff or supervise scheduling."
+ },
+ {
+  "task_id": "17604",
+  "occupation": "Spa Managers",
+  "task_text": "Check spa equipment to ensure proper functioning."
+ },
+ {
+  "task_id": "17606",
+  "occupation": "Spa Managers",
+  "task_text": "Develop staff service or retail goals and guide staff in goal achievement."
+ },
+ {
+  "task_id": "18026",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Develop regulatory strategies and implementation plans for the preparation and submission of new products."
+ },
+ {
+  "task_id": "18037",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Review all regulatory agency submission materials to ensure timeliness, accuracy, comprehensiveness, or compliance with regulatory standards."
+ },
+ {
+  "task_id": "18022",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Direct the preparation and submission of regulatory agency applications, reports, or correspondence."
+ },
+ {
+  "task_id": "18029",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Investigate product complaints and prepare documentation and submissions to appropriate regulatory agencies as necessary."
+ },
+ {
+  "task_id": "18035",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Provide responses to regulatory agencies regarding product information or issues."
+ },
+ {
+  "task_id": "18036",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Represent organizations before domestic or international regulatory agencies on major policy matters or decisions regarding company products."
+ },
+ {
+  "task_id": "18024",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Provide regulatory guidance to departments or development project teams regarding design, development, evaluation, or marketing of products."
+ },
+ {
+  "task_id": "18031",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Manage activities such as audits, regulatory agency inspections, or product recalls."
+ },
+ {
+  "task_id": "18025",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Communicate regulatory information to multiple departments and ensure that information is interpreted correctly."
+ },
+ {
+  "task_id": "18030",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Maintain current knowledge of relevant regulations, including proposed and final rules."
+ },
+ {
+  "task_id": "18023",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Formulate or implement regulatory affairs policies and procedures to ensure that regulatory compliance is maintained or enhanced."
+ },
+ {
+  "task_id": "21087",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Direct documentation efforts to ensure compliance with domestic and international regulations and standards."
+ },
+ {
+  "task_id": "18038",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Review materials such as marketing literature or user manuals to ensure that regulatory agency requirements are met."
+ },
+ {
+  "task_id": "18034",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Participate in the development or implementation of clinical trial protocols."
+ },
+ {
+  "task_id": "18028",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Implement or monitor complaint processing systems to ensure effective and timely resolution of all complaint investigations."
+ },
+ {
+  "task_id": "18043",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Establish procedures or systems for publishing document submissions in hardcopy or electronic formats."
+ },
+ {
+  "task_id": "18027",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Establish regulatory priorities or budgets and allocate resources and workloads."
+ },
+ {
+  "task_id": "18039",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Train staff in regulatory policies or procedures."
+ },
+ {
+  "task_id": "18042",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Develop and maintain standard operating procedures or local working practices."
+ },
+ {
+  "task_id": "18040",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Contribute to the development or implementation of business unit strategic and operating plans."
+ },
+ {
+  "task_id": "19531",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Monitor regulatory affairs activities to ensure their alignment with corporate sustainability or green initiatives."
+ },
+ {
+  "task_id": "18041",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Coordinate internal discoveries and depositions with legal department staff."
+ },
+ {
+  "task_id": "18032",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Monitor emerging trends regarding industry regulations to determine potential impacts on organizational processes."
+ },
+ {
+  "task_id": "19529",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Develop relationships with state or federal environmental regulatory agencies to learn about and analyze the potential impacts of proposed environmental policy regulations."
+ },
+ {
+  "task_id": "19532",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Monitor regulatory affairs trends related to environmental issues."
+ },
+ {
+  "task_id": "19530",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Evaluate regulatory affairs aspects that are specifically green, such as the use of toxic substances in packaging, carbon footprinting issues, or green policy implementation."
+ },
+ {
+  "task_id": "18044",
+  "occupation": "Regulatory Affairs Managers",
+  "task_text": "Evaluate new software publishing systems and confer with regulatory agencies concerning news or updates on electronic publishing of submissions."
+ },
+ {
+  "task_id": "15645",
+  "occupation": "Compliance Managers",
+  "task_text": "Report violations of compliance or regulatory standards to duly authorized enforcement agencies as appropriate or required."
+ },
+ {
+  "task_id": "15650",
+  "occupation": "Compliance Managers",
+  "task_text": "Identify compliance issues that require follow-up or investigation."
+ },
+ {
+  "task_id": "21088",
+  "occupation": "Compliance Managers",
+  "task_text": "Discuss emerging compliance issues to ensure that management and employees are informed about compliance reporting systems, policies, and practices."
+ },
+ {
+  "task_id": "15653",
+  "occupation": "Compliance Managers",
+  "task_text": "File appropriate compliance reports with regulatory agencies."
+ },
+ {
+  "task_id": "15638",
+  "occupation": "Compliance Managers",
+  "task_text": "Maintain documentation of compliance activities, such as complaints received or investigation outcomes."
+ },
+ {
+  "task_id": "15639",
+  "occupation": "Compliance Managers",
+  "task_text": "Consult with corporate attorneys as necessary to address difficult legal compliance issues."
+ },
+ {
+  "task_id": "15656",
+  "occupation": "Compliance Managers",
+  "task_text": "Conduct or direct the internal investigation of compliance issues."
+ },
+ {
+  "task_id": "15644",
+  "occupation": "Compliance Managers",
+  "task_text": "Provide employee training on compliance related topics, policies, or procedures."
+ },
+ {
+  "task_id": "15637",
+  "occupation": "Compliance Managers",
+  "task_text": "Serve as a confidential point of contact for employees to communicate with management, seek clarification on issues or dilemmas, or report irregularities."
+ },
+ {
+  "task_id": "21089",
+  "occupation": "Compliance Managers",
+  "task_text": "Verify that all regulatory policies and procedures have been documented, implemented, and communicated."
+ },
+ {
+  "task_id": "15652",
+  "occupation": "Compliance Managers",
+  "task_text": "Disseminate written policies and procedures related to compliance activities."
+ },
+ {
+  "task_id": "15647",
+  "occupation": "Compliance Managers",
+  "task_text": "Prepare management reports regarding compliance operations and progress."
+ },
+ {
+  "task_id": "15655",
+  "occupation": "Compliance Managers",
+  "task_text": "Conduct periodic internal reviews or audits to ensure that compliance procedures are followed."
+ },
+ {
+  "task_id": "21090",
+  "occupation": "Compliance Managers",
+  "task_text": "Keep informed regarding pending industry changes, trends, or best practices."
+ },
+ {
+  "task_id": "15649",
+  "occupation": "Compliance Managers",
+  "task_text": "Monitor compliance systems to ensure their effectiveness."
+ },
+ {
+  "task_id": "21091",
+  "occupation": "Compliance Managers",
+  "task_text": "Direct the development or implementation of policies and procedures related to compliance throughout an organization."
+ },
+ {
+  "task_id": "15642",
+  "occupation": "Compliance Managers",
+  "task_text": "Advise internal management or business partners on the implementation or operation of compliance programs."
+ },
+ {
+  "task_id": "15654",
+  "occupation": "Compliance Managers",
+  "task_text": "Design or implement improvements in communication, monitoring, or enforcement of compliance standards."
+ },
+ {
+  "task_id": "15646",
+  "occupation": "Compliance Managers",
+  "task_text": "Provide assistance to internal or external auditors in compliance reviews."
+ },
+ {
+  "task_id": "15641",
+  "occupation": "Compliance Managers",
+  "task_text": "Collaborate with human resources departments to ensure the implementation of consistent disciplinary action strategies in cases of compliance standard violations."
+ },
+ {
+  "task_id": "21092",
+  "occupation": "Compliance Managers",
+  "task_text": "Develop risk management strategies based on assessment of product, compliance, or operational risks."
+ },
+ {
+  "task_id": "19533",
+  "occupation": "Compliance Managers",
+  "task_text": "Advise technical professionals on the development or use of environmental compliance or reporting tools."
+ },
+ {
+  "task_id": "19534",
+  "occupation": "Compliance Managers",
+  "task_text": "Conduct environmental audits to ensure adherence to environmental standards."
+ },
+ {
+  "task_id": "19537",
+  "occupation": "Compliance Managers",
+  "task_text": "Evaluate testing procedures to meet the specifications of environmental monitoring programs."
+ },
+ {
+  "task_id": "19538",
+  "occupation": "Compliance Managers",
+  "task_text": "Review or modify policies or operating guidelines to comply with changes to environmental standards or regulations."
+ },
+ {
+  "task_id": "15643",
+  "occupation": "Compliance Managers",
+  "task_text": "Review communications such as securities sales advertising to ensure there are no violations of standards or regulations."
+ },
+ {
+  "task_id": "21093",
+  "occupation": "Compliance Managers",
+  "task_text": "Oversee internal reporting systems, such as corporate compliance hotlines."
+ },
+ {
+  "task_id": "15636",
+  "occupation": "Compliance Managers",
+  "task_text": "Verify that software technology is in place to adequately provide oversight and monitoring in all required areas."
+ },
+ {
+  "task_id": "19536",
+  "occupation": "Compliance Managers",
+  "task_text": "Direct environmental programs, such as air or water compliance, aboveground or underground storage tanks, spill prevention or control, hazardous waste or materials management, solid waste recycling, medical waste management, indoor air quality, integrated pest management, employee training, or disaster preparedness."
+ },
+ {
+  "task_id": "15800",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Coordinate or conduct internal investigations of problems such as employee theft and violations of corporate loss prevention policies."
+ },
+ {
+  "task_id": "15807",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Administer systems and programs to reduce loss, maintain inventory control, or increase safety."
+ },
+ {
+  "task_id": "15781",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Review loss prevention exception reports and cash discrepancies to ensure adherence to guidelines."
+ },
+ {
+  "task_id": "15791",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Train loss prevention staff, retail managers, or store employees on loss control and prevention measures."
+ },
+ {
+  "task_id": "15786",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Investigate or interview individuals suspected of shoplifting or internal theft."
+ },
+ {
+  "task_id": "15783",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Provide recommendations and solutions in crisis situations such as workplace violence, protests, and demonstrations."
+ },
+ {
+  "task_id": "15806",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Identify potential for loss and develop strategies to eliminate it."
+ },
+ {
+  "task_id": "15795",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Hire or supervise loss prevention staff."
+ },
+ {
+  "task_id": "15804",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Advise retail managers on compliance with applicable codes, laws, regulations, or standards."
+ },
+ {
+  "task_id": "15799",
+  "occupation": "Loss Prevention Managers",
+  "task_text": "Develop and maintain partnerships with federal, state, or local law enforcement agencies or members of the retail loss prevention community."
+ }
+]

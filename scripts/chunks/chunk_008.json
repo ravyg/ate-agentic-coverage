@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "3781",
+  "occupation": "Lawyers",
+  "task_text": "Select jurors, argue motions, meet with judges, and question witnesses during the course of a trial."
+ },
+ {
+  "task_id": "3782",
+  "occupation": "Lawyers",
+  "task_text": "Present evidence to defend clients or prosecute defendants in criminal or civil litigation."
+ },
+ {
+  "task_id": "3783",
+  "occupation": "Lawyers",
+  "task_text": "Study Constitution, statutes, decisions, regulations, and ordinances of quasi-judicial bodies to determine ramifications for cases."
+ },
+ {
+  "task_id": "3785",
+  "occupation": "Lawyers",
+  "task_text": "Prepare legal briefs and opinions, and file appeals in state and federal courts of appeal."
+ },
+ {
+  "task_id": "3786",
+  "occupation": "Lawyers",
+  "task_text": "Negotiate settlements of civil disputes."
+ },
+ {
+  "task_id": "3787",
+  "occupation": "Lawyers",
+  "task_text": "Confer with colleagues with specialties in appropriate areas of legal issue to establish and verify bases for legal proceedings."
+ },
+ {
+  "task_id": "3788",
+  "occupation": "Lawyers",
+  "task_text": "Search for and examine public and other legal records to write opinions or establish ownership."
+ },
+ {
+  "task_id": "3789",
+  "occupation": "Lawyers",
+  "task_text": "Supervise legal assistants."
+ },
+ {
+  "task_id": "3790",
+  "occupation": "Lawyers",
+  "task_text": "Perform administrative and management functions related to the practice of law."
+ },
+ {
+  "task_id": "3791",
+  "occupation": "Lawyers",
+  "task_text": "Act as agent, trustee, guardian, or executor for businesses or individuals."
+ },
+ {
+  "task_id": "3792",
+  "occupation": "Lawyers",
+  "task_text": "Probate wills and represent and advise executors and administrators of estates."
+ },
+ {
+  "task_id": "3793",
+  "occupation": "Lawyers",
+  "task_text": "Help develop federal and state programs, draft and interpret laws and legislation, and establish enforcement procedures."
+ },
+ {
+  "task_id": "4073",
+  "occupation": "Physician Assistants",
+  "task_text": "Examine patients to obtain information about their physical condition."
+ },
+ {
+  "task_id": "4074",
+  "occupation": "Physician Assistants",
+  "task_text": "Interpret diagnostic test results for deviations from normal."
+ },
+ {
+  "task_id": "4075",
+  "occupation": "Physician Assistants",
+  "task_text": "Make tentative diagnoses and decisions about management and treatment of patients."
+ },
+ {
+  "task_id": "4076",
+  "occupation": "Physician Assistants",
+  "task_text": "Obtain, compile, and record patient medical data, including health history, progress notes, and results of physical examination."
+ },
+ {
+  "task_id": "4077",
+  "occupation": "Physician Assistants",
+  "task_text": "Administer or order diagnostic tests, such as x-ray, electrocardiogram, and laboratory tests."
+ },
+ {
+  "task_id": "4078",
+  "occupation": "Physician Assistants",
+  "task_text": "Prescribe therapy or medication with physician approval."
+ },
+ {
+  "task_id": "4079",
+  "occupation": "Physician Assistants",
+  "task_text": "Perform therapeutic procedures, such as injections, immunizations, suturing and wound care, and infection management."
+ },
+ {
+  "task_id": "4080",
+  "occupation": "Physician Assistants",
+  "task_text": "Instruct and counsel patients about prescribed therapeutic regimens, normal growth and development, family planning, emotional problems of daily living, and health maintenance."
+ },
+ {
+  "task_id": "4081",
+  "occupation": "Physician Assistants",
+  "task_text": "Provide physicians with assistance during surgery or complicated medical procedures."
+ },
+ {
+  "task_id": "4082",
+  "occupation": "Physician Assistants",
+  "task_text": "Supervise and coordinate activities of technicians and technical assistants."
+ },
+ {
+  "task_id": "4083",
+  "occupation": "Physician Assistants",
+  "task_text": "Visit and observe patients on hospital rounds or house calls, updating charts, ordering therapy, and reporting back to physician."
+ },
+ {
+  "task_id": "4084",
+  "occupation": "Physician Assistants",
+  "task_text": "Order medical and laboratory supplies and equipment."
+ },
+ {
+  "task_id": "4085",
+  "occupation": "Radiation Therapists",
+  "task_text": "Administer prescribed doses of radiation to specific body parts, using radiation therapy equipment according to established practices and standards."
+ },
+ {
+  "task_id": "4086",
+  "occupation": "Radiation Therapists",
+  "task_text": "Position patients for treatment with accuracy, according to prescription."
+ },
+ {
+  "task_id": "4087",
+  "occupation": "Radiation Therapists",
+  "task_text": "Enter data into computer and set controls to operate or adjust equipment or regulate dosage."
+ },
+ {
+  "task_id": "4088",
+  "occupation": "Radiation Therapists",
+  "task_text": "Follow principles of radiation protection for patient, self, and others."
+ },
+ {
+  "task_id": "4089",
+  "occupation": "Radiation Therapists",
+  "task_text": "Maintain records, reports, or files as required, including such information as radiation dosages, equipment settings, or patients' reactions."
+ },
+ {
+  "task_id": "4090",
+  "occupation": "Radiation Therapists",
+  "task_text": "Review prescription, diagnosis, patient chart, and identification."
+ },
+ {
+  "task_id": "4091",
+  "occupation": "Radiation Therapists",
+  "task_text": "Conduct most treatment sessions independently, in accordance with the long-term treatment plan and under the general direction of the patient's physician."
+ },
+ {
+  "task_id": "4092",
+  "occupation": "Radiation Therapists",
+  "task_text": "Check radiation therapy equipment to ensure proper operation."
+ },
+ {
+  "task_id": "4093",
+  "occupation": "Radiation Therapists",
+  "task_text": "Observe and reassure patients during treatment and report unusual reactions to physician or turn equipment off if unexpected adverse reactions occur."
+ },
+ {
+  "task_id": "4094",
+  "occupation": "Radiation Therapists",
+  "task_text": "Check for side effects, such as skin irritation, nausea, or hair loss to assess patients' reaction to treatment."
+ },
+ {
+  "task_id": "4095",
+  "occupation": "Radiation Therapists",
+  "task_text": "Educate, prepare, and reassure patients and their families by answering questions, providing physical assistance, and reinforcing physicians' advice regarding treatment reactions or post-treatment car"
+ },
+ {
+  "task_id": "4096",
+  "occupation": "Radiation Therapists",
+  "task_text": "Calculate actual treatment dosages delivered during each session."
+ },
+ {
+  "task_id": "4097",
+  "occupation": "Radiation Therapists",
+  "task_text": "Prepare or construct equipment, such as immobilization, treatment, or protection devices."
+ },
+ {
+  "task_id": "4098",
+  "occupation": "Radiation Therapists",
+  "task_text": "Photograph treated area of patient and process film."
+ },
+ {
+  "task_id": "4099",
+  "occupation": "Radiation Therapists",
+  "task_text": "Help physicians, radiation oncologists, or clinical physicists to prepare physical or technical aspects of radiation treatment plans, using information about patient condition and anatomy."
+ },
+ {
+  "task_id": "4100",
+  "occupation": "Radiation Therapists",
+  "task_text": "Train or supervise student or subordinate radiotherapy technologists."
+ },
+ {
+  "task_id": "4101",
+  "occupation": "Radiation Therapists",
+  "task_text": "Act as liaison with physicist and supportive care personnel."
+ },
+ {
+  "task_id": "4102",
+  "occupation": "Radiation Therapists",
+  "task_text": "Provide assistance to other healthcare personnel during dosimetry procedures and tumor localization."
+ },
+ {
+  "task_id": "4103",
+  "occupation": "Radiation Therapists",
+  "task_text": "Implement appropriate follow-up care plans."
+ },
+ {
+  "task_id": "4104",
+  "occupation": "Radiation Therapists",
+  "task_text": "Store, sterilize, or prepare the special applicators containing the radioactive substance implanted by the physician."
+ },
+ {
+  "task_id": "4105",
+  "occupation": "Radiation Therapists",
+  "task_text": "Assist in the preparation of sealed radioactive materials, such as cobalt, radium, cesium, or isotopes, for use in radiation treatments."
+ },
+ {
+  "task_id": "4106",
+  "occupation": "Veterinarians",
+  "task_text": "Examine animals to detect and determine the nature of diseases or injuries."
+ },
+ {
+  "task_id": "4107",
+  "occupation": "Veterinarians",
+  "task_text": "Treat sick or injured animals by prescribing medication, setting bones, dressing wounds, or performing surgery."
+ },
+ {
+  "task_id": "4108",
+  "occupation": "Veterinarians",
+  "task_text": "Inoculate animals against various diseases, such as rabies or distemper."
+ },
+ {
+  "task_id": "4109",
+  "occupation": "Veterinarians",
+  "task_text": "Collect body tissue, feces, blood, urine, or other body fluids for examination and analysis."
+ },
+ {
+  "task_id": "4110",
+  "occupation": "Veterinarians",
+  "task_text": "Operate diagnostic equipment, such as radiographic or ultrasound equipment, and interpret the resulting images."
+ },
+ {
+  "task_id": "4112",
+  "occupation": "Veterinarians",
+  "task_text": "Educate the public about diseases that can be spread from animals to humans."
+ },
+ {
+  "task_id": "4113",
+  "occupation": "Veterinarians",
+  "task_text": "Train or supervise workers who handle or care for animals."
+ },
+ {
+  "task_id": "4114",
+  "occupation": "Veterinarians",
+  "task_text": "Provide care to a wide range of animals or specialize in a particular species, such as horses or exotic birds."
+ },
+ {
+  "task_id": "4115",
+  "occupation": "Veterinarians",
+  "task_text": "Euthanize animals."
+ },
+ {
+  "task_id": "4116",
+  "occupation": "Veterinarians",
+  "task_text": "Establish or conduct quarantine or testing procedures that prevent the spread of diseases to other animals or to humans and that comply with applicable government regulations."
+ },
+ {
+  "task_id": "4117",
+  "occupation": "Veterinarians",
+  "task_text": "Conduct postmortem studies and analyses to determine the causes of animals' deaths."
+ },
+ {
+  "task_id": "4119",
+  "occupation": "Veterinarians",
+  "task_text": "Direct the overall operations of animal hospitals, clinics, or mobile services to farms."
+ },
+ {
+  "task_id": "4121",
+  "occupation": "Veterinarians",
+  "task_text": "Specialize in a particular type of treatment, such as dentistry, pathology, nutrition, surgery, microbiology, or internal medicine."
+ },
+ {
+  "task_id": "4122",
+  "occupation": "Veterinarians",
+  "task_text": "Inspect and test horses, sheep, poultry, or other animals to detect the presence of communicable diseases."
+ },
+ {
+  "task_id": "4123",
+  "occupation": "Veterinarians",
+  "task_text": "Plan or execute animal nutrition or reproduction programs."
+ },
+ {
+  "task_id": "4124",
+  "occupation": "Veterinarians",
+  "task_text": "Research diseases to which animals could be susceptible."
+ },
+ {
+  "task_id": "4126",
+  "occupation": "Veterinarians",
+  "task_text": "Determine the effects of drug therapies, antibiotics, or new surgical techniques by testing them on animals."
+ },
+ {
+  "task_id": "4127",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Monitor patients' blood pressure and heart rate using electrocardiogram (EKG) equipment during diagnostic or therapeutic procedures to notify the physician if something appears wrong."
+ },
+ {
+  "task_id": "4128",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Monitor patients' comfort and safety during tests, alerting physicians to abnormalities or changes in patient responses."
+ },
+ {
+  "task_id": "4129",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Explain testing procedures to patients to obtain cooperation and reduce anxiety."
+ },
+ {
+  "task_id": "4131",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Observe gauges, recorder, and video screens of data analysis system during imaging of cardiovascular system."
+ },
+ {
+  "task_id": "4132",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Conduct electrocardiogram (EKG), phonocardiogram, echocardiogram, stress testing, or other cardiovascular tests to record patients' cardiac activity, using specialized electronic test equipment, recor"
+ },
+ {
+  "task_id": "4133",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Prepare and position patients for testing."
+ },
+ {
+  "task_id": "4134",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Obtain and record patient identification, medical history, or test results."
+ },
+ {
+  "task_id": "4135",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Attach electrodes to the patients' chests, arms, and legs, connect electrodes to leads from the electrocardiogram (EKG) machine, and operate the EKG machine to obtain a reading."
+ },
+ {
+  "task_id": "4136",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Adjust equipment and controls according to physicians' orders or established protocol."
+ },
+ {
+  "task_id": "4137",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Check, test, and maintain cardiology equipment, making minor repairs when necessary, to ensure proper operation."
+ },
+ {
+  "task_id": "4138",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Supervise or train other cardiology technologists or students."
+ },
+ {
+  "task_id": "4140",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Operate diagnostic imaging equipment to produce contrast enhanced radiographs of heart and cardiovascular system."
+ },
+ {
+  "task_id": "4141",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Inject contrast medium into patients' blood vessels."
+ },
+ {
+  "task_id": "4142",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Observe ultrasound display screen and listen to signals to record vascular information, such as blood pressure, limb volume changes, oxygen saturation, or cerebral circulation."
+ },
+ {
+  "task_id": "4143",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Assess cardiac physiology and calculate valve areas from blood flow velocity measurements."
+ },
+ {
+  "task_id": "4144",
+  "occupation": "Cardiovascular Technologists and Technicians",
+  "task_text": "Compare measurements of heart wall thickness and chamber sizes to standard norms to identify abnormalities."
+ },
+ {
+  "task_id": "4148",
+  "occupation": "Nuclear Medicine Technologists",
+  "task_text": "Calculate, measure, and record radiation dosage or radiopharmaceuticals received, used, and disposed, using computer and following physician's prescription."
+ },
+ {
+  "task_id": "4149",
+  "occupation": "Nuclear Medicine Technologists",
+  "task_text": "Detect and map radiopharmaceuticals in patients' bodies, using a camera to produce photographic or computer images."
+ },
+ {
+  "task_id": "4150",
+  "occupation": "Nuclear Medicine Technologists",
+  "task_text": "Explain test procedures and safety precautions to patients and provide them with assistance during test procedures."
+ },
+ {
+  "task_id": "4152",
+  "occupation": "Nuclear Medicine Technologists",
+  "task_text": "Produce a computer-generated or film image for interpretation by a physician."
+ },
+ {
+  "task_id": "4153",
+  "occupation": "Nuclear Medicine Technologists",
+  "task_text": "Process cardiac function studies, using computer."
+ },
+ {
+  "task_id": "4154",
+  "occupation": "Nuclear Medicine Technologists",
+  "task_text": "Dispose of radioactive materials and store radiopharmaceuticals, following radiation safety procedures."
+ },
+ {
+  "task_id": "4155",
+  "occupation": "Nuclear Medicine Technologists",
+  "task_text": "Record and process results of procedures."
+ },
+ {
+  "task_id": "4156",
+  "occupation": "Nuclear Medicine Technologists",
+  "task_text": "Prepare stock radiopharmaceuticals, adhering to safety standards that minimize radiation exposure to workers and patients."
+ },
+ {
+  "task_id": "4157",
+  "occupation": "Nuclear Medicine Technologists",
+  "task_text": "Maintain and calibrate radioisotope and laboratory equipment."
+ },
+ {
+  "task_id": "4158",
+  "occupation": "Nuclear Medicine Technologists",
+  "task_text": "Gather information on patients' illnesses and medical history to guide the choice of diagnostic procedures for therapy."
+ },
+ {
+  "task_id": "4159",
+  "occupation": "Nuclear Medicine Technologists",
+  "task_text": "Measure glandular activity, blood volume, red cell survival, or radioactivity of patient, using scanners, Geiger counters, scintillometers, or other laboratory equipment."
+ },
+ {
+  "task_id": "4160",
+  "occupation": "Nuclear Medicine Technologists",
+  "task_text": "Train or supervise student or subordinate nuclear medicine technologists."
+ },
+ {
+  "task_id": "4161",
+  "occupation": "Nuclear Medicine Technologists",
+  "task_text": "Position radiation fields, radiation beams, and patient to allow for most effective treatment of patient's disease, using computer."
+ },
+ {
+  "task_id": "4162",
+  "occupation": "Nuclear Medicine Technologists",
+  "task_text": "Add radioactive substances to biological specimens, such as blood, urine, or feces, to determine therapeutic drug or hormone levels."
+ },
+ {
+  "task_id": "4163",
+  "occupation": "Nuclear Medicine Technologists",
+  "task_text": "Develop treatment procedures for nuclear medicine treatment programs."
+ },
+ {
+  "task_id": "4165",
+  "occupation": "Dietetic Technicians",
+  "task_text": "Prepare a major meal, following recipes and determining group food quantities."
+ },
+ {
+  "task_id": "4166",
+  "occupation": "Dietetic Technicians",
+  "task_text": "Analyze menus or recipes, standardize recipes, or test new products."
+ },
+ {
+  "task_id": "4167",
+  "occupation": "Dietetic Technicians",
+  "task_text": "Supervise food production or service or assist dietitians or nutritionists in food service supervision or planning."
+ },
+ {
+  "task_id": "4169",
+  "occupation": "Dietetic Technicians",
+  "task_text": "Plan menus or diets or guide individuals or families in food selection, preparation, or menu planning, based upon nutritional needs and established guidelines."
+ },
+ {
+  "task_id": "4170",
+  "occupation": "Dietetic Technicians",
+  "task_text": "Determine food and beverage costs and assist in implementing cost control procedures."
+ },
+ {
+  "task_id": "4171",
+  "occupation": "Dietetic Technicians",
+  "task_text": "Develop job specifications, job descriptions, or work schedules."
+ },
+ {
+  "task_id": "4172",
+  "occupation": "Dietetic Technicians",
+  "task_text": "Select, schedule, or conduct orientation or in-service education programs."
+ },
+ {
+  "task_id": "4173",
+  "occupation": "Dietetic Technicians",
+  "task_text": "Provide dietitians with assistance researching food, nutrition, or food service systems."
+ },
+ {
+  "task_id": "4174",
+  "occupation": "Dietetic Technicians",
+  "task_text": "Deliver speeches on diet, nutrition, or health to promote healthy eating habits and illness prevention and treatment."
+ },
+ {
+  "task_id": "4175",
+  "occupation": "Dietetic Technicians",
+  "task_text": "Refer patients to other relevant services to provide continuity of care."
+ },
+ {
+  "task_id": "4176",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Administer anesthesia to animals, under the direction of a veterinarian, and monitor animals' responses to anesthetics so that dosages can be adjusted."
+ },
+ {
+  "task_id": "4177",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Care for and monitor the condition of animals recovering from surgery."
+ },
+ {
+  "task_id": "4178",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Prepare and administer medications, vaccines, serums, or treatments, as prescribed by veterinarians."
+ },
+ {
+  "task_id": "4179",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Perform laboratory tests on blood, urine, or feces, such as urinalyses or blood counts, to assist in the diagnosis and treatment of animal health problems."
+ },
+ {
+  "task_id": "4180",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Administer emergency first aid, such as performing emergency resuscitation or other life saving procedures."
+ },
+ {
+  "task_id": "4181",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Collect, prepare, and label samples for laboratory testing, culture, or microscopic examination."
+ },
+ {
+  "task_id": "4182",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Clean and sterilize instruments, equipment, or materials."
+ },
+ {
+  "task_id": "4183",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Provide veterinarians with the correct equipment or instruments, as needed."
+ },
+ {
+  "task_id": "4184",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Fill prescriptions, measuring medications and labeling containers."
+ },
+ {
+  "task_id": "4185",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Prepare animals for surgery, performing such tasks as shaving surgical areas."
+ },
+ {
+  "task_id": "4186",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Take animals into treatment areas and assist with physical examinations by performing such duties as obtaining temperature, pulse, or respiration data."
+ },
+ {
+  "task_id": "4187",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Observe the behavior and condition of animals and monitor their clinical symptoms."
+ },
+ {
+  "task_id": "4188",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Take and develop diagnostic radiographs, using x-ray equipment."
+ },
+ {
+  "task_id": "4189",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Maintain laboratory, research, or treatment records, as well as inventories of pharmaceuticals, equipment, or supplies."
+ },
+ {
+  "task_id": "4190",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Give enemas and perform catheterizations, ear flushes, intravenous feedings, or gavages."
+ },
+ {
+  "task_id": "4191",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Prepare treatment rooms for surgery."
+ },
+ {
+  "task_id": "4192",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Maintain instruments, equipment, or machinery to ensure proper working condition."
+ },
+ {
+  "task_id": "4193",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Perform dental work, such as cleaning, polishing, or extracting teeth."
+ },
+ {
+  "task_id": "4194",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Clean kennels, animal holding areas, surgery suites, examination rooms, or animal loading or unloading facilities to control the spread of disease."
+ },
+ {
+  "task_id": "4195",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Provide information or counseling regarding issues such as animal health care, behavior problems, or nutrition."
+ },
+ {
+  "task_id": "4196",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Provide assistance with animal euthanasia and the disposal of remains."
+ },
+ {
+  "task_id": "4197",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Dress and suture wounds and apply splints or other protective devices."
+ },
+ {
+  "task_id": "4198",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Perform a variety of office, clerical, or accounting duties, such as reception, billing, bookkeeping, or selling products."
+ },
+ {
+  "task_id": "4199",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Bathe animals, clip nails or claws, and brush or cut animals' hair."
+ },
+ {
+  "task_id": "4200",
+  "occupation": "Veterinary Technologists and Technicians",
+  "task_text": "Conduct specialized procedures, such as animal branding or tattooing or hoof trimming."
+ },
+ {
+  "task_id": "4201",
+  "occupation": "Opticians, Dispensing",
+  "task_text": "Measure clients' bridge and eye size, temple length, vertex distance, pupillary distance, and optical centers of eyes, using measuring devices."
+ },
+ {
+  "task_id": "4202",
+  "occupation": "Opticians, Dispensing",
+  "task_text": "Verify that finished lenses are ground to specifications."
+ }
+]

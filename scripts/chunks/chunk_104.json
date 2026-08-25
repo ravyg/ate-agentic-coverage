@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "13420",
+  "occupation": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+  "task_text": "Shift animals between grazing areas to ensure that they have sufficient access to food."
+ },
+ {
+  "task_id": "13430",
+  "occupation": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+  "task_text": "Protect herds from predators, using trained dogs."
+ },
+ {
+  "task_id": "13421",
+  "occupation": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+  "task_text": "Order food for animals, and arrange for its delivery."
+ },
+ {
+  "task_id": "13422",
+  "occupation": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+  "task_text": "Perform duties related to livestock reproduction, such as breeding animals within appropriate timeframes, performing artificial inseminations, and helping with animal births."
+ },
+ {
+  "task_id": "13425",
+  "occupation": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+  "task_text": "Patrol grazing lands on horseback or using all-terrain vehicles."
+ },
+ {
+  "task_id": "13426",
+  "occupation": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+  "task_text": "Maintain growth, feeding, production, and cost records."
+ },
+ {
+  "task_id": "13427",
+  "occupation": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+  "task_text": "Groom, clip, trim, or castrate animals, dock ears and tails, or shear coats to collect hair."
+ },
+ {
+  "task_id": "13428",
+  "occupation": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+  "task_text": "Spray livestock with disinfectants and insecticides, or dip or bathe animals."
+ },
+ {
+  "task_id": "23403",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Steer vessels and operate navigational instruments."
+ },
+ {
+  "task_id": "23410",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Remove catches from fishing equipment and measure them to ensure compliance with legal size."
+ },
+ {
+  "task_id": "23428",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Direct fishing or hunting operations, and supervise crew members."
+ },
+ {
+  "task_id": "23419",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Interpret weather and vessel conditions to determine appropriate responses."
+ },
+ {
+  "task_id": "23402",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Travel on foot, by vehicle, or by equipment such as boats, snowmobiles, helicopters, snowshoes, or skis to reach hunting areas."
+ },
+ {
+  "task_id": "23415",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Select, bait, and set traps, and lay poison along trails, according to species, size, habits, and environs of birds or animals and reasons for trapping them."
+ },
+ {
+  "task_id": "23408",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Maintain engines, fishing gear, and other on-board equipment and perform minor repairs."
+ },
+ {
+  "task_id": "23424",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Connect accessories such as floats, weights, flags, lights, or markers to nets, lines, or traps."
+ },
+ {
+  "task_id": "23423",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Wash decks, conveyors, knives, and other equipment, using brushes, detergents, and water."
+ },
+ {
+  "task_id": "23427",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Harvest marine life for human or animal consumption, using diving or dredging equipment, traps, barges, rods, reels, or tackle."
+ },
+ {
+  "task_id": "23429",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Oversee the purchase of supplies, gear, and equipment."
+ },
+ {
+  "task_id": "23426",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Load and unload vessel equipment and supplies, by hand or using hoisting equipment."
+ },
+ {
+  "task_id": "23406",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Scrape fat, blubber, or flesh from skin sides of pelts with knives or hand scrapers."
+ },
+ {
+  "task_id": "23400",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Patrol trap lines or nets to inspect settings, remove catch, and reset or relocate traps."
+ },
+ {
+  "task_id": "23411",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Locate fish, using fish-finding equipment."
+ },
+ {
+  "task_id": "23421",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Kill or stun trapped quarry, using clubs, poisons, guns, or drowning methods."
+ },
+ {
+  "task_id": "23405",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Maintain and repair trapping equipment."
+ },
+ {
+  "task_id": "23401",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Obtain permission from landowners to hunt or trap on their land."
+ },
+ {
+  "task_id": "23407",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Put fishing equipment into the water and anchor or tow equipment, according to the fishing method used."
+ },
+ {
+  "task_id": "23414",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Compute positions and plot courses on charts to navigate vessels, using instruments such as compasses, sextants, and charts."
+ },
+ {
+  "task_id": "23409",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Sort, pack, and store catch in holds with salt and ice."
+ },
+ {
+  "task_id": "23412",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Obtain required approvals for using poisons or traps, and notify persons in areas where traps and poison are set."
+ },
+ {
+  "task_id": "23413",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Track animals by checking for signs such as droppings or destruction of vegetation."
+ },
+ {
+  "task_id": "23404",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Skin quarry, using knives, and stretch pelts on frames to be cured."
+ },
+ {
+  "task_id": "23418",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Transport fish to processing plants or to buyers."
+ },
+ {
+  "task_id": "23416",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Attach nets, slings, hooks, blades, or lifting devices to cables, booms, hoists, or dredges."
+ },
+ {
+  "task_id": "23425",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Teach or guide individuals or groups unfamiliar with specific hunting methods or types of prey."
+ },
+ {
+  "task_id": "23420",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Release quarry from traps or nets and transfer to cages."
+ },
+ {
+  "task_id": "23417",
+  "occupation": "Fishing and Hunting Workers",
+  "task_text": "Participate in animal damage control, wildlife management, disease control, and research activities."
+ },
+ {
+  "task_id": "7026",
+  "occupation": "Forest and Conservation Workers",
+  "task_text": "Check equipment to ensure that it is operating properly."
+ },
+ {
+  "task_id": "7028",
+  "occupation": "Forest and Conservation Workers",
+  "task_text": "Fight forest fires or perform prescribed burning tasks under the direction of fire suppression officers or forestry technicians."
+ },
+ {
+  "task_id": "7029",
+  "occupation": "Forest and Conservation Workers",
+  "task_text": "Perform fire protection or suppression duties, such as constructing fire breaks or disposing of brush."
+ },
+ {
+  "task_id": "7027",
+  "occupation": "Forest and Conservation Workers",
+  "task_text": "Confer with other workers to discuss issues, such as safety, cutting heights, or work needs."
+ },
+ {
+  "task_id": "7035",
+  "occupation": "Forest and Conservation Workers",
+  "task_text": "Maintain tallies of trees examined and counted during tree marking or measuring efforts."
+ },
+ {
+  "task_id": "7041",
+  "occupation": "Forest and Conservation Workers",
+  "task_text": "Explain or enforce regulations regarding camping, vehicle use, fires, use of buildings, or sanitation."
+ },
+ {
+  "task_id": "7042",
+  "occupation": "Forest and Conservation Workers",
+  "task_text": "Operate skidders, bulldozers, or other prime movers to pull a variety of scarification or site preparation equipment over areas to be regenerated."
+ },
+ {
+  "task_id": "7032",
+  "occupation": "Forest and Conservation Workers",
+  "task_text": "Spray or inject vegetation with insecticides to kill insects or to protect against disease or with herbicides to reduce competing vegetation."
+ },
+ {
+  "task_id": "7034",
+  "occupation": "Forest and Conservation Workers",
+  "task_text": "Thin or space trees, using power thinning saws."
+ },
+ {
+  "task_id": "7031",
+  "occupation": "Forest and Conservation Workers",
+  "task_text": "Identify diseased or undesirable trees and remove them, using power saws or hand saws."
+ },
+ {
+  "task_id": "7030",
+  "occupation": "Forest and Conservation Workers",
+  "task_text": "Select or cut trees according to markings or sizes, types, or grades."
+ },
+ {
+  "task_id": "7038",
+  "occupation": "Forest and Conservation Workers",
+  "task_text": "Prune or shear tree tops or limbs to control growth, increase density, or improve shape."
+ },
+ {
+  "task_id": "7045",
+  "occupation": "Forest and Conservation Workers",
+  "task_text": "Maintain campsites or recreational areas, replenishing firewood or other supplies and cleaning kitchens or restrooms."
+ },
+ {
+  "task_id": "7037",
+  "occupation": "Forest and Conservation Workers",
+  "task_text": "Erect signs or fences, using posthole diggers, shovels, or other hand tools."
+ },
+ {
+  "task_id": "7039",
+  "occupation": "Forest and Conservation Workers",
+  "task_text": "Select tree seedlings, prepare the ground, or plant the trees in reforestation areas, using manual planting tools."
+ },
+ {
+  "task_id": "7040",
+  "occupation": "Forest and Conservation Workers",
+  "task_text": "Provide assistance to forest survey crews by clearing site-lines, holding measuring tools, or setting stakes."
+ },
+ {
+  "task_id": "20632",
+  "occupation": "Forest and Conservation Workers",
+  "task_text": "Sort tree seedlings, discarding substandard seedlings, according to standard charts or verbal instructions."
+ },
+ {
+  "task_id": "13484",
+  "occupation": "Fallers",
+  "task_text": "Stop saw engines, pull cutting bars from cuts, and run to safety as tree falls."
+ },
+ {
+  "task_id": "13485",
+  "occupation": "Fallers",
+  "task_text": "Appraise trees for certain characteristics, such as twist, rot, and heavy limb growth, and gauge amount and direction of lean, to determine how to control the direction of a tree's fall with the least damage."
+ },
+ {
+  "task_id": "13486",
+  "occupation": "Fallers",
+  "task_text": "Saw back-cuts, leaving sufficient sound wood to control direction of fall."
+ },
+ {
+  "task_id": "13487",
+  "occupation": "Fallers",
+  "task_text": "Clear brush from work areas and escape routes, and cut saplings and other trees from direction of falls, using axes, chainsaws, or bulldozers."
+ },
+ {
+  "task_id": "13488",
+  "occupation": "Fallers",
+  "task_text": "Measure felled trees and cut them into specified log lengths, using chain saws and axes."
+ },
+ {
+  "task_id": "13489",
+  "occupation": "Fallers",
+  "task_text": "Assess logs after cutting to ensure that the quality and length are correct."
+ },
+ {
+  "task_id": "13490",
+  "occupation": "Fallers",
+  "task_text": "Determine position, direction, and depth of cuts to be made, and placement of wedges or jacks."
+ },
+ {
+  "task_id": "13491",
+  "occupation": "Fallers",
+  "task_text": "Control the direction of a tree's fall by scoring cutting lines with axes, sawing undercuts along scored lines with chainsaws, knocking slabs from cuts with single-bit axes, and driving wedges."
+ },
+ {
+  "task_id": "13492",
+  "occupation": "Fallers",
+  "task_text": "Trim off the tops and limbs of trees, using chainsaws, delimbers, or axes."
+ },
+ {
+  "task_id": "13493",
+  "occupation": "Fallers",
+  "task_text": "Select trees to be cut down, assessing factors such as site, terrain, and weather conditions before beginning work."
+ },
+ {
+  "task_id": "13494",
+  "occupation": "Fallers",
+  "task_text": "Maintain and repair chainsaws and other equipment, cleaning, oiling, and greasing equipment, and sharpening equipment properly."
+ },
+ {
+  "task_id": "13495",
+  "occupation": "Fallers",
+  "task_text": "Insert jacks or drive wedges behind saws to prevent binding of saws and to start trees falling."
+ },
+ {
+  "task_id": "13496",
+  "occupation": "Fallers",
+  "task_text": "Tag unsafe trees with high-visibility ribbons."
+ },
+ {
+  "task_id": "13497",
+  "occupation": "Fallers",
+  "task_text": "Secure steel cables or chains to logs for dragging by tractors or for pulling by cable yarding systems."
+ },
+ {
+  "task_id": "13498",
+  "occupation": "Fallers",
+  "task_text": "Load logs or wood onto trucks, trailers, or railroad cars, by hand or using loaders or winches."
+ },
+ {
+  "task_id": "13499",
+  "occupation": "Fallers",
+  "task_text": "Mark logs for identification."
+ },
+ {
+  "task_id": "13500",
+  "occupation": "Fallers",
+  "task_text": "Work as a member of a team, rotating between chain saw operation and skidder operation."
+ },
+ {
+  "task_id": "13501",
+  "occupation": "Fallers",
+  "task_text": "Place supporting limbs or poles under felled trees to avoid splitting undersides, and to prevent logs from rolling."
+ },
+ {
+  "task_id": "9802",
+  "occupation": "Logging Equipment Operators",
+  "task_text": "Inspect equipment for safety prior to use, and perform necessary basic maintenance tasks."
+ },
+ {
+  "task_id": "9807",
+  "occupation": "Logging Equipment Operators",
+  "task_text": "Control hydraulic tractors equipped with tree clamps and booms to lift, swing, and bunch sheared trees."
+ },
+ {
+  "task_id": "9806",
+  "occupation": "Logging Equipment Operators",
+  "task_text": "Grade logs according to characteristics such as knot size and straightness, and according to established industry or company standards."
+ },
+ {
+  "task_id": "9803",
+  "occupation": "Logging Equipment Operators",
+  "task_text": "Drive straight or articulated tractors equipped with accessories such as bulldozer blades, grapples, logging arches, cable winches, and crane booms to skid, load, unload, or stack logs, pull stumps, or clear brush."
+ },
+ {
+  "task_id": "9804",
+  "occupation": "Logging Equipment Operators",
+  "task_text": "Drive crawler or wheeled tractors to drag or transport logs from felling sites to log landing areas for processing and loading."
+ },
+ {
+  "task_id": "9809",
+  "occupation": "Logging Equipment Operators",
+  "task_text": "Fill out required job or shift report forms."
+ },
+ {
+  "task_id": "9805",
+  "occupation": "Logging Equipment Operators",
+  "task_text": "Drive tractors for building or repairing logging and skid roads."
+ },
+ {
+  "task_id": "9808",
+  "occupation": "Logging Equipment Operators",
+  "task_text": "Drive and maneuver tractors and tree harvesters to shear the tops off of trees, cut and limb the trees, and cut the logs into desired lengths."
+ },
+ {
+  "task_id": "9810",
+  "occupation": "Logging Equipment Operators",
+  "task_text": "Calculate total board feet, cordage, or other wood measurement units, using conversion tables."
+ },
+ {
+  "task_id": "9811",
+  "occupation": "Log Graders and Scalers",
+  "task_text": "Evaluate log characteristics and determine grades, using established criteria."
+ },
+ {
+  "task_id": "9812",
+  "occupation": "Log Graders and Scalers",
+  "task_text": "Record data about individual trees or load volumes into tally books or hand-held collection terminals."
+ },
+ {
+  "task_id": "9814",
+  "occupation": "Log Graders and Scalers",
+  "task_text": "Measure felled logs or loads of pulpwood to calculate volume, weight, dimensions, and marketable value, using measuring devices and conversion tables."
+ },
+ {
+  "task_id": "9813",
+  "occupation": "Log Graders and Scalers",
+  "task_text": "Paint identification marks of specified colors on logs to identify grades or species, using spray cans, or call out grades to log markers."
+ },
+ {
+  "task_id": "9817",
+  "occupation": "Log Graders and Scalers",
+  "task_text": "Jab logs with metal ends of scale sticks, and inspect logs to ascertain characteristics or defects such as water damage, splits, knots, broken ends, rotten areas, twists, and curves."
+ },
+ {
+  "task_id": "9816",
+  "occupation": "Log Graders and Scalers",
+  "task_text": "Identify logs of substandard or special grade so that they can be returned to shippers, regraded, recut, or transferred for other processing."
+ },
+ {
+  "task_id": "21015",
+  "occupation": "Log Graders and Scalers",
+  "task_text": "Arrange for hauling of logs to appropriate mill sites."
+ },
+ {
+  "task_id": "9820",
+  "occupation": "Log Graders and Scalers",
+  "task_text": "Weigh log trucks before and after unloading, and record load weights and supplier identities."
+ },
+ {
+  "task_id": "9815",
+  "occupation": "Log Graders and Scalers",
+  "task_text": "Measure log lengths and mark boles for bucking into logs, according to specifications."
+ },
+ {
+  "task_id": "9819",
+  "occupation": "Log Graders and Scalers",
+  "task_text": "Communicate with coworkers by signals to direct log movement."
+ },
+ {
+  "task_id": "9818",
+  "occupation": "Log Graders and Scalers",
+  "task_text": "Drive to sawmills, wharfs, or skids to inspect logs or pulpwood."
+ },
+ {
+  "task_id": "9821",
+  "occupation": "Log Graders and Scalers",
+  "task_text": "Saw felled trees into lengths."
+ },
+ {
+  "task_id": "20291",
+  "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+  "task_text": "Inspect work progress, equipment, or construction sites to verify safety or to ensure that specifications are met."
+ },
+ {
+  "task_id": "11424",
+  "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+  "task_text": "Read specifications, such as blueprints, to determine construction requirements or to plan procedures."
+ },
+ {
+  "task_id": "11426",
+  "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+  "task_text": "Supervise, coordinate, or schedule the activities of construction or extractive workers."
+ },
+ {
+  "task_id": "11432",
+  "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+  "task_text": "Assign work to employees, based on material or worker requirements of specific jobs."
+ },
+ {
+  "task_id": "11428",
+  "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+  "task_text": "Coordinate work activities with other construction project activities."
+ },
+ {
+  "task_id": "11425",
+  "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+  "task_text": "Estimate material or worker requirements to complete jobs."
+ },
+ {
+  "task_id": "11435",
+  "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+  "task_text": "Analyze worker or production problems and recommend solutions, such as improving production methods or implementing motivational plans."
+ },
+ {
+  "task_id": "11429",
+  "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+  "task_text": "Order or requisition materials or supplies."
+ },
+ {
+  "task_id": "11434",
+  "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+  "task_text": "Train workers in construction methods, operation of equipment, safety procedures, or company policies."
+ },
+ {
+  "task_id": "11430",
+  "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+  "task_text": "Locate, measure, and mark site locations or placement of structures or equipment, using measuring and marking equipment."
+ },
+ {
+  "task_id": "11427",
+  "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+  "task_text": "Confer with managerial or technical personnel, other departments, or contractors to resolve problems or to coordinate activities."
+ },
+ {
+  "task_id": "11436",
+  "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+  "task_text": "Arrange for repairs of equipment or machinery."
+ },
+ {
+  "task_id": "11433",
+  "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+  "task_text": "Provide assistance to workers engaged in construction or extraction activities, using hand tools or other equipment."
+ },
+ {
+  "task_id": "11431",
+  "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+  "task_text": "Record information, such as personnel, production, or operational data on specified forms or reports."
+ },
+ {
+  "task_id": "11437",
+  "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+  "task_text": "Suggest or initiate personnel actions, such as promotions, transfers, or hires."
+ },
+ {
+  "task_id": "17725",
+  "occupation": "Solar Energy Installation Managers",
+  "task_text": "Plan and coordinate installations of photovoltaic (PV) solar and solar thermal systems to ensure conformance to codes."
+ },
+ {
+  "task_id": "17726",
+  "occupation": "Solar Energy Installation Managers",
+  "task_text": "Supervise solar installers, technicians, and subcontractors for solar installation projects to ensure compliance with safety standards."
+ },
+ {
+  "task_id": "17735",
+  "occupation": "Solar Energy Installation Managers",
+  "task_text": "Estimate materials, equipment, and personnel needed for residential or commercial solar installation projects."
+ },
+ {
+  "task_id": "17738",
+  "occupation": "Solar Energy Installation Managers",
+  "task_text": "Prepare solar installation project proposals, quotes, budgets, or schedules."
+ },
+ {
+  "task_id": "17732",
+  "occupation": "Solar Energy Installation Managers",
+  "task_text": "Provide technical assistance to installers, technicians, or other solar professionals in areas such as solar electric systems, solar thermal systems, electrical systems, or mechanical systems."
+ },
+ {
+  "task_id": "17729",
+  "occupation": "Solar Energy Installation Managers",
+  "task_text": "Coordinate or schedule building inspections for solar installation projects."
+ },
+ {
+  "task_id": "17731",
+  "occupation": "Solar Energy Installation Managers",
+  "task_text": "Perform start-up of systems for testing or customer implementation."
+ },
+ {
+  "task_id": "17737",
+  "occupation": "Solar Energy Installation Managers",
+  "task_text": "Identify means to reduce costs, minimize risks, or increase efficiency of solar installation projects."
+ },
+ {
+  "task_id": "17728",
+  "occupation": "Solar Energy Installation Managers",
+  "task_text": "Assess system performance or functionality at the system, subsystem, and component levels."
+ },
+ {
+  "task_id": "17727",
+  "occupation": "Solar Energy Installation Managers",
+  "task_text": "Assess potential solar installation sites to determine feasibility and design requirements."
+ },
+ {
+  "task_id": "17730",
+  "occupation": "Solar Energy Installation Managers",
+  "task_text": "Monitor work of contractors and subcontractors to ensure projects conform to plans, specifications, schedules, or budgets."
+ },
+ {
+  "task_id": "17733",
+  "occupation": "Solar Energy Installation Managers",
+  "task_text": "Visit customer sites to determine solar system needs, requirements, or specifications."
+ },
+ {
+  "task_id": "17739",
+  "occupation": "Solar Energy Installation Managers",
+  "task_text": "Purchase or rent equipment for solar energy system installation."
+ },
+ {
+  "task_id": "17734",
+  "occupation": "Solar Energy Installation Managers",
+  "task_text": "Develop and maintain system architecture, including all piping, instrumentation, or process flow diagrams."
+ },
+ {
+  "task_id": "17736",
+  "occupation": "Solar Energy Installation Managers",
+  "task_text": "Evaluate subcontractors or subcontractor bids for quality, cost, and reliability."
+ },
+ {
+  "task_id": "24011",
+  "occupation": "Boilermakers",
+  "task_text": "Conduct pressure tests on vessels, such as boilers."
+ },
+ {
+  "task_id": "11446",
+  "occupation": "Boilermakers",
+  "task_text": "Study blueprints to determine locations, relationships, or dimensions of parts."
+ },
+ {
+  "task_id": "11438",
+  "occupation": "Boilermakers",
+  "task_text": "Examine boilers, pressure vessels, tanks, or vats to locate defects, such as leaks, weak spots, or defective sections, so that they can be repaired."
+ },
+ {
+  "task_id": "11440",
+  "occupation": "Boilermakers",
+  "task_text": "Inspect assembled vessels or individual components, such as tubes, fittings, valves, controls, or auxiliary mechanisms, to locate any defects."
+ },
+ {
+  "task_id": "11444",
+  "occupation": "Boilermakers",
+  "task_text": "Lay out plate, sheet steel, or other heavy metal and locate and mark bending and cutting lines, using protractors, compasses, and drawing instruments or templates."
+ },
+ {
+  "task_id": "11443",
+  "occupation": "Boilermakers",
+  "task_text": "Bell, bead with power hammers, or weld pressure vessel tube ends to ensure leakproof joints."
+ },
+ {
+  "task_id": "11450",
+  "occupation": "Boilermakers",
+  "task_text": "Locate and mark reference points for columns or plates on boiler foundations, following blueprints and using straightedges, squares, transits, or measuring instruments."
+ }
+]

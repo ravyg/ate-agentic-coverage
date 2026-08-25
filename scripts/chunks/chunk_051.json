@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "3541",
+  "occupation": "Surveyors",
+  "task_text": "Train assistants and helpers, and direct their work in such activities as performing surveys or drafting maps."
+ },
+ {
+  "task_id": "3537",
+  "occupation": "Surveyors",
+  "task_text": "Coordinate findings with the work of engineering and architectural personnel, clients, and others concerned with projects."
+ },
+ {
+  "task_id": "3542",
+  "occupation": "Surveyors",
+  "task_text": "Analyze survey objectives and specifications to prepare survey proposals or to direct others in survey proposal preparation."
+ },
+ {
+  "task_id": "20954",
+  "occupation": "Surveyors",
+  "task_text": "Testify as an expert witness in court cases on land survey issues, such as property boundaries."
+ },
+ {
+  "task_id": "3538",
+  "occupation": "Surveyors",
+  "task_text": "Adjust surveying instruments to maintain their accuracy."
+ },
+ {
+  "task_id": "3544",
+  "occupation": "Surveyors",
+  "task_text": "Develop criteria for survey methods and procedures."
+ },
+ {
+  "task_id": "3548",
+  "occupation": "Surveyors",
+  "task_text": "Survey bodies of water to determine navigable channels and to secure data for construction of breakwaters, piers, and other marine structures."
+ },
+ {
+  "task_id": "3549",
+  "occupation": "Surveyors",
+  "task_text": "Direct aerial surveys of specified geographical areas."
+ },
+ {
+  "task_id": "3546",
+  "occupation": "Surveyors",
+  "task_text": "Conduct research in surveying and mapping methods, using knowledge of photogrammetric map compilation and electronic data processing."
+ },
+ {
+  "task_id": "3547",
+  "occupation": "Surveyors",
+  "task_text": "Locate and mark sites selected for geophysical prospecting activities, such as efforts to locate petroleum or other mineral products."
+ },
+ {
+  "task_id": "3550",
+  "occupation": "Surveyors",
+  "task_text": "Determine specifications for equipment to be used for aerial photography, as well as altitudes from which to photograph terrain."
+ },
+ {
+  "task_id": "3545",
+  "occupation": "Surveyors",
+  "task_text": "Develop criteria for the design and modification of survey instruments."
+ },
+ {
+  "task_id": "16299",
+  "occupation": "Geodetic Surveyors",
+  "task_text": "Analyze control or survey data to ensure adherence to project specifications or land survey standards."
+ },
+ {
+  "task_id": "16302",
+  "occupation": "Geodetic Surveyors",
+  "task_text": "Conduct surveys to determine exact positions, measurement of points, elevations, lines, areas, volumes, contours, or other features of land surfaces."
+ },
+ {
+  "task_id": "16298",
+  "occupation": "Geodetic Surveyors",
+  "task_text": "Calculate the exact horizontal and vertical position of points on the Earth's surface."
+ },
+ {
+  "task_id": "16295",
+  "occupation": "Geodetic Surveyors",
+  "task_text": "Maintain databases of geodetic and related information, including coordinate, descriptive, or quality assurance data."
+ },
+ {
+  "task_id": "16292",
+  "occupation": "Geodetic Surveyors",
+  "task_text": "Verify the mathematical correctness of newly collected survey data."
+ },
+ {
+  "task_id": "16297",
+  "occupation": "Geodetic Surveyors",
+  "task_text": "Compute horizontal and vertical coordinates of control networks, using direct leveling or other geodetic survey techniques, such as triangulation, trilateration, and traversing, to establish features of the Earth's surface."
+ },
+ {
+  "task_id": "16289",
+  "occupation": "Geodetic Surveyors",
+  "task_text": "Plan or direct the work of geodetic surveying staff, providing technical consultation as needed."
+ },
+ {
+  "task_id": "16300",
+  "occupation": "Geodetic Surveyors",
+  "task_text": "Assess the quality of control data to determine the need for additional survey data for engineering, construction, or other projects."
+ },
+ {
+  "task_id": "16290",
+  "occupation": "Geodetic Surveyors",
+  "task_text": "Distribute compiled geodetic data to government agencies or the general public."
+ },
+ {
+  "task_id": "16293",
+  "occupation": "Geodetic Surveyors",
+  "task_text": "Request additional survey data when field collection errors occur or engineering surveying specifications are not maintained."
+ },
+ {
+  "task_id": "16291",
+  "occupation": "Geodetic Surveyors",
+  "task_text": "Read current literature, talk with colleagues, continue education, or participate in professional organizations or conferences to keep abreast of developments in technology, equipment, or systems."
+ },
+ {
+  "task_id": "16288",
+  "occupation": "Geodetic Surveyors",
+  "task_text": "Provide training and interpretation in the use of methods or procedures for observing and checking controls for geodetic and plane coordinates."
+ },
+ {
+  "task_id": "16294",
+  "occupation": "Geodetic Surveyors",
+  "task_text": "Prepare progress or technical reports."
+ },
+ {
+  "task_id": "16287",
+  "occupation": "Geodetic Surveyors",
+  "task_text": "Review existing standards, controls, or equipment used, recommending changes or upgrades as needed."
+ },
+ {
+  "task_id": "16296",
+  "occupation": "Geodetic Surveyors",
+  "task_text": "Compute, retrace, or adjust existing surveys of features such as highway alignments, property boundaries, utilities, control and other surveys to match the ground elevation-dependent grids, geodetic grids, or property boundaries and to ensure accuracy and continuity of data used in engineering, surveying, or construction projects."
+ },
+ {
+  "task_id": "16301",
+  "occupation": "Geodetic Surveyors",
+  "task_text": "Determine orientation of tracts of land, including position, boundaries, size, and shape, using theodolites, electronic distance-measuring equipment, satellite-based positioning equipment, land information systems, or other geodetic survey equipment."
+ },
+ {
+  "task_id": "1339",
+  "occupation": "Aerospace Engineers",
+  "task_text": "Formulate mathematical models or other methods of computer analysis to develop, evaluate, or modify design, according to customer engineering requirements."
+ },
+ {
+  "task_id": "1337",
+  "occupation": "Aerospace Engineers",
+  "task_text": "Plan or conduct experimental, environmental, operational, or stress tests on models or prototypes of aircraft or aerospace systems or equipment."
+ },
+ {
+  "task_id": "20724",
+  "occupation": "Aerospace Engineers",
+  "task_text": "Formulate conceptual design of aeronautical or aerospace products or systems to meet customer requirements or conform to environmental regulations."
+ },
+ {
+  "task_id": "1345",
+  "occupation": "Aerospace Engineers",
+  "task_text": "Plan or coordinate investigation and resolution of customers' reports of technical problems with aircraft or aerospace vehicles."
+ },
+ {
+  "task_id": "1340",
+  "occupation": "Aerospace Engineers",
+  "task_text": "Write technical reports or other documentation, such as handbooks or bulletins, for use by engineering staff, management, or customers."
+ },
+ {
+  "task_id": "1335",
+  "occupation": "Aerospace Engineers",
+  "task_text": "Direct or coordinate activities of engineering or technical personnel involved in designing, fabricating, modifying, or testing of aircraft or aerospace products."
+ },
+ {
+  "task_id": "20725",
+  "occupation": "Aerospace Engineers",
+  "task_text": "Evaluate product data or design from inspections or reports for conformance to engineering principles, customer requirements, environmental regulations, or quality standards."
+ },
+ {
+  "task_id": "20726",
+  "occupation": "Aerospace Engineers",
+  "task_text": "Develop design criteria for aeronautical or aerospace products or systems, including testing methods, production costs, quality standards, environmental standards, or completion dates."
+ },
+ {
+  "task_id": "1341",
+  "occupation": "Aerospace Engineers",
+  "task_text": "Analyze project requests, proposals, or engineering data to determine feasibility, productibility, cost, or production time of aerospace or aeronautical products."
+ },
+ {
+  "task_id": "1346",
+  "occupation": "Aerospace Engineers",
+  "task_text": "Maintain records of performance reports for future reference."
+ },
+ {
+  "task_id": "20727",
+  "occupation": "Aerospace Engineers",
+  "task_text": "Diagnose performance problems by reviewing reports or documentation from customers or field engineers or by inspecting malfunctioning or damaged products."
+ },
+ {
+  "task_id": "20728",
+  "occupation": "Aerospace Engineers",
+  "task_text": "Direct aerospace research and development programs."
+ },
+ {
+  "task_id": "1344",
+  "occupation": "Aerospace Engineers",
+  "task_text": "Evaluate and approve selection of vendors by studying past performance or new advertisements."
+ },
+ {
+  "task_id": "19601",
+  "occupation": "Aerospace Engineers",
+  "task_text": "Design new or modify existing aerospace systems to reduce polluting emissions, such as nitrogen oxide, carbon monoxide, or smoke emissions."
+ },
+ {
+  "task_id": "19602",
+  "occupation": "Aerospace Engineers",
+  "task_text": "Design or engineer filtration systems that reduce harmful emissions."
+ },
+ {
+  "task_id": "19603",
+  "occupation": "Aerospace Engineers",
+  "task_text": "Evaluate biofuel performance specifications to determine feasibility for aerospace applications."
+ },
+ {
+  "task_id": "5336",
+  "occupation": "Agricultural Engineers",
+  "task_text": "Prepare reports, sketches, working drawings, specifications, proposals, and budgets for proposed sites or systems."
+ },
+ {
+  "task_id": "5325",
+  "occupation": "Agricultural Engineers",
+  "task_text": "Visit sites to observe environmental problems, to consult with contractors, or to monitor construction activities."
+ },
+ {
+  "task_id": "5337",
+  "occupation": "Agricultural Engineers",
+  "task_text": "Meet with clients, such as district or regional councils, farmers, and developers, to discuss their needs."
+ },
+ {
+  "task_id": "5331",
+  "occupation": "Agricultural Engineers",
+  "task_text": "Discuss plans with clients, contractors, consultants, and other engineers so that they can be evaluated and necessary changes made."
+ },
+ {
+  "task_id": "5327",
+  "occupation": "Agricultural Engineers",
+  "task_text": "Test agricultural machinery and equipment to ensure adequate performance."
+ },
+ {
+  "task_id": "5334",
+  "occupation": "Agricultural Engineers",
+  "task_text": "Plan and direct construction of rural electric-power distribution systems, and irrigation, drainage, and flood control systems for soil and water conservation."
+ },
+ {
+  "task_id": "5329",
+  "occupation": "Agricultural Engineers",
+  "task_text": "Provide advice on water quality and issues related to pollution management, river control, and ground and surface water resources."
+ },
+ {
+  "task_id": "5328",
+  "occupation": "Agricultural Engineers",
+  "task_text": "Design structures for crop storage, animal shelter and loading, and animal and crop processing, and supervise their construction."
+ },
+ {
+  "task_id": "5330",
+  "occupation": "Agricultural Engineers",
+  "task_text": "Conduct educational programs that provide farmers or farm cooperative members with information that can help them improve agricultural productivity."
+ },
+ {
+  "task_id": "5338",
+  "occupation": "Agricultural Engineers",
+  "task_text": "Design sensing, measuring, and recording devices, and other instrumentation used to study plant or animal life."
+ },
+ {
+  "task_id": "5326",
+  "occupation": "Agricultural Engineers",
+  "task_text": "Design agricultural machinery components and equipment, using computer-aided design (CAD) technology."
+ },
+ {
+  "task_id": "5333",
+  "occupation": "Agricultural Engineers",
+  "task_text": "Design and supervise environmental and land reclamation projects in agriculture and related industries."
+ },
+ {
+  "task_id": "5335",
+  "occupation": "Agricultural Engineers",
+  "task_text": "Design food processing plants and related mechanical systems."
+ },
+ {
+  "task_id": "5332",
+  "occupation": "Agricultural Engineers",
+  "task_text": "Supervise food processing or manufacturing plant operations."
+ },
+ {
+  "task_id": "8968",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Evaluate the safety, efficiency, and effectiveness of biomedical equipment."
+ },
+ {
+  "task_id": "21856",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Prepare technical reports, data summary documents, or research articles for scientific publication, regulatory submissions, or patent applications."
+ },
+ {
+  "task_id": "21847",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Design or develop medical diagnostic or clinical instrumentation, equipment, or procedures, using the principles of engineering and biobehavioral sciences."
+ },
+ {
+  "task_id": "8975",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals."
+ },
+ {
+  "task_id": "8979",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Adapt or design computer hardware or software for medical science uses."
+ },
+ {
+  "task_id": "21853",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Maintain databases of experiment characteristics or results."
+ },
+ {
+  "task_id": "21851",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Develop statistical models or simulations, using statistical or modeling software."
+ },
+ {
+  "task_id": "21857",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Read current scientific or trade literature to stay abreast of scientific, industrial, or technological advances."
+ },
+ {
+  "task_id": "21854",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Manage teams of engineers by creating schedules, tracking inventory, creating or using budgets, or overseeing contract obligations or deadlines."
+ },
+ {
+  "task_id": "8973",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Develop models or computer simulations of human biobehavioral systems to obtain data for measuring or controlling life processes."
+ },
+ {
+  "task_id": "21846",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Design or conduct follow-up experimentation, based on generated data, to meet established process objectives."
+ },
+ {
+  "task_id": "18604",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Write documents describing protocols, policies, standards for use, maintenance, and repair of medical equipment."
+ },
+ {
+  "task_id": "21841",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Communicate with bioregulatory authorities regarding licensing or compliance responsibilities."
+ },
+ {
+  "task_id": "21850",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Develop methodologies for transferring procedures or biological processes from laboratories to commercial-scale manufacturing production."
+ },
+ {
+  "task_id": "21840",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Collaborate with manufacturing or quality assurance staff to prepare product specification or safety sheets, standard operating procedures, user manuals, or qualification and validation reports."
+ },
+ {
+  "task_id": "8972",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Research new materials to be used for products, such as implanted artificial organs."
+ },
+ {
+  "task_id": "21855",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Prepare project plans for equipment or facility improvements, including time lines, budgetary estimates, or capital spending requests."
+ },
+ {
+  "task_id": "21844",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Consult with chemists or biologists to develop or evaluate novel technologies."
+ },
+ {
+  "task_id": "21843",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Confer with research and biomanufacturing personnel to ensure the compatibility of design and production."
+ },
+ {
+  "task_id": "21858",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Recommend process formulas, instrumentation, or equipment specifications, based on results of bench or pilot experimentation."
+ },
+ {
+  "task_id": "21842",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Communicate with suppliers regarding the design or specifications of bioproduction equipment, instrumentation, or materials."
+ },
+ {
+  "task_id": "18603",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Conduct training or in-services to educate clinicians and other personnel on proper use of equipment."
+ },
+ {
+  "task_id": "8970",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Advise hospital administrators on the planning, acquisition, and use of medical equipment."
+ },
+ {
+  "task_id": "8980",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Analyze new medical procedures to forecast likely outcomes."
+ },
+ {
+  "task_id": "21845",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Design and deliver technology, such as prosthetic devices, to assist people with disabilities."
+ },
+ {
+  "task_id": "21839",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Advise manufacturing staff regarding problems with fermentation, filtration, or other bioproduction processes."
+ },
+ {
+  "task_id": "21859",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Review existing manufacturing processes to identify opportunities for yield improvement or reduced process variation."
+ },
+ {
+  "task_id": "21849",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Develop bioremediation processes to reduce pollution, protect the environment, or treat waste products."
+ },
+ {
+  "task_id": "21852",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Lead studies to examine or recommend changes in process sequences or operation protocols."
+ },
+ {
+  "task_id": "21848",
+  "occupation": "Bioengineers and Biomedical Engineers",
+  "task_text": "Design or direct bench or pilot production experiments to determine the scale of production methods that optimize product yield and minimize production costs."
+ },
+ {
+  "task_id": "3552",
+  "occupation": "Chemical Engineers",
+  "task_text": "Develop safety procedures to be employed by workers operating equipment or working in close proximity to ongoing chemical reactions."
+ },
+ {
+  "task_id": "18471",
+  "occupation": "Chemical Engineers",
+  "task_text": "Troubleshoot problems with chemical manufacturing processes."
+ },
+ {
+  "task_id": "20955",
+  "occupation": "Chemical Engineers",
+  "task_text": "Monitor and analyze data from processes and experiments."
+ },
+ {
+  "task_id": "18472",
+  "occupation": "Chemical Engineers",
+  "task_text": "Evaluate chemical equipment and processes to identify ways to optimize performance or to ensure compliance with safety and environmental regulations."
+ },
+ {
+  "task_id": "3560",
+  "occupation": "Chemical Engineers",
+  "task_text": "Design and plan layout of equipment."
+ },
+ {
+  "task_id": "3554",
+  "occupation": "Chemical Engineers",
+  "task_text": "Prepare estimate of production costs and production progress reports for management."
+ },
+ {
+  "task_id": "18473",
+  "occupation": "Chemical Engineers",
+  "task_text": "Perform tests and monitor performance of processes throughout stages of production to determine degree of control over variables such as temperature, density, specific gravity, and pressure."
+ },
+ {
+  "task_id": "3558",
+  "occupation": "Chemical Engineers",
+  "task_text": "Conduct research to develop new and improved chemical manufacturing processes."
+ },
+ {
+  "task_id": "3553",
+  "occupation": "Chemical Engineers",
+  "task_text": "Determine most effective arrangement of operations such as mixing, crushing, heat transfer, distillation, and drying."
+ },
+ {
+  "task_id": "3557",
+  "occupation": "Chemical Engineers",
+  "task_text": "Develop processes to separate components of liquids or gases or generate electrical currents, using controlled chemical processes."
+ },
+ {
+  "task_id": "3559",
+  "occupation": "Chemical Engineers",
+  "task_text": "Design measurement and control systems for chemical plants based on data collected in laboratory experiments and in pilot plant operations."
+ },
+ {
+  "task_id": "3556",
+  "occupation": "Chemical Engineers",
+  "task_text": "Perform laboratory studies of steps in manufacture of new products and test proposed processes in small-scale operation, such as a pilot plant."
+ },
+ {
+  "task_id": "24003",
+  "occupation": "Chemical Engineers",
+  "task_text": "Develop computer models of chemical processes."
+ },
+ {
+  "task_id": "3555",
+  "occupation": "Chemical Engineers",
+  "task_text": "Direct activities of workers who operate or are engaged in constructing and improving absorption, evaporation, or electromagnetic equipment."
+ },
+ {
+  "task_id": "19610",
+  "occupation": "Civil Engineers",
+  "task_text": "Direct engineering activities, ensuring compliance with environmental, safety, or other governmental regulations."
+ },
+ {
+  "task_id": "20490",
+  "occupation": "Civil Engineers",
+  "task_text": "Manage and direct the construction, operations, or maintenance activities at project site."
+ },
+ {
+  "task_id": "148",
+  "occupation": "Civil Engineers",
+  "task_text": "Inspect project sites to monitor progress and ensure conformance to design specifications and safety or sanitation standards."
+ },
+ {
+  "task_id": "147",
+  "occupation": "Civil Engineers",
+  "task_text": "Compute load and grade requirements, water flow rates, or material stress factors to determine design specifications."
+ },
+ {
+  "task_id": "20491",
+  "occupation": "Civil Engineers",
+  "task_text": "Plan and design transportation or hydraulic systems or structures, using computer-assisted design or drawing tools."
+ },
+ {
+  "task_id": "20489",
+  "occupation": "Civil Engineers",
+  "task_text": "Provide technical advice to industrial or managerial personnel regarding design, construction, program modifications, or structural repairs."
+ },
+ {
+  "task_id": "20492",
+  "occupation": "Civil Engineers",
+  "task_text": "Analyze survey reports, maps, drawings, blueprints, aerial photography, or other topographical or geologic data."
+ },
+ {
+  "task_id": "150",
+  "occupation": "Civil Engineers",
+  "task_text": "Direct or participate in surveying to lay out installations or establish reference points, grades, or elevations to guide construction."
+ },
+ {
+  "task_id": "151",
+  "occupation": "Civil Engineers",
+  "task_text": "Estimate quantities and cost of materials, equipment, or labor to determine project feasibility."
+ },
+ {
+  "task_id": "152",
+  "occupation": "Civil Engineers",
+  "task_text": "Prepare or present public reports on topics such as bid proposals, deeds, environmental impact statements, or property and right-of-way descriptions."
+ },
+ {
+  "task_id": "19607",
+  "occupation": "Civil Engineers",
+  "task_text": "Design energy-efficient or environmentally sound civil structures."
+ },
+ {
+  "task_id": "153",
+  "occupation": "Civil Engineers",
+  "task_text": "Test soils or materials to determine the adequacy and strength of foundations, concrete, asphalt, or steel."
+ },
+ {
+  "task_id": "19611",
+  "occupation": "Civil Engineers",
+  "task_text": "Identify environmental risks and develop risk management strategies for civil engineering projects."
+ },
+ {
+  "task_id": "155",
+  "occupation": "Civil Engineers",
+  "task_text": "Conduct studies of traffic patterns or environmental conditions to identify engineering problems and assess potential project impact."
+ },
+ {
+  "task_id": "19609",
+  "occupation": "Civil Engineers",
+  "task_text": "Develop or implement engineering solutions to clean up industrial accidents or other contaminated sites."
+ },
+ {
+  "task_id": "19608",
+  "occupation": "Civil Engineers",
+  "task_text": "Design or engineer systems to efficiently dispose of chemical, biological, or other toxic wastes."
+ },
+ {
+  "task_id": "16323",
+  "occupation": "Transportation Engineers",
+  "task_text": "Design or prepare plans for new transportation systems or parts of systems, such as airports, commuter trains, highways, streets, bridges, drainage structures, or roadway lighting."
+ },
+ {
+  "task_id": "16320",
+  "occupation": "Transportation Engineers",
+  "task_text": "Check construction plans, design calculations, or cost estimations to ensure completeness, accuracy, or conformity to engineering standards or practices."
+ },
+ {
+  "task_id": "16305",
+  "occupation": "Transportation Engineers",
+  "task_text": "Prepare administrative, technical, or statistical reports on traffic-operation matters, such as accidents, safety measures, or pedestrian volume or practices."
+ },
+ {
+  "task_id": "16311",
+  "occupation": "Transportation Engineers",
+  "task_text": "Plan alteration or modification of existing transportation structures to improve safety or function."
+ },
+ {
+  "task_id": "16319",
+  "occupation": "Transportation Engineers",
+  "task_text": "Confer with contractors, utility companies, or government agencies to discuss plans, specifications, or work schedules."
+ },
+ {
+  "task_id": "16303",
+  "occupation": "Transportation Engineers",
+  "task_text": "Present data, maps, or other information at construction-related public hearings or meetings."
+ },
+ {
+  "task_id": "16310",
+  "occupation": "Transportation Engineers",
+  "task_text": "Prepare final project layout drawings that include details such as stress calculations."
+ },
+ {
+  "task_id": "16314",
+  "occupation": "Transportation Engineers",
+  "task_text": "Investigate traffic problems and recommend methods to improve traffic flow or safety."
+ },
+ {
+  "task_id": "16318",
+  "occupation": "Transportation Engineers",
+  "task_text": "Estimate transportation project costs."
+ },
+ {
+  "task_id": "19612",
+  "occupation": "Transportation Engineers",
+  "task_text": "Design or engineer drainage, erosion, or sedimentation control systems for transportation projects."
+ },
+ {
+  "task_id": "16307",
+  "occupation": "Transportation Engineers",
+  "task_text": "Evaluate traffic control devices or lighting systems to determine need for modification or expansion."
+ },
+ {
+  "task_id": "16309",
+  "occupation": "Transportation Engineers",
+  "task_text": "Prepare project budgets, schedules, or specifications for labor or materials."
+ }
+]

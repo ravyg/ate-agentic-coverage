@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "10776",
+  "occupation": "Crane and Tower Operators",
+  "task_text": "Direct truck drivers backing vehicles into loading bays and cover, uncover, or secure loads for delivery."
+ },
+ {
+  "task_id": "10774",
+  "occupation": "Crane and Tower Operators",
+  "task_text": "Weigh bundles, using floor scales, and record weights for company records."
+ },
+ {
+  "task_id": "15177",
+  "occupation": "Dredge Operators",
+  "task_text": "Move levers to position dredges for excavation, to engage hydraulic pumps, to raise and lower suction booms, and to control rotation of cutterheads."
+ },
+ {
+  "task_id": "15178",
+  "occupation": "Dredge Operators",
+  "task_text": "Start and stop engines to operate equipment."
+ },
+ {
+  "task_id": "15179",
+  "occupation": "Dredge Operators",
+  "task_text": "Start power winches that draw in or let out cables to change positions of dredges, or pull in and let out cables manually."
+ },
+ {
+  "task_id": "15180",
+  "occupation": "Dredge Operators",
+  "task_text": "Pump water to clear machinery pipelines."
+ },
+ {
+  "task_id": "15181",
+  "occupation": "Dredge Operators",
+  "task_text": "Lower anchor poles to verify depths of excavations, using winches, or scan depth gauges to determine depths of excavations."
+ },
+ {
+  "task_id": "15182",
+  "occupation": "Dredge Operators",
+  "task_text": "Direct or assist workers placing shore anchors and cables, laying additional pipes from dredges to shore, and pumping water from pontoons."
+ },
+ {
+  "task_id": "4979",
+  "occupation": "Hoist and Winch Operators",
+  "task_text": "Move levers, pedals, and throttles to stop, start, and regulate speeds of hoist or winch drums in response to hand, bell, buzzer, telephone, loud-speaker, or whistle signals, or by observing dial indicators or cable marks."
+ },
+ {
+  "task_id": "4980",
+  "occupation": "Hoist and Winch Operators",
+  "task_text": "Start engines of hoists or winches and use levers and pedals to wind or unwind cable on drums."
+ },
+ {
+  "task_id": "4981",
+  "occupation": "Hoist and Winch Operators",
+  "task_text": "Observe equipment gauges and indicators and hand signals of other workers to verify load positions or depths."
+ },
+ {
+  "task_id": "4982",
+  "occupation": "Hoist and Winch Operators",
+  "task_text": "Operate compressed air, diesel, electric, gasoline, or steam-driven hoists or winches to control movement of cableways, cages, derricks, draglines, loaders, railcars, or skips."
+ },
+ {
+  "task_id": "4983",
+  "occupation": "Hoist and Winch Operators",
+  "task_text": "Move or reposition hoists, winches, loads and materials, manually or using equipment and machines such as trucks, cars, and hand trucks."
+ },
+ {
+  "task_id": "4984",
+  "occupation": "Hoist and Winch Operators",
+  "task_text": "Select loads or materials according to weight and size specifications."
+ },
+ {
+  "task_id": "4985",
+  "occupation": "Hoist and Winch Operators",
+  "task_text": "Signal and assist other workers loading or unloading materials."
+ },
+ {
+  "task_id": "4986",
+  "occupation": "Hoist and Winch Operators",
+  "task_text": "Attach, fasten, and disconnect cables or lines to loads, materials, and equipment, using hand tools."
+ },
+ {
+  "task_id": "4987",
+  "occupation": "Hoist and Winch Operators",
+  "task_text": "Apply hand or foot brakes and move levers to lock hoists or winches."
+ },
+ {
+  "task_id": "4988",
+  "occupation": "Hoist and Winch Operators",
+  "task_text": "Oil winch drums so that cables will wind smoothly."
+ },
+ {
+  "task_id": "4989",
+  "occupation": "Hoist and Winch Operators",
+  "task_text": "Climb ladders to position and set up vehicle-mounted derricks."
+ },
+ {
+  "task_id": "4990",
+  "occupation": "Hoist and Winch Operators",
+  "task_text": "Repair, maintain, and adjust equipment, using hand tools."
+ },
+ {
+  "task_id": "4991",
+  "occupation": "Hoist and Winch Operators",
+  "task_text": "Tend auxiliary equipment, such as jacks, slings, cables, or stop blocks, to facilitate moving items or materials for further processing."
+ },
+ {
+  "task_id": "3202",
+  "occupation": "Industrial Truck and Tractor Operators",
+  "task_text": "Move levers or controls that operate lifting devices, such as forklifts, lift beams with swivel-hooks, hoists, or elevating platforms, to load, unload, transport, or stack material."
+ },
+ {
+  "task_id": "3201",
+  "occupation": "Industrial Truck and Tractor Operators",
+  "task_text": "Move controls to drive gasoline- or electric-powered trucks, cars, or tractors and transport materials between loading, processing, and storage areas."
+ },
+ {
+  "task_id": "15266",
+  "occupation": "Industrial Truck and Tractor Operators",
+  "task_text": "Manually or mechanically load or unload materials from pallets, skids, platforms, cars, lifting devices, or other transport vehicles."
+ },
+ {
+  "task_id": "3203",
+  "occupation": "Industrial Truck and Tractor Operators",
+  "task_text": "Position lifting devices under, over, or around loaded pallets, skids, or boxes and secure material or products for transport to designated areas."
+ },
+ {
+  "task_id": "15265",
+  "occupation": "Industrial Truck and Tractor Operators",
+  "task_text": "Inspect product load for accuracy and safely move it around the warehouse or facility to ensure timely and complete delivery."
+ },
+ {
+  "task_id": "3206",
+  "occupation": "Industrial Truck and Tractor Operators",
+  "task_text": "Weigh materials or products and record weight or other production data on tags or labels."
+ },
+ {
+  "task_id": "3205",
+  "occupation": "Industrial Truck and Tractor Operators",
+  "task_text": "Perform routine maintenance on vehicles or auxiliary equipment, such as cleaning, lubricating, recharging batteries, fueling, or replacing liquefied-gas tank."
+ },
+ {
+  "task_id": "3207",
+  "occupation": "Industrial Truck and Tractor Operators",
+  "task_text": "Operate or tend automatic stacking, loading, packaging, or cutting machines."
+ },
+ {
+  "task_id": "3210",
+  "occupation": "Industrial Truck and Tractor Operators",
+  "task_text": "Turn valves and open chutes to dump, spray, or release materials from dump cars or storage bins into hoppers."
+ },
+ {
+  "task_id": "4997",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Rinse objects and place them on drying racks or use cloth, squeegees, or air compressors to dry surfaces."
+ },
+ {
+  "task_id": "5006",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Apply paints, dyes, polishes, reconditioners, waxes, or masking materials to vehicles to preserve, protect, or restore color or condition."
+ },
+ {
+  "task_id": "4996",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Clean and polish vehicle windows."
+ },
+ {
+  "task_id": "4998",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Drive vehicles to or from workshops or customers' workplaces or homes."
+ },
+ {
+  "task_id": "4993",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Scrub, scrape, or spray machine parts, equipment, or vehicles, using scrapers, brushes, clothes, cleaners, disinfectants, insecticides, acid, abrasives, vacuums, or hoses."
+ },
+ {
+  "task_id": "4992",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Inspect parts, equipment, or vehicles for cleanliness, damage, and compliance with standards or regulations."
+ },
+ {
+  "task_id": "4994",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Mix cleaning solutions, abrasive compositions, or other compounds, according to formulas."
+ },
+ {
+  "task_id": "5005",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Maintain inventories of supplies."
+ },
+ {
+  "task_id": "5000",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Pre-soak or rinse machine parts, equipment, or vehicles by immersing objects in cleaning solutions or water, manually or using hoists."
+ },
+ {
+  "task_id": "5007",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Turn valves or disconnect hoses to eliminate water, cleaning solutions, or vapors from machinery or tanks."
+ },
+ {
+  "task_id": "4999",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Turn valves or handles on equipment to regulate pressure or flow of water, air, steam, or abrasives from sprayer nozzles."
+ },
+ {
+  "task_id": "5008",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Sweep, shovel, or vacuum loose debris or salvageable scrap into containers and remove containers from work areas."
+ },
+ {
+  "task_id": "5002",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Monitor operation of cleaning machines and stop machines or notify supervisors when malfunctions occur."
+ },
+ {
+  "task_id": "4995",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Press buttons to activate cleaning equipment or machines."
+ },
+ {
+  "task_id": "5004",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Connect hoses or lines to pumps or other equipment."
+ },
+ {
+  "task_id": "5011",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Clean the plastic work inside cars, using paintbrushes."
+ },
+ {
+  "task_id": "5003",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Disassemble and reassemble machines or equipment or remove and reattach vehicle parts or trim, using hand tools."
+ },
+ {
+  "task_id": "5001",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Lubricate machinery, vehicles, or equipment or perform minor repairs or adjustments, using hand tools."
+ },
+ {
+  "task_id": "5009",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Transport materials, equipment, or supplies to or from work areas, using carts or hoists."
+ },
+ {
+  "task_id": "5012",
+  "occupation": "Cleaners of Vehicles and Equipment",
+  "task_text": "Fit boot spoilers, side skirts, or mud flaps to cars."
+ },
+ {
+  "task_id": "10789",
+  "occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+  "task_text": "Maintain equipment storage areas to ensure that inventory is protected."
+ },
+ {
+  "task_id": "10779",
+  "occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+  "task_text": "Read work orders or receive oral instructions to determine work assignments or material or equipment needs."
+ },
+ {
+  "task_id": "10781",
+  "occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+  "task_text": "Move freight, stock, or other materials to and from storage or production areas, loading docks, delivery vehicles, ships, or containers, by hand or using trucks, tractors, or other equipment."
+ },
+ {
+  "task_id": "10788",
+  "occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+  "task_text": "Install protective devices, such as bracing, padding, or strapping, to prevent shifting or damage to items being transported."
+ },
+ {
+  "task_id": "10782",
+  "occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+  "task_text": "Sort cargo before loading and unloading."
+ },
+ {
+  "task_id": "10778",
+  "occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+  "task_text": "Attach identifying tags to containers or mark them with identifying information."
+ },
+ {
+  "task_id": "10780",
+  "occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+  "task_text": "Record numbers of units handled or moved, using daily production sheets or work tickets."
+ },
+ {
+  "task_id": "10790",
+  "occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+  "task_text": "Attach slings, hooks, or other devices to lift cargo and guide loads."
+ },
+ {
+  "task_id": "10787",
+  "occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+  "task_text": "Carry needed tools or supplies from storage or trucks and return them after use."
+ },
+ {
+  "task_id": "10786",
+  "occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+  "task_text": "Pack containers and re-pack damaged containers."
+ },
+ {
+  "task_id": "10783",
+  "occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+  "task_text": "Assemble product containers or crates, using hand tools and precut lumber."
+ },
+ {
+  "task_id": "10792",
+  "occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+  "task_text": "Adjust controls to guide, position, or move equipment, such as cranes, booms, or cameras."
+ },
+ {
+  "task_id": "10796",
+  "occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+  "task_text": "Connect electrical equipment to power sources so that it can be tested before use."
+ },
+ {
+  "task_id": "17872",
+  "occupation": "Recycling and Reclamation Workers",
+  "task_text": "Sort materials, such as metals, glass, wood, paper or plastics, into appropriate containers for recycling."
+ },
+ {
+  "task_id": "17884",
+  "occupation": "Recycling and Reclamation Workers",
+  "task_text": "Clean recycling yard by sweeping, raking, picking up broken glass and loose paper debris, or moving barrels and bins."
+ },
+ {
+  "task_id": "17878",
+  "occupation": "Recycling and Reclamation Workers",
+  "task_text": "Operate forklifts, pallet jacks, power lifts, or front-end loaders to load bales, bundles, or other heavy items onto trucks for shipping to smelters or other recycled materials processing facilities."
+ },
+ {
+  "task_id": "17882",
+  "occupation": "Recycling and Reclamation Workers",
+  "task_text": "Sort metals to separate high-grade metals, such as copper, brass, and aluminum, for recycling."
+ },
+ {
+  "task_id": "17886",
+  "occupation": "Recycling and Reclamation Workers",
+  "task_text": "Clean, inspect, or lubricate recyclable collection equipment or perform routine maintenance or minor repairs on recycling equipment, such as star gears, finger sorters, destoners, belts, and grinders."
+ },
+ {
+  "task_id": "17885",
+  "occupation": "Recycling and Reclamation Workers",
+  "task_text": "Collect and sort recyclable construction materials, such as concrete, drywall, plastics, or wood, into containers."
+ },
+ {
+  "task_id": "17871",
+  "occupation": "Recycling and Reclamation Workers",
+  "task_text": "Extract chemicals from discarded appliances, such as air conditioners or refrigerators, using specialized machinery, such as refrigerant recovery equipment."
+ },
+ {
+  "task_id": "17874",
+  "occupation": "Recycling and Reclamation Workers",
+  "task_text": "Deposit recoverable materials into chutes or place materials on conveyor belts."
+ },
+ {
+  "task_id": "17877",
+  "occupation": "Recycling and Reclamation Workers",
+  "task_text": "Operate balers to compress recyclable materials into bundles or bales."
+ },
+ {
+  "task_id": "17883",
+  "occupation": "Recycling and Reclamation Workers",
+  "task_text": "Clean materials, such as metals, according to recycling requirements."
+ },
+ {
+  "task_id": "17881",
+  "occupation": "Recycling and Reclamation Workers",
+  "task_text": "Record logs of recycled materials or waste chemicals removed from products."
+ },
+ {
+  "task_id": "17879",
+  "occupation": "Recycling and Reclamation Workers",
+  "task_text": "Operate processing equipment, such as fiber-sorters and grinders, to sort, crush, or grind recyclable materials."
+ },
+ {
+  "task_id": "17873",
+  "occupation": "Recycling and Reclamation Workers",
+  "task_text": "Collect recyclable materials from curbside for delivery to designated facilities."
+ },
+ {
+  "task_id": "17876",
+  "occupation": "Recycling and Reclamation Workers",
+  "task_text": "Operate automated refuse or manual recycling collection vehicles."
+ },
+ {
+  "task_id": "14583",
+  "occupation": "Machine Feeders and Offbearers",
+  "task_text": "Inspect materials and products for defects, and to ensure conformance to specifications."
+ },
+ {
+  "task_id": "14591",
+  "occupation": "Machine Feeders and Offbearers",
+  "task_text": "Record production and operational data, such as amount of materials processed."
+ },
+ {
+  "task_id": "14585",
+  "occupation": "Machine Feeders and Offbearers",
+  "task_text": "Push dual control buttons and move controls to start, stop, or adjust machinery and equipment."
+ },
+ {
+  "task_id": "14589",
+  "occupation": "Machine Feeders and Offbearers",
+  "task_text": "Weigh or measure materials or products to ensure conformance to specifications."
+ },
+ {
+  "task_id": "14586",
+  "occupation": "Machine Feeders and Offbearers",
+  "task_text": "Identify and mark materials, products, and samples, following instructions."
+ },
+ {
+  "task_id": "14588",
+  "occupation": "Machine Feeders and Offbearers",
+  "task_text": "Clean and maintain machinery, equipment, and work areas to ensure proper functioning and safe working conditions."
+ },
+ {
+  "task_id": "14587",
+  "occupation": "Machine Feeders and Offbearers",
+  "task_text": "Load materials and products into machines and equipment, or onto conveyors, using hand tools and moving devices."
+ },
+ {
+  "task_id": "14593",
+  "occupation": "Machine Feeders and Offbearers",
+  "task_text": "Transfer materials and products to and from machinery and equipment, using industrial trucks or hand trucks."
+ },
+ {
+  "task_id": "14590",
+  "occupation": "Machine Feeders and Offbearers",
+  "task_text": "Fasten, package, or stack materials and products, using hand tools and fastening equipment."
+ },
+ {
+  "task_id": "14584",
+  "occupation": "Machine Feeders and Offbearers",
+  "task_text": "Remove materials and products from machines and equipment, and place them in boxes, trucks or conveyors, using hand tools and moving devices."
+ },
+ {
+  "task_id": "14595",
+  "occupation": "Machine Feeders and Offbearers",
+  "task_text": "Shovel or scoop materials into containers, machines, or equipment for processing, storage, or transport."
+ },
+ {
+  "task_id": "14594",
+  "occupation": "Machine Feeders and Offbearers",
+  "task_text": "Open and close gates of belt and pneumatic conveyors on machines that are fed directly from preceding machines."
+ },
+ {
+  "task_id": "14592",
+  "occupation": "Machine Feeders and Offbearers",
+  "task_text": "Add chemicals, solutions, or ingredients to machines or equipment as required by the manufacturing process."
+ },
+ {
+  "task_id": "21216",
+  "occupation": "Packers and Packagers, Hand",
+  "task_text": "Examine and inspect containers, materials, or products to ensure that product quality and packing specifications are met."
+ },
+ {
+  "task_id": "3212",
+  "occupation": "Packers and Packagers, Hand",
+  "task_text": "Measure, weigh, and count products and materials."
+ },
+ {
+  "task_id": "3214",
+  "occupation": "Packers and Packagers, Hand",
+  "task_text": "Record product, packaging, and order information on specified forms and records."
+ },
+ {
+  "task_id": "3216",
+  "occupation": "Packers and Packagers, Hand",
+  "task_text": "Seal containers or materials, using glues, fasteners, nails, and hand tools."
+ },
+ {
+  "task_id": "3218",
+  "occupation": "Packers and Packagers, Hand",
+  "task_text": "Assemble, line, and pad cartons, crates, and containers, using hand tools."
+ },
+ {
+  "task_id": "3222",
+  "occupation": "Packers and Packagers, Hand",
+  "task_text": "Obtain, move, and sort products, materials, containers, and orders, using hand tools."
+ },
+ {
+  "task_id": "3211",
+  "occupation": "Packers and Packagers, Hand",
+  "task_text": "Mark and label containers, container tags, or products, using marking tools."
+ },
+ {
+  "task_id": "3219",
+  "occupation": "Packers and Packagers, Hand",
+  "task_text": "Clean containers, materials, supplies, or work areas, using cleaning solutions and hand tools."
+ },
+ {
+  "task_id": "3215",
+  "occupation": "Packers and Packagers, Hand",
+  "task_text": "Remove completed or defective products or materials, placing them on moving equipment, such as conveyors, or in specified areas, such as loading docks."
+ },
+ {
+  "task_id": "3221",
+  "occupation": "Packers and Packagers, Hand",
+  "task_text": "Place or pour products or materials into containers, using hand tools and equipment, or fill containers from spouts or chutes."
+ },
+ {
+  "task_id": "3217",
+  "occupation": "Packers and Packagers, Hand",
+  "task_text": "Load materials and products into package processing equipment."
+ },
+ {
+  "task_id": "3220",
+  "occupation": "Packers and Packagers, Hand",
+  "task_text": "Transport packages to customers' vehicles."
+ },
+ {
+  "task_id": "23871",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Complete order receipts."
+ },
+ {
+  "task_id": "23877",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Answer customers' questions about merchandise and advise customers on merchandise selection."
+ },
+ {
+  "task_id": "23886",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Issue or distribute materials, products, parts, and supplies to customers or coworkers, based on information from incoming requisitions."
+ },
+ {
+  "task_id": "23895",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Keep records of out-going orders."
+ },
+ {
+  "task_id": "23880",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Stock shelves, racks, cases, bins, and tables with new or transferred merchandise."
+ },
+ {
+  "task_id": "23899",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Operate equipment such as forklifts."
+ },
+ {
+  "task_id": "23879",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Stamp, attach, or change price tags on merchandise, referring to price list."
+ },
+ {
+  "task_id": "23872",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Obtain merchandise from bins or shelves."
+ },
+ {
+  "task_id": "23878",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Receive and count stock items, and record data manually or on computer."
+ },
+ {
+  "task_id": "23873",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Read orders to ascertain catalog numbers, sizes, colors, and quantities of merchandise."
+ },
+ {
+  "task_id": "23900",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Receive, unload, open, unpack, or issue sales floor merchandise."
+ },
+ {
+  "task_id": "23890",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Pack customer purchases in bags or cartons."
+ },
+ {
+  "task_id": "23875",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Store items in an orderly and accessible manner in warehouses, tool rooms, supply rooms, or other areas."
+ },
+ {
+  "task_id": "23884",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Mark stock items, using identification tags, stamps, electric marking tools, or other labeling equipment."
+ },
+ {
+  "task_id": "23874",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Pack and unpack items to be stocked on shelves in stockrooms, warehouses, or storage yards."
+ },
+ {
+  "task_id": "23885",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Take inventory or examine merchandise to identify items to be reordered or replenished."
+ },
+ {
+  "task_id": "23888",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Clean display cases, shelves, and aisles."
+ },
+ {
+  "task_id": "23894",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Keep records on the use or damage of stock or stock-handling equipment."
+ },
+ {
+  "task_id": "23892",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Clean and maintain supplies, tools, equipment, and storage areas to ensure compliance with safety regulations."
+ },
+ {
+  "task_id": "23898",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Determine proper storage methods, identification, and stock location, based on turnover, environmental factors, and physical capabilities of facilities."
+ },
+ {
+  "task_id": "23891",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Dispose of damaged or defective items, or return them to vendors."
+ },
+ {
+  "task_id": "23893",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Recommend disposal of excess, defective, or obsolete stock."
+ },
+ {
+  "task_id": "23889",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Design and set up advertising signs and displays of merchandise on shelves, counters, or tables to attract customers and promote sales."
+ },
+ {
+  "task_id": "23887",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Provide assistance or direction to other stockroom, warehouse, or storage yard workers."
+ },
+ {
+  "task_id": "23876",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Examine and inspect stock items for wear or defects, reporting any damage to supervisors."
+ },
+ {
+  "task_id": "23896",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Compute prices of items or groups of items."
+ },
+ {
+  "task_id": "23882",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Itemize and total customer merchandise selection at checkout counter, using cash register, and accept cash or charge card for purchases."
+ },
+ {
+  "task_id": "23897",
+  "occupation": "Stockers and Order Fillers",
+  "task_text": "Requisition merchandise from supplier, based on available space, merchandise on hand, customer demand, or advertised specials."
+ }
+]

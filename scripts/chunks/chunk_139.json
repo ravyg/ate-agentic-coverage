@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "10634",
+  "occupation": "Airfield Operations Specialists",
+  "task_text": "Check military flight plans with civilian agencies."
+ },
+ {
+  "task_id": "9639",
+  "occupation": "Flight Attendants",
+  "task_text": "Verify that first aid kits and other emergency equipment, including fire extinguishers and oxygen bottles, are in working order."
+ },
+ {
+  "task_id": "9637",
+  "occupation": "Flight Attendants",
+  "task_text": "Announce and demonstrate safety and emergency procedures, such as the use of oxygen masks, seat belts, and life jackets."
+ },
+ {
+  "task_id": "23942",
+  "occupation": "Flight Attendants",
+  "task_text": "Monitor passenger behavior to identify threats to the safety of the crew and other passengers."
+ },
+ {
+  "task_id": "9638",
+  "occupation": "Flight Attendants",
+  "task_text": "Walk aisles of planes to verify that passengers have complied with federal regulations prior to takeoffs and landings."
+ },
+ {
+  "task_id": "9636",
+  "occupation": "Flight Attendants",
+  "task_text": "Direct and assist passengers in emergency procedures, such as evacuating a plane following an emergency landing."
+ },
+ {
+  "task_id": "9642",
+  "occupation": "Flight Attendants",
+  "task_text": "Prepare passengers and aircraft for landing, following procedures."
+ },
+ {
+  "task_id": "9640",
+  "occupation": "Flight Attendants",
+  "task_text": "Administer first aid to passengers in distress."
+ },
+ {
+  "task_id": "9643",
+  "occupation": "Flight Attendants",
+  "task_text": "Determine special assistance needs of passengers, such as small children, the elderly, or persons with disabilities."
+ },
+ {
+  "task_id": "9641",
+  "occupation": "Flight Attendants",
+  "task_text": "Attend preflight briefings concerning weather, altitudes, routes, emergency procedures, crew coordination, lengths of flights, food and beverage services offered, and numbers of passengers."
+ },
+ {
+  "task_id": "9645",
+  "occupation": "Flight Attendants",
+  "task_text": "Reassure passengers when situations, such as turbulence, are encountered."
+ },
+ {
+  "task_id": "9644",
+  "occupation": "Flight Attendants",
+  "task_text": "Check to ensure that food, beverages, blankets, reading material, emergency equipment, and other supplies are aboard and are in adequate supply."
+ },
+ {
+  "task_id": "9656",
+  "occupation": "Flight Attendants",
+  "task_text": "Prepare reports showing places of departure and destination, passenger ticket numbers, meal and beverage inventories, the conditions of cabin equipment, and any problems encountered by passengers."
+ },
+ {
+  "task_id": "9646",
+  "occupation": "Flight Attendants",
+  "task_text": "Announce flight delays and descent preparations."
+ },
+ {
+  "task_id": "9651",
+  "occupation": "Flight Attendants",
+  "task_text": "Greet passengers boarding aircraft and direct them to assigned seats."
+ },
+ {
+  "task_id": "9649",
+  "occupation": "Flight Attendants",
+  "task_text": "Assist passengers entering or disembarking the aircraft."
+ },
+ {
+  "task_id": "9652",
+  "occupation": "Flight Attendants",
+  "task_text": "Conduct periodic trips through the cabin to ensure passenger comfort and to distribute reading material, headphones, pillows, playing cards, and blankets."
+ },
+ {
+  "task_id": "9650",
+  "occupation": "Flight Attendants",
+  "task_text": "Inspect and clean cabins, checking for any problems and making sure that cabins are in order."
+ },
+ {
+  "task_id": "9654",
+  "occupation": "Flight Attendants",
+  "task_text": "Operate audio and video systems."
+ },
+ {
+  "task_id": "9648",
+  "occupation": "Flight Attendants",
+  "task_text": "Answer passengers' questions about flights, aircraft, weather, travel routes and services, arrival times, or schedules."
+ },
+ {
+  "task_id": "9657",
+  "occupation": "Flight Attendants",
+  "task_text": "Collect money for meals and beverages."
+ },
+ {
+  "task_id": "9658",
+  "occupation": "Flight Attendants",
+  "task_text": "Heat and serve prepared foods."
+ },
+ {
+  "task_id": "9647",
+  "occupation": "Flight Attendants",
+  "task_text": "Inspect passenger tickets to verify information and to obtain destination information."
+ },
+ {
+  "task_id": "9655",
+  "occupation": "Flight Attendants",
+  "task_text": "Assist passengers in placing carry-on luggage in overhead, garment, or under-seat storage."
+ },
+ {
+  "task_id": "9653",
+  "occupation": "Flight Attendants",
+  "task_text": "Take inventory of headsets, alcoholic beverages, and money collected."
+ },
+ {
+  "task_id": "9659",
+  "occupation": "Flight Attendants",
+  "task_text": "Sell alcoholic beverages to passengers."
+ },
+ {
+  "task_id": "8607",
+  "occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+  "task_text": "Remove and replace soiled linens or equipment to maintain sanitary conditions."
+ },
+ {
+  "task_id": "8606",
+  "occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+  "task_text": "Drive ambulances or assist ambulance drivers in transporting sick, injured, or convalescent persons."
+ },
+ {
+  "task_id": "8612",
+  "occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+  "task_text": "Report facts concerning accidents or emergencies to hospital personnel or law enforcement officials."
+ },
+ {
+  "task_id": "8608",
+  "occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+  "task_text": "Place patients on stretchers, and load stretchers into ambulances, usually with assistance from other attendants."
+ },
+ {
+  "task_id": "8609",
+  "occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+  "task_text": "Accompany and assist emergency medical technicians on calls."
+ },
+ {
+  "task_id": "8611",
+  "occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+  "task_text": "Replace supplies and disposable items on ambulances."
+ },
+ {
+  "task_id": "21028",
+  "occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+  "task_text": "Perform minor maintenance on emergency medical services vehicles, such as ambulances."
+ },
+ {
+  "task_id": "21029",
+  "occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+  "task_text": "Clean and wash rigs, ambulances, or equipment."
+ },
+ {
+  "task_id": "8610",
+  "occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+  "task_text": "Earn and maintain appropriate certifications."
+ },
+ {
+  "task_id": "8613",
+  "occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+  "task_text": "Administer first aid, such as bandaging, splinting, or administering oxygen."
+ },
+ {
+  "task_id": "8614",
+  "occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+  "task_text": "Restrain or shackle violent patients."
+ },
+ {
+  "task_id": "3158",
+  "occupation": "Driver/Sales Workers",
+  "task_text": "Drive trucks to deliver such items as food, medical supplies, or newspapers."
+ },
+ {
+  "task_id": "3156",
+  "occupation": "Driver/Sales Workers",
+  "task_text": "Inform regular customers of new products or services and price changes."
+ },
+ {
+  "task_id": "3161",
+  "occupation": "Driver/Sales Workers",
+  "task_text": "Record sales or delivery information on daily sales or delivery record."
+ },
+ {
+  "task_id": "3155",
+  "occupation": "Driver/Sales Workers",
+  "task_text": "Listen to and resolve customers' complaints regarding products or services."
+ },
+ {
+  "task_id": "3154",
+  "occupation": "Driver/Sales Workers",
+  "task_text": "Collect money from customers, make change, and record transactions on customer receipts."
+ },
+ {
+  "task_id": "3164",
+  "occupation": "Driver/Sales Workers",
+  "task_text": "Maintain trucks and food-dispensing equipment and clean inside of machines that dispense food or beverages."
+ },
+ {
+  "task_id": "3163",
+  "occupation": "Driver/Sales Workers",
+  "task_text": "Arrange merchandise and sales promotion displays or issue sales promotion materials to customers."
+ },
+ {
+  "task_id": "3159",
+  "occupation": "Driver/Sales Workers",
+  "task_text": "Collect coins from vending machines, refill machines, and remove aged merchandise."
+ },
+ {
+  "task_id": "3157",
+  "occupation": "Driver/Sales Workers",
+  "task_text": "Write customer orders and sales contracts according to company guidelines."
+ },
+ {
+  "task_id": "3162",
+  "occupation": "Driver/Sales Workers",
+  "task_text": "Review lists of dealers, customers, or station drops and load trucks."
+ },
+ {
+  "task_id": "3165",
+  "occupation": "Driver/Sales Workers",
+  "task_text": "Sell food specialties, such as sandwiches and beverages, to office workers and patrons of sports events."
+ },
+ {
+  "task_id": "20693",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Check all load-related documentation for completeness and accuracy."
+ },
+ {
+  "task_id": "20692",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Inspect loads to ensure that cargo is secure."
+ },
+ {
+  "task_id": "10636",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Check vehicles to ensure that mechanical, safety, and emergency equipment is in good working order."
+ },
+ {
+  "task_id": "10651",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Crank trailer landing gear up or down to safely secure vehicles."
+ },
+ {
+  "task_id": "10638",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Obtain receipts or signatures for delivered goods and collect payment for services when required."
+ },
+ {
+  "task_id": "10637",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Maintain logs of working hours or of vehicle service or repair status, following applicable state and federal regulations."
+ },
+ {
+  "task_id": "10643",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Read bills of lading to determine assignment details."
+ },
+ {
+  "task_id": "10644",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Report vehicle defects, accidents, traffic violations, or damage to the vehicles."
+ },
+ {
+  "task_id": "10653",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Perform basic vehicle maintenance tasks, such as adding oil, fuel, or radiator fluid, performing minor repairs, or washing trucks."
+ },
+ {
+  "task_id": "10646",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Couple or uncouple trailers by changing trailer jack positions, connecting or disconnecting air or electrical lines, or manipulating fifth-wheel locks."
+ },
+ {
+  "task_id": "10640",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Maneuver trucks into loading or unloading positions, following signals from loading crew and checking that vehicle and loading equipment are properly positioned."
+ },
+ {
+  "task_id": "10647",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Collect delivery instructions from appropriate sources, verifying instructions and routes."
+ },
+ {
+  "task_id": "10641",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Drive trucks with capacities greater than 13 tons, including tractor-trailer combinations, to transport and deliver products, livestock, or other materials."
+ },
+ {
+  "task_id": "10645",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Read and interpret maps to determine vehicle routes."
+ },
+ {
+  "task_id": "10650",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Check conditions of trailers after contents have been unloaded to ensure that there has been no damage."
+ },
+ {
+  "task_id": "20695",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Operate equipment, such as truck cab computers, CB radios, phones, or global positioning systems (GPS) equipment to exchange necessary information with bases, supervisors, or other drivers."
+ },
+ {
+  "task_id": "20694",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Drive trucks to weigh stations before and after loading and along routes in compliance with state regulations."
+ },
+ {
+  "task_id": "20696",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Load or unload trucks or help others with loading or unloading, using special loading-related equipment or other equipment as necessary."
+ },
+ {
+  "task_id": "19923",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Plan or adjust routes based on changing conditions, using computer equipment, global positioning systems (GPS) equipment, or other navigation devices, to minimize fuel consumption and carbon emissions."
+ },
+ {
+  "task_id": "10662",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Perform emergency roadside repairs, such as changing tires or installing light bulbs, tire chains, or spark plugs."
+ },
+ {
+  "task_id": "10656",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Remove debris from loaded trailers."
+ },
+ {
+  "task_id": "10642",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Secure cargo for transport, using ropes, blocks, chain, binders, or covers."
+ },
+ {
+  "task_id": "10635",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Follow appropriate safety procedures for transporting dangerous goods."
+ },
+ {
+  "task_id": "10655",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Inventory and inspect goods to be moved to determine quantities and conditions."
+ },
+ {
+  "task_id": "10658",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Follow special cargo-related procedures, such as checking refrigeration systems for frozen foods or providing food or water for livestock."
+ },
+ {
+  "task_id": "10660",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Install or remove special equipment, such as tire chains, grader blades, plow blades, or sanders."
+ },
+ {
+  "task_id": "20697",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Wrap and secure goods using pads, packing paper, containers, or straps."
+ },
+ {
+  "task_id": "19922",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Operate idle reduction systems or auxiliary power systems to generate power from alternative sources, such as fuel cells, to reduce idling time, to heat or cool truck cabins, or to provide power for other equipment."
+ },
+ {
+  "task_id": "10659",
+  "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+  "task_text": "Give directions to laborers who are packing goods and moving them onto trailers."
+ },
+ {
+  "task_id": "8615",
+  "occupation": "Light Truck Drivers",
+  "task_text": "Obey traffic laws and follow established traffic and transportation procedures."
+ },
+ {
+  "task_id": "8617",
+  "occupation": "Light Truck Drivers",
+  "task_text": "Report any mechanical problems encountered with vehicles."
+ },
+ {
+  "task_id": "8620",
+  "occupation": "Light Truck Drivers",
+  "task_text": "Verify the contents of inventory loads against shipping papers."
+ },
+ {
+  "task_id": "8616",
+  "occupation": "Light Truck Drivers",
+  "task_text": "Inspect and maintain vehicle supplies and equipment, such as gas, oil, water, tires, lights, or brakes, to ensure that vehicles are in proper working condition."
+ },
+ {
+  "task_id": "8623",
+  "occupation": "Light Truck Drivers",
+  "task_text": "Read maps and follow written or verbal geographic directions."
+ },
+ {
+  "task_id": "8619",
+  "occupation": "Light Truck Drivers",
+  "task_text": "Load and unload trucks, vans, or automobiles."
+ },
+ {
+  "task_id": "8618",
+  "occupation": "Light Truck Drivers",
+  "task_text": "Present bills and receipts and collect payments for goods delivered or loaded."
+ },
+ {
+  "task_id": "8622",
+  "occupation": "Light Truck Drivers",
+  "task_text": "Maintain records, such as vehicle logs, records of cargo, or billing statements, in accordance with regulations."
+ },
+ {
+  "task_id": "8626",
+  "occupation": "Light Truck Drivers",
+  "task_text": "Drive vehicles with capacities under three tons to transport materials to and from specified destinations, such as railroad stations, plants, residences, offices, or within industrial yards."
+ },
+ {
+  "task_id": "8621",
+  "occupation": "Light Truck Drivers",
+  "task_text": "Turn in receipts and money received from deliveries."
+ },
+ {
+  "task_id": "8628",
+  "occupation": "Light Truck Drivers",
+  "task_text": "Use and maintain the tools or equipment found on commercial vehicles, such as weighing or measuring devices."
+ },
+ {
+  "task_id": "8624",
+  "occupation": "Light Truck Drivers",
+  "task_text": "Report delays, accidents, or other traffic and transportation situations to bases or other vehicles, using telephones or mobile two-way radios."
+ },
+ {
+  "task_id": "8629",
+  "occupation": "Light Truck Drivers",
+  "task_text": "Perform emergency repairs, such as changing tires or installing light bulbs, fuses, tire chains, or spark plugs."
+ },
+ {
+  "task_id": "23716",
+  "occupation": "Bus Drivers, School",
+  "task_text": "Comply with traffic regulations to operate vehicles in a safe and courteous manner."
+ },
+ {
+  "task_id": "23719",
+  "occupation": "Bus Drivers, School",
+  "task_text": "Follow safety rules as students board and exit buses or cross streets near bus stops."
+ },
+ {
+  "task_id": "23715",
+  "occupation": "Bus Drivers, School",
+  "task_text": "Check the condition of a vehicle's tires, brakes, windshield wipers, lights, oil, fuel, water, and safety equipment to ensure that everything is in working order."
+ },
+ {
+  "task_id": "23729",
+  "occupation": "Bus Drivers, School",
+  "task_text": "Report any bus malfunctions or needed repairs."
+ },
+ {
+  "task_id": "23724",
+  "occupation": "Bus Drivers, School",
+  "task_text": "Pick up and drop off students at regularly scheduled neighborhood locations, following strict time schedules."
+ },
+ {
+  "task_id": "23717",
+  "occupation": "Bus Drivers, School",
+  "task_text": "Drive gasoline, diesel, or electrically powered multi-passenger vehicles to transport students between neighborhoods, schools, and school activities."
+ },
+ {
+  "task_id": "23722",
+  "occupation": "Bus Drivers, School",
+  "task_text": "Maintain order among students during trips to ensure safety."
+ },
+ {
+  "task_id": "23725",
+  "occupation": "Bus Drivers, School",
+  "task_text": "Prepare and submit reports that may include the number of students or trips, hours worked, mileage, or fuel consumption."
+ },
+ {
+  "task_id": "23721",
+  "occupation": "Bus Drivers, School",
+  "task_text": "Maintain knowledge of first-aid procedures."
+ },
+ {
+  "task_id": "23727",
+  "occupation": "Bus Drivers, School",
+  "task_text": "Record bus routes."
+ },
+ {
+  "task_id": "23730",
+  "occupation": "Bus Drivers, School",
+  "task_text": "Report delays, accidents, or other traffic and transportation situations, using telephones or mobile two-way radios."
+ },
+ {
+  "task_id": "23720",
+  "occupation": "Bus Drivers, School",
+  "task_text": "Keep bus interiors clean for students."
+ },
+ {
+  "task_id": "23726",
+  "occupation": "Bus Drivers, School",
+  "task_text": "Read maps and follow written and verbal geographic directions."
+ },
+ {
+  "task_id": "23728",
+  "occupation": "Bus Drivers, School",
+  "task_text": "Regulate heating, lighting, and ventilation systems for student comfort."
+ },
+ {
+  "task_id": "23731",
+  "occupation": "Bus Drivers, School",
+  "task_text": "Report delinquent student behaviors to school administration."
+ },
+ {
+  "task_id": "23718",
+  "occupation": "Bus Drivers, School",
+  "task_text": "Escort small children across roads and highways."
+ },
+ {
+  "task_id": "23723",
+  "occupation": "Bus Drivers, School",
+  "task_text": "Make minor repairs to vehicles."
+ },
+ {
+  "task_id": "18794",
+  "occupation": "Bus Drivers, Transit and Intercity",
+  "task_text": "Drive vehicles over specified routes or to specified destinations according to time schedules, complying with traffic regulations to ensure that passengers have a smooth and safe ride."
+ },
+ {
+  "task_id": "3146",
+  "occupation": "Bus Drivers, Transit and Intercity",
+  "task_text": "Park vehicles at loading areas so that passengers can board."
+ },
+ {
+  "task_id": "3144",
+  "occupation": "Bus Drivers, Transit and Intercity",
+  "task_text": "Inspect vehicles and check gas, oil, and water levels prior to departure."
+ },
+ {
+  "task_id": "21085",
+  "occupation": "Bus Drivers, Transit and Intercity",
+  "task_text": "Announce stops to passengers."
+ },
+ {
+  "task_id": "18795",
+  "occupation": "Bus Drivers, Transit and Intercity",
+  "task_text": "Assist passengers, such as elderly or individuals with disabilities, on and off bus, ensure they are seated properly, help carry baggage, and answer questions about bus schedules or routes."
+ },
+ {
+  "task_id": "18798",
+  "occupation": "Bus Drivers, Transit and Intercity",
+  "task_text": "Collect tickets or cash fares from passengers."
+ },
+ {
+  "task_id": "18796",
+  "occupation": "Bus Drivers, Transit and Intercity",
+  "task_text": "Handle passenger emergencies or disruptions."
+ },
+ {
+  "task_id": "3148",
+  "occupation": "Bus Drivers, Transit and Intercity",
+  "task_text": "Report delays or accidents."
+ },
+ {
+  "task_id": "3149",
+  "occupation": "Bus Drivers, Transit and Intercity",
+  "task_text": "Advise passengers to be seated and orderly while on vehicles."
+ },
+ {
+  "task_id": "3150",
+  "occupation": "Bus Drivers, Transit and Intercity",
+  "task_text": "Regulate heating, lighting, and ventilating systems for passenger comfort."
+ },
+ {
+  "task_id": "18797",
+  "occupation": "Bus Drivers, Transit and Intercity",
+  "task_text": "Record information, such as cash receipts and ticket fares, and maintain log book."
+ },
+ {
+  "task_id": "18799",
+  "occupation": "Bus Drivers, Transit and Intercity",
+  "task_text": "Maintain cleanliness of bus or motor coach."
+ },
+ {
+  "task_id": "21086",
+  "occupation": "Bus Drivers, Transit and Intercity",
+  "task_text": "Read maps to plan bus routes."
+ },
+ {
+  "task_id": "3151",
+  "occupation": "Bus Drivers, Transit and Intercity",
+  "task_text": "Load and unload baggage in baggage compartments."
+ },
+ {
+  "task_id": "23756",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Test vehicle equipment, such as lights, brakes, horns, or windshield wipers, to ensure proper operation."
+ },
+ {
+  "task_id": "23733",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Check the condition of a vehicle's tires, brakes, windshield wipers, lights, oil, fuel, water, and safety equipment to ensure that everything is in working order."
+ },
+ {
+  "task_id": "23737",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Comply with traffic regulations to operate vehicles in a safe and courteous manner."
+ },
+ {
+  "task_id": "23739",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Follow relevant safety regulations and state laws governing vehicle operation, and ensure that passengers follow safety regulations."
+ },
+ {
+  "task_id": "23742",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Operate vehicles with specialized equipment, such as wheelchair lifts, to transport and secure passengers with special needs."
+ },
+ {
+  "task_id": "23754",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Report any vehicle malfunctions or needed repairs."
+ },
+ {
+  "task_id": "23745",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Perform routine vehicle maintenance, such as regulating tire pressure and adding gasoline, oil, and water."
+ },
+ {
+  "task_id": "23746",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Pick up and drop off passengers at regularly scheduled neighborhood locations, following strict time schedules."
+ },
+ {
+  "task_id": "23738",
+  "occupation": "Shuttle Drivers and Chauffeurs",
+  "task_text": "Drive shuttle busses, limousines, company cars, or privately owned vehicles to transport passengers."
+ }
+]

@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "14630",
+  "occupation": "Computer and Information Research Scientists",
+  "task_text": "Develop and interpret organizational goals, policies, and procedures."
+ },
+ {
+  "task_id": "14632",
+  "occupation": "Computer and Information Research Scientists",
+  "task_text": "Develop performance standards, and evaluate work in light of established standards."
+ },
+ {
+  "task_id": "14634",
+  "occupation": "Computer and Information Research Scientists",
+  "task_text": "Maintain network hardware and software, direct network security measures, and monitor networks to ensure availability to system users."
+ },
+ {
+  "task_id": "14637",
+  "occupation": "Computer and Information Research Scientists",
+  "task_text": "Direct daily operations of departments, coordinating project activities with other departments."
+ },
+ {
+  "task_id": "14631",
+  "occupation": "Computer and Information Research Scientists",
+  "task_text": "Participate in staffing decisions and direct training of subordinates."
+ },
+ {
+  "task_id": "14636",
+  "occupation": "Computer and Information Research Scientists",
+  "task_text": "Approve, prepare, monitor, and adjust operational budgets."
+ },
+ {
+  "task_id": "19004",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Back up network data."
+ },
+ {
+  "task_id": "18991",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Configure security settings or access permissions for groups or individuals."
+ },
+ {
+  "task_id": "19003",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Analyze and report computer network security breaches or attempted breaches."
+ },
+ {
+  "task_id": "18995",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Identify the causes of networking problems, using diagnostic testing software and equipment."
+ },
+ {
+  "task_id": "18993",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Document network support activities."
+ },
+ {
+  "task_id": "18992",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Configure wide area network (WAN) or local area network (LAN) routers or related equipment."
+ },
+ {
+  "task_id": "18997",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Install network software, including security or firewall software."
+ },
+ {
+  "task_id": "19002",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Troubleshoot network or connectivity problems for users or user groups."
+ },
+ {
+  "task_id": "19010",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Provide telephone support related to networking or connectivity issues."
+ },
+ {
+  "task_id": "18994",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Evaluate local area network (LAN) or wide area network (WAN) performance data to ensure sufficient availability or speed, to identify network problems, or for disaster recovery purposes."
+ },
+ {
+  "task_id": "18989",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Analyze network data to determine network usage, disk space availability, or server function."
+ },
+ {
+  "task_id": "19000",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Perform routine maintenance or standard repairs to networking components or equipment."
+ },
+ {
+  "task_id": "18990",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Configure and define parameters for installation or testing of local area network (LAN), wide area network (WAN), hubs, routers, switches, controllers, multiplexers, or related networking equipment."
+ },
+ {
+  "task_id": "18998",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Install new hardware or software systems or components, ensuring integration with existing network systems."
+ },
+ {
+  "task_id": "19001",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Test computer software or hardware, using standard diagnostic testing equipment and procedures."
+ },
+ {
+  "task_id": "18999",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Install or repair network cables, including fiber optic cables."
+ },
+ {
+  "task_id": "19009",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Monitor industry Web sites or publications for information about patches, releases, viruses, or potential problem identification."
+ },
+ {
+  "task_id": "19006",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Create or update technical documentation for network installations or changes to existing installations."
+ },
+ {
+  "task_id": "19014",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Train users in procedures related to network applications software or related systems."
+ },
+ {
+  "task_id": "19013",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Test repaired items to ensure proper operation."
+ },
+ {
+  "task_id": "18996",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Install and configure wireless networking equipment."
+ },
+ {
+  "task_id": "19008",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Maintain logs of network activity."
+ },
+ {
+  "task_id": "19007",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Document help desk requests and resolutions."
+ },
+ {
+  "task_id": "19011",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Research hardware or software products to meet technical networking or security needs."
+ },
+ {
+  "task_id": "19005",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Create or revise user instructions, procedures, or manuals."
+ },
+ {
+  "task_id": "19012",
+  "occupation": "Computer Network Support Specialists",
+  "task_text": "Run monthly network reports."
+ },
+ {
+  "task_id": "1285",
+  "occupation": "Computer User Support Specialists",
+  "task_text": "Oversee the daily performance of computer systems."
+ },
+ {
+  "task_id": "1286",
+  "occupation": "Computer User Support Specialists",
+  "task_text": "Set up equipment for employee use, performing or ensuring proper installation of cables, operating systems, or appropriate software."
+ },
+ {
+  "task_id": "1288",
+  "occupation": "Computer User Support Specialists",
+  "task_text": "Read technical manuals, confer with users, or conduct computer diagnostics to investigate and resolve problems or to provide technical assistance and support."
+ },
+ {
+  "task_id": "1282",
+  "occupation": "Computer User Support Specialists",
+  "task_text": "Answer user inquiries regarding computer software or hardware operation to resolve problems."
+ },
+ {
+  "task_id": "1284",
+  "occupation": "Computer User Support Specialists",
+  "task_text": "Install and perform minor repairs to hardware, software, or peripheral equipment, following design or installation specifications."
+ },
+ {
+  "task_id": "1289",
+  "occupation": "Computer User Support Specialists",
+  "task_text": "Confer with staff, users, and management to establish requirements for new systems or modifications."
+ },
+ {
+  "task_id": "1283",
+  "occupation": "Computer User Support Specialists",
+  "task_text": "Enter commands and observe system functioning to verify correct operations and detect errors."
+ },
+ {
+  "task_id": "1287",
+  "occupation": "Computer User Support Specialists",
+  "task_text": "Maintain records of daily data communication transactions, problems and remedial actions taken, or installation activities."
+ },
+ {
+  "task_id": "1291",
+  "occupation": "Computer User Support Specialists",
+  "task_text": "Refer major hardware or software problems or defective products to vendors or technicians for service."
+ },
+ {
+  "task_id": "1292",
+  "occupation": "Computer User Support Specialists",
+  "task_text": "Prepare evaluations of software or hardware, and recommend improvements or upgrades."
+ },
+ {
+  "task_id": "1290",
+  "occupation": "Computer User Support Specialists",
+  "task_text": "Develop training materials and procedures, or train users in the proper use of hardware or software."
+ },
+ {
+  "task_id": "1295",
+  "occupation": "Computer User Support Specialists",
+  "task_text": "Inspect equipment and read order sheets to prepare for delivery to users."
+ },
+ {
+  "task_id": "1293",
+  "occupation": "Computer User Support Specialists",
+  "task_text": "Read trade magazines and technical manuals, or attend conferences and seminars to maintain knowledge of hardware and software."
+ },
+ {
+  "task_id": "1297",
+  "occupation": "Computer User Support Specialists",
+  "task_text": "Conduct office automation feasibility studies, including workflow analysis, space design, or cost comparison analysis."
+ },
+ {
+  "task_id": "15204",
+  "occupation": "Computer User Support Specialists",
+  "task_text": "Hire, supervise, and direct workers engaged in special project work, problem-solving, monitoring, and installation of data communication equipment and software."
+ },
+ {
+  "task_id": "1296",
+  "occupation": "Computer User Support Specialists",
+  "task_text": "Modify and customize commercial programs for internal needs."
+ },
+ {
+  "task_id": "18968",
+  "occupation": "Computer Network Architects",
+  "task_text": "Develop disaster recovery plans."
+ },
+ {
+  "task_id": "18971",
+  "occupation": "Computer Network Architects",
+  "task_text": "Develop or recommend network security measures, such as firewalls, network security audits, or automated security probes."
+ },
+ {
+  "task_id": "18965",
+  "occupation": "Computer Network Architects",
+  "task_text": "Develop and implement solutions for network problems."
+ },
+ {
+  "task_id": "18977",
+  "occupation": "Computer Network Architects",
+  "task_text": "Maintain networks by performing activities such as file addition, deletion, or backup."
+ },
+ {
+  "task_id": "18960",
+  "occupation": "Computer Network Architects",
+  "task_text": "Coordinate network operations, maintenance, repairs, or upgrades."
+ },
+ {
+  "task_id": "18959",
+  "occupation": "Computer Network Architects",
+  "task_text": "Coordinate installation of new equipment."
+ },
+ {
+  "task_id": "18979",
+  "occupation": "Computer Network Architects",
+  "task_text": "Monitor and analyze network performance and reports on data input or output to detect problems, identify inefficient use of computer resources, or perform capacity planning."
+ },
+ {
+  "task_id": "18969",
+  "occupation": "Computer Network Architects",
+  "task_text": "Develop network-related documentation."
+ },
+ {
+  "task_id": "18966",
+  "occupation": "Computer Network Architects",
+  "task_text": "Develop and write procedures for installation, use, or troubleshooting of communications hardware or software."
+ },
+ {
+  "task_id": "18980",
+  "occupation": "Computer Network Architects",
+  "task_text": "Participate in network technology upgrade or expansion projects, including installation of hardware and software and integration testing."
+ },
+ {
+  "task_id": "18962",
+  "occupation": "Computer Network Architects",
+  "task_text": "Design, build, or operate equipment configuration prototypes, including network hardware, software, servers, or server operation systems."
+ },
+ {
+  "task_id": "18956",
+  "occupation": "Computer Network Architects",
+  "task_text": "Adjust network sizes to meet volume or capacity demands."
+ },
+ {
+  "task_id": "18958",
+  "occupation": "Computer Network Architects",
+  "task_text": "Communicate with system users to ensure accounts are set up properly or to diagnose and solve operational problems."
+ },
+ {
+  "task_id": "18967",
+  "occupation": "Computer Network Architects",
+  "task_text": "Develop conceptual, logical, or physical network designs."
+ },
+ {
+  "task_id": "18975",
+  "occupation": "Computer Network Architects",
+  "task_text": "Evaluate network designs to determine whether customer requirements are met efficiently and effectively."
+ },
+ {
+  "task_id": "18988",
+  "occupation": "Computer Network Architects",
+  "task_text": "Communicate with vendors to gather information about products, alert them to future needs, resolve problems, or address system maintenance issues."
+ },
+ {
+  "task_id": "18972",
+  "occupation": "Computer Network Architects",
+  "task_text": "Develop plans or budgets for network equipment replacement."
+ },
+ {
+  "task_id": "18957",
+  "occupation": "Computer Network Architects",
+  "task_text": "Communicate with customers, sales staff, or marketing staff to determine customer needs."
+ },
+ {
+  "task_id": "18964",
+  "occupation": "Computer Network Architects",
+  "task_text": "Determine specific network hardware or software requirements, such as platforms, interfaces, bandwidths, or routine schemas."
+ },
+ {
+  "task_id": "18982",
+  "occupation": "Computer Network Architects",
+  "task_text": "Prepare detailed network specifications, including diagrams, charts, equipment configurations, or recommended technologies."
+ },
+ {
+  "task_id": "18985",
+  "occupation": "Computer Network Architects",
+  "task_text": "Supervise engineers or other staff in the design or implementation of network solutions."
+ },
+ {
+  "task_id": "18984",
+  "occupation": "Computer Network Architects",
+  "task_text": "Research and test new or modified hardware or software products to determine performance and interoperability."
+ },
+ {
+  "task_id": "18974",
+  "occupation": "Computer Network Architects",
+  "task_text": "Estimate time and materials needed to complete projects."
+ },
+ {
+  "task_id": "18963",
+  "occupation": "Computer Network Architects",
+  "task_text": "Design, organize, and deliver product awareness, skills transfer, or product education sessions for staff or suppliers."
+ },
+ {
+  "task_id": "18976",
+  "occupation": "Computer Network Architects",
+  "task_text": "Explain design specifications to integration or test engineers."
+ },
+ {
+  "task_id": "18973",
+  "occupation": "Computer Network Architects",
+  "task_text": "Develop procedures to track, project, or report network availability, reliability, capacity, or utilization."
+ },
+ {
+  "task_id": "18961",
+  "occupation": "Computer Network Architects",
+  "task_text": "Coordinate network or design activities with designers of associated networks."
+ },
+ {
+  "task_id": "18983",
+  "occupation": "Computer Network Architects",
+  "task_text": "Prepare or monitor project schedules, budgets, or cost control systems."
+ },
+ {
+  "task_id": "18981",
+  "occupation": "Computer Network Architects",
+  "task_text": "Prepare design presentations and proposals for staff or customers."
+ },
+ {
+  "task_id": "18986",
+  "occupation": "Computer Network Architects",
+  "task_text": "Use network computer-aided design (CAD) software packages to optimize network designs."
+ },
+ {
+  "task_id": "18987",
+  "occupation": "Computer Network Architects",
+  "task_text": "Visit vendors, attend conferences or training sessions, or study technical journals to keep up with changes in technology."
+ },
+ {
+  "task_id": "18970",
+  "occupation": "Computer Network Architects",
+  "task_text": "Develop or maintain project reporting systems."
+ },
+ {
+  "task_id": "18978",
+  "occupation": "Computer Network Architects",
+  "task_text": "Maintain or coordinate the maintenance of network peripherals, such as printers."
+ },
+ {
+  "task_id": "16080",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Consult with users, administrators, and engineers to identify business and technical requirements for proposed system modifications or technology purchases."
+ },
+ {
+  "task_id": "16073",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Implement system renovation projects in collaboration with technical staff, engineering consultants, installers, and vendors."
+ },
+ {
+  "task_id": "16058",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Keep abreast of changes in industry practices and emerging telecommunications technology by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences."
+ },
+ {
+  "task_id": "16063",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Review and evaluate requests from engineers, managers, and technicians for system modifications."
+ },
+ {
+  "task_id": "16082",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Assess existing facilities' needs for new or modified telecommunications systems."
+ },
+ {
+  "task_id": "16060",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Develop, maintain, or implement telecommunications disaster recovery plans to ensure business continuity."
+ },
+ {
+  "task_id": "16081",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Communicate with telecommunications vendors to obtain pricing and technical specifications for available hardware, software, or services."
+ },
+ {
+  "task_id": "16072",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Inspect sites to determine physical configuration, such as device locations and conduit pathways."
+ },
+ {
+  "task_id": "16078",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Document procedures for hardware and software installation and use."
+ },
+ {
+  "task_id": "16083",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Install, or coordinate installation of, new or modified hardware, software, or programming modules of telecommunications systems."
+ },
+ {
+  "task_id": "20366",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Instruct in use of voice, video, and data communications systems."
+ },
+ {
+  "task_id": "16074",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Implement or perform preventive maintenance, backup, or recovery procedures."
+ },
+ {
+  "task_id": "16066",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Prepare purchase requisitions for computer hardware and software, networking and telecommunications equipment, test equipment, cabling, or tools."
+ },
+ {
+  "task_id": "16077",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Document technical specifications and operating standards for telecommunications equipment."
+ },
+ {
+  "task_id": "16064",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Provide user support by diagnosing network and device problems and implementing technical or procedural solutions."
+ },
+ {
+  "task_id": "16076",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Document user support activity, such as system problems, corrective actions, resolution status, and completed equipment installations."
+ },
+ {
+  "task_id": "16059",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Estimate costs for system or component implementation and operation."
+ },
+ {
+  "task_id": "20365",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Order or maintain inventory of telecommunications equipment for customer premises equipment (CPE), facilities, access networks, or backbone networks."
+ },
+ {
+  "task_id": "16079",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Work with personnel and facilities management staff to install, remove, or relocate user connectivity equipment and devices."
+ },
+ {
+  "task_id": "16067",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Use computer-aided design (CAD) software to prepare or evaluate network diagrams, floor plans, or site configurations for existing facilities, renovations, or new systems."
+ },
+ {
+  "task_id": "16065",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Prepare system activity and performance reports."
+ },
+ {
+  "task_id": "16075",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Implement controls to provide security for operating systems, software, and data."
+ },
+ {
+  "task_id": "16070",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Manage user access to systems and equipment through account management and password administration."
+ },
+ {
+  "task_id": "16061",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Test and evaluate hardware and software to determine efficiency, reliability, or compatibility with existing systems."
+ },
+ {
+  "task_id": "16069",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Monitor and analyze system performance, such as network traffic, security, and capacity."
+ },
+ {
+  "task_id": "16062",
+  "occupation": "Telecommunications Engineering Specialists",
+  "task_text": "Supervise maintenance of telecommunications equipment."
+ },
+ {
+  "task_id": "1299",
+  "occupation": "Database Administrators",
+  "task_text": "Modify existing databases and database management systems or direct programmers and analysts to make changes."
+ },
+ {
+  "task_id": "1301",
+  "occupation": "Database Administrators",
+  "task_text": "Plan, coordinate, and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure."
+ },
+ {
+  "task_id": "21649",
+  "occupation": "Database Administrators",
+  "task_text": "Plan and install upgrades of database management system software to enhance database performance."
+ },
+ {
+  "task_id": "1305",
+  "occupation": "Database Administrators",
+  "task_text": "Specify users and user access levels for each segment of database."
+ },
+ {
+  "task_id": "21651",
+  "occupation": "Database Administrators",
+  "task_text": "Test changes to database applications or systems."
+ },
+ {
+  "task_id": "1300",
+  "occupation": "Database Administrators",
+  "task_text": "Test programs or databases, correct errors, and make necessary modifications."
+ },
+ {
+  "task_id": "1303",
+  "occupation": "Database Administrators",
+  "task_text": "Train users and answer questions."
+ },
+ {
+  "task_id": "21650",
+  "occupation": "Database Administrators",
+  "task_text": "Provide technical support to junior staff or clients."
+ },
+ {
+  "task_id": "1302",
+  "occupation": "Database Administrators",
+  "task_text": "Approve, schedule, plan, and supervise the installation and testing of new products and improvements to computer systems, such as the installation of new databases."
+ },
+ {
+  "task_id": "1298",
+  "occupation": "Database Administrators",
+  "task_text": "Develop standards and guidelines for the use and acquisition of software and to protect vulnerable information."
+ },
+ {
+  "task_id": "1313",
+  "occupation": "Database Administrators",
+  "task_text": "Write and code logical and physical database descriptions and specify identifiers of database to management system, or direct others in coding descriptions."
+ },
+ {
+  "task_id": "1306",
+  "occupation": "Database Administrators",
+  "task_text": "Develop data models describing data elements and how they are used, following procedures and using pen, template, or computer software."
+ },
+ {
+  "task_id": "1311",
+  "occupation": "Database Administrators",
+  "task_text": "Select and enter codes to monitor database performance and to create production databases."
+ },
+ {
+  "task_id": "21648",
+  "occupation": "Database Administrators",
+  "task_text": "Identify, evaluate and recommend hardware or software technologies to achieve desired database performance."
+ },
+ {
+  "task_id": "1309",
+  "occupation": "Database Administrators",
+  "task_text": "Review procedures in database management system manuals to make changes to database."
+ },
+ {
+  "task_id": "1312",
+  "occupation": "Database Administrators",
+  "task_text": "Identify and evaluate industry trends in database systems to serve as a source of information and advice for upper management."
+ },
+ {
+  "task_id": "1314",
+  "occupation": "Database Administrators",
+  "task_text": "Review workflow charts developed by programmer analyst to understand tasks computer will perform, such as updating records."
+ },
+ {
+  "task_id": "1315",
+  "occupation": "Database Administrators",
+  "task_text": "Revise company definition of data as defined in data dictionary."
+ },
+ {
+  "task_id": "16115",
+  "occupation": "Database Architects",
+  "task_text": "Develop and document database architectures."
+ },
+ {
+  "task_id": "16113",
+  "occupation": "Database Architects",
+  "task_text": "Collaborate with system architects, software architects, design analysts, and others to understand business or industry requirements."
+ },
+ {
+  "task_id": "16114",
+  "occupation": "Database Architects",
+  "task_text": "Develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements."
+ },
+ {
+  "task_id": "16109",
+  "occupation": "Database Architects",
+  "task_text": "Design databases to support business applications, ensuring system scalability, security, performance, and reliability."
+ },
+ {
+  "task_id": "16108",
+  "occupation": "Database Architects",
+  "task_text": "Develop data models for applications, metadata tables, views or related database structures."
+ }
+]

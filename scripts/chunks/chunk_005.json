@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "2434",
+  "occupation": "Parts Salespersons",
+  "task_text": "Mark and store parts in stockrooms, according to prearranged systems."
+ },
+ {
+  "task_id": "2435",
+  "occupation": "Parts Salespersons",
+  "task_text": "Discuss use and features of various parts, based on knowledge of machines or equipment."
+ },
+ {
+  "task_id": "2436",
+  "occupation": "Parts Salespersons",
+  "task_text": "Demonstrate equipment to customers, and explain functioning of equipment."
+ },
+ {
+  "task_id": "2437",
+  "occupation": "Parts Salespersons",
+  "task_text": "Place new merchandise on display."
+ },
+ {
+  "task_id": "2438",
+  "occupation": "Parts Salespersons",
+  "task_text": "Measure parts, using precision measuring instruments, to determine whether similar parts may be machined to required sizes."
+ },
+ {
+  "task_id": "2439",
+  "occupation": "Parts Salespersons",
+  "task_text": "Repair parts or equipment."
+ },
+ {
+  "task_id": "2440",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Present purchase offers to sellers for consideration."
+ },
+ {
+  "task_id": "2441",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Confer with escrow companies, lenders, home inspectors, and pest control operators to ensure that terms and conditions of purchase agreements are met before closing dates."
+ },
+ {
+  "task_id": "2442",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Interview clients to determine what kinds of properties they are seeking."
+ },
+ {
+  "task_id": "2443",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Prepare documents such as representation contracts, purchase agreements, closing statements, deeds, and leases."
+ },
+ {
+  "task_id": "2444",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Coordinate property closings, overseeing signing of documents and disbursement of funds."
+ },
+ {
+  "task_id": "2445",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Act as an intermediary in negotiations between buyers and sellers, generally representing one or the other."
+ },
+ {
+  "task_id": "2446",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Promote sales of properties through advertisements, open houses, and participation in multiple listing services."
+ },
+ {
+  "task_id": "2447",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Compare a property with similar properties that have recently sold to determine its competitive market price."
+ },
+ {
+  "task_id": "2448",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Coordinate appointments to show homes to prospective buyers."
+ },
+ {
+  "task_id": "2449",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Generate lists of properties that are compatible with buyers' needs and financial resources."
+ },
+ {
+  "task_id": "2450",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Display commercial, industrial, agricultural, and residential properties to clients and explain their features."
+ },
+ {
+  "task_id": "2451",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Arrange for title searches to determine whether clients have clear property titles."
+ },
+ {
+  "task_id": "2452",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Review plans for new construction with clients, enumerating and recommending available options and features."
+ },
+ {
+  "task_id": "2453",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Answer clients' questions regarding construction work, financing, maintenance, repairs, and appraisals."
+ },
+ {
+  "task_id": "2454",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Inspect condition of premises, and arrange for necessary maintenance or notify owners of maintenance needs."
+ },
+ {
+  "task_id": "2455",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Accompany buyers during visits to and inspections of property, advising them on the suitability and value of the homes they are visiting."
+ },
+ {
+  "task_id": "2456",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Advise sellers on how to make homes more appealing to potential buyers."
+ },
+ {
+  "task_id": "2457",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Arrange meetings between buyers and sellers when details of transactions need to be negotiated."
+ },
+ {
+  "task_id": "2458",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Advise clients on market conditions, prices, mortgages, legal requirements, and related matters."
+ },
+ {
+  "task_id": "2459",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Evaluate mortgage options to help clients obtain financing at the best prevailing rates and terms."
+ },
+ {
+  "task_id": "2460",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Review property listings, trade journals, and relevant literature, and attend conventions, seminars, and staff and association meetings, to remain knowledgeable about real estate markets."
+ },
+ {
+  "task_id": "2461",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Investigate clients' financial and credit status to determine eligibility for financing."
+ },
+ {
+  "task_id": "2462",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Contact property owners and advertise services to solicit property sales listings."
+ },
+ {
+  "task_id": "2463",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Develop networks of attorneys, mortgage lenders, and contractors to whom clients may be referred."
+ },
+ {
+  "task_id": "2464",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Visit properties to assess them before showing them to clients."
+ },
+ {
+  "task_id": "2465",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Contact utility companies for service hookups to clients' property."
+ },
+ {
+  "task_id": "2466",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Conduct seminars and training sessions for sales agents to improve sales techniques."
+ },
+ {
+  "task_id": "2467",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Appraise properties to determine loan values."
+ },
+ {
+  "task_id": "2468",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Solicit and compile listings of available rental properties."
+ },
+ {
+  "task_id": "2469",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Secure construction or purchase financing with own firm or mortgage company."
+ },
+ {
+  "task_id": "2470",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Rent or lease properties on behalf of clients."
+ },
+ {
+  "task_id": "2471",
+  "occupation": "Real Estate Sales Agents",
+  "task_text": "Locate and appraise undeveloped areas for building sites, based on evaluations of area market conditions."
+ },
+ {
+  "task_id": "2472",
+  "occupation": "Bill and Account Collectors",
+  "task_text": "Receive payments and post amounts paid to customer accounts."
+ },
+ {
+  "task_id": "2473",
+  "occupation": "Bill and Account Collectors",
+  "task_text": "Locate and monitor overdue accounts, using computers and a variety of automated systems."
+ },
+ {
+  "task_id": "2474",
+  "occupation": "Bill and Account Collectors",
+  "task_text": "Record information about financial status of customers and status of collection efforts."
+ },
+ {
+  "task_id": "2475",
+  "occupation": "Bill and Account Collectors",
+  "task_text": "Locate and notify customers of delinquent accounts by mail, telephone, or personal visits to solicit payment."
+ },
+ {
+  "task_id": "2476",
+  "occupation": "Bill and Account Collectors",
+  "task_text": "Confer with customers by telephone or in person to determine reasons for overdue payments and to review the terms of sales, service, or credit contracts."
+ },
+ {
+  "task_id": "2477",
+  "occupation": "Bill and Account Collectors",
+  "task_text": "Advise customers of necessary actions and strategies for debt repayment."
+ },
+ {
+  "task_id": "2478",
+  "occupation": "Bill and Account Collectors",
+  "task_text": "Persuade customers to pay amounts due on credit accounts, damage claims, or nonpayable checks, or to return merchandise."
+ },
+ {
+  "task_id": "2479",
+  "occupation": "Bill and Account Collectors",
+  "task_text": "Sort and file correspondence and perform miscellaneous clerical duties, such as answering correspondence and writing reports."
+ },
+ {
+  "task_id": "2480",
+  "occupation": "Bill and Account Collectors",
+  "task_text": "Perform various administrative functions for assigned accounts, such as recording address changes and purging the records of deceased customers."
+ },
+ {
+  "task_id": "2481",
+  "occupation": "Bill and Account Collectors",
+  "task_text": "Arrange for debt repayment or establish repayment schedules, based on customers' financial situations."
+ },
+ {
+  "task_id": "2482",
+  "occupation": "Bill and Account Collectors",
+  "task_text": "Negotiate credit extensions when necessary."
+ },
+ {
+  "task_id": "2483",
+  "occupation": "Bill and Account Collectors",
+  "task_text": "Trace delinquent customers to new addresses by inquiring at post offices, telephone companies, credit bureaus, or through the questioning of neighbors."
+ },
+ {
+  "task_id": "2484",
+  "occupation": "Bill and Account Collectors",
+  "task_text": "Notify credit departments, order merchandise repossession or service disconnection, and turn over account records to attorneys when customers fail to respond to collection attempts."
+ },
+ {
+  "task_id": "2486",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Check figures, postings, and documents for correct entry, mathematical accuracy, and proper codes."
+ },
+ {
+  "task_id": "2487",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Operate computers programmed with accounting software to record, store, and analyze information."
+ },
+ {
+  "task_id": "2488",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Comply with federal, state, and company policies, procedures, and regulations."
+ },
+ {
+  "task_id": "2489",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Debit, credit, and total accounts on computer spreadsheets and databases, using specialized accounting software."
+ },
+ {
+  "task_id": "2490",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Classify, record, and summarize numerical and financial data to compile and keep financial records, using journals and ledgers or computers."
+ },
+ {
+  "task_id": "2491",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Calculate, prepare, and issue bills, invoices, account statements, and other financial statements according to established procedures."
+ },
+ {
+  "task_id": "2492",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Compile statistical, financial, accounting, or auditing reports and tables pertaining to such matters as cash receipts, expenditures, accounts payable and receivable, and profits and losses."
+ },
+ {
+  "task_id": "2493",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Code documents according to company procedures."
+ },
+ {
+  "task_id": "2494",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Access computerized financial information to answer general questions as well as those related to specific accounts."
+ },
+ {
+  "task_id": "2495",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Operate 10-key calculators, typewriters, and copy machines to perform calculations and produce documents."
+ },
+ {
+  "task_id": "2496",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Reconcile or note and report discrepancies found in records."
+ },
+ {
+  "task_id": "2497",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Perform financial calculations, such as amounts due, interest charges, balances, discounts, equity, and principal."
+ },
+ {
+  "task_id": "2498",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Perform general office duties, such as filing, answering telephones, and handling routine correspondence."
+ },
+ {
+  "task_id": "2499",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Prepare bank deposits by compiling data from cashiers, verifying and balancing receipts, and sending cash, checks, or other forms of payment to banks."
+ },
+ {
+  "task_id": "2500",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Receive, record, and bank cash, checks, and vouchers."
+ },
+ {
+  "task_id": "2501",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Calculate and prepare checks for utilities, taxes, and other payments."
+ },
+ {
+  "task_id": "2502",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Compare computer printouts to manually maintained journals to determine if they match."
+ },
+ {
+  "task_id": "2503",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Reconcile records of bank transactions."
+ },
+ {
+  "task_id": "2504",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Prepare trial balances of books."
+ },
+ {
+  "task_id": "2505",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Monitor status of loans and accounts to ensure that payments are up to date."
+ },
+ {
+  "task_id": "2506",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Transfer details from separate journals to general ledgers or data processing sheets."
+ },
+ {
+  "task_id": "2507",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Compile budget data and documents, based on estimated revenues and expenses and previous budgets."
+ },
+ {
+  "task_id": "2508",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Calculate costs of materials, overhead, and other expenses, based on estimates, quotations and price lists."
+ },
+ {
+  "task_id": "2509",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Match order forms with invoices, and record the necessary information."
+ },
+ {
+  "task_id": "2510",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Complete and submit tax forms and returns, workers' compensation forms, pension contribution forms, and other government documents."
+ },
+ {
+  "task_id": "2511",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Maintain inventory records."
+ },
+ {
+  "task_id": "2514",
+  "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+  "task_text": "Prepare purchase orders and expense reports."
+ },
+ {
+  "task_id": "2515",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Process and issue employee paychecks and statements of earnings and deductions."
+ },
+ {
+  "task_id": "2516",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Compute wages and deductions, and enter data into computers."
+ },
+ {
+  "task_id": "2517",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Compile employee time, production, and payroll data from time sheets and other records."
+ },
+ {
+  "task_id": "2518",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Review time sheets, work charts, wage computation, and other information to detect and reconcile payroll discrepancies."
+ },
+ {
+  "task_id": "2519",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Verify attendance, hours worked, and pay adjustments, and post information onto designated records."
+ },
+ {
+  "task_id": "2520",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Record employee information, such as exemptions, transfers, and resignations, to maintain and update payroll records."
+ },
+ {
+  "task_id": "2521",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Issue and record adjustments to pay related to previous errors or retroactive increases."
+ },
+ {
+  "task_id": "2522",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Keep informed about changes in tax and deduction laws that apply to the payroll process."
+ },
+ {
+  "task_id": "2523",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Provide information to employees and managers on payroll matters, tax issues, benefit plans, and collective agreement provisions."
+ },
+ {
+  "task_id": "2524",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Complete time sheets showing employees' arrival and departure times."
+ },
+ {
+  "task_id": "2526",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Distribute and collect timecards each pay period."
+ },
+ {
+  "task_id": "2527",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Complete, verify, and process forms and documentation for administration of benefits, such as pension plans, and unemployment and medical insurance."
+ },
+ {
+  "task_id": "2528",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Prepare and balance period-end reports, and reconcile issued payrolls to bank statements."
+ },
+ {
+  "task_id": "2529",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Compile statistical reports, statements, and summaries related to pay and benefits accounts, and submit them to appropriate departments."
+ },
+ {
+  "task_id": "2530",
+  "occupation": "Payroll and Timekeeping Clerks",
+  "task_text": "Coordinate special programs, such as United Way campaigns, that involve payroll deductions."
+ },
+ {
+  "task_id": "2531",
+  "occupation": "Procurement Clerks",
+  "task_text": "Prepare purchase orders and send copies to suppliers and to departments originating requests."
+ },
+ {
+  "task_id": "2532",
+  "occupation": "Procurement Clerks",
+  "task_text": "Determine if inventory quantities are sufficient for needs, ordering more materials when necessary."
+ },
+ {
+  "task_id": "2533",
+  "occupation": "Procurement Clerks",
+  "task_text": "Respond to customer and supplier inquiries about order status, changes, or cancellations."
+ },
+ {
+  "task_id": "2534",
+  "occupation": "Procurement Clerks",
+  "task_text": "Perform buying duties when necessary."
+ },
+ {
+  "task_id": "2535",
+  "occupation": "Procurement Clerks",
+  "task_text": "Contact suppliers to schedule or expedite deliveries and to resolve shortages, missed or late deliveries, and other problems."
+ },
+ {
+  "task_id": "2536",
+  "occupation": "Procurement Clerks",
+  "task_text": "Review requisition orders to verify accuracy, terminology, and specifications."
+ },
+ {
+  "task_id": "2537",
+  "occupation": "Procurement Clerks",
+  "task_text": "Prepare, maintain, and review purchasing files, reports and price lists."
+ },
+ {
+  "task_id": "2538",
+  "occupation": "Procurement Clerks",
+  "task_text": "Compare prices, specifications, and delivery dates to determine the best bid among potential suppliers."
+ },
+ {
+  "task_id": "2539",
+  "occupation": "Procurement Clerks",
+  "task_text": "Track the status of requisitions, contracts, and orders."
+ },
+ {
+  "task_id": "2540",
+  "occupation": "Procurement Clerks",
+  "task_text": "Calculate costs of orders, and charge or forward invoices to appropriate accounts."
+ },
+ {
+  "task_id": "2541",
+  "occupation": "Procurement Clerks",
+  "task_text": "Check shipments when they arrive to ensure that orders have been filled correctly and that goods meet specifications."
+ },
+ {
+  "task_id": "2542",
+  "occupation": "Procurement Clerks",
+  "task_text": "Compare suppliers' bills with bids and purchase orders to verify accuracy."
+ },
+ {
+  "task_id": "2544",
+  "occupation": "Procurement Clerks",
+  "task_text": "Locate suppliers, using sources such as catalogs and the internet, and interview them to gather information about products to be ordered."
+ },
+ {
+  "task_id": "2545",
+  "occupation": "Procurement Clerks",
+  "task_text": "Maintain knowledge of all organizational and governmental rules affecting purchases, and provide information about these rules to organization staff members and to vendors."
+ },
+ {
+  "task_id": "2546",
+  "occupation": "Procurement Clerks",
+  "task_text": "Monitor in-house inventory movement and complete inventory transfer forms for bookkeeping purposes."
+ },
+ {
+  "task_id": "2547",
+  "occupation": "Procurement Clerks",
+  "task_text": "Monitor contractor performance, recommending contract modifications when necessary."
+ },
+ {
+  "task_id": "2548",
+  "occupation": "Procurement Clerks",
+  "task_text": "Prepare invitation-of-bid forms, and mail forms to supplier firms or distribute forms for public posting."
+ },
+ {
+  "task_id": "2549",
+  "occupation": "Tellers",
+  "task_text": "Balance currency, coin, and checks in cash drawers at ends of shifts and calculate daily transactions, using computers, calculators, or adding machines."
+ },
+ {
+  "task_id": "2550",
+  "occupation": "Tellers",
+  "task_text": "Cash checks and pay out money after verifying that signatures are correct, that written and numerical amounts agree, and that accounts have sufficient funds."
+ },
+ {
+  "task_id": "2551",
+  "occupation": "Tellers",
+  "task_text": "Receive checks and cash for deposit, verify amounts, and check accuracy of deposit slips."
+ },
+ {
+  "task_id": "2552",
+  "occupation": "Tellers",
+  "task_text": "Examine checks for endorsements and to verify other information, such as dates, bank names, identification of the persons receiving payments, and the legality of the documents."
+ },
+ {
+  "task_id": "2553",
+  "occupation": "Tellers",
+  "task_text": "Enter customers' transactions into computers to record transactions and issue computer-generated receipts."
+ },
+ {
+  "task_id": "2554",
+  "occupation": "Tellers",
+  "task_text": "Count currency, coins, and checks received, by hand or using currency-counting machine, to prepare them for deposit or shipment to branch banks or the Federal Reserve Bank."
+ },
+ {
+  "task_id": "2555",
+  "occupation": "Tellers",
+  "task_text": "Identify transaction mistakes when debits and credits do not balance."
+ },
+ {
+  "task_id": "2556",
+  "occupation": "Tellers",
+  "task_text": "Prepare and verify cashier's checks."
+ },
+ {
+  "task_id": "2557",
+  "occupation": "Tellers",
+  "task_text": "Arrange monies received in cash boxes and coin dispensers according to denomination."
+ },
+ {
+  "task_id": "2558",
+  "occupation": "Tellers",
+  "task_text": "Process transactions, such as term deposits, retirement savings plan contributions, automated teller transactions, night deposits, and mail deposits."
+ },
+ {
+  "task_id": "2559",
+  "occupation": "Tellers",
+  "task_text": "Receive mortgage, loan, or public utility bill payments, verifying payment dates and amounts due."
+ },
+ {
+  "task_id": "2560",
+  "occupation": "Tellers",
+  "task_text": "Resolve problems or discrepancies concerning customers' accounts."
+ },
+ {
+  "task_id": "2561",
+  "occupation": "Tellers",
+  "task_text": "Explain, promote, or sell products or services, such as travelers' checks, savings bonds, money orders, and cashier's checks, using computerized information about customers to tailor recommendations."
+ },
+ {
+  "task_id": "2562",
+  "occupation": "Tellers",
+  "task_text": "Perform clerical tasks, such as typing, filing, and microfilm photography."
+ },
+ {
+  "task_id": "2563",
+  "occupation": "Tellers",
+  "task_text": "Monitor bank vaults to ensure cash balances are correct."
+ },
+ {
+  "task_id": "2564",
+  "occupation": "Tellers",
+  "task_text": "Order a supply of cash to meet daily needs."
+ },
+ {
+  "task_id": "2565",
+  "occupation": "Tellers",
+  "task_text": "Sort and file deposit slips and checks."
+ },
+ {
+  "task_id": "2566",
+  "occupation": "Tellers",
+  "task_text": "Receive and count daily inventories of cash, drafts, and travelers' checks."
+ },
+ {
+  "task_id": "2567",
+  "occupation": "Tellers",
+  "task_text": "Process and maintain records of customer loans."
+ },
+ {
+  "task_id": "2568",
+  "occupation": "Tellers",
+  "task_text": "Count, verify, and post armored car deposits."
+ }
+]

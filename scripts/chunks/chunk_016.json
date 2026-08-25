@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "11314",
+  "occupation": "Meter Readers, Utilities",
+  "task_text": "Report to service departments any problems, such as meter irregularities, damaged equipment, or impediments to meter access, including dogs."
+ },
+ {
+  "task_id": "11315",
+  "occupation": "Meter Readers, Utilities",
+  "task_text": "Answer customers' questions about services and charges, or direct them to customer service centers."
+ },
+ {
+  "task_id": "11316",
+  "occupation": "Meter Readers, Utilities",
+  "task_text": "Update client address and meter location information."
+ },
+ {
+  "task_id": "11317",
+  "occupation": "Meter Readers, Utilities",
+  "task_text": "Leave messages to arrange different times to read meters in cases in which meters are not accessible."
+ },
+ {
+  "task_id": "11318",
+  "occupation": "Meter Readers, Utilities",
+  "task_text": "Connect and disconnect utility services at specific locations."
+ },
+ {
+  "task_id": "11320",
+  "occupation": "Meter Readers, Utilities",
+  "task_text": "Report lost or broken keys."
+ },
+ {
+  "task_id": "11321",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Keep money drawers in order, and record and balance daily transactions."
+ },
+ {
+  "task_id": "11322",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Weigh letters and parcels, compute mailing costs based on type, weight, and destination, and affix correct postage."
+ },
+ {
+  "task_id": "11323",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Obtain signatures from recipients of registered or special delivery mail."
+ },
+ {
+  "task_id": "11324",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Register, certify, and insure letters and parcels."
+ },
+ {
+  "task_id": "11325",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Sell and collect payment for products such as stamps, prepaid mail envelopes, and money orders."
+ },
+ {
+  "task_id": "11326",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Check mail to ensure correct postage and that packages and letters are in proper condition for mailing."
+ },
+ {
+  "task_id": "11327",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Answer questions regarding mail regulations and procedures, postage rates, and post office boxes."
+ },
+ {
+  "task_id": "11328",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Complete forms regarding changes of address, or theft or loss of mail, or for special services such as registered or priority mail."
+ },
+ {
+  "task_id": "11329",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Provide assistance to the public in complying with federal regulations of Postal Service and other federal agencies."
+ },
+ {
+  "task_id": "11330",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Sort incoming and outgoing mail, according to type and destination, by hand or by operating electronic mail-sorting and scanning devices."
+ },
+ {
+  "task_id": "11331",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Cash money orders."
+ },
+ {
+  "task_id": "11332",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Rent post office boxes to customers."
+ },
+ {
+  "task_id": "11333",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Put undelivered parcels away, retrieve them when customers come to claim them, and complete any related documentation."
+ },
+ {
+  "task_id": "11334",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Provide customers with assistance in filing claims for mail theft, or lost or damaged mail."
+ },
+ {
+  "task_id": "11335",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Respond to complaints regarding mail theft, delivery problems, and lost or damaged mail, filling out forms and making appropriate referrals for investigation."
+ },
+ {
+  "task_id": "11336",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Receive letters and parcels, and place mail into bags."
+ },
+ {
+  "task_id": "11337",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Feed mail into postage canceling devices or hand stamp mail to cancel postage."
+ },
+ {
+  "task_id": "11338",
+  "occupation": "Postal Service Clerks",
+  "task_text": "Transport mail from one work station to another."
+ },
+ {
+  "task_id": "11341",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Obtain signed receipts for registered, certified, and insured mail, collect associated charges, and complete any necessary paperwork."
+ },
+ {
+  "task_id": "11342",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Sort mail for delivery, arranging it in delivery sequence."
+ },
+ {
+  "task_id": "11343",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Deliver mail to residences and business establishments along specified routes by walking or driving, using a combination of satchels, carts, cars, and small trucks."
+ },
+ {
+  "task_id": "11344",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Return to the post office with mail collected from homes, businesses, and public mailboxes."
+ },
+ {
+  "task_id": "11345",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Turn in money and receipts collected along mail routes."
+ },
+ {
+  "task_id": "11346",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Sign for cash-on-delivery and registered mail before leaving the post office."
+ },
+ {
+  "task_id": "11347",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Record address changes and redirect mail for those addresses."
+ },
+ {
+  "task_id": "11348",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Hold mail for customers who are away from delivery locations."
+ },
+ {
+  "task_id": "11349",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Bundle mail in preparation for delivery or transportation to relay boxes."
+ },
+ {
+  "task_id": "11350",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Leave notices telling patrons where to collect mail that could not be delivered."
+ },
+ {
+  "task_id": "11351",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Meet schedules for the collection and return of mail."
+ },
+ {
+  "task_id": "11352",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Return incorrectly addressed mail to senders."
+ },
+ {
+  "task_id": "11353",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Maintain accurate records of deliveries."
+ },
+ {
+  "task_id": "11354",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Answer customers' questions about postal services and regulations."
+ },
+ {
+  "task_id": "11355",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Provide customers with change of address cards and other forms."
+ },
+ {
+  "task_id": "11356",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Report any unusual circumstances concerning mail delivery, including the condition of street letter boxes."
+ },
+ {
+  "task_id": "11357",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Register, certify, and insure parcels and letters."
+ },
+ {
+  "task_id": "11358",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Travel to post offices to pick up the mail for routes or pick up mail from postal relay boxes."
+ },
+ {
+  "task_id": "11360",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Complete forms that notify publishers of address changes."
+ },
+ {
+  "task_id": "11361",
+  "occupation": "Postal Service Mail Carriers",
+  "task_text": "Sell stamps and money orders."
+ },
+ {
+  "task_id": "11362",
+  "occupation": "Production, Planning, and Expediting Clerks",
+  "task_text": "Examine documents, materials, or products and monitor work processes to assess completeness, accuracy, and conformance to standards and specifications."
+ },
+ {
+  "task_id": "11363",
+  "occupation": "Production, Planning, and Expediting Clerks",
+  "task_text": "Review documents, such as production schedules, work orders, or staffing tables, to determine personnel or materials requirements or material priorities."
+ },
+ {
+  "task_id": "11364",
+  "occupation": "Production, Planning, and Expediting Clerks",
+  "task_text": "Confer with department supervisors or other personnel to assess progress and discuss needed changes."
+ },
+ {
+  "task_id": "11365",
+  "occupation": "Production, Planning, and Expediting Clerks",
+  "task_text": "Revise production schedules when required due to design changes, labor or material shortages, backlogs, or other interruptions, collaborating with management, marketing, sales, production, or engineer"
+ },
+ {
+  "task_id": "11366",
+  "occupation": "Production, Planning, and Expediting Clerks",
+  "task_text": "Confer with establishment personnel, vendors, or customers to coordinate production or shipping activities and to resolve complaints or eliminate delays."
+ },
+ {
+  "task_id": "11367",
+  "occupation": "Production, Planning, and Expediting Clerks",
+  "task_text": "Record production data, including volume produced, consumption of raw materials, or quality control measures."
+ },
+ {
+  "task_id": "11368",
+  "occupation": "Production, Planning, and Expediting Clerks",
+  "task_text": "Requisition and maintain inventories of materials or supplies necessary to meet production demands."
+ },
+ {
+  "task_id": "11369",
+  "occupation": "Production, Planning, and Expediting Clerks",
+  "task_text": "Calculate figures, such as required amounts of labor or materials, manufacturing costs, or wages, using pricing schedules, adding machines, calculators, or computers."
+ },
+ {
+  "task_id": "11370",
+  "occupation": "Production, Planning, and Expediting Clerks",
+  "task_text": "Distribute production schedules or work orders to departments."
+ },
+ {
+  "task_id": "11371",
+  "occupation": "Production, Planning, and Expediting Clerks",
+  "task_text": "Compile information, such as production rates and progress, materials inventories, materials used, or customer information, so that status reports can be completed."
+ },
+ {
+  "task_id": "11372",
+  "occupation": "Production, Planning, and Expediting Clerks",
+  "task_text": "Arrange for delivery, assembly, or distribution of supplies or parts to expedite flow of materials and meet production schedules."
+ },
+ {
+  "task_id": "11373",
+  "occupation": "Production, Planning, and Expediting Clerks",
+  "task_text": "Contact suppliers to verify shipment details."
+ },
+ {
+  "task_id": "11374",
+  "occupation": "Production, Planning, and Expediting Clerks",
+  "task_text": "Maintain files, such as maintenance records, bills of lading, or cost reports."
+ },
+ {
+  "task_id": "11375",
+  "occupation": "Production, Planning, and Expediting Clerks",
+  "task_text": "Plan production commitments or timetables for business units, specific programs, or jobs, using sales forecasts."
+ },
+ {
+  "task_id": "11376",
+  "occupation": "Production, Planning, and Expediting Clerks",
+  "task_text": "Establish and prepare product construction directions and locations and information on required tools, materials, equipment, numbers of workers needed, and cost projections."
+ },
+ {
+  "task_id": "11377",
+  "occupation": "Production, Planning, and Expediting Clerks",
+  "task_text": "Compile and prepare documentation related to production sequences, transportation, personnel schedules, or purchase, maintenance, or repair orders."
+ },
+ {
+  "task_id": "11378",
+  "occupation": "Production, Planning, and Expediting Clerks",
+  "task_text": "Provide documentation and information to account for delays, difficulties, or changes to cost estimates."
+ },
+ {
+  "task_id": "11379",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Collect or prepare measurement, weight, or identification labels and attach them to products."
+ },
+ {
+  "task_id": "11380",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Document quantity, quality, type, weight, test result data, and value of materials or products to maintain shipping, receiving, and production records and files."
+ },
+ {
+  "task_id": "11381",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Compare product labels, tags, or tickets, shipping manifests, purchase orders, and bills of lading to verify accuracy of shipment contents, quality specifications, or weights."
+ },
+ {
+  "task_id": "11382",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Count or estimate quantities of materials, parts, or products received or shipped."
+ },
+ {
+  "task_id": "11383",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Weigh or measure materials, equipment, or products to maintain relevant records, using volume meters, scales, rules, or calipers."
+ },
+ {
+  "task_id": "11384",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Communicate with customers and vendors to exchange information regarding products, materials, and services."
+ },
+ {
+  "task_id": "11386",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Collect product samples and prepare them for laboratory analysis or testing."
+ },
+ {
+  "task_id": "11387",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Unload or unpack incoming shipments."
+ },
+ {
+  "task_id": "11388",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Operate scalehouse computers to obtain weight information about incoming shipments such as those from waste haulers."
+ },
+ {
+  "task_id": "11389",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Fill orders for products and samples, following order tickets, and forward or mail items."
+ },
+ {
+  "task_id": "11390",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Sort products or materials into predetermined sequences or groupings for display, packing, shipping, or storage."
+ },
+ {
+  "task_id": "11391",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Signal or instruct other workers to weigh, move, or check products."
+ },
+ {
+  "task_id": "11393",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Store samples of finished products in labeled cartons and record their location."
+ },
+ {
+  "task_id": "11394",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Remove from stock products or loads not meeting quality standards, and notify supervisors or appropriate departments of discrepancies or shortages."
+ },
+ {
+  "task_id": "11395",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Maintain, monitor, and clean work areas, such as recycling collection sites, drop boxes, counters and windows, and areas around scale houses."
+ },
+ {
+  "task_id": "11397",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Examine products or materials, parts, subassemblies, and packaging for damage, defects, or shortages, using specification sheets, gauges, and standards charts."
+ },
+ {
+  "task_id": "11398",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Transport materials, products, or samples to processing, shipping, or storage areas, manually or using conveyors, pumps, or hand trucks."
+ },
+ {
+  "task_id": "11400",
+  "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+  "task_text": "Inspect products and examination records to determine the number of defects per worker and the reasons for examiners' rejections."
+ },
+ {
+  "task_id": "11401",
+  "occupation": "Data Entry Keyers",
+  "task_text": "Read source documents such as canceled checks, sales reports, or bills, and enter data in specific data fields or onto tapes or disks for subsequent entry, using keyboards or scanners."
+ },
+ {
+  "task_id": "11402",
+  "occupation": "Data Entry Keyers",
+  "task_text": "Compile, sort, and verify the accuracy of data before it is entered."
+ },
+ {
+  "task_id": "11403",
+  "occupation": "Data Entry Keyers",
+  "task_text": "Compare data with source documents, or re-enter data in verification format to detect errors."
+ },
+ {
+  "task_id": "11404",
+  "occupation": "Data Entry Keyers",
+  "task_text": "Store completed documents in appropriate locations."
+ },
+ {
+  "task_id": "11405",
+  "occupation": "Data Entry Keyers",
+  "task_text": "Locate and correct data entry errors, or report them to supervisors."
+ },
+ {
+  "task_id": "11406",
+  "occupation": "Data Entry Keyers",
+  "task_text": "Maintain logs of activities and completed work."
+ },
+ {
+  "task_id": "11407",
+  "occupation": "Data Entry Keyers",
+  "task_text": "Select materials needed to complete work assignments."
+ },
+ {
+  "task_id": "11408",
+  "occupation": "Data Entry Keyers",
+  "task_text": "Load machines with required input or output media, such as paper, cards, disks, tape, or Braille media."
+ },
+ {
+  "task_id": "11409",
+  "occupation": "Data Entry Keyers",
+  "task_text": "Resolve garbled or indecipherable messages, using cryptographic procedures and equipment."
+ },
+ {
+  "task_id": "12865",
+  "occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
+  "task_text": "Collect fees, commissions, or other payments, according to contract terms."
+ },
+ {
+  "task_id": "12866",
+  "occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
+  "task_text": "Confer with clients to develop strategies for their careers, and to explain actions taken on their behalf."
+ },
+ {
+  "task_id": "12867",
+  "occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
+  "task_text": "Develop contacts with individuals and organizations, and apply effective strategies and techniques to ensure their clients' success."
+ },
+ {
+  "task_id": "12868",
+  "occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
+  "task_text": "Schedule promotional or performance engagements for clients."
+ },
+ {
+  "task_id": "12869",
+  "occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
+  "task_text": "Negotiate with managers, promoters, union officials, and other persons regarding clients' contractual rights and obligations."
+ },
+ {
+  "task_id": "12870",
+  "occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
+  "task_text": "Keep informed of industry trends and deals."
+ },
+ {
+  "task_id": "12871",
+  "occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
+  "task_text": "Manage business and financial affairs for clients, such as arranging travel and lodging, selling tickets, and directing marketing and advertising activities."
+ },
+ {
+  "task_id": "12872",
+  "occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
+  "task_text": "Conduct auditions or interviews to evaluate potential clients."
+ },
+ {
+  "task_id": "12873",
+  "occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
+  "task_text": "Arrange meetings concerning issues involving their clients."
+ },
+ {
+  "task_id": "12874",
+  "occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
+  "task_text": "Prepare periodic accounting statements for clients."
+ },
+ {
+  "task_id": "12875",
+  "occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
+  "task_text": "Advise clients on financial and legal matters, such as investments and taxes."
+ },
+ {
+  "task_id": "12876",
+  "occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
+  "task_text": "Obtain information about or inspect performance facilities, equipment, and accommodations to ensure that they meet specifications."
+ },
+ {
+  "task_id": "12877",
+  "occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
+  "task_text": "Hire trainers or coaches to advise clients on performance matters, such as training techniques or performance presentations."
+ },
+ {
+  "task_id": "12878",
+  "occupation": "Buyers and Purchasing Agents, Farm Products",
+  "task_text": "Purchase, for further processing or for resale, farm products, such as milk, grains, or Christmas trees."
+ },
+ {
+  "task_id": "12879",
+  "occupation": "Buyers and Purchasing Agents, Farm Products",
+  "task_text": "Negotiate contracts with farmers for the production or purchase of farm products."
+ },
+ {
+  "task_id": "12880",
+  "occupation": "Buyers and Purchasing Agents, Farm Products",
+  "task_text": "Arrange for processing or resale of purchased products."
+ },
+ {
+  "task_id": "12881",
+  "occupation": "Buyers and Purchasing Agents, Farm Products",
+  "task_text": "Arrange for transportation or storage of purchased products."
+ },
+ {
+  "task_id": "12882",
+  "occupation": "Buyers and Purchasing Agents, Farm Products",
+  "task_text": "Review orders to determine product types and quantities required to meet demand."
+ },
+ {
+  "task_id": "12883",
+  "occupation": "Buyers and Purchasing Agents, Farm Products",
+  "task_text": "Maintain records of business transactions and product inventories, reporting data to companies or government agencies as necessary."
+ },
+ {
+  "task_id": "12884",
+  "occupation": "Buyers and Purchasing Agents, Farm Products",
+  "task_text": "Examine or test crops or products to estimate their value, determine their grade, or locate any evidence of disease or insect damage."
+ },
+ {
+  "task_id": "12885",
+  "occupation": "Buyers and Purchasing Agents, Farm Products",
+  "task_text": "Coordinate or direct activities of workers engaged in cutting, transporting, storing, or milling products and maintaining records."
+ },
+ {
+  "task_id": "12886",
+  "occupation": "Buyers and Purchasing Agents, Farm Products",
+  "task_text": "Calculate applicable government grain quotas."
+ },
+ {
+  "task_id": "12887",
+  "occupation": "Buyers and Purchasing Agents, Farm Products",
+  "task_text": "Sell supplies, such as seed, feed, fertilizers, or insecticides, arranging for loans or financing as necessary."
+ },
+ {
+  "task_id": "12888",
+  "occupation": "Buyers and Purchasing Agents, Farm Products",
+  "task_text": "Estimate land production possibilities, surveying property and studying factors such as crop rotation history, soil fertility, or irrigation facilities."
+ },
+ {
+  "task_id": "12889",
+  "occupation": "Buyers and Purchasing Agents, Farm Products",
+  "task_text": "Advise farm groups or growers on land preparation or livestock care techniques that will maximize the quantity and quality of production."
+ },
+ {
+  "task_id": "12890",
+  "occupation": "Government Property Inspectors and Investigators",
+  "task_text": "Prepare correspondence, reports of inspections or investigations, or recommendations for action."
+ },
+ {
+  "task_id": "12891",
+  "occupation": "Government Property Inspectors and Investigators",
+  "task_text": "Examine records, reports, or other documents to establish facts or detect discrepancies."
+ },
+ {
+  "task_id": "12892",
+  "occupation": "Government Property Inspectors and Investigators",
+  "task_text": "Monitor investigations of suspected offenders to ensure that they are conducted in accordance with constitutional requirements."
+ },
+ {
+  "task_id": "12893",
+  "occupation": "Government Property Inspectors and Investigators",
+  "task_text": "Collect, identify, evaluate, or preserve case evidence."
+ },
+ {
+  "task_id": "12894",
+  "occupation": "Government Property Inspectors and Investigators",
+  "task_text": "Inspect manufactured or processed products to ensure compliance with contract specifications or legal requirements."
+ },
+ {
+  "task_id": "12895",
+  "occupation": "Government Property Inspectors and Investigators",
+  "task_text": "Coordinate with or assist law enforcement agencies in matters of mutual concern."
+ },
+ {
+  "task_id": "12896",
+  "occupation": "Government Property Inspectors and Investigators",
+  "task_text": "Testify in court or at administrative proceedings concerning investigation findings."
+ },
+ {
+  "task_id": "12898",
+  "occupation": "Government Property Inspectors and Investigators",
+  "task_text": "Inspect government-owned equipment or materials in the possession of private contractors to ensure compliance with contracts or regulations or to prevent misuse."
+ },
+ {
+  "task_id": "12899",
+  "occupation": "Government Property Inspectors and Investigators",
+  "task_text": "Recommend legal or administrative action to protect government property."
+ },
+ {
+  "task_id": "12900",
+  "occupation": "Government Property Inspectors and Investigators",
+  "task_text": "Submit samples of products to government laboratories for testing, as required."
+ },
+ {
+  "task_id": "12904",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Analyze financial information obtained from clients to determine strategies for meeting clients' financial objectives."
+ },
+ {
+  "task_id": "12905",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Answer clients' questions about the purposes and details of financial plans and strategies."
+ },
+ {
+  "task_id": "12907",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Interview clients to determine their current income, expenses, insurance coverage, tax status, financial objectives, risk tolerance, or other information needed to develop a financial plan."
+ },
+ {
+  "task_id": "12909",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Implement financial planning recommendations, or refer clients to someone who can assist them with plan implementation."
+ },
+ {
+  "task_id": "12913",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Prepare or interpret for clients information, such as investment performance reports, financial document summaries, or income projections."
+ },
+ {
+  "task_id": "12914",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Guide clients in the gathering of information, such as bank account records, income tax returns, life and disability insurance records, pension plans, or wills."
+ },
+ {
+  "task_id": "12915",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Contact clients periodically to determine any changes in their financial status."
+ }
+]

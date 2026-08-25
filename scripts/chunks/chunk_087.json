@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "23912",
+  "occupation": "Umpires, Referees, and Other Sports Officials",
+  "task_text": "Inspect game sites for compliance with regulations or safety requirements."
+ },
+ {
+  "task_id": "3915",
+  "occupation": "Umpires, Referees, and Other Sports Officials",
+  "task_text": "Resolve claims of rule infractions or complaints by participants and assess any necessary penalties, according to regulations."
+ },
+ {
+  "task_id": "3911",
+  "occupation": "Umpires, Referees, and Other Sports Officials",
+  "task_text": "Signal participants or other officials to make them aware of infractions or to otherwise regulate play or competition."
+ },
+ {
+  "task_id": "3920",
+  "occupation": "Umpires, Referees, and Other Sports Officials",
+  "task_text": "Teach and explain the rules and regulations governing a specific sport."
+ },
+ {
+  "task_id": "3912",
+  "occupation": "Umpires, Referees, and Other Sports Officials",
+  "task_text": "Inspect sporting equipment or examine participants to ensure compliance with event and safety regulations."
+ },
+ {
+  "task_id": "3918",
+  "occupation": "Umpires, Referees, and Other Sports Officials",
+  "task_text": "Report to regulating organizations regarding sporting activities, complaints made, and actions taken or needed, such as fines or other disciplinary actions."
+ },
+ {
+  "task_id": "3919",
+  "occupation": "Umpires, Referees, and Other Sports Officials",
+  "task_text": "Confer with other sporting officials, coaches, players, and facility managers to provide information, coordinate activities, and discuss problems."
+ },
+ {
+  "task_id": "3910",
+  "occupation": "Umpires, Referees, and Other Sports Officials",
+  "task_text": "Judge performances in sporting competitions to award points, impose scoring penalties, and determine results."
+ },
+ {
+  "task_id": "3916",
+  "occupation": "Umpires, Referees, and Other Sports Officials",
+  "task_text": "Verify scoring calculations before competition winners are announced."
+ },
+ {
+  "task_id": "3914",
+  "occupation": "Umpires, Referees, and Other Sports Officials",
+  "task_text": "Start races and competitions."
+ },
+ {
+  "task_id": "3923",
+  "occupation": "Umpires, Referees, and Other Sports Officials",
+  "task_text": "Compile scores and other athletic records."
+ },
+ {
+  "task_id": "3922",
+  "occupation": "Umpires, Referees, and Other Sports Officials",
+  "task_text": "Verify credentials of participants in sporting events, and make other qualifying determinations, such as starting order or handicap number."
+ },
+ {
+  "task_id": "3913",
+  "occupation": "Umpires, Referees, and Other Sports Officials",
+  "task_text": "Keep track of event times, including race times and elapsed time during game segments, starting or stopping play when necessary."
+ },
+ {
+  "task_id": "3917",
+  "occupation": "Umpires, Referees, and Other Sports Officials",
+  "task_text": "Direct participants to assigned areas, such as starting blocks or penalty areas."
+ },
+ {
+  "task_id": "3921",
+  "occupation": "Umpires, Referees, and Other Sports Officials",
+  "task_text": "Research and study players and teams to anticipate issues that might arise in future engagements."
+ },
+ {
+  "task_id": "7686",
+  "occupation": "Dancers",
+  "task_text": "Study and practice dance moves required in roles."
+ },
+ {
+  "task_id": "7687",
+  "occupation": "Dancers",
+  "task_text": "Harmonize body movements to rhythm of musical accompaniment."
+ },
+ {
+  "task_id": "7685",
+  "occupation": "Dancers",
+  "task_text": "Train, exercise, and attend dance classes to maintain high levels of technical proficiency, physical ability, and physical fitness."
+ },
+ {
+  "task_id": "7690",
+  "occupation": "Dancers",
+  "task_text": "Coordinate dancing with that of partners or dance ensembles."
+ },
+ {
+  "task_id": "7693",
+  "occupation": "Dancers",
+  "task_text": "Develop self-understanding of physical capabilities and limitations, and choose dance styles accordingly."
+ },
+ {
+  "task_id": "7688",
+  "occupation": "Dancers",
+  "task_text": "Perform classical, modern, or acrobatic dances in productions, expressing stories, rhythm, and sound with their bodies."
+ },
+ {
+  "task_id": "7689",
+  "occupation": "Dancers",
+  "task_text": "Collaborate with choreographers to refine or modify dance steps."
+ },
+ {
+  "task_id": "7692",
+  "occupation": "Dancers",
+  "task_text": "Audition for dance roles or for membership in dance companies."
+ },
+ {
+  "task_id": "7691",
+  "occupation": "Dancers",
+  "task_text": "Attend costume fittings, photography sessions, and makeup calls associated with dance performances."
+ },
+ {
+  "task_id": "7694",
+  "occupation": "Dancers",
+  "task_text": "Monitor the field of dance to remain aware of current trends and innovations."
+ },
+ {
+  "task_id": "21141",
+  "occupation": "Dancers",
+  "task_text": "Prepare pointe shoes, by sewing or other means, for use in rehearsals and performance."
+ },
+ {
+  "task_id": "7697",
+  "occupation": "Dancers",
+  "task_text": "Perform in productions, singing or acting in addition to dancing, if required."
+ },
+ {
+  "task_id": "7695",
+  "occupation": "Dancers",
+  "task_text": "Teach dance students."
+ },
+ {
+  "task_id": "7696",
+  "occupation": "Dancers",
+  "task_text": "Devise and choreograph dance for self or others."
+ },
+ {
+  "task_id": "11028",
+  "occupation": "Choreographers",
+  "task_text": "Direct rehearsals to instruct dancers in dance steps and in techniques to achieve desired effects."
+ },
+ {
+  "task_id": "11032",
+  "occupation": "Choreographers",
+  "task_text": "Advise dancers on standing and moving properly, teaching correct dance techniques to help prevent injuries."
+ },
+ {
+  "task_id": "11038",
+  "occupation": "Choreographers",
+  "task_text": "Teach students, dancers, and other performers about rhythm and interpretive movement."
+ },
+ {
+  "task_id": "11043",
+  "occupation": "Choreographers",
+  "task_text": "Record dance movements and their technical aspects, using a technical understanding of the patterns and formations of choreography."
+ },
+ {
+  "task_id": "11035",
+  "occupation": "Choreographers",
+  "task_text": "Direct and stage dance presentations for various forms of entertainment."
+ },
+ {
+  "task_id": "11031",
+  "occupation": "Choreographers",
+  "task_text": "Choose the music, sound effects, or spoken narrative to accompany a dance."
+ },
+ {
+  "task_id": "11040",
+  "occupation": "Choreographers",
+  "task_text": "Experiment with different types of dancers, steps, dances, and placements, testing ideas informally to get feedback from dancers."
+ },
+ {
+  "task_id": "11041",
+  "occupation": "Choreographers",
+  "task_text": "Seek influences from other art forms, such as theatre, the visual arts, and architecture."
+ },
+ {
+  "task_id": "11036",
+  "occupation": "Choreographers",
+  "task_text": "Develop ideas for creating dances, keeping notes and sketches to record influences."
+ },
+ {
+  "task_id": "11033",
+  "occupation": "Choreographers",
+  "task_text": "Coordinate production music with music directors."
+ },
+ {
+  "task_id": "11030",
+  "occupation": "Choreographers",
+  "task_text": "Design dances for individual dancers, dance companies, musical theatre, opera, fashion shows, film, television productions, and special events, and for dancers ranging from beginners to professionals."
+ },
+ {
+  "task_id": "11034",
+  "occupation": "Choreographers",
+  "task_text": "Audition performers for one or more dance parts."
+ },
+ {
+  "task_id": "11039",
+  "occupation": "Choreographers",
+  "task_text": "Assess students' dancing abilities to determine where improvement or change is needed."
+ },
+ {
+  "task_id": "11042",
+  "occupation": "Choreographers",
+  "task_text": "Design sets, lighting, costumes, and other artistic elements of productions, in collaboration with cast members."
+ },
+ {
+  "task_id": "11037",
+  "occupation": "Choreographers",
+  "task_text": "Train, exercise, and attend dance classes to maintain high levels of technical proficiency, physical ability, and physical fitness."
+ },
+ {
+  "task_id": "11029",
+  "occupation": "Choreographers",
+  "task_text": "Read and study story lines and musical scores to determine how to translate ideas and moods into dance movements."
+ },
+ {
+  "task_id": "11045",
+  "occupation": "Choreographers",
+  "task_text": "Manage dance schools, or assist in their management."
+ },
+ {
+  "task_id": "11044",
+  "occupation": "Choreographers",
+  "task_text": "Restage traditional dances and works in dance companies' repertoires, developing new interpretations."
+ },
+ {
+  "task_id": "22544",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Use gestures to shape the music being played, communicating desired tempo, phrasing, tone, color, pitch, volume, and other performance aspects."
+ },
+ {
+  "task_id": "22545",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Direct groups at rehearsals and live or recorded performances to achieve desired effects such as tonal and harmonic balance dynamics, rhythm, and tempo."
+ },
+ {
+  "task_id": "22546",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Study scores to learn the music in detail, and to develop interpretations."
+ },
+ {
+  "task_id": "22547",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Apply elements of music theory to create musical and tonal structures, including harmonies and melodies."
+ },
+ {
+  "task_id": "22548",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Consider such factors as ensemble size and abilities, availability of scores, and the need for musical variety, to select music to be performed."
+ },
+ {
+  "task_id": "22549",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Determine voices, instruments, harmonic structures, rhythms, tempos, and tone balances required to achieve the effects desired in a musical composition."
+ },
+ {
+  "task_id": "22550",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Experiment with different sounds, and types and pieces of music, using synthesizers and computers as necessary to test and evaluate ideas."
+ },
+ {
+  "task_id": "22551",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Transcribe ideas for musical compositions into musical notation, using instruments, pen and paper, or computers."
+ },
+ {
+  "task_id": "22552",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Audition and select performers for musical presentations."
+ },
+ {
+  "task_id": "22553",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Plan and schedule rehearsals and performances, and arrange details such as locations, accompanists, and instrumentalists."
+ },
+ {
+  "task_id": "22554",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Write musical scores for orchestras, bands, choral groups, or individual instrumentalists or vocalists, using knowledge of music theory and of instrumental and vocal capabilities."
+ },
+ {
+  "task_id": "22555",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Position members within groups to obtain balance among instrumental or vocal sections."
+ },
+ {
+  "task_id": "22556",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Perform administrative tasks such as applying for grants, developing budgets, negotiating contracts, and designing and printing programs and other promotional materials."
+ },
+ {
+  "task_id": "22557",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Confer with producers and directors to define the nature and placement of film or television music."
+ },
+ {
+  "task_id": "22558",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Meet with soloists and concertmasters to discuss and prepare for performances."
+ },
+ {
+  "task_id": "22559",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Fill in details of orchestral sketches, such as adding vocal parts to scores."
+ },
+ {
+  "task_id": "22560",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Explore and develop musical ideas based on sources such as imagination or sounds in the environment."
+ },
+ {
+  "task_id": "22561",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Write music for commercial mediums, including advertising jingles or film soundtracks."
+ },
+ {
+  "task_id": "22562",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Transpose music from one voice or instrument to another to accommodate particular musicians."
+ },
+ {
+  "task_id": "22563",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Rewrite original musical scores in different musical styles by changing rhythms, harmonies, or tempos."
+ },
+ {
+  "task_id": "22564",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Arrange music composed by others, changing the music to achieve desired effects."
+ },
+ {
+  "task_id": "22565",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Assign and review staff work in such areas as scoring, arranging, and copying music, and vocal coaching."
+ },
+ {
+  "task_id": "22566",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Study films or scripts to determine how musical scores can be used to create desired effects or moods."
+ },
+ {
+  "task_id": "22567",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Transcribe musical compositions and melodic lines to adapt them to a particular group, or to create a particular musical style."
+ },
+ {
+  "task_id": "22568",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Create original musical forms, or write within circumscribed musical forms such as sonatas, symphonies, or operas."
+ },
+ {
+  "task_id": "22569",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Collaborate with other colleagues, such as copyists, to complete final scores."
+ },
+ {
+  "task_id": "22570",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Copy parts from scores for individual performers."
+ },
+ {
+  "task_id": "22571",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Coordinate and organize tours, or hire touring companies to arrange concert dates, venues, accommodations, and transportation for longer tours."
+ },
+ {
+  "task_id": "22572",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Produce recordings of music."
+ },
+ {
+  "task_id": "22573",
+  "occupation": "Music Directors and Composers",
+  "task_text": "Stay abreast of the latest trends in music and music technology."
+ },
+ {
+  "task_id": "22574",
+  "occupation": "Musicians and Singers",
+  "task_text": "Perform before live audiences in concerts, recitals, educational presentations, and other social gatherings."
+ },
+ {
+  "task_id": "22575",
+  "occupation": "Musicians and Singers",
+  "task_text": "Sing a cappella or with musical accompaniment."
+ },
+ {
+  "task_id": "22576",
+  "occupation": "Musicians and Singers",
+  "task_text": "Interpret or modify music, applying knowledge of harmony, melody, rhythm, and voice production to individualize presentations and maintain audience interest."
+ },
+ {
+  "task_id": "22577",
+  "occupation": "Musicians and Singers",
+  "task_text": "Specialize in playing a specific family of instruments or a particular type of music."
+ },
+ {
+  "task_id": "22578",
+  "occupation": "Musicians and Singers",
+  "task_text": "Sing as a soloist or as a member of a vocal group."
+ },
+ {
+  "task_id": "22579",
+  "occupation": "Musicians and Singers",
+  "task_text": "Observe choral leaders or prompters for cues or directions in vocal presentation."
+ },
+ {
+  "task_id": "22580",
+  "occupation": "Musicians and Singers",
+  "task_text": "Memorize musical selections and routines, or sing following printed text, musical notation, or customer instructions."
+ },
+ {
+  "task_id": "22581",
+  "occupation": "Musicians and Singers",
+  "task_text": "Play musical instruments as soloists, or as members or guest artists of musical groups such as orchestras, ensembles, or bands."
+ },
+ {
+  "task_id": "22582",
+  "occupation": "Musicians and Singers",
+  "task_text": "Sight-read musical parts during rehearsals."
+ },
+ {
+  "task_id": "22583",
+  "occupation": "Musicians and Singers",
+  "task_text": "Play from memory or by following scores."
+ },
+ {
+  "task_id": "22584",
+  "occupation": "Musicians and Singers",
+  "task_text": "Practice singing exercises and study with vocal coaches to develop voice and skills and to rehearse for upcoming roles."
+ },
+ {
+  "task_id": "22585",
+  "occupation": "Musicians and Singers",
+  "task_text": "Listen to recordings to master pieces or to maintain and improve skills."
+ },
+ {
+  "task_id": "22586",
+  "occupation": "Musicians and Singers",
+  "task_text": "Teach music for specific instruments."
+ },
+ {
+  "task_id": "22587",
+  "occupation": "Musicians and Singers",
+  "task_text": "Provide the musical background for live shows, such as ballets, operas, musical theatre, and cabarets."
+ },
+ {
+  "task_id": "22588",
+  "occupation": "Musicians and Singers",
+  "task_text": "Audition for orchestras, bands, or other musical groups."
+ },
+ {
+  "task_id": "22589",
+  "occupation": "Musicians and Singers",
+  "task_text": "Seek out and learn new music suitable for live performance or recording."
+ },
+ {
+  "task_id": "22590",
+  "occupation": "Musicians and Singers",
+  "task_text": "Make or participate in recordings in music studios."
+ },
+ {
+  "task_id": "22591",
+  "occupation": "Musicians and Singers",
+  "task_text": "Promote their own or their group's music by participating in media interviews and other activities."
+ },
+ {
+  "task_id": "22592",
+  "occupation": "Musicians and Singers",
+  "task_text": "Make or participate in recordings."
+ },
+ {
+  "task_id": "22593",
+  "occupation": "Musicians and Singers",
+  "task_text": "Research particular roles to find out more about a character, or the time and place in which a piece is set."
+ },
+ {
+  "task_id": "22594",
+  "occupation": "Musicians and Singers",
+  "task_text": "Learn acting, dancing, and other skills required for dramatic singing roles."
+ },
+ {
+  "task_id": "22595",
+  "occupation": "Musicians and Singers",
+  "task_text": "Transpose music to alternate keys, or to fit individual styles or purposes."
+ },
+ {
+  "task_id": "22596",
+  "occupation": "Musicians and Singers",
+  "task_text": "Direct bands or orchestras."
+ },
+ {
+  "task_id": "22597",
+  "occupation": "Musicians and Singers",
+  "task_text": "Compose songs or create vocal arrangements."
+ },
+ {
+  "task_id": "22598",
+  "occupation": "Musicians and Singers",
+  "task_text": "Arrange and edit music to fit style and purpose."
+ },
+ {
+  "task_id": "22599",
+  "occupation": "Musicians and Singers",
+  "task_text": "Improvise music during performances."
+ },
+ {
+  "task_id": "22600",
+  "occupation": "Musicians and Singers",
+  "task_text": "Collaborate with a manager or agent who handles administrative details, finds work, and negotiates contracts."
+ },
+ {
+  "task_id": "22602",
+  "occupation": "Musicians and Singers",
+  "task_text": "Perform in television, radio, or movie productions."
+ },
+ {
+  "task_id": "22603",
+  "occupation": "Musicians and Singers",
+  "task_text": "Practice performances, individually or in rehearsal with other musicians, to master individual pieces of music or to maintain and improve skills."
+ },
+ {
+  "task_id": "22604",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Accept music requests from event guests."
+ },
+ {
+  "task_id": "22605",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Adhere to schedules to keep events running on time."
+ },
+ {
+  "task_id": "22606",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Advertise services using media such as internet advertising and brochures."
+ },
+ {
+  "task_id": "22607",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Assemble audio and video equipment."
+ },
+ {
+  "task_id": "22608",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Collect payments from customers."
+ },
+ {
+  "task_id": "22609",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Communicate with clients or venue owners to determine event information, such as music preferences, scheduling, and anticipated attendance."
+ },
+ {
+  "task_id": "22610",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Conduct sound checks to ensure equipment is working and appropriate for the venue."
+ },
+ {
+  "task_id": "22611",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Create itemized invoices to record amounts due for services rendered."
+ },
+ {
+  "task_id": "22612",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Create tailored playlists by aligning music with event functions."
+ },
+ {
+  "task_id": "22613",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Develop written contracts for bookings."
+ },
+ {
+  "task_id": "22614",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Encourage guests to dance using group dances, competitions, or other party games."
+ },
+ {
+  "task_id": "22615",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Lead party games, such as dance-offs or prize giveaways."
+ },
+ {
+  "task_id": "22616",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Listen to music before playing at events to ensure recordings are appropriate and meet quality standards."
+ },
+ {
+  "task_id": "22617",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Maintain up-to-date knowledge of music releases and trends."
+ },
+ {
+  "task_id": "22618",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Mix, cut, or sample recorded music using DJ controllers, CDJs, or DJ mixers."
+ },
+ {
+  "task_id": "22619",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Operate disc jockey controller and other equipment, such as microphones."
+ },
+ {
+  "task_id": "22620",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Operate visual effects equipment, such as lights, fog machines, or lasers."
+ },
+ {
+  "task_id": "22621",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Organize music libraries or playlists."
+ },
+ {
+  "task_id": "22622",
+  "occupation": "Disc Jockeys, Except Radio",
+  "task_text": "Select and play music incorporating crowd preferences and mood."
+ },
+ {
+  "task_id": "3925",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Read news flashes to inform audiences of important events."
+ },
+ {
+  "task_id": "3935",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Announce musical selections, station breaks, commercials, or public service information, and accept requests from listening audience."
+ },
+ {
+  "task_id": "3934",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Operate control consoles."
+ },
+ {
+  "task_id": "20887",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Identify stations, and introduce or close shows, ad-libbing or using memorized or read scripts."
+ },
+ {
+  "task_id": "3928",
+  "occupation": "Broadcast Announcers and Radio Disc Jockeys",
+  "task_text": "Study background information to prepare for programs or interviews."
+ }
+]

@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "22792",
+  "occupation": "Histotechnologists",
+  "task_text": "Supervise histology laboratory activities."
+ },
+ {
+  "task_id": "22793",
+  "occupation": "Histotechnologists",
+  "task_text": "Teach students or other staff."
+ },
+ {
+  "task_id": "22794",
+  "occupation": "Histology Technicians",
+  "task_text": "Archive diagnostic material, such as histologic slides and blocks."
+ },
+ {
+  "task_id": "22795",
+  "occupation": "Histology Technicians",
+  "task_text": "Cut sections of body tissues for microscopic examination, using microtomes."
+ },
+ {
+  "task_id": "22796",
+  "occupation": "Histology Technicians",
+  "task_text": "Embed tissue specimens into paraffin wax blocks, or infiltrate tissue specimens with wax."
+ },
+ {
+  "task_id": "22797",
+  "occupation": "Histology Technicians",
+  "task_text": "Freeze tissue specimens."
+ },
+ {
+  "task_id": "22798",
+  "occupation": "Histology Technicians",
+  "task_text": "Maintain laboratory equipment, such as microscopes, mass spectrometers, microtomes, immunostainers, tissue processors, embedding centers, and water baths."
+ },
+ {
+  "task_id": "22799",
+  "occupation": "Histology Technicians",
+  "task_text": "Mount tissue specimens on glass slides."
+ },
+ {
+  "task_id": "22800",
+  "occupation": "Histology Technicians",
+  "task_text": "Operate computerized laboratory equipment to dehydrate, decalcify, or microincinerate tissue samples."
+ },
+ {
+  "task_id": "22801",
+  "occupation": "Histology Technicians",
+  "task_text": "Stain tissue specimens with dyes or other chemicals to make cell details visible under microscopes."
+ },
+ {
+  "task_id": "22802",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Review and evaluate developed x-rays, video tape, or computer-generated information to determine if images are satisfactory for diagnostic purposes."
+ },
+ {
+  "task_id": "22803",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Operate or oversee operation of radiologic or magnetic imaging equipment to produce images of the body for diagnostic purposes."
+ },
+ {
+  "task_id": "22804",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Position patient on examining table and set up and adjust equipment to obtain optimum view of specific body area as requested by physician."
+ },
+ {
+  "task_id": "22805",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Process exposed radiographs using film processors or computer generated methods."
+ },
+ {
+  "task_id": "22806",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Use radiation safety measures and protection devices to comply with government regulations and to ensure safety of patients and staff."
+ },
+ {
+  "task_id": "22807",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Position imaging equipment and adjust controls to set exposure time and distance, according to specification of examination."
+ },
+ {
+  "task_id": "22808",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Explain procedures and observe patients to ensure safety and comfort during scan."
+ },
+ {
+  "task_id": "22809",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Determine patients' x-ray needs by reading requests or instructions from physicians."
+ },
+ {
+  "task_id": "22810",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Key commands and data into computer to document and specify scan sequences, adjust transmitters and receivers, or photograph certain images."
+ },
+ {
+  "task_id": "22811",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Take thorough and accurate patient medical histories."
+ },
+ {
+  "task_id": "22812",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Make exposures necessary for the requested procedures, rejecting and repeating work that does not meet established standards."
+ },
+ {
+  "task_id": "22813",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Set up examination rooms, ensuring that all necessary equipment is ready."
+ },
+ {
+  "task_id": "22814",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Operate digital picture archiving communications systems."
+ },
+ {
+  "task_id": "22815",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Transport patients to or from exam rooms."
+ },
+ {
+  "task_id": "22816",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Monitor patients' conditions and reactions, reporting abnormal signs to physician."
+ },
+ {
+  "task_id": "22817",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Provide assistance to physicians or other technologists in the performance of more complex procedures."
+ },
+ {
+  "task_id": "22818",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Operate mobile x-ray equipment in operating room, emergency room, or at patient's bedside."
+ },
+ {
+  "task_id": "22819",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Record, process, and maintain patient data or treatment records and prepare reports."
+ },
+ {
+  "task_id": "22820",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Perform procedures, such as linear tomography, mammography, sonograms, joint and cyst aspirations, routine contrast studies, routine fluoroscopy, or examinations of the head, trunk, or extremities und"
+ },
+ {
+  "task_id": "22821",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Provide assistance in dressing or changing seriously ill or injured patients or patients with disabilities."
+ },
+ {
+  "task_id": "22822",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Complete quality control activities, monitor equipment operation, and report malfunctioning equipment to supervisor."
+ },
+ {
+  "task_id": "22823",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Maintain a current file of examination protocols."
+ },
+ {
+  "task_id": "22824",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Perform general administrative tasks, such as answering phones, scheduling patient appointments, or pulling and filing films."
+ },
+ {
+  "task_id": "22825",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Assist with on-the-job training of new employees or students or provide input to supervisors regarding training performance."
+ },
+ {
+  "task_id": "22826",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Prepare contrast material, radiopharmaceuticals, or anesthetic or antispasmodic drugs under the direction of a radiologist."
+ },
+ {
+  "task_id": "22827",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Operate fluoroscope to aid physician to view and guide wire or catheter through blood vessels to area of interest."
+ },
+ {
+  "task_id": "22828",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Assign duties to radiologic staff to maintain patient flows and achieve production goals."
+ },
+ {
+  "task_id": "22829",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Coordinate work with clerical personnel or other technologists and technicians."
+ },
+ {
+  "task_id": "22830",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Perform supervisory duties, such as developing departmental operating budget, coordinating purchases of supplies or equipment, or preparing work schedules."
+ },
+ {
+  "task_id": "22831",
+  "occupation": "Radiologic Technologists and Technicians",
+  "task_text": "Provide students or other technicians and technologists with suggestions of additional views, alternate positioning, or improved techniques to ensure the images produced are of the highest quality."
+ },
+ {
+  "task_id": "22832",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Advise oncology team members on use of beam modifying or immobilization devices in radiation treatment plans."
+ },
+ {
+  "task_id": "22833",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Calculate, or verify calculations of, prescribed radiation doses."
+ },
+ {
+  "task_id": "22834",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Calculate the delivery of radiation treatment, such as the amount or extent of radiation per session, based on the prescribed course of radiation therapy."
+ },
+ {
+  "task_id": "22835",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Conduct radiation oncology-related research, such as improving computer treatment planning systems or developing new treatment devices."
+ },
+ {
+  "task_id": "22836",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Create and transfer reference images and localization markers for treatment delivery, using image-guided radiation therapy."
+ },
+ {
+  "task_id": "22837",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Design the arrangement of radiation fields to reduce exposure to critical patient structures, such as organs, using computers, manuals, and guides."
+ },
+ {
+  "task_id": "22838",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Develop radiation treatment plans in consultation with members of the radiation oncology team."
+ },
+ {
+  "task_id": "22839",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Develop requirements for the use of patient immobilization devices and positioning aides, such as molds or casts, as part of treatment plans to ensure accurate delivery of radiation and comfort of pat"
+ },
+ {
+  "task_id": "22840",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Develop treatment plans, and calculate doses for brachytherapy procedures."
+ },
+ {
+  "task_id": "22841",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Educate patients regarding treatment plans, physiological reactions to treatment, or post-treatment care."
+ },
+ {
+  "task_id": "22842",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Fabricate beam modifying devices, such as compensators, shields, and wedge filters."
+ },
+ {
+  "task_id": "22843",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Fabricate patient immobilization devices, such as molds or casts, for radiation delivery."
+ },
+ {
+  "task_id": "22844",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Identify and outline bodily structures, using imaging procedures, such as x-ray, magnetic resonance imaging, computed tomography, or positron emission tomography."
+ },
+ {
+  "task_id": "22846",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Measure the amount of radioactivity in patients or equipment, using radiation monitoring devices."
+ },
+ {
+  "task_id": "22847",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Perform quality assurance system checks, such as calibrations, on treatment planning computers."
+ },
+ {
+  "task_id": "22848",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Plan the use of beam modifying devices, such as compensators, shields, and wedge filters, to ensure safe and effective delivery of radiation treatment."
+ },
+ {
+  "task_id": "22849",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Record patient information, such as radiation doses administered, in patient records."
+ },
+ {
+  "task_id": "22850",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Supervise or perform simulations for tumor localizations, using imaging methods such as magnetic resonance imaging, computed tomography, or positron emission tomography scans."
+ },
+ {
+  "task_id": "22851",
+  "occupation": "Medical Dosimetrists",
+  "task_text": "Teach medical dosimetry, including its application, to students, radiation therapists, or residents."
+ },
+ {
+  "task_id": "22852",
+  "occupation": "Emergency Medical Technicians",
+  "task_text": "Administer first aid treatment or life support care to sick or injured persons in prehospital settings."
+ },
+ {
+  "task_id": "22853",
+  "occupation": "Emergency Medical Technicians",
+  "task_text": "Assess nature and extent of illness or injury to establish and prioritize medical procedures."
+ },
+ {
+  "task_id": "22854",
+  "occupation": "Emergency Medical Technicians",
+  "task_text": "Attend training classes to maintain certification licensure, keep abreast of new developments in the field, or maintain existing knowledge."
+ },
+ {
+  "task_id": "22855",
+  "occupation": "Emergency Medical Technicians",
+  "task_text": "Comfort and reassure patients."
+ },
+ {
+  "task_id": "22856",
+  "occupation": "Emergency Medical Technicians",
+  "task_text": "Communicate with dispatchers or treatment center personnel to provide information about situation, to arrange reception of survivors, or to receive instructions for further treatment."
+ },
+ {
+  "task_id": "22857",
+  "occupation": "Emergency Medical Technicians",
+  "task_text": "Coordinate work with other emergency medical team members or police or fire department personnel."
+ },
+ {
+  "task_id": "22858",
+  "occupation": "Emergency Medical Technicians",
+  "task_text": "Decontaminate ambulance interior following treatment of patient with infectious disease, and report case to proper authorities."
+ },
+ {
+  "task_id": "22859",
+  "occupation": "Emergency Medical Technicians",
+  "task_text": "Drive mobile intensive care unit to specified location, following instructions from emergency medical dispatcher."
+ },
+ {
+  "task_id": "22860",
+  "occupation": "Emergency Medical Technicians",
+  "task_text": "Immobilize patient for placement on stretcher and ambulance transport, using backboard or other spinal immobilization device."
+ },
+ {
+  "task_id": "22861",
+  "occupation": "Emergency Medical Technicians",
+  "task_text": "Maintain vehicles and medical and communication equipment, and replenish first aid equipment and supplies."
+ },
+ {
+  "task_id": "22862",
+  "occupation": "Emergency Medical Technicians",
+  "task_text": "Observe, record, and report to physician the patient's condition or injury, the treatment provided, and reactions to drugs or treatment."
+ },
+ {
+  "task_id": "22863",
+  "occupation": "Emergency Medical Technicians",
+  "task_text": "Perform emergency diagnostic and treatment procedures, such as stomach suction, airway management, or heart monitoring, during ambulance ride."
+ },
+ {
+  "task_id": "22864",
+  "occupation": "Paramedics",
+  "task_text": "Administer drugs, orally or by injection, or perform intravenous procedures."
+ },
+ {
+  "task_id": "22865",
+  "occupation": "Paramedics",
+  "task_text": "Administer first aid treatment or life support care to sick or injured persons in prehospital settings."
+ },
+ {
+  "task_id": "22866",
+  "occupation": "Paramedics",
+  "task_text": "Assess nature and extent of illness or injury to establish and prioritize medical procedures."
+ },
+ {
+  "task_id": "22867",
+  "occupation": "Paramedics",
+  "task_text": "Attend training classes to maintain certification licensure, keep abreast of new developments in the field, or maintain existing knowledge."
+ },
+ {
+  "task_id": "22868",
+  "occupation": "Paramedics",
+  "task_text": "Comfort and reassure patients."
+ },
+ {
+  "task_id": "22869",
+  "occupation": "Paramedics",
+  "task_text": "Coordinate with treatment center personnel to obtain patients' vital statistics and medical history, to determine the circumstances of the emergency, and to administer emergency treatment."
+ },
+ {
+  "task_id": "22870",
+  "occupation": "Paramedics",
+  "task_text": "Coordinate work with other emergency medical team members or police or fire department personnel."
+ },
+ {
+  "task_id": "22871",
+  "occupation": "Paramedics",
+  "task_text": "Instruct emergency medical response team about emergency interventions to ensure correct application of procedures."
+ },
+ {
+  "task_id": "22872",
+  "occupation": "Paramedics",
+  "task_text": "Observe, record, and report to physician the patient's condition or injury, the treatment provided, and reactions to drugs or treatment."
+ },
+ {
+  "task_id": "22873",
+  "occupation": "Paramedics",
+  "task_text": "Operate equipment, such as electrocardiograms (EKGs), external defibrillators, or bag valve mask resuscitators, in advanced life support environments."
+ },
+ {
+  "task_id": "22874",
+  "occupation": "Paramedics",
+  "task_text": "Perform emergency cardiac care, such as cardioversion and manual defibrillation."
+ },
+ {
+  "task_id": "22875",
+  "occupation": "Paramedics",
+  "task_text": "Perform emergency invasive intervention before delivering patient to an acute care facility."
+ },
+ {
+  "task_id": "22876",
+  "occupation": "Paramedics",
+  "task_text": "Perform emergency pharmacological interventions."
+ },
+ {
+  "task_id": "22877",
+  "occupation": "Medical Records Specialists",
+  "task_text": "Assign the patient to diagnosis-related groups (DRGs), using appropriate computer software."
+ },
+ {
+  "task_id": "22878",
+  "occupation": "Medical Records Specialists",
+  "task_text": "Compile and maintain patients' medical records to document condition and treatment and to provide data for research or cost control and care improvement efforts."
+ },
+ {
+  "task_id": "22879",
+  "occupation": "Medical Records Specialists",
+  "task_text": "Consult classification manuals to locate information about disease processes."
+ },
+ {
+  "task_id": "22880",
+  "occupation": "Medical Records Specialists",
+  "task_text": "Enter data, such as demographic characteristics, history and extent of disease, diagnostic procedures, or treatment into computer."
+ },
+ {
+  "task_id": "22881",
+  "occupation": "Medical Records Specialists",
+  "task_text": "Identify, compile, abstract, and code patient data, using standard classification systems."
+ },
+ {
+  "task_id": "22882",
+  "occupation": "Medical Records Specialists",
+  "task_text": "Maintain or operate a variety of health record indexes or storage and retrieval systems to collect, classify, store, or analyze information."
+ },
+ {
+  "task_id": "22883",
+  "occupation": "Medical Records Specialists",
+  "task_text": "Post medical insurance billings."
+ },
+ {
+  "task_id": "22884",
+  "occupation": "Medical Records Specialists",
+  "task_text": "Process and prepare business or government forms."
+ },
+ {
+  "task_id": "22885",
+  "occupation": "Medical Records Specialists",
+  "task_text": "Process patient admission or discharge documents."
+ },
+ {
+  "task_id": "22886",
+  "occupation": "Medical Records Specialists",
+  "task_text": "Protect the security of medical records to ensure that confidentiality is maintained."
+ },
+ {
+  "task_id": "22887",
+  "occupation": "Medical Records Specialists",
+  "task_text": "Release information to persons or agencies according to regulations."
+ },
+ {
+  "task_id": "22888",
+  "occupation": "Medical Records Specialists",
+  "task_text": "Resolve or clarify codes or diagnoses with conflicting, missing, or unclear information by consulting with doctors or others or by participating in the coding team's regular meetings."
+ },
+ {
+  "task_id": "22889",
+  "occupation": "Medical Records Specialists",
+  "task_text": "Retrieve patient medical records for physicians, technicians, or other medical personnel."
+ },
+ {
+  "task_id": "22890",
+  "occupation": "Medical Records Specialists",
+  "task_text": "Review records for completeness, accuracy, and compliance with regulations."
+ },
+ {
+  "task_id": "22891",
+  "occupation": "Medical Records Specialists",
+  "task_text": "Scan patients' health records into electronic formats."
+ },
+ {
+  "task_id": "22892",
+  "occupation": "Medical Records Specialists",
+  "task_text": "Schedule medical appointments for patients."
+ },
+ {
+  "task_id": "22893",
+  "occupation": "Medical Records Specialists",
+  "task_text": "Transcribe medical reports."
+ },
+ {
+  "task_id": "22894",
+  "occupation": "Health Information Technologists and Medical Registrars",
+  "task_text": "Assign the patient to diagnosis-related groups (DRGs), using appropriate computer software."
+ },
+ {
+  "task_id": "22895",
+  "occupation": "Health Information Technologists and Medical Registrars",
+  "task_text": "Compile medical care and census data for statistical reports on diseases treated, surgery performed, or use of hospital beds."
+ },
+ {
+  "task_id": "22896",
+  "occupation": "Health Information Technologists and Medical Registrars",
+  "task_text": "Design databases to support healthcare applications, ensuring security, performance and reliability."
+ },
+ {
+  "task_id": "22897",
+  "occupation": "Health Information Technologists and Medical Registrars",
+  "task_text": "Develop in-service educational materials."
+ },
+ {
+  "task_id": "22898",
+  "occupation": "Health Information Technologists and Medical Registrars",
+  "task_text": "Evaluate and recommend upgrades or improvements to existing computerized healthcare systems."
+ },
+ {
+  "task_id": "22899",
+  "occupation": "Health Information Technologists and Medical Registrars",
+  "task_text": "Facilitate and promote activities, such as lunches, seminars, or tours, to foster healthcare information privacy or security awareness within the organization."
+ },
+ {
+  "task_id": "22900",
+  "occupation": "Health Information Technologists and Medical Registrars",
+  "task_text": "Identify, compile, abstract, and code patient data, using standard classification systems."
+ },
+ {
+  "task_id": "22901",
+  "occupation": "Health Information Technologists and Medical Registrars",
+  "task_text": "Manage the department or supervise clerical workers, directing or controlling activities of personnel in the medical records department."
+ },
+ {
+  "task_id": "22902",
+  "occupation": "Health Information Technologists and Medical Registrars",
+  "task_text": "Monitor changes in legislation and accreditation standards that affect information security or privacy in the computerized healthcare system."
+ },
+ {
+  "task_id": "22903",
+  "occupation": "Health Information Technologists and Medical Registrars",
+  "task_text": "Plan, develop, maintain, or operate a variety of health record indexes or storage and retrieval systems to collect, classify, store, or analyze information."
+ },
+ {
+  "task_id": "22904",
+  "occupation": "Health Information Technologists and Medical Registrars",
+  "task_text": "Prepare statistical reports, narrative reports, or graphic presentations of information, such as tumor registry data for use by hospital staff, researchers, or other users."
+ },
+ {
+  "task_id": "22905",
+  "occupation": "Health Information Technologists and Medical Registrars",
+  "task_text": "Protect the security of medical records to ensure that confidentiality is maintained."
+ },
+ {
+  "task_id": "22906",
+  "occupation": "Health Information Technologists and Medical Registrars",
+  "task_text": "Resolve or clarify codes or diagnoses with conflicting, missing, or unclear information by consulting with doctors or others or by participating in the coding team's regular meetings."
+ },
+ {
+  "task_id": "22907",
+  "occupation": "Health Information Technologists and Medical Registrars",
+  "task_text": "Retrieve patient medical records for physicians, technicians, or other medical personnel."
+ },
+ {
+  "task_id": "22908",
+  "occupation": "Health Information Technologists and Medical Registrars",
+  "task_text": "Train medical records staff."
+ },
+ {
+  "task_id": "22909",
+  "occupation": "Health Information Technologists and Medical Registrars",
+  "task_text": "Write or maintain archived procedures, procedural codes, or queries for applications."
+ },
+ {
+  "task_id": "23192",
+  "occupation": "Securities, Commodities, and Financial Services Sales Agents",
+  "task_text": "Make bids or offers to buy or sell securities."
+ },
+ {
+  "task_id": "23193",
+  "occupation": "Securities, Commodities, and Financial Services Sales Agents",
+  "task_text": "Monitor markets or positions."
+ },
+ {
+  "task_id": "23194",
+  "occupation": "Securities, Commodities, and Financial Services Sales Agents",
+  "task_text": "Agree on buying or selling prices at optimal levels for clients."
+ },
+ {
+  "task_id": "23195",
+  "occupation": "Securities, Commodities, and Financial Services Sales Agents",
+  "task_text": "Keep accurate records of transactions."
+ },
+ {
+  "task_id": "23196",
+  "occupation": "Securities, Commodities, and Financial Services Sales Agents",
+  "task_text": "Buy or sell stocks, bonds, commodity futures, foreign currencies, or other securities on behalf of investment dealers."
+ },
+ {
+  "task_id": "23197",
+  "occupation": "Securities, Commodities, and Financial Services Sales Agents",
+  "task_text": "Complete sales order tickets and submit for processing of client-requested transactions."
+ },
+ {
+  "task_id": "23198",
+  "occupation": "Securities, Commodities, and Financial Services Sales Agents",
+  "task_text": "Report all positions or trading results."
+ },
+ {
+  "task_id": "23199",
+  "occupation": "Securities, Commodities, and Financial Services Sales Agents",
+  "task_text": "Interview clients to determine clients' assets, liabilities, cash flow, insurance coverage, tax status, or financial objectives."
+ },
+ {
+  "task_id": "23200",
+  "occupation": "Securities, Commodities, and Financial Services Sales Agents",
+  "task_text": "Discuss financial options with clients and keep them informed about transactions."
+ },
+ {
+  "task_id": "23201",
+  "occupation": "Securities, Commodities, and Financial Services Sales Agents",
+  "task_text": "Determine customers' financial services needs and prepare proposals to sell services that address these needs."
+ },
+ {
+  "task_id": "23202",
+  "occupation": "Securities, Commodities, and Financial Services Sales Agents",
+  "task_text": "Sell services or equipment, such as trusts, investments, or check processing services."
+ },
+ {
+  "task_id": "23203",
+  "occupation": "Securities, Commodities, and Financial Services Sales Agents",
+  "task_text": "Identify opportunities or develop channels for purchase or sale of securities or commodities."
+ },
+ {
+  "task_id": "23204",
+  "occupation": "Securities, Commodities, and Financial Services Sales Agents",
+  "task_text": "Develop financial plans, based on analysis of clients' financial status."
+ }
+]

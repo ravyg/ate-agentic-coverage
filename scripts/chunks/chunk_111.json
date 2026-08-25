@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "11598",
+  "occupation": "Hazardous Materials Removal Workers",
+  "task_text": "Operate cranes to move or load baskets, casks, or canisters."
+ },
+ {
+  "task_id": "11586",
+  "occupation": "Hazardous Materials Removal Workers",
+  "task_text": "Drive trucks or other heavy equipment to convey contaminated waste to designated sea or ground locations."
+ },
+ {
+  "task_id": "19870",
+  "occupation": "Hazardous Materials Removal Workers",
+  "task_text": "Identify or separate waste products or materials for recycling or reuse."
+ },
+ {
+  "task_id": "11592",
+  "occupation": "Hazardous Materials Removal Workers",
+  "task_text": "Upload baskets of irradiated elements onto machines that insert fuel elements into canisters and secure lids."
+ },
+ {
+  "task_id": "19871",
+  "occupation": "Hazardous Materials Removal Workers",
+  "task_text": "Process e-waste, such as computer components containing lead or mercury."
+ },
+ {
+  "task_id": "11597",
+  "occupation": "Hazardous Materials Removal Workers",
+  "task_text": "Organize or track the locations of hazardous items in landfills."
+ },
+ {
+  "task_id": "11600",
+  "occupation": "Hazardous Materials Removal Workers",
+  "task_text": "Mix or pour concrete into forms to encase waste material for disposal."
+ },
+ {
+  "task_id": "19868",
+  "occupation": "Hazardous Materials Removal Workers",
+  "task_text": "Apply bioremediation techniques to hazardous wastes to allow naturally occurring bacteria to break down toxic substances."
+ },
+ {
+  "task_id": "11596",
+  "occupation": "Hazardous Materials Removal Workers",
+  "task_text": "Package, store, or move irradiated fuel elements in the underwater storage basins of nuclear reactor plants, using machines or equipment."
+ },
+ {
+  "task_id": "4872",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Set out signs and cones around work areas to divert traffic."
+ },
+ {
+  "task_id": "4871",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Flag motorists to warn them of obstacles or repair work ahead."
+ },
+ {
+  "task_id": "18783",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Perform preventative maintenance on vehicles and heavy equipment."
+ },
+ {
+  "task_id": "4875",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Drive trucks to transport crews and equipment to work sites."
+ },
+ {
+  "task_id": "4878",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Erect, install, or repair guardrails, road shoulders, berms, highway markers, warning signals, and highway lighting, using hand tools and power tools."
+ },
+ {
+  "task_id": "4880",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Clean and clear debris from culverts, catch basins, drop inlets, ditches, and other drain structures."
+ },
+ {
+  "task_id": "18784",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Drive heavy equipment and vehicles with adjustable attachments to sweep debris from paved surfaces, mow grass and weeds, remove snow and ice, and spread salt and sand."
+ },
+ {
+  "task_id": "4877",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Haul and spread sand, gravel, and clay to fill washouts and repair road shoulders."
+ },
+ {
+  "task_id": "4876",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Inspect, clean, and repair drainage systems, bridges, tunnels, and other structures."
+ },
+ {
+  "task_id": "4879",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Remove litter and debris from roadways, including debris from rock and mud slides."
+ },
+ {
+  "task_id": "4874",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Dump, spread, and tamp asphalt, using pneumatic tampers, to repair joints and patch broken pavement."
+ },
+ {
+  "task_id": "4881",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Perform roadside landscaping work, such as clearing weeds and brush, and planting and trimming trees."
+ },
+ {
+  "task_id": "4884",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Apply poisons along roadsides and in animal burrows to eliminate unwanted roadside vegetation and rodents."
+ },
+ {
+  "task_id": "4885",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Measure and mark locations for installation of markers, using tape, string, or chalk."
+ },
+ {
+  "task_id": "4882",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Paint traffic control lines and place pavement traffic messages, by hand or using machines."
+ },
+ {
+  "task_id": "4886",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Apply oil to road surfaces, using sprayers."
+ },
+ {
+  "task_id": "4883",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Inspect markers to verify accurate installation."
+ },
+ {
+  "task_id": "4888",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Place and remove snow fences used to prevent the accumulation of drifting snow on highways."
+ },
+ {
+  "task_id": "4887",
+  "occupation": "Highway Maintenance Workers",
+  "task_text": "Blend compounds to form adhesive mixtures used for marker installation."
+ },
+ {
+  "task_id": "13643",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Patrol assigned track sections so that damaged or broken track can be located and reported."
+ },
+ {
+  "task_id": "13645",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Repair or adjust track switches, using wrenches and replacement parts."
+ },
+ {
+  "task_id": "20798",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Weld sections of track together, such as switch points and frogs."
+ },
+ {
+  "task_id": "13654",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Observe leveling indicator arms to verify levelness and alignment of tracks."
+ },
+ {
+  "task_id": "13655",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Operate single- or multiple-head spike driving machines to drive spikes into ties and secure rails."
+ },
+ {
+  "task_id": "13653",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Operate track wrenches to tighten or loosen bolts at joints that hold ends of rails together."
+ },
+ {
+  "task_id": "13648",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Cut rails to specified lengths, using rail saws."
+ },
+ {
+  "task_id": "13646",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Lubricate machines, change oil, or fill hydraulic reservoirs to specified levels."
+ },
+ {
+  "task_id": "13651",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Drill holes through rails, tie plates, or fishplates for insertion of bolts or spikes, using power drills."
+ },
+ {
+  "task_id": "13644",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Clean tracks or clear ice or snow from tracks or switch boxes."
+ },
+ {
+  "task_id": "13658",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Clean, grade, or level ballast on railroad tracks."
+ },
+ {
+  "task_id": "13649",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Raise rails, using hydraulic jacks, to allow for tie removal and replacement."
+ },
+ {
+  "task_id": "13650",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Adjust controls of machines that spread, shape, raise, level, or align track, according to specifications."
+ },
+ {
+  "task_id": "13647",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Dress and reshape worn or damaged railroad switch points or frogs, using portable power grinders."
+ },
+ {
+  "task_id": "13657",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Clean or make minor repairs to machines or equipment."
+ },
+ {
+  "task_id": "13652",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Grind ends of new or worn rails to attain smooth joints, using portable grinders."
+ },
+ {
+  "task_id": "13660",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Operate single- or multiple-head spike pullers to pull old spikes from ties."
+ },
+ {
+  "task_id": "13665",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "String and attach wire-guidelines machine to rails so that tracks or rails can be aligned or leveled."
+ },
+ {
+  "task_id": "13656",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Engage mechanisms that lay tracks or rails to specified gauges."
+ },
+ {
+  "task_id": "13659",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Drive graders, tamping machines, brooms, or ballast spreading machines to redistribute gravel or ballast between rails."
+ },
+ {
+  "task_id": "13661",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Drive vehicles that automatically move and lay tracks or rails over sections of track to be constructed, repaired, or maintained."
+ },
+ {
+  "task_id": "13662",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Turn wheels of machines, using lever controls, to adjust guidelines for track alignments or grades, following specifications."
+ },
+ {
+  "task_id": "13664",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Push controls to close grasping devices on track or rail sections so that they can be raised or moved."
+ },
+ {
+  "task_id": "13666",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Operate tie-adzing machines to cut ties and permit insertion of fishplates that hold rails."
+ },
+ {
+  "task_id": "13667",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Paint railroad signs, such as speed limits or gate-crossing warnings."
+ },
+ {
+  "task_id": "13663",
+  "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+  "task_text": "Spray ties, fishplates, or joints with oil to protect them from weathering."
+ },
+ {
+  "task_id": "11602",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Communicate with supervisors and other workers, using equipment such as wireless phones, pagers, or radio telephones."
+ },
+ {
+  "task_id": "11601",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Drive trucks to transport crews, materials, and equipment."
+ },
+ {
+  "task_id": "11613",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Inspect manholes to locate sewer line stoppages."
+ },
+ {
+  "task_id": "11604",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Operate sewer cleaning equipment, including power rodders, high-velocity water jets, sewer flushers, bucket machines, wayne balls, and vac-alls."
+ },
+ {
+  "task_id": "11603",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Prepare and keep records of actions taken, including maintenance and repair work."
+ },
+ {
+  "task_id": "11610",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Clean and repair septic tanks, sewer lines, or related structures such as manholes, culverts, and catch basins."
+ },
+ {
+  "task_id": "11608",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Measure excavation sites, using plumbers' snakes, tapelines, or lengths of cutting heads within sewers, and mark areas for digging."
+ },
+ {
+  "task_id": "11612",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Service, adjust, and make minor repairs to equipment, machines, and attachments."
+ },
+ {
+  "task_id": "11609",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Locate problems, using specially designed equipment, and mark where digging must occur to reach damaged tanks or pipes."
+ },
+ {
+  "task_id": "11615",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Dig out sewer lines manually, using shovels."
+ },
+ {
+  "task_id": "11620",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Clean and disinfect domestic basements and other areas flooded by sewer stoppages."
+ },
+ {
+  "task_id": "11606",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Withdraw cables from pipes and examine them for evidence of mud, roots, grease, and other deposits indicating broken or clogged sewer lines."
+ },
+ {
+  "task_id": "11605",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Ensure that repaired sewer line joints are tightly sealed before backfilling begins."
+ },
+ {
+  "task_id": "11619",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Rotate cleaning rods manually, using turning pins."
+ },
+ {
+  "task_id": "11607",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Install rotary knives on flexible cables mounted on machine reels, according to the diameters of pipes to be cleaned."
+ },
+ {
+  "task_id": "11611",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Start machines to feed revolving cables or rods into openings, stopping machines and changing knives to conform to pipe sizes."
+ },
+ {
+  "task_id": "11622",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Update sewer maps and manhole charts."
+ },
+ {
+  "task_id": "11617",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Cover repaired pipes with dirt, and pack backfilled excavations, using air and gasoline tampers."
+ },
+ {
+  "task_id": "11614",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Cut damaged sections of pipe with cutters, remove broken sections from ditches, and replace pipe sections, using pipe sleeves."
+ },
+ {
+  "task_id": "11618",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Requisition or order tools and equipment."
+ },
+ {
+  "task_id": "11616",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Break asphalt and other pavement so that pipes can be accessed, using airhammers, picks, and shovels."
+ },
+ {
+  "task_id": "11621",
+  "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+  "task_text": "Tap mainline sewers to install sewer saddles."
+ },
+ {
+  "task_id": "8285",
+  "occupation": "Segmental Pavers",
+  "task_text": "Prepare base for installation by removing unstable or unsuitable materials, compacting and grading the soil, draining or stabilizing weak or saturated soils and taking measures to prevent water penetration and migration of bedding sand."
+ },
+ {
+  "task_id": "8284",
+  "occupation": "Segmental Pavers",
+  "task_text": "Supply and place base materials, edge restraints, bedding sand and jointing sand."
+ },
+ {
+  "task_id": "8292",
+  "occupation": "Segmental Pavers",
+  "task_text": "Discuss the design with the client."
+ },
+ {
+  "task_id": "8287",
+  "occupation": "Segmental Pavers",
+  "task_text": "Set pavers, aligning and spacing them correctly."
+ },
+ {
+  "task_id": "8288",
+  "occupation": "Segmental Pavers",
+  "task_text": "Sweep sand into the joints and compact pavement until the joints are full."
+ },
+ {
+  "task_id": "8294",
+  "occupation": "Segmental Pavers",
+  "task_text": "Screed sand level to an even thickness, and recheck sand exposed to elements, raking and rescreeding if necessary."
+ },
+ {
+  "task_id": "8293",
+  "occupation": "Segmental Pavers",
+  "task_text": "Cut paving stones to size and for edges, using a splitter and a masonry saw."
+ },
+ {
+  "task_id": "8289",
+  "occupation": "Segmental Pavers",
+  "task_text": "Compact bedding sand and pavers to finish the paved area, using a plate compactor."
+ },
+ {
+  "task_id": "8290",
+  "occupation": "Segmental Pavers",
+  "task_text": "Design paver installation layout pattern and create markings for directional references of joints and stringlines."
+ },
+ {
+  "task_id": "8286",
+  "occupation": "Segmental Pavers",
+  "task_text": "Sweep sand from the surface prior to opening to traffic."
+ },
+ {
+  "task_id": "8291",
+  "occupation": "Segmental Pavers",
+  "task_text": "Resurface an outside area with cobblestones, terracotta tiles, concrete or other materials."
+ },
+ {
+  "task_id": "8295",
+  "occupation": "Segmental Pavers",
+  "task_text": "Cement the edges of the paved area."
+ },
+ {
+  "task_id": "21204",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Test combustible appliances, such as gas appliances."
+ },
+ {
+  "task_id": "21205",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Determine amount of air leakage in buildings, using a blower door machine."
+ },
+ {
+  "task_id": "17789",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Test and diagnose air flow systems, using furnace efficiency analysis equipment."
+ },
+ {
+  "task_id": "17792",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Install and seal air ducts, combustion air openings, or ventilation openings to improve heating and cooling efficiency."
+ },
+ {
+  "task_id": "17787",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Inspect buildings to identify required weatherization measures, including repair work, modification, or replacement."
+ },
+ {
+  "task_id": "17788",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Recommend weatherization techniques to clients in accordance with needs and applicable energy regulations, codes, policies, or statutes."
+ },
+ {
+  "task_id": "17790",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Apply insulation materials, such as loose, blanket, board, and foam insulation to attics, crawl spaces, basements, or walls."
+ },
+ {
+  "task_id": "17794",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Make minor repairs using basic hand or power tools and materials, such as glass, lumber, and drywall."
+ },
+ {
+  "task_id": "17796",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Prepare cost estimates or specifications for rehabilitation or weatherization services."
+ },
+ {
+  "task_id": "17801",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Contact residents or building owners to schedule appointments."
+ },
+ {
+  "task_id": "17797",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Wrap air ducts and water lines with insulating materials, such as duct wrap and pipe insulation."
+ },
+ {
+  "task_id": "17795",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Prepare and apply weather-stripping, glazing, caulking, or door sweeps to reduce energy losses."
+ },
+ {
+  "task_id": "17800",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Clean and maintain tools and equipment."
+ },
+ {
+  "task_id": "17799",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Apply spackling, compounding, or other materials to repair holes in walls."
+ },
+ {
+  "task_id": "17802",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Explain recommendations, policies, procedures, requirements, or other related information to residents or building owners."
+ },
+ {
+  "task_id": "17803",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Maintain activity logs, financial transaction logs, or other records of weatherization work performed."
+ },
+ {
+  "task_id": "17791",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Explain energy conservation measures, such as the use of low flow showerheads and energy-efficient lighting."
+ },
+ {
+  "task_id": "17804",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Prepare or assist in the preparation of bids, contracts, or written reports related to weatherization work."
+ },
+ {
+  "task_id": "17793",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Install storm windows or storm doors and verify proper fit."
+ },
+ {
+  "task_id": "17798",
+  "occupation": "Weatherization Installers and Technicians",
+  "task_text": "Wrap water heaters with water heater blankets."
+ },
+ {
+  "task_id": "9889",
+  "occupation": "Derrick Operators, Oil and Gas",
+  "task_text": "Inspect derricks, or order their inspection, prior to being raised or lowered."
+ },
+ {
+  "task_id": "9890",
+  "occupation": "Derrick Operators, Oil and Gas",
+  "task_text": "Inspect derricks for flaws, and clean and oil derricks to maintain proper working conditions."
+ },
+ {
+  "task_id": "9891",
+  "occupation": "Derrick Operators, Oil and Gas",
+  "task_text": "Control the viscosity and weight of the drilling fluid."
+ },
+ {
+  "task_id": "9892",
+  "occupation": "Derrick Operators, Oil and Gas",
+  "task_text": "Repair pumps, mud tanks, and related equipment."
+ },
+ {
+  "task_id": "9893",
+  "occupation": "Derrick Operators, Oil and Gas",
+  "task_text": "Set and bolt crown blocks to posts at tops of derricks."
+ },
+ {
+  "task_id": "9894",
+  "occupation": "Derrick Operators, Oil and Gas",
+  "task_text": "Listen to mud pumps and check regularly for vibration and other problems to ensure that rig pumps and drilling mud systems are working properly."
+ },
+ {
+  "task_id": "9895",
+  "occupation": "Derrick Operators, Oil and Gas",
+  "task_text": "Start pumps that circulate mud through drill pipes and boreholes to cool drill bits and flush out drill cuttings."
+ },
+ {
+  "task_id": "9896",
+  "occupation": "Derrick Operators, Oil and Gas",
+  "task_text": "Position and align derrick elements, using harnesses and platform climbing devices."
+ },
+ {
+  "task_id": "9897",
+  "occupation": "Derrick Operators, Oil and Gas",
+  "task_text": "Supervise crew members, and provide assistance in training them."
+ },
+ {
+  "task_id": "9898",
+  "occupation": "Derrick Operators, Oil and Gas",
+  "task_text": "Guide lengths of pipe into and out of elevators."
+ },
+ {
+  "task_id": "9899",
+  "occupation": "Derrick Operators, Oil and Gas",
+  "task_text": "Prepare mud reports, and instruct crews about the handling of any chemical additives."
+ },
+ {
+  "task_id": "9900",
+  "occupation": "Derrick Operators, Oil and Gas",
+  "task_text": "Clamp holding fixtures on ends of hoisting cables."
+ },
+ {
+  "task_id": "9901",
+  "occupation": "Derrick Operators, Oil and Gas",
+  "task_text": "Weigh clay, and mix with water and chemicals to make drilling mud, using portable mixers."
+ },
+ {
+  "task_id": "9902",
+  "occupation": "Derrick Operators, Oil and Gas",
+  "task_text": "String cables through pulleys and blocks."
+ },
+ {
+  "task_id": "9903",
+  "occupation": "Derrick Operators, Oil and Gas",
+  "task_text": "Steady pipes during connection to or disconnection from drill or casing strings."
+ },
+ {
+  "task_id": "8296",
+  "occupation": "Rotary Drill Operators, Oil and Gas",
+  "task_text": "Train crews, and introduce procedures to make drill work more safe and effective."
+ },
+ {
+  "task_id": "8297",
+  "occupation": "Rotary Drill Operators, Oil and Gas",
+  "task_text": "Observe pressure gauge and move throttles and levers to control the speed of rotary tables, and to regulate pressure of tools at bottoms of boreholes."
+ },
+ {
+  "task_id": "8298",
+  "occupation": "Rotary Drill Operators, Oil and Gas",
+  "task_text": "Count sections of drill rod to determine depths of boreholes."
+ },
+ {
+  "task_id": "8299",
+  "occupation": "Rotary Drill Operators, Oil and Gas",
+  "task_text": "Push levers and brake pedals to control gasoline, diesel, electric, or steam draw works that lower and raise drill pipes and casings in and out of wells."
+ },
+ {
+  "task_id": "8300",
+  "occupation": "Rotary Drill Operators, Oil and Gas",
+  "task_text": "Connect sections of drill pipe, using hand tools and powered wrenches and tongs."
+ },
+ {
+  "task_id": "8301",
+  "occupation": "Rotary Drill Operators, Oil and Gas",
+  "task_text": "Maintain records of footage drilled, location and nature of strata penetrated, materials and tools used, services rendered, and time required."
+ },
+ {
+  "task_id": "8302",
+  "occupation": "Rotary Drill Operators, Oil and Gas",
+  "task_text": "Maintain and adjust machinery to ensure proper performance."
+ }
+]

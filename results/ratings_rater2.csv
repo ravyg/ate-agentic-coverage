@@ -1,0 +1,101 @@
+task_id,coverage,reason
+6624,0.20,live multi-party conferring to resolve student issues needs human presence and authority
+9743,0.75,relaying gathered information is largely a text/handoff task
+1147,0.45,drafting and analysis automatable but final contract commitment needs human authority
+1772,0.30,coaching people in communication needs live human interaction
+21451,0.30,interviewing officials to clarify licensing facts needs a human interlocutor and authority
+19227,0.00,physically handing patients earplugs requires a body on site
+19045,0.55,drafting case-management communications automatable but attorney/court exchange needs authority
+15863,0.35,facility tours and staff interviews need physical presence; analysis portion automatable
+22630,0.55,research and drafting automatable but interviews and observation need presence
+9384,0.00,fitting and adjusting devices on patients is hands-on physical work
+6842,0.30,counseling students needs live human rapport and presence
+9195,0.45,gathering info and drafting recommendations automatable but court recommendation needs authority
+6946,0.05,observing and interacting with patients in person requires presence
+275,0.40,care coordination and planning partly automatable but requires clinical responsibility
+20966,0.35,price analysis automatable but negotiating and committing to contracts needs authority
+2002,0.20,in-person admission interview needs human presence; recording is automatable
+1831,0.10,counseling patients in office visits needs human clinician presence
+7361,0.45,structured client interview and computation automatable but responsibility rests with human
+18940,0.90,maintaining and updating client account records is data work
+19181,0.15,building rapport with clients needs live human interaction
+1827,0.55,analyzing patient data to diagnose is analytic but diagnosis carries clinical responsibility
+18364,0.00,preparing and administering anesthetics is hands-on clinical work
+7065,0.00,sprinkling finishing materials on concrete is physical on-site work
+18454,0.15,prescribing requires licensed clinical authority; drafting is automatable
+9960,0.65,interpreting written problem descriptions to diagnose causes is largely text analysis
+22888,0.55,code resolution partly automatable but clarifying with doctors and team meetings need humans
+340,0.15,prescribing medications requires licensed authority
+17260,0.60,designing and prescribing exercise programs is analytic but prescribing carries responsibility
+2874,0.10,diagnosing and repairing systems with test equipment and tools is physical work
+16505,0.75,failure/reliability/yield analysis is largely data and computation work
+17216,0.60,evaluating intervention effectiveness is data analysis but clinical accountability remains
+18430,0.20,evaluating and treating visual disorders needs in-person examination
+20734,0.55,failure investigation and recommendation is analytic but often needs physical inspection
+17066,0.15,prescribing medication requires licensed clinical authority
+8931,0.00,witnessing and certifying deaths requires legal authority and physical presence
+22211,0.30,diagnosing and treating neurological conditions needs in-person clinical work
+11357,0.30,registering and certifying parcels involves physical handling; recording automatable
+15212,0.00,isolating and maintaining cultures is hands-on lab work
+10881,0.10,inspecting and operating test equipment is physical hands-on work
+22748,0.05,diagnosing and treating musculoskeletal disorders is hands-on clinical work
+18448,0.85,documenting physical exam findings is a records/text task
+10198,0.00,repairing molds and equipment with hand tools is physical work
+23824,0.55,arranging fueling/restocking/repairs is coordination but execution needs humans on site
+16555,0.20,monitoring construction for compliance needs on-site presence
+5185,0.00,assembling bicycles is physical work
+20315,0.35,program planning automatable but running drives and CPR training needs humans on site
+4996,0.00,cleaning and polishing windows is physical work
+4865,0.00,disassembling and removing pipe is physical work
+23550,0.00,repairing and rebuilding transmissions is hands-on mechanical work
+9489,0.00,cleaning cutting and cooking food is physical work
+1007,0.40,drafting and analyzing vendor contracts automatable but committing to contracts needs authority
+19046,0.45,drafting legal analysis automatable but conferring with judges needs human authority
+2364,0.00,housekeeping and childcare are physical presence work
+4836,0.00,laboring on electrical installation and repair is physical work
+15817,0.85,estimating operations and maintenance costs is analytic computation work
+23373,0.00,repairing and maintaining farm equipment is physical work
+16296,0.80,computing retracing and adjusting survey data is computational work
+5190,0.00,patching tire tubes is physical repair work
+5177,0.00,maintaining and repairing equipment is physical work
+3121,0.00,installing experimental parts into machines is physical work
+22599,0.35,generating music is doable but live improvised performance needs a human performer
+22726,0.00,performing emergency resuscitation is hands-on clinical work
+22911,0.00,emergency medical services and rescue require physical presence
+23908,0.10,crisis intervention for safety needs live human presence
+21297,0.50,emergency and contingency planning is largely document and coordination work
+7259,0.85,keeping informed of regulations and ensuring plan compliance is research and text work
+13245,0.20,offering assistance to callers in emergencies needs a responsible human operator
+22730,0.35,selecting and interpreting diagnostic tests is analytic but performing them needs presence
+20839,0.10,calling responders and jump-starting cars needs physical presence
+7256,0.85,maintaining and updating preparedness resource materials is document work
+12351,0.15,implementing emergency response procedures needs on-site human action
+2127,0.10,emergency off-hours field work requires physical presence
+7270,0.60,survey design and technical support are largely analytic and documentation tasks
+21347,0.85,developing and documenting operating procedures is writing work
+5385,0.10,initiating corrective actions or plant shutdowns needs authorized human operators
+7755,0.00,life support airway management and surgery prep are hands-on clinical work
+60,0.20,inspecting facilities requires on-site presence; recommendations partly automatable
+2714,0.90,maintaining files of rosters and call-out information is records work
+21768,0.80,coordinating documentation of security policies and tests is document work
+5045,0.65,completing and maintaining incident records is documentation; conditions gathering needs presence
+21363,0.65,evaluating contractors on efficiency and safety records is data analysis
+4268,0.85,scheduling, data collection, and billing documentation are clerical automatable tasks
+21463,0.55,gathering requirements from stakeholders is communication but needs human decision buy-in
+8601,0.40,dispatching in response to emergency reports needs a responsible human dispatcher
+10772,0.00,directing helpers placing blocking under cranes is on-site physical supervision
+6844,0.80,reviewing content and evaluations to recommend revisions is analytic text work
+12365,0.05,inspecting machines for hazards and wear requires physical presence
+23380,0.30,identifying plants and pests to select chemicals needs on-site field observation
+21657,0.90,testing databases correcting errors and modifying code is software work
+21497,0.75,preparing case report documentation is writing work; court filing needs authority
+23096,0.15,responding to students on a bus needs a human present
+5812,0.45,collaborating with colleagues on teaching and research needs human interaction
+21992,0.45,inventory documentation automatable but procuring parts and receiving them needs humans
+12486,0.05,reading dials and meters on equipment requires physical presence
+10563,0.00,responding to in-flight emergencies requires a pilot on board
+17548,0.35,public-records research automatable but field observation and sources need presence
+19802,0.55,advancing precision-ag technology involves R&D; field deployment needs presence
+17235,0.55,developing radiology treatment plans is analytic but carries clinical responsibility
+15479,0.30,monitoring plant control parameters needs on-site or supervised operator responsibility
+17161,0.30,instructing residents in ophthalmologic procedures needs hands-on human teaching

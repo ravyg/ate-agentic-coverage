@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "19337",
+  "occupation": "Nursing Assistants",
+  "task_text": "Set up treating or testing equipment, such as oxygen tents, portable radiograph (x-ray) equipment, or overhead irrigation bottles, as directed by a physician or nurse."
+ },
+ {
+  "task_id": "19338",
+  "occupation": "Nursing Assistants",
+  "task_text": "Stock or issue medical supplies, such as dressing packs or treatment trays."
+ },
+ {
+  "task_id": "19339",
+  "occupation": "Nursing Assistants",
+  "task_text": "Supply, collect, or empty bedpans."
+ },
+ {
+  "task_id": "19340",
+  "occupation": "Nursing Assistants",
+  "task_text": "Transport patients to treatment units, testing units, operating rooms, or other areas, using wheelchairs, stretchers, or moveable beds."
+ },
+ {
+  "task_id": "19341",
+  "occupation": "Nursing Assistants",
+  "task_text": "Turn or reposition bedridden patients."
+ },
+ {
+  "task_id": "19342",
+  "occupation": "Nursing Assistants",
+  "task_text": "Undress, wash, and dress patients who are unable to do so for themselves."
+ },
+ {
+  "task_id": "19343",
+  "occupation": "Nursing Assistants",
+  "task_text": "Wash, groom, shave, or drape patients to prepare them for surgery, treatment, or examination."
+ },
+ {
+  "task_id": "19344",
+  "occupation": "Nursing Assistants",
+  "task_text": "Exercise patients who are comatose, paralyzed, or have restricted mobility."
+ },
+ {
+  "task_id": "19345",
+  "occupation": "Nursing Assistants",
+  "task_text": "Explain medical instructions to patients or family members."
+ },
+ {
+  "task_id": "19346",
+  "occupation": "Nursing Assistants",
+  "task_text": "Lift or assist others to lift patients to move them on or off beds, examination tables, surgical tables, or stretchers."
+ },
+ {
+  "task_id": "19347",
+  "occupation": "Nursing Assistants",
+  "task_text": "Provide information, such as directions, visiting hours, or patient status information to visitors or callers."
+ },
+ {
+  "task_id": "19348",
+  "occupation": "Nursing Assistants",
+  "task_text": "Transport specimens, laboratory items, or pharmacy items, ensuring proper documentation and delivery to authorized personnel."
+ },
+ {
+  "task_id": "19349",
+  "occupation": "Orderlies",
+  "task_text": "Answer patient call signals, signal lights, bells, or intercom systems to determine patients' needs."
+ },
+ {
+  "task_id": "19350",
+  "occupation": "Orderlies",
+  "task_text": "Carry messages or documents between departments."
+ },
+ {
+  "task_id": "19351",
+  "occupation": "Orderlies",
+  "task_text": "Change soiled linens, such as bed linens, drapes, or cubicle curtains."
+ },
+ {
+  "task_id": "19352",
+  "occupation": "Orderlies",
+  "task_text": "Clean and sanitize patient rooms, bathrooms, examination rooms, or other patient areas."
+ },
+ {
+  "task_id": "19353",
+  "occupation": "Orderlies",
+  "task_text": "Clean equipment, such as wheelchairs, hospital beds, or portable medical equipment, documenting needed repairs or maintenance."
+ },
+ {
+  "task_id": "19354",
+  "occupation": "Orderlies",
+  "task_text": "Collect and transport infectious or hazardous waste in closed containers for sterilization or disposal, in accordance with applicable law, standards, or policies."
+ },
+ {
+  "task_id": "19355",
+  "occupation": "Orderlies",
+  "task_text": "Collect soiled linen or trash."
+ },
+ {
+  "task_id": "19356",
+  "occupation": "Orderlies",
+  "task_text": "Disinfect or sterilize equipment or supplies, using germicides or sterilizing equipment."
+ },
+ {
+  "task_id": "19357",
+  "occupation": "Orderlies",
+  "task_text": "Lift or assist others to lift patients to move them on or off beds, examination tables, surgical tables, or stretchers."
+ },
+ {
+  "task_id": "19358",
+  "occupation": "Orderlies",
+  "task_text": "Position or hold patients in position for surgical preparation."
+ },
+ {
+  "task_id": "19359",
+  "occupation": "Orderlies",
+  "task_text": "Respond to emergency situations, such as emergency medical calls, security calls, or fire alarms."
+ },
+ {
+  "task_id": "19360",
+  "occupation": "Orderlies",
+  "task_text": "Restrain patients to prevent violence or injury or to assist physicians or nurses to administer treatments."
+ },
+ {
+  "task_id": "19361",
+  "occupation": "Orderlies",
+  "task_text": "Serve or collect food trays."
+ },
+ {
+  "task_id": "19362",
+  "occupation": "Orderlies",
+  "task_text": "Stock or issue medical supplies, such as dressing packs or treatment trays."
+ },
+ {
+  "task_id": "19363",
+  "occupation": "Orderlies",
+  "task_text": "Stock utility rooms, nonmedical storage rooms, or cleaning carts with supplies."
+ },
+ {
+  "task_id": "19365",
+  "occupation": "Orderlies",
+  "task_text": "Transport bodies to the morgue."
+ },
+ {
+  "task_id": "19366",
+  "occupation": "Orderlies",
+  "task_text": "Transport patients to treatment units, testing units, operating rooms, or other areas, using wheelchairs, stretchers, or moveable beds."
+ },
+ {
+  "task_id": "19367",
+  "occupation": "Orderlies",
+  "task_text": "Transport portable medical equipment or medical supplies between rooms or departments."
+ },
+ {
+  "task_id": "19368",
+  "occupation": "Orderlies",
+  "task_text": "Transport specimens, laboratory items, or pharmacy items, ensuring proper documentation and delivery to authorized personnel."
+ },
+ {
+  "task_id": "19369",
+  "occupation": "Orderlies",
+  "task_text": "Turn or reposition bedridden patients, alone or with assistance, to prevent bedsores."
+ },
+ {
+  "task_id": "19370",
+  "occupation": "Orderlies",
+  "task_text": "Provide physical support to patients to assist them to perform daily living activities, such as getting out of bed, bathing, dressing, using the toilet, standing, walking, or exercising."
+ },
+ {
+  "task_id": "19371",
+  "occupation": "Orderlies",
+  "task_text": "Separate collected materials for disposal, recycling, or reuse, in accordance with environmental policies."
+ },
+ {
+  "task_id": "19373",
+  "occupation": "Phlebotomists",
+  "task_text": "Collect fluid or tissue samples, using appropriate collection procedures."
+ },
+ {
+  "task_id": "19374",
+  "occupation": "Phlebotomists",
+  "task_text": "Dispose of blood or other biohazard fluids or tissue, in accordance with applicable laws, standards, or policies."
+ },
+ {
+  "task_id": "19375",
+  "occupation": "Phlebotomists",
+  "task_text": "Dispose of contaminated sharps, in accordance with applicable laws, standards, and policies."
+ },
+ {
+  "task_id": "19376",
+  "occupation": "Phlebotomists",
+  "task_text": "Document route of specimens from collection to laboratory analysis and diagnosis."
+ },
+ {
+  "task_id": "19377",
+  "occupation": "Phlebotomists",
+  "task_text": "Draw blood from arteries, using arterial collection techniques."
+ },
+ {
+  "task_id": "19378",
+  "occupation": "Phlebotomists",
+  "task_text": "Draw blood from capillaries by dermal puncture, such as heel or finger stick methods."
+ },
+ {
+  "task_id": "19379",
+  "occupation": "Phlebotomists",
+  "task_text": "Draw blood from veins by vacuum tube, syringe, or butterfly venipuncture methods."
+ },
+ {
+  "task_id": "19380",
+  "occupation": "Phlebotomists",
+  "task_text": "Explain fluid or tissue collection procedures to patients."
+ },
+ {
+  "task_id": "19381",
+  "occupation": "Phlebotomists",
+  "task_text": "Match laboratory requisition forms to specimen tubes."
+ },
+ {
+  "task_id": "19382",
+  "occupation": "Phlebotomists",
+  "task_text": "Organize or clean blood-drawing trays, ensuring that all instruments are sterile and all needles, syringes, or related items are of first-time use."
+ },
+ {
+  "task_id": "19383",
+  "occupation": "Phlebotomists",
+  "task_text": "Administer subcutaneous or intramuscular injects, in accordance with licensing restrictions."
+ },
+ {
+  "task_id": "19384",
+  "occupation": "Phlebotomists",
+  "task_text": "Calibrate or maintain machines, such as those used for plasma collection."
+ },
+ {
+  "task_id": "19385",
+  "occupation": "Phlebotomists",
+  "task_text": "Collect specimens at specific time intervals for tests, such as those assessing therapeutic drug levels."
+ },
+ {
+  "task_id": "19386",
+  "occupation": "Phlebotomists",
+  "task_text": "Conduct hemoglobin tests to ensure donor iron levels are normal."
+ },
+ {
+  "task_id": "19387",
+  "occupation": "Phlebotomists",
+  "task_text": "Conduct standards tests, such as blood alcohol, blood culture, oral glucose tolerance, glucose screening, blood smears, or peak and trough drug levels tests."
+ },
+ {
+  "task_id": "19388",
+  "occupation": "Phlebotomists",
+  "task_text": "Determine donor suitability, according to interview results, vital signs, and medical history."
+ },
+ {
+  "task_id": "19389",
+  "occupation": "Phlebotomists",
+  "task_text": "Enter patient, specimen, insurance, or billing information into computer."
+ },
+ {
+  "task_id": "19390",
+  "occupation": "Phlebotomists",
+  "task_text": "Monitor blood or plasma donors during and after procedures to ensure health, safety, and comfort."
+ },
+ {
+  "task_id": "19392",
+  "occupation": "Phlebotomists",
+  "task_text": "Process blood or other fluid samples for further analysis by other medical professionals."
+ },
+ {
+  "task_id": "19393",
+  "occupation": "Phlebotomists",
+  "task_text": "Provide sample analysis results to physicians to assist diagnosis."
+ },
+ {
+  "task_id": "19394",
+  "occupation": "Phlebotomists",
+  "task_text": "Serve refreshments to donors to ensure absorption of sugar into their systems."
+ },
+ {
+  "task_id": "19395",
+  "occupation": "Phlebotomists",
+  "task_text": "Train other medical personnel in phlebotomy or laboratory techniques."
+ },
+ {
+  "task_id": "19396",
+  "occupation": "Phlebotomists",
+  "task_text": "Transport specimens or fluid samples from collection sites to laboratories."
+ },
+ {
+  "task_id": "19547",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Analyze environmental aspects of competing merchandise when making buying decisions."
+ },
+ {
+  "task_id": "19548",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Compare transportation options to determine the most energy-efficient options."
+ },
+ {
+  "task_id": "19549",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Develop strategies to advertise green products or merchandise to consumers."
+ },
+ {
+  "task_id": "19550",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Identify opportunities to buy green commodities, such as alternative energy, water, or carbon-neutral products for resale to consumers."
+ },
+ {
+  "task_id": "19551",
+  "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+  "task_text": "Monitor consumer preferences or environmental trends to determine the best way to introduce new green products."
+ },
+ {
+  "task_id": "19552",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Determine regulations or procedures related to the management, collection, reuse, recovery, or recycling of packaging waste."
+ },
+ {
+  "task_id": "19553",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Determine requirements applying to treatment, storage, shipment, or disposal of potentially hazardous production-related waste."
+ },
+ {
+  "task_id": "19554",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Determine the legal implications of the production, supply, or use of ozone-depleting substances or equipment containing such substances."
+ },
+ {
+  "task_id": "19557",
+  "occupation": "Regulatory Affairs Specialists",
+  "task_text": "Specialize in regulatory issues related to agriculture, such as the cultivation of green biotechnology crops or the post-market regulation of genetically altered crops."
+ },
+ {
+  "task_id": "19558",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Develop or implement training programs related to efficiency, recycling, or other issues with environmental impacts."
+ },
+ {
+  "task_id": "19559",
+  "occupation": "Training and Development Specialists",
+  "task_text": "Evaluate modes of training delivery, such as in-person or virtual, to optimize training effectiveness, training costs, or environmental impacts."
+ },
+ {
+  "task_id": "19570",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Inform clients about tax benefits, government rebates, or other financial benefits of alternative-fuel vehicle purchases or energy-efficient home construction, improvements, or remodeling."
+ },
+ {
+  "task_id": "19571",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Recommend environmentally responsible investments, such as cleantech, alternative energy, or conservation technologies, companies, or funds."
+ },
+ {
+  "task_id": "19572",
+  "occupation": "Financial Quantitative Analysts",
+  "task_text": "Analyze pricing or risks of carbon trading products."
+ },
+ {
+  "task_id": "19573",
+  "occupation": "Financial Quantitative Analysts",
+  "task_text": "Assess the potential impact of climate change on business financial issues, such as damage repairs, insurance costs, or potential disruptions of daily activities."
+ },
+ {
+  "task_id": "19574",
+  "occupation": "Financial Quantitative Analysts",
+  "task_text": "Develop methods of assessing or measuring corporate performance in terms of environmental, social, and governance (ESG) issues."
+ },
+ {
+  "task_id": "19575",
+  "occupation": "Financial Quantitative Analysts",
+  "task_text": "Develop solutions to help clients hedge carbon exposure or risk."
+ },
+ {
+  "task_id": "19576",
+  "occupation": "Financial Quantitative Analysts",
+  "task_text": "Develop tools to assess green technologies or green financial products, such as green hedge funds or social responsibility investment funds."
+ },
+ {
+  "task_id": "19807",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Specialize in the negotiation and resolution of environmental conflicts involving issues such as natural resource allocation or regional development planning."
+ },
+ {
+  "task_id": "19825",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Inform customers about issues related to responsible use and disposal of products, such as waste reduction or product or byproduct recycling or disposal."
+ },
+ {
+  "task_id": "19826",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Present information to customers about the energy efficiency or environmental impact of scientific or technical products."
+ },
+ {
+  "task_id": "19828",
+  "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+  "task_text": "Sell technical and scientific products that are environmentally sound or designed for environmental remediation."
+ },
+ {
+  "task_id": "19829",
+  "occupation": "Freight Forwarders",
+  "task_text": "Analyze shipping routes to determine how to minimize environmental impact."
+ },
+ {
+  "task_id": "19830",
+  "occupation": "Freight Forwarders",
+  "task_text": "Arrange for transport, using a variety of modes, such as rail, short sea shipping, air, or roadways, to minimize carbon emissions or other environmental impacts."
+ },
+ {
+  "task_id": "19831",
+  "occupation": "Freight Forwarders",
+  "task_text": "Consider environmental sustainability factors when determining merchandise packing methods."
+ },
+ {
+  "task_id": "19832",
+  "occupation": "Freight Forwarders",
+  "task_text": "Recommend shipping solutions to minimize cost or environmental impacts."
+ },
+ {
+  "task_id": "19833",
+  "occupation": "Freight Forwarders",
+  "task_text": "Review the environmental records of freight carriers to inform shipping decisions."
+ },
+ {
+  "task_id": "19834",
+  "occupation": "Shipping, Receiving, and Inventory Clerks",
+  "task_text": "Compare shipping routes or methods to determine which have the least environmental impact."
+ },
+ {
+  "task_id": "19995",
+  "occupation": "Logistics Engineers",
+  "task_text": "Evaluate the use of inventory tracking technology, Web-based warehousing software, or intelligent conveyor systems to maximize plant or distribution center efficiency."
+ },
+ {
+  "task_id": "19996",
+  "occupation": "Logistics Engineers",
+  "task_text": "Develop logistic metrics, internal analysis tools, or key performance indicators for business units."
+ },
+ {
+  "task_id": "19997",
+  "occupation": "Logistics Engineers",
+  "task_text": "Identify cost-reduction or process-improvement logistic opportunities."
+ },
+ {
+  "task_id": "19998",
+  "occupation": "Logistics Engineers",
+  "task_text": "Evaluate the use of technologies, such as global positioning systems (GPS), radio-frequency identification (RFID), route navigation software, or satellite linkup systems, to improve transportation eff"
+ },
+ {
+  "task_id": "19999",
+  "occupation": "Logistics Engineers",
+  "task_text": "Prepare logistic strategies or conceptual designs for production facilities."
+ },
+ {
+  "task_id": "20000",
+  "occupation": "Logistics Engineers",
+  "task_text": "Design comprehensive supply chains that minimize environmental impacts or costs."
+ },
+ {
+  "task_id": "20001",
+  "occupation": "Logistics Engineers",
+  "task_text": "Develop or document reverse logistics management processes to ensure maximal efficiency of product recycling, reuse, or final disposal."
+ },
+ {
+  "task_id": "20002",
+  "occupation": "Logistics Engineers",
+  "task_text": "Conduct environmental audits for logistics activities, such as storage, distribution, or transportation."
+ },
+ {
+  "task_id": "20003",
+  "occupation": "Logistics Engineers",
+  "task_text": "Create models or scenarios to predict the impact of changing circumstances, such as fuel costs, road pricing, energy taxes, or carbon emissions legislation."
+ },
+ {
+  "task_id": "20004",
+  "occupation": "Logistics Engineers",
+  "task_text": "Review global, national, or regional transportation or logistics reports for ways to improve efficiency or minimize the environmental impact of logistics activities."
+ },
+ {
+  "task_id": "20005",
+  "occupation": "Logistics Engineers",
+  "task_text": "Determine requirements for compliance with environmental certification standards."
+ },
+ {
+  "task_id": "20006",
+  "occupation": "Logistics Engineers",
+  "task_text": "Provide logistical facility or capacity planning analyses for distribution or transportation functions."
+ },
+ {
+  "task_id": "20007",
+  "occupation": "Logistics Engineers",
+  "task_text": "Develop or document procedures to minimize or mitigate carbon output resulting from the movement of materials or products."
+ },
+ {
+  "task_id": "20008",
+  "occupation": "Logistics Engineers",
+  "task_text": "Assess the environmental impact or energy efficiency of logistics activities, using carbon mitigation software."
+ },
+ {
+  "task_id": "20009",
+  "occupation": "Logistics Analysts",
+  "task_text": "Remotely monitor the flow of vehicles or inventory, using Web-based logistics information systems to track vehicles or containers."
+ },
+ {
+  "task_id": "20010",
+  "occupation": "Logistics Analysts",
+  "task_text": "Reorganize shipping schedules to consolidate loads, maximize vehicle usage, or limit the movement of empty vehicles or containers."
+ },
+ {
+  "task_id": "20011",
+  "occupation": "Logistics Analysts",
+  "task_text": "Route or reroute drivers in real time with remote route navigation software, satellite linkup systems, or global positioning systems (GPS) to improve operational efficiencies."
+ },
+ {
+  "task_id": "20012",
+  "occupation": "Logistics Analysts",
+  "task_text": "Arrange for sale or lease of excess storage or transport capacity to minimize losses or inefficiencies associated with empty space."
+ },
+ {
+  "task_id": "20013",
+  "occupation": "Logistics Analysts",
+  "task_text": "Compare locations or environmental policies of carriers or suppliers to make transportation decisions with lower environmental impact."
+ },
+ {
+  "task_id": "20014",
+  "occupation": "Logistics Analysts",
+  "task_text": "Enter carbon-output or environmental-impact data into spreadsheets or environmental management or auditing software programs."
+ },
+ {
+  "task_id": "20016",
+  "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+  "task_text": "Answer questions from taxpayers and assist them in completing tax forms."
+ },
+ {
+  "task_id": "20057",
+  "occupation": "Judges, Magistrate Judges, and Magistrates",
+  "task_text": "Provide information regarding the judicial system or other legal issues through the media and public speeches."
+ },
+ {
+  "task_id": "20120",
+  "occupation": "Family Medicine Physicians",
+  "task_text": "Train residents, medical students, and other health care professionals."
+ },
+ {
+  "task_id": "20121",
+  "occupation": "Family Medicine Physicians",
+  "task_text": "Prepare government or organizational reports which include birth, death, and disease statistics, workforce evaluations, or medical status of individuals."
+ },
+ {
+  "task_id": "20122",
+  "occupation": "Podiatrists",
+  "task_text": "Treat bone, muscle, and joint disorders affecting the feet and ankles."
+ },
+ {
+  "task_id": "20141",
+  "occupation": "New Accounts Clerks",
+  "task_text": "Process loan applications."
+ },
+ {
+  "task_id": "20165",
+  "occupation": "Music Therapists",
+  "task_text": "Apply current technology to music therapy practices."
+ },
+ {
+  "task_id": "20166",
+  "occupation": "Music Therapists",
+  "task_text": "Collaborate with others to design or implement interdisciplinary treatment programs."
+ },
+ {
+  "task_id": "20167",
+  "occupation": "Music Therapists",
+  "task_text": "Participate in continuing education."
+ },
+ {
+  "task_id": "20181",
+  "occupation": "Coroners",
+  "task_text": "Direct activities of workers conducting autopsies, performing pathological and toxicological analyses, and preparing documents for permanent records."
+ },
+ {
+  "task_id": "20182",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Recommend to clients strategies in cash management, insurance coverage, investment planning, or other areas to help them achieve their financial goals."
+ },
+ {
+  "task_id": "20183",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Review clients' accounts and plans regularly to determine whether life changes, economic changes, environmental concerns, or financial performance indicate a need for plan reassessment."
+ },
+ {
+  "task_id": "20184",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Manage client portfolios, keeping client plans up-to-date."
+ },
+ {
+  "task_id": "20185",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Recruit and maintain client bases."
+ },
+ {
+  "task_id": "20186",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Explain to clients the personal financial advisor's responsibilities and the types of services to be provided."
+ },
+ {
+  "task_id": "20187",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Investigate available investment opportunities to determine compatibility with client financial plans."
+ },
+ {
+  "task_id": "20188",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Monitor financial market trends to ensure that client plans are responsive."
+ },
+ {
+  "task_id": "20189",
+  "occupation": "Personal Financial Advisors",
+  "task_text": "Recommend financial products, such as stocks, bonds, mutual funds, or insurance."
+ },
+ {
+  "task_id": "20190",
+  "occupation": "Financial Examiners",
+  "task_text": "Provide regulatory compliance training to employees."
+ },
+ {
+  "task_id": "20238",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Apply relevant laws, regulations, policies, or precedents to reach conclusions."
+ },
+ {
+  "task_id": "20239",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Conduct hearings to obtain information or evidence relative to disposition of claims."
+ },
+ {
+  "task_id": "20240",
+  "occupation": "Arbitrators, Mediators, and Conciliators",
+  "task_text": "Determine extent of liability according to evidence, laws, or administrative or judicial precedents."
+ },
+ {
+  "task_id": "20244",
+  "occupation": "Oral and Maxillofacial Surgeons",
+  "task_text": "Perform minor cosmetic procedures, such as chin and cheekbone enhancements."
+ },
+ {
+  "task_id": "20245",
+  "occupation": "Oral and Maxillofacial Surgeons",
+  "task_text": "Perform minor facial rejuvenation procedures, including the use of Botox and laser technology."
+ },
+ {
+  "task_id": "20246",
+  "occupation": "Prosthodontists",
+  "task_text": "Replace missing teeth and associated oral structures with permanent fixtures, such as implant-supported prostheses, crowns and bridges, or removable fixtures, such as dentures."
+ }
+]

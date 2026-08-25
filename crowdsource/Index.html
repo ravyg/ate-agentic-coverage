@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+<base target="_top">
+<meta charset="utf-8">
+<style>
+  body { font-family: -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+         max-width: 760px; margin: 0 auto; padding: 20px; color: #1a1a1a; }
+  h1 { font-size: 20px; } h2 { font-size: 16px; color: #444; }
+  .card { border: 1px solid #ddd; border-radius: 10px; padding: 18px; margin: 14px 0;
+          box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+  .task { font-size: 17px; line-height: 1.5; margin: 6px 0 14px; }
+  .occ { color: #666; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; }
+  .q { font-weight: 600; margin: 16px 0 6px; }
+  .scale { display:flex; justify-content:space-between; font-size:12px; color:#777; }
+  input[type=range] { width: 100%; }
+  .val { font-size: 28px; font-weight: 700; text-align:center; color:#0b5; margin: 4px 0; }
+  .conf label { margin-right: 12px; font-size: 14px; }
+  textarea { width: 100%; min-height: 44px; margin-top: 6px; }
+  .nav { display:flex; justify-content:space-between; margin-top: 18px; }
+  button { padding: 10px 18px; border-radius: 8px; border: 1px solid #0b5; background:#0b5;
+           color:#fff; font-size:15px; cursor:pointer; }
+  button.secondary { background:#fff; color:#0b5; }
+  .banner { background:#eef7f0; border:1px solid #cde8d5; border-radius:8px; padding:10px 14px;
+            font-size:14px; margin-bottom:14px; }
+  .prog { font-size:13px; color:#666; }
+  .ident input { padding:6px; font-size:14px; margin-right:8px; }
+</style>
+</head>
+<body>
+  <h1>Can an AI agent do this task on its own?</h1>
+  <div class="banner">
+    For each work task, tell us <b>how much of it a capable autonomous AI agent (2026)
+    could complete end to end, on its own, with no human stepping in</b> to act, be
+    physically present, decide, or take responsibility. The agent can browse, write,
+    reason, and use tools, but has <b>no physical body</b> and no legal authority of
+    its own. Judge only what it can finish <b>unaided</b>. About 15 minutes.
+  </div>
+
+  <div class="card ident">
+    <div class="q">Your name and email (so we can credit you)</div>
+    <input id="annotator" placeholder="Name">
+    <input id="email" placeholder="Email (optional)">
+  </div>
+
+  <div class="prog" id="prog"></div>
+  <div id="stage"></div>
+
+  <script>
+    var TASKS = [{"task_id": "6624", "occupation": "Career/Technical Education Teachers, Middle School", "task_text": "Confer with parents or guardians, other teachers, counselors, and administrators to resolve students' behavioral and academic problems."}, {"task_id": "9743", "occupation": "Eligibility Interviewers, Government Programs", "task_text": "Provide social workers with pertinent information gathered during applicant interviews."}, {"task_id": "1147", "occupation": "Purchasing Agents, Except Wholesale, Retail, and Farm Products", "task_text": "Negotiate, renegotiate, and administer contracts with suppliers, vendors, and other representatives."}, {"task_id": "1772", "occupation": "Public Relations Specialists", "task_text": "Coach client representatives in effective communication with the public or with employees."}, {"task_id": "21451", "occupation": "Compliance Officers", "task_text": "Confer with or interview officials, technical or professional specialists, or applicants to obtain information or to clarify facts relevant to licensing decisions."}, {"task_id": "19227", "occupation": "Magnetic Resonance Imaging Technologists", "task_text": "Provide headphones or earplugs to patients to improve comfort and reduce unpleasant noise."}, {"task_id": "19045", "occupation": "Judicial Law Clerks", "task_text": "Communicate with counsel regarding case management or procedural requirements."}, {"task_id": "15863", "occupation": "Logistics Engineers", "task_text": "Interview key staff or tour facilities to identify efficiency-improvement, cost-reduction, or service-delivery opportunities."}, {"task_id": "22630", "occupation": "News Analysts, Reporters, and Journalists", "task_text": "Gather information and develop perspectives about news subjects through research, interviews, observation, and experience."}, {"task_id": "9384", "occupation": "Orthotists and Prosthetists", "task_text": "Fit, test, and evaluate devices on patients, and make adjustments for proper fit, function, and comfort."}, {"task_id": "6842", "occupation": "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors", "task_text": "Guide and counsel students with adjustment or academic problems or special academic interests."}, {"task_id": "9195", "occupation": "Marriage and Family Therapists", "task_text": "Gather information from doctors, schools, social workers, juvenile counselors, law enforcement personnel, and others to make recommendations to courts for resolution of child custody or visitation disputes."}, {"task_id": "6946", "occupation": "Psychiatric Technicians", "task_text": "Observe and influence patients' behavior, communicating and interacting with them and teaching, counseling, or befriending them."}, {"task_id": "275", "occupation": "Mental Health and Substance Abuse Social Workers", "task_text": "Collaborate with counselors, physicians, or nurses to plan or coordinate treatment, drawing on social work experience and patient needs."}, {"task_id": "20966", "occupation": "Civil Engineering Technologists and Technicians", "task_text": "Negotiate with contractors on prices for new contracts or modifications to existing contracts."}, {"task_id": "2002", "occupation": "Psychiatric Aides", "task_text": "Interview patients upon admission and record information."}, {"task_id": "1831", "occupation": "Psychiatrists", "task_text": "Counsel outpatients or other patients during office visits."}, {"task_id": "7361", "occupation": "Tax Preparers", "task_text": "Interview clients to obtain additional information on taxable income and deductible expenses and allowances."}, {"task_id": "18940", "occupation": "Credit Counselors", "task_text": "Maintain or update records of client account activity, including financial transactions, counseling session notes, correspondence, document images, or client inquiries."}, {"task_id": "19181", "occupation": "Music Therapists", "task_text": "Communicate with clients to build rapport, acknowledge their progress, or reflect upon their reactions to musical experiences."}, {"task_id": "1827", "occupation": "Psychiatrists", "task_text": "Analyze and evaluate patient data or test findings to diagnose nature or extent of mental disorder."}, {"task_id": "18364", "occupation": "Nurse Anesthetists", "task_text": "Prepare prescribed solutions and administer local, intravenous, spinal, or other anesthetics, following specified methods and procedures."}, {"task_id": "7065", "occupation": "Cement Masons and Concrete Finishers", "task_text": "Sprinkle colored marble or stone chips, powdered steel, or coloring powder over surface to produce prescribed finish."}, {"task_id": "18454", "occupation": "Nurse Midwives", "task_text": "Prescribe medications as permitted by state regulations."}, {"task_id": "9960", "occupation": "Aircraft Mechanics and Service Technicians", "task_text": "Read and interpret pilots' descriptions of problems to diagnose causes."}, {"task_id": "22888", "occupation": "Medical Records Specialists", "task_text": "Resolve or clarify codes or diagnoses with conflicting, missing, or unclear information by consulting with doctors or others or by participating in the coding team's regular meetings."}, {"task_id": "340", "occupation": "Optometrists", "task_text": "Prescribe medications to treat eye diseases if state laws permit."}, {"task_id": "17260", "occupation": "Sports Medicine Physicians", "task_text": "Develop and prescribe exercise programs, such as off-season conditioning regimens."}, {"task_id": "2874", "occupation": "Electricians", "task_text": "Diagnose malfunctioning systems, apparatus, or components, using test equipment and hand tools to locate the cause of a breakdown and correct the problem."}, {"task_id": "16505", "occupation": "Microsystems Engineers", "task_text": "Conduct analyses addressing issues such as failure, reliability, or yield improvement."}, {"task_id": "17216", "occupation": "Preventive Medicine Physicians", "task_text": "Evaluate the effectiveness of prescribed risk reduction measures or other interventions."}, {"task_id": "18430", "occupation": "Orthoptists", "task_text": "Evaluate, diagnose, or treat disorders of the visual system with an emphasis on binocular vision or abnormal eye movements."}, {"task_id": "20734", "occupation": "Mechanical Engineers", "task_text": "Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions."}, {"task_id": "17066", "occupation": "Allergists and Immunologists", "task_text": "Prescribe medication such as antihistamines, antibiotics, and nasal, oral, topical, or inhaled glucocorticosteroids."}, {"task_id": "8931", "occupation": "Coroners", "task_text": "Witness and certify deaths that are the result of a judicial order."}, {"task_id": "22211", "occupation": "Clinical Neuropsychologists", "task_text": "Diagnose and treat conditions involving injury to the central nervous system, such as cerebrovascular accidents, neoplasms, infectious or inflammatory diseases, degenerative diseases, head traumas, demyelinating diseases, and various forms of dementing illnesses."}, {"task_id": "11357", "occupation": "Postal Service Mail Carriers", "task_text": "Register, certify, and insure parcels and letters."}, {"task_id": "15212", "occupation": "Microbiologists", "task_text": "Isolate and maintain cultures of bacteria or other microorganisms in prescribed or developed media, controlling moisture, aeration, temperature, and nutrition."}, {"task_id": "10881", "occupation": "Aerospace Engineering and Operations Technologists and Technicians", "task_text": "Inspect, diagnose, maintain, and operate test setups and equipment to detect malfunctions."}, {"task_id": "22748", "occupation": "Orthopedic Surgeons, Except Pediatric", "task_text": "Diagnose or treat disorders of the musculoskeletal system."}, {"task_id": "18448", "occupation": "Nurse Midwives", "task_text": "Document findings of physical examinations."}, {"task_id": "10198", "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic", "task_text": "Repair or replace damaged molds, pipes, belts, chains, or other equipment, using hand tools, hand-powered presses, or jib cranes."}, {"task_id": "23824", "occupation": "Captains, Mates, and Pilots of Water Vessels", "task_text": "Arrange for ships to be fueled, restocked with supplies, or repaired."}, {"task_id": "16555", "occupation": "Wind Energy Engineers", "task_text": "Monitor wind farm construction to ensure compliance with regulatory standards or environmental requirements."}, {"task_id": "5185", "occupation": "Bicycle Repairers", "task_text": "Assemble new bicycles."}, {"task_id": "20315", "occupation": "Fitness and Wellness Coordinators", "task_text": "Organize and oversee fitness or wellness programs, such as information presentations, blood drives, or training in first aid or cardiopulmonary resuscitation (CPR)."}, {"task_id": "4996", "occupation": "Cleaners of Vehicles and Equipment", "task_text": "Clean and polish vehicle windows."}, {"task_id": "4865", "occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters", "task_text": "Disassemble and remove damaged or worn pipe."}, {"task_id": "23550", "occupation": "Automotive Service Technicians and Mechanics", "task_text": "Repair or rebuild transmissions."}, {"task_id": "9489", "occupation": "Cooks, Institution and Cafeteria", "task_text": "Clean, cut, and cook meat, fish, or poultry."}, {"task_id": "1007", "occupation": "Human Resources Managers", "task_text": "Contract with vendors to provide employee services, such as food service, transportation, or relocation service."}, {"task_id": "19046", "occupation": "Judicial Law Clerks", "task_text": "Confer with judges concerning legal questions, construction of documents, or granting of orders."}, {"task_id": "2364", "occupation": "Nannies", "task_text": "Perform housekeeping and cleaning duties related to children's care."}, {"task_id": "4836", "occupation": "Helpers--Electricians", "task_text": "Perform semi-skilled and unskilled laboring duties related to the installation, maintenance and repair of a wide variety of electrical systems and equipment."}, {"task_id": "15817", "occupation": "Wind Energy Operations Managers", "task_text": "Estimate costs associated with operations, including repairs or preventive maintenance."}, {"task_id": "23373", "occupation": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse", "task_text": "Repair and maintain farm vehicles, implements, and mechanical equipment."}, {"task_id": "16296", "occupation": "Geodetic Surveyors", "task_text": "Compute, retrace, or adjust existing surveys of features such as highway alignments, property boundaries, utilities, control and other surveys to match the ground elevation-dependent grids, geodetic grids, or property boundaries and to ensure accuracy and continuity of data used in engineering, surveying, or construction projects."}, {"task_id": "5190", "occupation": "Bicycle Repairers", "task_text": "Repair holes in tire tubes, using scrapers and patches."}, {"task_id": "5177", "occupation": "Sheet Metal Workers", "task_text": "Maintain equipment, making repairs or modifications when necessary."}, {"task_id": "3121", "occupation": "Machinists", "task_text": "Install experimental parts or assemblies, such as hydraulic systems, electrical wiring, lubricants, or batteries into machines or mechanisms."}, {"task_id": "22599", "occupation": "Musicians and Singers", "task_text": "Improvise music during performances."}, {"task_id": "22726", "occupation": "Emergency Medicine Physicians", "task_text": "Perform emergency resuscitations on patients."}, {"task_id": "22911", "occupation": "First-Line Supervisors of Firefighting and Prevention Workers", "task_text": "Provide emergency medical services as required, and perform light to heavy rescue functions at emergencies."}, {"task_id": "23908", "occupation": "Mental Health Counselors", "task_text": "Perform crisis interventions to help ensure the safety of the patients and others."}, {"task_id": "21297", "occupation": "Security Managers", "task_text": "Direct or participate in emergency management and contingency planning."}, {"task_id": "7259", "occupation": "Emergency Management Directors", "task_text": "Keep informed of federal, state, and local regulations affecting emergency plans, and ensure that plans adhere to those regulations."}, {"task_id": "13245", "occupation": "Telephone Operators", "task_text": "Offer special assistance to persons such as those who are unable to dial or who are in emergency situations."}, {"task_id": "22730", "occupation": "Emergency Medicine Physicians", "task_text": "Select, request, perform, or interpret diagnostic procedures, such as laboratory tests, electrocardiograms, emergency ultrasounds, and radiographs."}, {"task_id": "20839", "occupation": "Parking Attendants", "task_text": "Call emergency responders or the proper authorities and provide motorist assistance, such as giving directions or helping jump start a stalled vehicle."}, {"task_id": "7256", "occupation": "Emergency Management Directors", "task_text": "Maintain and update all resource materials associated with emergency preparedness plans."}, {"task_id": "12351", "occupation": "Chemical Equipment Operators and Tenders", "task_text": "Implement appropriate industrial emergency response procedures."}, {"task_id": "2127", "occupation": "Police Identification and Records Officers", "task_text": "Perform emergency work during off-hours."}, {"task_id": "7270", "occupation": "Emergency Management Directors", "task_text": "Conduct surveys to determine the types of emergency-related needs to be addressed in disaster planning, or provide technical support to others conducting such surveys."}, {"task_id": "21347", "occupation": "Transportation, Storage, and Distribution Managers", "task_text": "Develop and document standard and emergency operating procedures for receiving, handling, storing, shipping, or salvaging products or materials."}, {"task_id": "5385", "occupation": "Nuclear Engineers", "task_text": "Initiate corrective actions or order plant shutdowns in emergency situations."}, {"task_id": "7755", "occupation": "Anesthesiologists", "task_text": "Provide and maintain life support and airway management and help prepare patients for emergency surgery."}, {"task_id": "60", "occupation": "Medical and Health Services Managers", "task_text": "Inspect facilities and recommend building or equipment modifications to ensure emergency readiness and compliance to access, safety, and sanitation regulations."}, {"task_id": "2714", "occupation": "Public Safety Telecommunicators", "task_text": "Maintain files of information relating to emergency calls, such as personnel rosters and emergency call-out and pager files."}, {"task_id": "21768", "occupation": "Information Security Engineers", "task_text": "Coordinate documentation of computer security or emergency measure policies, procedures, or tests."}, {"task_id": "5045", "occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers", "task_text": "Complete and maintain records of weather and beach conditions, emergency medical treatments performed, and other relevant incident information."}, {"task_id": "21363", "occupation": "Transportation, Storage, and Distribution Managers", "task_text": "Evaluate contractors or business partners for operational efficiency or safety or environmental performance records."}, {"task_id": "4268", "occupation": "Occupational Therapy Assistants", "task_text": "Perform clerical duties, such as scheduling appointments, collecting data, or documenting health insurance billings."}, {"task_id": "21463", "occupation": "Project Management Specialists", "task_text": "Communicate with key stakeholders to determine project requirements and objectives."}, {"task_id": "8601", "occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators", "task_text": "Dispatch personnel and vehicles in response to telephone or radio reports of emergencies."}, {"task_id": "10772", "occupation": "Crane and Tower Operators", "task_text": "Direct helpers engaged in placing blocking or outrigging under cranes."}, {"task_id": "6844", "occupation": "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors", "task_text": "Review instructional content, methods, and student evaluations to assess strengths and weaknesses, and to develop recommendations for course revision, development, or elimination."}, {"task_id": "12365", "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders", "task_text": "Inspect machines or equipment for hazards, operating efficiency, malfunctions, wear, or leaks."}, {"task_id": "23380", "occupation": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse", "task_text": "Identify plants, pests, and weeds to determine the selection and application of pesticides and fertilizers."}, {"task_id": "21657", "occupation": "Database Architects", "task_text": "Test programs or databases, correct errors, and make necessary modifications."}, {"task_id": "21497", "occupation": "Security Management Specialists", "task_text": "Prepare documentation for case reports or court proceedings."}, {"task_id": "23096", "occupation": "School Bus Monitors", "task_text": "Respond to students' questions, requests, or complaints."}, {"task_id": "5812", "occupation": "Biological Science Teachers, Postsecondary", "task_text": "Collaborate with colleagues to address teaching and research issues."}, {"task_id": "21992", "occupation": "Electrical and Electronic Engineering Technologists and Technicians", "task_text": "Procure parts and maintain inventory and related documentation."}, {"task_id": "12486", "occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers", "task_text": "Read dials or meters to verify that equipment is functioning at specified levels."}, {"task_id": "10563", "occupation": "Airline Pilots, Copilots, and Flight Engineers", "task_text": "Respond to and report in-flight emergencies and malfunctions."}, {"task_id": "17548", "occupation": "Intelligence Analysts", "task_text": "Gather intelligence information by field observation, confidential information sources, or public records."}, {"task_id": "19802", "occupation": "Precision Agriculture Technicians", "task_text": "Participate in efforts to advance precision agriculture technology, such as developing advanced weed identification or automated spot spraying systems."}, {"task_id": "17235", "occupation": "Radiologists", "task_text": "Develop treatment plans for radiology patients."}, {"task_id": "15479", "occupation": "Biomass Power Plant Managers", "task_text": "Monitor the operating status of biomass plants by observing control system parameters, distributed control systems, switchboard gauges, dials, or other indicators."}, {"task_id": "17161", "occupation": "Ophthalmologists, Except Pediatric", "task_text": "Instruct interns, residents, or others in ophthalmologic procedures and techniques."}];
+    var startParam = "<?= startParam ?>", endParam = "<?= endParam ?>";
+    var s = parseInt(startParam, 10), e = parseInt(endParam, 10);
+    if (!isNaN(s) || !isNaN(e)) {
+      var a = isNaN(s) ? 1 : s, b = isNaN(e) ? TASKS.length : e;
+      TASKS = TASKS.slice(a - 1, b);
+    }
+    var sessionId = 'sess-' + Math.random().toString(36).slice(2) + '-' + (new Date()).getTime();
+    var i = 0, answers = {};
+
+    function anchor(v) {
+      if (v >= 90) return "agent can do essentially all of it alone";
+      if (v >= 65) return "agent does most; a human finishes a little";
+      if (v >= 35) return "roughly half needs a human to act / be present / decide";
+      if (v >= 10) return "agent helps but a human must do most of it";
+      return "agent cannot meaningfully do it alone";
+    }
+
+    function render() {
+      var t = TASKS[i];
+      var prev = answers[t.task_id] || { coverage: 50, confidence: 3, comment: "" };
+      document.getElementById('prog').textContent =
+        'Task ' + (i + 1) + ' of ' + TASKS.length +
+        '  ( you have saved ' + Object.keys(answers).length + ' )';
+      document.getElementById('stage').innerHTML =
+        '<div class="card">' +
+          '<div class="occ">' + esc(t.occupation) + '</div>' +
+          '<div class="task">' + esc(t.task_text) + '</div>' +
+          '<div class="q">How much could an autonomous AI agent complete on its own?</div>' +
+          '<div class="val"><span id="cv">' + prev.coverage + '</span>%</div>' +
+          '<input type="range" min="0" max="100" step="5" id="cov" value="' + prev.coverage + '">' +
+          '<div class="scale"><span>0% none</span><span id="anch">' + anchor(prev.coverage) + '</span><span>100% all</span></div>' +
+          '<div class="q">How confident are you?</div>' +
+          '<div class="conf" id="conf">' + confRadios(prev.confidence) + '</div>' +
+          '<div class="q">Comment (optional)</div>' +
+          '<textarea id="comment" placeholder="e.g. needs a human signature / on-site presence">' + esc(prev.comment) + '</textarea>' +
+          '<div class="nav">' +
+            '<button class="secondary" onclick="back()"' + (i === 0 ? ' disabled' : '') + '>Back</button>' +
+            '<button onclick="saveNext()">' + (i === TASKS.length - 1 ? 'Save &amp; finish' : 'Save &amp; next') + '</button>' +
+          '</div>' +
+        '</div>';
+      var cov = document.getElementById('cov');
+      cov.oninput = function () {
+        document.getElementById('cv').textContent = cov.value;
+        document.getElementById('anch').textContent = anchor(parseInt(cov.value, 10));
+      };
+    }
+
+    function confRadios(sel) {
+      var out = '';
+      for (var c = 1; c <= 5; c++) {
+        out += '<label><input type="radio" name="confidence" value="' + c + '"' +
+               (c === sel ? ' checked' : '') + '>' + c + '</label>';
+      }
+      return out + ' <span style="font-size:12px;color:#999">(1 low - 5 high)</span>';
+    }
+
+    function esc(x) { var d = document.createElement('div'); d.textContent = x == null ? '' : x; return d.innerHTML; }
+
+    function collect() {
+      var t = TASKS[i];
+      var conf = document.querySelector('input[name=confidence]:checked');
+      answers[t.task_id] = {
+        coverage: parseInt(document.getElementById('cov').value, 10),
+        confidence: conf ? parseInt(conf.value, 10) : 3,
+        comment: document.getElementById('comment').value || ""
+      };
+      return t;
+    }
+
+    function saveNext() {
+      var t = collect();
+      var a = answers[t.task_id];
+      var name = document.getElementById('annotator').value || 'anonymous';
+      var email = document.getElementById('email').value || '';
+      google.script.run
+        .withSuccessHandler(function () {})
+        .withFailureHandler(function (err) { alert('Save failed: ' + err); })
+        .submitAnnotation({
+          annotator: name, email: email, sessionId: sessionId,
+          rows: [[t.task_id, t.occupation, t.task_text,
+                  (a.coverage / 100).toFixed(2), a.confidence, a.comment]]
+        });
+      if (i < TASKS.length - 1) { i++; render(); }
+      else {
+        document.getElementById('stage').innerHTML =
+          '<div class="card"><h2>Thank you!</h2><p>You saved ' +
+          Object.keys(answers).length + ' ratings. You can close this tab, or go ' +
+          '<button class="secondary" onclick="i=0;render()">back to the start</button> to review.</p></div>';
+        document.getElementById('prog').textContent = '';
+      }
+    }
+
+    function back() { collect(); if (i > 0) { i--; render(); } }
+
+    render();
+  </script>
+</body>
+</html>

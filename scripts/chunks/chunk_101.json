@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "20899",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Order, display, and maintain supplies."
+ },
+ {
+  "task_id": "646",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Comb, brush, and spray hair or wigs to set style."
+ },
+ {
+  "task_id": "644",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Develop new styles and techniques."
+ },
+ {
+  "task_id": "645",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Apply water or setting, straightening or waving solutions to hair, and use curlers, rollers, hot combs and curling irons to press and curl hair."
+ },
+ {
+  "task_id": "647",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Shape eyebrows and remove facial hair, using depilatory cream, tweezers, electrolysis or wax."
+ },
+ {
+  "task_id": "650",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Shave, trim, and shape beards and moustaches."
+ },
+ {
+  "task_id": "651",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Train or supervise other hairstylists, hairdressers, and assistants."
+ },
+ {
+  "task_id": "649",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Massage and treat scalp for hygienic and remedial purposes, using hands, fingers, or vibrating equipment."
+ },
+ {
+  "task_id": "648",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Administer therapeutic medication and advise patron to seek medical treatment for chronic or contagious scalp conditions."
+ },
+ {
+  "task_id": "652",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Recommend and explain the use of cosmetics, lotions, and creams to soften and lubricate skin and enhance and restore natural appearance."
+ },
+ {
+  "task_id": "654",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Clean, shape, and polish fingernails and toenails, using files and nail polish."
+ },
+ {
+  "task_id": "653",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Give facials to patrons, using special compounds, such as lotions and creams."
+ },
+ {
+  "task_id": "656",
+  "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+  "task_text": "Attach wigs or hairpieces to model heads and dress wigs and hairpieces according to instructions, samples, sketches or photographs."
+ },
+ {
+  "task_id": "24008",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Clean supplies such as makeup brushes."
+ },
+ {
+  "task_id": "14798",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Duplicate work precisely to replicate characters' appearances on a daily basis."
+ },
+ {
+  "task_id": "14800",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Apply makeup to enhance or alter the appearance of people appearing in productions such as movies."
+ },
+ {
+  "task_id": "14805",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Analyze a script, noting events that affect each character's appearance, so that plans can be made for each scene."
+ },
+ {
+  "task_id": "14801",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Alter or maintain makeup during productions as necessary to compensate for lighting changes or to achieve continuity of effect."
+ },
+ {
+  "task_id": "14797",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Confer with stage or motion picture officials and performers to determine desired effects."
+ },
+ {
+  "task_id": "14806",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Requisition or acquire needed materials for special effects, including wigs, beards, and special cosmetics."
+ },
+ {
+  "task_id": "14814",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Study production information, such as character descriptions, period settings, and situations, to determine makeup requirements."
+ },
+ {
+  "task_id": "14799",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Establish budgets, and work within budgetary limits."
+ },
+ {
+  "task_id": "14802",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Select desired makeup shades from stock, or mix oil, grease, and coloring to achieve specific color effects."
+ },
+ {
+  "task_id": "14807",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Write makeup sheets and take photos to document specific looks and the products used to achieve the looks."
+ },
+ {
+  "task_id": "14804",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Assess performers' skin type to ensure that makeup will not cause break-outs or skin irritations."
+ },
+ {
+  "task_id": "14809",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Attach prostheses to performers and apply makeup to create special features or effects, such as scars, aging, or illness."
+ },
+ {
+  "task_id": "14808",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Examine sketches, photographs, and plaster models to obtain desired character image depiction."
+ },
+ {
+  "task_id": "14803",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Cleanse and tone the skin to prepare it for makeup application."
+ },
+ {
+  "task_id": "14810",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Evaluate environmental characteristics, such as venue size and lighting plans, to determine makeup requirements."
+ },
+ {
+  "task_id": "14815",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Provide performers with makeup removal assistance after performances have been completed."
+ },
+ {
+  "task_id": "14811",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Design rubber or plastic prostheses that can be used to change performers' appearances."
+ },
+ {
+  "task_id": "14812",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Create character drawings or models, based upon independent research, to augment period production files."
+ },
+ {
+  "task_id": "14817",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Demonstrate products to clients, and provide instruction in makeup application."
+ },
+ {
+  "task_id": "14813",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Advise hairdressers on the hairstyles required for character parts."
+ },
+ {
+  "task_id": "14816",
+  "occupation": "Makeup Artists, Theatrical and Performance",
+  "task_text": "Wash and reset wigs."
+ },
+ {
+  "task_id": "8748",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Clean and sanitize tools and work environment."
+ },
+ {
+  "task_id": "8753",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Apply undercoat and clear or colored polish onto nails with brush."
+ },
+ {
+  "task_id": "8758",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Maintain supply inventories and records of client services."
+ },
+ {
+  "task_id": "8752",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Shape and smooth ends of nails, using scissors, files, or emery boards."
+ },
+ {
+  "task_id": "20769",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Prepare nail cuticles with water and oil, using cuticle knives to push back cuticles and scissors or nippers to trim cuticles."
+ },
+ {
+  "task_id": "20770",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Prepare customers' nails in soapy water, using swabs, files, and orange sticks."
+ },
+ {
+  "task_id": "8750",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Remove previously applied nail polish, using liquid remover and swabs."
+ },
+ {
+  "task_id": "20771",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Use rotary abrasive wheels to shape and smooth nails or artificial extensions."
+ },
+ {
+  "task_id": "8749",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Schedule client appointments and accept payments."
+ },
+ {
+  "task_id": "20772",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Assess the condition of clients' hands, remove dead skin, and massage hands."
+ },
+ {
+  "task_id": "8760",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Roughen surfaces of fingernails, using abrasive wheel."
+ },
+ {
+  "task_id": "8754",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Advise clients on nail care and use of products and colors."
+ },
+ {
+  "task_id": "20773",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Treat nails to repair or improve strength and resilience by wrapping."
+ },
+ {
+  "task_id": "20774",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Extend nails using powder, solvent, and paper forms attached to tips of customers' fingers to support and shape artificial nails."
+ },
+ {
+  "task_id": "8763",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Polish nails, using powdered polish and buffer."
+ },
+ {
+  "task_id": "8764",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Whiten underside of nails with white paste or pencils."
+ },
+ {
+  "task_id": "8761",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Promote and sell nail care products."
+ },
+ {
+  "task_id": "8765",
+  "occupation": "Manicurists and Pedicurists",
+  "task_text": "Decorate clients' nails by piercing or attaching ornaments or designs."
+ },
+ {
+  "task_id": "14818",
+  "occupation": "Shampooers",
+  "task_text": "Massage, shampoo, and condition patron's hair and scalp to clean them and remove excess oil."
+ },
+ {
+  "task_id": "14819",
+  "occupation": "Shampooers",
+  "task_text": "Advise patrons with chronic or potentially contagious scalp conditions to seek medical treatment."
+ },
+ {
+  "task_id": "14820",
+  "occupation": "Shampooers",
+  "task_text": "Treat scalp conditions and hair loss, using specialized lotions, shampoos, or equipment such as infrared lamps or vibrating equipment."
+ },
+ {
+  "task_id": "14821",
+  "occupation": "Shampooers",
+  "task_text": "Maintain treatment records."
+ },
+ {
+  "task_id": "8069",
+  "occupation": "Skincare Specialists",
+  "task_text": "Sterilize equipment and clean work areas."
+ },
+ {
+  "task_id": "8074",
+  "occupation": "Skincare Specialists",
+  "task_text": "Cleanse clients' skin with water, creams, or lotions."
+ },
+ {
+  "task_id": "8071",
+  "occupation": "Skincare Specialists",
+  "task_text": "Demonstrate how to clean and care for skin properly and recommend skin-care regimens."
+ },
+ {
+  "task_id": "8077",
+  "occupation": "Skincare Specialists",
+  "task_text": "Determine which products or colors will improve clients' skin quality and appearance."
+ },
+ {
+  "task_id": "8070",
+  "occupation": "Skincare Specialists",
+  "task_text": "Keep records of client needs and preferences and the services provided."
+ },
+ {
+  "task_id": "8075",
+  "occupation": "Skincare Specialists",
+  "task_text": "Treat the facial skin to maintain and improve its appearance, using specialized techniques and products, such as peels and masks."
+ },
+ {
+  "task_id": "8072",
+  "occupation": "Skincare Specialists",
+  "task_text": "Examine clients' skin, using magnifying lamps or visors when necessary, to evaluate skin condition and appearance."
+ },
+ {
+  "task_id": "8078",
+  "occupation": "Skincare Specialists",
+  "task_text": "Perform simple extractions to remove blackheads."
+ },
+ {
+  "task_id": "8073",
+  "occupation": "Skincare Specialists",
+  "task_text": "Select and apply cosmetic products, such as creams, lotions, and tonics."
+ },
+ {
+  "task_id": "20258",
+  "occupation": "Skincare Specialists",
+  "task_text": "Stay abreast of latest industry trends, products, research, and treatments."
+ },
+ {
+  "task_id": "8081",
+  "occupation": "Skincare Specialists",
+  "task_text": "Apply chemical peels to reduce fine lines and age spots."
+ },
+ {
+  "task_id": "8076",
+  "occupation": "Skincare Specialists",
+  "task_text": "Refer clients to medical personnel for treatment of serious skin problems."
+ },
+ {
+  "task_id": "8079",
+  "occupation": "Skincare Specialists",
+  "task_text": "Provide facial and body massages."
+ },
+ {
+  "task_id": "8080",
+  "occupation": "Skincare Specialists",
+  "task_text": "Remove body and facial hair by applying wax."
+ },
+ {
+  "task_id": "8086",
+  "occupation": "Skincare Specialists",
+  "task_text": "Tint eyelashes and eyebrows."
+ },
+ {
+  "task_id": "8084",
+  "occupation": "Skincare Specialists",
+  "task_text": "Collaborate with plastic surgeons and dermatologists to provide patients with preoperative and postoperative skin care."
+ },
+ {
+  "task_id": "8082",
+  "occupation": "Skincare Specialists",
+  "task_text": "Advise clients about colors and types of makeup and instruct them in makeup application techniques."
+ },
+ {
+  "task_id": "8083",
+  "occupation": "Skincare Specialists",
+  "task_text": "Sell makeup to clients."
+ },
+ {
+  "task_id": "2316",
+  "occupation": "Baggage Porters and Bellhops",
+  "task_text": "Receive and mark baggage by completing and attaching claim checks."
+ },
+ {
+  "task_id": "2317",
+  "occupation": "Baggage Porters and Bellhops",
+  "task_text": "Greet incoming guests and escort them to their rooms."
+ },
+ {
+  "task_id": "2324",
+  "occupation": "Baggage Porters and Bellhops",
+  "task_text": "Transport guests about premises and local areas, or arrange for transportation."
+ },
+ {
+  "task_id": "2323",
+  "occupation": "Baggage Porters and Bellhops",
+  "task_text": "Maintain clean lobbies or entrance areas for travelers or guests."
+ },
+ {
+  "task_id": "2314",
+  "occupation": "Baggage Porters and Bellhops",
+  "task_text": "Transfer luggage, trunks, and packages to and from rooms, loading areas, vehicles, or transportation terminals, by hand or using baggage carts."
+ },
+ {
+  "task_id": "2315",
+  "occupation": "Baggage Porters and Bellhops",
+  "task_text": "Supply guests or travelers with directions, travel information, and other information, such as available services and points of interest."
+ },
+ {
+  "task_id": "2321",
+  "occupation": "Baggage Porters and Bellhops",
+  "task_text": "Explain the operation of room features, such as locks, ventilation systems, and televisions."
+ },
+ {
+  "task_id": "2318",
+  "occupation": "Baggage Porters and Bellhops",
+  "task_text": "Assist travelers and guests with disabilities."
+ },
+ {
+  "task_id": "2320",
+  "occupation": "Baggage Porters and Bellhops",
+  "task_text": "Deliver messages and room service orders, and run errands for guests."
+ },
+ {
+  "task_id": "2327",
+  "occupation": "Baggage Porters and Bellhops",
+  "task_text": "Pick up and return items for laundry and valet service."
+ },
+ {
+  "task_id": "2319",
+  "occupation": "Baggage Porters and Bellhops",
+  "task_text": "Act as part of the security team at transportation terminals, hotels, or similar establishments."
+ },
+ {
+  "task_id": "2325",
+  "occupation": "Baggage Porters and Bellhops",
+  "task_text": "Compute and complete charge slips for services rendered and maintain records."
+ },
+ {
+  "task_id": "2326",
+  "occupation": "Baggage Porters and Bellhops",
+  "task_text": "Page guests in hotel lobbies, dining rooms, or other areas."
+ },
+ {
+  "task_id": "2330",
+  "occupation": "Baggage Porters and Bellhops",
+  "task_text": "Set up conference rooms, display tables, racks, or shelves, and arrange merchandise displays for sales personnel."
+ },
+ {
+  "task_id": "2328",
+  "occupation": "Baggage Porters and Bellhops",
+  "task_text": "Inspect guests' rooms to ensure that they are adequately stocked, orderly, and comfortable."
+ },
+ {
+  "task_id": "2329",
+  "occupation": "Baggage Porters and Bellhops",
+  "task_text": "Complete baggage insurance forms."
+ },
+ {
+  "task_id": "2322",
+  "occupation": "Baggage Porters and Bellhops",
+  "task_text": "Arrange for shipments of baggage, express mail, and parcels by providing weighing and billing services."
+ },
+ {
+  "task_id": "4529",
+  "occupation": "Concierges",
+  "task_text": "Provide information about local features, such as shopping, dining, nightlife, or recreational destinations."
+ },
+ {
+  "task_id": "20259",
+  "occupation": "Concierges",
+  "task_text": "Make reservations for patrons, such as for dinner, spa treatments, or golf tee times, and obtain tickets to special events."
+ },
+ {
+  "task_id": "20260",
+  "occupation": "Concierges",
+  "task_text": "Provide directions to guests."
+ },
+ {
+  "task_id": "21203",
+  "occupation": "Concierges",
+  "task_text": "Order flowers for guests."
+ },
+ {
+  "task_id": "4530",
+  "occupation": "Concierges",
+  "task_text": "Make travel arrangements for sightseeing or other tours."
+ },
+ {
+  "task_id": "4533",
+  "occupation": "Concierges",
+  "task_text": "Pick up and deliver items or run errands for guests."
+ },
+ {
+  "task_id": "20262",
+  "occupation": "Concierges",
+  "task_text": "Plan special events, parties, or meetings, which may include booking musicians or celebrities."
+ },
+ {
+  "task_id": "24009",
+  "occupation": "Concierges",
+  "task_text": "Book airline or train tickets, reserve rental cars, or arrange shuttle service for guests."
+ },
+ {
+  "task_id": "20263",
+  "occupation": "Concierges",
+  "task_text": "Arrange childcare services for guests."
+ },
+ {
+  "task_id": "4534",
+  "occupation": "Concierges",
+  "task_text": "Carry out unusual requests, such as searching for hard-to-find items or arranging for exotic services, such as hot-air balloon rides."
+ },
+ {
+  "task_id": "24010",
+  "occupation": "Concierges",
+  "task_text": "Assist guests with special needs by providing equipment such as wheelchairs."
+ },
+ {
+  "task_id": "4531",
+  "occupation": "Concierges",
+  "task_text": "Receive, store, or deliver luggage or mail."
+ },
+ {
+  "task_id": "4532",
+  "occupation": "Concierges",
+  "task_text": "Perform office duties on a temporary basis when needed."
+ },
+ {
+  "task_id": "4535",
+  "occupation": "Concierges",
+  "task_text": "Arrange for the replacement of items lost by travelers."
+ },
+ {
+  "task_id": "20261",
+  "occupation": "Concierges",
+  "task_text": "Provide business services for guests, such as sending or receiving faxes or shipping packages."
+ },
+ {
+  "task_id": "4536",
+  "occupation": "Concierges",
+  "task_text": "Arrange for interpreters or translators when patrons require such services."
+ },
+ {
+  "task_id": "20265",
+  "occupation": "Concierges",
+  "task_text": "Provide food and beverage services to guests."
+ },
+ {
+  "task_id": "20264",
+  "occupation": "Concierges",
+  "task_text": "Clean and tidy hotel lounge."
+ },
+ {
+  "task_id": "4540",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Describe tour points of interest to group members, and respond to questions."
+ },
+ {
+  "task_id": "4539",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Escort individuals or groups on cruises, sightseeing tours, or through places of interest, such as industrial establishments, public buildings, or art galleries."
+ },
+ {
+  "task_id": "4541",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Monitor visitors' activities to ensure compliance with establishment or tour regulations and safety practices."
+ },
+ {
+  "task_id": "4538",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Conduct educational activities for school children."
+ },
+ {
+  "task_id": "20135",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Research various topics, including site history, environmental conditions, and clients' skills and abilities to plan appropriate expeditions, instruction, and commentary."
+ },
+ {
+  "task_id": "4544",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Provide directions and other pertinent information to visitors."
+ },
+ {
+  "task_id": "4550",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Select travel routes and sites to be visited based on knowledge of specific areas."
+ },
+ {
+  "task_id": "4545",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Provide for physical safety of groups, performing such activities as providing first aid or directing emergency evacuations."
+ },
+ {
+  "task_id": "4553",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Assemble and check the required supplies and equipment prior to departure."
+ },
+ {
+  "task_id": "4542",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Greet and register visitors, and issue any required identification badges or safety devices."
+ },
+ {
+  "task_id": "4543",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Distribute brochures, show audiovisual presentations, and explain establishment processes and operations at tour sites."
+ },
+ {
+  "task_id": "4554",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Drive motor vehicles to transport visitors to establishments and tour site locations."
+ },
+ {
+  "task_id": "20136",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Train other guides and volunteers."
+ },
+ {
+  "task_id": "4547",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Provide information about wildlife varieties and habitats, as well as any relevant regulations, such as those pertaining to hunting and fishing."
+ },
+ {
+  "task_id": "4549",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Teach skills, such as proper climbing methods, and demonstrate and advise on the use of equipment."
+ },
+ {
+  "task_id": "4548",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Collect fees and tickets from group members."
+ },
+ {
+  "task_id": "4555",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Perform clerical duties, such as filing, typing, operating switchboards, or routing mail and messages."
+ },
+ {
+  "task_id": "4551",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Solicit tour patronage and sell souvenirs."
+ },
+ {
+  "task_id": "4552",
+  "occupation": "Tour Guides and Escorts",
+  "task_text": "Speak foreign languages to communicate with foreign visitors."
+ },
+ {
+  "task_id": "13158",
+  "occupation": "Travel Guides",
+  "task_text": "Arrange for tour or expedition details such as accommodations, transportation, equipment, and the availability of medical personnel."
+ }
+]

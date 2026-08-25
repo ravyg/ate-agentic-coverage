@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "16428",
+  "occupation": "Automotive Engineers",
+  "task_text": "Provide technical direction to other engineers or engineering support personnel."
+ },
+ {
+  "task_id": "16429",
+  "occupation": "Automotive Engineers",
+  "task_text": "Perform failure, variation, or root cause analyses."
+ },
+ {
+  "task_id": "16434",
+  "occupation": "Automotive Engineers",
+  "task_text": "Calibrate vehicle systems, including control algorithms or other software systems."
+ },
+ {
+  "task_id": "16437",
+  "occupation": "Automotive Engineers",
+  "task_text": "Design or analyze automobile systems in areas such as aerodynamics, alternate fuels, ergonomics, hybrid power, brakes, transmissions, steering, calibration, safety, or diagnostics."
+ },
+ {
+  "task_id": "16423",
+  "occupation": "Automotive Engineers",
+  "task_text": "Prepare or present technical or project status reports."
+ },
+ {
+  "task_id": "16426",
+  "occupation": "Automotive Engineers",
+  "task_text": "Conduct research studies to develop new concepts in the field of automotive engineering."
+ },
+ {
+  "task_id": "16422",
+  "occupation": "Automotive Engineers",
+  "task_text": "Establish production or quality control standards."
+ },
+ {
+  "task_id": "16436",
+  "occupation": "Automotive Engineers",
+  "task_text": "Alter or modify designs to obtain specified functional or operational performance."
+ },
+ {
+  "task_id": "19638",
+  "occupation": "Automotive Engineers",
+  "task_text": "Research or implement green automotive technologies involving alternative fuels, electric or hybrid cars, or lighter or more fuel-efficient vehicles."
+ },
+ {
+  "task_id": "16432",
+  "occupation": "Automotive Engineers",
+  "task_text": "Develop calibration methodologies, test methodologies, or tools."
+ },
+ {
+  "task_id": "19633",
+  "occupation": "Automotive Engineers",
+  "task_text": "Create design alternatives for vehicle components, such as camless or dual-clutch engines or alternative air-conditioning systems, to increase fuel efficiency."
+ },
+ {
+  "task_id": "16424",
+  "occupation": "Automotive Engineers",
+  "task_text": "Develop or implement operating methods or procedures."
+ },
+ {
+  "task_id": "16431",
+  "occupation": "Automotive Engineers",
+  "task_text": "Develop engineering specifications or cost estimates for automotive design concepts."
+ },
+ {
+  "task_id": "16433",
+  "occupation": "Automotive Engineers",
+  "task_text": "Conduct automotive design reviews."
+ },
+ {
+  "task_id": "19635",
+  "occupation": "Automotive Engineers",
+  "task_text": "Design vehicles that use lighter materials, such as aluminum, magnesium alloy, or plastic, to improve fuel efficiency."
+ },
+ {
+  "task_id": "16425",
+  "occupation": "Automotive Engineers",
+  "task_text": "Write, review, or maintain engineering documentation."
+ },
+ {
+  "task_id": "19636",
+  "occupation": "Automotive Engineers",
+  "task_text": "Develop specifications for vehicles powered by alternative fuels or alternative power methods."
+ },
+ {
+  "task_id": "16435",
+  "occupation": "Automotive Engineers",
+  "task_text": "Build models for algorithm or control feature verification testing."
+ },
+ {
+  "task_id": "16427",
+  "occupation": "Automotive Engineers",
+  "task_text": "Coordinate production activities with other functional units, such as procurement, maintenance, or quality control."
+ },
+ {
+  "task_id": "16439",
+  "occupation": "Automotive Engineers",
+  "task_text": "Design control systems or algorithms for purposes such as automotive energy management, emissions management, or increased operational safety or performance."
+ },
+ {
+  "task_id": "16430",
+  "occupation": "Automotive Engineers",
+  "task_text": "Develop or integrate control feature requirements."
+ },
+ {
+  "task_id": "19637",
+  "occupation": "Automotive Engineers",
+  "task_text": "Research computerized automotive applications, such as telemetrics, intelligent transportation systems, artificial intelligence, or automatic control."
+ },
+ {
+  "task_id": "16421",
+  "occupation": "Automotive Engineers",
+  "task_text": "Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new automotive technology or competitive products."
+ },
+ {
+  "task_id": "19634",
+  "occupation": "Automotive Engineers",
+  "task_text": "Design vehicles for increased recyclability or use of natural, renewable, or recycled materials in vehicle construction."
+ },
+ {
+  "task_id": "3569",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Prepare technical reports for use by mining, engineering, and management personnel."
+ },
+ {
+  "task_id": "3561",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Inspect mining areas for unsafe structures, equipment, and working conditions."
+ },
+ {
+  "task_id": "3568",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Select or develop mineral location, extraction, and production methods, based on factors such as safety, cost, and deposit characteristics."
+ },
+ {
+  "task_id": "3562",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Select locations and plan underground or surface mining operations, specifying processes, labor usage, and equipment that will result in safe, economical, and environmentally sound extraction of minerals and ores."
+ },
+ {
+  "task_id": "3565",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Prepare schedules, reports, and estimates of the costs involved in developing and operating mines."
+ },
+ {
+  "task_id": "3566",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Monitor mine production rates to assess operational effectiveness."
+ },
+ {
+  "task_id": "18610",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Supervise, train, and evaluate technicians, technologists, survey personnel, engineers, scientists or other mine personnel."
+ },
+ {
+  "task_id": "3563",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Examine maps, deposits, drilling locations, or mines to determine the location, size, accessibility, contents, value, and potential profitability of mineral, oil, and gas deposits."
+ },
+ {
+  "task_id": "3567",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Design, implement, and monitor the development of mines, facilities, systems, or equipment."
+ },
+ {
+  "task_id": "3571",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Test air to detect toxic gases and recommend measures to remove them, such as installation of ventilation shafts."
+ },
+ {
+  "task_id": "3570",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Implement and coordinate mine safety programs, including the design and maintenance of protective and rescue equipment and safety devices."
+ },
+ {
+  "task_id": "3574",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Devise solutions to problems of land reclamation and water and air pollution, such as methods of storing excavated soil and returning exhausted mine sites to natural states."
+ },
+ {
+  "task_id": "3575",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Lay out, direct, and supervise mine construction operations, such as the construction of shafts and tunnels."
+ },
+ {
+  "task_id": "3572",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Design, develop, and implement computer applications for use in mining operations such as mine design, modeling, or mapping or for monitoring mine conditions."
+ },
+ {
+  "task_id": "3573",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Select or devise materials-handling methods and equipment to transport ore, waste materials, and mineral products efficiently and economically."
+ },
+ {
+  "task_id": "3576",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Evaluate data to develop new mining products, equipment, or processes."
+ },
+ {
+  "task_id": "3578",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Design mining and mineral treatment equipment and machinery in collaboration with other engineering specialists."
+ },
+ {
+  "task_id": "3577",
+  "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+  "task_text": "Conduct or direct mining experiments to test or prove research findings."
+ },
+ {
+  "task_id": "5384",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Design or develop nuclear equipment, such as reactor cores, radiation shielding, or associated instrumentation or control mechanisms."
+ },
+ {
+  "task_id": "5380",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Monitor nuclear facility operations to identify any design, construction, or operation practices that violate safety regulations and laws or could jeopardize safe operations."
+ },
+ {
+  "task_id": "5385",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Initiate corrective actions or order plant shutdowns in emergency situations."
+ },
+ {
+  "task_id": "5379",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Examine accidents to obtain data for use in design of preventive measures."
+ },
+ {
+  "task_id": "5389",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Direct operating or maintenance activities of nuclear power plants to ensure efficiency and conformity to safety standards."
+ },
+ {
+  "task_id": "5383",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Design or oversee construction or operation of nuclear reactors, power plants, or nuclear fuels reprocessing and reclamation systems."
+ },
+ {
+  "task_id": "19642",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Direct environmental compliance activities associated with nuclear plant operations or maintenance."
+ },
+ {
+  "task_id": "5387",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Write operational instructions to be used in nuclear plant operation or nuclear fuel or waste handling and disposal."
+ },
+ {
+  "task_id": "20956",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Prepare technical reports of findings or recommendations, based on synthesized analyses of test results."
+ },
+ {
+  "task_id": "19643",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Prepare environmental impact statements, reports, or presentations for regulatory or other agencies."
+ },
+ {
+  "task_id": "19641",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Develop or contribute to the development of plans to remediate or restore environments affected by nuclear radiation, such as waste disposal sites."
+ },
+ {
+  "task_id": "5388",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Conduct tests of nuclear fuel behavior and cycles or performance of nuclear machinery and equipment to optimize performance of existing plants."
+ },
+ {
+  "task_id": "19640",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Design fuel cycle models or processes to reduce the quantity of radioactive waste generated from nuclear activities."
+ },
+ {
+  "task_id": "20958",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Consult with other scientists to determine parameters of experimentation or suitability of analytical models."
+ },
+ {
+  "task_id": "5386",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Recommend preventive measures to be taken in the handling of nuclear technology, based on data obtained from operations monitoring or from evaluation of test results."
+ },
+ {
+  "task_id": "20959",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Discuss construction project proposals with interested parties, such as vendors, contractors, or nuclear facility review boards."
+ },
+ {
+  "task_id": "5382",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Perform experiments that will provide information about acceptable methods of nuclear material usage, nuclear fuel reclamation, or waste disposal."
+ },
+ {
+  "task_id": "19639",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Conduct environmental studies on topics such as nuclear power generation, nuclear waste disposal, or nuclear weapon deployment."
+ },
+ {
+  "task_id": "20957",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Design or direct nuclear research projects to develop, test, modify, or discover new uses for theoretical models."
+ },
+ {
+  "task_id": "5381",
+  "occupation": "Nuclear Engineers",
+  "task_text": "Keep abreast of developments and changes in the nuclear field by reading technical journals or by independent study and research."
+ },
+ {
+  "task_id": "3582",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Specify and supervise well modification and stimulation programs to maximize oil and gas recovery."
+ },
+ {
+  "task_id": "3580",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Monitor production rates, and plan rework processes to improve production."
+ },
+ {
+  "task_id": "3586",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Maintain records of drilling and production operations."
+ },
+ {
+  "task_id": "3581",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Analyze data to recommend placement of wells and supplementary processes to enhance production."
+ },
+ {
+  "task_id": "3584",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Assist engineering and other personnel to solve operating problems."
+ },
+ {
+  "task_id": "3583",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Direct and monitor the completion and evaluation of wells, well testing, or well surveys."
+ },
+ {
+  "task_id": "3585",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Develop plans for oil and gas field drilling, and for product recovery and treatment."
+ },
+ {
+  "task_id": "3579",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Assess costs and estimate the production capabilities and economic value of oil and gas wells, to evaluate the economic viability of potential drilling sites."
+ },
+ {
+  "task_id": "3587",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Confer with scientific, engineering, and technical personnel to resolve design, research, and testing problems."
+ },
+ {
+  "task_id": "3591",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Interpret drilling and testing information for personnel."
+ },
+ {
+  "task_id": "3598",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Coordinate activities of workers engaged in research, planning, and development."
+ },
+ {
+  "task_id": "3588",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Write technical reports for engineering and management personnel."
+ },
+ {
+  "task_id": "3589",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Evaluate findings to develop, design, or test equipment or processes."
+ },
+ {
+  "task_id": "3600",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Test machinery and equipment to ensure that it is safe and conforms to performance specifications."
+ },
+ {
+  "task_id": "3590",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Assign work to staff to obtain maximum utilization of personnel."
+ },
+ {
+  "task_id": "3596",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Simulate reservoir performance for different recovery techniques, using computer models."
+ },
+ {
+  "task_id": "3592",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Design and implement environmental controls on oil and gas operations."
+ },
+ {
+  "task_id": "3594",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Supervise the removal of drilling equipment, the removal of any waste, and the safe return of land to structural stability when wells or pockets are exhausted."
+ },
+ {
+  "task_id": "3595",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Inspect oil and gas wells to determine that installations are completed."
+ },
+ {
+  "task_id": "3593",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Coordinate the installation, maintenance, and operation of mining and oil field equipment."
+ },
+ {
+  "task_id": "3597",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Take samples to assess the amount and quality of oil, the depth at which resources lie, and the equipment needed to properly extract them."
+ },
+ {
+  "task_id": "3599",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Design or modify mining and oil field machinery and tools, applying engineering principles."
+ },
+ {
+  "task_id": "3601",
+  "occupation": "Petroleum Engineers",
+  "task_text": "Conduct engineering research experiments to improve or modify mining and oil machinery and operations."
+ },
+ {
+  "task_id": "20854",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Identify and recommend energy savings strategies to achieve more energy-efficient operation."
+ },
+ {
+  "task_id": "20855",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Conduct energy audits to evaluate energy use and to identify conservation and cost reduction measures."
+ },
+ {
+  "task_id": "18156",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Monitor and analyze energy consumption."
+ },
+ {
+  "task_id": "20856",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Monitor energy related design or construction issues, such as energy engineering, energy management, or sustainable design."
+ },
+ {
+  "task_id": "18150",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Inspect or monitor energy systems, including heating, ventilating, and air conditioning (HVAC) or daylighting systems to determine energy use or potential energy savings."
+ },
+ {
+  "task_id": "20857",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Advise clients or colleagues on topics such as climate control systems, energy modeling, data logging, sustainable design, or energy auditing."
+ },
+ {
+  "task_id": "18159",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Analyze, interpret, or create graphical representations of energy data, using engineering software."
+ },
+ {
+  "task_id": "20858",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Verify energy bills and meter readings."
+ },
+ {
+  "task_id": "20859",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Collect data for energy conservation analyses, using jobsite observation, field inspections, or sub-metering."
+ },
+ {
+  "task_id": "18151",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Manage the development, design, or construction of energy conservation projects to ensure acceptability of budgets and time lines, conformance to federal and state laws, or adherence to approved specifications."
+ },
+ {
+  "task_id": "18148",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Perform energy modeling, measurement, verification, commissioning, or retro-commissioning."
+ },
+ {
+  "task_id": "20860",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Review architectural, mechanical, or electrical plans or specifications to evaluate energy efficiency."
+ },
+ {
+  "task_id": "20861",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Prepare energy-related project reports or related documentation."
+ },
+ {
+  "task_id": "18165",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Review or negotiate energy purchase agreements."
+ },
+ {
+  "task_id": "18166",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Train personnel or clients on topics such as energy management."
+ },
+ {
+  "task_id": "20862",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Direct the implementation of energy management projects."
+ },
+ {
+  "task_id": "20863",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Research renewable or alternative energy systems or technologies, such as solar thermal or photovoltaic energy."
+ },
+ {
+  "task_id": "18157",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Promote awareness or use of alternative or renewable energy sources."
+ },
+ {
+  "task_id": "19648",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Write or install energy management routines for building automation systems."
+ },
+ {
+  "task_id": "20864",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Recommend best fuel for specific sites or circumstances."
+ },
+ {
+  "task_id": "18149",
+  "occupation": "Energy Engineers, Except Wind and Solar",
+  "task_text": "Consult with construction or renovation clients or other engineers on topics such as Leadership in Energy and Environmental Design (LEED) or Green Buildings."
+ },
+ {
+  "task_id": "16467",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Create mechanical design documents for parts, assemblies, or finished products."
+ },
+ {
+  "task_id": "16482",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Design advanced precision equipment for accurate or controlled applications."
+ },
+ {
+  "task_id": "16474",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Design engineering systems for the automation of industrial tasks."
+ },
+ {
+  "task_id": "16470",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Implement or test design solutions."
+ },
+ {
+  "task_id": "16468",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Maintain technical project files."
+ },
+ {
+  "task_id": "23946",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Identify materials appropriate for mechatronic system designs."
+ },
+ {
+  "task_id": "16471",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Research, select, or apply sensors, communication technologies, or control devices for motion control, position sensing, pressure sensing, or electronic communication."
+ },
+ {
+  "task_id": "16483",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Apply mechatronic or automated solutions to the transfer of materials, components, or finished goods."
+ },
+ {
+  "task_id": "16465",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Provide consultation or training on topics such as mechatronics or automated control."
+ },
+ {
+  "task_id": "16466",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Oversee the work of contractors in accordance with project requirements."
+ },
+ {
+  "task_id": "16464",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Publish engineering reports documenting design details or qualification test results."
+ },
+ {
+  "task_id": "16479",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Upgrade the design of existing devices by adding mechatronic elements."
+ },
+ {
+  "task_id": "23947",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Create mechanical models to simulate mechatronic design concepts."
+ },
+ {
+  "task_id": "16469",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Analyze existing development or manufacturing procedures and suggest improvements."
+ },
+ {
+  "task_id": "23948",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Determine the feasibility, costs, or performance benefits of new mechatronic equipment."
+ },
+ {
+  "task_id": "16480",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Develop electronic, mechanical, or computerized processes to perform tasks in dangerous situations, such as underwater exploration or extraterrestrial mining."
+ },
+ {
+  "task_id": "19655",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Monitor or calibrate automated systems, industrial control systems, or system components to maximize efficiency of production."
+ },
+ {
+  "task_id": "16476",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Create embedded software design programs."
+ },
+ {
+  "task_id": "16475",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Design advanced electronic control systems for mechanical systems."
+ },
+ {
+  "task_id": "19654",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Design self-monitoring mechanical systems, such as gear systems that monitor loading or condition of systems to detect and prevent failures."
+ },
+ {
+  "task_id": "19653",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Design or develop automated control systems for environmental applications, such as waste processing, air quality, or water quality systems."
+ },
+ {
+  "task_id": "16473",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Design, develop, or implement control circuits or algorithms for electromechanical or pneumatic devices or systems."
+ },
+ {
+  "task_id": "16481",
+  "occupation": "Mechatronics Engineers",
+  "task_text": "Design mechatronics components for computer-controlled products, such as cameras, video recorders, automobiles, or airplanes."
+ },
+ {
+  "task_id": "16503",
+  "occupation": "Microsystems Engineers",
+  "task_text": "Create schematics and physical layouts of integrated microelectromechanical systems (MEMS) components or packaged assemblies consistent with process, functional, or package constraints."
+ }
+]

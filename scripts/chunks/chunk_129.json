@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "14166",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Thread yarn, thread, and fabric through guides, needles, and rollers of machines for weaving, knitting, or other processing."
+ },
+ {
+  "task_id": "14163",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Remove defects in cloth by cutting and pulling out filling."
+ },
+ {
+  "task_id": "14167",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Examine looms to determine causes of loom stoppage, such as warp filling, harness breaks, or mechanical defects."
+ },
+ {
+  "task_id": "14164",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Inspect products to ensure that specifications are met and to determine if machines need adjustment."
+ },
+ {
+  "task_id": "14168",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Notify supervisors or repair staff of mechanical malfunctions."
+ },
+ {
+  "task_id": "14170",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Start machines, monitor operations, and make adjustments as needed."
+ },
+ {
+  "task_id": "14174",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Stop machines when specified amounts of product have been produced."
+ },
+ {
+  "task_id": "14171",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Inspect machinery to determine whether repairs are needed."
+ },
+ {
+  "task_id": "14173",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Confer with co-workers to obtain information about orders, processes, or problems."
+ },
+ {
+  "task_id": "14176",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Operate machines for test runs to verify adjustments and to obtain product samples."
+ },
+ {
+  "task_id": "14178",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Program electronic equipment."
+ },
+ {
+  "task_id": "14169",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Set up, or set up and operate textile machines that perform textile processing and manufacturing operations such as winding, twisting, knitting, weaving, bonding, or stretching."
+ },
+ {
+  "task_id": "14181",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Install, level, and align machine components such as gears, chains, guides, dies, cutters, or needles to set up machinery for operation."
+ },
+ {
+  "task_id": "14172",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Record information about work completed and machine settings."
+ },
+ {
+  "task_id": "14179",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Study guides, loom patterns, samples, charts, or specification sheets, or confer with supervisors or engineering staff to determine setup requirements."
+ },
+ {
+  "task_id": "14180",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Repair or replace worn or defective needles and other components, using hand tools."
+ },
+ {
+  "task_id": "14175",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Clean, oil, and lubricate machines, using air hoses, cleaning solutions, rags, oil cans, or grease guns."
+ },
+ {
+  "task_id": "14182",
+  "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+  "task_text": "Adjust machine heating mechanisms, tensions, and speeds to produce specified products."
+ },
+ {
+  "task_id": "14183",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Notify supervisors or mechanics of equipment malfunctions."
+ },
+ {
+  "task_id": "14190",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Thread yarn, thread, or fabric through guides, needles, and rollers of machines."
+ },
+ {
+  "task_id": "14184",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Start machines, monitor operation, and make adjustments as needed."
+ },
+ {
+  "task_id": "14192",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Inspect machinery to determine whether repairs are needed."
+ },
+ {
+  "task_id": "14195",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Record production data such as numbers and types of bobbins wound."
+ },
+ {
+  "task_id": "14188",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Replace depleted supply packages with full packages."
+ },
+ {
+  "task_id": "14196",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Stop machines when specified amount of products has been produced."
+ },
+ {
+  "task_id": "14186",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Inspect products to verify that they meet specifications and to determine whether machine adjustment is needed."
+ },
+ {
+  "task_id": "14187",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Tend machines that twist together two or more strands of yarn or insert additional twists into single strands of yarn to increase strength, smoothness, or uniformity of yarn."
+ },
+ {
+  "task_id": "14189",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Observe operations to detect defects, malfunctions, or supply shortages."
+ },
+ {
+  "task_id": "14191",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Operate machines for test runs to verify adjustments and to obtain product samples."
+ },
+ {
+  "task_id": "14202",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Observe bobbins as they are winding and cut threads to remove loaded bobbins, using knives."
+ },
+ {
+  "task_id": "14201",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Unwind lengths of yarn, thread, or twine from spools and wind onto bobbins."
+ },
+ {
+  "task_id": "14203",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Adjust machine settings such as speed or tension to produce products that meet specifications."
+ },
+ {
+  "task_id": "14197",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Study guides, samples, charts, and specification sheets, or confer with supervisors or engineering staff to determine setup requirements."
+ },
+ {
+  "task_id": "14200",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Tend spinning frames that draw out and twist roving or sliver into yarn."
+ },
+ {
+  "task_id": "14205",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Remove spindles from machines and bobbins from spindles."
+ },
+ {
+  "task_id": "14199",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Install, level, and align machine components such as gears, chains, guides, dies, cutters, or needles to set up machinery for operation."
+ },
+ {
+  "task_id": "14193",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Place bobbins on spindles and insert spindles into bobbin-winding machines."
+ },
+ {
+  "task_id": "14185",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Tend machines with multiple winding units that wind thread onto shuttle bobbins for use on sewing machines or other kinds of bobbins for sole-stitching, knitting, or weaving machinery."
+ },
+ {
+  "task_id": "14206",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Repair or replace worn or defective parts or components, using hand tools."
+ },
+ {
+  "task_id": "14198",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Measure bobbins periodically, using gauges, and turn screws to adjust tension if bobbins are not of specified size."
+ },
+ {
+  "task_id": "14204",
+  "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+  "task_text": "Clean, oil, and lubricate machines, using air hoses, cleaning solutions, rags, oilcans, and grease guns."
+ },
+ {
+  "task_id": "14208",
+  "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+  "task_text": "Set up, operate, or tend machines that extrude and form filaments from synthetic materials such as rayon, fiberglass, or liquid polymers."
+ },
+ {
+  "task_id": "14214",
+  "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+  "task_text": "Press buttons to stop machines when processes are complete or when malfunctions are detected."
+ },
+ {
+  "task_id": "14213",
+  "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+  "task_text": "Notify other workers of defects, and direct them to adjust extruding and forming machines."
+ },
+ {
+  "task_id": "14216",
+  "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+  "task_text": "Observe machine operations, control boards, and gauges to detect malfunctions such as clogged bushings and defective binder applicators."
+ },
+ {
+  "task_id": "14209",
+  "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+  "task_text": "Load materials into extruding and forming machines, using hand tools, and adjust feed mechanisms to set feed rates."
+ },
+ {
+  "task_id": "14211",
+  "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+  "task_text": "Move controls to activate and adjust extruding and forming machines."
+ },
+ {
+  "task_id": "14212",
+  "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+  "task_text": "Record details of machine malfunctions."
+ },
+ {
+  "task_id": "14220",
+  "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+  "task_text": "Clean and maintain extruding and forming machines, using hand tools."
+ },
+ {
+  "task_id": "14215",
+  "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+  "task_text": "Observe flow of finish across finish rollers, and turn valves to adjust flow to specifications."
+ },
+ {
+  "task_id": "14219",
+  "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+  "task_text": "Remove polymer deposits from spinnerettes and equipment, using silicone spray, brass chisels, and bronze-wool pads."
+ },
+ {
+  "task_id": "14218",
+  "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+  "task_text": "Press metering-pump buttons and turn valves to stop flow of polymers."
+ },
+ {
+  "task_id": "14224",
+  "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+  "task_text": "Record operational data on tags, and attach tags to machines."
+ },
+ {
+  "task_id": "14210",
+  "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+  "task_text": "Start metering pumps and observe operation of machines and equipment to ensure continuous flow of filaments extruded through spinnerettes and to detect processing defects."
+ },
+ {
+  "task_id": "14207",
+  "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+  "task_text": "Remove excess, entangled, or completed filaments from machines, using hand tools."
+ },
+ {
+  "task_id": "14227",
+  "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+  "task_text": "Wipe finish rollers with cloths and wash finish trays with water when necessary."
+ },
+ {
+  "task_id": "14225",
+  "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+  "task_text": "Lower pans inside cabinets to catch molten filaments until flow of polymer through packs has stopped."
+ },
+ {
+  "task_id": "14217",
+  "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+  "task_text": "Open cabinet doors to cut multifilament threadlines away from guides, using scissors."
+ },
+ {
+  "task_id": "12200",
+  "occupation": "Fabric and Apparel Patternmakers",
+  "task_text": "Create a master pattern for each size within a range of garment sizes, using charts, drafting instruments, computers, or grading devices."
+ },
+ {
+  "task_id": "20930",
+  "occupation": "Fabric and Apparel Patternmakers",
+  "task_text": "Input specifications into computers to assist with pattern design and pattern cutting."
+ },
+ {
+  "task_id": "12198",
+  "occupation": "Fabric and Apparel Patternmakers",
+  "task_text": "Draw details on outlined parts to indicate where parts are to be joined, as well as the positions of pleats, pockets, buttonholes, and other features, using computers or drafting instruments."
+ },
+ {
+  "task_id": "20931",
+  "occupation": "Fabric and Apparel Patternmakers",
+  "task_text": "Make adjustments to patterns after fittings."
+ },
+ {
+  "task_id": "12206",
+  "occupation": "Fabric and Apparel Patternmakers",
+  "task_text": "Compute dimensions of patterns according to sizes, considering stretching of material."
+ },
+ {
+  "task_id": "12205",
+  "occupation": "Fabric and Apparel Patternmakers",
+  "task_text": "Mark samples and finished patterns with information, such as garment size, section, style, identification, and sewing instructions."
+ },
+ {
+  "task_id": "12201",
+  "occupation": "Fabric and Apparel Patternmakers",
+  "task_text": "Draw outlines of pattern parts by adapting or copying existing patterns, or by drafting new patterns."
+ },
+ {
+  "task_id": "12197",
+  "occupation": "Fabric and Apparel Patternmakers",
+  "task_text": "Test patterns by making and fitting sample garments."
+ },
+ {
+  "task_id": "12203",
+  "occupation": "Fabric and Apparel Patternmakers",
+  "task_text": "Position and cut out master or sample patterns, using scissors and knives, or print out copies of patterns, using computers."
+ },
+ {
+  "task_id": "12202",
+  "occupation": "Fabric and Apparel Patternmakers",
+  "task_text": "Create a paper pattern from which to mass-produce a design concept."
+ },
+ {
+  "task_id": "12204",
+  "occupation": "Fabric and Apparel Patternmakers",
+  "task_text": "Discuss design specifications with designers, and convert their original models of garments into patterns of separate parts that can be laid out on a length of fabric."
+ },
+ {
+  "task_id": "12207",
+  "occupation": "Fabric and Apparel Patternmakers",
+  "task_text": "Examine sketches, sample articles, and design specifications to determine quantities, shapes, and sizes of pattern parts, and to determine the amount of material or fabric required to make a product."
+ },
+ {
+  "task_id": "12199",
+  "occupation": "Fabric and Apparel Patternmakers",
+  "task_text": "Determine the best layout of pattern pieces to minimize waste of material, and mark fabric accordingly."
+ },
+ {
+  "task_id": "20932",
+  "occupation": "Fabric and Apparel Patternmakers",
+  "task_text": "Create design specifications to provide instructions on garment sewing and assembly."
+ },
+ {
+  "task_id": "12208",
+  "occupation": "Fabric and Apparel Patternmakers",
+  "task_text": "Trace outlines of paper onto cardboard patterns, and cut patterns into parts to make templates."
+ },
+ {
+  "task_id": "12209",
+  "occupation": "Fabric and Apparel Patternmakers",
+  "task_text": "Trace outlines of specified patterns onto material, and cut fabric, using scissors."
+ },
+ {
+  "task_id": "14228",
+  "occupation": "Upholsterers",
+  "task_text": "Fit, install, and secure material on frames, using hand tools, power tools, glue, cement, or staples."
+ },
+ {
+  "task_id": "14236",
+  "occupation": "Upholsterers",
+  "task_text": "Measure and cut new covering materials, using patterns and measuring and cutting instruments, following sketches and design specifications."
+ },
+ {
+  "task_id": "14229",
+  "occupation": "Upholsterers",
+  "task_text": "Build furniture up with loose fiber stuffing, cotton, felt, or foam padding to form smooth, rounded surfaces."
+ },
+ {
+  "task_id": "14235",
+  "occupation": "Upholsterers",
+  "task_text": "Make, restore, or create custom upholstered furniture, using hand tools and knowledge of fabrics and upholstery methods."
+ },
+ {
+  "task_id": "14233",
+  "occupation": "Upholsterers",
+  "task_text": "Read work orders, and apply knowledge and experience with materials to determine types and amounts of materials required to cover workpieces."
+ },
+ {
+  "task_id": "14230",
+  "occupation": "Upholsterers",
+  "task_text": "Examine furniture frames, upholstery, springs, and webbing to locate defects."
+ },
+ {
+  "task_id": "14245",
+  "occupation": "Upholsterers",
+  "task_text": "Adjust or replace webbing, padding, or springs, and secure them in place."
+ },
+ {
+  "task_id": "14243",
+  "occupation": "Upholsterers",
+  "task_text": "Sew rips or tears in material, or create tufting, using needles and thread."
+ },
+ {
+  "task_id": "14232",
+  "occupation": "Upholsterers",
+  "task_text": "Remove covering, webbing, padding, or defective springs from workpieces, using hand tools such as hammers and tack pullers."
+ },
+ {
+  "task_id": "14231",
+  "occupation": "Upholsterers",
+  "task_text": "Attach fasteners, grommets, buttons, buckles, ornamental trim, and other accessories to covers or frames, using hand tools."
+ },
+ {
+  "task_id": "14239",
+  "occupation": "Upholsterers",
+  "task_text": "Repair furniture frames and refinish exposed wood."
+ },
+ {
+  "task_id": "14242",
+  "occupation": "Upholsterers",
+  "task_text": "Interweave and fasten strips of webbing to the backs and undersides of furniture, using small hand tools and fasteners."
+ },
+ {
+  "task_id": "14234",
+  "occupation": "Upholsterers",
+  "task_text": "Draw cutting lines on material following patterns, templates, sketches, or blueprints, using chalk, pencils, paint, or other methods."
+ },
+ {
+  "task_id": "14246",
+  "occupation": "Upholsterers",
+  "task_text": "Stretch webbing and fabric, using webbing stretchers."
+ },
+ {
+  "task_id": "14240",
+  "occupation": "Upholsterers",
+  "task_text": "Operate sewing machines or sew upholstery by hand to seam cushions and join various sections of covering material."
+ },
+ {
+  "task_id": "14247",
+  "occupation": "Upholsterers",
+  "task_text": "Design upholstery cover patterns and cutting plans, based on sketches, customer descriptions, or blueprints."
+ },
+ {
+  "task_id": "14237",
+  "occupation": "Upholsterers",
+  "task_text": "Maintain records of time required to perform each job."
+ },
+ {
+  "task_id": "14238",
+  "occupation": "Upholsterers",
+  "task_text": "Discuss upholstery fabrics, colors, and styles with customers, and provide cost estimates."
+ },
+ {
+  "task_id": "14241",
+  "occupation": "Upholsterers",
+  "task_text": "Pick up and deliver furniture."
+ },
+ {
+  "task_id": "14244",
+  "occupation": "Upholsterers",
+  "task_text": "Attach bindings or apply solutions to edges of cut material to prevent raveling."
+ },
+ {
+  "task_id": "14249",
+  "occupation": "Upholsterers",
+  "task_text": "Collaborate with interior designers to decorate rooms and coordinate furnishing fabrics."
+ },
+ {
+  "task_id": "14248",
+  "occupation": "Upholsterers",
+  "task_text": "Make, repair, or replace automobile upholstery and convertible and vinyl tops, using knowledge of fabric and upholstery methods."
+ },
+ {
+  "task_id": "12211",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Verify dimensions or check the quality or fit of pieces to ensure adherence to specifications."
+ },
+ {
+  "task_id": "12210",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Produce or assemble components of articles, such as store fixtures, office equipment, cabinets, or high-grade furniture."
+ },
+ {
+  "task_id": "12213",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Measure and mark dimensions of parts on paper or lumber stock prior to cutting, following blueprints, to ensure a tight fit and quality product."
+ },
+ {
+  "task_id": "12212",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Set up or operate machines, including power saws, jointers, mortisers, tenoners, molders, or shapers, to cut, mold, or shape woodstock or wood substitutes."
+ },
+ {
+  "task_id": "12216",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Establish the specifications of articles to be constructed or repaired, or plan the methods or operations for shaping or assembling parts, based on blueprints, drawings, diagrams, or oral or written instructions."
+ },
+ {
+  "task_id": "12215",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Attach parts or subassemblies together to form completed units, using glue, dowels, nails, screws, or clamps."
+ },
+ {
+  "task_id": "12214",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Reinforce joints with nails or other fasteners to prepare articles for finishing."
+ },
+ {
+  "task_id": "12224",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Install hardware, such as hinges, handles, catches, or drawer pulls, using hand tools."
+ },
+ {
+  "task_id": "12219",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Trim, sand, or scrape surfaces or joints to prepare articles for finishing."
+ },
+ {
+  "task_id": "12218",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Match materials for color, grain, or texture, giving attention to knots or other features of the wood."
+ },
+ {
+  "task_id": "12217",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Cut timber to the right size, and shape and trim parts of joints to ensure a snug fit, using hand tools, such as planes, chisels, or wood files."
+ },
+ {
+  "task_id": "12223",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Perform final touch-ups with sandpaper or steel wool."
+ },
+ {
+  "task_id": "12220",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Bore holes for insertion of screws or dowels, by hand or using boring machines."
+ },
+ {
+  "task_id": "12226",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Repair or alter wooden furniture, cabinetry, fixtures, paneling, or other pieces."
+ },
+ {
+  "task_id": "12222",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Estimate the amounts, types, or costs of needed materials."
+ },
+ {
+  "task_id": "12229",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Dip, brush, or spray assembled articles with protective or decorative finishes, such as stain, varnish, paint, or lacquer."
+ },
+ {
+  "task_id": "20822",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Draw up detailed specifications and discuss projects with customers."
+ },
+ {
+  "task_id": "12228",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Design furniture, using computer-aided drawing programs."
+ },
+ {
+  "task_id": "12227",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Apply Masonite, formica, or vinyl surfacing materials."
+ },
+ {
+  "task_id": "12221",
+  "occupation": "Cabinetmakers and Bench Carpenters",
+  "task_text": "Program computers to operate machinery."
+ },
+ {
+  "task_id": "14251",
+  "occupation": "Furniture Finishers",
+  "task_text": "Brush, spray, or hand-rub finishing ingredients, such as paint, oil, stain, or wax, onto and into wood grain and apply lacquer or other sealers."
+ },
+ {
+  "task_id": "14254",
+  "occupation": "Furniture Finishers",
+  "task_text": "Fill and smooth cracks or depressions, remove marks and imperfections, and repair broken parts, using plastic or wood putty, glue, nails, or screws."
+ },
+ {
+  "task_id": "14252",
+  "occupation": "Furniture Finishers",
+  "task_text": "Smooth, shape, and touch up surfaces to prepare them for finishing, using sandpaper, pumice stones, steel wool, chisels, sanders, or grinders."
+ },
+ {
+  "task_id": "14263",
+  "occupation": "Furniture Finishers",
+  "task_text": "Remove accessories prior to finishing, and mask areas that should not be exposed to finishing processes or substances."
+ },
+ {
+  "task_id": "14259",
+  "occupation": "Furniture Finishers",
+  "task_text": "Remove old finishes and damaged or deteriorated parts, using hand tools, stripping tools, sandpaper, steel wool, abrasives, solvents, or dip baths."
+ },
+ {
+  "task_id": "14264",
+  "occupation": "Furniture Finishers",
+  "task_text": "Treat warped or stained surfaces to restore original contours and colors."
+ },
+ {
+  "task_id": "14253",
+  "occupation": "Furniture Finishers",
+  "task_text": "Select appropriate finishing ingredients such as paint, stain, lacquer, shellac, or varnish, depending on factors such as wood hardness and surface type."
+ },
+ {
+  "task_id": "14250",
+  "occupation": "Furniture Finishers",
+  "task_text": "Mix finish ingredients to obtain desired colors or shades."
+ },
+ {
+  "task_id": "14267",
+  "occupation": "Furniture Finishers",
+  "task_text": "Remove excess solvent, using cloths soaked in paint thinner."
+ },
+ {
+  "task_id": "14256",
+  "occupation": "Furniture Finishers",
+  "task_text": "Examine furniture to determine the extent of damage or deterioration, and to decide on the best method for repair or restoration."
+ },
+ {
+  "task_id": "14255",
+  "occupation": "Furniture Finishers",
+  "task_text": "Distress surfaces with woodworking tools or abrasives before staining to create an antique appearance, or rub surfaces to bring out highlights and shadings."
+ },
+ {
+  "task_id": "14268",
+  "occupation": "Furniture Finishers",
+  "task_text": "Stencil, gild, emboss, mark, or paint designs or borders to reproduce the original appearance of restored pieces, or to decorate new pieces."
+ },
+ {
+  "task_id": "14261",
+  "occupation": "Furniture Finishers",
+  "task_text": "Disassemble items to prepare them for finishing, using hand tools."
+ },
+ {
+  "task_id": "14265",
+  "occupation": "Furniture Finishers",
+  "task_text": "Confer with customers to determine furniture colors or finishes."
+ }
+]

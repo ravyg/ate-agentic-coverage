@@ -1,0 +1,652 @@
+[
+ {
+  "task_id": "8354",
+  "occupation": "Motorcycle Mechanics",
+  "task_text": "Connect test panels to engines and measure generator output, ignition timing, or other engine performance indicators."
+ },
+ {
+  "task_id": "8355",
+  "occupation": "Motorcycle Mechanics",
+  "task_text": "Listen to engines, examine vehicle frames, or confer with customers to determine nature and extent of malfunction or damage."
+ },
+ {
+  "task_id": "8359",
+  "occupation": "Motorcycle Mechanics",
+  "task_text": "Repair or replace other parts, such as headlights, horns, handlebar controls, gasoline or oil tanks, starters, or mufflers."
+ },
+ {
+  "task_id": "8360",
+  "occupation": "Motorcycle Mechanics",
+  "task_text": "Disassemble subassembly units and examine condition, movement, or alignment of parts, visually or using gauges."
+ },
+ {
+  "task_id": "8352",
+  "occupation": "Motorcycle Mechanics",
+  "task_text": "Repair or adjust motorcycle subassemblies, such as forks, transmissions, brakes, or drive chains, according to specifications."
+ },
+ {
+  "task_id": "20652",
+  "occupation": "Motorcycle Mechanics",
+  "task_text": "Reassemble frames and reinstall engines after repairs."
+ },
+ {
+  "task_id": "8358",
+  "occupation": "Motorcycle Mechanics",
+  "task_text": "Remove cylinder heads and grind valves to scrape off carbon and replace defective valves, pistons, cylinders, or rings, using hand and power tools."
+ },
+ {
+  "task_id": "23934",
+  "occupation": "Motorcycle Mechanics",
+  "task_text": "Install motorcycle accessories."
+ },
+ {
+  "task_id": "8356",
+  "occupation": "Motorcycle Mechanics",
+  "task_text": "Reassemble and test subassembly units."
+ },
+ {
+  "task_id": "20653",
+  "occupation": "Motorcycle Mechanics",
+  "task_text": "Hammer out dents and bends in frames and weld tears and breaks."
+ },
+ {
+  "task_id": "13777",
+  "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+  "task_text": "Record repairs made, time spent, and parts used."
+ },
+ {
+  "task_id": "13780",
+  "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+  "task_text": "Test and inspect engines to determine malfunctions, to locate missing and broken parts, and to verify repairs, using diagnostic instruments."
+ },
+ {
+  "task_id": "13784",
+  "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+  "task_text": "Dismantle engines, using hand tools, and examine parts for defects."
+ },
+ {
+  "task_id": "13774",
+  "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+  "task_text": "Repair and maintain gasoline engines used to power equipment such as portable saws, lawn mowers, generators, and compressors."
+ },
+ {
+  "task_id": "13775",
+  "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+  "task_text": "Adjust points, valves, carburetors, distributors, and spark plug gaps, using feeler gauges."
+ },
+ {
+  "task_id": "13781",
+  "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+  "task_text": "Repair or replace defective parts such as magnetos, water pumps, gears, pistons, and carburetors, using hand tools."
+ },
+ {
+  "task_id": "13778",
+  "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+  "task_text": "Perform routine maintenance such as cleaning and oiling parts, honing cylinders, and tuning ignition systems."
+ },
+ {
+  "task_id": "13776",
+  "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+  "task_text": "Reassemble engines after repair or maintenance work is complete."
+ },
+ {
+  "task_id": "13785",
+  "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+  "task_text": "Replace motors."
+ },
+ {
+  "task_id": "13779",
+  "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+  "task_text": "Obtain problem descriptions from customers, and prepare cost estimates for repairs."
+ },
+ {
+  "task_id": "13783",
+  "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+  "task_text": "Show customers how to maintain equipment."
+ },
+ {
+  "task_id": "13787",
+  "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+  "task_text": "Remove engines from equipment, and position and bolt engines to repair stands."
+ },
+ {
+  "task_id": "13782",
+  "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+  "task_text": "Sell parts and equipment."
+ },
+ {
+  "task_id": "13786",
+  "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+  "task_text": "Grind, ream, rebore, and re-tap parts to obtain specified clearances, using grinders, lathes, taps, reamers, boring machines, and micrometers."
+ },
+ {
+  "task_id": "20915",
+  "occupation": "Bicycle Repairers",
+  "task_text": "Install and adjust brakes and brake pads."
+ },
+ {
+  "task_id": "20916",
+  "occupation": "Bicycle Repairers",
+  "task_text": "Help customers select bicycles that fit their body sizes and intended bicycle uses."
+ },
+ {
+  "task_id": "5187",
+  "occupation": "Bicycle Repairers",
+  "task_text": "Align wheels."
+ },
+ {
+  "task_id": "5185",
+  "occupation": "Bicycle Repairers",
+  "task_text": "Assemble new bicycles."
+ },
+ {
+  "task_id": "20917",
+  "occupation": "Bicycle Repairers",
+  "task_text": "Sell bicycles and accessories."
+ },
+ {
+  "task_id": "5186",
+  "occupation": "Bicycle Repairers",
+  "task_text": "Install, repair, and replace equipment or accessories, such as handlebars, stands, lights, and seats."
+ },
+ {
+  "task_id": "20918",
+  "occupation": "Bicycle Repairers",
+  "task_text": "Install new tires and tubes."
+ },
+ {
+  "task_id": "5184",
+  "occupation": "Bicycle Repairers",
+  "task_text": "Install and adjust speed and gear mechanisms."
+ },
+ {
+  "task_id": "20919",
+  "occupation": "Bicycle Repairers",
+  "task_text": "Clean and lubricate bicycle parts."
+ },
+ {
+  "task_id": "20920",
+  "occupation": "Bicycle Repairers",
+  "task_text": "Order bicycle parts."
+ },
+ {
+  "task_id": "5188",
+  "occupation": "Bicycle Repairers",
+  "task_text": "Disassemble axles to repair, adjust, and replace defective parts, using hand tools."
+ },
+ {
+  "task_id": "20921",
+  "occupation": "Bicycle Repairers",
+  "task_text": "Build wheels by cutting and threading new spokes."
+ },
+ {
+  "task_id": "5189",
+  "occupation": "Bicycle Repairers",
+  "task_text": "Shape replacement parts, using bench grinders."
+ },
+ {
+  "task_id": "5190",
+  "occupation": "Bicycle Repairers",
+  "task_text": "Repair holes in tire tubes, using scrapers and patches."
+ },
+ {
+  "task_id": "20804",
+  "occupation": "Recreational Vehicle Service Technicians",
+  "task_text": "Diagnose and repair furnace or air conditioning systems."
+ },
+ {
+  "task_id": "10010",
+  "occupation": "Recreational Vehicle Service Technicians",
+  "task_text": "Connect electrical systems to outside power sources, and activate switches to test the operation of appliances or light fixtures."
+ },
+ {
+  "task_id": "10004",
+  "occupation": "Recreational Vehicle Service Technicians",
+  "task_text": "Examine or test operation of parts or systems to ensure completeness of repairs."
+ },
+ {
+  "task_id": "10005",
+  "occupation": "Recreational Vehicle Service Technicians",
+  "task_text": "Repair plumbing or propane gas lines, using caulking compounds and plastic or copper pipe."
+ },
+ {
+  "task_id": "10006",
+  "occupation": "Recreational Vehicle Service Technicians",
+  "task_text": "Inspect recreational vehicles to diagnose problems and perform necessary adjustment, repair, or overhaul."
+ },
+ {
+  "task_id": "10007",
+  "occupation": "Recreational Vehicle Service Technicians",
+  "task_text": "Locate and repair frayed wiring, broken connections, or incorrect wiring, using ohmmeters, soldering irons, tape, or hand tools."
+ },
+ {
+  "task_id": "10008",
+  "occupation": "Recreational Vehicle Service Technicians",
+  "task_text": "Confer with customers, read work orders, or examine vehicles needing repair to determine the nature and extent of damage."
+ },
+ {
+  "task_id": "10014",
+  "occupation": "Recreational Vehicle Service Technicians",
+  "task_text": "Repair leaks with caulking compound or replace pipes, using pipe wrenches."
+ },
+ {
+  "task_id": "20803",
+  "occupation": "Recreational Vehicle Service Technicians",
+  "task_text": "Inspect, repair, or replace brake systems."
+ },
+ {
+  "task_id": "10011",
+  "occupation": "Recreational Vehicle Service Technicians",
+  "task_text": "Connect water hoses to inlet pipes of plumbing systems, and test operation of toilets or sinks."
+ },
+ {
+  "task_id": "10009",
+  "occupation": "Recreational Vehicle Service Technicians",
+  "task_text": "List parts needed, estimate costs, and plan work procedures, using parts lists, technical manuals, or diagrams."
+ },
+ {
+  "task_id": "10012",
+  "occupation": "Recreational Vehicle Service Technicians",
+  "task_text": "Remove damaged exterior panels, and repair and replace structural frame members."
+ },
+ {
+  "task_id": "10016",
+  "occupation": "Recreational Vehicle Service Technicians",
+  "task_text": "Reset hardware, using chisels, mallets, and screwdrivers."
+ },
+ {
+  "task_id": "10013",
+  "occupation": "Recreational Vehicle Service Technicians",
+  "task_text": "Open and close doors, windows, or drawers to test their operation, trimming edges to fit, as necessary."
+ },
+ {
+  "task_id": "20802",
+  "occupation": "Recreational Vehicle Service Technicians",
+  "task_text": "Explain proper operation of vehicle systems to customers."
+ },
+ {
+  "task_id": "10015",
+  "occupation": "Recreational Vehicle Service Technicians",
+  "task_text": "Refinish wood surfaces on cabinets, doors, moldings, or floors, using power sanders, putty, spray equipment, brushes, paints, or varnishes."
+ },
+ {
+  "task_id": "10017",
+  "occupation": "Recreational Vehicle Service Technicians",
+  "task_text": "Seal open sides of modular units to prepare them for shipment, using polyethylene sheets, nails, and hammers."
+ },
+ {
+  "task_id": "8364",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Raise vehicles, using hydraulic jacks."
+ },
+ {
+  "task_id": "8365",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Remount wheels onto vehicles."
+ },
+ {
+  "task_id": "20654",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Unbolt and remove wheels from vehicles, using lug wrenches or other hand or power tools."
+ },
+ {
+  "task_id": "8363",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Place wheels on balancing machines to determine counterweights required to balance wheels."
+ },
+ {
+  "task_id": "20655",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Identify tire size and ply and inflate tires accordingly."
+ },
+ {
+  "task_id": "8369",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Replace valve stems and remove puncturing objects."
+ },
+ {
+  "task_id": "8370",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Hammer required counterweights onto rims of wheels."
+ },
+ {
+  "task_id": "8368",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Reassemble tires onto wheels."
+ },
+ {
+  "task_id": "8373",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Seal punctures in tubeless tires by inserting adhesive material and expanding rubber plugs into punctures, using hand tools."
+ },
+ {
+  "task_id": "8372",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Inspect tire casings for defects, such as holes or tears."
+ },
+ {
+  "task_id": "8366",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Locate punctures in tubeless tires by visual inspection or by immersing inflated tires in water baths and observing air bubbles."
+ },
+ {
+  "task_id": "8374",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Glue tire patches over ruptures in tire casings, using rubber cement."
+ },
+ {
+  "task_id": "20656",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Assist mechanics and perform various mechanical duties, such as changing oil or checking and replacing batteries."
+ },
+ {
+  "task_id": "8371",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Rotate tires to different positions on vehicles, using hand tools."
+ },
+ {
+  "task_id": "20657",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Clean and tidy up the shop."
+ },
+ {
+  "task_id": "8385",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Buff defective areas of inner tubes, using scrapers."
+ },
+ {
+  "task_id": "8383",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Order replacements for tires or tubes."
+ },
+ {
+  "task_id": "8376",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Separate tubed tires from wheels, using rubber mallets and metal bars or mechanical tire changers."
+ },
+ {
+  "task_id": "8378",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Inflate inner tubes and immerse them in water to locate leaks."
+ },
+ {
+  "task_id": "8379",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Clean sides of whitewall tires."
+ },
+ {
+  "task_id": "8382",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Prepare rims and wheel drums for reassembly by scraping, grinding, or sandblasting."
+ },
+ {
+  "task_id": "8380",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Apply rubber cement to buffed tire casings prior to vulcanization process."
+ },
+ {
+  "task_id": "8377",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Patch tubes with adhesive rubber patches or seal rubber patches to tubes, using hot vulcanizing plates."
+ },
+ {
+  "task_id": "8381",
+  "occupation": "Tire Repairers and Changers",
+  "task_text": "Drive automobile or service trucks to industrial sites to provide services or respond to emergency calls."
+ },
+ {
+  "task_id": "8388",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Wind large springs with upward motion of arm."
+ },
+ {
+  "task_id": "8387",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Adjust doors to open or close with the correct amount of effort, or make simple adjustments to electric openers."
+ },
+ {
+  "task_id": "8394",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Carry springs to tops of doors, using ladders or scaffolding, and attach springs to tracks to install spring systems."
+ },
+ {
+  "task_id": "8393",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Repair or replace worn or broken door parts, using hand tools."
+ },
+ {
+  "task_id": "8391",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Complete required paperwork, such as work orders, according to services performed or required."
+ },
+ {
+  "task_id": "8392",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Fasten angle iron back-hangers to ceilings and tracks, using fasteners or welding equipment."
+ },
+ {
+  "task_id": "8390",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Collect payment upon job completion."
+ },
+ {
+  "task_id": "8397",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Install door frames, rails, steel rolling curtains, electronic-eye mechanisms, or electric door openers and closers, using power tools, hand tools, and electronic test equipment."
+ },
+ {
+  "task_id": "8389",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Inspect job sites, assessing headroom, side room, or other conditions to determine appropriateness of door for a given location."
+ },
+ {
+  "task_id": "8399",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Assemble and fasten tracks to structures or bucks, using impact wrenches or welding equipment."
+ },
+ {
+  "task_id": "8395",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Set doors into place or stack hardware sections into openings after rail or track installation."
+ },
+ {
+  "task_id": "8403",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Operate lifts, winches, or chain falls to move heavy curtain doors."
+ },
+ {
+  "task_id": "8396",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Remove or disassemble defective automatic mechanical door closers, using hand tools."
+ },
+ {
+  "task_id": "8409",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Fabricate replacements for worn or broken parts, using welders, lathes, drill presses, or shaping or milling machines."
+ },
+ {
+  "task_id": "20805",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Prepare doors for hardware installation, such as drilling holes to install locks."
+ },
+ {
+  "task_id": "8400",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Run low voltage wiring on ceiling surfaces, using insulated staples."
+ },
+ {
+  "task_id": "8401",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Cut door stops or angle irons to fit openings."
+ },
+ {
+  "task_id": "8402",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Study blueprints and schematic diagrams to determine appropriate methods of installing or repairing automated door openers."
+ },
+ {
+  "task_id": "8408",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Install dock seals, bumpers, or shelters."
+ },
+ {
+  "task_id": "8404",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Order replacement springs, sections, or slats."
+ },
+ {
+  "task_id": "8407",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Lubricate door closer oil chambers, and pack spindles with leather washers."
+ },
+ {
+  "task_id": "8406",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Set in and secure floor treadles for door-activating mechanisms, and connect power packs and electrical panelboards to treadles."
+ },
+ {
+  "task_id": "8411",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Cover treadles with carpeting or other floor covering materials, and test systems by operating treadles."
+ },
+ {
+  "task_id": "8405",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Bore or cut holes in flooring as required for installation, using hand or power tools."
+ },
+ {
+  "task_id": "8410",
+  "occupation": "Mechanical Door Repairers",
+  "task_text": "Clean door closer parts, using caustic soda, rotary brushes, or grinding wheels."
+ },
+ {
+  "task_id": "11780",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Record maintenance information, including test results, material usage, and repairs made."
+ },
+ {
+  "task_id": "11779",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Disassemble and repair mechanical control devices or valves, such as regulators, thermostats, or hydrants, using power tools, hand tools, and cutting torches."
+ },
+ {
+  "task_id": "11782",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Lubricate wearing surfaces of mechanical parts, using oils or other lubricants."
+ },
+ {
+  "task_id": "21024",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Calibrate instrumentation, such as meters, gauges, and regulators, for pressure, temperature, flow, and level."
+ },
+ {
+  "task_id": "11794",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Install, inspect and test electric meters, relays, and power sources to detect causes of malfunctions and inaccuracies, using hand tools and testing equipment."
+ },
+ {
+  "task_id": "11783",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Test valves and regulators for leaks and accurate temperature and pressure settings, using precision testing equipment."
+ },
+ {
+  "task_id": "11777",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Record meter readings and installation data on meter cards, work orders, or field service orders, or enter data into hand-held computers."
+ },
+ {
+  "task_id": "11774",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Turn meters on or off to establish or close service."
+ },
+ {
+  "task_id": "11785",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Shut off service and notify repair crews when major repairs are required, such as the replacement of underground pipes or wiring."
+ },
+ {
+  "task_id": "11784",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Install regulators and related equipment such as gas meters, odorization units, and gas pressure telemetering equipment."
+ },
+ {
+  "task_id": "11804",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Cut seats to receive new orifices, tap inspection ports, and perform other repairs to salvage usable materials, using hand tools and machine tools."
+ },
+ {
+  "task_id": "11775",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Turn valves to allow measured amounts of air or gas to pass through meters at specified flow rates."
+ },
+ {
+  "task_id": "11776",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Report hazardous field situations and damaged or missing meters."
+ },
+ {
+  "task_id": "11797",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Vary air pressure flowing into regulators and turn handles to assess functioning of valves and pistons."
+ },
+ {
+  "task_id": "11786",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Examine valves or mechanical control device parts for defects, dents, or loose attachments, and mark malfunctioning areas of defective units."
+ },
+ {
+  "task_id": "11796",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Mount and install meters and other electric equipment such as time clocks, transformers, and circuit breakers, using electricians' hand tools."
+ },
+ {
+  "task_id": "11778",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Connect regulators to test stands, and turn screw adjustments until gauges indicate that inlet and outlet pressures meet specifications."
+ },
+ {
+  "task_id": "11793",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Investigate instances of illegal tapping into service lines."
+ },
+ {
+  "task_id": "11795",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Trace and tag meters or house lines."
+ },
+ {
+  "task_id": "11802",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Repair electric meters and components, such as transformers and relays, and replace metering devices, dial glasses, and faulty or incorrect wiring, using hand tools."
+ },
+ {
+  "task_id": "11792",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Replace defective parts, such as bellows, range springs, and toggle switches, and reassemble units according to blueprints, using cam presses and hand tools."
+ },
+ {
+  "task_id": "11799",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Measure tolerances of assembled and salvageable parts for conformance to standards or specifications, using gauges, micrometers, and calipers."
+ },
+ {
+  "task_id": "11801",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Clean internal compartments and moving parts, using rags and cleaning compounds."
+ },
+ {
+  "task_id": "11788",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Dismantle meters, and replace or adjust defective parts such as cases, shafts, gears, disks, and recording mechanisms, using soldering irons and hand tools."
+ },
+ {
+  "task_id": "11781",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Disconnect or remove defective or unauthorized meters, using hand tools."
+ },
+ {
+  "task_id": "11787",
+  "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+  "task_text": "Attach air hoses to meter inlets, plug outlets, and observe gauges for pressure losses to test internal seams for leaks."
+ }
+]
