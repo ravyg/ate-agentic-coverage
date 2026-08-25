@@ -4,1014 +4,1014 @@
   "n_tasks": 130,
   "input": "chunks/chunk_000.json",
   "output": "partial_output/chunk_000.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 1,
   "n_tasks": 130,
   "input": "chunks/chunk_001.json",
   "output": "partial_output/chunk_001.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 2,
   "n_tasks": 130,
   "input": "chunks/chunk_002.json",
   "output": "partial_output/chunk_002.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 3,
   "n_tasks": 130,
   "input": "chunks/chunk_003.json",
   "output": "partial_output/chunk_003.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 4,
   "n_tasks": 130,
   "input": "chunks/chunk_004.json",
   "output": "partial_output/chunk_004.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 5,
   "n_tasks": 130,
   "input": "chunks/chunk_005.json",
   "output": "partial_output/chunk_005.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 6,
   "n_tasks": 130,
   "input": "chunks/chunk_006.json",
   "output": "partial_output/chunk_006.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 7,
   "n_tasks": 130,
   "input": "chunks/chunk_007.json",
   "output": "partial_output/chunk_007.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 8,
   "n_tasks": 130,
   "input": "chunks/chunk_008.json",
   "output": "partial_output/chunk_008.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 9,
   "n_tasks": 130,
   "input": "chunks/chunk_009.json",
   "output": "partial_output/chunk_009.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 10,
   "n_tasks": 130,
   "input": "chunks/chunk_010.json",
   "output": "partial_output/chunk_010.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 11,
   "n_tasks": 130,
   "input": "chunks/chunk_011.json",
   "output": "partial_output/chunk_011.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 12,
   "n_tasks": 130,
   "input": "chunks/chunk_012.json",
   "output": "partial_output/chunk_012.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 13,
   "n_tasks": 130,
   "input": "chunks/chunk_013.json",
   "output": "partial_output/chunk_013.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 14,
   "n_tasks": 130,
   "input": "chunks/chunk_014.json",
   "output": "partial_output/chunk_014.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 15,
   "n_tasks": 130,
   "input": "chunks/chunk_015.json",
   "output": "partial_output/chunk_015.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 16,
   "n_tasks": 130,
   "input": "chunks/chunk_016.json",
   "output": "partial_output/chunk_016.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 17,
   "n_tasks": 130,
   "input": "chunks/chunk_017.json",
   "output": "partial_output/chunk_017.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 18,
   "n_tasks": 130,
   "input": "chunks/chunk_018.json",
   "output": "partial_output/chunk_018.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 19,
   "n_tasks": 130,
   "input": "chunks/chunk_019.json",
   "output": "partial_output/chunk_019.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 20,
   "n_tasks": 130,
   "input": "chunks/chunk_020.json",
   "output": "partial_output/chunk_020.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 21,
   "n_tasks": 130,
   "input": "chunks/chunk_021.json",
   "output": "partial_output/chunk_021.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 22,
   "n_tasks": 130,
   "input": "chunks/chunk_022.json",
   "output": "partial_output/chunk_022.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 23,
   "n_tasks": 130,
   "input": "chunks/chunk_023.json",
   "output": "partial_output/chunk_023.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 24,
   "n_tasks": 130,
   "input": "chunks/chunk_024.json",
   "output": "partial_output/chunk_024.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 25,
   "n_tasks": 130,
   "input": "chunks/chunk_025.json",
   "output": "partial_output/chunk_025.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 26,
   "n_tasks": 130,
   "input": "chunks/chunk_026.json",
   "output": "partial_output/chunk_026.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 27,
   "n_tasks": 130,
   "input": "chunks/chunk_027.json",
   "output": "partial_output/chunk_027.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 28,
   "n_tasks": 130,
   "input": "chunks/chunk_028.json",
   "output": "partial_output/chunk_028.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 29,
   "n_tasks": 130,
   "input": "chunks/chunk_029.json",
   "output": "partial_output/chunk_029.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 30,
   "n_tasks": 130,
   "input": "chunks/chunk_030.json",
   "output": "partial_output/chunk_030.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 31,
   "n_tasks": 130,
   "input": "chunks/chunk_031.json",
   "output": "partial_output/chunk_031.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 32,
   "n_tasks": 130,
   "input": "chunks/chunk_032.json",
   "output": "partial_output/chunk_032.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 33,
   "n_tasks": 130,
   "input": "chunks/chunk_033.json",
   "output": "partial_output/chunk_033.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 34,
   "n_tasks": 130,
   "input": "chunks/chunk_034.json",
   "output": "partial_output/chunk_034.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 35,
   "n_tasks": 130,
   "input": "chunks/chunk_035.json",
   "output": "partial_output/chunk_035.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 36,
   "n_tasks": 130,
   "input": "chunks/chunk_036.json",
   "output": "partial_output/chunk_036.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 37,
   "n_tasks": 130,
   "input": "chunks/chunk_037.json",
   "output": "partial_output/chunk_037.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 38,
   "n_tasks": 130,
   "input": "chunks/chunk_038.json",
   "output": "partial_output/chunk_038.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 39,
   "n_tasks": 130,
   "input": "chunks/chunk_039.json",
   "output": "partial_output/chunk_039.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 40,
   "n_tasks": 130,
   "input": "chunks/chunk_040.json",
   "output": "partial_output/chunk_040.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 41,
   "n_tasks": 130,
   "input": "chunks/chunk_041.json",
   "output": "partial_output/chunk_041.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 42,
   "n_tasks": 130,
   "input": "chunks/chunk_042.json",
   "output": "partial_output/chunk_042.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 43,
   "n_tasks": 130,
   "input": "chunks/chunk_043.json",
   "output": "partial_output/chunk_043.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 44,
   "n_tasks": 130,
   "input": "chunks/chunk_044.json",
   "output": "partial_output/chunk_044.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 45,
   "n_tasks": 130,
   "input": "chunks/chunk_045.json",
   "output": "partial_output/chunk_045.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 46,
   "n_tasks": 130,
   "input": "chunks/chunk_046.json",
   "output": "partial_output/chunk_046.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 47,
   "n_tasks": 130,
   "input": "chunks/chunk_047.json",
   "output": "partial_output/chunk_047.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 48,
   "n_tasks": 130,
   "input": "chunks/chunk_048.json",
   "output": "partial_output/chunk_048.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 49,
   "n_tasks": 130,
   "input": "chunks/chunk_049.json",
   "output": "partial_output/chunk_049.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 50,
   "n_tasks": 130,
   "input": "chunks/chunk_050.json",
   "output": "partial_output/chunk_050.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 51,
   "n_tasks": 130,
   "input": "chunks/chunk_051.json",
   "output": "partial_output/chunk_051.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 52,
   "n_tasks": 130,
   "input": "chunks/chunk_052.json",
   "output": "partial_output/chunk_052.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 53,
   "n_tasks": 130,
   "input": "chunks/chunk_053.json",
   "output": "partial_output/chunk_053.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 54,
   "n_tasks": 130,
   "input": "chunks/chunk_054.json",
   "output": "partial_output/chunk_054.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 55,
   "n_tasks": 130,
   "input": "chunks/chunk_055.json",
   "output": "partial_output/chunk_055.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 56,
   "n_tasks": 130,
   "input": "chunks/chunk_056.json",
   "output": "partial_output/chunk_056.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 57,
   "n_tasks": 130,
   "input": "chunks/chunk_057.json",
   "output": "partial_output/chunk_057.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 58,
   "n_tasks": 130,
   "input": "chunks/chunk_058.json",
   "output": "partial_output/chunk_058.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 59,
   "n_tasks": 130,
   "input": "chunks/chunk_059.json",
   "output": "partial_output/chunk_059.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 60,
   "n_tasks": 130,
   "input": "chunks/chunk_060.json",
   "output": "partial_output/chunk_060.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 61,
   "n_tasks": 130,
   "input": "chunks/chunk_061.json",
   "output": "partial_output/chunk_061.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 62,
   "n_tasks": 130,
   "input": "chunks/chunk_062.json",
   "output": "partial_output/chunk_062.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 63,
   "n_tasks": 130,
   "input": "chunks/chunk_063.json",
   "output": "partial_output/chunk_063.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 64,
   "n_tasks": 130,
   "input": "chunks/chunk_064.json",
   "output": "partial_output/chunk_064.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 65,
   "n_tasks": 130,
   "input": "chunks/chunk_065.json",
   "output": "partial_output/chunk_065.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 66,
   "n_tasks": 130,
   "input": "chunks/chunk_066.json",
   "output": "partial_output/chunk_066.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 67,
   "n_tasks": 130,
   "input": "chunks/chunk_067.json",
   "output": "partial_output/chunk_067.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 68,
   "n_tasks": 130,
   "input": "chunks/chunk_068.json",
   "output": "partial_output/chunk_068.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 69,
   "n_tasks": 130,
   "input": "chunks/chunk_069.json",
   "output": "partial_output/chunk_069.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 70,
   "n_tasks": 130,
   "input": "chunks/chunk_070.json",
   "output": "partial_output/chunk_070.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 71,
   "n_tasks": 130,
   "input": "chunks/chunk_071.json",
   "output": "partial_output/chunk_071.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 72,
   "n_tasks": 130,
   "input": "chunks/chunk_072.json",
   "output": "partial_output/chunk_072.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 73,
   "n_tasks": 130,
   "input": "chunks/chunk_073.json",
   "output": "partial_output/chunk_073.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 74,
   "n_tasks": 130,
   "input": "chunks/chunk_074.json",
   "output": "partial_output/chunk_074.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 75,
   "n_tasks": 130,
   "input": "chunks/chunk_075.json",
   "output": "partial_output/chunk_075.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 76,
   "n_tasks": 130,
   "input": "chunks/chunk_076.json",
   "output": "partial_output/chunk_076.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 77,
   "n_tasks": 130,
   "input": "chunks/chunk_077.json",
   "output": "partial_output/chunk_077.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 78,
   "n_tasks": 130,
   "input": "chunks/chunk_078.json",
   "output": "partial_output/chunk_078.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 79,
   "n_tasks": 130,
   "input": "chunks/chunk_079.json",
   "output": "partial_output/chunk_079.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 80,
   "n_tasks": 130,
   "input": "chunks/chunk_080.json",
   "output": "partial_output/chunk_080.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 81,
   "n_tasks": 130,
   "input": "chunks/chunk_081.json",
   "output": "partial_output/chunk_081.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 82,
   "n_tasks": 130,
   "input": "chunks/chunk_082.json",
   "output": "partial_output/chunk_082.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 83,
   "n_tasks": 130,
   "input": "chunks/chunk_083.json",
   "output": "partial_output/chunk_083.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 84,
   "n_tasks": 130,
   "input": "chunks/chunk_084.json",
   "output": "partial_output/chunk_084.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 85,
   "n_tasks": 130,
   "input": "chunks/chunk_085.json",
   "output": "partial_output/chunk_085.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 86,
   "n_tasks": 130,
   "input": "chunks/chunk_086.json",
   "output": "partial_output/chunk_086.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 87,
   "n_tasks": 130,
   "input": "chunks/chunk_087.json",
   "output": "partial_output/chunk_087.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 88,
   "n_tasks": 130,
   "input": "chunks/chunk_088.json",
   "output": "partial_output/chunk_088.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 89,
   "n_tasks": 130,
   "input": "chunks/chunk_089.json",
   "output": "partial_output/chunk_089.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 90,
   "n_tasks": 130,
   "input": "chunks/chunk_090.json",
   "output": "partial_output/chunk_090.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 91,
   "n_tasks": 130,
   "input": "chunks/chunk_091.json",
   "output": "partial_output/chunk_091.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 92,
   "n_tasks": 130,
   "input": "chunks/chunk_092.json",
   "output": "partial_output/chunk_092.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 93,
   "n_tasks": 130,
   "input": "chunks/chunk_093.json",
   "output": "partial_output/chunk_093.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 94,
   "n_tasks": 130,
   "input": "chunks/chunk_094.json",
   "output": "partial_output/chunk_094.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 95,
   "n_tasks": 130,
   "input": "chunks/chunk_095.json",
   "output": "partial_output/chunk_095.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 96,
   "n_tasks": 130,
   "input": "chunks/chunk_096.json",
   "output": "partial_output/chunk_096.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 97,
   "n_tasks": 130,
   "input": "chunks/chunk_097.json",
   "output": "partial_output/chunk_097.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 98,
   "n_tasks": 130,
   "input": "chunks/chunk_098.json",
   "output": "partial_output/chunk_098.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 99,
   "n_tasks": 130,
   "input": "chunks/chunk_099.json",
   "output": "partial_output/chunk_099.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 100,
   "n_tasks": 130,
   "input": "chunks/chunk_100.json",
   "output": "partial_output/chunk_100.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 101,
   "n_tasks": 130,
   "input": "chunks/chunk_101.json",
   "output": "partial_output/chunk_101.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 102,
   "n_tasks": 130,
   "input": "chunks/chunk_102.json",
   "output": "partial_output/chunk_102.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 103,
   "n_tasks": 130,
   "input": "chunks/chunk_103.json",
   "output": "partial_output/chunk_103.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 104,
   "n_tasks": 130,
   "input": "chunks/chunk_104.json",
   "output": "partial_output/chunk_104.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 105,
   "n_tasks": 130,
   "input": "chunks/chunk_105.json",
   "output": "partial_output/chunk_105.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 106,
   "n_tasks": 130,
   "input": "chunks/chunk_106.json",
   "output": "partial_output/chunk_106.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 107,
   "n_tasks": 130,
   "input": "chunks/chunk_107.json",
   "output": "partial_output/chunk_107.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 108,
   "n_tasks": 130,
   "input": "chunks/chunk_108.json",
   "output": "partial_output/chunk_108.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 109,
   "n_tasks": 130,
   "input": "chunks/chunk_109.json",
   "output": "partial_output/chunk_109.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 110,
   "n_tasks": 130,
   "input": "chunks/chunk_110.json",
   "output": "partial_output/chunk_110.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 111,
   "n_tasks": 130,
   "input": "chunks/chunk_111.json",
   "output": "partial_output/chunk_111.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 112,
   "n_tasks": 130,
   "input": "chunks/chunk_112.json",
   "output": "partial_output/chunk_112.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 113,
   "n_tasks": 130,
   "input": "chunks/chunk_113.json",
   "output": "partial_output/chunk_113.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 114,
   "n_tasks": 130,
   "input": "chunks/chunk_114.json",
   "output": "partial_output/chunk_114.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 115,
   "n_tasks": 130,
   "input": "chunks/chunk_115.json",
   "output": "partial_output/chunk_115.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 116,
   "n_tasks": 130,
   "input": "chunks/chunk_116.json",
   "output": "partial_output/chunk_116.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 117,
   "n_tasks": 130,
   "input": "chunks/chunk_117.json",
   "output": "partial_output/chunk_117.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 118,
   "n_tasks": 130,
   "input": "chunks/chunk_118.json",
   "output": "partial_output/chunk_118.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 119,
   "n_tasks": 130,
   "input": "chunks/chunk_119.json",
   "output": "partial_output/chunk_119.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 120,
   "n_tasks": 130,
   "input": "chunks/chunk_120.json",
   "output": "partial_output/chunk_120.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 121,
   "n_tasks": 130,
   "input": "chunks/chunk_121.json",
   "output": "partial_output/chunk_121.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 122,
   "n_tasks": 130,
   "input": "chunks/chunk_122.json",
   "output": "partial_output/chunk_122.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 123,
   "n_tasks": 130,
   "input": "chunks/chunk_123.json",
   "output": "partial_output/chunk_123.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 124,
   "n_tasks": 130,
   "input": "chunks/chunk_124.json",
   "output": "partial_output/chunk_124.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 125,
   "n_tasks": 130,
   "input": "chunks/chunk_125.json",
   "output": "partial_output/chunk_125.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 126,
   "n_tasks": 130,
   "input": "chunks/chunk_126.json",
   "output": "partial_output/chunk_126.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 127,
   "n_tasks": 130,
   "input": "chunks/chunk_127.json",
   "output": "partial_output/chunk_127.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 128,
   "n_tasks": 130,
   "input": "chunks/chunk_128.json",
   "output": "partial_output/chunk_128.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 129,
   "n_tasks": 130,
   "input": "chunks/chunk_129.json",
   "output": "partial_output/chunk_129.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 130,
   "n_tasks": 130,
   "input": "chunks/chunk_130.json",
   "output": "partial_output/chunk_130.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 131,
   "n_tasks": 130,
   "input": "chunks/chunk_131.json",
   "output": "partial_output/chunk_131.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 132,
   "n_tasks": 130,
   "input": "chunks/chunk_132.json",
   "output": "partial_output/chunk_132.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 133,
   "n_tasks": 130,
   "input": "chunks/chunk_133.json",
   "output": "partial_output/chunk_133.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 134,
   "n_tasks": 130,
   "input": "chunks/chunk_134.json",
   "output": "partial_output/chunk_134.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 135,
   "n_tasks": 130,
   "input": "chunks/chunk_135.json",
   "output": "partial_output/chunk_135.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 136,
   "n_tasks": 130,
   "input": "chunks/chunk_136.json",
   "output": "partial_output/chunk_136.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 137,
   "n_tasks": 130,
   "input": "chunks/chunk_137.json",
   "output": "partial_output/chunk_137.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 138,
   "n_tasks": 130,
   "input": "chunks/chunk_138.json",
   "output": "partial_output/chunk_138.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 139,
   "n_tasks": 130,
   "input": "chunks/chunk_139.json",
   "output": "partial_output/chunk_139.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 140,
   "n_tasks": 130,
   "input": "chunks/chunk_140.json",
   "output": "partial_output/chunk_140.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 141,
   "n_tasks": 130,
   "input": "chunks/chunk_141.json",
   "output": "partial_output/chunk_141.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 142,
   "n_tasks": 130,
   "input": "chunks/chunk_142.json",
   "output": "partial_output/chunk_142.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 143,
   "n_tasks": 130,
   "input": "chunks/chunk_143.json",
   "output": "partial_output/chunk_143.csv",
-  "status": "todo"
+  "status": "done"
  },
  {
   "chunk": 144,
   "n_tasks": 76,
   "input": "chunks/chunk_144.json",
   "output": "partial_output/chunk_144.csv",
-  "status": "todo"
+  "status": "done"
  }
 ]
