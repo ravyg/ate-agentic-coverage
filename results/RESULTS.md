@@ -1,6 +1,9 @@
 # Empirically Estimating the COV Penalty Weights — Pilot Results
 
-**Status: PROVISIONAL (LLM-panel pilot, pending human validation).**
+**Status: SUPERSEDED.** This was the LLM-panel pilot. Human validation is complete and
+is the authoritative result — see [`../validation/RESULTS.md`](../validation/RESULTS.md).
+The P1–P4 penalty weights this pilot estimated are no longer used: coverage is measured
+per task instead.
 Date: 2026-08-24. Seed 42. n = 100 tasks (20 per penalty category, single-category
 only, + 20 no-penalty controls). Coverage labels: 4 independent blind LLM raters.
 

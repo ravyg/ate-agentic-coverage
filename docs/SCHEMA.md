@@ -28,7 +28,7 @@ One row per O\*NET task. 18,796 rows.
 ### Known calibration property
 
 Coverage scores are validated as a **ranking** (Spearman ρ = 0.884 vs. a human
-panel, 99.9% of the attainable ceiling) but are **conservative in absolute
+panel, stable across annotator subsets) but are **conservative in absolute
 level** — on average 0.147 lower than independent human raters on the same
 tasks. See [`../validation/RESULTS.md`](../validation/RESULTS.md) for the full
 validation and a suggested linear correction for users who need calibrated

@@ -36,9 +36,9 @@ ds = load_dataset("ravishgupta/ate-agentic-coverage")
 > ([`scripts/LABELING_SPEC_COVERAGE.md`](scripts/LABELING_SPEC_COVERAGE.md)), applied
 > in one consistent pass across all 145 chunks. **Independent human validation is
 > complete:** three annotators each scored all 200 tasks of the audit sample.
-> Against the pooled human panel, the model reaches **Spearman ρ = 0.884 — 99.9% of
-> the attainable rank agreement**, set by how much the three humans agree with each
-> other (reliability ceiling √ICC = 0.885). Ranking is excellent. **Absolute levels
+> Against the pooled human panel, the model reaches **Spearman ρ = 0.884**, and stays
+> between 0.87 and 0.88 for every subset of annotators — no single rater drives it.
+> Ranking is reliable. **Absolute levels
 > are conservative:** the model scores tasks **0.147 lower** than the human panel on
 > average (model mean 0.353 vs. human mean 0.498) — a known calibration gap, not a
 > ranking problem. Full breakdown, method, and scope in [`validation/`](validation/).
@@ -105,10 +105,11 @@ handle almost entirely alone.
    penalty category plus 40 no-penalty controls, spanning 180 occupations) was
    independently scored by **three annotators**, each rating all 200 tasks on the
    same blind instrument.
-3. **Agreement** — model-vs-human Spearman ρ = 0.884, which is 99.9% of the 0.885
-   reliability ceiling set by inter-annotator agreement (ICC(2,k) = 0.782). Mean
-   absolute error 0.171; the model runs 0.147 low on average (known, documented
-   calibration gap). Full results in [`validation/RESULTS.md`](validation/RESULTS.md).
+3. **Agreement** — model-vs-human Spearman ρ = 0.884 (stable at 0.87–0.88 across
+   annotator subsets); inter-annotator ICC(2,k) = 0.782. Mean absolute error 0.171;
+   the model runs 0.147 low on average (known, documented calibration gap). A known
+   instrument limitation — one annotator read the 0–1 scale as closer to a yes/no —
+   is documented in full in [`validation/RESULTS.md`](validation/RESULTS.md).
 
 Full protocol: [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md).
 

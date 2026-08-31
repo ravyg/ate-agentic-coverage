@@ -64,7 +64,7 @@ permanently-archived, citable release**.
       ```bash
       gh release create v1.0.0 \
         --title "O*NET Agentic Coverage Dataset v1.0.0" \
-        --notes "First public release: agentic-coverage scores for all 18,796 O*NET tasks, human-validated (Spearman rho = 0.884, 99.9% of the inter-annotator reliability ceiling). See README."
+        --notes "First public release: agentic-coverage scores for all 18,796 O*NET tasks, human-validated (Spearman rho = 0.884 against a three-annotator panel; model runs 0.147 low in absolute terms). See README."
       ```
 
 ## Phase 4 — Mint the Zenodo DOI

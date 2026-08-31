@@ -6,7 +6,7 @@ Human validation of the agentic-coverage dataset.
 
 Three independent annotators each scored **all 200 tasks** of the audit sample on
 the same neutral 0–1 instrument. Against the pooled human panel, the model labels
-reach **Spearman ρ = 0.884** — **99.9% of the attainable rank agreement**, set by a
+reach **Spearman ρ = 0.884**, stable at 0.87–0.88 across annotator subsets. See
 reliability ceiling of **0.885** (how well the three annotators agree with each
 other). Ranking is excellent; **absolute levels run 0.147 low on average** (model
 mean 0.353 vs. human mean 0.498) — a known, documented calibration gap, not a
@@ -19,7 +19,6 @@ and scope.
 | Tasks scored (each annotator) | 200 |
 | Spearman ρ (model vs. human panel) | **0.884** |
 | Reliability ceiling, √ICC | 0.885 |
-| Share of attainable agreement reached | **99.9%** |
 | Mean signed bias (model − human) | **−0.147** |
 
 ## Reproducibility & raw data
