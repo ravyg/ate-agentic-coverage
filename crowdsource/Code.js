@@ -21,7 +21,10 @@
 //   - Standalone deploy (clasp / standalone script): paste the target Sheet id
 //     here. A standalone web app avoids the "Access Denied - Drive" wall that
 //     consumer (@gmail) container-bound web apps hit for anonymous raters.
-var SHEET_ID = '';
+// SHEET_ID is deliberately NOT stored in source (the sheet holds annotator
+// names/emails). Set it once in the Apps Script UI:
+//   Project Settings > Script Properties > SHEET_ID = <spreadsheet id>
+var SHEET_ID = PropertiesService.getScriptProperties().getProperty('SHEET_ID') || '';
 
 // Name of the tab where annotations are stored (auto-created on first submit).
 var RESPONSE_SHEET = 'Responses';

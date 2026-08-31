@@ -1,0 +1,5 @@
+penalty,judgment,human_estimate,ci_lo,ci_hi,judgment_in_ci,llm_pilot,llm_ci_lo,llm_ci_hi,llm_in_human_ci
+P1_interpersonal,0.75,0.898,0.697,1.162,YES,0.77,0.39,1.54,YES
+P2_regulatory,0.7,0.741,0.538,1.003,YES,0.52,0.25,1.13,no
+P3_physical,0.6,0.37,0.231,0.602,YES,0.26,0.11,0.62,YES
+P4_exception,0.8,0.515,0.351,0.744,no,0.71,0.33,1.56,YES

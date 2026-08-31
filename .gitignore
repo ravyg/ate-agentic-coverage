@@ -15,3 +15,11 @@ crowdsource/*.exported.csv
 # clasp deploy artifacts (the web-app project lives outside this repo)
 .clasp.json
 .clasprc.json
+
+# Human annotation data — NOT released.
+# Raw export contains annotator names/emails (PII); the de-identified panel file
+# is also withheld per project policy. validation/RESULTS.md publishes the metrics,
+# and validation/compute_validation.py regenerates them from these inputs.
+data/human_annotations_raw.json
+data/human_annotations_tidy.csv
+validation/audit_scores_200.csv

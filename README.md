@@ -1,111 +1,202 @@
-# Agentic Coverage Dataset — Estimating the ATES Workflow-Coverage Penalties
+# O*NET Agentic Coverage Dataset
 
-Companion resource to the **ATES** (Agentic Task Exposure Score) framework and the
-[O\*NET Task→Ability Mapping Dataset](https://doi.org/10.5281/zenodo.21989176).
+A task-level estimate, for **all 18,796 O\*NET work tasks** — the full O\*NET task
+corpus, economy-wide — of **how much of each task a current autonomous AI agent
+could complete end to end, with no human in the loop.**
 
-This repo answers one question with data: **how much of each work task can an
-autonomous AI agent complete on its own, end to end, with no human in the loop?**
-That measurement lets us *estimate* the ATES workflow-coverage (COV) penalty
-weights instead of asserting them.
+This dataset supports task-level research on AI exposure and human-AI task
+allocation: which tasks an agent can already finish alone, which need a human for
+part of the work, and which still require a human throughout.
 
-> ⚠️ **Status: pilot / provisional.** The coverage labels here come from an
-> LLM panel (4 independent blind raters, 100 tasks). Human validation using the
-> included annotation form is the next step. Numbers will be updated when human
-> labels land. Nothing here is fitted to any prior AI-exposure index.
+> Built as a companion resource to the **ATES** (Agentic Task Exposure Score)
+> framework and the [O\*NET Task→Ability Mapping Dataset](https://doi.org/10.5281/zenodo.21989176)
+> — coverage is the axis those datasets don't measure on their own: not *can* an
+> agent do this kind of work, but *how much of this specific task* can it finish
+> unaided.
 
----
+**Get it:** [GitHub source](https://github.com/ravyg/ate-agentic-coverage) · 🤗 Hugging Face — *TBD, not yet uploaded* · Zenodo (archival DOI) — *TBD, not yet minted*
 
-## Why this exists
+Once the Hugging Face mirror is published, it will load with:
 
-ATES discounts a task's automation exposure when completing it autonomously runs
-into a barrier that raw capability cannot overcome:
+```python
+from datasets import load_dataset
 
-| Penalty | Barrier | Judgment weight |
-|--------|---------|:---:|
-| P1 Interpersonal | needs human rapport / trust | ×0.75 |
-| P2 Regulatory / fiduciary | needs legal authority / accountability | ×0.70 |
-| P3 Physical | needs a body on site | ×0.60 |
-| P4 Exception handling | needs novel human judgment | ×0.80 |
+ds = load_dataset("ravishgupta/ate-agentic-coverage")   # pending upload
+```
 
-Those weights were expert judgment. A reviewer reasonably asked whether they are
-arbitrary. This repo tests them: we measure agentic **coverage** per task with a
-neutral instrument that never mentions the penalty scheme, then regress coverage
-on which penalties each task triggers to recover the weights with confidence
-intervals.
+> ⭐ **Find this useful?** Please **clone it and give the repo a star** — it takes one
+> click, helps others discover the dataset, and lets us gauge interest to keep it
+> maintained and expanded. If you use it in your work, a [citation](#citation) is the
+> best thanks of all. 🙏
 
-## Headline pilot result
-
-Blind raters reproduce the **exact rank order** of the four penalties, and **no
-judgment value is rejected** — each falls inside its 95% CI.
-
-| Penalty | judgment | estimated (pilot) | 95% CI |
-|---------|:---:|:---:|:---:|
-| P1 Interpersonal | 0.75 | 0.77 | [0.39, 1.54] |
-| P2 Regulatory | 0.70 | 0.52 | [0.25, 1.13] |
-| P3 Physical | 0.60 | 0.26 | [0.11, 0.62] |
-| P4 Exception | 0.80 | 0.71 | [0.33, 1.56] |
-
-Raw coverage by group (ratio to the no-penalty control) tells the same story:
-interpersonal 0.76, regulatory 0.65, physical 0.50, exception 0.89. Full write-up
-in [`results/RESULTS.md`](results/RESULTS.md).
+> ### ✅ Status: labels released · human validation **complete**
+> The full agentic-coverage dataset (**18,796 tasks — economy-wide, the entire O\*NET
+> task corpus**) is **available today**. Labels were produced by a large language
+> model (**Claude Sonnet**) against a single neutral instrument
+> ([`scripts/LABELING_SPEC_COVERAGE.md`](scripts/LABELING_SPEC_COVERAGE.md)), applied
+> in one consistent pass across all 145 chunks. **Independent human validation is
+> complete:** three annotators each scored all 200 tasks of the audit sample.
+> Against the pooled human panel, the model reaches **Spearman ρ = 0.884 — 99.9% of
+> the attainable rank agreement**, set by how much the three humans agree with each
+> other (reliability ceiling √ICC = 0.885). Ranking is excellent. **Absolute levels
+> are conservative:** the model scores tasks **0.147 lower** than the human panel on
+> average (model mean 0.353 vs. human mean 0.498) — a known calibration gap, not a
+> ranking problem. Full breakdown, method, and scope in [`validation/`](validation/).
 
 ---
 
 ## What's here
 
+| File | Description |
+|------|-------------|
+| `data/agentic_coverage.csv` | **Main dataset** — 18,796 rows, one per O\*NET task |
+| `scripts/LABELING_SPEC_COVERAGE.md` | The neutral labeling spec used for every task |
+| `scripts/` | The resumable, one-command full-corpus generation pipeline (chunk → label → merge) |
+| `validation/` | Human validation results (Spearman ρ, ICC, bias) + the reproduction script |
+| `crowdsource/` | The web form used to collect human validation labels |
+| `docs/METHODOLOGY.md` | How the dataset was built and validated |
+| `docs/SCHEMA.md` | Column-by-column schema |
+| `code/`, `results/` | The earlier 100-task pilot that motivated this full-corpus release |
+
+---
+
+## Main dataset schema
+
+`data/agentic_coverage.csv` — one row per O\*NET task:
+
+| Column | Type | Description |
+|--------|------|-------------|
+| `task_id` | int | O\*NET task identifier |
+| `occupation` | string | O\*NET occupation title the task belongs to |
+| `task_text` | string | Full O\*NET task statement |
+| `coverage` | float [0, 1] | How much of the task an autonomous AI agent could complete end to end, unaided |
+| `rationale` | string | Short free-text justification for the score |
+
+Full column notes: [`docs/SCHEMA.md`](docs/SCHEMA.md).
+
+## Coverage distribution
+
+18,796 tasks · mean **0.353** · sd 0.329 · median 0.30.
+
+| Coverage band | Tasks | Share |
+|---|---:|---:|
+| [0.0, 0.2) | 8,206 | 43.7% |
+| [0.2, 0.4) | 2,786 | 14.8% |
+| [0.4, 0.6) | 2,221 | 11.8% |
+| [0.6, 0.8) | 2,052 | 10.9% |
+| [0.8, 1.0] | 3,531 | 18.8% |
+
+Most tasks cluster at the low end — a majority still need meaningful human
+involvement — with a smaller, distinct cluster of tasks an agent can already
+handle almost entirely alone.
+
+---
+
+## How it was built (short version)
+
+1. **LLM pass** — every one of the 18,796 O\*NET tasks was scored 0–1 for agentic
+   coverage by a large language model (**Claude Sonnet**) against a single neutral
+   instrument ([`scripts/LABELING_SPEC_COVERAGE.md`](scripts/LABELING_SPEC_COVERAGE.md))
+   that never mentions the ATES penalty scheme, so labels aren't circular with the
+   model they were built to inform. Tasks were split into 145 blind chunks of 130
+   tasks each and labeled in one consistent pass, then merged and validated
+   (`scripts/merge_validate.py`).
+2. **Human validation** *(complete)* — a 200-task stratified sample (seed 42, 40 per
+   penalty category plus 40 no-penalty controls, spanning 180 occupations) was
+   independently scored by **three annotators**, each rating all 200 tasks on the
+   same blind instrument.
+3. **Agreement** — model-vs-human Spearman ρ = 0.884, which is 99.9% of the 0.885
+   reliability ceiling set by inter-annotator agreement (ICC(2,k) = 0.782). Mean
+   absolute error 0.171; the model runs 0.147 low on average (known, documented
+   calibration gap). Full results in [`validation/RESULTS.md`](validation/RESULTS.md).
+
+Full protocol: [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md).
+
+---
+
+## Source & license
+
+- **Source taxonomy:** [O\*NET 30.2](https://www.onetcenter.org/database.html)
+  (U.S. Department of Labor, public domain).
+- **This dataset:** licensed **CC-BY-4.0** — free to use with attribution.
+
+## Citation
+
+If you use this dataset, please cite the accompanying paper. Copy-paste in your
+preferred style:
+
+**APA**
 ```
-INSTRUMENT.md              The neutral coverage question + calibration anchors
-code/
-  tag_penalties.py         Tag every task with P1-P4 (exact ATES keyword logic)
-  build_pilot.py           Stratified sampling (seed 42)
-  estimate_weights.py      Log-linear regression + bootstrap CIs
-  RUN_FULL.md              How a collaborator scales this to all tasks
-data/
-  tasks_tagged.csv         All 18,796 tasks with penalty flags
-  pilot_tasks.csv          The 100-task stratified pilot (with flags)
-  rater_input.csv          Blinded input given to raters (no penalty columns)
-results/
-  ratings_rater{1..4}.csv  The LLM-panel coverage labels
-  estimated_weights.csv    Estimated weights + CIs
-  RESULTS.md               Method + results + limitations
-crowdsource/
-  Code.gs, Index.html      Google Apps Script annotation web app (coverage form)
-  generate_index.py        Rebuild the form for any task set
-  DEPLOY.md                5-minute deploy guide
+Gupta, R., & Kumar, S. (2026). Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis of Emerging Labor Market Disruption. arXiv preprint arXiv:2604.00186.
 ```
 
-## Reproduce in three commands
-
-```bash
-python3 -m pip install numpy
-python3 code/tag_penalties.py       # or use the bundled data/tasks_tagged.csv
-python3 code/estimate_weights.py    # prints the table above
+**MLA**
+```
+Gupta, Ravish, and Saket Kumar. "Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis of Emerging Labor Market Disruption." arXiv preprint arXiv:2604.00186 (2026).
 ```
 
-## Method in one paragraph
+**Chicago**
+```
+Gupta, Ravish, and Saket Kumar. "Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis of Emerging Labor Market Disruption." arXiv preprint arXiv:2604.00186 (2026).
+```
 
-Sample tasks that trip exactly one penalty category, plus a no-penalty control.
-Independent raters, blind to the scheme, score each task 0–1 on *how much an
-autonomous agent could complete alone* ([`INSTRUMENT.md`](INSTRUMENT.md)). Fit
-`log(coverage) = log(base) + Σ_k trip_k · log(weight_k)`; `weight_k = exp(coef_k)`.
-Controls identify the base; bootstrap over tasks gives CIs. See `RUN_FULL.md`.
+**Harvard**
+```
+Gupta, R. and Kumar, S., 2026. Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis of Emerging Labor Market Disruption. arXiv preprint arXiv:2604.00186.
+```
 
-## How this relates to CAP (why it is not double-counting)
+**Vancouver**
+```
+Gupta R, Kumar S. Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis of Emerging Labor Market Disruption. arXiv preprint arXiv:2604.00186. 2026 Mar 31.
+```
 
-CAP asks *is the AI able to do this kind of work?* (from the abilities a task
-needs). COV asks *even if it is able, can an agent finish it alone, or must a
-human stay in the loop?* These are different axes — except for **physical**,
-where CAP already scores physical ability near zero, so P3 partially overlaps
-CAP. This pilot measures coverage independently of CAP, so it can show whether P3
-still carries signal after abilities are accounted for.
+**BibTeX**
+```bibtex
+@article{gupta2026agentic,
+  title   = {Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis of Emerging Labor Market Disruption},
+  author  = {Gupta, Ravish and Kumar, Saket},
+  journal = {arXiv preprint arXiv:2604.00186},
+  year    = {2026}
+}
+```
 
-## License & citation
+### Citing the dataset
 
-- Code and labels: **CC-BY-4.0** (see `LICENSE`). O\*NET task text is U.S. DoL public domain.
-- If you use this, please cite the ATES paper and this dataset (see `CITATION.cff`).
+A dataset-specific citation is defined in [`CITATION.cff`](CITATION.cff). The Zenodo
+archival DOI has **not been minted yet** — this section will be updated with the DOI
+once it is (see `RELEASE.md`). Until then, please cite the GitHub repository and the
+paper above.
 
-## Contributing coverage labels
+## Acknowledgements
 
-Want your name in the acknowledgements? Deploy the form in `crowdsource/`
-(or ask us for the live link) and rate a batch of tasks. Two people rating the
-same task is useful — it measures agreement.
+**Special thanks to our annotators — Saket Kumar, Maulik Dang, and Shreeya Sharma —**
+whose independent human review of the 200-task validation sample made the quality
+assessment of this dataset possible. Their careful judgments on agentic coverage
+are the backbone of its reliability.
+
+### 🙋 Want your name here? Become an annotator
+
+This dataset gets better with more human eyes — and we credit every contributor.
+If you'd like to help validate agentic-coverage labels (it takes ~15 minutes, no
+special background needed) **your name will be listed in the Acknowledgements of
+this dataset and its accompanying paper.**
+
+It's a simple, citable way to contribute to open research on AI and the future of
+work — something concrete to point to on your CV, LinkedIn, or Google Scholar.
+
+👉 **Interested? Reach out:** [ravishgupta.me/#contact](https://ravishgupta.me/index.html#contact)
+
+Tell us roughly how many tasks you'd like to annotate and we'll send you a link.
+Every verified contributor is acknowledged by name (or kept anonymous on request).
+
+## Related
+
+- **Hugging Face:** *TBD, not yet uploaded* — will load with `datasets.load_dataset("ravishgupta/ate-agentic-coverage")`.
+- **Zenodo:** archival record + citation DOI — *TBD, not yet minted*.
+- **Paper:** Gupta & Kumar (2026), *Agentic AI and Occupational Displacement*, arXiv:2604.00186.
+- **O\*NET Task→Ability Mapping Dataset:** [ate-task-ability-dataset](https://github.com/ravyg/ate-task-ability-dataset) — the companion dataset this one builds on.
+- **ATES framework** — the model this dataset was built for *(link on paper release)*.
+
+---
+
+⭐ **If this dataset helped your work, please [star the repo](https://github.com/ravyg/ate-agentic-coverage) and cite the paper.** It's the simplest way to support open research and keep this dataset growing. Thank you!

@@ -1,0 +1,42 @@
+{
+  "title": "O*NET Agentic Coverage Dataset",
+  "description": "A task-level estimate, for all 18,796 O*NET work tasks (the full O*NET task corpus, economy-wide), of how much of each task a current autonomous AI agent could complete end to end with no human in the loop. Labels were generated with a large language model (Claude Sonnet) against a single neutral instrument, applied in one consistent pass across the full corpus, then validated: three independent human annotators each scored all 200 tasks of an audit sample, giving Spearman rho = 0.884 against the model (99.9% of the 0.885 reliability ceiling set by inter-annotator agreement), with a documented mean calibration bias of -0.147 (model conservative relative to humans in absolute level; ranking is not affected). Built as a companion resource to the ATES (Agentic Task Exposure Score) framework and the O*NET Task-to-Ability Mapping Dataset, it also stands alone for research on AI exposure and human-AI task allocation.",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "language": "eng",
+  "keywords": [
+    "agentic AI",
+    "O*NET",
+    "task automation",
+    "occupational exposure",
+    "AI exposure",
+    "labor economics",
+    "future of work",
+    "human-AI task allocation",
+    "ATES"
+  ],
+  "creators": [
+    { "name": "Gupta, Ravish" },
+    { "name": "Kumar, Saket" },
+    { "name": "Dang, Maulik" }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "arXiv:2604.00186",
+      "relation": "isSupplementTo",
+      "scheme": "arxiv"
+    },
+    {
+      "identifier": "https://github.com/ravyg/ate-agentic-coverage",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.21989176",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ]
+}
