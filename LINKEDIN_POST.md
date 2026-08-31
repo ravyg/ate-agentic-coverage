@@ -13,6 +13,7 @@ One honest caveat, and it is in the repo rather than buried. The model runs cons
 It was built as the empirical base for our Agentic Task Exposure work, but it stands on its own for anyone studying automation risk, skill demand, human and AI task allocation, or benchmarking agent capability against real work rather than synthetic tasks.
 
 Dataset: https://github.com/ravyg/ate-agentic-coverage
+Hugging Face: https://huggingface.co/datasets/ravishgupta/ate-agentic-coverage
 Paper (Agentic Task Exposure): https://arxiv.org/abs/2604.00186
 Validation results and method: https://github.com/ravyg/ate-agentic-coverage/blob/main/validation/RESULTS.md
 Companion task to ability mapping (18,796 tasks, 95,330 rows): https://github.com/ravyg/ate-task-ability-dataset

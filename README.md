@@ -14,14 +14,14 @@ part of the work, and which still require a human throughout.
 > agent do this kind of work, but *how much of this specific task* can it finish
 > unaided.
 
-**Get it:** [GitHub source](https://github.com/ravyg/ate-agentic-coverage) · 🤗 Hugging Face — *TBD, not yet uploaded* · Zenodo (archival DOI) — *TBD, not yet minted*
+**Get it:** [🤗 Hugging Face](https://huggingface.co/datasets/ravishgupta/ate-agentic-coverage) · [GitHub source](https://github.com/ravyg/ate-agentic-coverage) · Zenodo (archival DOI) — *TBD, not yet minted*
 
-Once the Hugging Face mirror is published, it will load with:
+Load it programmatically from Hugging Face:
 
 ```python
 from datasets import load_dataset
 
-ds = load_dataset("ravishgupta/ate-agentic-coverage")   # pending upload
+ds = load_dataset("ravishgupta/ate-agentic-coverage")
 ```
 
 > ⭐ **Find this useful?** Please **clone it and give the repo a star** — it takes one
@@ -192,7 +192,7 @@ Every verified contributor is acknowledged by name (or kept anonymous on request
 
 ## Related
 
-- **Hugging Face:** *TBD, not yet uploaded* — will load with `datasets.load_dataset("ravishgupta/ate-agentic-coverage")`.
+- **Hugging Face:** [ravishgupta/ate-agentic-coverage](https://huggingface.co/datasets/ravishgupta/ate-agentic-coverage) — load with `datasets.load_dataset(...)`.
 - **Zenodo:** archival record + citation DOI — *TBD, not yet minted*.
 - **Paper:** Gupta & Kumar (2026), *Agentic AI and Occupational Displacement*, arXiv:2604.00186.
 - **O\*NET Task→Ability Mapping Dataset:** [ate-task-ability-dataset](https://github.com/ravyg/ate-task-ability-dataset) — the companion dataset this one builds on.
