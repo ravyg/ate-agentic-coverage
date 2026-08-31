@@ -10,7 +10,9 @@ physical body and no legal authority of its own.
 
 **Grouped form (recommended — all tasks for an occupation on one page):**
 
-<https://script.google.com/macros/s/AKfycbzX7o5NZD0ccGzh0uNMD1Ymg06IqumFB5M2BgWHVMdzdigKX-I4PYc9mgX1MUlLXhfB/exec?view=grouped>
+*(annotation link available on request — see the "Become an annotator" section of the
+README. The deployment URL is deliberately not published: the same endpoint exposes
+annotator names and emails.)*
 
 One-task-at-a-time form (same content, slower pace): drop the `?view=grouped`.
 
