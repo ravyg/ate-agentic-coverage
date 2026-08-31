@@ -169,7 +169,8 @@ paper above.
 
 ## Acknowledgements
 
-**Special thanks to our annotators — Saket Kumar, Maulik Dang, and Shreeya Sharma —**
+**Special thanks to our annotators — Saket Kumar ([@saki007ster](https://github.com/saki007ster)), Maulik Dang ([@floppymilo](https://github.com/floppymilo)), and
+Shreeya Sharma —**
 whose independent human review of the 200-task validation sample made the quality
 assessment of this dataset possible. Their careful judgments on agentic coverage
 are the backbone of its reliability.

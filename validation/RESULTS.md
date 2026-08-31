@@ -82,8 +82,8 @@ python3 validation/compute_validation.py --build <raw_export.json>
 
 ## Scope note
 
-The headline figures are the pooled result of the three annotators (**Maulik Dang,
-Saket Kumar, Shreeya Sharma**), who each independently scored the full 200-task set. A
+The headline figures are the pooled result of the three annotators (**Maulik Dang**
+([@floppymilo](https://github.com/floppymilo)), **Saket Kumar** ([@saki007ster](https://github.com/saki007ster)), **Shreeya Sharma**), who each independently scored the full 200-task set. A
 prior 100-task pilot using a four-rater LLM panel is reported separately in
 [`../results/RESULTS.md`](../results/RESULTS.md); that pilot's inter-rater spread (SD ≈ 0.035)
 is far tighter than the human panel's (0.189), which is a caution about treating LLM-panel
@@ -91,5 +91,5 @@ agreement as evidence of reliability rather than of shared bias.
 
 ## Acknowledgments
 
-We thank **Saket Kumar**, **Maulik Dang**, and **Shreeya Sharma** for their independent
-expert annotation of the validation sample.
+We thank **Saket Kumar** ([@saki007ster](https://github.com/saki007ster)), **Maulik Dang** ([@floppymilo](https://github.com/floppymilo)), and **Shreeya Sharma** for
+their independent expert annotation of the validation sample.
