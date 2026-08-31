@@ -14,7 +14,7 @@ part of the work, and which still require a human throughout.
 > agent do this kind of work, but *how much of this specific task* can it finish
 > unaided.
 
-**Get it:** [🤗 Hugging Face](https://huggingface.co/datasets/ravishgupta/ate-agentic-coverage) · [GitHub source](https://github.com/ravyg/ate-agentic-coverage) · Zenodo (archival DOI) — *TBD, not yet minted*
+**Get it:** [🤗 Hugging Face](https://huggingface.co/datasets/ravishgupta/ate-agentic-coverage) · [GitHub source](https://github.com/ravyg/ate-agentic-coverage) · [Zenodo (archival DOI)](https://doi.org/10.5281/zenodo.22202518)
 
 Load it programmatically from Hugging Face:
 
@@ -162,10 +162,24 @@ Gupta R, Kumar S. Agentic AI and Occupational Displacement: A Multi-Regional Tas
 
 ### Citing the dataset
 
-A dataset-specific citation is defined in [`CITATION.cff`](CITATION.cff). The Zenodo
-archival DOI has **not been minted yet** — this section will be updated with the DOI
-once it is (see `RELEASE.md`). Until then, please cite the GitHub repository and the
-paper above.
+The dataset is archived on Zenodo with a DOI (concept DOI, always resolves to the
+latest version):
+
+**DOI:** [10.5281/zenodo.22202518](https://doi.org/10.5281/zenodo.22202518)
+
+```bibtex
+@misc{gupta2026agenticcoverage,
+  author    = {Gupta, Ravish and Kumar, Saket and Dang, Maulik},
+  title     = {{O*NET} Agentic Coverage Dataset},
+  year      = {2026},
+  publisher = {Zenodo},
+  version   = {1.0.0},
+  doi       = {10.5281/zenodo.22202518},
+  url       = {https://doi.org/10.5281/zenodo.22202518}
+}
+```
+
+See also `CITATION.cff`.
 
 ## Acknowledgements
 
@@ -193,7 +207,7 @@ Every verified contributor is acknowledged by name (or kept anonymous on request
 ## Related
 
 - **Hugging Face:** [ravishgupta/ate-agentic-coverage](https://huggingface.co/datasets/ravishgupta/ate-agentic-coverage) — load with `datasets.load_dataset(...)`.
-- **Zenodo:** archival record + citation DOI — *TBD, not yet minted*.
+- **Zenodo:** [10.5281/zenodo.22202518](https://doi.org/10.5281/zenodo.22202518) — archival record + citation DOI.
 - **Paper:** Gupta & Kumar (2026), *Agentic AI and Occupational Displacement*, arXiv:2604.00186.
 - **O\*NET Task→Ability Mapping Dataset:** [ate-task-ability-dataset](https://github.com/ravyg/ate-task-ability-dataset) — the companion dataset this one builds on.
 - **ATES framework** — the model this dataset was built for *(link on paper release)*.

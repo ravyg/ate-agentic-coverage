@@ -14,6 +14,7 @@ It was built as the empirical base for our Agentic Task Exposure work, but it st
 
 Dataset: https://github.com/ravyg/ate-agentic-coverage
 Hugging Face: https://huggingface.co/datasets/ravishgupta/ate-agentic-coverage
+Archival DOI: https://doi.org/10.5281/zenodo.22202518
 Paper (Agentic Task Exposure): https://arxiv.org/abs/2604.00186
 Validation results and method: https://github.com/ravyg/ate-agentic-coverage/blob/main/validation/RESULTS.md
 Companion task to ability mapping (18,796 tasks, 95,330 rows): https://github.com/ravyg/ate-task-ability-dataset

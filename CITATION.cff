@@ -19,9 +19,12 @@ type: dataset
 version: 1.0.0
 date-released: 2026-08-31
 license: CC-BY-4.0
-# doi: TBD — Zenodo DOI not yet minted. Update this field once RELEASE.md
-#   Phase 4 (mint the Zenodo DOI) is complete.
+doi: 10.5281/zenodo.22202518
 repository-code: "https://github.com/ravyg/ate-agentic-coverage"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22202518"
+    description: "Concept DOI (resolves to the latest version)"
 authors:
   - family-names: Gupta
     given-names: Ravish
