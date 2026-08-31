@@ -50,21 +50,41 @@ var HEADERS = [
  *   ...exec?start=1&end=50      -> hand out a task range (divide and conquer)
  */
 function doGet(e) {
-  // Read-only JSON export of all annotations (does not affect the form path).
-  //   ...exec?export=json
+  // Read-only JSON export of all annotations.
+  //   ...exec?export=json&key=<EXPORT_KEY>
+  // The key lives in Script Properties, never in source. Without it this
+  // endpoint returns nothing: it reads a sheet containing annotator names and
+  // email addresses, so URL secrecy alone is not an acceptable control.
   if (e && e.parameter && e.parameter.export === 'json') {
+    var expected = PropertiesService.getScriptProperties().getProperty('EXPORT_KEY');
+    var provided = e.parameter.key || '';
+    if (!expected || provided !== expected) {
+      return ContentService
+        .createTextOutput(JSON.stringify({ ok: false, error: 'unauthorized' }))
+        .setMimeType(ContentService.MimeType.JSON);
+    }
+    // Personal data is omitted unless explicitly requested by an authorized caller.
+    var includePii = (e.parameter.pii === '1');
     var sh = getResponseSheet_();
     var last = sh.getLastRow();
     var values = (last > 1) ? sh.getRange(2, 1, last - 1, HEADERS.length).getValues() : [];
+    var PII = ['annotator', 'annotator_email'];
+    var outHeaders = HEADERS.filter(function (h) {
+      return includePii || PII.indexOf(h) === -1;
+    });
     var rows = values.map(function (r) {
       var o = {};
       for (var i = 0; i < HEADERS.length; i++) {
+        if (outHeaders.indexOf(HEADERS[i]) === -1) continue;
         o[HEADERS[i]] = (r[i] instanceof Date) ? r[i].toISOString() : r[i];
       }
       return o;
     });
     return ContentService
-      .createTextOutput(JSON.stringify({ ok: true, count: rows.length, headers: HEADERS, rows: rows }))
+      .createTextOutput(JSON.stringify({
+        ok: true, count: rows.length, pii_included: includePii,
+        headers: outHeaders, rows: rows
+      }))
       .setMimeType(ContentService.MimeType.JSON);
   }
 
